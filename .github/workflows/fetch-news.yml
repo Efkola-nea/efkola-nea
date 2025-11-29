@@ -1,0 +1,38 @@
+name: Fetch and simplify news
+
+on:
+  workflow_dispatch:   # να μπορείς να το τρέχεις με το χέρι
+  schedule:
+    - cron: "0 * * * *"   # μία φορά την ώρα
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # για να μπορεί να κάνει commit το news.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install openai rss-parser
+
+      - name: Run fetch script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node fetch-news.mjs
+
+      - name: Commit and push news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update news.json"
+          git push
