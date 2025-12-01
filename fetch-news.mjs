@@ -152,7 +152,7 @@ async function run() {
       const raw = stripHtml(htmlContent);
       if (!raw) continue;
 
-      const textForModel = raw.slice(0, 2000); // μπορείς να το αυξήσεις αν θέλεις πιο πλήρες νόημα
+      const textForModel = raw.slice(0, 6000); // μπορείς να το αυξήσεις αν θέλεις πιο πλήρες νόημα
 
       console.log("Απλοποιώ & ταξινομώ:", title);
       const result = await simplifyAndClassifyText(title, textForModel);
