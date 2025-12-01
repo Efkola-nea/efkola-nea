@@ -44,7 +44,6 @@
       box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
       border: 1px solid #e5e7eb;
       background-color: #f9fafb;
-      overflow: hidden; /* για να μπαίνει μέσα και η εικόνα/βίντεο */
     }
 
     .article-card h2 {
@@ -71,22 +70,33 @@
       font-size: 0.95rem;
     }
 
-    /* ΝΕΟ: περιοχή για εικόνα / βίντεο πάνω από το κείμενο */
-    .article-media {
-      width: 100%;
-      max-height: 260px;
-      overflow: hidden;
-      background: #000;
+    /* ===== Weather widget ===== */
+    .weather-card {
+      border-radius: 18px;
+      border: 1px solid #bfdbfe;
+      background: #eff6ff;
+      box-shadow: 0 2px 6px rgba(37, 99, 235, 0.15);
     }
 
-    .article-media img,
-    .article-media iframe,
-    .article-media video {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-      border: 0;
+    .weather-icon {
+      font-size: 2.6rem;
+      line-height: 1;
+    }
+
+    .weather-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.15rem;
+    }
+
+    .weather-text-main {
+      font-size: 1rem;
+    }
+
+    .weather-text-sub {
+      font-size: 0.95rem;
+      color: #4b5563;
+      margin-top: 0.15rem;
     }
   </style>
 </head>
@@ -108,6 +118,23 @@
 
   <!-- Περιεχόμενο -->
   <main class="container mb-5">
+
+    <!-- 🔆 WEATHER WIDGET ΠΑΝΩ ΑΠΟ ΤΙΣ ΕΙΔΗΣΕΙΣ -->
+    <section class="mb-4">
+      <div class="card weather-card">
+        <div class="card-body d-flex align-items-center gap-3">
+          <div id="weather-icon" class="weather-icon">⛅</div>
+          <div class="flex-grow-1">
+            <div class="weather-title">Ο καιρός σήμερα στην περιοχή σου</div>
+            <div id="weather-text" class="weather-text-main">
+              Φορτώνω τον καιρό…
+            </div>
+            <div id="weather-subtext" class="weather-text-sub"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <p id="status">Φορτώνω τις ειδήσεις…</p>
 
     <div id="news" class="row g-3">
@@ -137,6 +164,188 @@
       window.speechSynthesis.speak(utterance);
     }
 
+    /* ===== ΒΟΗΘΗΤΙΚΕΣ ΣΥΝΑΡΤΗΣΕΙΣ ΚΑΙΡΟΥ (χωρίς νούμερα στον χρήστη) ===== */
+
+    function mapWeatherToIconAndSky(code) {
+      if (code === 0) {
+        return { icon: "☀️", sky: "καθαρός" };
+      }
+      if (code === 1 || code === 2 || code === 3) {
+        return { icon: "⛅", sky: "με λίγα σύννεφα" };
+      }
+      if (code === 45 || code === 48) {
+        return { icon: "🌫️", sky: "με ομίχλη" };
+      }
+      if ([51, 53, 55, 56, 57].includes(code)) {
+        return { icon: "🌦️", sky: "με ψιλή βροχή" };
+      }
+      if ([61, 63, 65, 80, 81, 82].includes(code)) {
+        return { icon: "🌧️", sky: "με βροχή" };
+      }
+      if ([71, 73, 75, 77, 85, 86].includes(code)) {
+        return { icon: "🌨️", sky: "με χιόνι" };
+      }
+      if ([95, 96, 99].includes(code)) {
+        return { icon: "⛈️", sky: "με καταιγίδα" };
+      }
+      return { icon: "🌈", sky: "άγνωστος" };
+    }
+
+    function describeTemperature(temp) {
+      if (typeof temp !== "number" || isNaN(temp)) {
+        return "Δεν ξέρουμε ακριβώς πόσο ζέστη ή κρύο κάνει.";
+      }
+      if (temp <= 5) {
+        return "Κάνει πολύ κρύο.";
+      }
+      if (temp <= 15) {
+        return "Ο καιρός είναι κρύος.";
+      }
+      if (temp <= 25) {
+        return "Ο καιρός είναι ήπιος.";
+      }
+      if (temp <= 32) {
+        return "Ο καιρός είναι ζεστός.";
+      }
+      return "Κάνει πολύ ζέστη.";
+    }
+
+    function describeRain(precip) {
+      if (typeof precip !== "number" || isNaN(precip)) {
+        return "Δεν ξέρουμε αν θα βρέξει.";
+      }
+      if (precip === 0) {
+        return "Τώρα δεν φαίνεται να βρέχει.";
+      }
+      if (precip < 1) {
+        return "Μπορεί να πέσει λίγη βροχή.";
+      }
+      return "Μπορεί να βρέξει δυνατά. Καλό είναι να έχεις μαζί σου ομπρέλα.";
+    }
+
+    // 1️⃣ Προσπάθεια: browser geolocation (με άδεια χρήστη)
+    async function getLocationFromBrowser() {
+      if (!("geolocation" in navigator)) {
+        return null;
+      }
+
+      return new Promise((resolve) => {
+        navigator.geolocation.getCurrentPosition(
+          (pos) => {
+            resolve({
+              lat: pos.coords.latitude,
+              lon: pos.coords.longitude,
+              city: null,
+            });
+          },
+          (err) => {
+            console.warn("Geolocation error:", err);
+            resolve(null);
+          },
+          {
+            enableHighAccuracy: false,
+            timeout: 7000,
+            maximumAge: 10 * 60 * 1000,
+          }
+        );
+      });
+    }
+
+    // 2️⃣ Fallback: IP geolocation
+    async function getLocationFromIp() {
+      try {
+        const res = await fetch("https://ipapi.co/json/");
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+        if (
+          data &&
+          typeof data.latitude === "number" &&
+          typeof data.longitude === "number"
+        ) {
+          return {
+            lat: data.latitude,
+            lon: data.longitude,
+            city: data.city || null,
+          };
+        }
+      } catch (err) {
+        console.error("IP geolocation failed:", err);
+      }
+      return null;
+    }
+
+    // 3️⃣ Τελική επίλυση θέσης χρήστη
+    async function resolveUserLocation() {
+      const browserLoc = await getLocationFromBrowser();
+      if (browserLoc) return browserLoc;
+
+      const ipLoc = await getLocationFromIp();
+      if (ipLoc) return ipLoc;
+
+      // Fallback: Αθήνα
+      return {
+        lat: 37.98,
+        lon: 23.72,
+        city: "Αθήνα",
+      };
+    }
+
+    async function loadWeather() {
+      const iconEl = document.getElementById("weather-icon");
+      const mainEl = document.getElementById("weather-text");
+      const subEl = document.getElementById("weather-subtext");
+
+      try {
+        const loc = await resolveUserLocation();
+
+        const url =
+          "https://api.open-meteo.com/v1/forecast" +
+          "?latitude=" + loc.lat +
+          "&longitude=" + loc.lon +
+          "&current=temperature_2m,apparent_temperature,weather_code,precipitation" +
+          "&timezone=auto";
+
+        const res = await fetch(url);
+        if (!res.ok) {
+          throw new Error("HTTP " + res.status);
+        }
+
+        const data = await res.json();
+        const current = data && data.current;
+        if (!current) {
+          throw new Error("Χωρίς current weather στο API.");
+        }
+
+        const code = current.weather_code;
+        const temp =
+          typeof current.apparent_temperature === "number"
+            ? current.apparent_temperature
+            : current.temperature_2m;
+        const precip = current.precipitation;
+
+        const tempText = describeTemperature(temp);
+        const rainText = describeRain(precip);
+        const { icon, sky } = mapWeatherToIconAndSky(code);
+
+        iconEl.textContent = icon;
+        // Δεν αναφέρουμε νούμερα ή συγκεκριμένη πόλη → "στην περιοχή σου"
+        mainEl.textContent =
+          "Ο καιρός στην περιοχή σου σήμερα. " +
+          tempText +
+          " Ο ουρανός είναι " +
+          sky +
+          ".";
+        subEl.textContent = rainText;
+      } catch (err) {
+        console.error(err);
+        iconEl.textContent = "";
+        mainEl.textContent = "Δεν μπορώ να δείξω τον καιρό αυτή τη στιγμή.";
+        subEl.textContent = "Προσπάθησε ξανά αργότερα.";
+      }
+    }
+
+    /* ===== ΕΙΔΗΣΕΙΣ ===== */
+
     async function loadNews() {
       const statusEl = document.getElementById("status");
       const container = document.getElementById("news");
@@ -165,42 +374,6 @@
           const card = document.createElement("div");
           card.className = "card article-card";
 
-          /* ΝΕΟ: media section (βίντεο ή εικόνα) */
-          const hasVideo = a.videoUrl && typeof a.videoUrl === "string" && a.videoUrl.trim() !== "";
-          const hasImage = a.imageUrl && typeof a.imageUrl === "string" && a.imageUrl.trim() !== "";
-
-          if (hasVideo || hasImage) {
-            const mediaWrapper = document.createElement("div");
-            mediaWrapper.className = "article-media";
-
-            if (hasVideo) {
-              const isYoutube = /youtube\.com|youtu\.be/.test(a.videoUrl);
-
-              if (isYoutube) {
-                const iframe = document.createElement("iframe");
-                iframe.src = a.videoUrl;
-                iframe.allow =
-                  "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
-                iframe.allowFullscreen = true;
-                mediaWrapper.appendChild(iframe);
-              } else {
-                const videoEl = document.createElement("video");
-                videoEl.src = a.videoUrl;
-                videoEl.controls = true;
-                videoEl.playsInline = true;
-                mediaWrapper.appendChild(videoEl);
-              }
-            } else if (hasImage) {
-              const img = document.createElement("img");
-              img.src = a.imageUrl;
-              img.alt = a.title || "Εικόνα άρθρου";
-              img.loading = "lazy";
-              mediaWrapper.appendChild(img);
-            }
-
-            card.appendChild(mediaWrapper);
-          }
-
           const cardBody = document.createElement("div");
           cardBody.className = "card-body";
 
@@ -214,7 +387,8 @@
           textP.innerHTML = cleaned.replace(/\n/g, "<br/>");
 
           const footer = document.createElement("div");
-          footer.className = "d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mt-3";
+          footer.className =
+            "d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mt-3";
 
           const sourceName = a.sourceName || "Πηγή";
           const sourceUrl = a.sourceUrl || "#";
@@ -254,7 +428,11 @@
       }
     }
 
+    // Φόρτωση καιρού + ειδήσεων
+    loadWeather();
     loadNews();
   </script>
 </body>
 </html>
+
+
