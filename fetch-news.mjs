@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import Parser from "rss-parser";
 import OpenAI from "openai";
+import { NEWS_SIMPLIFY_INSTRUCTIONS } from "./newsLlmInstructions.js";
 
 // Χρησιμοποιούμε το κλειδί από τα GitHub Secrets
 const client = new OpenAI({
@@ -42,7 +43,8 @@ function extractImageUrl(item, html = "") {
       const type = m?.$?.type || "";
       if (
         url &&
-        (medium.toLowerCase() === "image" || (type && type.startsWith("image/")))
+        (medium.toLowerCase() === "image" ||
+          (type && type.startsWith("image/")))
       ) {
         return url;
       }
@@ -92,21 +94,14 @@ function extractVideoUrl(item, html = "") {
 
 // Κλήση στο AI για απλοποίηση + κατηγοριοποίηση
 async function simplifyAndClassifyText(title, text) {
-  const input = `Τίτλος: ${title}\n\nΚείμενο:\n${text}\n\n---\n\n` +
-    "1) Ξαναγράψε το κείμενο σε πολύ απλά ελληνικά, σαν να μιλάς σε άτομο με ήπια νοητική υστέρηση.\n" +
-    "2) Μετά, αποφάσισε κατηγορία και αν είναι «βαριά» είδηση.\n";
+  // Το input περιέχει μόνο τα δεδομένα του άρθρου
+  const input =
+    `Τίτλος άρθρου:\n${title}\n\n` +
+    `Κείμενο άρθρου (προς απλοποίηση):\n${text}\n`;
 
   const response = await client.responses.create({
     model: "gpt-4o-mini",
-    instructions:
-      "Γράφεις πολύ απλά ελληνικά για άτομα με νοητική υστέρηση.\n" +
-      "Πρέπει να παράγεις ΜΟΝΟ ένα έγκυρο JSON αντικείμενο, χωρίς άλλο κείμενο γύρω του.\n" +
-      "Το JSON να έχει τα πεδία:\n" +
-      "- simplifiedText: string (το κείμενο σε απλή μορφή, μέχρι 10–12 σύντομες προτάσεις)\n" +
-      '- category: μία από: "greece", "world", "politics", "economy", "society", "sports", "culture", "other"\n' +
-      "- isSensitive: true ή false.\n" +
-      "Βάλε isSensitive = true αν το άρθρο μιλά κυρίως για πόλεμο, εγκλήματα, βία, σοβαρά ατυχήματα, θανάτους ή σεξουαλική κακοποίηση.\n" +
-      "Μην χρησιμοποιείς markdown, μην γράφεις τίποτα έξω από το JSON.",
+    instructions: NEWS_SIMPLIFY_INSTRUCTIONS,
     input,
   });
 
@@ -119,7 +114,10 @@ async function simplifyAndClassifyText(title, text) {
       isSensitive: Boolean(parsed.isSensitive),
     };
   } catch (err) {
-    console.error("JSON parse error από το μοντέλο, fallback σε απλό κείμενο:", err);
+    console.error(
+      "JSON parse error από το μοντέλο, fallback σε απλό κείμενο:",
+      err
+    );
     // Fallback: όλο το κείμενο ως simplifiedText, non-sensitive, other
     return {
       simplifiedText: textOut,
@@ -154,7 +152,7 @@ async function run() {
       const raw = stripHtml(htmlContent);
       if (!raw) continue;
 
-      const textForModel = raw.slice(0, 2000);
+      const textForModel = raw.slice(0, 2000); // μπορείς να το αυξήσεις αν θέλεις πιο πλήρες νόημα
 
       console.log("Απλοποιώ & ταξινομώ:", title);
       const result = await simplifyAndClassifyText(title, textForModel);
