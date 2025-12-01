@@ -9,13 +9,45 @@ const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-// RSS feeds που θα διαβάζουμε (βάζουμε 1 για αρχή)
+// ✅ Εσωτερικές κατηγορίες που θα υποστηρίζουμε
+// Αυτές οι τιμές πρέπει να χρησιμοποιούνται και στο NEWS_SIMPLIFY_INSTRUCTIONS
+export const CATEGORY_KEYS = [
+  "serious",   // Σοβαρές ειδήσεις (οικονομία, πολιτική, σοβαρά κοινωνικά)
+  "sports",    // Αθλητισμός
+  "movies",    // Ταινίες
+  "music",     // Μουσική
+  "theatre",   // Θέατρο
+  "series",    // Σειρές
+  "fun",       // Διασκέδαση (bars, βόλτες, nightlife, εστιατόρια κτλ.)
+  "other",     // Ό,τι δεν ταιριάζει αλλού
+];
+
+// RSS feeds που θα διαβάζουμε
+// Προς το παρόν μόνο ERT, αλλά εδώ θα προσθέτεις και άλλα.
+// Δεν τους δίνω category εδώ, γιατί η κατηγοριοποίηση γίνεται από το LLM.
 const FEEDS = [
   {
-    url: "https://www.ertnews.gr/feed", // αργότερα μπορούμε να προσθέσουμε κι άλλα
+    url: "https://www.ertnews.gr/feed",
     sourceName: "ERT News",
   },
+  // π.χ. αργότερα:
+  // { url: "https://www.athinorama.gr/feed", sourceName: "Athinorama" },
+  // { url: "https://www.culturenow.gr/feed", sourceName: "CultureNow" },
 ];
+
+// 🔹 Πηγές με πιο "ελαστικό" copyright (open data)
+// Εδώ ΔΕΝ τις καλώ ακόμη, απλά τις δηλώνω για να ξέρεις πού θα μπουν
+// - TMDB: ταινίες/σειρές (με attribution & περιορισμούς για εμπορική χρήση)
+// - MusicBrainz: μουσικά metadata (CC0, πολύ ελαστικό)
+// - SearchCulture / Europeana: πολιτιστικό περιεχόμενο με CC0/CC BY κτλ.
+const OPEN_DATA_SOURCES = {
+  moviesAndSeries: "TMDB",
+  music: "MusicBrainz",
+  cultureGR: "SearchCulture.gr",
+  cultureEU: "Europeana",
+  // TODO: σε επόμενο βήμα μπορούμε να γράψουμε εδώ functions π.χ.
+  // fetchTmdbTrending(), fetchMusicBrainzNewReleases(), fetchSearchCultureItems() κ.λπ.
+};
 
 // Ρυθμίζουμε το parser να κρατά και extra πεδία για εικόνες/HTML
 const parser = new Parser({
@@ -51,12 +83,11 @@ function extractImageUrl(item, html = "") {
   if (Array.isArray(item.mediaContent)) {
     for (const m of item.mediaContent) {
       const url = m?.$?.url || m?.url;
-      const medium = m?.$?.medium || "";
+      const medium = (m?.$?.medium || "").toLowerCase();
       const type = m?.$?.type || "";
       if (
         url &&
-        (medium.toLowerCase() === "image" ||
-          (type && type.startsWith("image/")))
+        (medium === "image" || (type && type.startsWith("image/")))
       ) {
         return url;
       }
@@ -104,9 +135,89 @@ function extractVideoUrl(item, html = "") {
   return null;
 }
 
+// 🚩 Κανονικοποίηση κατηγορίας από το LLM
+function normalizeCategory(rawCategory) {
+  if (!rawCategory) return "other";
+  const c = rawCategory.toString().toLowerCase().trim();
+
+  // Σοβαρές ειδήσεις
+  if (
+    [
+      "serious",
+      "serious_news",
+      "σοβαρες ειδησεις",
+      "σοβαρές ειδήσεις",
+      "politics",
+      "economy",
+      "πολιτικη",
+      "πολιτική",
+      "οικονομια",
+      "οικονομία",
+    ].includes(c)
+  ) {
+    return "serious";
+  }
+
+  // Αθλητισμός
+  if (
+    ["sports", "sport", "αθλητισμος", "αθλητισμός"].includes(c)
+  ) {
+    return "sports";
+  }
+
+  // Ταινίες
+  if (
+    ["movies", "movie", "ταινιες", "ταινίες", "cinema", "σινεμα", "σινεμά"].includes(
+      c
+    )
+  ) {
+    return "movies";
+  }
+
+  // Μουσική
+  if (
+    ["music", "μουσικη", "μουσική"].includes(c)
+  ) {
+    return "music";
+  }
+
+  // Θέατρο
+  if (
+    ["theatre", "theater", "θεατρο", "θέατρο"].includes(c)
+  ) {
+    return "theatre";
+  }
+
+  // Σειρές
+  if (
+    ["series", "tv", "σειρες", "σειρές"].includes(c)
+  ) {
+    return "series";
+  }
+
+  // Διασκέδαση (fun)
+  if (
+    [
+      "fun",
+      "entertainment",
+      "διασκεδαση",
+      "διασκέδαση",
+      "ψυχαγωγια",
+      "ψυχαγωγία",
+      "nightlife",
+      "bars",
+      "εξοδοι",
+      "έξοδοι",
+    ].includes(c)
+  ) {
+    return "fun";
+  }
+
+  return "other";
+}
+
 // Κλήση στο AI για απλοποίηση + κατηγοριοποίηση + παραφρασμένο τίτλο
 async function simplifyAndClassifyText(title, text) {
-  // Το input περιέχει μόνο τα δεδομένα του άρθρου
   const input =
     `Τίτλος άρθρου:\n${title}\n\n` +
     `Κείμενο άρθρου (προς απλοποίηση):\n${text}\n`;
@@ -125,8 +236,8 @@ async function simplifyAndClassifyText(title, text) {
       simplifiedTitle:
         parsed.simplifiedTitle ||
         parsed.simpleTitle ||
-        "", // διάφορα πιθανά ονόματα για ασφάλεια
-      category: parsed.category || "other",
+        "",
+      rawCategory: parsed.category || "other",
       isSensitive: Boolean(parsed.isSensitive),
     };
   } catch (err) {
@@ -134,31 +245,91 @@ async function simplifyAndClassifyText(title, text) {
       "JSON parse error από το μοντέλο, fallback σε απλό κείμενο:",
       err
     );
-    // Fallback: όλο το κείμενο ως simplifiedText, non-sensitive, other
     return {
       simplifiedText: textOut,
       simplifiedTitle: "",
-      category: "other",
+      rawCategory: "other",
       isSensitive: false,
     };
   }
 }
 
+// helper: είναι η είδηση μέσα στο τελευταίο 24ωρο;
+function isWithinLast24Hours(date, now = new Date()) {
+  const diffMs = now.getTime() - date.getTime();
+  const oneDayMs = 24 * 60 * 60 * 1000;
+  return diffMs >= 0 && diffMs <= oneDayMs;
+}
+
+// 💡 επιλέγουμε μέχρι 6 άρθρα ανά κατηγορία για "ειδήσεις της ημέρας"
+function buildArticlesByCategory(allArticles) {
+  const now = new Date();
+
+  /** @type {Record<string, any[]>} */
+  const byCategory = {};
+  for (const key of CATEGORY_KEYS) {
+    byCategory[key] = [];
+  }
+
+  for (const article of allArticles) {
+    const cat = article.category || "other";
+    if (!byCategory[cat]) {
+      byCategory["other"].push(article);
+    } else {
+      byCategory[cat].push(article);
+    }
+  }
+
+  const result = {};
+
+  for (const key of CATEGORY_KEYS) {
+    const items = byCategory[key] || [];
+
+    // Ταξινόμηση από το πιο πρόσφατο στο πιο παλιό
+    items.sort((a, b) => {
+      const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+      const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+      return db - da;
+    });
+
+    // Πρώτα ειδήσεις τελευταίου 24ώρου
+    const todayItems = items.filter((i) =>
+      isWithinLast24Hours(new Date(i.publishedAt || now), now)
+    );
+
+    let selected = todayItems.slice(0, 6);
+
+    // Αν δεν φτάνουν οι "τελείως σημερινές", συμπληρώνουμε από τις πιο παλιές
+    if (selected.length < 6) {
+      const remaining = items.filter((i) => !todayItems.includes(i));
+      selected = selected.concat(remaining.slice(0, 6 - selected.length));
+    }
+
+    result[key] = selected;
+  }
+
+  return result;
+}
+
 async function run() {
-  const articles = [];
+  const allArticles = [];
 
   for (const feed of FEEDS) {
     console.log("Διαβάζω feed:", feed.url);
-    const rss = await parser.parseURL(feed.url);
+    let rss;
+    try {
+      rss = await parser.parseURL(feed.url);
+    } catch (err) {
+      console.error("Σφάλμα στο feed", feed.url, err);
+      continue;
+    }
 
-    // Παίρνουμε π.χ. τις 5 πιο πρόσφατες ειδήσεις
-    const items = (rss.items || []).slice(0, 5);
+    const items = (rss.items || []).slice(0, 30); // παίρνουμε αρκετές για να έχουμε 6/κατηγορία συνολικά
 
     for (const item of items) {
       const title = item.title || "";
       const link = item.link || "";
 
-      // HTML για εικόνες/βίντεο + κείμενο
       const htmlContent =
         item.contentEncoded ||
         item.content ||
@@ -166,17 +337,18 @@ async function run() {
         item.contentSnippet ||
         "";
 
-      const raw = stripHtml(htmlContent);
-      if (!raw) continue;
+      const rawText = stripHtml(htmlContent);
+      if (!rawText) continue;
 
-      const textForModel = raw.slice(0, 6000); // μπορείς να το αυξήσεις αν θέλεις πιο πλήρες νόημα
+      // Μικρό όριο για το input προς το μοντέλο
+      const textForModel = rawText.slice(0, 6000);
 
       console.log("Απλοποιώ & ταξινομώ:", title);
       const result = await simplifyAndClassifyText(title, textForModel);
 
       if (!result || !result.simplifiedText) continue;
 
-      // 🔴 Φιλτράρουμε «βαριές» ειδήσεις (πόλεμοι, εγκλήματα, βία, θάνατοι)
+      // Φιλτράρουμε ευαίσθητες ειδήσεις
       if (result.isSensitive) {
         console.log("Παραλείπω ευαίσθητη είδηση:", title);
         continue;
@@ -186,34 +358,54 @@ async function run() {
       const videoUrl = extractVideoUrl(item, htmlContent);
       const id = makeArticleId(feed.url, item);
 
-      articles.push({
+      const publishedAt =
+        (item.isoDate && new Date(item.isoDate)) ||
+        (item.pubDate && new Date(item.pubDate)) ||
+        new Date();
+
+      const categoryKey = normalizeCategory(result.rawCategory);
+
+      allArticles.push({
         id,
         title, // αρχικός τίτλος
-        simpleTitle: result.simplifiedTitle || title, // παραφρασμένος τίτλος για την κάρτα
-        simpleText: result.simplifiedText, // παραφρασμένο άρθρο
+        simpleTitle: result.simplifiedTitle || title,
+        simpleText: result.simplifiedText,
         sourceUrl: link,
         sourceName: feed.sourceName,
-        category: result.category || "other",
-        isSensitive: false, // αφού τις φιλτράρουμε, ό,τι μένει το θεωρούμε ασφαλές
+        category: categoryKey, // ✅ μία από τις CATEGORY_KEYS
+        isSensitive: false,
         imageUrl: imageUrl || null,
         videoUrl: videoUrl || null,
+        publishedAt: publishedAt.toISOString(),
       });
     }
   }
 
+  // TODO: σε επόμενο βήμα:
+  // const openDataArticles = await fetchOpenDataArticlesFromTMDBEtc();
+  // allArticles.push(...openDataArticles);
+
+  // ✅ Φτιάχνουμε αντικείμενο με μέχρι 6 άρθρα ανά κατηγορία
+  const articlesByCategory = buildArticlesByCategory(allArticles);
+
   const payload = {
     generatedAt: new Date().toISOString(),
-    articles,
+    // flat λίστα όλων των άρθρων (αν θες για ιστορικό)
+    articles: allArticles,
+    // και οργανωμένα ανά κατηγορία για την αρχική οθόνη / "ειδήσεις της ημέρας"
+    articlesByCategory,
   };
 
   await fs.writeFile("news.json", JSON.stringify(payload, null, 2), "utf8");
-  console.log("Έγραψα news.json με", articles.length, "άρθρα");
+  console.log(
+    "Έγραψα news.json με",
+    allArticles.length,
+    "άρθρα συνολικά. Ανά κατηγορία:",
+    Object.fromEntries(
+      Object.entries(articlesByCategory).map(([k, v]) => [k, v.length])
+    )
+  );
 }
-
-run().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
 
 run().catch((err) => {
   console.error(err);
