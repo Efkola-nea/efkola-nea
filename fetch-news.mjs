@@ -15,7 +15,7 @@ const FEEDS = [
   },
 ];
 
-// Ρυθμίζουμε το parser να κρατά και κάποια extra πεδία για εικόνες/HTML
+// Ρυθμίζουμε το parser να κρατά και extra πεδία για εικόνες/HTML
 const parser = new Parser({
   customFields: {
     item: [
@@ -79,7 +79,6 @@ function extractVideoUrl(item, html = "") {
     return enclosure.url;
   }
 
-  // iframe (π.χ. embedded player, YouTube κλπ.)
   if (html) {
     const iframeMatch = html.match(/<iframe[^>]+src=["']([^"']+)["']/i);
     if (iframeMatch) return iframeMatch[1];
@@ -91,23 +90,43 @@ function extractVideoUrl(item, html = "") {
   return null;
 }
 
-// Κλήση στο AI για απλοποίηση κειμένου
-async function simplifyText(title, text) {
-  const input = `Τίτλος: ${title}\n\nΚείμενο:\n${text}`;
+// Κλήση στο AI για απλοποίηση + κατηγοριοποίηση
+async function simplifyAndClassifyText(title, text) {
+  const input = `Τίτλος: ${title}\n\nΚείμενο:\n${text}\n\n---\n\n` +
+    "1) Ξαναγράψε το κείμενο σε πολύ απλά ελληνικά, σαν να μιλάς σε άτομο με ήπια νοητική υστέρηση.\n" +
+    "2) Μετά, αποφάσισε κατηγορία και αν είναι «βαριά» είδηση.\n";
 
   const response = await client.responses.create({
     model: "gpt-4o-mini",
     instructions:
-      "Είσαι δημοσιογράφος που γράφει πολύ απλά ελληνικά για άτομα με νοητική υστέρηση. " +
-      "Ξαναγράψε το κείμενο με: " +
-      "1) πολύ απλές, σύντομες προτάσεις, " +
-      "2) χωρίς δύσκολες λέξεις αν γίνεται, " +
-      "3) εξήγηση των δύσκολων εννοιών με απλά παραδείγματα, " +
-      "4) συνολικό μήκος έως περίπου 10-12 προτάσεις.",
+      "Γράφεις πολύ απλά ελληνικά για άτομα με νοητική υστέρηση.\n" +
+      "Πρέπει να παράγεις ΜΟΝΟ ένα έγκυρο JSON αντικείμενο, χωρίς άλλο κείμενο γύρω του.\n" +
+      "Το JSON να έχει τα πεδία:\n" +
+      "- simplifiedText: string (το κείμενο σε απλή μορφή, μέχρι 10–12 σύντομες προτάσεις)\n" +
+      '- category: μία από: "greece", "world", "politics", "economy", "society", "sports", "culture", "other"\n' +
+      "- isSensitive: true ή false.\n" +
+      "Βάλε isSensitive = true αν το άρθρο μιλά κυρίως για πόλεμο, εγκλήματα, βία, σοβαρά ατυχήματα, θανάτους ή σεξουαλική κακοποίηση.\n" +
+      "Μην χρησιμοποιείς markdown, μην γράφεις τίποτα έξω από το JSON.",
     input,
   });
 
-  return response.output_text;
+  const textOut = response.output_text;
+  try {
+    const parsed = JSON.parse(textOut);
+    return {
+      simplifiedText: parsed.simplifiedText || "",
+      category: parsed.category || "other",
+      isSensitive: Boolean(parsed.isSensitive),
+    };
+  } catch (err) {
+    console.error("JSON parse error από το μοντέλο, fallback σε απλό κείμενο:", err);
+    // Fallback: όλο το κείμενο ως simplifiedText, non-sensitive, other
+    return {
+      simplifiedText: textOut,
+      category: "other",
+      isSensitive: false,
+    };
+  }
 }
 
 async function run() {
@@ -124,7 +143,7 @@ async function run() {
       const title = item.title || "";
       const link = item.link || "";
 
-      // Κρατάμε HTML (για εικόνες/βίντεο) και ταυτόχρονα βγάζουμε απλό κείμενο
+      // HTML για εικόνες/βίντεο + κείμενο
       const htmlContent =
         item.contentEncoded ||
         item.content ||
@@ -133,25 +152,31 @@ async function run() {
         "";
 
       const raw = stripHtml(htmlContent);
-
       if (!raw) continue;
 
-      // Κόβουμε το κείμενο για να μην είναι τεράστιο (λιγότερο κόστος)
       const textForModel = raw.slice(0, 2000);
 
-      console.log("Απλοποιώ:", title);
-      const simple = await simplifyText(title, textForModel);
+      console.log("Απλοποιώ & ταξινομώ:", title);
+      const result = await simplifyAndClassifyText(title, textForModel);
 
-      if (!simple) continue;
+      if (!result || !result.simplifiedText) continue;
+
+      // 🔴 Φιλτράρουμε «βαριές» ειδήσεις (πόλεμοι, εγκλήματα, βία, θάνατοι)
+      if (result.isSensitive) {
+        console.log("Παραλείπω ευαίσθητη είδηση:", title);
+        continue;
+      }
 
       const imageUrl = extractImageUrl(item, htmlContent);
       const videoUrl = extractVideoUrl(item, htmlContent);
 
       articles.push({
         title,
-        simpleText: simple,
+        simpleText: result.simplifiedText,
         sourceUrl: link,
         sourceName: feed.sourceName,
+        category: result.category || "other",
+        isSensitive: false, // αφού τις φιλτράρουμε, ό,τι μένει το θεωρούμε ασφαλές
         imageUrl: imageUrl || null,
         videoUrl: videoUrl || null,
       });
@@ -171,4 +196,3 @@ run().catch((err) => {
   console.error(err);
   process.exit(1);
 });
-
