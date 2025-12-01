@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import Parser from "rss-parser";
 import OpenAI from "openai";
+import crypto from "crypto";
 import { NEWS_SIMPLIFY_INSTRUCTIONS } from "./newsLlmInstructions.js";
 
 // Χρησιμοποιούμε το κλειδί από τα GitHub Secrets
@@ -31,6 +32,17 @@ const parser = new Parser({
 function stripHtml(html) {
   if (!html) return "";
   return html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+}
+
+// Σταθερό id άρθρου με βάση guid/link κτλ.
+function makeArticleId(feedUrl, item) {
+  const base =
+    item.guid ||
+    item.id ||
+    item.link ||
+    `${feedUrl}:${item.title || ""}:${item.pubDate || ""}`;
+
+  return crypto.createHash("sha1").update(base).digest("hex").slice(0, 12);
 }
 
 // Προσπαθούμε να βρούμε μια εικόνα από το item ή το HTML
@@ -92,7 +104,7 @@ function extractVideoUrl(item, html = "") {
   return null;
 }
 
-// Κλήση στο AI για απλοποίηση + κατηγοριοποίηση
+// Κλήση στο AI για απλοποίηση + κατηγοριοποίηση + παραφρασμένο τίτλο
 async function simplifyAndClassifyText(title, text) {
   // Το input περιέχει μόνο τα δεδομένα του άρθρου
   const input =
@@ -110,6 +122,10 @@ async function simplifyAndClassifyText(title, text) {
     const parsed = JSON.parse(textOut);
     return {
       simplifiedText: parsed.simplifiedText || "",
+      simplifiedTitle:
+        parsed.simplifiedTitle ||
+        parsed.simpleTitle ||
+        "", // διάφορα πιθανά ονόματα για ασφάλεια
       category: parsed.category || "other",
       isSensitive: Boolean(parsed.isSensitive),
     };
@@ -121,6 +137,7 @@ async function simplifyAndClassifyText(title, text) {
     // Fallback: όλο το κείμενο ως simplifiedText, non-sensitive, other
     return {
       simplifiedText: textOut,
+      simplifiedTitle: "",
       category: "other",
       isSensitive: false,
     };
@@ -167,10 +184,13 @@ async function run() {
 
       const imageUrl = extractImageUrl(item, htmlContent);
       const videoUrl = extractVideoUrl(item, htmlContent);
+      const id = makeArticleId(feed.url, item);
 
       articles.push({
-        title,
-        simpleText: result.simplifiedText,
+        id,
+        title, // αρχικός τίτλος
+        simpleTitle: result.simplifiedTitle || title, // παραφρασμένος τίτλος για την κάρτα
+        simpleText: result.simplifiedText, // παραφρασμένο άρθρο
         sourceUrl: link,
         sourceName: feed.sourceName,
         category: result.category || "other",
@@ -189,6 +209,11 @@ async function run() {
   await fs.writeFile("news.json", JSON.stringify(payload, null, 2), "utf8");
   console.log("Έγραψα news.json με", articles.length, "άρθρα");
 }
+
+run().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
 
 run().catch((err) => {
   console.error(err);
