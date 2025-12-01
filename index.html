@@ -136,6 +136,61 @@
       </div>
     </section>
 
+    <!-- Κουμπιά κατηγοριών -->
+    <section class="mb-3">
+      <div id="category-filters" class="d-flex flex-wrap gap-2">
+        <button
+          type="button"
+          class="btn btn-sm btn-primary category-btn"
+          data-category="all"
+        >
+          Όλες οι ειδήσεις
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="greece"
+        >
+          Ελλάδα
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="world"
+        >
+          Κόσμος
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="politics"
+        >
+          Πολιτική
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="economy"
+        >
+          Οικονομία
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="society"
+        >
+          Κοινωνία
+        </button>
+        <button
+          type="button"
+          class="btn btn-sm btn-outline-primary category-btn"
+          data-category="sports"
+        >
+          Αθλητισμός
+        </button>
+      </div>
+    </section>
+
     <p id="status">Φορτώνω τις ειδήσεις…</p>
 
     <div id="news" class="row g-3">
@@ -146,9 +201,10 @@
   <!-- 👇 εξωτερικό αρχείο για το widget καιρού -->
   <script src="weather-widget.js"></script>
 
-  <!-- 👇 λογική μόνο για τις ειδήσεις -->
+  <!-- 👇 λογική μόνο για τις ειδήσεις + κατηγορίες -->
   <script>
     let globalArticles = [];
+    let activeCategory = "all";
 
     function cleanMarkdown(text) {
       if (!text) return "";
@@ -169,9 +225,85 @@
       window.speechSynthesis.speak(utterance);
     }
 
+    function renderArticles() {
+      const container = document.getElementById("news");
+      const statusEl = document.getElementById("status");
+      container.innerHTML = "";
+
+      const filtered = globalArticles.filter((a) => {
+        // extra safety: αν για κάποιο λόγο έρθει isSensitive=true από backend, δεν το δείχνουμε
+        if (a.isSensitive) return false;
+
+        if (activeCategory === "all") return true;
+        const cat = (a.category || "other").toLowerCase();
+        return cat === activeCategory.toLowerCase();
+      });
+
+      if (!filtered.length) {
+        statusEl.textContent = "Δεν υπάρχουν ειδήσεις σε αυτή την κατηγορία.";
+        return;
+      } else {
+        statusEl.textContent = "";
+      }
+
+      filtered.forEach((a, index) => {
+        const col = document.createElement("div");
+        col.className = "col-12";
+
+        const card = document.createElement("div");
+        card.className = "card article-card";
+
+        const cardBody = document.createElement("div");
+        cardBody.className = "card-body";
+
+        const title = document.createElement("h2");
+        title.className = "card-title mb-2";
+        title.textContent = a.title || "";
+
+        const textP = document.createElement("p");
+        textP.className = "card-text article-text";
+        const cleaned = cleanMarkdown(a.simpleText || "");
+        textP.innerHTML = cleaned.replace(/\n/g, "<br/>");
+
+        const footer = document.createElement("div");
+        footer.className =
+          "d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mt-3";
+
+        const sourceName = a.sourceName || "Πηγή";
+        const sourceUrl = a.sourceUrl || "#";
+
+        const sourceEl = document.createElement("p");
+        sourceEl.className = "source mb-0";
+        sourceEl.innerHTML =
+          'Πηγή: <a href="' +
+          sourceUrl +
+          '" target="_blank" rel="noopener noreferrer">' +
+          sourceName +
+          "</a>";
+
+        const listenBtn = document.createElement("button");
+        listenBtn.type = "button";
+        listenBtn.className = "btn btn-sm btn-primary btn-listen";
+        listenBtn.textContent = "Άκου την είδηση";
+        listenBtn.onclick = () => {
+          const toRead = (a.title || "") + ". " + cleaned;
+          speak(toRead);
+        };
+
+        footer.appendChild(sourceEl);
+        footer.appendChild(listenBtn);
+
+        cardBody.appendChild(title);
+        cardBody.appendChild(textP);
+        cardBody.appendChild(footer);
+        card.appendChild(cardBody);
+        col.appendChild(card);
+        container.appendChild(col);
+      });
+    }
+
     async function loadNews() {
       const statusEl = document.getElementById("status");
-      const container = document.getElementById("news");
 
       try {
         const res = await fetch("news.json?cachebust=" + Date.now());
@@ -188,62 +320,7 @@
           return;
         }
 
-        statusEl.textContent = "";
-
-        articles.forEach((a, index) => {
-          const col = document.createElement("div");
-          col.className = "col-12";
-
-          const card = document.createElement("div");
-          card.className = "card article-card";
-
-          const cardBody = document.createElement("div");
-          cardBody.className = "card-body";
-
-          const title = document.createElement("h2");
-          title.className = "card-title mb-2";
-          title.textContent = a.title || "";
-
-          const textP = document.createElement("p");
-          textP.className = "card-text article-text";
-          const cleaned = cleanMarkdown(a.simpleText || "");
-          textP.innerHTML = cleaned.replace(/\n/g, "<br/>");
-
-          const footer = document.createElement("div");
-          footer.className =
-            "d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mt-3";
-
-          const sourceName = a.sourceName || "Πηγή";
-          const sourceUrl = a.sourceUrl || "#";
-
-          const sourceEl = document.createElement("p");
-          sourceEl.className = "source mb-0";
-          sourceEl.innerHTML =
-            'Πηγή: <a href="' +
-            sourceUrl +
-            '" target="_blank" rel="noopener noreferrer">' +
-            sourceName +
-            "</a>";
-
-          const listenBtn = document.createElement("button");
-          listenBtn.type = "button";
-          listenBtn.className = "btn btn-sm btn-primary btn-listen";
-          listenBtn.textContent = "Άκου την είδηση";
-          listenBtn.onclick = () => {
-            const toRead = (a.title || "") + ". " + cleaned;
-            speak(toRead);
-          };
-
-          footer.appendChild(sourceEl);
-          footer.appendChild(listenBtn);
-
-          cardBody.appendChild(title);
-          cardBody.appendChild(textP);
-          cardBody.appendChild(footer);
-          card.appendChild(cardBody);
-          col.appendChild(card);
-          container.appendChild(col);
-        });
+        renderArticles();
       } catch (err) {
         console.error(err);
         statusEl.textContent =
@@ -251,11 +328,33 @@
       }
     }
 
-    // Εκκίνηση: καιρός + ειδήσεις
-    loadNews();
-    if (window.initWeatherWidget) {
-      window.initWeatherWidget();
+    function initCategoryFilters() {
+      const buttons = document.querySelectorAll(".category-btn");
+
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          buttons.forEach((b) => {
+            b.classList.remove("btn-primary", "active");
+            b.classList.add("btn-outline-primary");
+          });
+
+          btn.classList.remove("btn-outline-primary");
+          btn.classList.add("btn-primary", "active");
+
+          activeCategory = btn.dataset.category || "all";
+          renderArticles();
+        });
+      });
     }
+
+    // Εκκίνηση: περιμένουμε να φορτώσει το DOM
+    document.addEventListener("DOMContentLoaded", () => {
+      loadNews();
+      initCategoryFilters();
+      if (window.initWeatherWidget) {
+        window.initWeatherWidget();
+      }
+    });
   </script>
 </body>
 </html>
