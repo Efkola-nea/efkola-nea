@@ -22,6 +22,9 @@ export const CATEGORY_KEYS = [
   "other",     // Ό,τι δεν ταιριάζει αλλού
 ];
 
+// 👉 Θα γράφουμε το news.json δίπλα στο αρχείο αυτό
+const NEWS_JSON_PATH = new URL("./news.json", import.meta.url);
+
 // RSS feeds που θα διαβάζουμε
 // ⚠️ Πολλά από τα παρακάτω sites περιορίζουν τη χρήση (συχνά «μόνο για προσωπική χρήση»).
 // Εδώ τα βάζουμε τεχνικά για να δουλεύει το pipeline· για δημόσια/εμπορική χρήση
@@ -271,7 +274,6 @@ const TITLE_STOPWORDS = new Set([
   "απο",
   "επί",
   "εις",
-  "των",
   "των",
   "στοιχεία",
   "έκτακτο",
@@ -668,7 +670,7 @@ async function run() {
     articlesByCategory,
   };
 
-  await fs.writeFile("news.json", JSON.stringify(payload, null, 2), "utf8");
+  await fs.writeFile(NEWS_JSON_PATH, JSON.stringify(payload, null, 2), "utf8");
   console.log(
     "Έγραψα news.json με",
     allArticles.length,
@@ -683,3 +685,4 @@ run().catch((err) => {
   console.error(err);
   process.exit(1);
 });
+
