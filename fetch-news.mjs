@@ -369,28 +369,69 @@ function buildArticlesByCategory(allArticles) {
   return result;
 }
 
-// 🧱 Ομαδοποίηση raw άρθρων σε "θέματα" με βάση τον τίτλο
+// 🧱 Ομαδοποίηση raw άρθρων σε "θέματα" με βάση ΟΜΟΙΟΤΗΤΑ τίτλου
 function groupArticlesByTopic(rawArticles) {
-  const groupsByKey = new Map();
+  const groups = [];
 
-  for (const article of rawArticles) {
-    const normTitle = normalizeTitleForGrouping(article.title);
-    const key = normTitle || article.id; // fallback: μοναδικό id αν δεν υπάρχει τίτλος
-
-    let group = groupsByKey.get(key);
-    if (!group) {
-      group = {
-        key,
-        articles: [],
-      };
-      groupsByKey.set(key, group);
-    }
-    group.articles.push(article);
+  // Παίρνουμε σύνολο "σημαντικών" λέξεων από τον τίτλο
+  function getTitleWordSet(title) {
+    const norm = normalizeTitleForGrouping(title);
+    if (!norm) return new Set();
+    return new Set(
+      norm
+        .split(" ")
+        .filter((w) => w.length > 3) // πετάμε πολύ μικρές/ασήμαντες λέξεις
+    );
   }
 
+  // Υπολογισμός ομοιότητας δύο συνόλων λέξεων (Jaccard-like)
+  function similarity(setA, setB) {
+    if (setA.size === 0 || setB.size === 0) return 0;
+    let intersection = 0;
+    for (const w of setA) {
+      if (setB.has(w)) intersection++;
+    }
+    const union = setA.size + setB.size - intersection;
+    if (union === 0) return 0;
+    return intersection / union;
+  }
+
+  for (const article of rawArticles) {
+    const titleWords = getTitleWordSet(article.title);
+    let bestGroup = null;
+    let bestScore = 0;
+
+    // βρίσκουμε αν "κολλάει" καλύτερα σε κάποια υπάρχουσα ομάδα
+    for (const group of groups) {
+      const score = similarity(titleWords, group.titleWords);
+      if (score > bestScore) {
+        bestScore = score;
+        bestGroup = group;
+      }
+    }
+
+    // Κατώφλι ομοιότητας: αν μοιράζονται αρκετές λέξεις, τα θεωρούμε ίδιο θέμα
+    if (bestGroup && bestScore >= 0.6) {
+      bestGroup.articles.push(article);
+      // ενημερώνουμε και το word set της ομάδας (ένωση)
+      for (const w of titleWords) {
+        bestGroup.titleWords.add(w);
+      }
+    } else {
+      // Νέο θέμα
+      groups.push({
+        idSeed: article.id,
+        title: article.title,
+        titleWords,
+        articles: [article],
+      });
+    }
+  }
+
+  // Τελική μετατροπή σε topicGroups, με id, εικόνα κλπ.
   const topicGroups = [];
 
-  for (const group of groupsByKey.values()) {
+  for (const group of groups) {
     const primary = group.articles[0];
 
     // publishedAt = πιο πρόσφατο από την ομάδα
@@ -415,7 +456,7 @@ function groupArticlesByTopic(rawArticles) {
 
     topicGroups.push({
       id: groupId,
-      key: group.key,
+      key: group.title,
       title: primary.title,
       articles: group.articles,
       imageUrl,
@@ -489,11 +530,26 @@ async function run() {
   const topicGroups = groupArticlesByTopic(rawArticles);
   console.log("Βρέθηκαν", topicGroups.length, "θεματικές ομάδες άρθρων.");
 
+  const multiSourceGroups = topicGroups.filter(
+    (g) => g.articles.length > 1
+  );
+  console.log(
+    "Θέματα με ΠΟΛΛΕΣ πηγές:",
+    multiSourceGroups.length,
+    "από",
+    topicGroups.length
+  );
+
   const allArticles = [];
 
   // 3️⃣ Για κάθε θέμα, φτιάχνουμε ΕΝΑ νέο κείμενο με το LLM
   for (const topic of topicGroups) {
-    console.log("Απλοποιώ & συνθέτω για θέμα:", topic.title);
+    console.log(
+      "Απλοποιώ & συνθέτω για θέμα:",
+      topic.title,
+      "| άρθρα στο θέμα:",
+      topic.articles.length
+    );
 
     const result = await simplifyAndClassifyText(topic);
     if (!result || !result.simplifiedText) continue;
