@@ -141,6 +141,16 @@
   </main>
 
   <script>
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
     function cleanMarkdown(text) {
       if (!text) return "";
       return text
@@ -234,7 +244,7 @@
             node.appendChild(source);
           } else {
             // Αλλιώς το χειριζόμαστε σαν embed (iframe),
-            // π.χ. YouTube, TruthSocial embed, κ.λπ.
+            // π.χ. YouTube κ.λπ.
             node = document.createElement("iframe");
             node.className = "article-video";
             node.src = url;
@@ -251,14 +261,46 @@
           videoWrapper.style.display = "block";
         }
 
-        const sourceName = article.sourceName || "Πηγή";
-        const sourceUrl = article.sourceUrl || "#";
-        sourceEl.innerHTML =
-          'Πηγή: <a href="' +
-          sourceUrl +
-          '" target="_blank" rel="noopener noreferrer">' +
-          sourceName +
-          "</a>";
+        // 🔹 Εμφάνιση μίας ή ΠΟΛΛΩΝ πηγών
+        const sources = Array.isArray(article.sources) ? article.sources : [];
+        const fallbackName = article.sourceName || "Πηγή";
+        const fallbackUrl = article.sourceUrl || "#";
+
+        if (sources.length === 0) {
+          // Συμβατότητα με παλιό σχήμα
+          const safeName = escapeHtml(fallbackName);
+          const safeUrl = escapeHtml(fallbackUrl);
+          sourceEl.innerHTML =
+            'Πηγή: <a href="' +
+            safeUrl +
+            '" target="_blank" rel="noopener noreferrer">' +
+            safeName +
+            "</a>";
+        } else if (sources.length === 1) {
+          const s = sources[0];
+          const safeName = escapeHtml(s.sourceName || fallbackName);
+          const safeUrl = escapeHtml(s.sourceUrl || fallbackUrl);
+          sourceEl.innerHTML =
+            'Πηγή: <a href="' +
+            safeUrl +
+            '" target="_blank" rel="noopener noreferrer">' +
+            safeName +
+            "</a>";
+        } else {
+          // Πολλές πηγές → "Πηγές: ΕΡΤ, ProtoThema, Newsbomb"
+          const links = sources.map((s) => {
+            const name = escapeHtml(s.sourceName || "Πηγή");
+            const url = escapeHtml(s.sourceUrl || "#");
+            return (
+              '<a href="' +
+              url +
+              '" target="_blank" rel="noopener noreferrer">' +
+              name +
+              "</a>"
+            );
+          });
+          sourceEl.innerHTML = "Πηγές: " + links.join(", ");
+        }
 
         document.title = displayTitle + " - Εύκολες Ειδήσεις";
 
