@@ -1,17 +1,17 @@
 // generateLifestyle.js
-// Script που διαβάζει τα απλοποιημένα άρθρα από το generatedNews.json
-// και φτιάχνει ένα ενιαίο "lifestyle" άρθρο ανά κατηγορία (sports, movies κτλ.)
+// Διαβάζει τα απλά άρθρα από το news.json και φτιάχνει
+// ΕΝΑ "lifestyle" άρθρο ανά κατηγορία (sports, movies, music, theatre, series, fun)
 
 import fs from "fs/promises";
 import OpenAI from "openai";
 import crypto from "crypto";
 
-// Χρησιμοποιούμε το ίδιο API key με το news-fetch
+// Ίδιο API key με το news-fetch
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-// Κατηγορίες που θα αντιμετωπίζονται ως "lifestyle"
+// Κατηγορίες που θα αντιμετωπίζονται ως lifestyle
 const LIFESTYLE_CATEGORIES = [
   "sports",
   "movies",
@@ -21,26 +21,26 @@ const LIFESTYLE_CATEGORIES = [
   "fun",
 ];
 
-// Πόσα άρθρα (max) θα τρώει ο agent ανά κατηγορία
+// Μέχρι πόσα άρθρα θα τρώει ο agent ανά κατηγορία
 const MAX_ITEMS_PER_CATEGORY = 10;
 
-// 👉 Προσαρμόζεις αυτά τα paths ανάλογα με το project σου
-const GENERATED_NEWS_PATH = new URL("./generatedNews.json", import.meta.url);
-const GENERATED_LIFESTYLE_PATH = new URL("./generatedLifestyle.json", import.meta.url);
+// Paths – προσαρμόσ’ τα αν χρειάζεται
+const NEWS_PATH = new URL("./news.json", import.meta.url);
+const LIFESTYLE_PATH = new URL("./lifestyle.json", import.meta.url);
 
 // System prompt για τον lifestyle agent
 const LIFESTYLE_AGENT_SYSTEM_PROMPT = `
 Είσαι ένας δημοσιογράφος ψυχαγωγίας που γράφει "εύκολες ειδήσεις" στα ελληνικά
 για άτομα με ήπια νοητική υστέρηση και μαθησιακές δυσκολίες.
 
-Στόχος σου είναι να δημιουργείς ΕΝΑ μικρό άρθρο για κάθε κατηγορία (π.χ. sports, movies, fun),
-βασισμένο σε λίστα από ειδήσεις που σου δίνουμε σε JSON μορφή.
+Στόχος σου είναι να δημιουργείς ΕΝΑ μικρό άρθρο για κάθε κατηγορία
+(π.χ. sports, movies, fun) βασισμένο σε λίστα από ειδήσεις που σου δίνουμε.
 
 Κανόνες γλώσσας:
 - Γράψε σε πολύ απλά ελληνικά (επίπεδο περίπου Α2).
 - Χρησιμοποίησε μικρές προτάσεις.
 - Απόφυγε δύσκολες λέξεις. Αν πρέπει να χρησιμοποιήσεις μία, εξήγησέ την.
-- Απέφυγε μεγάλα κατεβατά. Κράτα το κείμενο σύντομο και καθαρό.
+- Απόφυγε μεγάλα κατεβατά. Κράτα το κείμενο σύντομο και καθαρό.
 
 Κανόνες περιεχομένου:
 - Χρησιμοποίησε ΜΟΝΟ τις πληροφορίες που υπάρχουν στα δεδομένα που σου δίνουμε.
@@ -65,10 +65,9 @@ const LIFESTYLE_AGENT_SYSTEM_PROMPT = `
 - Μην επιστρέψεις JSON. Επέστρεψε μόνο καθαρό, απλό κείμενο σε ελληνικά (markdown style).
 `;
 
-// Μικρό helper για να βγάζουμε το κείμενο από το Responses API
+// Helper: βγάζουμε text από το Responses API
 function extractTextFromResponse(response) {
-  // Το Responses API μας δίνει έτοιμο πεδίο output_text
-  if (response.output_text && typeof response.output_text === "string") {
+  if (typeof response.output_text === "string") {
     return response.output_text;
   }
 
@@ -80,48 +79,15 @@ function extractTextFromResponse(response) {
   throw new Error("Δεν βρέθηκε text στο response του μοντέλου");
 }
 
-// Λογική για να φτιάξουμε "items" για κάθε κατηγορία
-function prepareItemsForCategory(allArticles, category) {
-  const filtered = allArticles.filter(
-    (a) => a.category === category && (a.simpleText || a.title),
-  );
-
-  // Sort by publishedAt desc, όπου γίνεται
-  const sorted = filtered.sort((a, b) => {
-    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return db - da;
-  });
-
-  // Αφαίρεση διπλότυπων ανά url
-  const seenUrls = new Set();
-  const deduped = [];
-  for (const article of sorted) {
-    const url = article.url || article.link;
-    if (url && seenUrls.has(url)) continue;
-    if (url) seenUrls.add(url);
-    deduped.push(article);
-    if (deduped.length >= MAX_ITEMS_PER_CATEGORY) break;
-  }
-
-  return deduped.map((a) => ({
-    title: a.title,
-    summary: a.simpleText || a.summary || a.originalSnippet || "",
-    url: a.url || a.link || null,
-    source: a.source || a.feed || null,
-    publishedAt: a.publishedAt || a.pubDate || null,
-  }));
-}
-
-// Τίτλοι ανά κατηγορία (frontend-friendly)
-function titleForCategory(category) {
+// Τίτλοι ανά κατηγορία για το lifestyle άρθρο
+function lifestyleTitleForCategory(category) {
   switch (category) {
     case "sports":
       return "Τα αθλητικά της ημέρας με απλά λόγια";
     case "movies":
       return "Ταινίες και σινεμά σε απλά λόγια";
     case "music":
-      return "Μουσική, συναυλίες και ρυθμοί";
+      return "Μουσική και συναυλίες σε απλά λόγια";
     case "theatre":
       return "Θέατρο και παραστάσεις σε απλά λόγια";
     case "series":
@@ -133,27 +99,59 @@ function titleForCategory(category) {
   }
 }
 
-// Μαζεύουμε μοναδικές πηγές (urls) από τα items για το πεδίο sources
+// Συγκέντρωση μοναδικών πηγών από τα items
 function uniqueSourcesFromItems(items) {
   const seen = new Set();
   const result = [];
   for (const item of items) {
-    const url = item.url;
+    const url = item.sourceUrl || item.url;
     if (!url || seen.has(url)) continue;
     seen.add(url);
     result.push({
       url,
-      source: item.source || null,
+      sourceName: item.sourceName || null,
     });
     if (result.length >= 8) break;
   }
   return result;
 }
 
+// Ετοιμάζουμε τις πρώτες Ν ειδήσεις ανά κατηγορία
+function groupLifestyleArticlesByCategory(allArticles) {
+  /** @type {Record<string, any[]>} */
+  const grouped = {};
+  for (const cat of LIFESTYLE_CATEGORIES) {
+    grouped[cat] = [];
+  }
+
+  for (const article of allArticles) {
+    const cat = article.category;
+    if (!LIFESTYLE_CATEGORIES.includes(cat)) continue;
+    if (article.isSensitive) continue;
+
+    grouped[cat].push(article);
+  }
+
+  // Sort & limit
+  for (const cat of LIFESTYLE_CATEGORIES) {
+    const items = grouped[cat];
+
+    items.sort((a, b) => {
+      const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+      const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+      return db - da;
+    });
+
+    grouped[cat] = items.slice(0, MAX_ITEMS_PER_CATEGORY);
+  }
+
+  return grouped;
+}
+
 // Κλήση στο OpenAI για μία κατηγορία
 async function generateLifestyleArticleForCategory(category, items) {
   if (!items.length) {
-    console.log(`ℹ️ Δεν υπάρχουν δεδομένα για κατηγορία ${category}`);
+    console.log(`ℹ️ Δεν υπάρχουν άρθρα για κατηγορία ${category}, skip.`);
     return null;
   }
 
@@ -162,76 +160,85 @@ async function generateLifestyleArticleForCategory(category, items) {
   const payload = {
     date: today,
     category,
-    items,
+    items: items.map((a) => ({
+      id: a.id,
+      title: a.simpleTitle || a.title,
+      summary: a.simpleText || "",
+      sourceName: a.sourceName || null,
+      sourceUrl: a.sourceUrl || null,
+      publishedAt: a.publishedAt || null,
+    })),
   };
 
   const userContent = `
 Κατηγορία: ${category}
 Ημερομηνία: ${today}
 
-Παρακάτω είναι τα δεδομένα σε JSON. Διάβασέ τα και φτιάξε ΕΝΑ άρθρο, σύμφωνα με τις οδηγίες του system prompt.
+Παρακάτω είναι τα δεδομένα σε JSON. Διάβασέ τα και φτιάξε ΕΝΑ lifestyle άρθρο,
+σύμφωνα με τις οδηγίες του system prompt.
 
 ${JSON.stringify(payload, null, 2)}
 `;
 
   const response = await client.responses.create({
-    model: "gpt-4.1-mini", // Μπορείς να αλλάξεις μοντέλο αν θέλεις
-    input: `${LIFESTYLE_AGENT_SYSTEM_PROMPT}\n\n${userContent}`,
+    model: "gpt-4.1-mini", // μπορείς να αλλάξεις μοντέλο αν θέλεις
+    instructions: LIFESTYLE_AGENT_SYSTEM_PROMPT,
+    input: userContent,
     max_output_tokens: 1200,
   });
 
-  const articleText = extractTextFromResponse(response).trim();
+  const simpleText = extractTextFromResponse(response).trim();
+  const sources = uniqueSourcesFromItems(items);
 
   const article = {
     id: crypto.randomUUID(),
-    date: today,
-    category,
-    title: titleForCategory(category),
-    simpleText: articleText,
-    sources: uniqueSourcesFromItems(items),
-    createdAt: new Date().toISOString(),
     contentType: "agent_lifestyle",
+    category,
+    date: today,
+    title: lifestyleTitleForCategory(category),
+    simpleText,
+    sources,
+    createdAt: new Date().toISOString(),
   };
 
   return article;
 }
 
 async function main() {
-  // 1. Διαβάζουμε τα απλά άρθρα από το generatedNews.json
+  // 1. Διαβάζουμε news.json
   let json;
   try {
-    const raw = await fs.readFile(GENERATED_NEWS_PATH, "utf-8");
+    const raw = await fs.readFile(NEWS_PATH, "utf-8");
     json = JSON.parse(raw);
   } catch (err) {
-    console.error(
-      "❌ Δεν μπορώ να διαβάσω το generatedNews.json – έλεγξε το path και το format.",
-    );
+    console.error("❌ Πρόβλημα στο διάβασμα του news.json – έλεγξε path/format.");
     console.error(err);
     process.exit(1);
   }
 
   const allArticles = Array.isArray(json.articles) ? json.articles : [];
   if (!allArticles.length) {
-    console.log("ℹ️ Δεν βρέθηκαν άρθρα στο generatedNews.json");
+    console.log("ℹ️ Δεν υπάρχουν άρθρα στο news.json");
     return;
   }
 
+  // 2. Φιλτράρουμε μόνο τις lifestyle κατηγορίες
+  const grouped = groupLifestyleArticlesByCategory(allArticles);
+
   const lifestyleArticles = [];
   for (const category of LIFESTYLE_CATEGORIES) {
-    const items = prepareItemsForCategory(allArticles, category);
-    if (!items.length) continue;
+    const items = grouped[category];
+    if (!items || !items.length) continue;
 
     console.log(
-      `🧠 Δημιουργία lifestyle άρθρου για κατηγορία "${category}" με ${items.length} items...`,
+      `🧠 Δημιουργία lifestyle άρθρου για "${category}" με ${items.length} items...`
     );
     const article = await generateLifestyleArticleForCategory(category, items);
-    if (article) {
-      lifestyleArticles.push(article);
-    }
+    if (article) lifestyleArticles.push(article);
   }
 
   if (!lifestyleArticles.length) {
-    console.log("ℹ️ Δεν δημιουργήθηκε κανένα lifestyle άρθρο (δεν υπήρχαν δεδομένα).");
+    console.log("ℹ️ Δεν δημιουργήθηκε κανένα lifestyle άρθρο.");
     return;
   }
 
@@ -241,15 +248,15 @@ async function main() {
   };
 
   await fs.writeFile(
-    GENERATED_LIFESTYLE_PATH,
+    LIFESTYLE_PATH,
     JSON.stringify(output, null, 2),
-    "utf-8",
+    "utf-8"
   );
 
   console.log(
-    `✅ Δημιουργήθηκαν lifestyle άρθρα για κατηγορίες: ${lifestyleArticles
+    `✅ lifestyle.json έτοιμο. Κατηγορίες: ${lifestyleArticles
       .map((a) => a.category)
-      .join(", ")}`,
+      .join(", ")}`
   );
 }
 
