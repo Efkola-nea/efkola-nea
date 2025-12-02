@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # για να μπορεί να κάνει commit το news.json
+      contents: write   # για να μπορεί να κάνει commit τα json
 
     steps:
       - name: Checkout repo
@@ -23,16 +23,21 @@ jobs:
       - name: Install dependencies
         run: npm install openai rss-parser
 
-      - name: Run fetch script
+      - name: Run fetch script (news.json)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node fetch-news.mjs
 
-      - name: Commit and push news.json
+      - name: Generate lifestyle articles (lifestyle.json)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node generate-lifestyle.mjs
+
+      - name: Commit and push JSON files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json lifestyle.json
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Update news.json"
+          git commit -m "Update news & lifestyle JSON"
           git push
