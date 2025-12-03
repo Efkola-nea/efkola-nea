@@ -38,6 +38,13 @@
         opacity: 0.98;
       }
 
+      .back-link {
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+        display: inline-block;
+      }
+
+      /* ===== Κλασικές κάρτες άρθρων (όχι σοβαρές) ===== */
       .article-card {
         border-radius: 16px;
         border: 1px solid #e5e7eb;
@@ -63,10 +70,69 @@
         font-size: 1rem;
       }
 
-      .back-link {
+      /* ===== Grid για σοβαρές θεματικές (όπως στην index) ===== */
+      .category-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 1.5rem;
+        max-width: 960px;
+        margin: 0 auto;
+      }
+
+      .category-tile {
+        border-radius: 18px;
+        background: #eff6ff;
+        border: 1px solid #bfdbfe;
+        box-shadow: 0 2px 6px rgba(37, 99, 235, 0.16);
+        overflow: hidden;
+        transition: transform 0.12s ease, box-shadow 0.12s ease, background-color 0.12s ease;
+      }
+
+      .category-tile:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(15, 23, 42, 0.22);
+        background: #dbeafe;
+      }
+
+      .category-tile-link {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .category-thumbnail-wrapper {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        background: #dbeafe;
+        overflow: hidden;
+      }
+
+      .category-thumbnail {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+
+      .category-tile-body {
+        padding: 1rem 1rem 1.1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        align-items: center;
+        text-align: center;
+      }
+
+      .category-tile-title {
+        font-weight: 700;
+        font-size: 1.05rem;
+      }
+
+      .category-tile-subtitle {
         font-size: 0.95rem;
-        margin-bottom: 1rem;
-        display: inline-block;
+        opacity: 0.95;
       }
     </style>
   </head>
@@ -99,7 +165,7 @@
         politics_economy: {
           label: "Πολιτική & Οικονομία",
           description: "Τι γίνεται στην κυβέρνηση, στη βουλή και στην οικονομία.",
-          image: "images/serious/politics.jpg", // εδώ θα βάλεις το δικό σου thumbnail
+          image: "images/serious/politics.jpg", // βάλε εδώ τη δική σου εικόνα
         },
         social: {
           label: "Κοινωνία",
@@ -136,6 +202,7 @@
         return res.json();
       }
 
+      // ===== Render για απλές κατηγορίες (news.json) =====
       function renderNewsArticles(articles) {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -186,6 +253,7 @@
         }
       }
 
+      // ===== Render για lifestyle (ένα άρθρο από lifestyle.json) =====
       function renderLifestyleArticle(article) {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -215,7 +283,6 @@
         contentEl.className = "content";
         contentEl.textContent = article.simpleText || "";
 
-        // Λίστα πηγών
         if (article.sources && article.sources.length) {
           const sourcesTitle = document.createElement("div");
           sourcesTitle.style.marginTop = "0.8rem";
@@ -248,7 +315,7 @@
         container.appendChild(card);
       }
 
-      // 🔹 Σελίδα "υπο-κατηγοριών" για Σοβαρές Ειδήσεις
+      // ===== Grid με 3 κάρτες για Σοβαρές =====
       async function renderSeriousCategories() {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -263,7 +330,6 @@
             return;
           }
 
-          // map topic -> άρθρο
           const byTopic = {};
           for (const a of digestArticles) {
             if (a.topic) {
@@ -272,6 +338,9 @@
           }
 
           const topicsInOrder = ["politics_economy", "social", "world"];
+
+          const grid = document.createElement("div");
+          grid.className = "category-grid";
 
           for (const topic of topicsInOrder) {
             const digest = byTopic[topic];
@@ -283,67 +352,51 @@
               image: "",
             };
 
-            const card = document.createElement("article");
-            card.className =
-              "article-card d-flex flex-column flex-md-row align-items-md-center";
+            const tile = document.createElement("article");
+            tile.className = "category-tile";
+
+            const link = document.createElement("a");
+            link.className = "category-tile-link";
+            link.href = "article.html?source=serious&topic=" + encodeURIComponent(topic);
+
+            // thumbnail
+            const thumbWrapper = document.createElement("div");
+            thumbWrapper.className = "category-thumbnail-wrapper";
 
             if (meta.image) {
-              const imgWrapper = document.createElement("div");
-              imgWrapper.style.flex = "0 0 140px";
-              imgWrapper.style.marginRight = "1rem";
-              imgWrapper.style.marginBottom = "0.75rem";
-
               const img = document.createElement("img");
               img.src = meta.image;
               img.alt = meta.label;
-              img.style.width = "100%";
-              img.style.borderRadius = "12px";
-              img.style.objectFit = "cover";
-
-              imgWrapper.appendChild(img);
-              card.appendChild(imgWrapper);
+              img.className = "category-thumbnail";
+              thumbWrapper.appendChild(img);
             }
 
+            // body
             const bodyDiv = document.createElement("div");
-            bodyDiv.style.flex = "1 1 auto";
+            bodyDiv.className = "category-tile-body";
 
-            const titleEl = document.createElement("h2");
+            const titleEl = document.createElement("div");
+            titleEl.className = "category-tile-title";
             titleEl.textContent = meta.label;
+
+            const subtitleEl = document.createElement("div");
+            subtitleEl.className = "category-tile-subtitle";
+            subtitleEl.textContent = meta.description || "";
+
             bodyDiv.appendChild(titleEl);
+            bodyDiv.appendChild(subtitleEl);
 
-            if (meta.description) {
-              const descEl = document.createElement("p");
-              descEl.className = "mb-1";
-              descEl.textContent = meta.description;
-              bodyDiv.appendChild(descEl);
-            }
-
-            if (digest.simpleText) {
-              const snippetEl = document.createElement("p");
-              snippetEl.className = "text-muted mb-2";
-              const firstLine = digest.simpleText.split("\n")[0] || "";
-              const snippet =
-                firstLine.length > 160
-                  ? firstLine.slice(0, 157) + "..."
-                  : firstLine;
-              snippetEl.textContent = snippet;
-              bodyDiv.appendChild(snippetEl);
-            }
-
-            const buttonEl = document.createElement("a");
-            buttonEl.href =
-              "article.html?source=serious&topic=" + encodeURIComponent(topic);
-            buttonEl.className = "btn btn-primary btn-sm";
-            buttonEl.textContent = "Δες την είδηση";
-            bodyDiv.appendChild(buttonEl);
-
-            card.appendChild(bodyDiv);
-            container.appendChild(card);
+            link.appendChild(thumbWrapper);
+            link.appendChild(bodyDiv);
+            tile.appendChild(link);
+            grid.appendChild(tile);
           }
 
-          if (!container.hasChildNodes()) {
+          if (!grid.hasChildNodes()) {
             container.innerHTML =
               "<p>Δεν βρέθηκαν άρθρα σοβαρής επικαιρότητας αυτή τη στιγμή.</p>";
+          } else {
+            container.appendChild(grid);
           }
         } catch (err) {
           console.error("Σφάλμα φόρτωσης serious-digest.json:", err);
@@ -352,24 +405,22 @@
         }
       }
 
+      // ===== main init =====
       async function init() {
         try {
           if (category === "all") {
-            // Όλες οι ειδήσεις από news.json
             const newsData = await loadJson("./news.json");
             const all = Array.isArray(newsData.articles) ? newsData.articles : [];
             renderNewsArticles(all);
           } else if (category === "serious") {
-            // 🔹 Σοβαρές ειδήσεις: δείχνουμε 3 κάρτες θεματικών
+            // σοβαρές: grid με 3 κάρτες
             await renderSeriousCategories();
           } else if (!LIFESTYLE_CATEGORIES.includes(category)) {
-            // Μη-lifestyle κατηγορίες από news.json
             const newsData = await loadJson("./news.json");
             const byCategory = newsData.articlesByCategory || {};
             const articles = byCategory[category] || [];
             renderNewsArticles(articles);
           } else {
-            // Lifestyle κατηγορίες από lifestyle.json
             const lifestyleData = await loadJson("./lifestyle.json");
             const list = lifestyleData.articles || [];
             const article = list.find((a) => a.category === category);
@@ -386,4 +437,5 @@
     </script>
   </body>
 </html>
+
 
