@@ -21,6 +21,7 @@
       position: relative;
     }
 
+    /* φλου full-screen backround για σοβαρές ειδήσεις */
     .article-bg {
       position: fixed;
       inset: 0;
@@ -62,6 +63,7 @@
       font-weight: 800;
       margin-bottom: 0.8rem;
       color: #111827;
+      text-align: center; /* ✅ κέντρο τίτλου */
     }
 
     .article-image-wrapper {
@@ -99,16 +101,41 @@
       margin-bottom: 1rem;
     }
 
-    .source {
-      font-size: 0.95rem;
-      color: #4b5563;
-    }
-
     .btn-listen {
       font-size: 0.98rem;
       border-radius: 999px;
       padding-inline: 1.2rem;
       font-weight: 600;
+    }
+
+    /* 🔎 Πηγές στο τέλος, με "εικονίδιο" */
+    .source-block {
+      margin-top: 0.9rem;
+      font-size: 0.95rem;
+      color: #4b5563;
+    }
+
+    .source-label {
+      font-weight: 600;
+      color: #374151;
+      margin-bottom: 0.25rem;
+    }
+
+    .source-list {
+      list-style: none;
+      padding-left: 0;
+      margin: 0.25rem 0 0;
+    }
+
+    .source-list li {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.95rem;
+    }
+
+    .source-icon {
+      font-size: 1.1rem;
     }
   </style>
 </head>
@@ -130,12 +157,12 @@
       <article class="article-main-card">
         <h1 id="article-title" class="article-main-title">Φορτώνω το άρθρο…</h1>
 
-        <!-- Εικόνα άρθρου (news.json) -->
+        <!-- Εικόνα άρθρου από news.json -->
         <div id="article-image-wrapper" class="article-image-wrapper" style="display:none;">
           <img id="article-image" class="article-image" alt="Εικόνα άρθρου" />
         </div>
 
-        <!-- Βίντεο άρθρου (αν υπάρχει) -->
+        <!-- Βίντεο άρθρου -->
         <div id="article-video-wrapper" class="article-video-wrapper" style="display:none;">
           <div id="article-video-container"></div>
         </div>
@@ -144,12 +171,15 @@
           Παρακαλώ περίμενε λίγο…
         </div>
 
-        <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mt-3">
-          <p id="article-source" class="source mb-0"></p>
+        <!-- Κουμπί ακρόασης -->
+        <div class="d-flex justify-content-end mt-3">
           <button id="listen-btn" type="button" class="btn btn-primary btn-listen">
             Άκου την είδηση
           </button>
         </div>
+
+        <!-- 🔚 Πηγές ΜΟΝΟ στο τέλος -->
+        <div id="article-source" class="source-block"></div>
       </article>
     </div>
   </main>
@@ -165,29 +195,91 @@
         .replace(/'/g, "&#39;");
     }
 
+    // Αφαιρούμε ενότητα "Πηγές:" που μπορεί να έχει γράψει το LLM
+    function stripSourcesSection(text) {
+      if (!text) return "";
+      const markerIndex = text.lastIndexOf("Πηγές:");
+      if (markerIndex === -1) return text;
+      return text.slice(0, markerIndex).trim();
+    }
+
     function cleanMarkdown(text) {
       if (!text) return "";
-      return text
+      const withoutSources = stripSourcesSection(text);
+      return withoutSources
         .replace(/\*\*(.+?)\*\*/g, "$1")
         .replace(/###\s*/g, "")
         .trim();
     }
 
-    function speak(text) {
-      if (!("speechSynthesis" in window)) {
-        alert("Ο περιηγητής δεν υποστηρίζει ανάγνωση κειμένου.");
-        return;
-      }
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = "el-GR";
-      window.speechSynthesis.speak(utterance);
+    // 🔊 Κατάσταση για play / pause / resume
+    const ttsState = {
+      utterance: null,
+      isSpeaking: false,
+      isPaused: false,
+    };
+
+    function setupTtsButton(buttonEl, title, bodyText) {
+      const fullText = (title ? title + ". " : "") + (bodyText || "");
+
+      buttonEl.textContent = "Άκου την είδηση";
+
+      buttonEl.onclick = () => {
+        if (!("speechSynthesis" in window)) {
+          alert("Ο περιηγητής δεν υποστηρίζει ανάγνωση κειμένου.");
+          return;
+        }
+
+        const synth = window.speechSynthesis;
+
+        // αν ήδη μιλάει → παύση
+        if (ttsState.isSpeaking && !ttsState.isPaused) {
+          synth.pause();
+          ttsState.isPaused = true;
+          buttonEl.textContent = "Συνέχισε την είδηση";
+          return;
+        }
+
+        // αν είναι σε pause → συνέχεια
+        if (ttsState.isSpeaking && ttsState.isPaused) {
+          synth.resume();
+          ttsState.isPaused = false;
+          buttonEl.textContent = "Παύση";
+          return;
+        }
+
+        // ξεκινάμε νέα ανάγνωση
+        synth.cancel();
+        const utterance = new SpeechSynthesisUtterance(fullText);
+        utterance.lang = "el-GR";
+
+        utterance.onstart = () => {
+          ttsState.isSpeaking = true;
+          ttsState.isPaused = false;
+          buttonEl.textContent = "Παύση";
+        };
+
+        utterance.onend = () => {
+          ttsState.isSpeaking = false;
+          ttsState.isPaused = false;
+          buttonEl.textContent = "Άκου την είδηση";
+        };
+
+        utterance.onerror = () => {
+          ttsState.isSpeaking = false;
+          ttsState.isPaused = false;
+          buttonEl.textContent = "Άκου την είδηση";
+        };
+
+        ttsState.utterance = utterance;
+        synth.speak(utterance);
+      };
     }
 
     function seriousBackgroundForTopic(topic) {
       switch (topic) {
         case "politics_economy":
-          return "images/serious/politics.png";
+          return "images/serious/politics.png"; // προσαρμοσμένο σε png
         case "social":
           return "images/serious/social.png";
         case "world":
@@ -210,44 +302,59 @@
       bgEl.style.display = "block";
     }
 
-    function renderSources(sourceEl, article) {
-      const sources = Array.isArray(article.sources) ? article.sources : [];
-      const fallbackName = article.sourceName || "Πηγή";
-      const fallbackUrl = article.sourceUrl || "#";
+    // 🔚 Πηγές στο τέλος, με εικονίδιο
+    function renderSourcesBlock(sourceEl, article, fallbackText) {
+      if (!sourceEl) return;
 
-      if (sources.length === 0) {
-        const safeName = escapeHtml(fallbackName);
-        const safeUrl = escapeHtml(fallbackUrl);
-        sourceEl.innerHTML =
-          'Πηγή: <a href="' +
-          safeUrl +
-          '" target="_blank" rel="noopener noreferrer">' +
-          safeName +
-          "</a>";
-      } else if (sources.length === 1) {
-        const s = sources[0];
-        const safeName = escapeHtml(s.sourceName || fallbackName);
-        const safeUrl = escapeHtml(s.sourceUrl || fallbackUrl);
-        sourceEl.innerHTML =
-          'Πηγή: <a href="' +
-          safeUrl +
-          '" target="_blank" rel="noopener noreferrer">' +
-          safeName +
-          "</a>";
-      } else {
-        const links = sources.map((s) => {
-          const name = escapeHtml(s.sourceName || "Πηγή");
-          const url = escapeHtml(s.sourceUrl || "#");
-          return (
-            '<a href="' +
-            url +
-            '" target="_blank" rel="noopener noreferrer">' +
-            name +
-            "</a>"
-          );
-        });
-        sourceEl.innerHTML = "Πηγές: " + links.join(", ");
+      const sources = Array.isArray(article?.sources) ? article.sources : [];
+      const fallbackName = article?.sourceName || null;
+      const fallbackUrl = article?.sourceUrl || null;
+
+      const items = [];
+
+      if (sources.length) {
+        for (const s of sources) {
+          const name = s.sourceName || s.source || s.url || "Πηγή";
+          const url = s.sourceUrl || s.url || null;
+          items.push({ name, url });
+        }
+      } else if (fallbackUrl && fallbackUrl !== "#") {
+        items.push({ name: fallbackName || "Πηγή", url: fallbackUrl });
       }
+
+      if (!items.length && !fallbackText) {
+        sourceEl.innerHTML = "";
+        return;
+      }
+
+      let html = '<div class="source-label">Πηγές</div><ul class="source-list">';
+
+      if (items.length) {
+        for (const item of items) {
+          const safeName = escapeHtml(item.name || "Πηγή");
+          if (item.url) {
+            const safeUrl = escapeHtml(item.url);
+            html +=
+              '<li><span class="source-icon">🌐</span>' +
+              '<a href="' +
+              safeUrl +
+              '" target="_blank" rel="noopener noreferrer">' +
+              safeName +
+              "</a></li>";
+          } else {
+            html +=
+              '<li><span class="source-icon">🌐</span>' + safeName + "</li>";
+          }
+        }
+      } else if (fallbackText) {
+        html +=
+          '<li><span class="source-icon">🌐</span>' +
+          escapeHtml(fallbackText) +
+          "</li>";
+      }
+
+      html += "</ul>";
+      sourceEl.innerHTML = html;
     }
 
     async function loadNewsArticle({
@@ -306,7 +413,7 @@
           imageWrapper.style.display = "block";
         }
 
-        // Βίντεο (αν υπάρχει videoUrl στο JSON)
+        // Βίντεο (αν υπάρχει videoUrl)
         if (article.videoUrl) {
           let node;
           const url = article.videoUrl;
@@ -336,15 +443,13 @@
           videoWrapper.style.display = "block";
         }
 
-        // Πηγές (από news.json)
-        renderSources(sourceEl, article);
+        // 🔚 Πηγές στο τέλος
+        renderSourcesBlock(sourceEl, article, null);
 
         document.title = displayTitle + " - Εύκολες Ειδήσεις";
 
-        listenBtn.addEventListener("click", () => {
-          const toRead = displayTitle + ". " + cleaned;
-          speak(toRead);
-        });
+        // 🎧 setup play / pause / resume
+        setupTtsButton(listenBtn, displayTitle, cleaned);
       } catch (err) {
         console.error(err);
         titleEl.textContent = "Προέκυψε σφάλμα";
@@ -419,31 +524,41 @@
                 (a) => String(a.id) === String(article.mainArticleId)
               );
               if (mainSourceArticle) {
-                renderSources(sourceEl, mainSourceArticle);
+                renderSourcesBlock(sourceEl, mainSourceArticle, null);
               } else {
-                sourceEl.textContent =
-                  "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+                renderSourcesBlock(
+                  sourceEl,
+                  { sources: [] },
+                  "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
+                );
               }
             } else {
-              sourceEl.textContent =
-                "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+              renderSourcesBlock(
+                sourceEl,
+                { sources: [] },
+                "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
+              );
             }
           } catch (e) {
             console.error("Σφάλμα φόρτωσης news.json για τις πηγές:", e);
-            sourceEl.textContent =
-              "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+            renderSourcesBlock(
+              sourceEl,
+              { sources: [] },
+              "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
+            );
           }
         } else {
-          sourceEl.textContent =
-            "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+          renderSourcesBlock(
+            sourceEl,
+            { sources: [] },
+            "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
+          );
         }
 
         document.title = displayTitle + " - Εύκολες Ειδήσεις";
 
-        listenBtn.addEventListener("click", () => {
-          const toRead = displayTitle + ". " + cleaned;
-          speak(toRead);
-        });
+        // 🎧 setup play / pause / resume
+        setupTtsButton(listenBtn, displayTitle, cleaned);
       } catch (err) {
         console.error(err);
         titleEl.textContent = "Προέκυψε σφάλμα";
@@ -470,7 +585,6 @@
       const listenBtn = document.getElementById("listen-btn");
 
       if (source === "serious") {
-        // Σοβαρή θεματική από serious-digest.json
         await loadSeriousArticle({
           idParam,
           topicParam,
@@ -480,7 +594,6 @@
           listenBtn,
         });
       } else {
-        // Κλασικό άρθρο από news.json
         await loadNewsArticle({
           idParam,
           titleEl,
