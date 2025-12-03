@@ -18,6 +18,18 @@
       background-color: #e5e7eb;
       font-size: 18px;
       line-height: 1.6;
+      position: relative;
+    }
+
+    .article-bg {
+      position: fixed;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0.12;
+      z-index: -1;
+      filter: blur(1px);
     }
 
     .site-header {
@@ -67,7 +79,6 @@
       object-fit: cover;
     }
 
-    /* Βίντεο άρθρου */
     .article-video-wrapper {
       width: 100%;
       margin-bottom: 1rem;
@@ -102,6 +113,9 @@
   </style>
 </head>
 <body>
+  <!-- full-screen background για σοβαρές ειδήσεις -->
+  <div id="article-bg" class="article-bg" style="display:none;"></div>
+
   <header class="site-header">
     <div class="container page-wrapper d-flex justify-content-between align-items-center">
       <div class="site-title">📰 Εύκολες Ειδήσεις</div>
@@ -116,12 +130,12 @@
       <article class="article-main-card">
         <h1 id="article-title" class="article-main-title">Φορτώνω το άρθρο…</h1>
 
-        <!-- Εικόνα άρθρου -->
+        <!-- Εικόνα άρθρου (news.json) -->
         <div id="article-image-wrapper" class="article-image-wrapper" style="display:none;">
           <img id="article-image" class="article-image" alt="Εικόνα άρθρου" />
         </div>
 
-        <!-- Βίντεο άρθρου (iframe ή <video>) -->
+        <!-- Βίντεο άρθρου (αν υπάρχει) -->
         <div id="article-video-wrapper" class="article-video-wrapper" style="display:none;">
           <div id="article-video-container"></div>
         </div>
@@ -170,19 +184,83 @@
       window.speechSynthesis.speak(utterance);
     }
 
-    async function loadArticle() {
-      const params = new URLSearchParams(window.location.search);
-      const idParam = params.get("id");
+    function seriousBackgroundForTopic(topic) {
+      switch (topic) {
+        case "politics_economy":
+          return "images/serious/politics.jpg";
+        case "social":
+          return "images/serious/social.jpg";
+        case "world":
+          return "images/serious/world.jpg";
+        default:
+          return null;
+      }
+    }
 
-      const titleEl = document.getElementById("article-title");
-      const bodyEl = document.getElementById("article-body");
-      const sourceEl = document.getElementById("article-source");
-      const imageWrapper = document.getElementById("article-image-wrapper");
-      const imageEl = document.getElementById("article-image");
-      const videoWrapper = document.getElementById("article-video-wrapper");
-      const videoContainer = document.getElementById("article-video-container");
-      const listenBtn = document.getElementById("listen-btn");
+    function setSeriousBackground(topic) {
+      const bgEl = document.getElementById("article-bg");
+      if (!bgEl) return;
+      const url = seriousBackgroundForTopic(topic);
+      if (!url) {
+        bgEl.style.display = "none";
+        bgEl.style.backgroundImage = "";
+        return;
+      }
+      bgEl.style.backgroundImage = "url('" + url + "')";
+      bgEl.style.display = "block";
+    }
 
+    function renderSources(sourceEl, article) {
+      const sources = Array.isArray(article.sources) ? article.sources : [];
+      const fallbackName = article.sourceName || "Πηγή";
+      const fallbackUrl = article.sourceUrl || "#";
+
+      if (sources.length === 0) {
+        const safeName = escapeHtml(fallbackName);
+        const safeUrl = escapeHtml(fallbackUrl);
+        sourceEl.innerHTML =
+          'Πηγή: <a href="' +
+          safeUrl +
+          '" target="_blank" rel="noopener noreferrer">' +
+          safeName +
+          "</a>";
+      } else if (sources.length === 1) {
+        const s = sources[0];
+        const safeName = escapeHtml(s.sourceName || fallbackName);
+        const safeUrl = escapeHtml(s.sourceUrl || fallbackUrl);
+        sourceEl.innerHTML =
+          'Πηγή: <a href="' +
+          safeUrl +
+          '" target="_blank" rel="noopener noreferrer">' +
+          safeName +
+          "</a>";
+      } else {
+        const links = sources.map((s) => {
+          const name = escapeHtml(s.sourceName || "Πηγή");
+          const url = escapeHtml(s.sourceUrl || "#");
+          return (
+            '<a href="' +
+            url +
+            '" target="_blank" rel="noopener noreferrer">' +
+            name +
+            "</a>"
+          );
+        });
+        sourceEl.innerHTML = "Πηγές: " + links.join(", ");
+      }
+    }
+
+    async function loadNewsArticle({
+      idParam,
+      titleEl,
+      bodyEl,
+      sourceEl,
+      imageWrapper,
+      imageEl,
+      videoWrapper,
+      videoContainer,
+      listenBtn,
+    }) {
       if (!idParam) {
         titleEl.textContent = "Δεν βρέθηκε το άρθρο";
         bodyEl.textContent = "Λείπει το αναγνωριστικό του άρθρου (id).";
@@ -233,7 +311,6 @@
           let node;
           const url = article.videoUrl;
 
-          // Αν φαίνεται σαν αρχείο βίντεο (mp4, webm, ogg)
           if (/\.(mp4|webm|ogg)(\?|$)/i.test(url)) {
             node = document.createElement("video");
             node.className = "article-video";
@@ -243,8 +320,6 @@
             source.src = url;
             node.appendChild(source);
           } else {
-            // Αλλιώς το χειριζόμαστε σαν embed (iframe),
-            // π.χ. YouTube κ.λπ.
             node = document.createElement("iframe");
             node.className = "article-video";
             node.src = url;
@@ -261,46 +336,8 @@
           videoWrapper.style.display = "block";
         }
 
-        // 🔹 Εμφάνιση μίας ή ΠΟΛΛΩΝ πηγών
-        const sources = Array.isArray(article.sources) ? article.sources : [];
-        const fallbackName = article.sourceName || "Πηγή";
-        const fallbackUrl = article.sourceUrl || "#";
-
-        if (sources.length === 0) {
-          // Συμβατότητα με παλιό σχήμα
-          const safeName = escapeHtml(fallbackName);
-          const safeUrl = escapeHtml(fallbackUrl);
-          sourceEl.innerHTML =
-            'Πηγή: <a href="' +
-            safeUrl +
-            '" target="_blank" rel="noopener noreferrer">' +
-            safeName +
-            "</a>";
-        } else if (sources.length === 1) {
-          const s = sources[0];
-          const safeName = escapeHtml(s.sourceName || fallbackName);
-          const safeUrl = escapeHtml(s.sourceUrl || fallbackUrl);
-          sourceEl.innerHTML =
-            'Πηγή: <a href="' +
-            safeUrl +
-            '" target="_blank" rel="noopener noreferrer">' +
-            safeName +
-            "</a>";
-        } else {
-          // Πολλές πηγές → "Πηγές: ΕΡΤ, ProtoThema, Newsbomb"
-          const links = sources.map((s) => {
-            const name = escapeHtml(s.sourceName || "Πηγή");
-            const url = escapeHtml(s.sourceUrl || "#");
-            return (
-              '<a href="' +
-              url +
-              '" target="_blank" rel="noopener noreferrer">' +
-              name +
-              "</a>"
-            );
-          });
-          sourceEl.innerHTML = "Πηγές: " + links.join(", ");
-        }
+        // Πηγές (από news.json)
+        renderSources(sourceEl, article);
 
         document.title = displayTitle + " - Εύκολες Ειδήσεις";
 
@@ -316,7 +353,150 @@
       }
     }
 
+    async function loadSeriousArticle({
+      idParam,
+      topicParam,
+      titleEl,
+      bodyEl,
+      sourceEl,
+      listenBtn,
+    }) {
+      try {
+        const digestRes = await fetch(
+          "serious-digest.json?cachebust=" + Date.now()
+        );
+        if (!digestRes.ok) {
+          throw new Error("HTTP " + digestRes.status);
+        }
+        const digestData = await digestRes.json();
+        const digestArticles = Array.isArray(digestData.articles)
+          ? digestData.articles
+          : [];
+
+        if (!digestArticles.length) {
+          titleEl.textContent = "Δεν βρέθηκαν σοβαρές ειδήσεις";
+          bodyEl.textContent =
+            "Δεν υπάρχει διαθέσιμο άρθρο σοβαρής επικαιρότητας αυτή τη στιγμή.";
+          listenBtn.disabled = true;
+          return;
+        }
+
+        let article = null;
+
+        if (idParam) {
+          article = digestArticles.find(
+            (a) => String(a.id) === String(idParam)
+          );
+        }
+        if (!article && topicParam) {
+          article = digestArticles.find((a) => a.topic === topicParam);
+        }
+        if (!article) {
+          article = digestArticles[0];
+        }
+
+        const displayTitle = article.title || "Σοβαρή είδηση";
+        const cleaned = cleanMarkdown(article.simpleText || "");
+
+        // background ανά topic
+        if (article.topic) {
+          setSeriousBackground(article.topic);
+        }
+
+        titleEl.textContent = displayTitle;
+        bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
+
+        // προσπαθούμε να βρούμε πηγές από το news.json (mainArticleId)
+        if (article.mainArticleId) {
+          try {
+            const newsRes = await fetch("news.json?cachebust=" + Date.now());
+            if (newsRes.ok) {
+              const newsData = await newsRes.json();
+              const allNews = Array.isArray(newsData.articles)
+                ? newsData.articles
+                : [];
+              const mainSourceArticle = allNews.find(
+                (a) => String(a.id) === String(article.mainArticleId)
+              );
+              if (mainSourceArticle) {
+                renderSources(sourceEl, mainSourceArticle);
+              } else {
+                sourceEl.textContent =
+                  "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+              }
+            } else {
+              sourceEl.textContent =
+                "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+            }
+          } catch (e) {
+            console.error("Σφάλμα φόρτωσης news.json για τις πηγές:", e);
+            sourceEl.textContent =
+              "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+          }
+        } else {
+          sourceEl.textContent =
+            "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές.";
+        }
+
+        document.title = displayTitle + " - Εύκολες Ειδήσεις";
+
+        listenBtn.addEventListener("click", () => {
+          const toRead = displayTitle + ". " + cleaned;
+          speak(toRead);
+        });
+      } catch (err) {
+        console.error(err);
+        titleEl.textContent = "Προέκυψε σφάλμα";
+        bodyEl.textContent =
+          "Δεν μπόρεσα να φορτώσω το άρθρο σοβαρής επικαιρότητας: " +
+          err.message;
+        listenBtn.disabled = true;
+      }
+    }
+
+    async function loadArticle() {
+      const params = new URLSearchParams(window.location.search);
+      const source = params.get("source") || "news";
+      const idParam = params.get("id");
+      const topicParam = params.get("topic");
+
+      const titleEl = document.getElementById("article-title");
+      const bodyEl = document.getElementById("article-body");
+      const sourceEl = document.getElementById("article-source");
+      const imageWrapper = document.getElementById("article-image-wrapper");
+      const imageEl = document.getElementById("article-image");
+      const videoWrapper = document.getElementById("article-video-wrapper");
+      const videoContainer = document.getElementById("article-video-container");
+      const listenBtn = document.getElementById("listen-btn");
+
+      if (source === "serious") {
+        // Σοβαρή θεματική από serious-digest.json
+        await loadSeriousArticle({
+          idParam,
+          topicParam,
+          titleEl,
+          bodyEl,
+          sourceEl,
+          listenBtn,
+        });
+      } else {
+        // Κλασικό άρθρο από news.json
+        await loadNewsArticle({
+          idParam,
+          titleEl,
+          bodyEl,
+          sourceEl,
+          imageWrapper,
+          imageEl,
+          videoWrapper,
+          videoContainer,
+          listenBtn,
+        });
+      }
+    }
+
     document.addEventListener("DOMContentLoaded", loadArticle);
   </script>
 </body>
 </html>
+
