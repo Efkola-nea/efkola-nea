@@ -1,81 +1,128 @@
 {
-  "generatedAt": "2025-12-03T08:20:54.248Z",
+  "generatedAt": "2025-12-03T15:28:16.205Z",
   "articles": [
     {
-      "id": "dcb011ec-2ccb-4a1d-b3fa-cc21115cea7b",
+      "id": "c497f5c8-d4b4-4edd-942c-86c8e555bc48",
       "contentType": "agent_lifestyle",
       "category": "sports",
       "date": "2025-12-03",
       "title": "Τα αθλητικά της ημέρας με απλά λόγια",
-      "simpleText": "Σημαντικές νίκες και μεγάλοι αγώνες στα αθλητικά\n\nΗ ομάδα των Θάντερ κέρδισε στο Σαν Φρανσίσκο. Είναι περασμένοι πρωταθλητές και παίζουν πολύ καλά φέτος στο NBA. Η νίκη τους δείχνει ότι είναι δυνατοί και μπορούν να κερδίσουν ακόμα πολλούς αγώνες.\n\nΟ προπονητής Μπενίτεθ ετοιμάζει νέες τακτικές για την ομάδα του. Σκέφτεται ποιοι παίκτες θα παίξουν στον επόμενο αγώνα. Οι αθλητικές εφημερίδες γράφουν πολλά για τις αποφάσεις του και τα σχέδιά του.\n\nΣτην Formula 1, ο Λάντο Νόρις έχει μεγάλες πιθανότητες να κερδίσει το πρωτάθλημα. Έχει 12 βαθμούς παραπάνω από τον Μαξ Φερστάπεν. Ο τελευταίος αγώνας θα γίνει στο Αμπου Ντάμπι. Αν ο Νόρις τερματίσει πρώτος ή και δεύτερος, θα γίνει πρωταθλητής. Αν κερδίσει ο Φερστάπεν και ο Νόρις δεν ανέβει στο βάθρο, τότε ο Φερστάπεν θα πάρει το πρωτάθλημα.\n\nΑν σου αρέσουν τα αθλήματα, μπορείς να παρακολουθήσεις τους αγώνες της Formula 1 αυτό το Σαββατοκύριακο. Είναι πολύ ενδιαφέρον το ποιος θα κερδίσει τον τελευταίο μεγάλο τίτλο.\n\nΠηγές:\n- https://www.newsbomb.gr/sports/mpasket/story/1698435/nba-perasan-apo-to-san-fransisko-kai-egrapsan-istoria-oi-thanter-apotelesmata-kai-highlights\n- https://www.newsbomb.gr/sports/podosfairo/story/1698425/apofasizei-gia-3-1-o-beniteth-ta-protoselida-ton-athlitikon-efimeridon\n- https://www.tanea.gr/2025/12/03/autonea/agora/formula1-o-lanto-noris-synexizei-na-einai-to-apolyto-favori-gia-tin-kataktisi-tou-fetinou-protathlimatos/",
+      "simpleText": "Αθλητικές Ειδήσεις του Δεκεμβρίου 2025\n\nΟ Άρης έχει νέο υπεύθυνο στρατηγικού σχεδιασμού. Ονομάζεται Θωμάς Βράνος και θα βοηθήσει την ομάδα να γίνει καλύτερη. Είπε ότι είναι χαρούμενος και θα δουλέψει σκληρά.\n\nΣήμερα στις 17:00 θα γίνει ο ημιτελικός βόλεϊ ανάμεσα σε Ολυμπιακό και Παναθηναϊκό. Ο αγώνας θα μεταδοθεί ζωντανά στην ΕΡΤ2 ΣΠΟΡ και στο διαδίκτυο από το ERTFLIX. Αν σου αρέσει το βόλεϊ, μπορείς να τον δεις.\n\nΟ Ολυμπιακός κέρδισε την Ελλάς Σύρου με 5-2 στο Κύπελλο Ελλάδας. Αυτή είναι η τρίτη συνεχόμενη νίκη της ομάδας. Οι παίκτες έπαιξαν πολύ καλά και οι φίλαθλοι ευχαριστήθηκαν τον αγώνα. Στη Σύρο, ένας φαντάρος είδε τον αγώνα από τη σκοπιά του και έγινε γνωστός στα μέσα κοινωνικής δικτύωσης.\n\nΕπίσης, η ΑΕΚ παίζει με τον ΟΦΗ στο Κύπελλο. Ο προπονητής Μάρκο Νίκολιτς ετοίμασε την ομάδα του για τον αγώνα, που είναι πολύ σημαντικός.\n\nΤον Δεκέμβριο, πολλά μεγάλα αθλητικά γεγονότα θα δείχνει το MEGA News. Είναι καλή ευκαιρία να δεις όσα θέλεις από τον αθλητισμό.\n\nΠηγές:\n- https://www.tanea.gr/2025/12/03/sports/o-aris-ekane-metagrafi-stratigikou-symvoulou/\n- https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-olympiakos-panathinaikos-gia-to-ligk-kap-nikos-samaras-17-00-ert2-spor/\n- https://www.newsbomb.gr/sports/podosfairo/story/1698548/aek-ofi-i-endekada-tou-nikolits-gia-tin-anametrisi-sto-kypello-elladas\n- https://www.tanea.gr/2025/12/03/sports/mentilimpar-i-ellas-syrou-den-mas-afise-stigmi-na-xalarosoume/\n- https://www.newsbomb.gr/ellada/story/1698517/epiki-skini-sti-syro-fantaros-vlepei-apo-ti-skopia-to-mats-tou-olympiakoy\n- https://www.tovima.gr/2025/12/03/media/mega-news-kataigistiki-athlitiki-drasi-ton-dekemvrio/",
       "sources": [
         {
-          "url": "https://www.newsbomb.gr/sports/mpasket/story/1698435/nba-perasan-apo-to-san-fransisko-kai-egrapsan-istoria-oi-thanter-apotelesmata-kai-highlights",
+          "url": "https://www.tanea.gr/2025/12/03/sports/o-aris-ekane-metagrafi-stratigikou-symvoulou/",
+          "sourceName": "TA NEA"
+        },
+        {
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-olympiakos-panathinaikos-gia-to-ligk-kap-nikos-samaras-17-00-ert2-spor/",
+          "sourceName": "ERT News"
+        },
+        {
+          "url": "https://www.newsbomb.gr/sports/podosfairo/story/1698548/aek-ofi-i-endekada-tou-nikolits-gia-tin-anametrisi-sto-kypello-elladas",
           "sourceName": "Newsbomb.gr"
         },
         {
-          "url": "https://www.newsbomb.gr/sports/podosfairo/story/1698425/apofasizei-gia-3-1-o-beniteth-ta-protoselida-ton-athlitikon-efimeridon",
+          "url": "https://www.tanea.gr/2025/12/03/sports/mentilimpar-i-ellas-syrou-den-mas-afise-stigmi-na-xalarosoume/",
+          "sourceName": "TA NEA"
+        },
+        {
+          "url": "https://www.newsbomb.gr/sports/podosfairo/story/1698534/ellas-syrou-olympiakos-2-5-erythrolefki-volta-stin-ermoypoli-me-pentara",
           "sourceName": "Newsbomb.gr"
         },
         {
-          "url": "https://www.tanea.gr/2025/12/03/autonea/agora/formula1-o-lanto-noris-synexizei-na-einai-to-apolyto-favori-gia-tin-kataktisi-tou-fetinou-protathlimatos/",
+          "url": "https://www.newsbomb.gr/ellada/story/1698517/epiki-skini-sti-syro-fantaros-vlepei-apo-ti-skopia-to-mats-tou-olympiakoy",
+          "sourceName": "Newsbomb.gr"
+        },
+        {
+          "url": "https://www.newsbomb.gr/sports/podosfairo/story/1698498/live-ellas-syrou-olympiakos-gia-to-kypello-elladas",
+          "sourceName": "Newsbomb.gr"
+        },
+        {
+          "url": "https://www.tovima.gr/2025/12/03/media/mega-news-kataigistiki-athlitiki-drasi-ton-dekemvrio/",
+          "sourceName": "TO BHMA"
+        }
+      ],
+      "createdAt": "2025-12-03T15:27:52.086Z"
+    },
+    {
+      "id": "a16b36b3-352a-4190-8398-250b29c92e0f",
+      "contentType": "agent_lifestyle",
+      "category": "movies",
+      "date": "2025-12-03",
+      "title": "Ταινίες και σινεμά σε απλά λόγια",
+      "simpleText": "Η νέα ταινία της Αντζελίνα Τζολί «Sunny»\n\nΗ διάσημη ηθοποιός Αντζελίνα Τζολί ξεκίνησε μια νέα ταινία. Η ταινία λέγεται «Sunny» και είναι ένα θρίλερ. Στη ταινία αυτή, η Τζολί παίζει μια μητέρα που είναι γκάνγκστερ. Θέλει να προστατέψει τους γιους της από έναν επικίνδυνο ναρκέμπορα.\n\nΗ ιστορία της ταινίας είναι γεμάτη δράση και αγωνία. Η μητέρα πρέπει να σώσει την οικογένειά της μετά από ένα πολύ δύσκολο γεγονός. Ο χρόνος πιέζει και οι κίνδυνοι είναι πολλοί.\n\nΗ σκηνοθέτης της ταινίας είναι η Έβα Σέρχαουγκ. Η ταινία γίνεται με τη βοήθεια τριών παραγωγών. Οι παραγωγοί πιστεύουν ότι η ταινία θα αρέσει πολύ στον κόσμο.\n\nΑν σου αρέσουν οι ταινίες με πολλή δράση και συναίσθημα, μπορείς να περιμένεις αυτή την ταινία.\n\nΠηγές:\n- https://www.tanea.gr/2025/12/03/lifearts/i-antzelina-tzoli-protagonistria-kai-paragogos-sto-neo-thriler-sunny/",
+      "sources": [
+        {
+          "url": "https://www.tanea.gr/2025/12/03/lifearts/i-antzelina-tzoli-protagonistria-kai-paragogos-sto-neo-thriler-sunny/",
           "sourceName": "TA NEA"
         }
       ],
-      "createdAt": "2025-12-03T08:20:39.633Z"
+      "createdAt": "2025-12-03T15:27:56.724Z"
     },
     {
-      "id": "7835b27b-8cfb-4463-b368-557377f6e209",
+      "id": "f50ea625-05a4-4ef9-8dff-f27db839f50d",
       "contentType": "agent_lifestyle",
       "category": "music",
       "date": "2025-12-03",
       "title": "Μουσική και συναυλίες σε απλά λόγια",
-      "simpleText": "Μουσική για τις γιορτές και όχι μόνο\n\nΤο Half Note Jazz Club στην Αθήνα ετοιμάζει γιορτινό πρόγραμμα από τα Χριστούγεννα μέχρι την Πρωτοχρονιά. Θα τραγουδήσει η Emma Smith, μια διάσημη τραγουδίστρια jazz, από τις 19 έως τις 26 Δεκεμβρίου. Μετά, από 27 Δεκεμβρίου μέχρι 1 Ιανουαρίου, θα παίξουν οι Jive Aces, μια γνωστή και γεμάτη ενέργεια μπάντα με μουσική jive, swing και rock’n’roll.\n\nΣτις 7 Ιουλίου 2026, στην Πλατεία Νερού στην Αθήνα, θα γίνουν μεγάλες συναυλίες με τα συγκροτήματα The Offspring και Bad Religion. Τα εισιτήρια ξεκινούν από 55 ευρώ και υπάρχουν και ειδικά εισιτήρια για άτομα με αναπηρία.\n\nΟ Σταύρος Ξαρχάκος, γνωστός Έλληνας μουσικός, υποστηρίζει τον Μάνο Χατζιδάκι σε μια διαφωνία για τις συναυλίες που τιμούν τον Χατζιδάκι και τον Μίκη Θεοδωράκη. Αυτές οι συναυλίες είναι σημαντικές για την ελληνική μουσική.\n\nΑν σου αρέσει η μουσική, μπορείς να πας σε αυτές τις εκδηλώσεις ή να ακούσεις τους αγαπημένους σου καλλιτέχνες στο σπίτι.\n\nΠηγές:\n- https://www.ertnews.gr/eidiseis/half-note-jazz-club-emma-smith-kai-jive-aces-yposxontai-xristougenna-kai-protoxronia-gemata-lampsi-swing-kai-astamatito-rythmo/\n- https://www.ertnews.gr/eidiseis/release-athens-2026-the-offspring-kai-bad-religion-stin-plateia-nerou-stis-7-iouliou/\n- https://www.tovima.gr/2025/12/03/culture/paremvasi-ksarxakou-gia-tis-synaylies-mpofiliou-kai-xarouli-gia-ton-xatzidaki-kai-ton-theodoraki/",
+      "simpleText": "Το Spotify Wrapped 2025 και το Φεστιβάλ Μουσικής στη Θεσσαλονίκη\n\nΤο Spotify έχει ένα νέο πρόγραμμα που λέγεται Wrapped 2025. Αυτό δείχνει ποια τραγούδια και ποιους καλλιτέχνες ακούσατε περισσότερο μέσα στη χρονιά. Ο πιο δημοφιλής καλλιτέχνης φέτος είναι ο Bad Bunny, με πάνω από 19 δισεκατομμύρια ακροάσεις. Η Taylor Swift είναι στη δεύτερη θέση. Για να δείτε τα δικά σας μουσικά στατιστικά, ανοίξτε την εφαρμογή Spotify και πατήστε την επιλογή Wrapped. Αν δεν το βλέπετε, κάντε ενημέρωση της εφαρμογής σας.\n\nΣτη Θεσσαλονίκη, γίνεται ένα φεστιβάλ με μουσική δωματίου στο Αρχαιολογικό Μουσείο. Η εκδήλωση είναι στις 8 Δεκεμβρίου και θα έχει τραγούδια από διάσημους συνθέτες όπως ο Σούμπερτ και ο Λιστ. Στο φεστιβάλ θα τραγουδήσει ο κόντρα τενόρος Νικόλας Σπανός, μαζί με τον πιανίστα Χρύσανθο Θεριανό. Το πρόγραμμα βοηθά νέους μουσικούς να δείξουν το ταλέντο τους. Τα εισιτήρια κοστίζουν 10 ευρώ και 5 ευρώ για μειωμένους.\n\nΑν σας αρέσει η μουσική, μπορείτε να δείτε το Spotify Wrapped και να πάτε στο φεστιβάλ για ωραίες μουσικές στιγμές.\n\nΠηγές:\n- https://www.tanea.gr/2025/12/03/lifearts/to-spotify-wrapped-kykloforise-ti-na-kanete-an-den-vlepete-ta-prosopika-sas-statistika/\n- https://www.ertnews.gr/ert3/festival-mousikis-domatiou-tis-koth-afieroma-sto-germaniko-lied-sto-arxaiologiko-mouseio-thessalonikis/\n- https://www.tovima.gr/2025/12/03/texnologia/spotify-wrapped-2025-pos-na-vreite-to-diko-sas-ti-neo-yparxei/",
       "sources": [
         {
-          "url": "https://www.ertnews.gr/eidiseis/half-note-jazz-club-emma-smith-kai-jive-aces-yposxontai-xristougenna-kai-protoxronia-gemata-lampsi-swing-kai-astamatito-rythmo/",
+          "url": "https://www.tanea.gr/2025/12/03/lifearts/to-spotify-wrapped-kykloforise-ti-na-kanete-an-den-vlepete-ta-prosopika-sas-statistika/",
+          "sourceName": "TA NEA"
+        },
+        {
+          "url": "https://www.ertnews.gr/ert3/festival-mousikis-domatiou-tis-koth-afieroma-sto-germaniko-lied-sto-arxaiologiko-mouseio-thessalonikis/",
           "sourceName": "ERT News"
         },
         {
-          "url": "https://www.ertnews.gr/eidiseis/release-athens-2026-the-offspring-kai-bad-religion-stin-plateia-nerou-stis-7-iouliou/",
-          "sourceName": "ERT News"
-        },
-        {
-          "url": "https://www.tovima.gr/2025/12/03/culture/paremvasi-ksarxakou-gia-tis-synaylies-mpofiliou-kai-xarouli-gia-ton-xatzidaki-kai-ton-theodoraki/",
+          "url": "https://www.tovima.gr/2025/12/03/texnologia/spotify-wrapped-2025-pos-na-vreite-to-diko-sas-ti-neo-yparxei/",
           "sourceName": "TO BHMA"
         }
       ],
-      "createdAt": "2025-12-03T08:20:46.824Z"
+      "createdAt": "2025-12-03T15:28:04.820Z"
     },
     {
-      "id": "9bd9a2c0-7f8c-48f5-84cf-a6ec72a936de",
+      "id": "530de332-99f2-4414-bf80-4cc19e44c160",
       "contentType": "agent_lifestyle",
       "category": "series",
       "date": "2025-12-03",
       "title": "Σειρές και τηλεόραση με απλά λόγια",
-      "simpleText": "Συνέχεια στη σειρά Adolescence στο Netflix\n\nΗ σειρά Adolescence είναι πολύ δημοφιλής στο Netflix. Ο σκηνοθέτης της ανακοίνωσε ότι θα βγει καινούργια σεζόν. Οι φαν της σειράς είναι χαρούμενοι γιατί θέλουν να δουν τι θα γίνει με τους χαρακτήρες.\n\nΗ σειρά έχει πολλούς που την αγαπούν. Η ιστορία θα συνεχιστεί και θα μάθουμε νέα πράγματα για τους ήρωες. Αν σου αρέσουν οι σειρές με ενδιαφέρουσες ιστορίες, μπορείς να δεις την Adolescence.\n\nΠηγές:\n- https://www.newsbomb.gr/politismos/story/1698439/adolescence-o-skinothetis-tis-seiras-fainomeno-tou-netflix-milise-gia-to-mellon-tis",
+      "simpleText": "Δύο νέα νέα για σειρές στην τηλεόραση το 2025\n\nΤο γνωστό ριάλιτι μόδας GNTM θα παίζει και τις Τετάρτες πλέον. Έτσι, οι φίλοι του προγράμματος θα βλέπουν περισσότερα επεισόδια κάθε εβδομάδα. Οι διαγωνιζόμενοι θα έχουν περισσότερες ευκαιρίες να δείξουν τη δουλειά τους και τα ταλέντα τους.\n\nΗ ελληνική τηλεόραση το 2025 είχε πολλές σημαντικές στιγμές. Υπήρχαν σειρές και εκπομπές που άρεσαν πολύ στον κόσμο. Επίσης, μερικά πρόσωπα έγιναν γνωστά και αγαπητά, ενώ άλλα κέντρισαν την προσοχή για διαφορετικούς λόγους. Φέτος γιορτάστηκε και ένας μεγάλος θρύλος της τηλεόρασης, που συμπλήρωσε 100 χρόνια.\n\nΑν σου αρέσουν οι ελληνικές σειρές ή τα ριάλιτι, μπορείς να δεις το GNTM τις Τετάρτες. Θα δεις πολλή μόδα και ωραία στιγμιότυπα.\n\nΠηγές:\n- https://www.newsbomb.gr/media-agb/story/1698536/to-star-dinei-perissotero-gntm-sto-koino\n- https://www.tovima.gr/2025/12/03/tileorasi/elliniki-tileorasi-2025-ekpompes-seires-kai-prosopa-pou-ksexorisan-ki-enas-thrylos-100-eton/",
       "sources": [
         {
-          "url": "https://www.newsbomb.gr/politismos/story/1698439/adolescence-o-skinothetis-tis-seiras-fainomeno-tou-netflix-milise-gia-to-mellon-tis",
+          "url": "https://www.newsbomb.gr/media-agb/story/1698536/to-star-dinei-perissotero-gntm-sto-koino",
           "sourceName": "Newsbomb.gr"
+        },
+        {
+          "url": "https://www.tovima.gr/2025/12/03/tileorasi/elliniki-tileorasi-2025-ekpompes-seires-kai-prosopa-pou-ksexorisan-ki-enas-thrylos-100-eton/",
+          "sourceName": "TO BHMA"
         }
       ],
-      "createdAt": "2025-12-03T08:20:50.096Z"
+      "createdAt": "2025-12-03T15:28:11.136Z"
     },
     {
-      "id": "8416cb0c-8419-49ef-bf5b-97d46aa0897f",
+      "id": "af873f36-d109-4f7d-8c32-7db1993d9d8d",
       "contentType": "agent_lifestyle",
       "category": "fun",
       "date": "2025-12-03",
       "title": "Ιδέες για βόλτες και διασκέδαση",
-      "simpleText": "Ρακούν μέθυσε σε κάβα στις ΗΠΑ\n\nΈνα ρακούν μπήκε σε μια κάβα στις Ηνωμένες Πολιτείες. Η κάβα είναι ένα μαγαζί που πουλάει αλκοόλ. Ο υπάλληλος βρήκε το ρακούν στο πάτωμα του μπάνιου. Το ζώο ήταν μεθυσμένο, δηλαδή είχε πιει πολύ αλκοόλ.\n\nΗ γυναίκα που δουλεύει στην τοπική υπηρεσία βοήθησε το ρακούν. Όλοι γέλασαν όταν είδαν το περιστατικό. Είναι ασυνήθιστο να δεις ένα ζώο να μέθυσε.\n\nΑν σου αρέσουν τα ζώα, αυτή η ιστορία θα σε κάνει να χαμογελάσεις.\n\nΠηγές:\n- https://www.newsbomb.gr/kosmos/story/1698424/ipa-rakoyn-dierrikse-kava-kai-lipothymise-sto-patoma-tou-baniou-methysmeno-deite-fotografia",
+      "simpleText": "Απίθανη ιστορία με ρακούν και αλκοόλ\n\nΣτη Βιρτζίνια των Ηνωμένων Πολιτειών, ένα ρακούν βρήκε πως το αλκοόλ από μια κάβα είναι πολύ ελκυστικό. Το ζώο δοκίμασε πολλά ποτά, αναποδογύρισε ράφια και τελικά λιποθύμησε μέσα στο μπάνιο της κάβας. Ευτυχώς, η αξιωματικός Σαμάνθα το βρήκε και το πήγε σε καταφύγιο ζώων. Το ρακούν συνήλθε γρήγορα και μετά απελευθερώθηκε στη φύση.\n\nΑν σου αρέσουν οι ζώα και οι αστείες ιστορίες, αυτή σίγουρα θα σε κάνει να χαμογελάσεις.\n\nΠηγές:  \n- https://www.tanea.gr/2025/12/03/world/rakoyn-eisevale-se-kava-methyse-kai-katerreyse-sto-mpanio-kare-kare-i-drasi-toy-trixotoy-l/",
       "sources": [
         {
-          "url": "https://www.newsbomb.gr/kosmos/story/1698424/ipa-rakoyn-dierrikse-kava-kai-lipothymise-sto-patoma-tou-baniou-methysmeno-deite-fotografia",
-          "sourceName": "Newsbomb.gr"
+          "url": "https://www.tanea.gr/2025/12/03/world/rakoyn-eisevale-se-kava-methyse-kai-katerreyse-sto-mpanio-kare-kare-i-drasi-toy-trixotoy-l/",
+          "sourceName": "TA NEA"
+        },
+        {
+          "url": "https://www.protagon.gr/epikairotita/avevaiotita-gia-ta-xristougenna-logw-travmatismou-tou-ai-vasili-se-basketiko-atyxima-44343268917",
+          "sourceName": "Protagon"
+        },
+        {
+          "url": "https://www.tovima.gr/2025/12/03/elliniki-kouzina/diples-kai-kserotigana-i-istoria-piso-apo-ta-2-agapimena-glyka-ton-giorton/",
+          "sourceName": "TO BHMA"
         }
       ],
-      "createdAt": "2025-12-03T08:20:54.248Z"
+      "createdAt": "2025-12-03T15:28:16.205Z"
     }
   ]
 }
