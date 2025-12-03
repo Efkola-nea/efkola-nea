@@ -37,7 +37,7 @@ jobs:
       - name: Generate lifestyle articles (lifestyle.json)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node generateLifestyle.js   # <- πρόσεξε το όνομα εδώ
+        run: node generateLifestyle.mjs   # <- πρόσεξε το όνομα εδώ
 
       - name: Commit and push JSON files
         run: |
