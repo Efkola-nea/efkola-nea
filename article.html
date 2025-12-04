@@ -21,7 +21,7 @@
       position: relative;
     }
 
-    /* φλου full-screen backround για σοβαρές και lifestyle ειδήσεις */
+    /* φλου full-screen backround για σοβαρές & lifestyle ειδήσεις */
     .article-bg {
       position: fixed;
       inset: 0;
@@ -157,7 +157,7 @@
       <article class="article-main-card">
         <h1 id="article-title" class="article-main-title">Φορτώνω το άρθρο…</h1>
 
-        <!-- Εικόνα άρθρου από news.json -->
+        <!-- Εικόνα άρθρου από news.json (όχι για lifestyle) -->
         <div id="article-image-wrapper" class="article-image-wrapper" style="display:none;">
           <img id="article-image" class="article-image" alt="Εικόνα άρθρου" />
         </div>
@@ -195,51 +195,21 @@
         .replace(/'/g, "&#39;");
     }
 
-    // Αφαιρούμε ΟΛΕΣ τις ενότητες "Πηγές" που μπορεί να έχει γράψει το LLM
+    // Αφαιρούμε ενότητα "Πηγές:" που μπορεί να έχει γράψει το LLM
     function stripSourcesSection(text) {
       if (!text) return "";
-
-      const lines = text.split(/\r?\n/);
-      let firstSourcesIndex = -1;
-
-      for (let i = 0; i < lines.length; i++) {
-        const trimmed = lines[i].trim();
-        // Πιάνουμε γραμμές τύπου "Πηγές", "Πηγές:", "**Πηγές:**" κτλ.
-        if (/^(\*+)?\s*Πηγές:?/i.test(trimmed)) {
-          firstSourcesIndex = i;
-          break;
-        }
-      }
-
-      if (firstSourcesIndex === -1) {
-        return text;
-      }
-
-      return lines.slice(0, firstSourcesIndex).join("\n").trim();
+      const markerIndex = text.lastIndexOf("Πηγές:");
+      if (markerIndex === -1) return text;
+      return text.slice(0, markerIndex).trim();
     }
 
     function cleanMarkdown(text) {
       if (!text) return "";
-
-      // 1) Βγάζουμε οτιδήποτε έρχεται μετά την πρώτη γραμμή "Πηγές"
-      let cleaned = stripSourcesSection(text);
-
-      // 2) Βγάζουμε markdown links: [τίτλος](url) -> "τίτλος"
-      cleaned = cleaned.replace(
-        /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
-        "$1"
-      );
-
-      // 3) Βγάζουμε γυμνά urls τύπου https://...
-      cleaned = cleaned.replace(/https?:\/\/[^\s)]+/g, "");
-
-      // 4) Βγάζουμε **bold** και ### headings
-      cleaned = cleaned
+      const withoutSources = stripSourcesSection(text);
+      return withoutSources
         .replace(/\*\*(.+?)\*\*/g, "$1")
         .replace(/###\s*/g, "")
         .trim();
-
-      return cleaned;
     }
 
     // 🔊 Κατάσταση για play / pause / resume
@@ -475,7 +445,7 @@
         const displayTitle = article.simpleTitle || article.title || "";
         const cleaned = cleanMarkdown(article.simpleText || "");
 
-        // lifestyle / απλές κατηγορίες background
+        // background ανά κατηγορία (για απλές ειδήσεις)
         if (article.category) {
           setLifestyleBackground(article.category);
         }
@@ -646,59 +616,70 @@
       }
     }
 
+    // ✅ ΝΕΟ: Φόρτωση lifestyle άρθρου από lifestyle.json, ΜΟΝΟ για τη σωστή κατηγορία
     async function loadLifestyleArticle({
-      idParam,
       categoryParam,
       titleEl,
       bodyEl,
       sourceEl,
       listenBtn,
     }) {
+      if (!categoryParam) {
+        titleEl.textContent = "Δεν βρέθηκε η κατηγορία";
+        bodyEl.textContent =
+          "Λείπει η πληροφορία για το είδος της lifestyle κατηγορίας.";
+        listenBtn.disabled = true;
+        return;
+      }
+
+      // background ανά lifestyle κατηγορία
+      setLifestyleBackground(categoryParam);
+
       try {
         const res = await fetch("lifestyle.json?cachebust=" + Date.now());
         if (!res.ok) {
           throw new Error("HTTP " + res.status);
         }
+
         const data = await res.json();
         const list = Array.isArray(data.articles) ? data.articles : [];
 
         if (!list.length) {
           titleEl.textContent = "Δεν βρέθηκαν lifestyle ειδήσεις";
           bodyEl.textContent =
-            "Δεν υπάρχει διαθέσιμο άρθρο για αυτή την κατηγορία αυτή τη στιγμή.";
+            "Δεν υπάρχει διαθέσιμο lifestyle άρθρο αυτή τη στιγμή.";
           listenBtn.disabled = true;
           return;
         }
 
-        let article = null;
+        // 🔍 Βρίσκουμε ΜΟΝΟ το άρθρο για τη συγκεκριμένη κατηγορία
+        let article = list.find((a) => a.category === categoryParam);
 
-        if (idParam) {
-          article = list.find((a) => String(a.id) === String(idParam));
-        }
-        if (!article && categoryParam) {
-          article = list.find((a) => a.category === categoryParam);
-        }
         if (!article) {
-          article = list[0];
+          // Δεν κάνουμε fallback σε άλλη κατηγορία (π.χ. sports) – δείχνουμε καθαρό μήνυμα.
+          titleEl.textContent = "Δεν βρέθηκε άρθρο για αυτή την κατηγορία";
+          bodyEl.textContent =
+            "Σήμερα δεν υπάρχει lifestyle άρθρο για αυτή την κατηγορία.";
+          listenBtn.disabled = true;
+          sourceEl.innerHTML = "";
+          return;
         }
 
         const displayTitle = article.title || "Ενημέρωση σε απλά λόγια";
         const cleaned = cleanMarkdown(article.simpleText || "");
 
-        if (article.category) {
-          setLifestyleBackground(article.category);
-        }
-
         titleEl.textContent = displayTitle;
         bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
 
+        // Πηγές στο τέλος (από το lifestyle.json)
         renderSourcesBlock(sourceEl, article, null);
 
         document.title = displayTitle + " - Εύκολες Ειδήσεις";
 
+        // 🎧 setup play / pause / resume
         setupTtsButton(listenBtn, displayTitle, cleaned);
       } catch (err) {
-        console.error(err);
+        console.error("Σφάλμα φόρτωσης lifestyle.json:", err);
         titleEl.textContent = "Προέκυψε σφάλμα";
         bodyEl.textContent =
           "Δεν μπόρεσα να φορτώσω το lifestyle άρθρο: " + err.message;
@@ -733,7 +714,6 @@
         });
       } else if (source === "lifestyle") {
         await loadLifestyleArticle({
-          idParam,
           categoryParam,
           titleEl,
           bodyEl,
