@@ -1,3 +1,8 @@
+// weatherWidget.js
+// Widget καιρού σε απλά ελληνικά, με 4 σύντομες προτάσεις.
+
+"use strict";
+
 // ===== Βοηθητικές συναρτήσεις για καιρό =====
 
 function mapWeatherToIconAndSky(code, isNight) {
@@ -33,54 +38,6 @@ function mapWeatherToIconAndSky(code, isNight) {
   return { icon: "🌈", sky: "άγνωστος" };
 }
 
-function describeTemperature(temp) {
-  if (typeof temp !== "number" || isNaN(temp)) {
-    return "Δεν ξέρουμε ακριβώς πόσο ζέστη ή κρύο κάνει.";
-  }
-  if (temp <= 5) {
-    return "Κάνει πολύ κρύο.";
-  }
-  if (temp <= 15) {
-    return "Ο καιρός είναι κρύος.";
-  }
-  if (temp <= 25) {
-    return "Ο καιρός είναι ήπιος.";
-  }
-  if (temp <= 32) {
-    return "Ο καιρός είναι ζεστός.";
-  }
-  return "Κάνει πολύ ζέστη.";
-}
-
-function getClothingAdvice(temp) {
-  if (typeof temp !== "number" || isNaN(temp)) {
-    return "Φόρα ρούχα που σε κάνουν να νιώθεις άνετα.";
-  }
-  if (temp <= 5) {
-    return "Καλό είναι να φορέσεις χοντρό μπουφάν και ζεστά ρούχα.";
-  }
-  if (temp <= 15) {
-    return "Καλό είναι να φορέσεις μπουφάν ή ζακέτα.";
-  }
-  if (temp <= 25) {
-    return "Μπορείς να φορέσεις ελαφριά ρούχα. Ίσως χρειαστεί μια λεπτή ζακέτα.";
-  }
-  return "Φόρα ελαφριά ρούχα. Καλό είναι να μη ζεσταίνεσαι πολύ.";
-}
-
-function describeRain(precip) {
-  if (typeof precip !== "number" || isNaN(precip)) {
-    return "Δεν ξέρουμε αν βρέχει αυτή τη στιγμή.";
-  }
-  if (precip === 0) {
-    return "Τώρα δεν φαίνεται να βρέχει.";
-  }
-  if (precip < 1) {
-    return "Τώρα μπορεί να ψιχαλίζει λίγο.";
-  }
-  return "Τώρα βρέχει.";
-}
-
 // υπολογίζει τη μέγιστη πιθανότητα βροχής στις επόμενες ώρες
 function getFutureRainProbability(data) {
   const hourly = data && data.hourly;
@@ -106,68 +63,72 @@ function getFutureRainProbability(data) {
     if (hoursDiff < 0 || hoursDiff > 12) continue;
 
     const p = typeof probs[i] === "number" ? probs[i] : Number(probs[i]);
-    if (!isNaN(p)) {
-      if (p > maxProb) maxProb = p;
+    if (!isNaN(p) && p > maxProb) {
+      maxProb = p;
     }
   }
 
   return maxProb;
 }
 
-// φράση για το "αργότερα σήμερα" με βάση την πιθανότητα βροχής
-function buildFutureRainSentence(precipNow, futureMaxProb) {
-  const rainingNow =
-    typeof precipNow === "number" && !isNaN(precipNow) && precipNow > 0.1;
-
-  if (futureMaxProb == null) {
-    return "Δεν ξέρουμε πώς θα είναι ο καιρός αργότερα σήμερα.";
+// Πρόταση για τα ρούχα, με βάση τη θερμοκρασία
+function getClothingSentence(tempValue) {
+  if (typeof tempValue !== "number" || isNaN(tempValue)) {
+    return "Βάλε ρούχα που σε κάνουν να νιώθεις άνετα.";
   }
-
-  if (futureMaxProb >= 80) {
-    return rainingNow
-      ? "Τώρα βρέχει και φαίνεται ότι θα βρέξει και πιο μετά μέσα στην ημέρα."
-      : "Ο καιρός είναι καλός τώρα αλλά πιο μετά θα βρέξει.";
+  if (tempValue <= 5) {
+    return "Θα χρειαστείς χοντρό μπουφάν.";
   }
-
-  if (futureMaxProb >= 40) {
-    return rainingNow
-      ? "Τώρα βρέχει λίγο. Μπορεί να βρέξει και αργότερα μέσα στην ημέρα."
-      : "Ο καιρός είναι καλός τώρα αλλά μπορεί να βρέξει αργότερα.";
+  if (tempValue <= 15) {
+    return "Θα χρειαστείς ζεστή ζακέτα.";
   }
-
-  if (futureMaxProb >= 10) {
-    return rainingNow
-      ? "Τώρα βρέχει, αλλά μάλλον πιο μετά θα είναι καλύτερα."
-      : "Μάλλον δεν θα βρέξει, αλλά μπορεί να πέσουν λίγες σταγόνες αργότερα.";
+  if (tempValue <= 25) {
+    return "Θα νιώθεις καλά με μια ζακέτα.";
   }
-
-  return rainingNow
-    ? "Τώρα βρέχει, αλλά φαίνεται ότι αργότερα θα σταματήσει."
-    : "Μάλλον δεν θα βρέξει αργότερα μέσα στην ημέρα.";
+  return "Θα νιώθεις καλά με ελαφριά ρούχα.";
 }
 
-function getUmbrellaAdvice(futureMaxProb, precipNow) {
-  const rainingNow =
-    typeof precipNow === "number" && !isNaN(precipNow) && precipNow > 0.1;
+// Πρόταση για τη βροχή αργότερα σήμερα
+function getFutureRainSentence(futureMaxProb, rainingNow) {
+  if (futureMaxProb == null) {
+    return "Δεν ξέρουμε αν θα βρέξει αργότερα.";
+  }
+
+  if (futureMaxProb >= 60) {
+    return rainingNow
+      ? "Θα συνεχίσει να βρέχει και αργότερα."
+      : "Αργότερα σήμερα θα βρέξει.";
+  }
+
+  if (futureMaxProb >= 30) {
+    return "Μπορεί να βρέξει και αργότερα.";
+  }
 
   if (rainingNow) {
-    return "Αν βγεις έξω, καλό είναι να έχεις μαζί σου ομπρέλα.";
+    return "Αργότερα σήμερα η βροχή μάλλον θα σταματήσει.";
+  }
+
+  return "Μάλλον δεν θα βρέξει αργότερα.";
+}
+
+// Πρόταση για την ομπρέλα
+function getUmbrellaSentence(futureMaxProb, rainingNow) {
+  if (rainingNow) {
+    return "Αν βγεις έξω, πάρε ομπρέλα.";
   }
 
   if (futureMaxProb == null) {
-    return "Αν ανησυχείς για βροχή, μπορείς να πάρεις μια μικρή ομπρέλα.";
-  }
-
-  if (futureMaxProb >= 80) {
-    return "Καλό είναι να πάρεις ομπρέλα μαζί σου σήμερα.";
+    return "Αν φοβάσαι μήπως βρέξει, μπορείς να πάρεις μια ομπρέλα.";
   }
 
   if (futureMaxProb >= 40) {
-    return "Ίσως χρειαστεί ομπρέλα. Αν μπορείς, πάρε μία μαζί.";
+    return "Αν βγεις έξω, καλό είναι να πάρεις ομπρέλα.";
   }
 
-  return "Δεν φαίνεται να είναι απαραίτητη η ομπρέλα σήμερα.";
+  return "Η ομπρέλα μάλλον δεν χρειάζεται σήμερα.";
 }
+
+// ===== Γεωεντοπισμός χρήστη =====
 
 // 1️⃣ browser geolocation
 async function getLocationFromBrowser() {
@@ -247,7 +208,7 @@ async function initWeatherWidget() {
   if (!iconEl || !mainEl) return;
 
   mainEl.textContent = "Φορτώνω τον καιρό…";
-  subEl.textContent = "";
+  if (subEl) subEl.textContent = "";
   if (adviceEl) adviceEl.textContent = "";
 
   try {
@@ -285,23 +246,64 @@ async function initWeatherWidget() {
     const precipNow = current.precipitation;
 
     const { icon, sky } = mapWeatherToIconAndSky(code, isNight);
-    const tempText = describeTemperature(temp);
-    const nowRainText = describeRain(precipNow);
     const futureMaxProb = getFutureRainProbability(data);
-    const futureRainText = buildFutureRainSentence(precipNow, futureMaxProb);
-    const clothingText = getClothingAdvice(temp);
-    const umbrellaText = getUmbrellaAdvice(futureMaxProb, precipNow);
+    const tempValue =
+      typeof temp === "number" && !isNaN(temp) ? temp : null;
+    const rainingNow =
+      typeof precipNow === "number" && !isNaN(precipNow) && precipNow > 0.1;
 
     iconEl.textContent = icon;
-    mainEl.textContent =
-      "Ο καιρός στην περιοχή σου τώρα. " +
-      tempText +
-      " Ο ουρανός είναι " +
-      sky +
-      ".";
-    subEl.textContent = nowRainText + " " + futureRainText;
+
+    // 1️⃣ ΠΡΩΤΗ ΠΡΟΤΑΣΗ: Τι γίνεται ΤΩΡΑ
+    let firstSentence;
+    const isStorm = [95, 96, 99].includes(code);
+    const isRain = [61, 63, 65, 80, 81, 82].includes(code);
+    const isDrizzle = [51, 53, 55, 56, 57].includes(code);
+    const isSnow = [71, 73, 75, 77, 85, 86].includes(code);
+
+    if (isStorm) {
+      firstSentence = "Τώρα στην περιοχή σου έχει καταιγίδα.";
+    } else if (isSnow) {
+      firstSentence = "Τώρα στην περιοχή σου χιονίζει.";
+    } else if (isRain) {
+      firstSentence = "Τώρα στην περιοχή σου βρέχει.";
+    } else if (isDrizzle) {
+      firstSentence = "Τώρα στην περιοχή σου ψιχαλίζει.";
+    } else if (code === 0 && isNight) {
+      firstSentence = "Τώρα στην περιοχή σου έχει ξαστεριά.";
+    } else if (code === 0) {
+      firstSentence = "Τώρα στην περιοχή σου έχει ήλιο.";
+    } else if ([1, 2, 3].includes(code) && isNight) {
+      firstSentence = "Τώρα στην περιοχή σου έχει λίγα σύννεφα το βράδυ.";
+    } else if ([1, 2, 3].includes(code)) {
+      firstSentence = "Τώρα στην περιοχή σου έχει λίγα σύννεφα.";
+    } else {
+      firstSentence =
+        "Τώρα στην περιοχή σου ο ουρανός είναι " + sky + ".";
+    }
+
+    // 2️⃣ ΔΕΥΤΕΡΗ ΠΡΟΤΑΣΗ: Τι γίνεται ΑΡΓΟΤΕΡΑ
+    const secondSentence = getFutureRainSentence(
+      futureMaxProb,
+      rainingNow
+    );
+
+    // 3️⃣ ΤΡΙΤΗ ΠΡΟΤΑΣΗ: Ρούχα
+    const thirdSentence = getClothingSentence(tempValue);
+
+    // 4️⃣ ΤΕΤΑΡΤΗ ΠΡΟΤΑΣΗ: Ομπρέλα
+    const fourthSentence = getUmbrellaSentence(
+      futureMaxProb,
+      rainingNow
+    );
+
+    // 🔚 Γράφουμε τα κείμενα στο widget
+    mainEl.textContent = firstSentence;
+    if (subEl) {
+      subEl.textContent = secondSentence;
+    }
     if (adviceEl) {
-      adviceEl.textContent = clothingText + " " + umbrellaText;
+      adviceEl.textContent = thirdSentence + " " + fourthSentence;
     }
   } catch (err) {
     console.error(err);
@@ -318,3 +320,4 @@ async function initWeatherWidget() {
 
 // κάνουμε την init διαθέσιμη στο window
 window.initWeatherWidget = initWeatherWidget;
+
