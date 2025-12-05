@@ -118,8 +118,8 @@ ${JSON.stringify(items, null, 2)}
     text: {
       format: {
         type: "json_schema",
+        name: "SeriousTopics",
         json_schema: {
-          name: "SeriousTopics",
           schema: {
             type: "array",
             items: {

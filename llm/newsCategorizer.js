@@ -31,8 +31,8 @@ async function classifyNewsArticle({ title, simpleText, rawText }) {
     text: {
       format: {
         type: "json_schema",
+        name: "news_category",
         json_schema: {
-          name: "news_category",
           schema: {
             type: "object",
             properties: {
