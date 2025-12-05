@@ -28,8 +28,8 @@ async function classifyNewsArticle({ title, simpleText, rawText }) {
     model: "gpt-4o-mini",
     instructions: NEWS_CATEGORY_SYSTEM_PROMPT,
     input: userContent,
-    response_format: {
-      type: "json_schema",
+    text: {
+      format: "json_schema",
       json_schema: {
         name: "news_category",
         schema: {

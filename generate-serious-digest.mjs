@@ -115,8 +115,8 @@ ${JSON.stringify(items, null, 2)}
     instructions: SERIOUS_TOPICS_SYSTEM_PROMPT,
     input: userPrompt,
     max_output_tokens: 800,
-    response_format: {
-      type: "json_schema",
+    text: {
+      format: "json_schema",
       json_schema: {
         name: "SeriousTopics",
         schema: {
