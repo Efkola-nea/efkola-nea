@@ -116,25 +116,27 @@ ${JSON.stringify(items, null, 2)}
     input: userPrompt,
     max_output_tokens: 800,
     text: {
-      format: "json_schema",
-      schema: {
-        name: "SeriousTopics",
-        schema: {
-          type: "array",
-          items: {
-            type: "object",
-            properties: {
-              id: { type: "string" },
-              topic: {
-                type: "string",
-                enum: ["politics_economy", "social", "world", "other"],
+      format: {
+        type: "json_schema",
+        json_schema: {
+          name: "SeriousTopics",
+          schema: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                id: { type: "string" },
+                topic: {
+                  type: "string",
+                  enum: ["politics_economy", "social", "world", "other"],
+                },
               },
+              required: ["id", "topic"],
+              additionalProperties: false,
             },
-            required: ["id", "topic"],
-            additionalProperties: false,
           },
+          strict: true,
         },
-        strict: true,
       },
     },
   });

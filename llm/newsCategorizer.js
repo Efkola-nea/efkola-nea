@@ -29,19 +29,21 @@ async function classifyNewsArticle({ title, simpleText, rawText }) {
     instructions: NEWS_CATEGORY_SYSTEM_PROMPT,
     input: userContent,
     text: {
-      format: "json_schema",
-      schema: {
-        name: "news_category",
-        schema: {
-          type: "object",
-          properties: {
-            category: { type: "string", enum: CATEGORY_KEYS },
-            reason: { type: "string" },
+      format: {
+        type: "json_schema",
+        json_schema: {
+          name: "news_category",
+          schema: {
+            type: "object",
+            properties: {
+              category: { type: "string", enum: CATEGORY_KEYS },
+              reason: { type: "string" },
+            },
+            required: ["category", "reason"],
+            additionalProperties: false,
           },
-          required: ["category", "reason"],
-          additionalProperties: false,
+          strict: true,
         },
-        strict: true,
       },
     },
   });
