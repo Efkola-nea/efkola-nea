@@ -12,6 +12,11 @@ const SERIOUS_DIGEST_PATH = new URL("./serious-digest.json", import.meta.url);
 
 // Θεματικές για τις σοβαρές ειδήσεις
 const SERIOUS_TOPICS = ["politics_economy", "social", "world"];
+const SERIOUS_TOPIC_LABELS = {
+  politics_economy: "πολιτική και οικονομική επικαιρότητα",
+  social: "κοινωνικά θέματα",
+  world: "παγκόσμια επικαιρότητα",
+};
 
 // Πόσα θέματα (max) θα δίνουμε ως context σε κάθε θεματική
 const MAX_ITEMS_PER_TOPIC = 6;
@@ -32,6 +37,24 @@ function extractTextFromResponse(response) {
   throw new Error("Δεν βρέθηκε text στο response του μοντέλου");
 }
 
+// Αφαιρεί inline markdown links από το σώμα, αφήνοντας την ενότητα Πηγές ως έχει
+function stripInlineLinksOutsideSourcesSection(text) {
+  const parts = text.split(/(^|\n)Πηγές:/);
+
+  if (parts.length === 1) {
+    return text.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
+  }
+
+  const [beforeSources, , afterSources] = parts;
+
+  const cleanedBody = beforeSources.replace(
+    /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
+    "$1"
+  );
+
+  return cleanedBody + "\nΠηγές:" + (afterSources ?? "");
+}
+
 // Τίτλοι για τις 3 θεματικές
 function digestTitleForTopic(topic) {
   switch (topic) {
@@ -43,19 +66,6 @@ function digestTitleForTopic(topic) {
       return "Παγκόσμια επικαιρότητα σε απλά λόγια";
     default:
       return "Σοβαρή είδηση σε απλά λόγια";
-  }
-}
-
-function humanLabelForTopic(topic) {
-  switch (topic) {
-    case "politics_economy":
-      return "πολιτική και οικονομική επικαιρότητα";
-    case "social":
-      return "κοινωνικά θέματα";
-    case "world":
-      return "παγκόσμια επικαιρότητα";
-    default:
-      return "σοβαρές ειδήσεις";
   }
 }
 
@@ -199,92 +209,111 @@ ${JSON.stringify(items, null, 2)}
 
 // ---------- Δημιουργία άρθρου με web search για μία θεματική ----------
 
-/**
- * Γράφει ένα νέο άρθρο για ΜΙΑ θεματική (politics_economy | social | world)
- * βασισμένο σε:
- * - mainArticle: το θέμα με τα περισσότερα sites
- * - contextArticles: επιπλέον θέματα της ίδιας θεματικής
- * Χρησιμοποιεί web search για να συμπληρώσει/επικαιροποιήσει.
- */
-async function generateDigestForTopic(topic, mainArticle, contextArticles) {
-  if (!mainArticle) return null;
-
-  const label = humanLabelForTopic(topic);
-  const title = digestTitleForTopic(topic);
+async function generateSeriousDigestForTopic(
+  topicKey,
+  mainArticle,
+  relatedArticles
+) {
+  const topicLabel = SERIOUS_TOPIC_LABELS[topicKey] || "σοβαρές ειδήσεις";
+  const title = digestTitleForTopic(topicKey);
   const today = new Date().toISOString().slice(0, 10);
+  const hasMain = Boolean(mainArticle);
 
-  // payloads με τα ελάχιστα απαραίτητα για το LLM
-  const mainPayload = {
-    id: mainArticle.id,
-    title: mainArticle.simpleTitle || mainArticle.title,
-    summary: mainArticle.simpleText || "",
-    sources: mainArticle.sources || [],
-    publishedAt: mainArticle.publishedAt || null,
-  };
-
-  const others = contextArticles
-    .filter((a) => a.id !== mainArticle.id)
-    .slice(0, MAX_ITEMS_PER_TOPIC - 1)
-    .map((a) => ({
+  const payload = {
+    topic: topicKey,
+    topicLabel,
+    date: today,
+    mainArticle: hasMain
+      ? {
+          id: mainArticle.id,
+          title: mainArticle.simpleTitle || mainArticle.title,
+          summary: mainArticle.simpleText || "",
+          sourceName: mainArticle.sourceName || null,
+          sourceUrl: mainArticle.sourceUrl || null,
+          publishedAt: mainArticle.publishedAt || null,
+        }
+      : null,
+    relatedArticles: (relatedArticles || []).map((a) => ({
       id: a.id,
       title: a.simpleTitle || a.title,
-      summary: (a.simpleText || "").slice(0, 800),
-      sources: a.sources || [],
+      summary: a.simpleText || "",
+      sourceName: a.sourceName || null,
+      sourceUrl: a.sourceUrl || null,
       publishedAt: a.publishedAt || null,
-    }));
+    })),
+  };
 
-  const userPrompt = `
-Σήμερα (${today}) γράφεις ένα άρθρο για: ${label}.
+  let userContent;
 
-Σου δίνουμε τα πιο σημαντικά θέματα από ελληνικά RSS, ταξινομημένα
-με βάση πόσα διαφορετικά sites γράφουν για αυτά.
+  if (hasMain) {
+    userContent = `
 
-Το ΚΥΡΙΟ θέμα (αυτό με τα περισσότερα sites) είναι:
 
-${JSON.stringify(mainPayload, null, 2)}
+Θέμα serious digest: ${topicLabel} (${topicKey})
+Ημερομηνία: ${today}
 
-Επιπλέον σχετικά θέματα για context:
+Παρακάτω είναι τα δεδομένα σε JSON για μια ομάδα σοβαρών ειδήσεων που αφορούν την ενότητα "${topicLabel}".
 
-${JSON.stringify(others, null, 2)}
+Το "mainArticle" είναι το βασικό γεγονός.
 
-Οδηγίες:
-1. Χρησιμοποίησε τα παραπάνω ως βάση.
-2. Κάνε web search για να δεις:
-   - αν υπάρχουν νεότερες πληροφορίες για ΑΥΤΟ το βασικό θέμα,
-   - αν υπάρχουν σημαντικές λεπτομέρειες που λείπουν.
-3. Γράψε ΕΝΑ ενιαίο άρθρο για το βασικό θέμα, σε πολύ απλά ελληνικά.
-4. Εξήγησε με απλά λόγια:
-   - τι έγινε,
-   - πότε,
-   - πού,
-   - ποιοι εμπλέκονται,
-   - γιατί είναι σημαντικό για τον κόσμο.
-5. Στο τέλος γράψε "Πηγές:" και από κάτω bullets
-   με σημαντικά sites/άρθρα που χρησιμοποίησες (όνομα + url αν το έχεις).
+Τα "relatedArticles" είναι επιπλέον άρθρα για το ίδιο ή πολύ κοντινό θέμα.
 
-Μην απαντήσεις με JSON.
-Επέστρεψε μόνο καθαρό κείμενο (markdown επιτρέπεται).
+Θέλω:
+
+Να γράψεις ΕΝΑ σύντομο άρθρο που να εξηγεί την είδηση με απλά λόγια.
+
+Να συνδυάσεις πληροφορίες από όλα τα άρθρα, αλλά να τα παρουσιάσεις σαν ΜΙΑ ενιαία ιστορία.
+
+Αν χρειάζεται, μπορείς να χρησιμοποιήσεις web search για να συμπληρώσεις μικρές λεπτομέρειες ή νεότερα στοιχεία για το ΙΔΙΟ γεγονός.
+
+Δεδομένα (JSON):
+${JSON.stringify(payload, null, 2)}
+`;
+  } else {
+    userContent = `
+
+
+Θέμα serious digest: ${topicLabel} (${topicKey})
+Ημερομηνία: ${today}
+
+Δεν βρέθηκαν καθόλου κατάλληλα άρθρα στο δικό μας news.json για αυτή την ενότητα.
+
+Θέλω:
+
+Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
+για να βρεις ένα σημαντικό γεγονός της ημέρας που ανήκει στην ενότητα "${topicLabel}".
+
+Να γράψεις ΕΝΑ άρθρο σε απλά ελληνικά, σαν ενημέρωση για ενήλικες με ήπιες νοητικές δυσκολίες.
+
+Να μην εφευρίσκεις γεγονότα. Στηρίξου στα αποτελέσματα του web search.
+
+Για αναφορά, τα metadata σε JSON (δεν περιέχουν άρθρα):
+${JSON.stringify(payload, null, 2)}
 `;
 
+    console.log(`ℹ️ Fallback με web search για serious topic ${topicKey}`);
+  }
+
   const response = await openai.responses.create({
-    model: "gpt-4.1", // Μπορείς να το αλλάξεις σε gpt-4.1-mini αν θέλεις χαμηλότερο κόστος
+    model: "gpt-4.1",
     instructions: SERIOUS_DIGEST_SYSTEM_PROMPT,
     tools: [{ type: "web_search_preview" }],
-    input: userPrompt,
+    input: userContent,
     max_output_tokens: 1600,
   });
 
-  const simpleText = extractTextFromResponse(response).trim();
+  let simpleText = extractTextFromResponse(response).trim();
+  simpleText = stripInlineLinksOutsideSourcesSection(simpleText);
 
   return {
     id: crypto.randomUUID(),
     contentType: "agent_serious_digest",
-    topic,
-    topicLabel: label,
+    topic: topicKey,
+    topicLabel,
     title,
     simpleText,
-    mainArticleId: mainArticle.id,
-    relatedArticleIds: others.map((o) => o.id),
+    mainArticleId: hasMain ? mainArticle.id : null,
+    relatedArticleIds: (relatedArticles || []).map((a) => a.id),
     createdAt: new Date().toISOString(),
   };
 }
@@ -309,17 +338,9 @@ async function main() {
   );
 
   if (!serious.length) {
-    console.log("ℹ️ Δεν υπάρχουν σοβαρές ειδήσεις στο news.json – empty digest.");
-    const output = {
-      generatedAt: new Date().toISOString(),
-      articles: [],
-    };
-    await fs.writeFile(
-      SERIOUS_DIGEST_PATH,
-      JSON.stringify(output, null, 2),
-      "utf-8"
+    console.log(
+      "ℹ️ Δεν υπάρχουν σοβαρές ειδήσεις στο news.json – θα χρησιμοποιήσουμε web search για κάθε θεματική."
     );
-    return;
   }
 
   // 2. Ταξινόμηση σοβαρών ειδήσεων με βάση:
@@ -347,40 +368,34 @@ async function main() {
     }
   }
 
-  // Fallbacks: αν μια κατηγορία βγει άδεια, βάζουμε κάποιο από τα υπόλοιπα
-  const remaining = [...sortedSerious];
-  for (const topic of SERIOUS_TOPICS) {
-    if (byTopic[topic].length === 0 && remaining.length) {
-      byTopic[topic].push(remaining.shift());
-    }
-  }
-
   const digestArticles = [];
 
-  // 4. Για κάθε θεματική, επιλέγουμε τα top N (με βάση score)
+  // 4. Για κάθε θεματική, επιλέγουμε τα top N (με βάση score) ή fallback web search
   for (const topic of SERIOUS_TOPICS) {
-    const items = byTopic[topic];
-    if (!items || !items.length) {
-      console.log(`ℹ️ Δεν βρέθηκαν θέματα για θεματική ${topic}, skip.`);
-      continue;
-    }
+    const items = byTopic[topic] || [];
 
-    const topItems = [...items].sort(
+    const sortedItems = [...items].sort(
       (a, b) => scoreSeriousArticle(b) - scoreSeriousArticle(a)
     );
 
-    const contextItems = topItems.slice(0, MAX_ITEMS_PER_TOPIC);
-    const mainArticle = contextItems[0];
+    const contextItems = sortedItems.slice(0, MAX_ITEMS_PER_TOPIC);
+    const [mainArticle, ...restContext] = contextItems;
 
-    console.log(
-      `🧠 Δημιουργία άρθρου σοβαρής επικαιρότητας για "${topic}" με κύριο θέμα:`,
-      mainArticle.simpleTitle || mainArticle.title
-    );
+    if (mainArticle) {
+      console.log(
+        `🧠 Δημιουργία άρθρου σοβαρής επικαιρότητας για "${topic}" με κύριο θέμα:`,
+        mainArticle.simpleTitle || mainArticle.title
+      );
+    } else {
+      console.log(
+        `🧠 Fallback web search για θεματική "${topic}" (χωρίς άρθρα από RSS).`
+      );
+    }
 
-    const digest = await generateDigestForTopic(
+    const digest = await generateSeriousDigestForTopic(
       topic,
-      mainArticle,
-      contextItems
+      mainArticle || null,
+      mainArticle ? restContext : []
     );
 
     if (digest) {

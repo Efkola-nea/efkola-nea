@@ -113,68 +113,102 @@ function groupLifestyleArticlesByCategory(allArticles) {
 
 // Κλήση στο OpenAI για μία κατηγορία (με web search) – με mainItem όπως στο serious
 async function generateLifestyleArticleForCategory(category, items) {
-  if (!items.length) {
-    console.log(`ℹ️ Δεν υπάρχουν άρθρα για κατηγορία ${category}, skip.`);
-    return null;
-  }
-
   const today = new Date().toISOString().slice(0, 10);
 
-  // 👉 Τα items είναι ήδη ταξινομημένα με scoreLifestyleArticle
-  // (περισσότερες πηγές + πιο πρόσφατα)
-  const [mainItem, ...restItems] = items;
+  let payload;
+  let userContent;
 
-  const payload = {
-    date: today,
-    category,
-    mainItem: {
-      id: mainItem.id,
-      title: mainItem.simpleTitle || mainItem.title,
-      summary: mainItem.simpleText || "",
-      sourceName: mainItem.sourceName || null,
-      sourceUrl: mainItem.sourceUrl || null,
-      sourcesCount: Array.isArray(mainItem.sources)
-        ? mainItem.sources.length
-        : 1,
-      publishedAt: mainItem.publishedAt || null,
-    },
-    // Τα υπόλοιπα articles δίνονται μόνο ως context
-    contextItems: restItems.map((a) => ({
-      id: a.id,
-      title: a.simpleTitle || a.title,
-      summary: a.simpleText || "",
-      sourceName: a.sourceName || null,
-      sourceUrl: a.sourceUrl || null,
-      sourcesCount: Array.isArray(a.sources) ? a.sources.length : 1,
-      publishedAt: a.publishedAt || null,
-    })),
-  };
+  if (items.length > 0) {
+    // 👉 Τα items είναι ήδη ταξινομημένα με scoreLifestyleArticle
+    const [mainItem, ...restItems] = items;
 
-  const userContent = `
+    payload = {
+      date: today,
+      category,
+      mainItem: {
+        id: mainItem.id,
+        title: mainItem.simpleTitle || mainItem.title,
+        summary: mainItem.simpleText || "",
+        sourceName: mainItem.sourceName || null,
+        sourceUrl: mainItem.sourceUrl || null,
+        sourcesCount: Array.isArray(mainItem.sources)
+          ? mainItem.sources.length
+          : 1,
+        publishedAt: mainItem.publishedAt || null,
+      },
+      contextItems: restItems.map((a) => ({
+        id: a.id,
+        title: a.simpleTitle || a.title,
+        summary: a.simpleText || "",
+        sourceName: a.sourceName || null,
+        sourceUrl: a.sourceUrl || null,
+        sourcesCount: Array.isArray(a.sources) ? a.sources.length : 1,
+        publishedAt: a.publishedAt || null,
+      })),
+    };
+
+    userContent = `
+
+
 Κατηγορία (lifestyle): ${category}
 Ημερομηνία: ${today}
 
 Παρακάτω είναι τα δεδομένα σε JSON.
 
-- Το ΚΥΡΙΟ γεγονός που πρέπει να περιγράψεις στο άρθρο σου είναι το "mainItem".
-- Τα "contextItems" μπορείς να τα χρησιμοποιήσεις ΜΟΝΟ:
-  * αν μιλούν για το ίδιο γεγονός (π.χ. άλλα άρθρα για τον ίδιο αγώνα ή την ίδια ταινία),
-  * για να συμπληρώσεις μικρές λεπτομέρειες.
-- Αν κάποιο contextItem είναι άσχετο γεγονός, αγνόησέ το.
+Το ΚΥΡΙΟ γεγονός που πρέπει να περιγράψεις στο άρθρο σου είναι το "mainItem".
+
+Τα "contextItems" μπορείς να τα χρησιμοποιήσεις ΜΟΝΟ:
+
+αν μιλούν για το ίδιο γεγονός,
+
+για να συμπληρώσεις μικρές λεπτομέρειες.
+
+Αν κάποιο contextItem είναι άσχετο γεγονός, αγνόησέ το.
 
 Θέλω:
-1) Να γράψεις ΕΝΑ άρθρο μόνο για το "mainItem".
-2) Να ΜΗΝ γράψεις πολλές διαφορετικές μικρές ειδήσεις.
-3) Να ακολουθήσεις ΠΙΣΤΑ τις οδηγίες του system prompt:
-   - πολύ απλά ελληνικά,
-   - μικρές προτάσεις,
-   - χωρίς δύσκολες λέξεις,
-   - χωρίς links μέσα στο κείμενο,
-   - μία μόνο ενότητα "Πηγές" στο τέλος.
+
+Να γράψεις ΕΝΑ άρθρο μόνο για το "mainItem".
+
+Να ΜΗΝ γράψεις πολλές διαφορετικές μικρές ειδήσεις.
+
+Να ακολουθήσεις ΠΙΣΤΑ τις οδηγίες του system prompt.
 
 Δεδομένα (JSON):
 ${JSON.stringify(payload, null, 2)}
 `;
+  } else {
+    // Fallback: δεν έχουμε καθόλου items από τα RSS για αυτή την κατηγορία
+    payload = {
+      date: today,
+      category,
+      mainItem: null,
+      contextItems: [],
+    };
+
+    userContent = `
+
+
+Κατηγορία (lifestyle): ${category}
+Ημερομηνία: ${today}
+
+Δεν βρέθηκαν καθόλου άρθρα για αυτή την κατηγορία στα δικά μας RSS feeds.
+
+Θέλω:
+
+Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
+για να βρεις ΕΝΑ σημαντικό γεγονός της ημέρας που ταιριάζει στην κατηγορία "${category}".
+
+Να γράψεις ΕΝΑ μικρό άρθρο για αυτό το γεγονός, σε πολύ απλά ελληνικά,
+σύμφωνα με τις οδηγίες του system prompt.
+
+Να μην εφεύρεις γεγονότα. Στηρίξου σε αυτά που βρίσκεις στο web search.
+
+Μπορείς να χρησιμοποιήσεις το παρακάτω JSON μόνο σαν metadata:
+${JSON.stringify(payload, null, 2)}
+`;
+
+    console.log(`ℹ️ Fallback με web search για κατηγορία ${category}`);
+  }
 
   const response = await openai.responses.create({
     model: "gpt-4.1",
@@ -185,7 +219,7 @@ ${JSON.stringify(payload, null, 2)}
   });
 
   const simpleText = extractTextFromResponse(response).trim();
-  const sources = uniqueSourcesFromItems(items);
+  const sources = items.length > 0 ? uniqueSourcesFromItems(items) : [];
 
   const article = {
     id: crypto.randomUUID(),
@@ -225,12 +259,13 @@ async function main() {
 
   const lifestyleArticles = [];
   for (const category of LIFESTYLE_CATEGORIES) {
-    const items = grouped[category];
-    if (!items || !items.length) continue;
-
-    console.log(
-      `🧠 Δημιουργία lifestyle άρθρου (με web search) για "${category}" με ${items.length} items...`
-    );
+    const items = grouped[category] || [];
+    const count = items.length;
+    const prefix =
+      count > 0
+        ? `🧠 Δημιουργία lifestyle άρθρου (με web search) για "${category}" με ${count} items...`
+        : `🧠 Δημιουργία lifestyle άρθρου (fallback web search) για "${category}" χωρίς RSS items...`;
+    console.log(prefix);
     const article = await generateLifestyleArticleForCategory(category, items);
     if (article) lifestyleArticles.push(article);
   }
