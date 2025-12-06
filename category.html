@@ -16,7 +16,7 @@
     <style>
       :root {
         --bg: #020617;
-        --card-bg: #111827;
+        --card-bg: #111827; /* σκούρο γκρι */
         --card-border: rgba(148, 163, 184, 0.3);
         --accent: #60a5fa;
         --text-main: #e5e7eb;
@@ -56,6 +56,12 @@
         letter-spacing: 0.3px;
       }
 
+      .site-subtitle {
+        font-size: 1rem;
+        color: var(--text-muted);
+        margin-top: 0.25rem;
+      }
+
       .back-link {
         font-size: 1rem;
         margin-bottom: 1.1rem;
@@ -73,7 +79,7 @@
         margin-bottom: 1rem;
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.28);
         background: var(--card-bg);
-        transition: border-color 0.14s ease, transform 0.14s ease;
+        transition: border-color 0.14s.ease, transform 0.14s ease;
       }
 
       .article-card:hover {
@@ -111,7 +117,7 @@
 
       .category-tile {
         border-radius: 1rem;
-        background: var(--card-bg);
+        background: var(--card-bg); /* σκούρο γκρι αντί για “μαύρο” */
         border: 1px solid var(--card-border);
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.28);
         overflow: hidden;
@@ -146,12 +152,12 @@
         border-radius: 0.9rem 0.9rem 0 0;
         overflow: hidden;
         border-bottom: 1px solid var(--card-border);
-        background: transparent; /* όχι μαύρο γύρω γύρω */
+        background: var(--card-bg); /* γκρι φόντο για τα διάφανα PNG */
       }
 
       .category-thumbnail {
         width: 100%;
-        height: auto;    /* δείχνει όλη την εικόνα */
+        height: auto;
         display: block;
       }
 
@@ -192,14 +198,15 @@
     <header class="site-header">
       <div class="container">
         <div class="d-flex flex-column align-items-start gap-1">
-          <div class="d-flex align-items-center gap-2 flex-wrap">
+          <div class="d-flex.align-items-center gap-2 flex-wrap">
             <div class="site-title">📰 Εύκολα Νέα</div>
           </div>
+          <div class="site-subtitle">Απλή ενημέρωση για όλους</div>
         </div>
       </div>
     </header>
 
-    <main class="container mb-5">
+    <main class="container.mb-5">
       <a href="index.html" class="back-link">← Πίσω στο μενού κατηγοριών</a>
       <h1 id="page-title" class="h4 mb-3">Ειδήσεις</h1>
 
@@ -210,7 +217,6 @@
       const params = new URLSearchParams(window.location.search);
       const category = params.get("category") || "serious";
 
-      // metadata για τις 3 σοβαρές θεματικές (serious-digest)
       const SERIOUS_TOPIC_META = {
         politics_economy: {
           label: "Πολιτική & Οικονομία",
@@ -251,7 +257,6 @@
         return res.json();
       }
 
-      // ===== Render για απλές κατηγορίες (λίστα από news.json) =====
       function renderNewsArticles(articles) {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -302,7 +307,6 @@
         }
       }
 
-      // ===== Grid με 3 κάρτες για Σοβαρές (serious-digest) =====
       async function renderSeriousCategories() {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -346,7 +350,6 @@
             link.className = "category-tile-link";
             link.href = "article.html?source=serious&topic=" + encodeURIComponent(topic);
 
-            // thumbnail
             const thumbWrapper = document.createElement("div");
             thumbWrapper.className = "category-thumbnail-wrapper";
 
@@ -358,7 +361,6 @@
               thumbWrapper.appendChild(img);
             }
 
-            // body
             const bodyDiv = document.createElement("div");
             bodyDiv.className = "category-tile-body";
 
@@ -392,7 +394,6 @@
         }
       }
 
-      // ===== main init =====
       async function init() {
         try {
           if (category === "all") {
@@ -400,10 +401,8 @@
             const all = Array.isArray(newsData.articles) ? newsData.articles : [];
             renderNewsArticles(all);
           } else if (category === "serious") {
-            // σοβαρές: grid με 3 κάρτες από serious-digest
             await renderSeriousCategories();
           } else {
-            // απλές κατηγορίες από news.json.articlesByCategory
             const newsData = await loadJson("./news.json");
             const byCategory = newsData.articlesByCategory || {};
             const articles = byCategory[category] || [];
