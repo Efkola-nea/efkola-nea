@@ -114,10 +114,11 @@
     /* ===== Πλέγμα κατηγοριών ===== */
     .category-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-      gap: 1rem;
-      max-width: 1080px;
+      grid-template-columns: repeat(3, minmax(260px, 1fr)); /* 3 κάρτες ανά σειρά σε desktop */
+      gap: 1.5rem;
+      max-width: 1100px;
       margin: 0 auto;
+      justify-items: center;  /* κεντράρει τις κάρτες μέσα στο grid */
     }
 
     .category-tile {
@@ -127,6 +128,9 @@
       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.28);
       overflow: hidden;
       transition: transform 0.14s ease, border-color 0.14s ease, background-color 0.14s ease;
+      min-height: 210px;           /* πιο μεγάλη κάρτα */
+      width: 100%;
+      max-width: 340px;            /* φαρδιά, αλλά όχι υπερβολικά */
     }
 
     .category-tile:hover {
@@ -141,7 +145,7 @@
       height: 100%;
       text-decoration: none;
       color: inherit;
-      padding: 1rem;
+      padding: 1.2rem 1.3rem;      /* λίγο παραπάνω padding για να φαίνονται “γεμάτες” */
       gap: 0.9rem;
     }
 
@@ -187,6 +191,10 @@
       color: var(--text-muted);
     }
 
+    .category-tile-emoji {
+      font-size: 1.4rem;
+    }
+
     /* Footer */
     footer {
       border-top: 1px solid var(--card-border);
@@ -202,6 +210,19 @@
 
     footer a:hover {
       color: var(--accent);
+    }
+
+    /* Responsive: σε tablet 2 κάρτες, σε κινητό 1 */
+    @media (max-width: 992px) {
+      .category-grid {
+        grid-template-columns: repeat(2, minmax(240px, 1fr));
+      }
+    }
+
+    @media (max-width: 576px) {
+      .category-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
     }
   </style>
 </head>
@@ -429,3 +450,4 @@
   </script>
 </body>
 </html>
+
