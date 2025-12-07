@@ -92,6 +92,25 @@
       color: var(--text-muted);
     }
 
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.45rem 0.95rem;
+      border-radius: 999px;
+      border: 1px solid var(--card-border);
+      color: var(--text-main);
+      text-decoration: none;
+      font-weight: 700;
+      background: transparent;
+    }
+
+    .back-link:hover {
+      color: #f8fafc;
+      border-color: rgba(96, 165, 250, 0.7);
+      background: rgba(96, 165, 250, 0.08);
+    }
+
     .page-wrapper {
       max-width: 820px;
       margin: 0 auto;
@@ -222,13 +241,13 @@
   <main class="container mb-5">
     <div class="page-wrapper">
       <div class="mb-3">
-        <button
-          id="backButton"
-          type="button"
-          class="btn btn-outline-secondary btn-lg rounded-pill d-inline-flex align-items-center gap-2"
+        <a
+          class="back-link btn btn-outline-light btn-sm rounded-pill d-inline-flex align-items-center gap-2"
+          href="index.html"
         >
-          ← Πίσω
-        </button>
+          <span aria-hidden="true">←</span>
+          <span>Πίσω</span>
+        </a>
       </div>
       <article class="article-main-card">
         <h1 id="article-title" class="article-main-title">Φορτώνω το άρθρο…</h1>
@@ -261,6 +280,12 @@
   </main>
 
   <script>
+    const pageParams = new URLSearchParams(window.location.search);
+    const sourceParam = pageParams.get("source") || "news";
+    const idParam = pageParams.get("id");
+    const topicParam = pageParams.get("topic");
+    const categoryParam = pageParams.get("category");
+
     function escapeHtml(str) {
       if (!str) return "";
       return String(str)
@@ -475,6 +500,85 @@
       sourceEl.innerHTML = html;
     }
 
+    function renderArticleContent({
+      article,
+      titleEl,
+      bodyEl,
+      sourceEl,
+      imageWrapper,
+      imageEl,
+      videoWrapper,
+      videoContainer,
+      listenBtn,
+    }) {
+      if (!article) return;
+
+      const displayTitle = article.simpleTitle || article.title || "Ενημέρωση σε απλά λόγια";
+      const cleaned = cleanMarkdown(article.simpleText || "");
+
+      if (article.category) {
+        setLifestyleBackground(article.category);
+      }
+
+      titleEl.textContent = displayTitle;
+      bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
+
+      if (videoContainer) {
+        videoContainer.innerHTML = "";
+      }
+
+      if (imageWrapper && imageEl) {
+        if (article.imageUrl) {
+          imageEl.src = article.imageUrl;
+          imageEl.alt = displayTitle || "Εικόνα άρθρου";
+          imageWrapper.style.display = "block";
+        } else {
+          imageEl.removeAttribute("src");
+          imageEl.alt = "";
+          imageWrapper.style.display = "none";
+        }
+      }
+
+      if (videoWrapper && videoContainer) {
+        if (article.videoUrl) {
+          let node;
+          const url = article.videoUrl;
+
+          if (/\.(mp4|webm|ogg)(\?|$)/i.test(url)) {
+            node = document.createElement("video");
+            node.className = "article-video";
+            node.controls = true;
+
+            const source = document.createElement("source");
+            source.src = url;
+            node.appendChild(source);
+          } else {
+            node = document.createElement("iframe");
+            node.className = "article-video";
+            node.src = url;
+            node.loading = "lazy";
+            node.allowFullscreen = true;
+            node.setAttribute("frameborder", "0");
+            node.setAttribute(
+              "allow",
+              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            );
+          }
+
+          videoContainer.appendChild(node);
+          videoWrapper.style.display = "block";
+        } else {
+          videoWrapper.style.display = "none";
+        }
+      }
+
+      renderSourcesBlock(sourceEl, article, null);
+
+      document.title = displayTitle + " - Εύκολα Νέα";
+      listenBtn.disabled = false;
+      setupTtsButton(listenBtn, displayTitle, cleaned);
+    }
+
     async function loadNewsArticle({
       idParam,
       titleEl,
@@ -518,65 +622,80 @@
           return;
         }
 
-        const displayTitle = article.simpleTitle || article.title || "";
-        const cleaned = cleanMarkdown(article.simpleText || "");
-
-        // background ανά κατηγορία (για απλές ειδήσεις)
-        if (article.category) {
-          setLifestyleBackground(article.category);
-        }
-
-        titleEl.textContent = displayTitle;
-        bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
-
-        // Εικόνα
-        if (article.imageUrl) {
-          imageEl.src = article.imageUrl;
-          imageEl.alt = displayTitle || "Εικόνα άρθρου";
-          imageWrapper.style.display = "block";
-        }
-
-        // Βίντεο (αν υπάρχει videoUrl)
-        if (article.videoUrl) {
-          let node;
-          const url = article.videoUrl;
-
-          if (/\.(mp4|webm|ogg)(\?|$)/i.test(url)) {
-            node = document.createElement("video");
-            node.className = "article-video";
-            node.controls = true;
-
-            const source = document.createElement("source");
-            source.src = url;
-            node.appendChild(source);
-          } else {
-            node = document.createElement("iframe");
-            node.className = "article-video";
-            node.src = url;
-            node.loading = "lazy";
-            node.allowFullscreen = true;
-            node.setAttribute("frameborder", "0");
-            node.setAttribute(
-              "allow",
-              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            );
-          }
-
-          videoContainer.appendChild(node);
-          videoWrapper.style.display = "block";
-        }
-
-        // 🔚 Πηγές στο τέλος
-        renderSourcesBlock(sourceEl, article, null);
-
-        document.title = displayTitle + " - Εύκολα Νέα";
-
-        // 🎧 setup play / pause / resume
-        setupTtsButton(listenBtn, displayTitle, cleaned);
+        renderArticleContent({
+          article,
+          titleEl,
+          bodyEl,
+          sourceEl,
+          imageWrapper,
+          imageEl,
+          videoWrapper,
+          videoContainer,
+          listenBtn,
+        });
       } catch (err) {
         console.error(err);
         titleEl.textContent = "Προέκυψε σφάλμα";
         bodyEl.textContent = "Δεν μπόρεσα να φορτώσω το άρθρο: " + err.message;
+        listenBtn.disabled = true;
+      }
+    }
+
+    async function loadNewsCategoryArticle({
+      categoryKey,
+      titleEl,
+      bodyEl,
+      sourceEl,
+      imageWrapper,
+      imageEl,
+      videoWrapper,
+      videoContainer,
+      listenBtn,
+    }) {
+      if (!categoryKey) {
+        titleEl.textContent = "Δεν βρέθηκε η κατηγορία";
+        bodyEl.textContent = "Δεν υπάρχει πληροφορία για την κατηγορία.";
+        listenBtn.disabled = true;
+        return;
+      }
+
+      setLifestyleBackground(categoryKey);
+
+      try {
+        const res = await fetch("news.json?cachebust=" + Date.now());
+        if (!res.ok) {
+          throw new Error("HTTP " + res.status);
+        }
+
+        const data = await res.json();
+        const byCategory = data.articlesByCategory || {};
+        const articles = byCategory[categoryKey] || [];
+        const article = articles[0];
+
+        if (!article) {
+          titleEl.textContent = "Δεν βρέθηκε άρθρο για αυτή την κατηγορία";
+          bodyEl.textContent = "Προσπάθησε ξανά σε λίγο, δεν υπάρχει διαθέσιμο άρθρο.";
+          listenBtn.disabled = true;
+          sourceEl.innerHTML = "";
+          return;
+        }
+
+        renderArticleContent({
+          article,
+          titleEl,
+          bodyEl,
+          sourceEl,
+          imageWrapper,
+          imageEl,
+          videoWrapper,
+          videoContainer,
+          listenBtn,
+        });
+      } catch (err) {
+        console.error("Σφάλμα φόρτωσης news.json για κατηγορία:", err);
+        titleEl.textContent = "Προέκυψε σφάλμα";
+        bodyEl.textContent =
+          "Δεν μπόρεσα να φορτώσω τις ειδήσεις για την κατηγορία: " + err.message;
         listenBtn.disabled = true;
       }
     }
@@ -769,12 +888,6 @@
     }
 
     async function loadArticle() {
-      const params = new URLSearchParams(window.location.search);
-      const source = params.get("source") || "news";
-      const idParam = params.get("id");
-      const topicParam = params.get("topic");
-      const categoryParam = params.get("category");
-
       const titleEl = document.getElementById("article-title");
       const bodyEl = document.getElementById("article-body");
       const sourceEl = document.getElementById("article-source");
@@ -784,7 +897,7 @@
       const videoContainer = document.getElementById("article-video-container");
       const listenBtn = document.getElementById("listen-btn");
 
-      if (source === "serious") {
+      if (sourceParam === "serious") {
         await loadSeriousArticle({
           idParam,
           topicParam,
@@ -793,12 +906,24 @@
           sourceEl,
           listenBtn,
         });
-      } else if (source === "lifestyle") {
+      } else if (sourceParam === "lifestyle") {
         await loadLifestyleArticle({
           categoryParam,
           titleEl,
           bodyEl,
           sourceEl,
+          listenBtn,
+        });
+      } else if (sourceParam && sourceParam !== "news" && !idParam) {
+        await loadNewsCategoryArticle({
+          categoryKey: sourceParam,
+          titleEl,
+          bodyEl,
+          sourceEl,
+          imageWrapper,
+          imageEl,
+          videoWrapper,
+          videoContainer,
           listenBtn,
         });
       } else {
@@ -816,19 +941,15 @@
       }
     }
 
-    function setupBackButton() {
-      const params = new URLSearchParams(window.location.search);
-      const categoryParam = params.get("category");
-      const backUrl = categoryParam
-        ? "category.html?category=" + encodeURIComponent(categoryParam)
-        : "index.html";
+    function setupBackLink(source) {
+      const backLink = document.querySelector(".back-link");
+      if (!backLink) return;
 
-      const backButton = document.getElementById("backButton");
-      if (!backButton) return;
-
-      backButton.addEventListener("click", () => {
-        window.location.href = backUrl;
-      });
+      if (source === "serious") {
+        backLink.href = "category.html?category=serious";
+      } else {
+        backLink.href = "index.html";
+      }
     }
 
     function setupSiteTitleReload() {
@@ -843,7 +964,7 @@
 
     document.addEventListener("DOMContentLoaded", () => {
       setupSiteTitleReload();
-      setupBackButton();
+      setupBackLink(sourceParam);
       loadArticle();
     });
   </script>

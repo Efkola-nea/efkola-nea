@@ -69,7 +69,18 @@
         display: inline-flex;
         align-items: center;
         gap: 0.4rem;
-        color: var(--accent);
+        padding: 0.45rem 0.95rem;
+        border-radius: 999px;
+        border: 1px solid var(--card-border);
+        color: var(--text-main);
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      .back-link:hover {
+        color: #f8fafc;
+        border-color: rgba(96, 165, 250, 0.7);
+        background: rgba(96, 165, 250, 0.08);
       }
 
       /* ===== Κλασικές κάρτες άρθρων (λίστα από news.json) ===== */
@@ -210,7 +221,13 @@
     </header>
 
     <main class="container mb-5">
-      <a href="index.html" class="back-link">← Πίσω στο μενού κατηγοριών</a>
+      <a
+        href="index.html"
+        class="back-link btn btn-outline-light btn-sm rounded-pill d-inline-flex align-items-center gap-2"
+      >
+        <span aria-hidden="true">←</span>
+        <span>Πίσω στο μενού κατηγοριών</span>
+      </a>
       <h1 id="page-title" class="h4 mb-3">Ειδήσεις</h1>
 
       <div id="content"></div>
