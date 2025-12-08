@@ -6,7 +6,6 @@ import {
   SERIOUS_DIGEST_SYSTEM_PROMPT,
 } from "./llm/seriousDigestPrompts.js";
 import {
-  buildSourcesFooter,
   cleanSimplifiedText,
   extractSourceDomains,
 } from "./llm/textUtils.js";
@@ -28,7 +27,7 @@ const MAX_ITEMS_PER_TOPIC = 6;
 
 // ---------- Helpers ----------
 
-// Βοηθός για να πάρουμε text από Responses API (ίδιο pattern με generateLifestyle)
+// Βοηθός για να πάρουμε text από Responses API
 function extractTextFromResponse(response) {
   if (typeof response.output_text === "string") {
     return response.output_text;
@@ -42,22 +41,18 @@ function extractTextFromResponse(response) {
   throw new Error("Δεν βρέθηκε text στο response του μοντέλου");
 }
 
-// Αφαιρεί inline markdown links από το σώμα, αφήνοντας την ενότητα Πηγές ως έχει
-function stripInlineLinksOutsideSourcesSection(text) {
-  const parts = text.split(/(^|\n)Πηγές:/);
+// Αφαιρεί ενότητα "Πηγές:" (αν την έγραψε το LLM) + inline markdown links
+function stripSourcesAndInlineLinks(text) {
+  if (!text) return "";
 
-  if (parts.length === 1) {
-    return text.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
-  }
+  // Κρατάμε μόνο το κομμάτι πριν από οποιαδήποτε γραμμή που ξεκινά με "Πηγές:"
+  const idx = text.search(/(^|\n)Πηγές:/);
+  let body = idx === -1 ? text : text.slice(0, idx);
 
-  const [beforeSources, , afterSources] = parts;
+  // Αφαιρούμε inline markdown links [κείμενο](http...)
+  body = body.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
 
-  const cleanedBody = beforeSources.replace(
-    /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
-    "$1"
-  );
-
-  return cleanedBody + "\nΠηγές:" + (afterSources ?? "");
+  return body.trimEnd();
 }
 
 function collectSourceUrls(article) {
@@ -233,7 +228,7 @@ ${JSON.stringify(items, null, 2)}
   return topicById;
 }
 
-// ---------- Δημιουργία άρθρου με web search για μία θεματική ----------
+// ---------- Δημιουργία άρθρου serious digest για μία θεματική ----------
 
 async function generateSeriousDigestForTopic(
   topicKey,
@@ -272,8 +267,29 @@ async function generateSeriousDigestForTopic(
   let userContent;
 
   if (hasMain) {
-    userContent = `
+    if (topicKey === "social") {
+      // 🔹 Ειδικό prompt για κοινωνικά θέματα: ΜΟΝΟ ένα γεγονός
+      userContent = `
 
+Θέμα serious digest: ${topicLabel} (${topicKey})
+Ημερομηνία: ${today}
+
+Παρακάτω είναι τα δεδομένα σε JSON για ΜΙΑ κοινωνική είδηση ("mainArticle").
+
+Θέλω:
+
+- Να γράψεις ΕΝΑ σύντομο άρθρο που να εξηγεί ΜΟΝΟ αυτή την κοινωνική είδηση με απλά λόγια.
+- Να ΜΗΝ προσθέτεις άλλα, άσχετα κοινωνικά γεγονότα (ούτε από άλλη πόλη, ούτε από άλλη χώρα).
+- Να ΜΗΝ κάνεις γενική σύνοψη πολλών κοινωνικών θεμάτων της ημέρας.
+- Όλο το κείμενο να αφορά μόνο το "mainArticle".
+- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
+
+Δεδομένα (JSON):
+${JSON.stringify(payload, null, 2)}
+`;
+    } else {
+      // 🔹 Για politics_economy & world συνεχίζουμε με main + related
+      userContent = `
 
 Θέμα serious digest: ${topicLabel} (${topicKey})
 Ημερομηνία: ${today}
@@ -286,18 +302,17 @@ async function generateSeriousDigestForTopic(
 
 Θέλω:
 
-Να γράψεις ΕΝΑ σύντομο άρθρο που να εξηγεί την είδηση με απλά λόγια.
-
-Να συνδυάσεις πληροφορίες από όλα τα άρθρα, αλλά να τα παρουσιάσεις σαν ΜΙΑ ενιαία ιστορία.
-
-Αν χρειάζεται, μπορείς να χρησιμοποιήσεις web search για να συμπληρώσεις μικρές λεπτομέρειες ή νεότερα στοιχεία για το ΙΔΙΟ γεγονός.
+- Να γράψεις ΕΝΑ σύντομο άρθρο που να εξηγεί την είδηση με απλά λόγια.
+- Να συνδυάσεις πληροφορίες από όλα τα άρθρα, αλλά να τα παρουσιάσεις σαν ΜΙΑ ενιαία ιστορία.
+- Αν χρειάζεται, μπορείς να χρησιμοποιήσεις web search για να συμπληρώσεις μικρές λεπτομέρειες ή νεότερα στοιχεία για το ΙΔΙΟ γεγονός.
+- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
 
 Δεδομένα (JSON):
 ${JSON.stringify(payload, null, 2)}
 `;
+    }
   } else {
     userContent = `
-
 
 Θέμα serious digest: ${topicLabel} (${topicKey})
 Ημερομηνία: ${today}
@@ -306,12 +321,11 @@ ${JSON.stringify(payload, null, 2)}
 
 Θέλω:
 
-Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
-για να βρεις ένα σημαντικό γεγονός της ημέρας που ανήκει στην ενότητα "${topicLabel}".
-
-Να γράψεις ΕΝΑ άρθρο σε απλά ελληνικά, σαν ενημέρωση για ενήλικες με ήπιες νοητικές δυσκολίες.
-
-Να μην εφευρίσκεις γεγονότα. Στηρίξου στα αποτελέσματα του web search.
+- Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
+  για να βρεις ένα σημαντικό γεγονός της ημέρας που ανήκει στην ενότητα "${topicLabel}".
+- Να γράψεις ΕΝΑ άρθρο σε απλά ελληνικά, σαν ενημέρωση για ενήλικες με ήπιες νοητικές δυσκολίες.
+- Να ΜΗΝ εφευρίσκεις γεγονότα.
+- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
 
 Για αναφορά, τα metadata σε JSON (δεν περιέχουν άρθρα):
 ${JSON.stringify(payload, null, 2)}
@@ -329,7 +343,7 @@ ${JSON.stringify(payload, null, 2)}
   });
 
   let simpleText = extractTextFromResponse(response).trim();
-  simpleText = stripInlineLinksOutsideSourcesSection(simpleText);
+  simpleText = stripSourcesAndInlineLinks(simpleText);
   simpleText = cleanSimplifiedText(simpleText);
 
   const sourceUrls = [];
@@ -356,9 +370,6 @@ ${JSON.stringify(payload, null, 2)}
       sourceDomains = [...new Set(nameFallbacks)];
     }
   }
-
-  const footer = buildSourcesFooter(sourceDomains);
-  simpleText = simpleText + footer;
 
   return {
     id: crypto.randomUUID(),
@@ -448,10 +459,13 @@ async function main() {
       );
     }
 
+    // 👉 ΜΟΝΟ στα social δεν στέλνουμε relatedArticles (ένα γεγονός)
+    const relatedForTopic = topic === "social" ? [] : restContext;
+
     const digest = await generateSeriousDigestForTopic(
       topic,
       mainArticle || null,
-      mainArticle ? restContext : []
+      mainArticle ? relatedForTopic : []
     );
 
     if (digest) {
