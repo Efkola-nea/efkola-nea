@@ -4,19 +4,13 @@ import { openai } from "./llm/openaiClient.js";
 import { LIFESTYLE_AGENT_SYSTEM_PROMPT } from "./llm/lifestyleAgentPrompts.js";
 import { WEB_SEARCH_NEWS_INSTRUCTIONS } from "./newsLlmInstructions.js";
 import {
-  buildSourcesFooter,
   cleanSimplifiedText,
   extractSourceDomains,
   getWebSearchDateContext,
 } from "./llm/textUtils.js";
 
 // Κατηγορίες που θα αντιμετωπίζονται ως lifestyle
-const LIFESTYLE_CATEGORIES = [
-  "sports",
-  "screen",
-  "culture",
-  "fun",
-];
+const LIFESTYLE_CATEGORIES = ["sports", "screen", "culture", "fun"];
 
 // Μέχρι πόσα άρθρα θα τρώει ο agent ανά κατηγορία
 const MAX_ITEMS_PER_CATEGORY = 10;
@@ -37,6 +31,20 @@ function extractTextFromResponse(response) {
   if (first?.value) return first.value;
 
   throw new Error("Δεν βρέθηκε text στο response του μοντέλου");
+}
+
+// Αφαιρεί ενότητα "Πηγές:" (αν την έγραψε το LLM) + inline markdown links
+function stripSourcesAndInlineLinks(text) {
+  if (!text) return "";
+
+  // Κρατάμε μόνο το κομμάτι πριν από οποιαδήποτε γραμμή που ξεκινά με "Πηγές:"
+  const idx = text.search(/(^|\n)Πηγές:/);
+  let body = idx === -1 ? text : text.slice(0, idx);
+
+  // Αφαιρούμε inline markdown links [κείμενο](http...)
+  body = body.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
+
+  return body.trimEnd();
 }
 
 // Τίτλοι ανά κατηγορία για το lifestyle άρθρο
@@ -144,21 +152,17 @@ async function generateLifestyleArticleForCategory(category, items) {
 
 Το ΚΥΡΙΟ γεγονός που πρέπει να περιγράψεις στο άρθρο σου είναι το "mainItem".
 
-Τα "contextItems" μπορείς να τα χρησιμοποιήσεις ΜΟΝΟ:
-
-αν μιλούν για το ίδιο γεγονός,
-
+Τα "contextItems" μπορείς να τα χρησιμοποιήσεις ΜΟΝΟ αν μιλούν για το ίδιο γεγονός,
 για να συμπληρώσεις μικρές λεπτομέρειες.
 
 Αν κάποιο contextItem είναι άσχετο γεγονός, αγνόησέ το.
 
 Θέλω:
 
-Να γράψεις ΕΝΑ άρθρο μόνο για το "mainItem".
-
-Να ΜΗΝ γράψεις πολλές διαφορετικές μικρές ειδήσεις.
-
-Να ακολουθήσεις ΠΙΣΤΑ τις οδηγίες του system prompt.
+- Να γράψεις ΕΝΑ άρθρο μόνο για το "mainItem".
+- Να ΜΗΝ γράψεις πολλές διαφορετικές μικρές ειδήσεις.
+- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
+- Να ακολουθήσεις ΠΙΣΤΑ τις οδηγίες του system prompt.
 
 Δεδομένα (JSON):
 ${JSON.stringify(payload, null, 2)}
@@ -184,12 +188,11 @@ ${JSON.stringify(payload, null, 2)}
 
 Θέλω:
 
-Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
-για να βρεις ΕΝΑ σημαντικό γεγονός της ημέρας που ταιριάζει στην κατηγορία "${categoryKey}".
-
-Διάλεξε ένα συγκεκριμένο γεγονός κοντά χρονικά (χθες/σήμερα/αύριο) και γράψε ΕΝΑ μικρό άρθρο σε πολύ απλά ελληνικά, σύμφωνα με τις οδηγίες του system prompt.
-
-Να μην εφεύρεις γεγονότα. Στηρίξου σε αυτά που βρίσκεις στο web search.
+- Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
+  για να βρεις ΕΝΑ σημαντικό γεγονός της ημέρας που ταιριάζει στην κατηγορία "${categoryKey}".
+- Να γράψεις ΕΝΑ μικρό άρθρο σε πολύ απλά ελληνικά, σύμφωνα με τις οδηγίες του system prompt.
+- Να ΜΗΝ εφεύρεις γεγονότα.
+- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
 
 Μπορείς να χρησιμοποιήσεις το παρακάτω JSON μόνο σαν metadata:
 ${JSON.stringify(payload, null, 2)}
@@ -201,13 +204,16 @@ ${JSON.stringify(payload, null, 2)}
   const response = await openai.responses.create({
     model: "gpt-4.1",
     instructions:
-      items.length > 0 ? LIFESTYLE_AGENT_SYSTEM_PROMPT : WEB_SEARCH_NEWS_INSTRUCTIONS,
+      items.length > 0
+        ? LIFESTYLE_AGENT_SYSTEM_PROMPT
+        : WEB_SEARCH_NEWS_INSTRUCTIONS,
     tools: [{ type: "web_search_preview" }],
     input: userContent,
     max_output_tokens: 1600,
   });
 
-  const rawText = extractTextFromResponse(response).trim();
+  let rawText = extractTextFromResponse(response).trim();
+  rawText = stripSourcesAndInlineLinks(rawText);
   const cleaned = cleanSimplifiedText(rawText);
 
   const sourceUrls = items.length
@@ -224,16 +230,15 @@ ${JSON.stringify(payload, null, 2)}
   }
 
   if (!sourceDomains.length) {
-    const nameFallbacks = items
-      .map((i) => i.sourceName)
-      .filter(Boolean);
+    const nameFallbacks = items.map((i) => i.sourceName).filter(Boolean);
     if (nameFallbacks.length) {
       sourceDomains = [...new Set(nameFallbacks)];
     }
   }
 
-  const footer = buildSourcesFooter(sourceDomains);
-  const simpleText = cleaned + footer;
+  // Δεν προσθέτουμε footer "Πηγές:" στο κείμενο.
+  // Οι πηγές θα εμφανιστούν από το UI, χρησιμοποιώντας το πεδίο `sources`.
+  const simpleText = cleaned;
 
   const article = {
     id: crypto.randomUUID(),
