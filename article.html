@@ -441,7 +441,7 @@
       bgEl.style.display = "block";
     }
 
-    // 🔚 Πηγές στο τέλος, με εικονίδιο
+    // 🔚 Πηγές στο τέλος, με εικονίδιο – ΤΩΡΑ ως links προς site ή άρθρο
     function renderSourcesBlock(sourceEl, article, fallbackText) {
       if (!sourceEl) return;
 
@@ -453,16 +453,52 @@
 
       if (sources.length) {
         for (const s of sources) {
+          // ΠΕΡΙΠΤΩΣΗ 1: απλό string, π.χ. "ertnews.gr" → link σε https://ertnews.gr
           if (typeof s === "string") {
-            items.push({ name: s, url: null });
+            const domain = s
+              .replace(/^https?:\/\//i, "")
+              .replace(/^www\./i, "")
+              .trim();
+
+            if (!domain) continue;
+
+            const url = "https://" + domain;
+            items.push({ name: domain, url });
             continue;
           }
-          const name = s?.sourceName || s?.source || s?.url || "Πηγή";
-          const url = s?.sourceUrl || s?.url || null;
+
+          // ΠΕΡΙΠΤΩΣΗ 2: object με πιθανό url
+          let url = s?.sourceUrl || s?.url || null;
+          let name = s?.sourceName || s?.source || null;
+
+          // Αν δεν έχουμε όνομα αλλά έχουμε url → βγάλε το domain ως όνομα
+          if (!name && url) {
+            try {
+              const u = new URL(url);
+              name = u.hostname.replace(/^www\./i, "");
+            } catch {
+              name = url;
+            }
+          }
+
+          if (!name && !url) {
+            name = "Πηγή";
+          }
+
           items.push({ name, url });
         }
       } else if (fallbackUrl && fallbackUrl !== "#") {
-        items.push({ name: fallbackName || "Πηγή", url: fallbackUrl });
+        // fallback: έχουμε μόνο ένα sourceUrl στο άρθρο
+        let name = fallbackName;
+        if (!name) {
+          try {
+            const u = new URL(fallbackUrl);
+            name = u.hostname.replace(/^www\./i, "");
+          } catch {
+            name = fallbackUrl;
+          }
+        }
+        items.push({ name, url: fallbackUrl });
       }
 
       if (!items.length && !fallbackText) {
@@ -475,6 +511,7 @@
       if (items.length) {
         for (const item of items) {
           const safeName = escapeHtml(item.name || "Πηγή");
+
           if (item.url) {
             const safeUrl = escapeHtml(item.url);
             html +=
@@ -816,7 +853,7 @@
       }
     }
 
-    // ✅ ΝΕΟ: Φόρτωση lifestyle άρθρου από lifestyle.json, ΜΟΝΟ για τη σωστή κατηγορία
+    // ✅ Φόρτωση lifestyle άρθρου από lifestyle.json
     async function loadLifestyleArticle({
       categoryParam,
       titleEl,
@@ -856,7 +893,6 @@
         let article = list.find((a) => a.category === categoryParam);
 
         if (!article) {
-          // Δεν κάνουμε fallback σε άλλη κατηγορία (π.χ. sports) – δείχνουμε καθαρό μήνυμα.
           titleEl.textContent = "Δεν βρέθηκε άρθρο για αυτή την κατηγορία";
           bodyEl.textContent =
             "Σήμερα δεν υπάρχει lifestyle άρθρο για αυτή την κατηγορία.";
