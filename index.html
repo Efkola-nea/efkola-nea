@@ -78,6 +78,11 @@
       color: var(--text-main);
     }
 
+    /* Το widget είναι clickable -> χεράκι */
+    #weather-widget {
+      cursor: pointer;
+    }
+
     .weather-icon {
       font-size: 2.6rem;
       line-height: 1;
@@ -302,10 +307,12 @@
       <div id="weather-widget" class="card weather-card">
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-start mb-2">
-            <div id="weather-location" class="weather-location">
+            <!-- Εικονίδιο πάνω αριστερά -->
+            <div id="weather-icon" class="weather-icon">⛅</div>
+            <!-- Τοποθεσία πάνω δεξιά -->
+            <div id="weather-location" class="weather-location text-end">
               📍 Φόρτωση τοποθεσίας…
             </div>
-            <div id="weather-icon" class="weather-icon">⛅</div>
           </div>
           <div class="flex-grow-1">
             <div class="weather-title">Ο καιρός σήμερα στην περιοχή σου</div>
