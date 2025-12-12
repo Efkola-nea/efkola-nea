@@ -323,13 +323,6 @@ ${JSON.stringify(payload, null, 2)}
     });
   }
 
-  for (const rel of relatedArticles || []) {
-    mergedSources.push({
-      title: rel.sourceName || rel.sourceUrl || "Πηγή",
-      url: rel.sourceUrl || rel.url || "",
-    });
-  }
-
   const dedupedSources = [];
   const seenSources = new Set();
 
