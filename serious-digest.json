@@ -1,51 +1,308 @@
 {
-  "generatedAt": "2025-12-09T07:07:05.567Z",
+  "generatedAt": "2025-12-12T15:13:10.511Z",
   "articles": [
     {
-      "id": "9091abb0-70eb-4807-a7dd-e6b2cfa50f41",
+      "id": "6b12f7f9-4fe2-4d73-87da-f59ceb928e4c",
       "contentType": "agent_serious_digest",
       "topic": "politics_economy",
       "topicLabel": "πολιτική και οικονομική επικαιρότητα",
       "title": "Πολιτική και οικονομική επικαιρότητα σε απλά λόγια",
-      "simpleText": "Χρήσιμες οδηγίες για τα τέλη κυκλοφορίας από την ΑΑΔΕ\n\nΗ Ανεξάρτητη Αρχή Δημοσίων Εσόδων (ΑΑΔΕ) έδωσε νέες πληροφορίες για τα τέλη κυκλοφορίας που πληρώνουν οι ιδιοκτήτες αυτοκινήτων και μηχανών. Οι οδηγίες αυτές βοηθούν τους ιδιοκτήτες να ξέρουν τι πρέπει να κάνουν για να μην έχουν πρόστιμα.\n\nΗ τελευταία ημερομηνία για να πληρώσει κανείς τα τέλη για το 2026 είναι η 31 Δεκεμβρίου 2025. Αν κάποιος πληρώσει μετά, το πρόστιμο μπορεί να φτάσει το 100% του ποσού που χρωστάει. Δηλαδή, πληρώνει τα διπλάσια. Αν πληρώσει μέσα στον Ιανουάριο του 2026, το πρόστιμο είναι 25%. Τον Φεβρουάριο το πρόστιμο είναι 50%. Μετά τους δύο αυτούς μήνες, το πρόστιμο γίνεται 100%.\n\nΌταν κάποιος πουλάει το αυτοκίνητό του, πρέπει πρώτα να έχει πληρώσει όλα τα τέλη μέχρι τη χρονιά που γίνεται η πώληση. Αν ένα όχημα έχει δύο ή περισσότερους ιδιοκτήτες, αρκεί να πληρώσει ένας, αλλά όλοι είναι υπεύθυνοι αν δεν πληρωθούν τα τέλη. Αν αλλάξει ο αριθμός κυκλοφορίας, τα προηγούμενα πληρωμένα τέλη ισχύουν και για τον νέο αριθμό.\n\nΑπό 1η Απριλίου κάθε χρόνο, οι ιδιοκτήτες μπορούν να πληρώνουν τέλη για λιγότερους μήνες, αν το όχημα δεν κινείται όλο το χρόνο. Αν το δηλώσουν σε ακινησία πριν το νέο έτος, δεν χρειάζεται να πληρώσουν τέλη για εκείνη τη χρονιά.\n\nΕίναι σημαντικό όλοι να ενημερώνονται σωστά για να αποφύγουν τα πρόστιμα και να ξέρουν τι δικαιούνται και τι πρέπει να κάνουν.",
-      "sources": [
-        "ertnews.gr",
-        "tovima.gr",
-        "news.gr",
-        "newsbomb.gr"
+      "simpleText": "### Ο Προϋπολογισμός του 2026 και οι Μεταρρυθμίσεις στην Ελλάδα\n\nΟ Κωστής Χατζηδάκης, αντιπρόεδρος της κυβέρνησης, ανακοίνωσε σημαντικές αλλαγές με τον νέο προϋπολογισμό του 2026. Οι αλλαγές αυτές αποσκοπούν στην ενίσχυση της παραγωγικότητας και στη δημιουργία καλύτερων θέσεων εργασίας.\n\nΟ κ. Χατζηδάκης τόνισε την ανάγκη για ένα πιο φιλικό κράτος προς τους πολίτες, μέσω απλοποίησης των δημόσιων υπηρεσιών και γρηγορότερης δικαιοσύνης με τη βοήθεια νέων τεχνολογιών. Αυτές οι αλλαγές θα βοηθήσουν τους πολίτες να έχουν πιο άμεση και αποδοτική εξυπηρέτηση.\n\nΣτον αγροτικό τομέα, θα υπάρξουν μεταρρυθμίσεις για τη δίκαιη κατανομή των επιδοτήσεων. Η κυβέρνηση σχεδιάζει να υποστηρίξει περισσότερο τους αγρότες με τη χρήση ενός νέου ψηφιακού συστήματος.\n\nΟ προϋπολογισμός περιλαμβάνει επίσης μειώσεις φόρων για τη μεσαία τάξη και τους νέους, με στόχο την οικονομική ανάπτυξη και τη μείωση της φοροδιαφυγής. Αυτό αναμένεται να φέρει περισσότερα έσοδα στη χώρα.\n\nΤέλος, υπήρξαν συμφωνίες με τις Ηνωμένες Πολιτείες στον ενεργειακό τομέα, καθώς και σημαντικές εξελίξεις στις ένοπλες δυνάμεις και την εκπαίδευση. Αυτά τα βήματα δείχνουν μια ευρύτερη στρατηγική για την ενίσχυση της χώρας σε διάφορους τομείς.",
+      "sourceDomains": [
+        "ertnews.gr"
       ],
-      "mainArticleId": "17097e490e39",
+      "sources": [
+        {
+          "title": "ERT News, TA NEA",
+          "url": "https://www.ertnews.gr/eidiseis/k-xatzidakis-o-proypologismos-tou-2026-tha-syndyastei-me-simantikes-metarrythmiseis-ti-eipe-gia-ti-georgia-kai-tin-katanomi-ton-eyropaikon-enisxyseon/"
+        }
+      ],
+      "mainArticleId": "3d2b5012d7e1",
       "relatedArticleIds": [],
-      "createdAt": "2025-12-09T07:06:47.946Z"
+      "createdAt": "2025-12-12T15:12:59.374Z"
     },
     {
-      "id": "d3448403-364a-40ac-8b49-b8169bf0cc85",
+      "id": "b54af922-a9b8-48ab-9b85-8ccd78935c92",
       "contentType": "agent_serious_digest",
       "topic": "social",
       "topicLabel": "κοινωνικά θέματα",
       "title": "Ένα σημαντικό κοινωνικό θέμα σε απλά λόγια",
-      "simpleText": "Κινητοποιήσεις αγροτών στα αεροδρόμια της Κρήτης\n\nΣτην Κρήτη, πολλοί αγρότες και κτηνοτρόφοι βρίσκονται εδώ και πολλές ώρες στο αεροδρόμιο του Ηρακλείου και στους χώρους του αεροδρομίου στα Χανιά. Οι αγρότες δεν φεύγουν από τα αεροδρόμια. Στο Ηράκλειο τα αεροπλάνα δεν πετούν από το βράδυ, ενώ στα Χανιά το αεροδρόμιο λειτουργεί κανονικά.\n\nΟι αγρότες διαμαρτύρονται γιατί θέλουν να πληρωθούν τα χρήματα που τους χρωστάει το κράτος. Ζητούν επίσης το κόστος για τις ζωοτροφές να μειωθεί, δηλαδή να πληρώνουν λιγότερα για να ταΐζουν τα ζώα τους. Θέλουν ακόμη να έχουν λόγο όταν αλλάζουν οι νόμοι που αφορούν τη δουλειά τους.\n\nΑν δεν βρεθεί λύση, λένε ότι θα συνεχίσουν τις κινητοποιήσεις. Μπορεί να αποφασίσουν να κλείσουν και άλλους δρόμους ή λιμάνια. Πιστεύουν ότι αν τα αιτήματά τους δεν ικανοποιηθούν, η εργασία και η ζωή τους κινδυνεύουν.\n\nΣτόχος των αγροτών είναι να εξασφαλίσουν καλύτερες τιμές για τα προϊόντα τους και λιγότερα έξοδα για την παραγωγή. Αυτές οι κινητοποιήσεις συνεχίζονται σε πολλά σημεία της χώρας και οι συζητήσεις για τα επόμενα βήματα είναι καθημερινές.",
-      "sources": [
-        "tanea.gr",
-        "news.gr"
+      "simpleText": "### Ανάκληση του Προϊόντος “Oreo Cheesecakes” από τον ΕΦΕΤ\n\nΟ ΕΦΕΤ αποφάσισε να αποσύρει το προϊόν “Oreo Cheesecakes” από την αγορά. Η απόφαση αυτή ελήφθη διότι διαπιστώθηκε ότι η συσκευασία του δεν ανέφερε στα ελληνικά πως μπορεί να περιέχει ίχνη ξηρών καρπών. Η προειδοποίηση αυτή ήταν διαθέσιμη μόνο στα αγγλικά.\n\nΟ ΕΦΕΤ ζητά να αποσυρθούν όσες παρτίδες δεν έχουν σωστή επισήμανση. Οι έλεγχοι ήδη γίνονται για να εξασφαλιστεί η ασφάλεια των καταναλωτών. Είναι σημαντικό όσοι έχουν αλλεργία στους ξηρούς καρπούς και έχουν προμηθευτεί το συγκεκριμένο προϊόν να μην το καταναλώσουν.\n\nΗ κίνηση αυτή είναι απαραίτητη για την προστασία των ευάλωτων ομάδων του πληθυσμού, όπως είναι οι άνθρωποι με αλλεργίες. Οι καταναλωτές καλούνται να ελέγξουν τις συσκευασίες και να είναι προσεκτικοί στην κατανάλωση αυτών των ειδών.",
+      "sourceDomains": [
+        "ertnews.gr"
       ],
-      "mainArticleId": "caba554c9585",
+      "sources": [
+        {
+          "title": "ERT News, TA NEA",
+          "url": "https://www.ertnews.gr/eidiseis/efet-anaklisi-tou-proiontos-oreo-cheesecakes/"
+        }
+      ],
+      "mainArticleId": "f835ca99954e",
       "relatedArticleIds": [],
-      "createdAt": "2025-12-09T07:06:56.405Z"
+      "createdAt": "2025-12-12T15:13:04.918Z"
     },
     {
-      "id": "cfb554a8-4e18-45de-954d-3b496bc2962a",
+      "id": "172914c1-c377-4cb4-9f7d-02944f47be60",
       "contentType": "agent_serious_digest",
       "topic": "world",
       "topicLabel": "παγκόσμια επικαιρότητα",
       "title": "Παγκόσμια επικαιρότητα σε απλά λόγια",
-      "simpleText": "**Ευρωπαϊκή Ένωση: Σχέδιο για πλήρη διακοπή εισαγωγών ρωσικού φυσικού αερίου έως το 2027**\n\nΣτις 3 Δεκεμβρίου 2025, η Ευρωπαϊκή Ένωση (ΕΕ) αποφάσισε να σταματήσει εντελώς την εισαγωγή φυσικού αερίου από τη Ρωσία μέχρι το τέλος του 2027. Αυτή η απόφαση στοχεύει στη μείωση της εξάρτησης της ΕΕ από τη ρωσική ενέργεια, ειδικά μετά τις εντάσεις που προέκυψαν λόγω της σύγκρουσης στην Ουκρανία το 2022.\n\nΗ συμφωνία επιτεύχθηκε μεταξύ των κυβερνήσεων των κρατών μελών της ΕΕ και του Ευρωπαϊκού Κοινοβουλίου, βασισμένη σε προτάσεις της Ευρωπαϊκής Επιτροπής από τον Ιούνιο του 2025. Στόχος είναι η ενίσχυση της ενεργειακής ασφάλειας της Ευρώπης και η προώθηση εναλλακτικών πηγών ενέργειας.\n\nΗ απόφαση αυτή θεωρείται σημαντική για την ενεργειακή πολιτική της ΕΕ, καθώς επιδιώκει να διαφοροποιήσει τις πηγές ενέργειας και να μειώσει την εξάρτηση από έναν μόνο προμηθευτή. Επιπλέον, εντάσσεται στις προσπάθειες της ΕΕ για την αντιμετώπιση της κλιματικής αλλαγής και την προώθηση βιώσιμων μορφών ενέργειας.",
+      "simpleText": "Διπλωματικό επεισόδιο στη Γερμανία για δήθεν προσπάθεια ρωσικής υπονόμευσης\n\nΤην Παρασκευή 12 Δεκεμβρίου 2025, η γερμανική κυβέρνηση κάλεσε τον πρέσβη της Ρωσίας σε διαβούλευση. Ο λόγος ήταν η ανησυχία για «σημαντική αύξηση» ρωσικών επιθέσεων που δεν είναι προφανείς — όπως πληροφορίες, προσπάθειες επιρροής ή παραπληροφόρηση. Η κυβέρνηση προειδοποίησε πως θα εξετάσει αν θα λάβει και άλλες διπλωματικές ενέργειες. (theguardian.com)\n\nΑυτό το γεγονός είναι σημαντικό γιατί δείχνει ότι οι σχέσεις μεταξύ Γερμανίας και Ρωσίας είναι πολύ τεταμένες. Η Γερμανία θεωρεί ότι οι ρωσικές ενέργειες δεν απειλούν μόνο τη χώρα, αλλά και τη σταθερότητα στην Ευρώπη γενικότερα. (theguardian.com)\n\nΗ κλήση του πρέσβη σε διαβούλευση είναι μια σοβαρή ένδειξη ότι η Γερμανία δεν θα επιτρέψει τέτοιες ενέργειες να συνεχιστούν. Είναι ένα μήνυμα προς τη Ρωσία ότι οι χώρες της Ε.Ε. παρακολουθούν και απαντούν, όταν θεωρούν ότι απειλείται η ασφάλειά τους.\n\nΚατανοητό και σεβαστικό κείμενο για ενημέρωση, χωρίς υπερβολές και με σεβασμό στον αναγνώστη.",
+      "sourceDomains": [
+        "dentons.com",
+        "usskiandsnowboard.org",
+        "en.kremlin.ru",
+        "euronews.com",
+        "travelandtourworld.com",
+        "macaubusiness.com",
+        "cbsnews.com",
+        "deloitte.com",
+        "agriculture.com",
+        "moneycontrol.com",
+        "yachting-pages.com",
+        "sportstourismnews.com",
+        "horsesport.com",
+        "un.org",
+        "wsls.com",
+        "timesofindia.indiatimes.com",
+        "urbanasian.com",
+        "indiatoday.in",
+        "justsecurity.org",
+        "theguardian.com",
+        "mininggazette.com",
+        "fdd.org",
+        "deccanherald.com",
+        "foreignexchanges.news",
+        "washingtonpost.com",
+        "ndtv.com",
+        "yahoo.com",
+        "english.elpais.com"
+      ],
       "sources": [
-        "web.search"
+        {
+          "title": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/december/dentons-appoints-experienced-real-estate-partner-craig-kenny-in-dublin",
+          "url": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/december/dentons-appoints-experienced-real-estate-partner-craig-kenny-in-dublin"
+        },
+        {
+          "title": "https://www.usskiandsnowboard.org/news/vonn-wins-st-moritz",
+          "url": "https://www.usskiandsnowboard.org/news/vonn-wins-st-moritz"
+        },
+        {
+          "title": "https://en.kremlin.ru/events/president/news/78719",
+          "url": "https://en.kremlin.ru/events/president/news/78719"
+        },
+        {
+          "title": "https://www.euronews.com/video/2025/12/12/latest-news-bulletin-december-12th-2025-midday",
+          "url": "https://www.euronews.com/video/2025/12/12/latest-news-bulletin-december-12th-2025-midday"
+        },
+        {
+          "title": "https://www.travelandtourworld.com/news/article/zanzibar-earns-prestigious-award-as-best-corporate-retreat-destination-in-africa-get-the-details-here/",
+          "url": "https://www.travelandtourworld.com/news/article/zanzibar-earns-prestigious-award-as-best-corporate-retreat-destination-in-africa-get-the-details-here/"
+        },
+        {
+          "title": "https://www.macaubusiness.com/hkstp-and-hktdc-lead-delegation-of-60-tech-companies-to-ces-2026/",
+          "url": "https://www.macaubusiness.com/hkstp-and-hktdc-lead-delegation-of-60-tech-companies-to-ces-2026/"
+        },
+        {
+          "title": "https://www.cbsnews.com/news/lindsey-vonn-victory-world-cup-downhill/",
+          "url": "https://www.cbsnews.com/news/lindsey-vonn-victory-world-cup-downhill/"
+        },
+        {
+          "title": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
+          "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html"
+        },
+        {
+          "title": "https://www.agriculture.com/3-big-things-today-dec-12-2025-11867687",
+          "url": "https://www.agriculture.com/3-big-things-today-dec-12-2025-11867687"
+        },
+        {
+          "title": "https://www.moneycontrol.com/education/school-assembly-news-headlines-13-december-2025-national-international-business-and-sports-updates-article-13723349.html",
+          "url": "https://www.moneycontrol.com/education/school-assembly-news-headlines-13-december-2025-national-international-business-and-sports-updates-article-13723349.html"
+        },
+        {
+          "title": "https://www.yachting-pages.com/articles/the-top-five-news-stories-of-2025.html",
+          "url": "https://www.yachting-pages.com/articles/the-top-five-news-stories-of-2025.html"
+        },
+        {
+          "title": "https://www.sportstourismnews.com/sports-events-calendar-uk-global-sporting-events/",
+          "url": "https://www.sportstourismnews.com/sports-events-calendar-uk-global-sporting-events/"
+        },
+        {
+          "title": "https://horsesport.com/horse-news/fei-world-rankings-december-2025/",
+          "url": "https://horsesport.com/horse-news/fei-world-rankings-december-2025/"
+        },
+        {
+          "title": "https://www.un.org/sustainabledevelopment/goal-of-the-month/",
+          "url": "https://www.un.org/sustainabledevelopment/goal-of-the-month/"
+        },
+        {
+          "title": "https://www.wsls.com/news/2025/12/11/a-major-strike-in-portugal-severely-disrupts-travel-and-public-services/",
+          "url": "https://www.wsls.com/news/2025/12/11/a-major-strike-in-portugal-severely-disrupts-travel-and-public-services/"
+        },
+        {
+          "title": "https://www.travelandtourworld.com/news/article/del-cabo-events-marks-twenty-years-of-innovation-in-event-design-a-global-leader-in-luxury-event-production-celebrates-milestone/",
+          "url": "https://www.travelandtourworld.com/news/article/del-cabo-events-marks-twenty-years-of-innovation-in-event-design-a-global-leader-in-luxury-event-production-celebrates-milestone/"
+        },
+        {
+          "title": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-december-12-2025-should-you-buy-or-sell-mcx-gold/articleshow/125926924.cms",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-december-12-2025-should-you-buy-or-sell-mcx-gold/articleshow/125926924.cms"
+        },
+        {
+          "title": "https://urbanasian.com/entertainment/bollywood/2025/12/salman-khan-honours-idris-elba-at-the-red-sea-international-film-festival-2025/",
+          "url": "https://urbanasian.com/entertainment/bollywood/2025/12/salman-khan-honours-idris-elba-at-the-red-sea-international-film-festival-2025/"
+        },
+        {
+          "title": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-december-12-top-india-world-sports-business-news-2834715-2025-12-12",
+          "url": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-december-12-top-india-world-sports-business-news-2834715-2025-12-12"
+        },
+        {
+          "title": "https://www.justsecurity.org/126895/early-edition-december-12-2025/",
+          "url": "https://www.justsecurity.org/126895/early-edition-december-12-2025/"
+        },
+        {
+          "title": "https://www.theguardian.com/world/2025/dec/12/all",
+          "url": "https://www.theguardian.com/world/2025/dec/12/all"
+        },
+        {
+          "title": "https://www.mininggazette.com/today-in-history/2025/12/today-in-history-december-12-2025/",
+          "url": "https://www.mininggazette.com/today-in-history/2025/12/today-in-history-december-12-2025/"
+        },
+        {
+          "title": "https://www.fdd.org/overnight-brief/december-12-2025/",
+          "url": "https://www.fdd.org/overnight-brief/december-12-2025/"
+        },
+        {
+          "title": "https://www.justsecurity.org/126813/early-edition-december-11-2025/",
+          "url": "https://www.justsecurity.org/126813/early-edition-december-11-2025/"
+        },
+        {
+          "title": "https://www.deccanherald.com/india/news-in-pics-december-12-2025-best-photos-from-around-the-world-3828467",
+          "url": "https://www.deccanherald.com/india/news-in-pics-december-12-2025-best-photos-from-around-the-world-3828467"
+        },
+        {
+          "title": "https://www.foreignexchanges.news/p/world-roundup-december-11-2025",
+          "url": "https://www.foreignexchanges.news/p/world-roundup-december-11-2025"
+        },
+        {
+          "title": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/december/dentons-appoints-experienced-real-estate-partner-craig-kenny-in-dublin?utm_source=openai",
+          "url": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/december/dentons-appoints-experienced-real-estate-partner-craig-kenny-in-dublin?utm_source=openai"
+        },
+        {
+          "title": "https://www.usskiandsnowboard.org/news/vonn-wins-st-moritz?utm_source=openai",
+          "url": "https://www.usskiandsnowboard.org/news/vonn-wins-st-moritz?utm_source=openai"
+        },
+        {
+          "title": "https://en.kremlin.ru/events/president/news/78719?utm_source=openai",
+          "url": "https://en.kremlin.ru/events/president/news/78719?utm_source=openai"
+        },
+        {
+          "title": "https://www.euronews.com/video/2025/12/12/latest-news-bulletin-december-12th-2025-midday?utm_source=openai",
+          "url": "https://www.euronews.com/video/2025/12/12/latest-news-bulletin-december-12th-2025-midday?utm_source=openai"
+        },
+        {
+          "title": "https://www.travelandtourworld.com/news/article/zanzibar-earns-prestigious-award-as-best-corporate-retreat-destination-in-africa-get-the-details-here/?utm_source=openai",
+          "url": "https://www.travelandtourworld.com/news/article/zanzibar-earns-prestigious-award-as-best-corporate-retreat-destination-in-africa-get-the-details-here/?utm_source=openai"
+        },
+        {
+          "title": "https://www.travelandtourworld.com/news/article/del-cabo-events-marks-twenty-years-of-innovation-in-event-design-a-global-leader-in-luxury-event-production-celebrates-milestone/?utm_source=openai",
+          "url": "https://www.travelandtourworld.com/news/article/del-cabo-events-marks-twenty-years-of-innovation-in-event-design-a-global-leader-in-luxury-event-production-celebrates-milestone/?utm_source=openai"
+        },
+        {
+          "title": "https://www.macaubusiness.com/hkstp-and-hktdc-lead-delegation-of-60-tech-companies-to-ces-2026/?utm_source=openai",
+          "url": "https://www.macaubusiness.com/hkstp-and-hktdc-lead-delegation-of-60-tech-companies-to-ces-2026/?utm_source=openai"
+        },
+        {
+          "title": "https://www.cbsnews.com/news/lindsey-vonn-victory-world-cup-downhill/?utm_source=openai",
+          "url": "https://www.cbsnews.com/news/lindsey-vonn-victory-world-cup-downhill/?utm_source=openai"
+        },
+        {
+          "title": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?utm_source=openai",
+          "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?utm_source=openai"
+        },
+        {
+          "title": "https://www.agriculture.com/3-big-things-today-dec-12-2025-11867687?utm_source=openai",
+          "url": "https://www.agriculture.com/3-big-things-today-dec-12-2025-11867687?utm_source=openai"
+        },
+        {
+          "title": "https://www.moneycontrol.com/education/school-assembly-news-headlines-13-december-2025-national-international-business-and-sports-updates-article-13723349.html?utm_source=openai",
+          "url": "https://www.moneycontrol.com/education/school-assembly-news-headlines-13-december-2025-national-international-business-and-sports-updates-article-13723349.html?utm_source=openai"
+        },
+        {
+          "title": "https://www.yachting-pages.com/articles/the-top-five-news-stories-of-2025.html?utm_source=openai",
+          "url": "https://www.yachting-pages.com/articles/the-top-five-news-stories-of-2025.html?utm_source=openai"
+        },
+        {
+          "title": "https://www.sportstourismnews.com/sports-events-calendar-uk-global-sporting-events/?utm_source=openai",
+          "url": "https://www.sportstourismnews.com/sports-events-calendar-uk-global-sporting-events/?utm_source=openai"
+        },
+        {
+          "title": "https://horsesport.com/horse-news/fei-world-rankings-december-2025/?utm_source=openai",
+          "url": "https://horsesport.com/horse-news/fei-world-rankings-december-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.un.org/sustainabledevelopment/goal-of-the-month/?utm_source=openai",
+          "url": "https://www.un.org/sustainabledevelopment/goal-of-the-month/?utm_source=openai"
+        },
+        {
+          "title": "https://www.wsls.com/news/2025/12/11/a-major-strike-in-portugal-severely-disrupts-travel-and-public-services/?utm_source=openai",
+          "url": "https://www.wsls.com/news/2025/12/11/a-major-strike-in-portugal-severely-disrupts-travel-and-public-services/?utm_source=openai"
+        },
+        {
+          "title": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-december-12-2025-should-you-buy-or-sell-mcx-gold/articleshow/125926924.cms?utm_source=openai",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-december-12-2025-should-you-buy-or-sell-mcx-gold/articleshow/125926924.cms?utm_source=openai"
+        },
+        {
+          "title": "https://urbanasian.com/entertainment/bollywood/2025/12/salman-khan-honours-idris-elba-at-the-red-sea-international-film-festival-2025/?utm_source=openai",
+          "url": "https://urbanasian.com/entertainment/bollywood/2025/12/salman-khan-honours-idris-elba-at-the-red-sea-international-film-festival-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-december-12-top-india-world-sports-business-news-2834715-2025-12-12?utm_source=openai",
+          "url": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-december-12-top-india-world-sports-business-news-2834715-2025-12-12?utm_source=openai"
+        },
+        {
+          "title": "https://www.justsecurity.org/126895/early-edition-december-12-2025/?utm_source=openai",
+          "url": "https://www.justsecurity.org/126895/early-edition-december-12-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.justsecurity.org/126813/early-edition-december-11-2025/?utm_source=openai",
+          "url": "https://www.justsecurity.org/126813/early-edition-december-11-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.mininggazette.com/today-in-history/2025/12/today-in-history-december-12-2025/?utm_source=openai",
+          "url": "https://www.mininggazette.com/today-in-history/2025/12/today-in-history-december-12-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.fdd.org/overnight-brief/december-12-2025/?utm_source=openai",
+          "url": "https://www.fdd.org/overnight-brief/december-12-2025/?utm_source=openai"
+        },
+        {
+          "title": "https://www.deccanherald.com/india/news-in-pics-december-12-2025-best-photos-from-around-the-world-3828467?utm_source=openai",
+          "url": "https://www.deccanherald.com/india/news-in-pics-december-12-2025-best-photos-from-around-the-world-3828467?utm_source=openai"
+        },
+        {
+          "title": "https://www.foreignexchanges.news/p/world-roundup-december-11-2025?utm_source=openai",
+          "url": "https://www.foreignexchanges.news/p/world-roundup-december-11-2025?utm_source=openai"
+        },
+        {
+          "title": "https://www.washingtonpost.com/the-seven/2025/12/12/what-to-know-for-december-12/?utm_source=openai",
+          "url": "https://www.washingtonpost.com/the-seven/2025/12/12/what-to-know-for-december-12/?utm_source=openai"
+        },
+        {
+          "title": "https://www.ndtv.com/video/top-headlines-of-the-day-from-across-the-globe-december-12-2024-872179?utm_source=openai",
+          "url": "https://www.ndtv.com/video/top-headlines-of-the-day-from-across-the-globe-december-12-2024-872179?utm_source=openai"
+        },
+        {
+          "title": "https://www.yahoo.com/news/articles/know-december-12-2025-131658751.html?utm_source=openai",
+          "url": "https://www.yahoo.com/news/articles/know-december-12-2025-131658751.html?utm_source=openai"
+        },
+        {
+          "title": "https://english.elpais.com/archive/2025-12-12/?utm_source=openai",
+          "url": "https://english.elpais.com/archive/2025-12-12/?utm_source=openai"
+        }
       ],
       "mainArticleId": null,
       "relatedArticleIds": [],
-      "createdAt": "2025-12-09T07:07:05.567Z"
+      "createdAt": "2025-12-12T15:13:10.511Z"
     }
   ]
 }
