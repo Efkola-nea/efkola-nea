@@ -9,6 +9,10 @@ import {
   cleanSimplifiedText,
   extractSourceDomains,
   extractWebSearchSources,
+  buildSearchQuery,
+  filterSearchResults,
+  rankAndDedupe,
+  extractHostname,
 } from "./llm/textUtils.js";
 
 // Paths
@@ -312,41 +316,75 @@ ${JSON.stringify(payload, null, 2)}
   let simpleText = extractTextFromResponse(response).trim();
   simpleText = stripSourcesAndInlineLinks(simpleText);
   simpleText = cleanSimplifiedText(simpleText);
-  const webSources = extractWebSearchSources(response);
+  const webSourcesRaw = extractWebSearchSources(response);
 
-  const mergedSources = [...webSources];
+  const contextArticle = hasMain
+    ? mainArticle
+    : {
+        title,
+        summary: simpleText,
+        publishedAt: today,
+      };
 
-  if (hasMain) {
-    mergedSources.push({
-      title: mainArticle.sourceName || mainArticle.sourceUrl || "Πηγή",
-      url: mainArticle.sourceUrl || mainArticle.url || "",
-    });
+  const { query, entities, eventDate } = buildSearchQuery(contextArticle);
+
+  const { accepted, rejected } = filterSearchResults(
+    webSourcesRaw,
+    entities,
+    eventDate,
+    { blocklist: ["inside track", "opinion", "column", "gallery"] }
+  );
+
+  const ranked = rankAndDedupe(accepted, {
+    whitelistDomains: [
+      "ertnews.gr",
+      "sport24.gr",
+      "gazzetta.gr",
+      "in.gr",
+      "tanea.gr",
+      "kathimerini.gr",
+      "cnn.gr",
+      "uefa.com",
+    ],
+    max: 4,
+  });
+
+  let finalSources = ranked;
+
+  if (!finalSources.length && hasMain) {
+    const fallbackUrls = collectSourceUrls(mainArticle).slice(0, 4);
+    finalSources = fallbackUrls.map((url) => ({
+      title: mainArticle.sourceName || extractHostname(url) || "Πηγή",
+      url,
+    }));
   }
 
-  const dedupedSources = [];
-  const seenSources = new Set();
-
-  for (const src of mergedSources) {
-    if (!src) continue;
-    const key = (src.url || src.title || "").toLowerCase();
-    if (key && seenSources.has(key)) continue;
-    if (key) seenSources.add(key);
-    dedupedSources.push(src);
+  if (!finalSources.length) {
+    finalSources = accepted.slice(0, 2);
   }
 
-  const sourceUrls = dedupedSources.map((s) => s.url).filter(Boolean);
+  const sourceUrls = finalSources.map((s) => s.url).filter(Boolean);
   let sourceDomains = extractSourceDomains(sourceUrls);
 
   if (!sourceDomains.length && !hasMain) {
     sourceDomains = ["web.search"];
   }
 
-  if (!sourceDomains.length && hasMain) {
-    const nameFallbacks = dedupedSources.map((s) => s.title).filter(Boolean);
-    if (nameFallbacks.length) {
-      sourceDomains = [...new Set(nameFallbacks)];
-    }
-  }
+  const reasonCounts = rejected.reduce((acc, r) => {
+    acc[r.reason] = (acc[r.reason] || 0) + 1;
+    return acc;
+  }, {});
+
+  const finalHosts = finalSources
+    .map((s) => extractHostname(s.url))
+    .filter(Boolean)
+    .join(", ");
+
+  console.log(
+    `🧭 sources serious:${topicKey} | query="${query}" | total=${webSourcesRaw.length} accepted=${accepted.length} rejected=${rejected.length} reasons=${JSON.stringify(
+      reasonCounts
+    )} final_hosts=${finalHosts}`
+  );
 
   return {
     id: crypto.randomUUID(),
@@ -356,7 +394,7 @@ ${JSON.stringify(payload, null, 2)}
     title,
     simpleText,
     sourceDomains,
-    sources: dedupedSources,
+    sources: finalSources,
     mainArticleId: hasMain ? mainArticle.id : null,
     relatedArticleIds: [], // δεν χρησιμοποιούμε πλέον related, ένα γεγονός ανά θεματική
     createdAt: new Date().toISOString(),

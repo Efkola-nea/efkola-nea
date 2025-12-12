@@ -441,7 +441,61 @@
       bgEl.style.display = "block";
     }
 
-    // 🔚 Πηγές στο τέλος, με εικονίδιο – ως links προς site ή άρθρο
+    // 🔚 Πηγές στο τέλος, με emoji τίτλο και dedupe ανά host
+    const SOURCE_LABELS = {
+      "ertnews.gr": "ERT News",
+      "tanea.gr": "TA NEA",
+      "in.gr": "in.gr",
+      "cnn.gr": "CNN Greece",
+      "amna.gr": "ΑΠΕ-ΜΠΕ (AMNA)",
+      "kathimerini.gr": "Η Καθημερινή",
+      "gazzetta.gr": "Gazzetta",
+      "sport24.gr": "SPORT24",
+      "novasports.gr": "Novasports",
+      "reuters.com": "Reuters",
+      "uefa.com": "UEFA",
+    };
+
+    function normalizeHost(url) {
+      if (!url) return "";
+      try {
+        return new URL(url).hostname.replace(/^www\./i, "").toLowerCase();
+      } catch {
+        return "";
+      }
+    }
+
+    function prettifyHost(host) {
+      if (!host) return "";
+      const parts = host.split(".");
+      const trimmed = parts.length > 2 ? parts.slice(-2) : parts;
+      const base = trimmed.join(".");
+      return base
+        .split("-")
+        .map((w) => (w ? w[0].toUpperCase() + w.slice(1) : ""))
+        .join("-");
+    }
+
+    function getSourceLabel(url) {
+      const host = normalizeHost(url);
+      if (!host) return "";
+      if (SOURCE_LABELS[host]) return SOURCE_LABELS[host];
+      return prettifyHost(host);
+    }
+
+    function dedupeSourcesByHost(sources) {
+      const seen = new Set();
+      const result = [];
+      for (const item of sources) {
+        const host = normalizeHost(item.url);
+        const key = host || item.title || item.url;
+        if (!key || seen.has(key)) continue;
+        seen.add(key);
+        result.push({ ...item, host });
+      }
+      return result;
+    }
+
     function renderSourcesSection(container, article, fallbackText) {
       if (!container) return;
 
@@ -451,46 +505,32 @@
 
       const items = [];
 
-      const hostnameFromUrl = (url) => {
-        if (!url) return "";
-        try {
-          return new URL(url).hostname.replace(/^www\./, "");
-        } catch {
-          return url;
-        }
-      };
-
       if (sources.length) {
         for (const s of sources) {
           if (typeof s === "string") {
-            const domain = s
-              .replace(/^https?:\/\//i, "")
-              .replace(/^www\./i, "")
-              .trim();
-
-            if (!domain) continue;
-
-            const url = s.startsWith("http") ? s : "https://" + domain;
-            const title = domain || hostnameFromUrl(url) || "Πηγή";
-            items.push({ title, url });
+            const url = s.startsWith("http") ? s : `https://${s}`;
+            const label = getSourceLabel(url) || "Πηγή";
+            items.push({ title: label, url });
             continue;
           }
 
           const url = s?.url || s?.sourceUrl || "";
-          const title =
+          const label =
+            getSourceLabel(url) ||
             s?.title ||
             s?.publisher ||
             s?.sourceName ||
             s?.source ||
-            (url ? hostnameFromUrl(url) : "");
+            "Πηγή";
 
-          if (!url && !title) continue;
-          items.push({ title: title || "Πηγή", url });
+          if (!url && !label) continue;
+          items.push({ title: label, url });
         }
       }
 
       if (!items.length && fallbackUrl && fallbackUrl !== "#") {
-        items.push({ title: fallbackName || "Πηγή", url: fallbackUrl });
+        const label = getSourceLabel(fallbackUrl) || fallbackName || "Πηγή";
+        items.push({ title: label, url: fallbackUrl });
       }
 
       if (!items.length && fallbackText) {
@@ -498,13 +538,15 @@
       }
 
       const validItems = items.filter((i) => i.title || i.url);
-      if (!validItems.length) {
+      const deduped = dedupeSourcesByHost(validItems);
+
+      if (!deduped.length) {
         container.innerHTML = "";
         container.style.display = "none";
         return;
       }
 
-      const itemsHtml = validItems
+      const itemsHtml = deduped
         .map((item) => {
           const safeTitle = escapeHtml(item.title || "Πηγή");
           if (item.url) {
@@ -516,7 +558,7 @@
         .join("");
 
       container.innerHTML = `
-        <p class="text-muted small mb-1">Πηγές:</p>
+        <p class="text-muted small mb-1">🌍 Πηγές</p>
         <ul class="small mb-0 ps-3">${itemsHtml}</ul>
       `;
       container.style.display = "block";

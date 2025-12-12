@@ -8,6 +8,10 @@ import {
   extractSourceDomains,
   getWebSearchDateContext,
   extractWebSearchSources,
+  buildSearchQuery,
+  filterSearchResults,
+  rankAndDedupe,
+  extractHostname,
 } from "./llm/textUtils.js";
 
 // Κατηγορίες που θα αντιμετωπίζονται ως lifestyle
@@ -216,40 +220,76 @@ ${JSON.stringify(payload, null, 2)}
   let rawText = extractTextFromResponse(response).trim();
   rawText = stripSourcesAndInlineLinks(rawText);
   const cleaned = cleanSimplifiedText(rawText);
-
-  const webSources = extractWebSearchSources(response);
+  const webSourcesRaw = extractWebSearchSources(response);
   const itemSources = items.map((item) => ({
     title: item.sourceName || "Πηγή",
     url: item.sourceUrl || item.url || "",
   }));
 
-  const mergedSources = [...itemSources, ...webSources];
-  const dedupedSources = [];
-  const seenSources = new Set();
+  const primaryItem = items[0] || null;
+  const contextArticle = primaryItem || {
+    title: cleaned.split(/\n+/).find((l) => l.trim()) ||
+      lifestyleTitleForCategory(category),
+    summary: cleaned,
+    publishedAt: today,
+  };
 
-  for (const src of mergedSources) {
-    if (!src) continue;
-    const key = (src.url || src.title || "").toLowerCase();
-    if (key && seenSources.has(key)) continue;
-    if (key) seenSources.add(key);
-    dedupedSources.push(src);
-  }
+  const { query, entities, eventDate } = buildSearchQuery(contextArticle);
 
-  let sourceDomains = extractSourceDomains(
-    dedupedSources.map((s) => s.url).filter(Boolean)
+  const candidates = [...webSourcesRaw, ...itemSources];
+  const { accepted, rejected } = filterSearchResults(
+    candidates,
+    entities,
+    eventDate,
+    { blocklist: ["inside track", "opinion", "column", "gallery"] }
   );
 
-  if (!sourceDomains.length && items.length === 0) {
-    // καθαρό web search fallback
-    sourceDomains = ["web.search"];
+  const ranked = rankAndDedupe(accepted, {
+    whitelistDomains: [
+      "ertnews.gr",
+      "sport24.gr",
+      "gazzetta.gr",
+      "in.gr",
+      "tanea.gr",
+      "kathimerini.gr",
+      "cnn.gr",
+      "uefa.com",
+    ],
+    max: 4,
+  });
+
+  let finalSources = ranked;
+
+  if (!finalSources.length && primaryItem) {
+    finalSources = itemSources.slice(0, 4).map((s) => ({
+      ...s,
+      title: s.title || extractHostname(s.url) || "Πηγή",
+    }));
   }
 
-  if (!sourceDomains.length) {
-    const nameFallbacks = items.map((i) => i.sourceName).filter(Boolean);
-    if (nameFallbacks.length) {
-      sourceDomains = [...new Set(nameFallbacks)];
-    }
+  if (!finalSources.length && items.length === 0) {
+    finalSources = webSourcesRaw.slice(0, 4);
   }
+
+  const sourceDomains = extractSourceDomains(
+    finalSources.map((s) => s.url).filter(Boolean)
+  );
+
+  const reasonCounts = rejected.reduce((acc, r) => {
+    acc[r.reason] = (acc[r.reason] || 0) + 1;
+    return acc;
+  }, {});
+
+  const finalHosts = finalSources
+    .map((s) => extractHostname(s.url))
+    .filter(Boolean)
+    .join(", ");
+
+  console.log(
+    `🧭 sources lifestyle:${category} | query="${query}" | total=${candidates.length} accepted=${accepted.length} rejected=${rejected.length} reasons=${JSON.stringify(
+      reasonCounts
+    )} final_hosts=${finalHosts}`
+  );
 
   // Δεν προσθέτουμε footer "Πηγές:" στο κείμενο.
   // Οι πηγές θα εμφανιστούν από το UI, χρησιμοποιώντας το πεδίο `sources`.
@@ -263,7 +303,7 @@ ${JSON.stringify(payload, null, 2)}
     title: lifestyleTitleForCategory(category),
     simpleText,
     sourceDomains,
-    sources: dedupedSources,
+    sources: finalSources,
     createdAt: new Date().toISOString(),
   };
 

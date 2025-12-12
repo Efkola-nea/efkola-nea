@@ -13,6 +13,10 @@ import {
   getWebSearchDateContext,
   dedupeArticlesByUrlOrTitle,
   extractWebSearchSources,
+  buildSearchQuery,
+  filterSearchResults,
+  rankAndDedupe,
+  extractHostname,
 } from "./llm/textUtils.js";
 
 export { CATEGORY_KEYS };
@@ -419,25 +423,77 @@ ${queries.map((q) => `- ${q}`).join("\n")}
   const rawText = extractTextFromResponse(response).trim();
   const cleaned = cleanSimplifiedText(rawText);
 
-  const webSources = extractWebSearchSources(response);
+  const firstLine =
+    cleaned.split(/\n+/).find((line) => line.trim()) ||
+    `Είδηση κατηγορίας ${categoryKey}`;
+
+  const simpleTitle = firstLine.replace(/\*+/g, "").trim().slice(0, 160);
+
+  const webSourcesRaw = extractWebSearchSources(response);
+
+  const { query, entities, eventDate } = buildSearchQuery({
+    title: simpleTitle,
+    summary: cleaned,
+    publishedAt: dateCtx.today,
+  });
+
+  const { accepted, rejected } = filterSearchResults(
+    webSourcesRaw,
+    entities,
+    eventDate,
+    { blocklist: ["inside track", "opinion", "column", "gallery"] }
+  );
+
+  const ranked = rankAndDedupe(accepted, {
+    whitelistDomains: [
+      "ertnews.gr",
+      "sport24.gr",
+      "gazzetta.gr",
+      "in.gr",
+      "tanea.gr",
+      "kathimerini.gr",
+      "cnn.gr",
+      "uefa.com",
+      "amna.gr",
+      "reuters.com",
+    ],
+    max: 4,
+  });
+
+  let finalSources = ranked;
+  if (!finalSources.length) {
+    finalSources = webSourcesRaw.slice(0, 2);
+  }
+
   let sourceDomains = extractSourceDomains(
-    webSources.map((s) => s.url).filter(Boolean)
+    finalSources.map((s) => s.url).filter(Boolean)
   );
 
   if (!sourceDomains.length) {
     sourceDomains = ["web.search"];
   }
 
-  const firstLine =
-    cleaned.split(/\n+/).find((line) => line.trim()) ||
-    `Είδηση κατηγορίας ${categoryKey}`;
-
-  const simpleTitle = firstLine.replace(/\*+/g, "").trim().slice(0, 160);
   const footer = buildSourcesFooter(sourceDomains);
   const simpleText = cleaned + footer;
 
-  const mainSourceName = webSources[0]?.title || "web.search";
-  const mainSourceUrl = webSources[0]?.url || "";
+  const mainSourceName = finalSources[0]?.title || "web.search";
+  const mainSourceUrl = finalSources[0]?.url || "";
+
+  const reasonCounts = rejected.reduce((acc, r) => {
+    acc[r.reason] = (acc[r.reason] || 0) + 1;
+    return acc;
+  }, {});
+
+  const finalHosts = finalSources
+    .map((s) => extractHostname(s.url))
+    .filter(Boolean)
+    .join(", ");
+
+  console.log(
+    `🧭 sources fetch:${categoryKey} | query="${query}" | total=${webSourcesRaw.length} accepted=${accepted.length} rejected=${rejected.length} reasons=${JSON.stringify(
+      reasonCounts
+    )} final_hosts=${finalHosts}`
+  );
 
   return {
     id: crypto.randomUUID(),
@@ -446,7 +502,7 @@ ${queries.map((q) => `- ${q}`).join("\n")}
     simpleText,
     sourceName: mainSourceName,
     sourceUrl: mainSourceUrl,
-    sources: webSources,
+    sources: finalSources,
     sourceDomains,
     category: categoryKey,
     categoryReason: "web_search_fallback",

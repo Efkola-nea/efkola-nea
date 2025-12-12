@@ -101,6 +101,210 @@ function dedupeArticlesByUrlOrTitle(articles) {
   return result;
 }
 
+// Normalize greek/latin text: lowercase, strip accents, trim extra spaces
+function normalizeText(text) {
+  return (text || "")
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractHostname(url) {
+  if (!url) return "";
+  try {
+    return new URL(url).hostname.replace(/^www\./i, "").toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function pickKeywords(text, limit = 6) {
+  const stop = new Set([
+    "και",
+    "στις",
+    "στο",
+    "στη",
+    "στην",
+    "στον",
+    "των",
+    "των",
+    "με",
+    "για",
+    "σε",
+    "του",
+    "της",
+    "το",
+    "η",
+    "οι",
+    "τα",
+    "ένα",
+    "μια",
+    "ενός",
+    "μία",
+  ]);
+
+  const words = normalizeText(text)
+    .split(/[^a-zα-ωάέίόύήώ0-9]+/i)
+    .filter((w) => w && w.length > 2 && !stop.has(w));
+
+  const uniq = [];
+  for (const w of words) {
+    if (!uniq.includes(w)) uniq.push(w);
+    if (uniq.length >= limit) break;
+  }
+  return uniq;
+}
+
+function buildSearchQuery(article) {
+  const headline =
+    article?.title || article?.simpleTitle || article?.headline || "Είδηση";
+
+  const summary = article?.summary || article?.simpleText || "";
+  const combined = `${headline}\n${summary}`;
+  const keywords = pickKeywords(combined, 6);
+
+  let eventDate = article?.publishedAt || article?.date || article?.eventDate;
+  if (eventDate) {
+    try {
+      eventDate = new Date(eventDate).toISOString().slice(0, 10);
+    } catch {
+      eventDate = undefined;
+    }
+  }
+
+  const query = `${headline} ${keywords.join(" ")} ${eventDate || ""}`.trim();
+
+  return { query, entities: keywords, eventDate };
+}
+
+function filterSearchResults(results, articleEntities, eventDate, options = {}) {
+  const blocklist = (options.blocklist || ["inside track", "opinion", "column", "gallery"]).map(
+    (w) => normalizeText(w)
+  );
+
+  const normalizedEntities = (articleEntities || [])
+    .map((e) => normalizeText(e))
+    .filter((e) => e && e.length > 2);
+
+  const windowDaysPrimary = options.windowDays || 7;
+  const windowDaysFallback = options.windowDaysFallback || 14;
+
+  const accepted = [];
+  const rejected = [];
+
+  const checkWindow = (published, windowDays) => {
+    if (!eventDate || !published) return { ok: true, diffDays: null };
+    const event = new Date(eventDate);
+    const pub = new Date(published);
+    if (Number.isNaN(event) || Number.isNaN(pub)) return { ok: true, diffDays: null };
+    const diffDays = Math.abs((pub - event) / (1000 * 60 * 60 * 24));
+    return { ok: diffDays <= windowDays, diffDays };
+  };
+
+  const evaluate = (windowLimit, subset) => {
+    const list = subset ?? results ?? [];
+    for (const res of list) {
+      const title = res?.title || res?.name || "";
+      const snippet = res?.snippet || res?.description || res?.summary || "";
+      const url = res?.url || res?.link || res?.sourceUrl || "";
+      const publishedAt = res?.publishedAt || res?.published_date || res?.date;
+      const text = normalizeText(`${title} ${snippet}`);
+
+      const blocklisted = blocklist.some((b) => b && text.includes(b));
+      if (blocklisted) {
+        rejected.push({ url, reason: "blocklist" });
+        continue;
+      }
+
+      let matches = 0;
+      for (const ent of normalizedEntities) {
+        if (ent && text.includes(ent)) matches += 1;
+      }
+
+      if (matches === 0) {
+        rejected.push({ url, reason: "no_entity" });
+        continue;
+      }
+
+      if (matches < 2) {
+        rejected.push({ url, reason: "low_match" });
+        continue;
+      }
+
+      const { ok, diffDays } = checkWindow(publishedAt, windowLimit);
+      if (!ok) {
+        rejected.push({ url, reason: "date_window" });
+        continue;
+      }
+
+      accepted.push({
+        title: title || url || "Πηγή",
+        snippet,
+        url,
+        publishedAt,
+        matchCount: matches,
+        diffDays,
+        host: extractHostname(url),
+      });
+    }
+  };
+
+  evaluate(windowDaysPrimary);
+
+  if (accepted.length < 2 && eventDate) {
+    // Δοκίμασε πιο χαλαρό χρονικό παράθυρο
+    const dateRejectedUrls = new Set(
+      rejected.filter((r) => r.reason === "date_window").map((r) => r.url)
+    );
+
+    const relaxed = (results || []).filter((res) => {
+      const url = res?.url || res?.link || res?.sourceUrl || "";
+      return dateRejectedUrls.has(url);
+    });
+
+    evaluate(windowDaysFallback, relaxed);
+  }
+
+  return { accepted, rejected };
+}
+
+function rankAndDedupe(results, options = {}) {
+  const whitelist = new Set(options.whitelistDomains || []);
+  const max = options.max || 4;
+  const seen = new Set();
+
+  const scored = (results || []).map((r) => {
+    const host = extractHostname(r.url) || r.host || "";
+    const whitelistBonus = whitelist.has(host) ? 5 : 0;
+    const matchScore = (r.matchCount || 0) * 10;
+    const recencyScore = Number.isFinite(r.diffDays)
+      ? Math.max(0, 14 - Math.abs(r.diffDays))
+      : 0;
+
+    return {
+      ...r,
+      host,
+      score: matchScore + recencyScore + whitelistBonus,
+    };
+  });
+
+  const sorted = scored.sort((a, b) => b.score - a.score);
+
+  const deduped = [];
+  for (const r of sorted) {
+    const key = r.host || r.url || r.title;
+    if (!key) continue;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(r);
+    if (deduped.length >= max) break;
+  }
+
+  return deduped;
+}
+
 // Extract web search sources from a Responses API payload
 function extractWebSearchSources(response) {
   const items = [];
@@ -133,10 +337,15 @@ function extractWebSearchSources(response) {
         src.title ||
         src.name ||
         (url ? url : "Πηγή");
+      const snippet = src.snippet || src.description || src.summary || "";
+      const publishedAt = src.publishedAt || src.published_date || src.date;
 
       return {
         title,
         url,
+        snippet,
+        publishedAt,
+        host: extractHostname(url),
       };
     });
 
@@ -160,5 +369,10 @@ export {
   getWebSearchDateContext,
   normalizeTitle,
   dedupeArticlesByUrlOrTitle,
+  normalizeText,
+  extractHostname,
+  buildSearchQuery,
+  filterSearchResults,
+  rankAndDedupe,
   extractWebSearchSources,
 };
