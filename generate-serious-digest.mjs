@@ -301,7 +301,7 @@ ${JSON.stringify(payload, null, 2)}
   }
 
   const response = await openai.responses.create({
-    model: "gpt-4.1",
+    model: "gpt-4o",
     instructions: SERIOUS_DIGEST_SYSTEM_PROMPT,
     tools: [{ type: "web_search" }],
     include: ["web_search_call.action.sources"],
