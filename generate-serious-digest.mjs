@@ -151,18 +151,24 @@ function scoreSeriousArticle(article) {
 // ✅ allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
-  const raw = url.trim().replace(/^\/\//, "https://");
+  const normalized = url.trim();
+  const withProtocol = normalized.startsWith("//") ? `https:${normalized}` : normalized;
+  let u;
   try {
-    const u = new URL(raw, "https:");
-    const host = u.hostname.toLowerCase();
-    const path = u.pathname.toLowerCase();
-    if (host === "cdn.pixabay.com") return true;
-    if (host === "pixabay.com")
-      return PIXABAY_ALLOWED_PATH_PREFIXES.some((p) => path.startsWith(p));
-    return false;
+    u = new URL(withProtocol);
   } catch {
-    return false;
+    try {
+      u = new URL(withProtocol, "https://pixabay.com");
+    } catch {
+      return false;
+    }
   }
+  const host = u.hostname.toLowerCase();
+  const path = u.pathname.toLowerCase();
+  if (host === "cdn.pixabay.com") return true;
+  if (host === "pixabay.com")
+    return PIXABAY_ALLOWED_PATH_PREFIXES.some((p) => path.startsWith(p));
+  return false;
 }
 
 // Διαβάζει JSON αν υπάρχει (για "κρατάω το προηγούμενο")
