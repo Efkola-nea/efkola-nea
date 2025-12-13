@@ -146,7 +146,7 @@ function scoreSeriousArticle(article) {
   return sourcesCount * 1_000_000_000_000 + timeMs;
 }
 
-// ✅ Allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
+// ✅ Allow list: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
   const raw = url.trim().replace(/^\/\//, "https://");
@@ -156,10 +156,10 @@ function isPixabayUrl(url) {
     const path = u.pathname.toLowerCase();
     if (host === "cdn.pixabay.com") return true;
     if (host === "pixabay.com") return path.startsWith("/get/") || path.startsWith("/photos/");
+    return false;
   } catch {
     return false;
   }
-  return false;
 }
 
 // Διαβάζει JSON αν υπάρχει (για "κρατάω το προηγούμενο")
