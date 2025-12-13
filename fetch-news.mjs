@@ -4,6 +4,7 @@ import crypto from "crypto";
 import { CATEGORY_KEYS } from "./llm/newsCategories.js";
 import { simplifyNewsArticle } from "./llm/newsSimplifier.js";
 import { classifyNewsArticle } from "./llm/newsCategorizer.js";
+import { resolveArticleImage } from "./llm/imageResolver.js";
 import {
   cleanSimplifiedText,
   extractSourceDomains,
@@ -952,11 +953,7 @@ async function run() {
   for (const article of allArticles) {
     const base = { ...article };
 
-    // TESTING FEATURE: generic Pixabay image per category
-    const seed = base.id || base.simpleTitle || base.title || "";
-    const pixabayImage = await fetchPixabayImageForCategory(article.category, seed);
-    // Για copyright-safety: ή Pixabay ή τίποτα (δεν κρατάμε feed images)
-    base.imageUrl = pixabayImage || null;
+    base.imageUrl = await resolveArticleImage(base);
 
     finalArticles.push(base);
   }
