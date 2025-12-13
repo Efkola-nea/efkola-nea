@@ -1,4 +1,26 @@
-// Common text helpers for simplifying and formatting output
+// llm/textUtils.js
+// Common text helpers for simplifying, sources formatting, and web-search source ranking.
+
+const SOURCE_LABEL_BY_DOMAIN = {
+  "ertnews.gr": "ERT News",
+  "tanea.gr": "TA NEA",
+  "tovima.gr": "TO BHMA",
+  "news.gr": "News.gr",
+  "902.gr": "902.gr",
+  "newsbomb.gr": "Newsbomb.gr",
+  "protagon.gr": "Protagon",
+  "greekreporter.com": "Greek Reporter",
+  "thehappynews.gr": "The Happy News",
+
+  "sport24.gr": "Sport24",
+  "gazzetta.gr": "Gazzetta",
+  "in.gr": "in.gr",
+  "kathimerini.gr": "Kathimerini",
+  "cnn.gr": "CNN Greece",
+  "amna.gr": "ΑΠΕ-ΜΠΕ",
+  "reuters.com": "Reuters",
+  "uefa.com": "UEFA",
+};
 
 function cleanSimplifiedText(text) {
   return (text || "")
@@ -11,6 +33,16 @@ function cleanSimplifiedText(text) {
     .trim();
 }
 
+function extractHostname(url) {
+  if (!url) return "";
+  try {
+    return new URL(url).hostname.replace(/^www\./i, "").toLowerCase();
+  } catch {
+    // Αν ήδη δίνεις domain χωρίς scheme
+    return String(url).replace(/^www\./i, "").toLowerCase().trim();
+  }
+}
+
 function extractSourceDomains(urls) {
   if (!Array.isArray(urls)) return [];
 
@@ -20,7 +52,10 @@ function extractSourceDomains(urls) {
         const hostname = new URL(u).hostname || "";
         return hostname.replace(/^www\./, "");
       } catch {
-        return null;
+        // Αν είναι ήδη domain
+        const raw = String(u || "").trim();
+        if (!raw) return null;
+        return raw.replace(/^www\./, "");
       }
     })
     .filter(Boolean);
@@ -28,14 +63,33 @@ function extractSourceDomains(urls) {
   return [...new Set(domains)];
 }
 
-function buildSourcesFooter(domains) {
-  if (!domains || domains.length === 0) return "";
+function sourceLabelFromDomain(domain) {
+  const host = extractHostname(domain);
+  return SOURCE_LABEL_BY_DOMAIN[host] || host || "Πηγή";
+}
 
-  if (domains.length === 1) {
-    return `\n\nΠηγή: ${domains[0]}`;
-  }
+/**
+ * Footer πηγών χωρίς URLs, σε bullets + 🌍
+ * Δέχεται είτε domains είτε URLs.
+ */
+function buildSourcesFooter(domainsOrUrls, options = {}) {
+  if (!domainsOrUrls || domainsOrUrls.length === 0) return "";
 
-  return `\n\nΠηγές: ${domains.join(", ")}`;
+  const emoji = options.emoji ?? "🌍";
+  const title = options.title ?? "Πηγές";
+
+  // Αν πέρασαν URLs, τα κάνουμε domains
+  const domains = extractSourceDomains(domainsOrUrls);
+
+  const labels = domains
+    .map((d) => sourceLabelFromDomain(d))
+    .filter(Boolean);
+
+  const uniq = [...new Set(labels)];
+  if (uniq.length === 0) return "";
+
+  const lines = uniq.map((l) => `- ${l}`).join("\n");
+  return `\n\n${emoji} ${title}\n${lines}`;
 }
 
 function getWebSearchDateContext(baseDate = new Date()) {
@@ -78,7 +132,7 @@ function dedupeArticlesByUrlOrTitle(articles) {
 
   const result = [];
 
-  for (const art of articles) {
+  for (const art of articles || []) {
     const url = (art.url || art.link || art.sourceUrl || "").trim();
     const normTitle = normalizeTitle(art.title || "");
 
@@ -111,15 +165,6 @@ function normalizeText(text) {
     .trim();
 }
 
-function extractHostname(url) {
-  if (!url) return "";
-  try {
-    return new URL(url).hostname.replace(/^www\./i, "").toLowerCase();
-  } catch {
-    return "";
-  }
-}
-
 function pickKeywords(text, limit = 6) {
   const stop = new Set([
     "και",
@@ -128,7 +173,6 @@ function pickKeywords(text, limit = 6) {
     "στη",
     "στην",
     "στον",
-    "των",
     "των",
     "με",
     "για",
@@ -180,9 +224,12 @@ function buildSearchQuery(article) {
 }
 
 function filterSearchResults(results, articleEntities, eventDate, options = {}) {
-  const blocklist = (options.blocklist || ["inside track", "opinion", "column", "gallery"]).map(
-    (w) => normalizeText(w)
-  );
+  const blocklist = (options.blocklist || [
+    "inside track",
+    "opinion",
+    "column",
+    "gallery",
+  ]).map((w) => normalizeText(w));
 
   const normalizedEntities = (articleEntities || [])
     .map((e) => normalizeText(e))
@@ -198,7 +245,8 @@ function filterSearchResults(results, articleEntities, eventDate, options = {}) 
     if (!eventDate || !published) return { ok: true, diffDays: null };
     const event = new Date(eventDate);
     const pub = new Date(published);
-    if (Number.isNaN(event) || Number.isNaN(pub)) return { ok: true, diffDays: null };
+    if (Number.isNaN(event) || Number.isNaN(pub))
+      return { ok: true, diffDays: null };
     const diffDays = Math.abs((pub - event) / (1000 * 60 * 60 * 24));
     return { ok: diffDays <= windowDays, diffDays };
   };
