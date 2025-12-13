@@ -1,186 +1,158 @@
 {
-  "generatedAt": "2025-12-12T15:49:16.376Z",
+  "generatedAt": "2025-12-13T07:05:11.231Z",
   "articles": [
     {
-      "id": "a22ea4a6ac13",
-      "title": "Το ΠΑΣΟΚ αναστέλλει την κομματική ιδιότητα του Γ. Λαμπράκη",
-      "simpleTitle": "Το ΠΑΣΟΚ αναστέλλει την κομματική ιδιότητα του Γ. Λαμπράκη",
-      "simpleText": "**Αναστολή κομματικής ιδιότητας για τον Γιώργο Λαμπράκη από το ΠΑΣΟΚ**\n\nΤο ΠΑΣΟΚ αποφάσισε να αναστείλει την ιδιότητα του κομματικού μέλους του Γιώργου Λαμπράκη. Ο Λαμπράκης, που είναι λογιστής και γνωστός στον αγροτικό κόσμο της Κρήτης, εμπλέκεται σε υπόθεση με παράνομες επιδοτήσεις. Μαζί με άλλους 14 συλληφθέντες, κατηγορείται για σκάνδαλο με επιδοτήσεις στο ΟΠΕΚΕΠΕ, με συνολικό όφελος περίπου 1,7 εκατομμύρια ευρώ.\n\nΤο αίτημα για την αναστολή προήλθε από τον Ανδρέα Σπυρόπουλο, Γραμματέα του ΠΑΣΟΚ, μετά τη σύλληψη του Λαμπράκη από τις αρχές. Η υπόθεση έχει προκαλέσει αναταραχή, λόγω και της σχέσης του Λαμπράκη με τον Νίκο Ανδρουλάκη, πρόεδρο του κόμματος.\n\nΠηγές: ertnews.gr, newsbomb.gr, protagon.gr",
-      "sourceName": "ERT News, Newsbomb.gr, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/to-pasok-anastellei-tin-kommatiki-idiotita-tou-g-lampraki/",
+      "id": "b0c01cc0b8eb",
+      "title": "Το Ιράν κατάσχεσε ένα πετρελαιοφόρο δεξαμενόπλοιο στον κόλπο του Ομάν",
+      "simpleTitle": "Το Ιράν κατάσχεσε ένα πετρελαιοφόρο δεξαμενόπλοιο στον κόλπο του Ομάν",
+      "simpleText": "**Το Ιράν κατάσχεσε πετρελαιοφόρο στον Κόλπο του Ομάν**\n\nΤο Ιράν πήρε τον έλεγχο ενός πετρελαιοφόρου στον Κόλπο του Ομάν. Αυτό το πλοίο είχε μέσα έξι εκατομμύρια λίτρα ντίζελ. Οι ναυτικοί στο πλοίο ήταν από την Ινδία, τη Σρι Λάνκα και το Μπανγκλαντές.\n\nΤο πλοίο δεν χρησιμοποιούσε τα συστήματα αναγνώρισης, κάτι που θεωρείται ύποπτο. Η κίνηση αυτή έγινε λίγο μετά που οι ΗΠΑ κατέλαβαν ένα άλλο πλοίο στην Καραϊβική, το οποίο σχετιζόταν με το Ιράν και τη Βενεζουέλα.\n\nΤο γεγονός αυτό προκαλεί ανησυχίες για ένταση μεταξύ Ιράν και ΗΠΑ.\n\nΠηγές: ertnews.gr, tovima.gr",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/to-iran-katasxese-ena-petrelaioforo-deksamenoploio-ston-kolpo-tou-oman/",
       "sourceDomains": [
         "ertnews.gr",
-        "newsbomb.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/to-iran-katasxese-ena-petrelaioforo-deksamenoploio-ston-kolpo-tou-oman/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/12/world/iran-katasxese-tanker-ston-kolpo-tou-oman-antipoina-se-ipa/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές διεθνείς σχέσεις και γεωπολιτικές εντάσεις, συγκεκριμένα την κατάσχεση ενός πετρελαιοφόρου από το Ιράν, γεγονός που συνδέεται με την πολιτική κατάσταση και τις κυρώσεις των ΗΠΑ.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gd9aa5a2d1cf83399989ba21cf584765f8dc5d9426207dd425540539be3f0156220b22eb94fd3989e7c1beced2da53b31028fde5c0c4e31be8f2aa279a43e203b_640.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T05:21:00.000Z"
+    },
+    {
+      "id": "685b466ee4de",
+      "title": "Η απάντηση της Μόσχας στο επ’ αόριστον πάγωμα των ρωσικών περιουσιακών στοιχείων από την Ε.Ε.",
+      "simpleTitle": "Η απάντηση της Μόσχας στο επ’ αόριστον πάγωμα των ρωσικών περιουσιακών στοιχείων από την Ε.Ε.",
+      "simpleText": "**Η Μόσχα αντιδρά στο πάγωμα ρωσικών περιουσιακών στοιχείων από την Ε.Ε.**\n\nΗ Ευρωπαϊκή Ένωση αποφάσισε να παγώσει επ' αόριστον ρωσικά περιουσιακά στοιχεία αξίας 210 δισεκατομμυρίων ευρώ. Τα κεφάλαια αυτά βρίσκονται κυρίως στη βελγική τράπεζα Euroclear. Η Ε.Ε. σχεδιάζει να χρησιμοποιήσει αυτά τα κεφάλαια για δάνειο προς την Ουκρανία, το οποίο θα βοηθήσει στη στήριξη της οικονομίας και του στρατού της.\n\nΗ Ρωσία αντιδρά έντονα. Η ρωσική κυβέρνηση ανακοίνωσε ότι θα προσφύγει στη δικαιοσύνη εναντίον της Euroclear στο δικαστήριο της Μόσχας. Η Ρωσία χαρακτηρίζει αυτή την ενέργεια ως \"κλοπή κρατικών περιουσιακών στοιχείων\". Ο Ρώσος πρόεδρος, Βλαντιμίρ Πούτιν, έχει επίσης εκφράσει την αγανάκτησή του για τη συγκεκριμένη απόφαση.\n\nΗ απόφαση της Ε.Ε. έχει φέρει και εσωτερικές αντιδράσεις ανάμεσα στα μέλη της. Ορισμένες χώρες, όπως το Βέλγιο, η Ιταλία, η Ουγγαρία και άλλες, εκφράζουν επιφυλάξεις. Η συζήτηση για αυτό το θέμα αναμένεται να συνεχιστεί στην επόμενη σύνοδο κορυφής της Ε.Ε.\n\nΑυτή η απόφαση έχει οδηγήσει σε περαιτέρω επιδείνωση των σχέσεων μεταξύ της Ευρώπης και της Ρωσίας και έχει αυξήσει τις εντάσεις στην περιοχή.\n\nΠηγές: ertnews.gr, 902.gr, protagon.gr",
+      "sourceName": "ERT News, 902.gr – Επιλεγμένα, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/i-apantisi-tis-mosxas-sto-ep-aoriston-pagoma-ton-rosikon-periousiakon-stoixeion-apo-tin-e-e/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "902.gr",
         "protagon.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/to-pasok-anastellei-tin-kommatiki-idiotita-tou-g-lampraki/"
+          "url": "https://www.ertnews.gr/eidiseis/diethni/i-apantisi-tis-mosxas-sto-ep-aoriston-pagoma-ton-rosikon-periousiakon-stoixeion-apo-tin-e-e/"
         },
         {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/politikh/story/1700792/opekepe-to-pasok-anastellei-tin-kommatiki-idiotita-tou-koumparou-androulaki"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/pasok-anastelletai-i-kommatiki-idiotita-tou-giwrgou-labraki-44343274769"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σε σοβαρές κατηγορίες για παράνομες επιδοτήσεις και αναστολή κομματικής ιδιότητας, θέματα που σχετίζονται με την πολιτική και την οικονομία.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gd444c88977d5dc2d9d4916c16e437628fc0f7dad17b8cce2bf80c9bfcb7273a93a2817929fd8e087c5a0e1f08d56031e8fd357d643a0347773da3a3262ecbe68_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T15:32:31.000Z"
-    },
-    {
-      "id": "f835ca99954e",
-      "title": "ΕΦΕΤ: Ανάκληση του προϊόντος “Oreo Cheesecakes”",
-      "simpleTitle": "ΕΦΕΤ: Ανάκληση του προϊόντος “Oreo Cheesecakes”",
-      "simpleText": "**Ανάκληση Oreo Cheesecakes από τον ΕΦΕΤ**\n\nΟ Ενιαίος Φορέας Ελέγχου Τροφίμων (ΕΦΕΤ) αποφάσισε να αποσύρει από την αγορά το προϊόν \"Oreo Cheesecakes\". Η απόφαση αφορά τις συσκευασίες των 2x80 γραμμαρίων, που είναι κατεψυγμένες. Βρέθηκε ότι δεν αναγραφόταν στην ελληνική γλώσσα ότι το προϊόν μπορεί να περιέχει ίχνη από ξηρούς καρπούς με κέλυφος, κάτι που ήταν γραμμένο μόνο στα αγγλικά.\n\nΑυτό είναι σημαντικό για την ασφάλεια των καταναλωτών, ειδικά για όσους είναι αλλεργικοί στους ξηρούς καρπούς. Ο ΕΦΕΤ ζήτησε απόσυρση όλων των προβληματικών παρτίδων και οι έλεγχοι είναι σε εξέλιξη. Όσοι έχουν ήδη αγοράσει το προϊόν και έχουν αλλεργία δεν πρέπει να το καταναλώσουν.\n\nΠηγές: ertnews.gr, tanea.gr",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/efet-anaklisi-tou-proiontos-oreo-cheesecakes/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/efet-anaklisi-tou-proiontos-oreo-cheesecakes/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/greece/synagermos-apo-ton-efet-anakaloyntai-oreo-cheesecakes/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ασφάλεια τροφίμων και την ανάκληση ενός προϊόντος λόγω έλλειψης σημαντικής προειδοποίησης για αλλεργίες, επηρεάζοντας την υγεία των καταναλωτών.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfcc43a5be662dbd9271af81d61b62419391e997e29fdcc6e858cfa4f4961d01ce5df42391cf11971d1886a0ececa37b836744605e5cba55baab7cefd191c07b6_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T15:00:57.000Z"
-    },
-    {
-      "id": "33198f9c993e",
-      "title": "Ο Αλέξης Τσίπρας συνεχάρη τον Κυριάκο Πιερρακάκη για την εκλογή του στο Eurogroup",
-      "simpleTitle": "Ο Αλέξης Τσίπρας συνεχάρη τον Κυριάκο Πιερρακάκη για την εκλογή του στο Eurogroup",
-      "simpleText": "**Ο Αλέξης Τσίπρας συγχαίρει τον Κυριάκο Πιερρακάκη για το Eurogroup**\n\nΟ πρώην πρωθυπουργός Αλέξης Τσίπρας, τηλεφώνησε στον Κυριάκο Πιερρακάκη για να τον συγχαρεί. Ο Κυριάκος Πιερρακάκης εξελέγη πρόεδρος του Eurogroup. Αυτό είναι σημαντικό για την Ελλάδα, καθώς δείχνει προοπτική μετά την οικονομική κρίση.\n\nΗ εκλογή του Πιερρακάκη αποτελεί σημαντικό γεγονός στην Ευρώπη. Θα κατευθύνει τις οικονομικές συζητήσεις και θα εκπροσωπεί την ευρωζώνη διεθνώς. Αυτή η θέση δίνει στην Ελλάδα φωνή στη διαμόρφωση της οικονομικής πολιτικής.\n\nΑυτή η εξέλιξη έρχεται σε μια περίοδο με οικονομικές προκλήσεις για την Ευρώπη. Η παρουσία του Έλληνα υπουργού στον ρόλο αυτό είναι μια αναγνώριση της αλλαγής πορείας της χώρας.\n\nΗ εκλογή έχει θετικές επιπτώσεις για την εικόνα της Ελλάδας και ενισχύει τη θέση της στην ευρωπαϊκή οικονομία.\n\nΠηγές: ertnews.gr, tanea.gr",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/o-aleksis-tsipras-synexari-ton-kyriako-pierrakaki-gia-tin-eklogi-tou-sto-eurogroup/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/o-aleksis-tsipras-synexari-ton-kyriako-pierrakaki-gia-tin-eklogi-tou-sto-eurogroup/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/politics/o-al-tsipras-synexari-tilefonika-ton-k-pierrakaki-gia-tin-eklogi-toy-stin-proedria-toy-eur/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εκλογή του Κυριάκου Πιερρακάκη στο Eurogroup και τις οικονομικές της επιπτώσεις για την Ελλάδα, γεγονός που σχετίζεται άμεσα με σοβαρά θέματα οικονομίας και πολιτικής.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc17d8a940d1a4618b7ffba922954ebf66f9bf3e128f05d53fba36bc66d5511614883292242e0af75f3159cffe26d1afa00322889fa7f8de788262c85c87aabab_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T14:41:25.000Z"
-    },
-    {
-      "id": "3d2b5012d7e1",
-      "title": "Κ. Χατζηδάκης: Ο προϋπολογισμός του 2026 θα συνδυαστεί με σημαντικές μεταρρυθμίσεις – Τι είπε για τη γεωργία και την κατανομή των ευρωπαϊκών ενισχύσεων",
-      "simpleTitle": "Κ. Χατζηδάκης: Ο προϋπολογισμός του 2026 θα συνδυαστεί με σημαντικές μεταρρυθμίσεις – Τι είπε για τη γεωργία και την κατανομή των ευρωπαϊκών ενισχύσεων",
-      "simpleText": "**Προϋπολογισμός 2026 και Μεταρρυθμίσεις: Ομιλία Κωστή Χατζηδάκη**\n\nΟ αντιπρόεδρος της κυβέρνησης, Κωστής Χατζηδάκης, μίλησε για τον προϋπολογισμό του 2026, τονίζοντας τη σημασία των μεταρρυθμίσεων για την ελληνική οικονομία. Σκοπός είναι να γίνουν αλλαγές που θα συμβάλουν σε νέες δουλειές και καλύτερα εισοδήματα.\n\nΟ κ. Χατζηδάκης ανέλυσε διάφορες μεταρρυθμίσεις που θα βοηθήσουν το κράτος να γίνει πιο φιλικό στους πολίτες. Αναφέρθηκε σε πρωτοβουλίες για να απλοποιηθούν οι δημόσιες υπηρεσίες και να βελτιωθεί η ζωή των πολιτών.\n\nΕπίσης, ανέφερε την ανάγκη για αλλαγές στη γεωργία, με ένα πιο δίκαιο σύστημα κατανομής των ευρωπαϊκών ενισχύσεων. Αυτό θα βοηθήσει τους αγρότες να αντιμετωπίσουν τα προβλήματα του παρελθόντος.\n\nΤέλος, ο κ. Χατζηδάκης μίλησε για τη φορολογική μεταρρύθμιση που στοχεύει στη μείωση των φόρων και την ενίσχυση της μεσαίας τάξης και της περιφέρειας. Ανέφερε πως οι προσπάθειες για την καταπολέμηση της φοροδιαφυγής έχουν φέρει επιπλέον έσοδα για το κράτος.\n\nΠηγές: ertnews.gr, tanea.gr",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/k-xatzidakis-o-proypologismos-tou-2026-tha-syndyastei-me-simantikes-metarrythmiseis-ti-eipe-gia-ti-georgia-kai-tin-katanomi-ton-eyropaikon-enisxyseon/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/k-xatzidakis-o-proypologismos-tou-2026-tha-syndyastei-me-simantikes-metarrythmiseis-ti-eipe-gia-ti-georgia-kai-tin-katanomi-ton-eyropaikon-enisxyseon/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/economy/k-xatzidakis-o-proypologismos-tou-2026-tha-syndyastei-me-simantikes-metarrythmiseis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά οικονομικά και πολιτικά ζητήματα, όπως οι μεταρρυθμίσεις στον προϋπολογισμό και η γεωργία, που επηρεάζουν το σύνολο της κοινωνίας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g31e1cb0ce8765c63a67778d3affc86e5c4f379250878d9261546b139a559206937854c5ce9853f92ec3006d8a1de9cc2676e7d2003ceb6e8e95a7c6f139696f5_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T14:50:31.000Z"
-    },
-    {
-      "id": "03b6168d61bd",
-      "title": "Δασμός 3 € σε μικρά δέματα που εισέρχονται στην ΕΕ από 1/7/26",
-      "simpleTitle": "Δασμός 3 € σε μικρά δέματα που εισέρχονται στην ΕΕ από 1/7/26",
-      "simpleText": "**Δασμός 3 ευρώ σε μικρά δέματα από το 2026**\n\nΑπό την 1η Ιουλίου 2026, η Ευρωπαϊκή Ένωση θα επιβάλει δασμό 3 ευρώ σε μικρά δέματα που εισάγονται, αξίας κάτω από 150 ευρώ. Αυτή η απόφαση αφορά κυρίως δέματα από ηλεκτρονικές αγορές και έχει στόχο να προστατεύσει τις ευρωπαϊκές επιχειρήσεις από αθέμιτο ανταγωνισμό.\n\nΠριν, αυτά τα δέματα έρχονταν χωρίς δασμούς. Τώρα, ο νέος δασμός θα εφαρμόζεται σε πάνω από το 90% των δέματα αυτών, αφού η πλειονότητα των εισαγωγών γίνεται μέσω του ενιαίου συστήματος εισαγωγών (IOSS). Αυτή η κίνηση είναι προσωρινή, μέχρι να ολοκληρωθεί μια μόνιμη συμφωνία για τις μικρές αποστολές.\n\nΤο μέτρο αποτελεί πρόκληση για μεγάλες εταιρείες ηλεκτρονικού εμπορίου, όπως οι κινεζικές Shein και Temu, οι οποίες θα δουν αυξημένα κόστη για τους πελάτες τους στην ΕΕ.\n\nΠηγές: ertnews.gr, protagon.gr",
-      "sourceName": "ERT News, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/dasmos-3-se-mikra-demata-pou-eiserxontai-stin-ee-apo-1-7-26/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/oikonomia/dasmos-3-se-mikra-demata-pou-eiserxontai-stin-ee-apo-1-7-26/"
+          "title": "902.gr – Επιλεγμένα",
+          "url": "https://www.902.gr/eidisi/kosmos/409619/i-ee-apofasise-ep-aoriston-pagoma-ton-rosikon-perioysiakon-stoiheion"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/dasmos-triwn-evrw-gia-mikra-demata-pou-eisagontai-stin-ee-44343274731"
+          "url": "https://www.protagon.gr/epikairotita/ep-aoriston-pagwma-twn-rwsikwn-periousiakwn-stoixeiwn-apo-tin-ee-44343274895"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την επιβολή δασμού και τις οικονομικές επιπτώσεις στην αγορά, θέματα που σχετίζονται με την πολιτική και την οικονομία.",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και οικονομικές εξελίξεις που επηρεάζουν τις σχέσεις Ευρώπης-Ρωσίας και έχει αντίκτυπο στην οικονομία και στην ασφάλεια της περιοχής.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g38b509f351e5f6ae48821a90cd3fad4d0ceb6d43a020071a8e62b1b10fa3c9303236e063aed4ba412322e5a448f2f5bd467c7bb1804ea34616a5cb5bac46d2a6_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g0b44088f1d668dee7ea9a690dd40b86777fa65307464bb4db35616288e4d4305d028e0ee0dc8a8a3ef2368c664f0e0d90c1a37e955f6a85088428f3c087fda41_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T14:34:10.000Z"
+      "publishedAt": "2025-12-13T03:27:00.000Z"
     },
     {
-      "id": "13574fb08ef7",
-      "title": "Νέες φωτογραφίες «φωτιά» από την έπαυλη Έπσταϊν – «Καίνε» Τραμπ, Γκέιτς και Άντριου",
-      "simpleTitle": "Νέες φωτογραφίες «φωτιά» από την έπαυλη Έπσταϊν – «Καίνε» Τραμπ, Γκέιτς και Άντριου",
-      "simpleText": "**Φωτογραφίες από την έπαυλη του Έπσταϊν προκαλούν αντιδράσεις**\n\nΝέες φωτογραφίες βγήκαν στη δημοσιότητα από την έπαυλη του Τζέφρι Έπσταϊν. Αυτές οι εικόνες ελήφθησαν από μέλη της Επιτροπής Εποπτείας της Βουλής στις ΗΠΑ και απεικονίζουν διασημότητες όπως τον Ντόναλντ Τραμπ, τον Μπιλ Γκέιτς και τον πρώην πρίγκιπα Άντριου.\n\nΟι φωτογραφίες δεν αποτελούν αποδεικτικά στοιχεία για κάποια παρανομία. Οι άνθρωποι που εμφανίζονται σε αυτές έχουν αρνηθεί οποιαδήποτε σχέση με τις υποθέσεις του Έπσταϊν. Ο Τραμπ είχε σχέση με τον Έπσταϊν στο παρελθόν, αλλά ισχυρίζεται ότι η σχέση τους είχε σταματήσει χρόνια πριν.\n\nΗ Επιτροπή συνεχίζει να αναλύει χιλιάδες φωτογραφίες από την περιουσία του Έπσταϊν και σκοπεύει να δημοσιεύσει και άλλα στοιχεία μελλοντικά.\n\nΠηγές: tanea.gr, newsbomb.gr",
-      "sourceName": "TA NEA, Newsbomb.gr",
-      "sourceUrl": "https://www.tanea.gr/2025/12/12/world/nees-fotografies-fotia-apo-tin-epayli-epstain-kaine-tramp-gkeits-kai-antrioy/",
+      "id": "b467226806a8",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 13 Δεκεμβρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 13 Δεκεμβρίου",
+      "simpleText": "**Σήμερα γιορτάζουν: Εορτολόγιο 13 Δεκεμβρίου**\n\nΣήμερα, 13 Δεκεμβρίου, η εκκλησία τιμά τους Αγίους Ευστράτιο, Αυξέντιο, Ευγένιο, Μαρδάριο και Ορέστη, καθώς και την Αγία Λουκία. Αυτοί οι άγιοι μαρτύρησαν για την πίστη τους κατά την εποχή του αυτοκράτορα Διοκλητιανού.\n\nΤα ονόματα που γιορτάζουν σήμερα περιλαμβάνουν Άρης, Ευστράτιος, Αυξέντιος, Ευγένιος, Μαρδάριος, Ορέστης, Ιουβενάλιος και Λουκία. Αυτά τα ονόματα συνδέονται με την ιστορία και τη θρησκευτική παράδοση.\n\nΟι Άγιοι υπέφεραν διάφορα βασανιστήρια γιατί δεν δέχτηκαν να αλλάξουν την πίστη τους. Τα γεγονότα αυτά δείχνουν τη δύναμη της πίστης τους και είναι σημαντικά για την εκκλησία.\n\nΗ Αγία Λουκία, γνωστή από τη Σικελία, επίσης μαρτύρησε για την πίστη της, ενώ αφοσιώθηκε στο να βοηθά τους φτωχούς πράγμα που την οδήγησε στο τέλος της ζωής της με μαρτυρικό τρόπο.\n\nΠηγές: ertnews.gr, tanea.gr",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-13-dekemvriou-2/",
       "sourceDomains": [
-        "tanea.gr",
-        "newsbomb.gr"
+        "ertnews.gr",
+        "tanea.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/world/nees-fotografies-fotia-apo-tin-epayli-epstain-kaine-tramp-gkeits-kai-antrioy/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-13-dekemvriou-2/"
         },
         {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/kosmos/story/1700797/nees-fotografies-apo-to-nisi-tou-epstain-apo-ton-tramp-kai-ton-klinton-eos-ton-geits"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/13/greece/eortologio-poioi-giortazoun-simera-13-dekemvriou/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την δημοσιοποίηση φωτογραφιών από την έπαυλη του Τζέφρι Έπσταϊν, που σχετίζονται με πολιτικές προσωπικότητες και αναφέρεται σε σοβαρές υποθέσεις παρανομίας.",
+      "categoryReason": "Η είδηση αναφέρεται σε θρησκευτική μνήμη και μαρτυρικό θάνατο Αγίων, που σχετίζεται με σημαντικά κοινωνικά και θρησκευτικά θέματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gad51fc6ed5eeca7be17dae7057ca3686c391a57b63c2a8a1201667a7a1f06de74639becc7755e9fe717c5a61e3dadfdb9a6fc892cdc25dd34e1a34cde9d80f81_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g58afe9b3b79134e281866bd9dda3776b57aa292a5c48a914fd465f35daa76c67906b46fbc79df9474d204038001b19342162260e5a371ff4503234c426262680_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T15:35:28.000Z"
+      "publishedAt": "2025-12-13T06:06:48.000Z"
     },
     {
-      "id": "d6a5cbdb5279",
-      "title": "Διαγράφεται ο Γιώργος Λαμπράκης από το ΠΑΣΟΚ",
-      "simpleTitle": "Διαγράφεται ο Γιώργος Λαμπράκης από το ΠΑΣΟΚ",
-      "simpleText": "**Ο Γιώργος Λαμπράκης διαγράφηκε από το ΠΑΣΟΚ λόγω παράνομων επιδοτήσεων**\n\nΟ Γιώργος Λαμπράκης, γνωστός λογιστής από την Κρήτη, διαγράφηκε από το ΠΑΣΟΚ. Ο λόγος ήταν η εμπλοκή του σε κύκλωμα παράνομων επιδοτήσεων. Ο Ανδρέας Σπυρόπουλος από το ΠΑΣΟΚ ζήτησε την αναστολή της κομματικής του ιδιότητας μετά την σύλληψή του.\n\nΟ Λαμπράκης συνελήφθη ως ένα από τα 15 άτομα που ερευνώνται για παράνομες επιδοτήσεις. Το κύκλωμα κατηγορείται ότι λάμβανε χρήματα μέσω ψεύτικων δηλώσεων, εξαπατώντας τους αρμόδιους φορείς. Ο Λαμπράκης είχε στενή σχέση με τον Νίκο Ανδρουλάκη, αφού ο Ανδρουλάκης είχε παντρέψει τον Λαμπράκη.\n\nΠηγές: tanea.gr, tovima.gr",
+      "id": "e9705139ecf8",
+      "title": "Στο Βερολίνο ο Γουίτκοφ το Σαββατοκύριακο για συνομιλίες με Ζελένσκι και Ευρωπαίους",
+      "simpleTitle": "Στο Βερολίνο ο Γουίτκοφ το Σαββατοκύριακο για συνομιλίες με Ζελένσκι και Ευρωπαίους",
+      "simpleText": "**Σημαντικές συνομιλίες στο Βερολίνο για την Ουκρανία**\n\nΟ ειδικός απεσταλμένος των ΗΠΑ, Στιβ Γουίτκοφ, θα πάει στο Βερολίνο για συνομιλίες αυτό το Σαββατοκύριακο. Θα συναντηθεί με τον Ουκρανό πρόεδρο Βολοντίμιρ Ζελένσκι και Ευρωπαίους ηγέτες για να συζητήσουν για την ειρήνη στην Ουκρανία.\n\nΗ συνάντηση γίνεται για να συζητήσουν πώς θα τελειώσει ο πόλεμος στην Ουκρανία, που άρχισε πριν από σχεδόν τέσσερα χρόνια. Ο Γάλλος πρόεδρος, ο Βρετανός πρωθυπουργός και ο Γερμανός καγκελάριος θα είναι επίσης εκεί.\n\nΗ απόφαση του Αμερικανού προέδρου να στείλει τον Γουίτκοφ δείχνει ότι οι ΗΠΑ θέλουν να βοηθήσουν να επιλυθούν οι διαφορές μεταξύ Ουκρανίας και Ρωσίας. Ο καγκελάριος της Γερμανίας είχε καλέσει τις ΗΠΑ να συμμετάσχουν στις συνομιλίες, ελπίζοντας να γίνει πρόοδος στους ειρηνευτικούς όρους.\n\nΠηγές: ertnews.gr, tanea.gr",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/sto-verolino-o-gouitkof-to-savvatokyriako-gia-synomilies-me-zelenski-kai-eyropaious/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/sto-verolino-o-gouitkof-to-savvatokyriako-gia-synomilies-me-zelenski-kai-eyropaious/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/13/world/ipa-o-stiv-goyitkof-tha-taksidepsei-sto-verolino-gia-synomilies-me-ton-volontimir-zelenski/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σε σημαντικές διπλωματικές συνομιλίες για τον τερματισμό του πολέμου στην Ουκρανία, συνδέεται με πολιτικά ζητήματα και διεθνείς σχέσεις.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g6e3866fda6011e657ad93a43ff3e1276eba2d06f0daa16bc04e1cef6fecd167d29f8a51c3b8711481a2fb7f8abd0d19ab71c59220c973053d03d034dfdf67f04_640.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T06:27:07.000Z"
+    },
+    {
+      "id": "43998c5c09c4",
+      "title": "Μαρία Κορίνα Ματσάδο: Ο Νικολάς Μαδούρο να καταλάβει ότι πρέπει να φύγει",
+      "simpleTitle": "Μαρία Κορίνα Ματσάδο: Ο Νικολάς Μαδούρο να καταλάβει ότι πρέπει να φύγει",
+      "simpleText": "**Μαρία Κορίνα Ματσάδο: Ο Μαδούρο πρέπει να φύγει**\n\nΗ Μαρία Κορίνα Ματσάδο, ηγέτιδα της αντιπολίτευσης στη Βενεζουέλα, ζήτησε από τον πρόεδρο Νικολάς Μαδούρο να εγκαταλείψει την εξουσία. Η Ματσάδο, που βραβεύτηκε με Νόμπελ Ειρήνης, μίλησε από τη Νορβηγία, υποστηρίζοντας την πίεση που ασκείται στον Μαδούρο για να αποχωρήσει.\n\nΣτη συνέντευξη της, που δημοσιεύτηκε από το CBS, υπογράμμισε ότι ο λαός της Βενεζουέλας έχει ήδη ζητήσει αλλαγή μέσω εκλογών κι ότι ο Μαδούρο δεν έχει πια τη στήριξή του. Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, φέρεται να απειλεί τη Βενεζουέλα με στρατιωτική επέμβαση.\n\nΗ Ματσάδο διέφυγε από τη Βενεζουέλα για να παραβρεθεί στην τελετή απονομής του Νόμπελ, όμως δυσκολίες στο ταξίδι της την καθυστέρησαν. Παρά τις ανησυχίες της οικογένειάς της, σκοπεύει να επιστρέψει στη χώρα το συντομότερο δυνατό.\n\nΠηγές: ertnews.gr, tanea.gr",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/maria-korina-matsado-o-nikolas-madouro-na-katalavei-oti-prepei-na-fygei/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/maria-korina-matsado-o-nikolas-madouro-na-katalavei-oti-prepei-na-fygei/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/13/world/maria-korina-matsado-o-madoyro-na-katalavei-oti-prepei-na-fygei/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση στη Βενεζουέλα και τις πιέσεις για την απομάκρυνση του προεδρα Νικολάς Μαδούρο, γεγονός που συνδέεται με σοβαρά κοινωνικά και πολιτικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gc394204e7cd2e1ce9d8c594609a4c83377ae3821974b6d70cce96ffec3c3895ceaaf0501efb3b2cd629ddc1bba69e4d14c263a18f9849e07a0a4375125dbc545_640.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T06:43:13.000Z"
+    },
+    {
+      "id": "1da174a8ea46",
+      "title": "Lloyd’s List: Μαρινάκης και Αγγελικούση στην κορυφή – 17 Έλληνες στο top 100 της παγκόσμιας ναυτιλίας",
+      "simpleTitle": "Lloyd’s List: Μαρινάκης και Αγγελικούση στην κορυφή – 17 Έλληνες στο top 100 της παγκόσμιας ναυτιλίας",
+      "simpleText": "**Μαρινάκης και Αγγελικούση στην κορυφή της παγκόσμιας ναυτιλίας**\n\nΟ Βαγγέλης Μαρινάκης και η Μαρία Αγγελικούση είναι δύο από τους πιο σημαντικούς Έλληνες εφοπλιστές, καθώς βρέθηκαν στις κορυφαίες θέσεις της λίστας Lloyd’s List για το 2025. Η λίστα περιλαμβάνει τις 100 πιο επιδραστικές προσωπικότητες στη ναυτιλία παγκοσμίως.\n\nΗ Μαρία Αγγελικούση ανέβηκε στην 8η θέση χάρη στις μεγάλες συμφωνίες του ομίλου της, ενώ ο Βαγγέλης Μαρινάκης βρέθηκε στη 10η θέση, σημειώνοντας σημαντική άνοδο.\n\nΣυνολικά, η Ελλάδα εκπροσωπείται από 17 προσωπικότητες στη λίστα αυτή, αποδεικνύοντας τη σημασία της ελληνικής ναυτιλίας στον κόσμο.\n\nΠηγές: tanea.gr, tovima.gr",
       "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/12/politics/pros-diagrafi-apo-to-pasok-o-giorgos-lamprakis/",
+      "sourceUrl": "https://www.tanea.gr/2025/12/13/economy/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/",
       "sourceDomains": [
         "tanea.gr",
         "tovima.gr"
@@ -188,137 +160,81 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/politics/pros-diagrafi-apo-to-pasok-o-giorgos-lamprakis/"
+          "url": "https://www.tanea.gr/2025/12/13/economy/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/12/politics/pasok-diegrafi-o-giorgos-lamprakis/"
+          "url": "https://www.tovima.gr/2025/12/13/naytilia/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σε σοβαρές νομικές και πολιτικές εξελίξεις σχετικές με παράνομες επιδοτήσεις και την διαγραφή ενός μέλους από πολιτικό κόμμα.",
+      "categoryReason": "Η είδηση αφορά την αναγνώριση σημαντικών προσώπων της ελληνικής ναυτιλίας, επηρεάζοντας την οικονομία και το διεθνές εμπόριο.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g7a43f874166d83172f80bc3489a83730cc2d37a66104f88646c8ebe95c65424f557df135b90059ebd126dee3fc504d04c7c75c99a936dd7b1824fbcf0672ba62_640.jpg",
+      "imageUrl": "https://pixabay.com/get/gbafdf3b35a40ad0d7fed8c74b7e3912e5369fbd3f6f22ebab1a4669ac71188ff68dd63bd97bc3b688e00a11ef74d3e08022da7de1c10ac367cb6f1f36b6ad5bb_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T15:17:35.000Z"
+      "publishedAt": "2025-12-12T22:15:29.000Z"
     },
     {
-      "id": "31bdeb1dfd80",
-      "title": "Εξεταστική ΟΠΕΚΕΠΕ: Έντονη κόντρα Λαζαρίδη – Αποστολάκη και πυρά Κωνσταντοπούλου",
-      "simpleTitle": "Εξεταστική ΟΠΕΚΕΠΕ: Έντονη κόντρα Λαζαρίδη – Αποστολάκη και πυρά Κωνσταντοπούλου",
-      "simpleText": "**Πολιτική Ένταση στην Εξεταστική για τον ΟΠΕΚΕΠΕ**\n\nΣτην Εξεταστική Επιτροπή της Βουλής που ερευνά το θέμα του ΟΠΕΚΕΠΕ, δημιουργήθηκε μεγάλη ένταση. Αφορμή στάθηκαν οι συλλήψεις στην Κρήτη για παράνομες επιδοτήσεις. Ο Μακάριος Λαζαρίδης, εισηγητής της ΝΔ, αντέδρασε στις δηλώσεις της Μιλένας Αποστολάκη από το ΠΑΣΟΚ, καθώς ανάμεσα στους συλληφθέντες είναι και μέλη συνδεδεμένα με τα πολιτικά κόμματα.\n\nΗ Αποστολάκη κατηγόρησε τη ΝΔ για προστασία του Γιώργου Ξυλούρη, εμπλεκόμενου στην υπόθεση. Ανέφερε επίσης ότι το ΠΑΣΟΚ θα διαγράψει άμεσα εμπλεκόμενα μέλη. Ο Λαζαρίδης απάντησε με κατηγορίες για σχέσεις ανάμεσα στο ΠΑΣΟΚ και τους συλληφθέντες.\n\nΗ Ζωή Κωνσταντοπούλου από την Πλεύση Ελευθερίας έριξε ευθύνες και στα δύο κόμματα, εκφράζοντας την αγανάκτησή της για τη στοχοποίηση του Ξυλούρη. Δήλωσε ότι το ΠΑΣΟΚ σύρεται σε συγκρούσεις, ενώ πρέπει να συνεργάζεται για την εξεύρεση της αλήθειας.\n\nΠηγές: tanea.gr, newsbomb.gr",
-      "sourceName": "TA NEA, Newsbomb.gr",
-      "sourceUrl": "https://www.tanea.gr/2025/12/12/politics/eksetastiki-opekepe-entoni-kontra-lazaridi-apostolaki-kai-pyra-konstantopoyloy/",
+      "id": "b3c53e2a6cb6",
+      "title": "Ο βασιλιάς Κάρολος ανακοίνωσε την ανατροπή στη θεραπεία του για τον καρκίνο: Η επόμενη ημέρα",
+      "simpleTitle": "Ο βασιλιάς Κάρολος ανακοίνωσε την ανατροπή στη θεραπεία του για τον καρκίνο: Η επόμενη ημέρα",
+      "simpleText": "**Ο βασιλιάς Κάρολος λαμβάνει καλά νέα για την υγεία του**\n\nΟ βασιλιάς Κάρολος Γ΄ ανακοίνωσε ότι η θεραπεία του για τον καρκίνο θα περιοριστεί το επόμενο έτος. Αυτή η εξέλιξη αποτελεί καλή είδηση για τον ίδιο και για τους υπηκόους του.\n\nΟ 77χρονος βασιλιάς είχε διαγνωστεί με καρκίνο τον Φεβρουάριο του περασμένου έτους. Ωστόσο, δεν έχουν δοθεί περισσότερες πληροφορίες για τη μορφή της ασθένειάς του.\n\nΗ δήλωση του Καρόλου μεταδόθηκε από το Channel Four και είναι μέρος μιας ευρύτερης καμπάνιας για την ενημέρωση γύρω από τον καρκίνο στο Ηνωμένο Βασίλειο. Ο Κάρολος τόνισε ότι η έγκαιρη διάγνωση και η τήρηση των ιατρικών οδηγιών βοήθησαν στην ευνοϊκή εξέλιξη της θεραπείας του.\n\nΣύμφωνα με τους γιατρούς, ο Κάρολος ανταποκρίνεται πολύ καλά και τώρα θα περάσει σε φάση πρόληψης.\n\nΠηγές: tanea.gr, tovima.gr",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2025/12/12/world/o-vasilias-karolos-anakoinose-tin-anatropi-sti-therapeia-toy-gia-ton-karkino-i-epomeni-ime/",
       "sourceDomains": [
         "tanea.gr",
-        "newsbomb.gr"
+        "tovima.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/12/politics/eksetastiki-opekepe-entoni-kontra-lazaridi-apostolaki-kai-pyra-konstantopoyloy/"
+          "url": "https://www.tanea.gr/2025/12/12/world/o-vasilias-karolos-anakoinose-tin-anatropi-sti-therapeia-toy-gia-ton-karkino-i-epomeni-ime/"
         },
         {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/politikh/story/1700779/eksetastiki-gia-opekepe-agria-kontra-lazaridi-me-apostolaki-pyra-konstantopoylou"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/12/world/vasilias-karolos-to-2026-tha-perioristei-i-therapeia-mou-gia-ton-karkino/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά πολιτική αντιπαράθεση και νομικά ζητήματα που σχετίζονται με τις παράνομες επιδοτήσεις, γεγονός που έχει σοβαρές κοινωνικές και πολιτικές συνέπειες.",
+      "categoryReason": "Η είδηση αφορά σοβαρά θέματα υγείας και θεραπείας του βασιλιά, που επηρεάζουν την καλή του κατάσταση και την ενημέρωση του κοινού για τον καρκίνο.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g5aefc96d0c30b651e885ac25f5c83798651b32158e5e58a9eec8a202b17c7dbbc9914fe003602a4aa9d9a27243230046623e0bfea7d25c683ac38dd37fe6f23c_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g9e7fa9a1228e9f9fe78ccada739c9ee1c6ba5eb2aff5360e1202c62c2674d940212edffb53f915e87247380c1a0c4805fdc1c881e8b514a00073391809ea0828_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T14:40:17.000Z"
+      "publishedAt": "2025-12-12T20:34:28.000Z"
     },
     {
-      "id": "f9cf315714e2",
-      "title": "ΕΦΕΤ: Ανακαλεί το προϊόν «Oreo Cheesecakes»",
-      "simpleTitle": "ΕΦΕΤ: Ανακαλεί το προϊόν «Oreo Cheesecakes»",
-      "simpleText": "**Ο ΕΦΕΤ ανακαλεί τα Oreo Cheesecakes λόγω αλλεργιών**\n\nΟ ΕΦΕΤ ανακοίνωσε ότι ανακαλεί το προϊόν «Oreo Cheesecakes». Η απόφαση πάρθηκε γιατί το προϊόν περιέχει καρπούς με κέλυφος. Αυτό μπορεί να είναι επικίνδυνο για τους ανθρώπους που έχουν αλλεργία.\n\nΟι καταναλωτές που έχουν αλλεργία στους καρπούς με κέλυφος καλούνται να μην φάνε το προϊόν. Αν το έχουν αγοράσει, πρέπει να το επιστρέψουν. Αυτό είναι σημαντικό για να προστατευτούν από πιθανές αλλεργικές αντιδράσεις.\n\nΠηγές: tovima.gr, newsbomb.gr",
-      "sourceName": "TO BHMA, Newsbomb.gr",
-      "sourceUrl": "https://www.tovima.gr/2025/12/12/society/efet-anakalei-to-proion-oreo-cheesecakes/",
+      "id": "6e7ec32021bf",
+      "title": "Ιστορική ανατροπή στην ΑΔΕΔΥ: Πρώτη δύναμη η ΔΑΣ που υποστηρίζεται από το ΚΚΕ",
+      "simpleTitle": "Ιστορική ανατροπή στην ΑΔΕΔΥ: Πρώτη δύναμη η ΔΑΣ που υποστηρίζεται από το ΚΚΕ",
+      "simpleText": "**Η ΔΑΣ αναδεικνύεται πρώτη δύναμη στην ΑΔΕΔΥ**\n\nΓια πρώτη φορά στα 100 χρόνια της ΑΔΕΔΥ, η ΔΑΣ, που υποστηρίζεται από το ΚΚΕ, έγινε η πρώτη δύναμη. Πριν, η κυβερνητική ομάδα ΔΑΚΕ είχε αυτή τη θέση. Η ΔΑΣ κέρδισε 168 ψήφους και 22 έδρες, με ποσοστό 25,57%. Στο προηγούμενο συνέδριο είχε 134 ψήφους και 18 έδρες.\n\nΑυτή η αλλαγή θεωρείται σημαντική για το εργατικό κίνημα. Οι εκπρόσωποι της ΔΑΣ έκαναν μικρή διαδήλωση για να γιορτάσουν την επιτυχία. Η ΔΑΣ δηλώνει ότι θα συνεχίσει τον αγώνα ενάντια σε αντιλαϊκές πολιτικές και θα συνεργαστεί με εργαζόμενους και άλλες κοινωνικές ομάδες.\n\nΠηγές: tovima.gr, 902.gr",
+      "sourceName": "TO BHMA, 902.gr – Επιλεγμένα",
+      "sourceUrl": "https://www.tovima.gr/2025/12/12/politics/istoriki-anatropi-stin-adedy-proti-dynami-i-das-pou-ypostirizetai-apo-to-kke/",
       "sourceDomains": [
         "tovima.gr",
-        "newsbomb.gr"
+        "902.gr"
       ],
       "sources": [
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/12/society/efet-anakalei-to-proion-oreo-cheesecakes/"
+          "url": "https://www.tovima.gr/2025/12/12/politics/istoriki-anatropi-stin-adedy-proti-dynami-i-das-pou-ypostirizetai-apo-to-kke/"
         },
-        {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/ellada/story/1700787/o-efet-anakalei-ta-oreo-cheesecakes"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ανακάλυψη επικίνδυνων συστατικών σε προϊόντα τροφίμων και την πιθανή απειλή για την υγεία των καταναλωτών.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g2221f3a4f5c53e817a86b34a5e8eca1a911e00ae1d0220dc8bd88961f3d1792ca793e5ef57404c0e766ad03bdf707f301af26ff77dbe3a1b4283f96890e07fe2_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T14:55:28.000Z"
-    },
-    {
-      "id": "5fe8e5fe5836",
-      "title": "Η ΔΑΣ για πρώτη φορά στα 100 χρόνια ιστορίας της ΑΔΕΔΥ ανακηρύχθηκε πρώτη δύναμη! (VIDEO)",
-      "simpleTitle": "Η ΔΑΣ για πρώτη φορά στα 100 χρόνια ιστορίας της ΑΔΕΔΥ ανακηρύχθηκε πρώτη δύναμη! (VIDEO)",
-      "simpleText": "**Η ΔΑΣ για πρώτη φορά πρώτη δύναμη στην ΑΔΕΔΥ**\n\nΣτο 39ο Συνέδριο της ΑΔΕΔΥ, η ΔΑΣ κατάφερε να γίνει πρώτη δύναμη, κάτι που συμβαίνει για πρώτη φορά στα 100 χρόνια της ΑΔΕΔΥ. Η ΔΑΣ πήρε 168 ψήφους και 22 έδρες, ξεπερνώντας την προηγούμενη πρώτη παράταξη, την κυβερνητική ΔΑΚΕ. Στις προηγούμενες εκλογές είχε λιγότερους ψήφους και έδρες.\n\nΑυτό το αποτέλεσμα είναι σημαντικό γιατί οι περισσότεροι εργαζόμενοι στο Δημόσιο ψήφισαν. Υπήρχε μεγάλος ενθουσιασμός από τους υποστηρικτές της ΔΑΣ, που πιστεύουν ότι τώρα η ΑΔΕΔΥ μπορεί να αλλάξει πορεία, δουλεύοντας πιο κοντά στις ανάγκες των εργαζομένων.\n\nΗ επιτυχία της ΔΑΣ μπορεί να επηρεάσει θετικά το συνδικαλιστικό κίνημα, κάνοντας την ΑΔΕΔΥ πιο δυνατή και κοντά στους εργαζομένους, προωθώντας τα δικαιώματά τους.\n\nΠηγές: 902.gr, newsbomb.gr",
-      "sourceName": "902.gr – Επιλεγμένα, Newsbomb.gr",
-      "sourceUrl": "https://www.902.gr/eidisi/ergazomenoi-symmahia/409608/i-das-gia-proti-fora-sta-100-hronia-istorias-tis-adedy",
-      "sourceDomains": [
-        "902.gr",
-        "newsbomb.gr"
-      ],
-      "sources": [
         {
           "title": "902.gr – Επιλεγμένα",
-          "url": "https://www.902.gr/eidisi/ergazomenoi-symmahia/409608/i-das-gia-proti-fora-sta-100-hronia-istorias-tis-adedy"
-        },
-        {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/ellada/story/1700789/adedy-i-das-tou-pame-kke-proti-dynami-stis-ekloges"
+          "url": "https://www.902.gr/eidisi/ergatiki-taxi/409611/i-das-proti-dynami-stin-adedy-istoriki-stigmi-gia-ergatiko-kinima"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πολιτική αλλαγή στην ηγεσία της ΑΔΕΔΥ και τις επιπτώσεις της στο συνδικαλιστικό κίνημα, επηρεάζοντας τα δικαιώματα των εργαζομένων στο Δημόσιο.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική πολιτική αλλαγή στην ΑΔΕΔΥ, η οποία έχει επιπτώσεις στο εργατικό κίνημα και στις αντιλαϊκές πολιτικές.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gba3f0701d5e88d4ecf5579697e3af7e8d0450b87f31c666073015a7ea6140744e8fe41673a7ec6275886b01cbd2001eed4bf782467e25ce28205b82ce545b75b_640.jpg",
+      "imageUrl": "https://pixabay.com/get/gd1314fc751015bbffd46692d8e8dc4ed4c6c958280838376177c2c92adb6ee04e31b527c66f94a3bd90c197988e89b035ba238cc9d84eabb54e80c52c7350862_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T15:15:53.000Z"
-    },
-    {
-      "id": "fdd62365f053",
-      "title": "Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν με χορηγό τον ΟΠΑΠ",
-      "simpleTitle": "Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν με χορηγό τον ΟΠΑΠ",
-      "simpleText": "**Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα»**\n\nΗ πρεμιέρα της θεατρικής παράστασης «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν έγινε με μεγάλη επιτυχία. Πλήθος κόσμου και γνωστά πρόσωπα παρευρέθηκαν στην εκδήλωση.\n\nΗ παράσταση είναι σε σκηνοθεσία του Αλέξανδρου Χρυσανθόπουλου και έχει την υποστήριξη του ΟΠΑΠ, που είναι μέλος της Allwyn. Το κοινό την υποδέχτηκε με ενθουσιασμό και θερμά χειροκροτήματα.\n\nΗ παράσταση σημείωσε μεγάλη επιτυχία από την πρώτη στιγμή, αναδεικνύοντας το ταλέντο των συμμετεχόντων.\n\nΠηγές: newsbomb.gr, protagon.gr",
-      "sourceName": "Newsbomb.gr, Protagon",
-      "sourceUrl": "https://www.newsbomb.gr/ellada/story/1700788/lamperi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap",
-      "sourceDomains": [
-        "newsbomb.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Newsbomb.gr",
-          "url": "https://www.newsbomb.gr/ellada/story/1700788/lamperi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/laberi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap-44343274740"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αφορά την πρεμιέρα μιας θεατρικής παράστασης, που είναι πολιτιστική εκδήλωση.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gabd9225a125c0cb868ae673e2e5d5fe40d310c02469a7f3ee235b2eae1a0b2fb5b1210d732268a35b5fe3d9031b034d9974dea69669ff798dbd3779f7b97081d_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T15:03:08.000Z"
+      "publishedAt": "2025-12-12T19:14:25.000Z"
     },
     {
       "id": "b21b89451997",
       "title": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
       "simpleTitle": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
-      "simpleText": "**Η πρωτεΐνη Klotho και η μακροζωία**\n\nΕπιστήμονες αναζητούν τρόπους για να επιβραδύνουν τη γήρανση. Τώρα, νέα έρευνα από το Πανεπιστήμιο της Βαρκελώνης δείχνει ότι η πρωτεΐνη Klotho μπορεί να βοηθήσει.\n\nΑυτή η πρωτεΐνη μπορεί να προσφέρει καλύτερη και περισσότερη ζωή στους ανθρώπους. Ελπίζουν ότι θα ανοίξει νέοι δρόμοι για υγιή γήρανση.\n\nΑυτή η ανακάλυψη φέρνει αισιοδοξία για το μέλλον της μακροζωίας.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Η πρωτεΐνη Klotho μπορεί να βοηθήσει στη γήρανση**\n\nΟι επιστήμονες ψάχνουν τρόπους να καθυστερήσουν τη γήρανση και να προσφέρουν καλύτερη ζωή. Νέα έρευνα από το Πανεπιστήμιο της Βαρκελώνης μελετά την πρωτεΐνη Klotho. Αυτή η πρωτεΐνη φαίνεται να παίζει σημαντικό ρόλο στη μακροζωία. Η ανακάλυψη αυτή μπορεί να αλλάξει το πώς βλέπουμε την υγιή γήρανση στο μέλλον.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30206-i-proteini-klotho-anoigei-neo-dromo-gia-ygi-giransi-kai-makrozoia/",
       "sourceDomains": [
@@ -331,9 +247,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά επιστημονική έρευνα για τη γήρανση και την υγεία, γεγονός που σχετίζεται με σοβαρά ζητήματα υγείας και ευημερίας.",
+      "categoryReason": "Η είδηση αφορά έρευνα που σχετίζεται με τη γήρανση και τη μακροχρόνια υγεία, παρουσιάζοντας σοβαρά επιστημονικά ευρήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g3a574885226e64aaaf5cb8483d5d5eeebcaf9c63309d1308383cfc321aab931e4b50438d9e2a928ac02a03b31efb5c69dea69e3a820e5e8d952262b514e0a179_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g47e6619cebca2a9750c318eb0a9be1421f53cd0bb2b70d33ddc7ab1512f369459f4a19420a51839198ae324a910ac9c858cd2a290bdf3d8c8e0ff1a5802371d9_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-12T14:12:00.000Z"
     },
@@ -341,7 +257,7 @@
       "id": "6428763328fc",
       "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
       "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-      "simpleText": "**Ρωμαϊκή σαρκοφάγος βρέθηκε στη Βουδαπέστη**\n\nΣτο Όμπουντα της Βουδαπέστης, οι αρχαιολόγοι βρήκαν μια ρωμαϊκή σαρκοφάγο 1.700 ετών. Η σαρκοφάγος είναι σε πολύ καλή κατάσταση και ανήκε σε μια νεαρή γυναίκα. Αυτή η ανακάλυψη μας δίνει σημαντικές πληροφορίες για το πώς ζούσαν οι άνθρωποι στη ρωμαϊκή Παννονία. Η έρευνα έγινε από το Μουσείο Ιστορίας της πόλης και είναι μια μοναδική ευκαιρία να μάθουμε περισσότερα για το παρελθόν.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη αποκαλύπτει το παρελθόν**\n\nΣτην πόλη Βουδαπέστη, στην περιοχή Όμπουντα, ανακαλύφθηκε μια ρωμαϊκή σαρκοφάγος. Η σαρκοφάγος είναι περίπου 1.700 ετών και βρέθηκε άθικτη. Μέσα της βρισκόταν μια νεαρή γυναίκα, και η ανακάλυψη αυτή δίνει σημαντικές πληροφορίες για τη ζωή στη ρωμαϊκή Παννονία.\n\nΗ σαρκοφάγος φανερώνει στοιχεία για την καθημερινότητα των ανθρώπων εκείνης της εποχής. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της Βουδαπέστης και αποτελεί μια σπάνια ευκαιρία να μάθουμε περισσότερα για την αρχαία αυτή περιοχή.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
       "sourceDomains": [
@@ -354,9 +270,9 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που σχετίζεται με το πολιτιστικό παρελθόν και την ιστορία, προσφέροντας σημαντικές πληροφορίες για τη ζωή στη ρωμαϊκή εποχή.",
+      "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που συνδέεται με την πολιτιστική κληρονομιά και την ιστορία.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g69e1ffa2fcfe858db167bca611d12130e415a499cd5d9e14cc145a9756701ee21216542d0ee3786921f005648daace3658eb3d784bde22261eba7f28f3956c7d_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g79f5f793372e75c81becd0ef0df03f8d8cd20769b2b1c30c24e83725f6467d963ca6487456af29be70b3e1af44538ad974775eb97d993b1944c99ceae67c5c30_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-12T08:31:00.000Z"
     },
@@ -364,7 +280,7 @@
       "id": "e92812af0401",
       "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
       "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-      "simpleText": "**Πρώην Αστυνομικός Δημιουργεί Κινητό Πλυντήριο για Άστεγους**\n\nΟ Wade Milyard, πρώην αστυνομικός σκύλων στο Frederick του Μέριλαντ, αποφάσισε να βοηθήσει άστεγους ανθρώπους. Κατά τη διάρκεια μιας επίσκεψης σε καταυλισμό αστέγων, ένιωσε ότι έπρεπε να κάνει κάτι καλό. Έτσι δημιούργησε ένα κινητό πλυντήριο.\n\nΑυτό το πλυντήριο προσφέρει καθαρισμό ρούχων στους άστεγους, δίνοντάς τους λίγη ελπίδα και ανθρώπινη αξιοπρέπεια. Η κίνησή του έχει αγγίξει πολλές ζωές και δείχνει πώς μια απλή ιδέα μπορεί να φέρει μεγάλες αλλαγές.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Πρώην αστυνομικός βοηθάει άστεγους με κινητό πλυντήριο**\n\nΟ Wade Milyard είναι πρώην αστυνομικός από το Μέριλαντ, ΗΠΑ. Κάποια στιγμή πήγε σε έναν καταυλισμό αστέγων για δουλειά. Εκεί ένιωσε την επιθυμία να βοηθήσει τους ανθρώπους που το είχαν ανάγκη.\n\nΑποφάσισε να δημιουργήσει ένα κινητό πλυντήριο για τους άστεγους. Έτσι μπορούν να πλένουν τα ρούχα τους και να ζουν με περισσότερη αξιοπρέπεια.\n\nΑυτή η κίνηση προσφέρει ελπίδα και διευκολύνει πολλούς ανθρώπους που δεν έχουν σπίτι. Ο Wade με την πράξη του δείχνει πόσο σημαντικό είναι να βοηθάμε ο ένας τον άλλον.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
       "sourceDomains": [
@@ -377,9 +293,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά μια θετική πράξη καλοσύνης ενός πρώην αστυνομικού που δημιούργησε ένα κινητό πλυντήριο για να βοηθήσει άστεγους, προσφέροντάς τους ελπίδα και αξιοπρέπεια.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια θετική πράξη καλοσύνης που προσφέρει ελπίδα στους άστεγους.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gb514d403e51064f9ae7ac136b82c8faeae0f24640d409a0ffe70ef1097e8aec57a94bf8a70cb9cd68a910229bd976a7ef7e972eeabb4e41b269354de0c732abd_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g0a9b50a3973c2e3d7b22a5ae8e250705a04ddbcfa532cc925ded7662c433b631393ca28e64bc155fb768ac787d74455abd75bd5ed182999ef467ee8ddef1c524_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-12T05:29:00.000Z"
     },
@@ -387,7 +303,7 @@
       "id": "67ee5b41d5e6",
       "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
       "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-      "simpleText": "**Street party για τη Μαρία Κάλλας στην Αθήνα**\n\nΈνα μεγάλο street party στη μνήμη της Μαρία Κάλλας θα γίνει στην Αθήνα. Η γιορτή αυτή θα πραγματοποιηθεί την Παρασκευή 12 Δεκεμβρίου 2025, στις 20:00. Αρχικά είχε αναβληθεί λόγω κακών καιρικών συνθηκών.\n\nΤο πάρτι θα γίνει στην οδό Πετράκη, κοντά στο Μουσείο Μαρία Κάλλας του Δήμου Αθηναίων. Εκεί, ο δρόμος θα γεμίσει με μουσική και χορό, προσφέροντας χαρά και διασκέδαση για όλους.\n\nΑυτή η γιορτή έχει γίνει πλέον παράδοση στην πόλη και είναι ένας ωραίος τρόπος να τιμηθεί η καλλιτεχνική κληρονομιά της διάσημης τραγουδίστριας.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Έρχεται το street party για τη Μαρία Κάλλας στην Αθήνα**\n\nΗ Αθήνα ετοιμάζεται για ένα μεγάλο street party για τη Μαρία Κάλλας. Το πάρτι θα γίνει την Παρασκευή 12 Δεκεμβρίου 2025, στις 8 το βράδυ. Είχε αναβληθεί την προηγούμενη εβδομάδα λόγω κακού καιρού.\n\nΤο event θα λάβει χώρα στην οδό Πετράκη, πίσω από το Μουσείο Μαρία Κάλλας. Ο δρόμος θα γεμίσει μουσική και χαρά, προσκαλώντας όλους να γιορτάσουν την τέχνη της Κάλλας με ένα ξεχωριστό τρόπο.\n\nΑυτό το πάρτι έχει γίνει παράδοση για την Αθήνα, φέρνοντας κάθε χρόνο κέφι και ενέργεια στην πόλη.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
       "sourceDomains": [
@@ -400,9 +316,9 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Το street party είναι μια γιορτινή εκδήλωση που προσφέρει διασκέδαση και χαρά στους συμμετέχοντες.",
+      "categoryReason": "Το street party έχει ως κύριο θέμα τη διασκέδαση και τη γιορτή γύρω από την τέχνη της Μαρία Κάλλας.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ge3cb6d06c918f9537a61e7c328313be64faa7b3598b34f2be9037e6c1853b027ed650bd97b5db48f7c33b7e7ed57c1957f7a0c28711858b4e1a4f5f5c91fe35b_640.jpg",
+      "imageUrl": "https://pixabay.com/get/gcd55baf6acfc3ae1661e5bf06dc935211c7470f9fc183188928190217d769d8ad715df5f9461f34633523b08b1407d3bd700de28d891f50f49b1028e9a82b749_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-11T16:55:58.000Z"
     },
@@ -410,7 +326,7 @@
       "id": "10412cb7acb4",
       "title": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
       "simpleTitle": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
-      "simpleText": "**Η έρευνα δείχνει τη σχέση πιθήκων και αλκοόλ**\n\nΜια νέα έρευνα αποκαλύπτει ότι η σχέση μας με το αλκοόλ ξεκινάει από πολύ παλιά. Οι επιστήμονες μελέτησαν πώς οι πίθηκοι αντιδρούν στην αιθανόλη, μια ουσία που υπάρχει στα αλκοολούχα ποτά. Φαίνεται ότι οι ρίζες αυτής της σχέσης είναι βαθιά στην εξέλιξη των πρωτευόντων, δηλαδή των πιθήκων και των ανθρώπων. Η ανακάλυψη αυτή μας βοηθά να καταλάβουμε καλύτερα γιατί οι άνθρωποι είναι έλκονται από το αλκοόλ.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Η έλξη των πιθήκων για το αλκοόλ μπορεί να έχει εξελικτική βάση**\n\nΜια νέα έρευνα δείχνει ότι η σχέση των ανθρώπων με το αλκοόλ μπορεί να ξεκινά από πολύ παλιά. Όχι μόνο για πολιτιστικούς λόγους, αλλά και γιατί συνδέεται με την εξέλιξή μας. Ορισμένοι πίθηκοι επιλέγουν φρούτα που περιέχουν αιθανόλη, ένα συστατικό του αλκοόλ. Αυτή η συμπεριφορά ίσως να δείχνει ότι η τάση μας προς το αλκοόλ έχει βαθιές ρίζες στον χρόνο.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30047-exelixi-alkool-erevna-stous-pithikous/",
       "sourceDomains": [
@@ -423,9 +339,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναλύει την επιστημονική έρευνα σχετικά με τη σχέση των πιθήκων με το αλκοόλ, εμβαθύνοντας σε ζητήματα που αφορούν την εξέλιξη και την ανθρώπινη συμπεριφορά.",
+      "categoryReason": "Η είδηση εξετάζει μια έρευνα που αποκαλύπτει την εξελικτική βάση της σχέσης ανθρώπων και αλκοόλ, ένα σοβαρό θέμα που σχετίζεται με την ανθρώπινη συμπεριφορά και τις ρίζες της.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gad21cd04fe1b713818255456c746c9b83fab586439acb7da63d4498e6660d322d3f94e81c60485892a9bb5c9e3d6bbef75eed49eb1ebb195fcfa2d2f3d0898e6_640.jpg",
+      "imageUrl": "https://pixabay.com/get/ga2ad74118689f2f62ec755eeed2b305cb2af3ea3f90106f5ea5d1ca25d525c231f3dcaaeac75c9ede46773435f58936fd763f37c1a2929cba460089c145a7483_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-11T09:21:27.000Z"
     },
@@ -433,7 +349,7 @@
       "id": "31063950671f",
       "title": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
       "simpleTitle": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
-      "simpleText": "**Το πρωινό και η σημασία του για υγεία και στρες**\n\nΤο πρωινό θεωρείται το πιο σημαντικό γεύμα της ημέρας. Μας δίνει την ενέργεια που χρειαζόμαστε για να ξεκινήσουμε την ημέρα μας σωστά. Όταν τρώμε πρωινό, σταθεροποιούμε την όρεξή μας και νιώθουμε πιο καλά στην υγεία μας.\n\nΠαρ' όλα αυτά, οι γρήγοροι ρυθμοί της καθημερινότητάς μας μπορεί να μας δυσκολεύουν να τρώμε θρεπτικό πρωινό. Είναι σημαντικό να προσπαθούμε να έχουμε ένα ισορροπημένο ξεκίνημα για να αντιμετωπίζουμε καλύτερα το στρες της ημέρας.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Το πρωινό και η σημασία του για την υγεία και το στρες**\n\nΤο πρωινό είναι πολύ σημαντικό για την υγεία μας. Όταν τρώμε καλό πρωινό, έχουμε περισσότερη ενέργεια για την υπόλοιπη μέρα. Βοηθά επίσης να μην πεινάμε τόσο πολύ αργότερα.\n\nΣήμερα, όμως, πολλοί άνθρωποι έχουν γρήγορους ρυθμούς και δεν επιλέγουν πάντα σωστά το πρωινό τους. Ένα καλό πρωινό μας στηρίζει και μειώνει το στρες. Είναι η αρχή για μια υγιή και ισορροπημένη ημέρα.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30211-to-proino-kai-pos-syndeetai-me-ygeia-kai-stres/",
       "sourceDomains": [
@@ -446,9 +362,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση επικεντρώνεται στη σημασία του πρωινού για την υγεία και την αντοχή στο στρες, που είναι σοβαρά ζητήματα που επηρεάζουν την καθημερινότητα και ευημερία των ανθρώπων.",
+      "categoryReason": "Η είδηση αναφέρεται στη σύνδεση του πρωινού με την υγεία και το στρες, που είναι σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g60475b9c822dadef2fe64372bc5b25456a7bce61d69a7b018d77e76b468ff9822ceb42cf20c36284cfdd52f604c36d6622867850204ddc8b1c06f84aff868b29_640.jpg",
+      "imageUrl": "https://pixabay.com/get/gbf4247853f8c083d21e168eae6efcdf0ecc9fb1424a35b65b18921e0d60d145c719db6f10b52405feffec476bc7f7370d5074f699174f4dc595d05ae86f3f15c_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-11T07:26:00.000Z"
     },
@@ -456,7 +372,7 @@
       "id": "3927486c1550",
       "title": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
       "simpleTitle": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
-      "simpleText": "**Η Ντόρτμουντ έβαλε το μεγαλύτερο ηλιακό σύστημα στον κόσμο στο γήπεδο της**\n\nΗ Ντόρτμουντ έγινε πρωτοπόρος στη χρήση καθαρής ενέργειας. Στο γήπεδό της, το Signal Iduna Park, εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο. Αυτό το μεγάλο έργο περιλαμβάνει πάνω από 11.000 φωτοβολταϊκά πάνελ.\n\nΗ ισχύς του φτάνει πάνω από 5 megawatt και αποτελεί υπόδειγμα για τα σύγχρονα αθλητικά κέντρα. Με αυτή την κίνηση, η Ντόρτμουντ δείχνει πώς ο αθλητισμός μπορεί να συμβάλει στη βιωσιμότητα και στην υπεύθυνη χρήση της ενέργειας.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Η Ντόρτμουντ και το μεγαλύτερο ηλιακό σύστημα σε γήπεδο**\n\nΣτο γήπεδο Signal Iduna Park της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο. Αυτό το σύστημα βρίσκεται στη στέγη του γηπέδου και περιέχει πάνω από 11.000 φωτοβολταϊκά πάνελ.\n\nΗ ισχύς του ηλιακού συστήματος είναι πάνω από 5 MW, κάνοντάς το ένα από τα πιο ισχυρά σε αθλητικά κέντρα.\n\nΑυτή η εξέλιξη δείχνει πώς ο αθλητισμός μπορεί να πρωτοπορεί στη βιώσιμη και υπεύθυνη χρήση της ενέργειας. Το έργο θέτει νέα πρότυπα για τα σύγχρονα γήπεδα και την προστασία του περιβάλλοντος.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30010-gipedo-ntortmount-megalytero-ston-kosmo-iliako-systima/",
       "sourceDomains": [
@@ -469,9 +385,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη βιωσιμότητα και την υπεύθυνη χρήση ενέργειας, που είναι σοβαρά κοινωνικά ζητήματα.",
+      "categoryReason": "Η εγκατάσταση του μεγαλύτερου ηλιακού συστήματος στον κόσμο σε γήπεδο σχετίζεται με θέματα βιωσιμότητας και υπεύθυνης χρήσης ενέργειας, που είναι σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4e89fa71f3dc296b48c5d7a839ac5721747bf5832daf277f2141c5de27c3217930ce018e338b03746a46a541885c289ba254789688188d2259a45348f24b8068_640.jpg",
+      "imageUrl": "https://pixabay.com/get/ge3c6ca384e88e0cd1651aece2a24404ce341c4409b5dc78b18359ef6e3086855ed8e7f60e5bbcf0edaad3d2ae03eed2841f59129de80114a3911970670995957_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-10T17:35:00.000Z"
     },
@@ -479,7 +395,7 @@
       "id": "b09b843e0cdc",
       "title": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
       "simpleTitle": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
-      "simpleText": "**Η ΔΙΔΙΚ προστατεύει τους πολίτες στον ψηφιακό κόσμο**\n\nΗ τεχνολογία είναι πλέον παντού γύρω μας. Γι' αυτό, η προστασία από ψηφιακούς κινδύνους είναι απαραίτητη. Η Διεύθυνση Δίωξης Κυβερνοεγκλήματος (ΔΙΔΙΚ) της Ελληνικής Αστυνομίας εργάζεται σκληρά για να διατηρεί τον ψηφιακό χώρο ασφαλή. Μεγάλες προσπάθειες γίνονται ώστε οι πολίτες και οι επιχειρήσεις να είναι προστατευμένοι από απειλές στο διαδίκτυο. Η ΔΙΔΙΚ είναι συνεχώς σε ετοιμότητα για να παρεμβαίνει, όταν χρειάζεται, και να αντιμετωπίζει οποιοδήποτε πρόβλημα προκύψει.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Η ΔΙΔΙΚ προστατεύει τον ψηφιακό μας κόσμο**\n\nΗ τεχνολογία είναι πλέον μέρος της καθημερινής μας ζωής. Η ασφάλεια στο διαδίκτυο είναι πολύ σημαντική για όλους εμάς. Η Διεύθυνση Δίωξης Κυβερνοεγκλήματος (ΔΙΔΙΚ) της Ελληνικής Αστυνομίας παίζει κεντρικό ρόλο σε αυτό.\n\nΗ ΔΙΔΙΚ δουλεύει σκληρά για να κρατάει τον ψηφιακό μας χώρο ασφαλή. Παρακολουθεί τις τεχνολογικές εξελίξεις και παρεμβαίνει όταν υπάρχουν προβλήματα, προστατεύοντας έτσι τόσο τους πολίτες όσο και τις επιχειρήσεις. Η ασφάλεια στο διαδίκτυο δεν είναι πλέον κάτι περιττό, αλλά απαραίτητο.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30209-kyvernoasfaleia-prostasia-politon-didik/",
       "sourceDomains": [
@@ -492,9 +408,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την προστασία πολιτών από ψηφιακούς κινδύνους, αναδεικνύοντας την κυβερνοασφάλεια ως σοβαρό κοινωνικό ζήτημα.",
+      "categoryReason": "Η είδηση αφορά την κυβερνοασφάλεια και την προστασία των πολιτών, που είναι σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g1a90f056197868f58490f39fc2f6241f628902c86b836276fa2d65034145896ec70da4c5ff997690f288c9f8fb2ea44033cce9092d9b2168bbf025dce637ed33_640.jpg",
+      "imageUrl": "https://pixabay.com/get/ge4fec055e5c2d6cbef1c2f8c6f7542d99370e191988d623228e8818e7ca71c2dd04a7c42156230db346cae7ddeb071d6aedcc1b1358b6d229b1062c285b992bb_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-10T14:22:00.000Z"
     },
@@ -502,7 +418,7 @@
       "id": "e767340659db",
       "title": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
       "simpleTitle": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
-      "simpleText": "**Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου**\n\nΟ Δήμος Σουλίου αποφάσισε να δώσει ένα σημαντικό επίδομα. Κάθε οικογένεια που ζει μόνιμα στον Δήμο θα λαμβάνει 1.000 ευρώ για κάθε παιδί που θα γεννηθεί μετά την 1η Ιανουαρίου 2026.\n\nΑυτή η κίνηση θέλει να βοηθήσει τις οικογένειες και να τις ενθαρρύνει να αποκτήσουν περισσότερα παιδιά. Η πρωτοβουλία αυτή είναι ιδιαίτερη για την ελληνική επαρχία, καθώς προσπαθεί να αντιμετωπίσει τη μείωση των γεννήσεων και του πληθυσμού.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Ο Δήμος Σουλίου δίνει επίδομα 1.000 ευρώ για κάθε παιδί**\n\nΟ Δήμος Σουλίου αποφάσισε να προσφέρει ένα επίδομα 1.000 ευρώ για κάθε παιδί που θα γεννηθεί μετά την 1η Ιανουαρίου 2026. Αυτή η απόφαση πάρθηκε από το Δημοτικό Συμβούλιο και συμφωνήθηκε ομόφωνα.\n\nΤο επίδομα απευθύνεται σε οικογένειες που είναι μόνιμοι κάτοικοι του Δήμου Σουλίου. Ο στόχος είναι να βοηθήσει τις οικογένειες και να ενθαρρύνει τη δημιουργία νέων, ειδικά σε μια εποχή που οι γεννήσεις μειώνονται.\n\nΑυτή η κίνηση θεωρείται σημαντική γιατί προσπαθεί να αντιμετωπίσει τα προβλήματα της μείωσης του πληθυσμού στην ελληνική επαρχία.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/",
       "sourceDomains": [
@@ -514,10 +430,10 @@
           "url": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια πολιτική πρωτοβουλία που έχει σοβαρές επιπτώσεις στην οικογένεια και την κοινωνία, καθώς προσπαθεί να αντιμετωπίσει τη μείωση των γεννήσεων.",
+      "category": "happy",
+      "categoryReason": "Η είδηση αφορά σε μια θετική πρωτοβουλία του Δήμου Σουλίου που προσφέρει επίδομα για τη στήριξη οικογενειών και ενθάρρυνση γεννήσεων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g5f0bfb55c5b8584a0a8b32754d992a57516a2926967a99a1c70ec319be151ab219215e6e4e2281f0e1e9cdc7414b65ef4f46d6eef64ba28f9589075ebaafb70f_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g8629e36d27b72a583da79b87192fd8782fdb37a6a6446f1101418ec941ecd8194c772ef7ff72a107b9efc847cf334c8d85691f0d38ede4fa140ca32471bb1cc0_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-10T08:22:00.000Z"
     },
@@ -525,7 +441,7 @@
       "id": "237fa843d21f",
       "title": "Μια μικρή ανάσα για την Αττική καθώς τα αποθέματα της ΕΥΔΑΠ ενισχύονται",
       "simpleTitle": "Μια μικρή ανάσα για την Αττική καθώς τα αποθέματα της ΕΥΔΑΠ ενισχύονται",
-      "simpleText": "**Βροχές βοηθούν στα αποθέματα νερού της Αττικής**\n\nΠρόσφατες βροχές στην Αττική αύξησαν τα αποθέματα της ΕΥΔΑΠ κατά περίπου 15 εκατομμύρια κυβικά μέτρα. Αυτή η αύξηση δίνει μια μικρή ανακούφιση στην περιοχή. Παρότι υπάρχει κάποια αισιοδοξία, το πρόβλημα της λειψυδρίας συνεχίζει να είναι σοβαρό ζήτημα.\n\nΠηγή: thehappynews.gr",
+      "simpleText": "**Βροχές ενισχύουν τα αποθέματα νερού στην Αττική**\n\nΟι πρόσφατες βροχές βοήθησαν την Αττική, καθώς αύξησαν τα αποθέματα νερού της ΕΥΔΑΠ κατά 15 εκατομμύρια κυβικά μέτρα. Αυτό έφερε λίγη αισιοδοξία, αλλά η έλλειψη νερού παραμένει σοβαρό θέμα για την περιοχή. Παρά την αύξηση, η λειψυδρία συνεχίζει να προκαλεί ανησυχία.\n\nΠηγή: thehappynews.gr",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30203-leipsydria-attiki-anasa-efksimenoi-apothema-eydap/",
       "sourceDomains": [
@@ -538,298 +454,209 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με σοβαρά κοινωνικά ζητήματα, όπως είναι η λειψυδρία και η διαχείριση των υδάτων στην Αττική.",
+      "categoryReason": "Η είδηση αφορά την κατάσταση των αποθεμάτων νερού στην Αττική και τη σοβαρή πρόκληση της λειψυδρίας, που είναι κρίσιμο κοινωνικό και περιβαλλοντικό ζήτημα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g56ceb12f5f230c217631e7a4f8a9623943c02c1636939b1cb962a8e35584e8b8a64e2efd1844b4eb7f3ff86c42d52bdaedacfbb2d1539b77e71c838f4cb87f26_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g16027600c0a3624db46ed3db7b246f2a1a3ee3ffa9ee7c8bb24a666730726670cc231e1c9a9d8b35a10ad64deed9276ee7d96141612fa9651022916396d76a5d_640.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-10T05:03:00.000Z"
     },
     {
-      "id": "167877ec-cfa7-499b-9ada-15d72c798b86",
-      "title": "Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη",
-      "simpleTitle": "Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη",
-      "simpleText": "*Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη*\n\nΟ Έλληνας υπουργός Οικονομικών, Κυριάκος Πιερρακάκης, εξελέγη χτες (11 Δεκεμβρίου 2025) πρόεδρος του Eurogroup, του οργάνου που συντονίζει την οικονομική πολιτική της Ευρωζώνης.(reuters.com)\n\nΑυτή η εξέλιξη είναι χαρούμενη για τη χώρα. Σηματοδοτεί ότι η Ελλάδα έχει ανακάμψει οικονομικά και αποκαταστήσει την αξιοπιστία της στην Ευρώπη.(reuters.com)\n\nΦέρνει υπερηφάνεια. Ένας Έλληνας ηγείται τώρα στις αποφάσεις των 20 σημαντικότερων χωρών της Ευρωζώνης.(reuters.com)\n\nΑυτό το γεγονός είναι φωτεινό και αισιόδοξο. δείχνει ότι με δουλειά και προσπάθεια η Ελλάδα ανακτά τη θέση της.\n\nΠηγές: dedomeno.gr, reportaznet.gr",
-      "sourceName": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
-      "sourceUrl": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
+      "id": "526ff656-2c5e-481a-8d91-c90d7047a5d0",
+      "title": "Αθλητική νίκη της χθεσινής ημέρας",
+      "simpleTitle": "Αθλητική νίκη της χθεσινής ημέρας",
+      "simpleText": "*Αθλητική νίκη της χθεσινής ημέρας*\n\nΧθες, Παρασκευή 12 Δεκεμβρίου 2025, η γυναικεία ομάδα μπάσκετ του Αθηναϊκού πέτυχε σημαντική νίκη στο EuroCup Women. Έκαναν ένα δυνατό παιχνίδι εκτός έδρας και κέρδισαν με σκορ 80–75. Η νίκη αυτή έχει μεγάλη σημασία, γιατί δείχνει πόσο δυνατές είναι πλέον οι ελληνικές ομάδες στις ευρωπαϊκές διοργανώσεις.\n\nΠηγές: m.riverbender.com, amna.gr",
+      "sourceName": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
+      "sourceUrl": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
       "sources": [
         {
-          "title": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
-          "url": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
+          "title": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
+          "url": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
           "snippet": "",
-          "host": "dedomeno.gr"
+          "host": "m.riverbender.com"
         },
-        {
-          "title": "https://www.reportaznet.gr/2025/12/",
-          "url": "https://www.reportaznet.gr/2025/12/",
-          "snippet": "",
-          "host": "reportaznet.gr"
-        }
-      ],
-      "sourceDomains": [
-        "dedomeno.gr",
-        "reportaznet.gr"
-      ],
-      "category": "happy",
-      "categoryReason": "web_search_fallback",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g7405adfa816a4a57fc103959028f294a60d816a461817ec4c723673eae97b527b558fdbfedfaf6e08c3d98ce8af628ab4a8e41d7aa535efc08eb68b6b65eabfd_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T00:00:00.000Z"
-    },
-    {
-      "id": "fbdd82ee-7f54-4ae6-959c-cf628c9a2791",
-      "title": "Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League",
-      "simpleTitle": "Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League",
-      "simpleText": "*Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, η Μπάγερν Μονάχου πέτυχε σημαντική νίκη στο Champions League. Επικράτησε με 3-1 κατά της Σπόρτινγκ Λισαβόνας, δείχνοντας δύναμη και πολύ καλή απόδοση (dedomeno.gr).\n\nΗ ομάδα από τη Γερμανία έδειξε αποφασιστική για το σκορ. Ομορφες φάσεις και καλά γκολ χάρισαν τη χαρά στους οπαδούς της. Το αποτέλεσμα αυτό τη φέρνει πιο κοντά στα νοκ άουτ της διοργάνωσης (dedomeno.gr).\n\nΗ Μπάγερν έπαιξε με χαμόγελο, αλλά και σοβαρότητα. Αυτό το παιχνίδι είναι ένα καλό νέο για τους φίλους της και γενικά για το ευρωπαϊκό ποδόσφαιρο σήμερα.\n\nΠηγές: theguardian.com, reuters.com",
-      "sourceName": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-      "sourceUrl": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-      "sources": [
-        {
-          "title": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-          "url": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-          "snippet": "",
-          "host": "theguardian.com"
-        },
-        {
-          "title": "https://www.reuters.com/sports/soccer/scotland-lose-greece-handed-lifeline-by-danes-draw-with-belarus-2025-11-15/",
-          "url": "https://www.reuters.com/sports/soccer/scotland-lose-greece-handed-lifeline-by-danes-draw-with-belarus-2025-11-15/",
-          "snippet": "",
-          "host": "reuters.com"
-        }
-      ],
-      "sourceDomains": [
-        "theguardian.com",
-        "reuters.com"
-      ],
-      "category": "sports",
-      "categoryReason": "web_search_fallback",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfa289ac07f0affd0426d013321b253795ee859335f3f4c1ca2dad0999136ea9de45a1f7e46da5c71a160c7a1b034a69b_640.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-12T00:00:00.000Z"
-    },
-    {
-      "id": "56f09d40-73ca-4fa7-84cf-4ed00660c436",
-      "title": "Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη",
-      "simpleTitle": "Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη",
-      "simpleText": "*Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, η ΑΕΚ πέτυχε μία πολύ σημαντική νίκη στο Conference League. Παρά το δύσκολο ξεκίνημα, γύρισε το παιχνίδι στη Σαμσούντα και κέρδισε τον αγώνα. Η νίκη αυτή δίνει χαρά στους φίλους της ομάδας και ανεβάζει πολύ τη διάθεση στην ομάδα για τη συνέχεια.\n\nΠηγές: amna.gr, messiniapress.gr",
-      "sourceName": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
-      "sourceUrl": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
-      "sources": [
         {
           "title": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
           "url": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
           "snippet": "",
           "host": "amna.gr"
-        },
-        {
-          "title": "https://messiniapress.gr/2025/12/12/k%CE%B1%CF%84%CE%AC%CF%84%CE%B1%CE%BE%CE%B7-%CF%84%CE%B7%CF%82-uefa-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CF%80%CE%AC%CE%BD%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-11%CE%B7-%CE%B8%CE%AD%CF%83/",
-          "url": "https://messiniapress.gr/2025/12/12/k%CE%B1%CF%84%CE%AC%CF%84%CE%B1%CE%BE%CE%B7-%CF%84%CE%B7%CF%82-uefa-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CF%80%CE%AC%CE%BD%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-11%CE%B7-%CE%B8%CE%AD%CF%83/",
-          "snippet": "",
-          "host": "messiniapress.gr"
         }
       ],
       "sourceDomains": [
-        "amna.gr",
-        "messiniapress.gr"
+        "m.riverbender.com",
+        "amna.gr"
       ],
       "category": "sports",
       "categoryReason": "web_search_fallback",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g40c9a4c164e40e61ce5475aa9b0c0920c03aa5246f0f03490c19174dabd1c3dd2ff12896e41829523a1854128fd88623_640.jpg",
+      "imageUrl": "https://pixabay.com/get/g2b5c4385251a454709c3efd40775ae690497da9bd2e26f03c523c1348501b867cb528be7168c691b7871f37ed7a56184_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T00:00:00.000Z"
+      "publishedAt": "2025-12-13T00:00:00.000Z"
     },
     {
-      "id": "e57d34db-ad1a-43c0-8294-80d5c76a58ee",
-      "title": "Πρεμιέρα ταινίας για παιδιά στην Ελλάδα",
-      "simpleTitle": "Πρεμιέρα ταινίας για παιδιά στην Ελλάδα",
-      "simpleText": "*Πρεμιέρα ταινίας για παιδιά στην Ελλάδα*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, βγήκε στις ελληνικές αίθουσες η ταινία κινουμένων σχεδίων «Ο Βασιλιάς των Βασιλιάδων: Μια Ιστορία από τον Κάρολο Ντίκενς». Η ταινία είναι μεταγλωττισμένη στα ελληνικά και αφηγείται την ιστορία του μικρού Γουόλτερ, που περπατά δίπλα στον Ιησού μέσα από μια φανταστική περιπέτεια. Είναι μια ζεστή και ονειρική ταινία για παιδιά και οικογένειες, κατάλληλη για ήρεμες στιγμές μαζί.\n\nΠηγή: megatv.com",
-      "sourceName": "https://www.megatv.com/2025/12/05",
-      "sourceUrl": "https://www.megatv.com/2025/12/05",
+      "id": "500d3b80-1976-44b2-b2c0-fa4ae4ebb812",
+      "title": "_Ο νέος κόσμος του darts στο Λονδίνο_",
+      "simpleTitle": "_Ο νέος κόσμος του darts στο Λονδίνο_",
+      "simpleText": "_Ο νέος κόσμος του darts στο Λονδίνο_\n\nΣτις 12 Δεκεμβρίου 2025 ξεκίνησε το Παγκόσμιο Πρωτάθλημα Darts στο ιστορικό Alexandra Palace του Λονδίνου (reuters.com). Ο 18χρονος Luke Littler, που είναι τώρα ο κορυφαίος παίκτης στον κόσμο, υπερασπίζεται τον τίτλο του μπροστά σε ενθουσιώδες κοινό και με έπαθλο περίπου 1 εκατομμύριο λίρες (reuters.com).\n\nΗ ατμόσφαιρα είναι γεμάτη χαρά και ζωντάνια. Ο κόσμος έχει ντυθεί με ποικίλα και χιουμοριστικά κουστούμια. Το παιχνίδι συνδυάζει παράδοση, ένταση και πολλή διασκέδαση (reuters.com).\n\nΕίναι μια σημαντική και χαρούμενη στιγμή για τους φίλους των darts.\n\nΠηγή: reuters.com",
+      "sourceName": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+      "sourceUrl": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
       "sources": [
         {
-          "title": "https://www.megatv.com/2025/12/05",
-          "url": "https://www.megatv.com/2025/12/05",
+          "title": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
           "snippet": "",
-          "host": "megatv.com"
+          "url": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+          "matchCount": 2,
+          "diffDays": null,
+          "host": "reuters.com",
+          "score": 25
+        }
+      ],
+      "sourceDomains": [
+        "reuters.com"
+      ],
+      "category": "sports",
+      "categoryReason": "web_search_fallback",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g1840d9104c0dfd14350ad43680c90aa2775ce3c211ef3d2eb608c52117824d7a2b48cef57f87e63a9265ca03e0308dd3_640.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T00:00:00.000Z"
+    },
+    {
+      "id": "25764246-3418-4479-92ba-546afce3f50f",
+      "title": "_Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου_",
+      "simpleTitle": "_Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου_",
+      "simpleText": "_**Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου**_\n\nΜια νέα σειρά μυθοπλασίας που λέγεται «Ριφιφί» θα κάνει πρεμιέρα τη Δευτέρα 15 Δεκεμβρίου 2025 στις 23:00, στο κανάλι Cosmote Cinema 1.\nΗ σειρά μιλά για την πραγματική ληστεία τράπεζας στην Αθήνα το 1992. Είναι γεμάτη συγκίνηση και χιούμορ, και πρωταγωνιστούν αγαπημένοι ηθοποιοί όπως η Ευαγγελία Μουμούρη, ο Χρήστος Χατζηπαναγιώτης και άλλοι. (moveitmag.gr)\n\nΑυτή η πρεμιέρα είναι πολύ κοντά στην ημερομηνία αναφοράς, αφού είναι σε δυο μέρες από σήμερα (13 Δεκεμβρίου 2025). Είναι ένα ωραίο νέο για όποιον αγαπά τη μυθοπλασία με αληθινές ιστορίες, δράση και συναίσθημα.\n\nΠηγές: flix.gr, tvnea.com",
+      "sourceName": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+      "sourceUrl": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+      "sources": [
+        {
+          "title": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+          "url": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+          "snippet": "",
+          "host": "flix.gr"
         },
+        {
+          "title": "https://www.tvnea.com/2025/06/",
+          "url": "https://www.tvnea.com/2025/06/",
+          "snippet": "",
+          "host": "tvnea.com"
+        }
+      ],
+      "sourceDomains": [
+        "flix.gr",
+        "tvnea.com"
+      ],
+      "category": "screen",
+      "categoryReason": "web_search_fallback",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g464b34b88007982d6fb0af3bcdd209e1b3d95f4e7e13cca9a83356ef5948275c421ca913ce381433b1afc433625607abdfcd46a6398e3333349ccfaf77ea3dba_640.png",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T00:00:00.000Z"
+    },
+    {
+      "id": "c2c05515-6305-48c6-9553-206fce850674",
+      "title": "Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”",
+      "simpleTitle": "Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”",
+      "simpleText": "*Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”*\n\nΧθες, **12 Δεκεμβρίου 2025**, κυκλοφόρησε στο **Disney+** ένα καινούριο ντοκιμαντέρ με τίτλο *“Taylor Swift: The End of an Era”*. Η ταινία δείχνει στιγμές από την καριέρα της διάσημης τραγουδίστριας και σίγουρα θα χαροποιήσει όσους την αγαπούν και την παρακολουθούν.\n\nΠηγές: megatv.com, moveitmag.gr",
+      "sourceName": "https://www.megatv.com/2025/12",
+      "sourceUrl": "https://www.megatv.com/2025/12",
+      "sources": [
         {
           "title": "https://www.megatv.com/2025/12",
           "url": "https://www.megatv.com/2025/12",
           "snippet": "",
           "host": "megatv.com"
+        },
+        {
+          "title": "https://www.moveitmag.gr/nea/ianoyarios-2025-sto-netflix/70907",
+          "url": "https://www.moveitmag.gr/nea/ianoyarios-2025-sto-netflix/70907",
+          "snippet": "",
+          "host": "moveitmag.gr"
         }
       ],
       "sourceDomains": [
-        "megatv.com"
+        "megatv.com",
+        "moveitmag.gr"
       ],
       "category": "screen",
       "categoryReason": "web_search_fallback",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g811967fed18d9ad9020652f2a4f911dd1b952a5777109d58301fdf1ee471414cd21344064c02d1c1b81d0b24b5ce1fee5d73a7a901fd0a222760ed2e4367f5b7_640.png",
+      "imageUrl": "https://pixabay.com/get/g04bf5f2ae1cbc7ab5e71308ecafa6e251c30fc6c4ec025201f917e9536b4ddbaa2c498876a8f91382c59079c6a2afcec81db3fb1eddf5553bea03948b185f073_640.png",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T00:00:00.000Z"
+      "publishedAt": "2025-12-13T00:00:00.000Z"
     },
     {
-      "id": "82bcd444-c31b-4469-8699-d60a1facfe26",
-      "title": "25 χρόνια Κίτρινα Ποδήλατα στο Gazarte",
-      "simpleTitle": "25 χρόνια Κίτρινα Ποδήλατα στο Gazarte",
-      "simpleText": "*25 χρόνια Κίτρινα Ποδήλατα στο Gazarte*\n\nΧθες, 11 Δεκεμβρίου 2025, η αγαπημένη ελληνική μπάντα \"Κίτρινα Ποδήλατα\" γιόρτασε τα 25 χρόνια της με ένα ζωντανό πάρτι στη μουσική σκηνή του Gazarte στην Αθήνα. Η ατμόσφαιρα ήταν γεμάτη μελωδίες και ζωντάνια, και οι θαυμαστές απόλαυσαν μια βραδιά γεμάτη χαρά και μουσική ενέργεια. Είναι ένα γεγονός γεμάτο ζωή και διασκέδαση για όλους τους φίλους της μουσικής.\n\nΠηγές: eventshub.cy, athens-technopolis.gr",
-      "sourceName": "https://www.eventshub.cy/events/2025-12-13/",
-      "sourceUrl": "https://www.eventshub.cy/events/2025-12-13/",
+      "id": "a052c20a-4ad0-4615-b985-9870877fe3b7",
+      "title": "Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ",
+      "simpleTitle": "Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ",
+      "simpleText": "*Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ*\n\nΣήμερα, Σάββατο 13 Δεκεμβρίου 2025, η πόλη φωτίζεται από μια σπουδαία στιγμή. Ο θρυλικός ροκ τραγουδιστής Sir Rod Stewart δίνει την πρώτη του εμφάνιση στην Ελλάδα. Η συναυλία γίνεται στο μεγάλο Κλειστό Γήπεδο Μπάσκετ του ΟΑΚΑ και υπόσχεται μια ζεστή μουσική εμπειρία για όλους. (soundarts.gr)\n\nΗ βραδιά είναι μια γιορτή: ο Sir Rod Stewart έρχεται για να μας συγκινήσει με τις επιτυχίες του και τη μοναδική του φωνή. Είναι μια ευκαιρία για τους λάτρεις της ροκ μουσικής να ζήσουν μια αξέχαστη στιγμή. (soundarts.gr)\n\nΑν ψάχνεις για τέτοιες χαρούμενες ειδήσεις, αυτή είναι μια υπέροχη. Μια μεγάλη συναυλία που γίνεται σήμερα, στο επίκεντρο της πολιτιστικής ζωής της Αθήνας.\n\nΠηγές: soundarts.gr, digitalculture.gov.gr",
+      "sourceName": "https://www.soundarts.gr/events/",
+      "sourceUrl": "https://www.soundarts.gr/events/",
       "sources": [
         {
-          "title": "https://www.eventshub.cy/events/2025-12-13/",
-          "url": "https://www.eventshub.cy/events/2025-12-13/",
+          "title": "https://www.soundarts.gr/events/",
+          "url": "https://www.soundarts.gr/events/",
           "snippet": "",
-          "host": "eventshub.cy"
+          "host": "soundarts.gr"
         },
         {
-          "title": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis/day/2025-12-11",
-          "url": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis/day/2025-12-11",
+          "title": "https://digitalculture.gov.gr/2025/07/oli-i-ellada-enas-politismos-2025-programma-ekdiloseon-7-13-iouliou-2025/",
+          "url": "https://digitalculture.gov.gr/2025/07/oli-i-ellada-enas-politismos-2025-programma-ekdiloseon-7-13-iouliou-2025/",
+          "snippet": "",
+          "host": "digitalculture.gov.gr"
+        }
+      ],
+      "sourceDomains": [
+        "soundarts.gr",
+        "digitalculture.gov.gr"
+      ],
+      "category": "culture",
+      "categoryReason": "web_search_fallback",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gae2e1d28270851c68bec1528b4c4e9379438bc3bc3c2cd148cbde80358f3f0ed65a0f35673df647fc0e868217d85e36384312aed88f202058b788f20801d2e39_640.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-13T00:00:00.000Z"
+    },
+    {
+      "id": "44dfd9dd-15ef-4ade-8345-3b5b97ed93db",
+      "title": "Τα γενέθλια των Μέντα στη σκηνή",
+      "simpleTitle": "Τα γενέθλια των Μέντα στη σκηνή",
+      "simpleText": "*Τα γενέθλια των Μέντα στη σκηνή*\n\nΧθες, Παρασκευή 12 Δεκεμβρίου 2025, γιορτάστηκε μια ξεχωριστή στιγμή με πολύ μουσική χαρά. Το αγαπημένο συγκρότημα Μέντα έκλεισε 25 χρόνια και το γιόρτασε με ένα λαμπερό live πάρτι στο Underathens, με τη συμμετοχή του opening act Tony Bluebird (soundarts.gr).\n\nΉταν μια βραδιά ζωντανή και ζεστή. Ο κόσμος χόρεψε, τραγούδησε και πέρασε όμορφα. Η ατμόσφαιρα ήταν γεμάτη ενέργεια και γιορτινή διάθεση.\n\nΑν θέλεις, μπορούμε να δούμε μαζί τι άλλο θα γίνει αύριο ή προσεχώς.\n\nΠηγή: athens-technopolis.gr",
+      "sourceName": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+      "sourceUrl": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+      "sources": [
+        {
+          "title": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+          "url": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+          "snippet": "",
+          "host": "athens-technopolis.gr"
+        },
+        {
+          "title": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-06-13/1298",
+          "url": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-06-13/1298",
           "snippet": "",
           "host": "athens-technopolis.gr"
         }
       ],
       "sourceDomains": [
-        "eventshub.cy",
         "athens-technopolis.gr"
       ],
       "category": "fun",
       "categoryReason": "web_search_fallback",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gbdb45f720d697f3c2f75602038a1628854b13cd8d0a8709af2459da45f0c8a7095806219b70fe85250d2bed58604fa1af01aaa2b1441bd2e847d6492e0f9f2de_640.jpg",
+      "imageUrl": "https://pixabay.com/get/gf67b567f196eaed611421bb00ad6aa1c1a5a04987ce76f0ea584cf5a72b2dcce50a799a8adda925ade4118b4dd64211ab8de2c73794e55b6dc3652d71108eb82_640.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-12T00:00:00.000Z"
+      "publishedAt": "2025-12-13T00:00:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "13574fb08ef7",
-        "title": "Νέες φωτογραφίες «φωτιά» από την έπαυλη Έπσταϊν – «Καίνε» Τραμπ, Γκέιτς και Άντριου",
-        "simpleTitle": "Νέες φωτογραφίες «φωτιά» από την έπαυλη Έπσταϊν – «Καίνε» Τραμπ, Γκέιτς και Άντριου",
-        "simpleText": "**Φωτογραφίες από την έπαυλη του Έπσταϊν προκαλούν αντιδράσεις**\n\nΝέες φωτογραφίες βγήκαν στη δημοσιότητα από την έπαυλη του Τζέφρι Έπσταϊν. Αυτές οι εικόνες ελήφθησαν από μέλη της Επιτροπής Εποπτείας της Βουλής στις ΗΠΑ και απεικονίζουν διασημότητες όπως τον Ντόναλντ Τραμπ, τον Μπιλ Γκέιτς και τον πρώην πρίγκιπα Άντριου.\n\nΟι φωτογραφίες δεν αποτελούν αποδεικτικά στοιχεία για κάποια παρανομία. Οι άνθρωποι που εμφανίζονται σε αυτές έχουν αρνηθεί οποιαδήποτε σχέση με τις υποθέσεις του Έπσταϊν. Ο Τραμπ είχε σχέση με τον Έπσταϊν στο παρελθόν, αλλά ισχυρίζεται ότι η σχέση τους είχε σταματήσει χρόνια πριν.\n\nΗ Επιτροπή συνεχίζει να αναλύει χιλιάδες φωτογραφίες από την περιουσία του Έπσταϊν και σκοπεύει να δημοσιεύσει και άλλα στοιχεία μελλοντικά.\n\nΠηγές: tanea.gr, newsbomb.gr",
-        "sourceName": "TA NEA, Newsbomb.gr",
-        "sourceUrl": "https://www.tanea.gr/2025/12/12/world/nees-fotografies-fotia-apo-tin-epayli-epstain-kaine-tramp-gkeits-kai-antrioy/",
-        "sourceDomains": [
-          "tanea.gr",
-          "newsbomb.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/12/world/nees-fotografies-fotia-apo-tin-epayli-epstain-kaine-tramp-gkeits-kai-antrioy/"
-          },
-          {
-            "title": "Newsbomb.gr",
-            "url": "https://www.newsbomb.gr/kosmos/story/1700797/nees-fotografies-apo-to-nisi-tou-epstain-apo-ton-tramp-kai-ton-klinton-eos-ton-geits"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την δημοσιοποίηση φωτογραφιών από την έπαυλη του Τζέφρι Έπσταϊν, που σχετίζονται με πολιτικές προσωπικότητες και αναφέρεται σε σοβαρές υποθέσεις παρανομίας.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gad51fc6ed5eeca7be17dae7057ca3686c391a57b63c2a8a1201667a7a1f06de74639becc7755e9fe717c5a61e3dadfdb9a6fc892cdc25dd34e1a34cde9d80f81_640.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-12T15:35:28.000Z"
-      },
-      {
-        "id": "a22ea4a6ac13",
-        "title": "Το ΠΑΣΟΚ αναστέλλει την κομματική ιδιότητα του Γ. Λαμπράκη",
-        "simpleTitle": "Το ΠΑΣΟΚ αναστέλλει την κομματική ιδιότητα του Γ. Λαμπράκη",
-        "simpleText": "**Αναστολή κομματικής ιδιότητας για τον Γιώργο Λαμπράκη από το ΠΑΣΟΚ**\n\nΤο ΠΑΣΟΚ αποφάσισε να αναστείλει την ιδιότητα του κομματικού μέλους του Γιώργου Λαμπράκη. Ο Λαμπράκης, που είναι λογιστής και γνωστός στον αγροτικό κόσμο της Κρήτης, εμπλέκεται σε υπόθεση με παράνομες επιδοτήσεις. Μαζί με άλλους 14 συλληφθέντες, κατηγορείται για σκάνδαλο με επιδοτήσεις στο ΟΠΕΚΕΠΕ, με συνολικό όφελος περίπου 1,7 εκατομμύρια ευρώ.\n\nΤο αίτημα για την αναστολή προήλθε από τον Ανδρέα Σπυρόπουλο, Γραμματέα του ΠΑΣΟΚ, μετά τη σύλληψη του Λαμπράκη από τις αρχές. Η υπόθεση έχει προκαλέσει αναταραχή, λόγω και της σχέσης του Λαμπράκη με τον Νίκο Ανδρουλάκη, πρόεδρο του κόμματος.\n\nΠηγές: ertnews.gr, newsbomb.gr, protagon.gr",
-        "sourceName": "ERT News, Newsbomb.gr, Protagon",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/to-pasok-anastellei-tin-kommatiki-idiotita-tou-g-lampraki/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "newsbomb.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/to-pasok-anastellei-tin-kommatiki-idiotita-tou-g-lampraki/"
-          },
-          {
-            "title": "Newsbomb.gr",
-            "url": "https://www.newsbomb.gr/politikh/story/1700792/opekepe-to-pasok-anastellei-tin-kommatiki-idiotita-tou-koumparou-androulaki"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/pasok-anastelletai-i-kommatiki-idiotita-tou-giwrgou-labraki-44343274769"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σε σοβαρές κατηγορίες για παράνομες επιδοτήσεις και αναστολή κομματικής ιδιότητας, θέματα που σχετίζονται με την πολιτική και την οικονομία.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gd444c88977d5dc2d9d4916c16e437628fc0f7dad17b8cce2bf80c9bfcb7273a93a2817929fd8e087c5a0e1f08d56031e8fd357d643a0347773da3a3262ecbe68_640.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-12T15:32:31.000Z"
-      },
-      {
-        "id": "d6a5cbdb5279",
-        "title": "Διαγράφεται ο Γιώργος Λαμπράκης από το ΠΑΣΟΚ",
-        "simpleTitle": "Διαγράφεται ο Γιώργος Λαμπράκης από το ΠΑΣΟΚ",
-        "simpleText": "**Ο Γιώργος Λαμπράκης διαγράφηκε από το ΠΑΣΟΚ λόγω παράνομων επιδοτήσεων**\n\nΟ Γιώργος Λαμπράκης, γνωστός λογιστής από την Κρήτη, διαγράφηκε από το ΠΑΣΟΚ. Ο λόγος ήταν η εμπλοκή του σε κύκλωμα παράνομων επιδοτήσεων. Ο Ανδρέας Σπυρόπουλος από το ΠΑΣΟΚ ζήτησε την αναστολή της κομματικής του ιδιότητας μετά την σύλληψή του.\n\nΟ Λαμπράκης συνελήφθη ως ένα από τα 15 άτομα που ερευνώνται για παράνομες επιδοτήσεις. Το κύκλωμα κατηγορείται ότι λάμβανε χρήματα μέσω ψεύτικων δηλώσεων, εξαπατώντας τους αρμόδιους φορείς. Ο Λαμπράκης είχε στενή σχέση με τον Νίκο Ανδρουλάκη, αφού ο Ανδρουλάκης είχε παντρέψει τον Λαμπράκη.\n\nΠηγές: tanea.gr, tovima.gr",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/12/politics/pros-diagrafi-apo-to-pasok-o-giorgos-lamprakis/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/12/politics/pros-diagrafi-apo-to-pasok-o-giorgos-lamprakis/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/12/politics/pasok-diegrafi-o-giorgos-lamprakis/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σε σοβαρές νομικές και πολιτικές εξελίξεις σχετικές με παράνομες επιδοτήσεις και την διαγραφή ενός μέλους από πολιτικό κόμμα.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g7a43f874166d83172f80bc3489a83730cc2d37a66104f88646c8ebe95c65424f557df135b90059ebd126dee3fc504d04c7c75c99a936dd7b1824fbcf0672ba62_640.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-12T15:17:35.000Z"
-      },
-      {
-        "id": "5fe8e5fe5836",
-        "title": "Η ΔΑΣ για πρώτη φορά στα 100 χρόνια ιστορίας της ΑΔΕΔΥ ανακηρύχθηκε πρώτη δύναμη! (VIDEO)",
-        "simpleTitle": "Η ΔΑΣ για πρώτη φορά στα 100 χρόνια ιστορίας της ΑΔΕΔΥ ανακηρύχθηκε πρώτη δύναμη! (VIDEO)",
-        "simpleText": "**Η ΔΑΣ για πρώτη φορά πρώτη δύναμη στην ΑΔΕΔΥ**\n\nΣτο 39ο Συνέδριο της ΑΔΕΔΥ, η ΔΑΣ κατάφερε να γίνει πρώτη δύναμη, κάτι που συμβαίνει για πρώτη φορά στα 100 χρόνια της ΑΔΕΔΥ. Η ΔΑΣ πήρε 168 ψήφους και 22 έδρες, ξεπερνώντας την προηγούμενη πρώτη παράταξη, την κυβερνητική ΔΑΚΕ. Στις προηγούμενες εκλογές είχε λιγότερους ψήφους και έδρες.\n\nΑυτό το αποτέλεσμα είναι σημαντικό γιατί οι περισσότεροι εργαζόμενοι στο Δημόσιο ψήφισαν. Υπήρχε μεγάλος ενθουσιασμός από τους υποστηρικτές της ΔΑΣ, που πιστεύουν ότι τώρα η ΑΔΕΔΥ μπορεί να αλλάξει πορεία, δουλεύοντας πιο κοντά στις ανάγκες των εργαζομένων.\n\nΗ επιτυχία της ΔΑΣ μπορεί να επηρεάσει θετικά το συνδικαλιστικό κίνημα, κάνοντας την ΑΔΕΔΥ πιο δυνατή και κοντά στους εργαζομένους, προωθώντας τα δικαιώματά τους.\n\nΠηγές: 902.gr, newsbomb.gr",
-        "sourceName": "902.gr – Επιλεγμένα, Newsbomb.gr",
-        "sourceUrl": "https://www.902.gr/eidisi/ergazomenoi-symmahia/409608/i-das-gia-proti-fora-sta-100-hronia-istorias-tis-adedy",
-        "sourceDomains": [
-          "902.gr",
-          "newsbomb.gr"
-        ],
-        "sources": [
-          {
-            "title": "902.gr – Επιλεγμένα",
-            "url": "https://www.902.gr/eidisi/ergazomenoi-symmahia/409608/i-das-gia-proti-fora-sta-100-hronia-istorias-tis-adedy"
-          },
-          {
-            "title": "Newsbomb.gr",
-            "url": "https://www.newsbomb.gr/ellada/story/1700789/adedy-i-das-tou-pame-kke-proti-dynami-stis-ekloges"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την πολιτική αλλαγή στην ηγεσία της ΑΔΕΔΥ και τις επιπτώσεις της στο συνδικαλιστικό κίνημα, επηρεάζοντας τα δικαιώματα των εργαζομένων στο Δημόσιο.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gba3f0701d5e88d4ecf5579697e3af7e8d0450b87f31c666073015a7ea6140744e8fe41673a7ec6275886b01cbd2001eed4bf782467e25ce28205b82ce545b75b_640.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-12T15:15:53.000Z"
-      },
-      {
-        "id": "f835ca99954e",
-        "title": "ΕΦΕΤ: Ανάκληση του προϊόντος “Oreo Cheesecakes”",
-        "simpleTitle": "ΕΦΕΤ: Ανάκληση του προϊόντος “Oreo Cheesecakes”",
-        "simpleText": "**Ανάκληση Oreo Cheesecakes από τον ΕΦΕΤ**\n\nΟ Ενιαίος Φορέας Ελέγχου Τροφίμων (ΕΦΕΤ) αποφάσισε να αποσύρει από την αγορά το προϊόν \"Oreo Cheesecakes\". Η απόφαση αφορά τις συσκευασίες των 2x80 γραμμαρίων, που είναι κατεψυγμένες. Βρέθηκε ότι δεν αναγραφόταν στην ελληνική γλώσσα ότι το προϊόν μπορεί να περιέχει ίχνη από ξηρούς καρπούς με κέλυφος, κάτι που ήταν γραμμένο μόνο στα αγγλικά.\n\nΑυτό είναι σημαντικό για την ασφάλεια των καταναλωτών, ειδικά για όσους είναι αλλεργικοί στους ξηρούς καρπούς. Ο ΕΦΕΤ ζήτησε απόσυρση όλων των προβληματικών παρτίδων και οι έλεγχοι είναι σε εξέλιξη. Όσοι έχουν ήδη αγοράσει το προϊόν και έχουν αλλεργία δεν πρέπει να το καταναλώσουν.\n\nΠηγές: ertnews.gr, tanea.gr",
+        "id": "43998c5c09c4",
+        "title": "Μαρία Κορίνα Ματσάδο: Ο Νικολάς Μαδούρο να καταλάβει ότι πρέπει να φύγει",
+        "simpleTitle": "Μαρία Κορίνα Ματσάδο: Ο Νικολάς Μαδούρο να καταλάβει ότι πρέπει να φύγει",
+        "simpleText": "**Μαρία Κορίνα Ματσάδο: Ο Μαδούρο πρέπει να φύγει**\n\nΗ Μαρία Κορίνα Ματσάδο, ηγέτιδα της αντιπολίτευσης στη Βενεζουέλα, ζήτησε από τον πρόεδρο Νικολάς Μαδούρο να εγκαταλείψει την εξουσία. Η Ματσάδο, που βραβεύτηκε με Νόμπελ Ειρήνης, μίλησε από τη Νορβηγία, υποστηρίζοντας την πίεση που ασκείται στον Μαδούρο για να αποχωρήσει.\n\nΣτη συνέντευξη της, που δημοσιεύτηκε από το CBS, υπογράμμισε ότι ο λαός της Βενεζουέλας έχει ήδη ζητήσει αλλαγή μέσω εκλογών κι ότι ο Μαδούρο δεν έχει πια τη στήριξή του. Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, φέρεται να απειλεί τη Βενεζουέλα με στρατιωτική επέμβαση.\n\nΗ Ματσάδο διέφυγε από τη Βενεζουέλα για να παραβρεθεί στην τελετή απονομής του Νόμπελ, όμως δυσκολίες στο ταξίδι της την καθυστέρησαν. Παρά τις ανησυχίες της οικογένειάς της, σκοπεύει να επιστρέψει στη χώρα το συντομότερο δυνατό.\n\nΠηγές: ertnews.gr, tanea.gr",
         "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/efet-anaklisi-tou-proiontos-oreo-cheesecakes/",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/maria-korina-matsado-o-nikolas-madouro-na-katalavei-oti-prepei-na-fygei/",
         "sourceDomains": [
           "ertnews.gr",
           "tanea.gr"
@@ -837,47 +664,164 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/efet-anaklisi-tou-proiontos-oreo-cheesecakes/"
+            "url": "https://www.ertnews.gr/eidiseis/diethni/maria-korina-matsado-o-nikolas-madouro-na-katalavei-oti-prepei-na-fygei/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/12/greece/synagermos-apo-ton-efet-anakaloyntai-oreo-cheesecakes/"
+            "url": "https://www.tanea.gr/2025/12/13/world/maria-korina-matsado-o-madoyro-na-katalavei-oti-prepei-na-fygei/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την ασφάλεια τροφίμων και την ανάκληση ενός προϊόντος λόγω έλλειψης σημαντικής προειδοποίησης για αλλεργίες, επηρεάζοντας την υγεία των καταναλωτών.",
+        "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση στη Βενεζουέλα και τις πιέσεις για την απομάκρυνση του προεδρα Νικολάς Μαδούρο, γεγονός που συνδέεται με σοβαρά κοινωνικά και πολιτικά ζητήματα.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gfcc43a5be662dbd9271af81d61b62419391e997e29fdcc6e858cfa4f4961d01ce5df42391cf11971d1886a0ececa37b836744605e5cba55baab7cefd191c07b6_640.jpg",
+        "imageUrl": "https://pixabay.com/get/gc394204e7cd2e1ce9d8c594609a4c83377ae3821974b6d70cce96ffec3c3895ceaaf0501efb3b2cd629ddc1bba69e4d14c263a18f9849e07a0a4375125dbc545_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T15:00:57.000Z"
+        "publishedAt": "2025-12-13T06:43:13.000Z"
       },
       {
-        "id": "f9cf315714e2",
-        "title": "ΕΦΕΤ: Ανακαλεί το προϊόν «Oreo Cheesecakes»",
-        "simpleTitle": "ΕΦΕΤ: Ανακαλεί το προϊόν «Oreo Cheesecakes»",
-        "simpleText": "**Ο ΕΦΕΤ ανακαλεί τα Oreo Cheesecakes λόγω αλλεργιών**\n\nΟ ΕΦΕΤ ανακοίνωσε ότι ανακαλεί το προϊόν «Oreo Cheesecakes». Η απόφαση πάρθηκε γιατί το προϊόν περιέχει καρπούς με κέλυφος. Αυτό μπορεί να είναι επικίνδυνο για τους ανθρώπους που έχουν αλλεργία.\n\nΟι καταναλωτές που έχουν αλλεργία στους καρπούς με κέλυφος καλούνται να μην φάνε το προϊόν. Αν το έχουν αγοράσει, πρέπει να το επιστρέψουν. Αυτό είναι σημαντικό για να προστατευτούν από πιθανές αλλεργικές αντιδράσεις.\n\nΠηγές: tovima.gr, newsbomb.gr",
-        "sourceName": "TO BHMA, Newsbomb.gr",
-        "sourceUrl": "https://www.tovima.gr/2025/12/12/society/efet-anakalei-to-proion-oreo-cheesecakes/",
+        "id": "e9705139ecf8",
+        "title": "Στο Βερολίνο ο Γουίτκοφ το Σαββατοκύριακο για συνομιλίες με Ζελένσκι και Ευρωπαίους",
+        "simpleTitle": "Στο Βερολίνο ο Γουίτκοφ το Σαββατοκύριακο για συνομιλίες με Ζελένσκι και Ευρωπαίους",
+        "simpleText": "**Σημαντικές συνομιλίες στο Βερολίνο για την Ουκρανία**\n\nΟ ειδικός απεσταλμένος των ΗΠΑ, Στιβ Γουίτκοφ, θα πάει στο Βερολίνο για συνομιλίες αυτό το Σαββατοκύριακο. Θα συναντηθεί με τον Ουκρανό πρόεδρο Βολοντίμιρ Ζελένσκι και Ευρωπαίους ηγέτες για να συζητήσουν για την ειρήνη στην Ουκρανία.\n\nΗ συνάντηση γίνεται για να συζητήσουν πώς θα τελειώσει ο πόλεμος στην Ουκρανία, που άρχισε πριν από σχεδόν τέσσερα χρόνια. Ο Γάλλος πρόεδρος, ο Βρετανός πρωθυπουργός και ο Γερμανός καγκελάριος θα είναι επίσης εκεί.\n\nΗ απόφαση του Αμερικανού προέδρου να στείλει τον Γουίτκοφ δείχνει ότι οι ΗΠΑ θέλουν να βοηθήσουν να επιλυθούν οι διαφορές μεταξύ Ουκρανίας και Ρωσίας. Ο καγκελάριος της Γερμανίας είχε καλέσει τις ΗΠΑ να συμμετάσχουν στις συνομιλίες, ελπίζοντας να γίνει πρόοδος στους ειρηνευτικούς όρους.\n\nΠηγές: ertnews.gr, tanea.gr",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/sto-verolino-o-gouitkof-to-savvatokyriako-gia-synomilies-me-zelenski-kai-eyropaious/",
         "sourceDomains": [
-          "tovima.gr",
-          "newsbomb.gr"
+          "ertnews.gr",
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/12/society/efet-anakalei-to-proion-oreo-cheesecakes/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/sto-verolino-o-gouitkof-to-savvatokyriako-gia-synomilies-me-zelenski-kai-eyropaious/"
           },
           {
-            "title": "Newsbomb.gr",
-            "url": "https://www.newsbomb.gr/ellada/story/1700787/o-efet-anakalei-ta-oreo-cheesecakes"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/13/world/ipa-o-stiv-goyitkof-tha-taksidepsei-sto-verolino-gia-synomilies-me-ton-volontimir-zelenski/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την ανακάλυψη επικίνδυνων συστατικών σε προϊόντα τροφίμων και την πιθανή απειλή για την υγεία των καταναλωτών.",
+        "categoryReason": "Η είδηση αφορά σε σημαντικές διπλωματικές συνομιλίες για τον τερματισμό του πολέμου στην Ουκρανία, συνδέεται με πολιτικά ζητήματα και διεθνείς σχέσεις.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g2221f3a4f5c53e817a86b34a5e8eca1a911e00ae1d0220dc8bd88961f3d1792ca793e5ef57404c0e766ad03bdf707f301af26ff77dbe3a1b4283f96890e07fe2_640.jpg",
+        "imageUrl": "https://pixabay.com/get/g6e3866fda6011e657ad93a43ff3e1276eba2d06f0daa16bc04e1cef6fecd167d29f8a51c3b8711481a2fb7f8abd0d19ab71c59220c973053d03d034dfdf67f04_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T14:55:28.000Z"
+        "publishedAt": "2025-12-13T06:27:07.000Z"
+      },
+      {
+        "id": "b467226806a8",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 13 Δεκεμβρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 13 Δεκεμβρίου",
+        "simpleText": "**Σήμερα γιορτάζουν: Εορτολόγιο 13 Δεκεμβρίου**\n\nΣήμερα, 13 Δεκεμβρίου, η εκκλησία τιμά τους Αγίους Ευστράτιο, Αυξέντιο, Ευγένιο, Μαρδάριο και Ορέστη, καθώς και την Αγία Λουκία. Αυτοί οι άγιοι μαρτύρησαν για την πίστη τους κατά την εποχή του αυτοκράτορα Διοκλητιανού.\n\nΤα ονόματα που γιορτάζουν σήμερα περιλαμβάνουν Άρης, Ευστράτιος, Αυξέντιος, Ευγένιος, Μαρδάριος, Ορέστης, Ιουβενάλιος και Λουκία. Αυτά τα ονόματα συνδέονται με την ιστορία και τη θρησκευτική παράδοση.\n\nΟι Άγιοι υπέφεραν διάφορα βασανιστήρια γιατί δεν δέχτηκαν να αλλάξουν την πίστη τους. Τα γεγονότα αυτά δείχνουν τη δύναμη της πίστης τους και είναι σημαντικά για την εκκλησία.\n\nΗ Αγία Λουκία, γνωστή από τη Σικελία, επίσης μαρτύρησε για την πίστη της, ενώ αφοσιώθηκε στο να βοηθά τους φτωχούς πράγμα που την οδήγησε στο τέλος της ζωής της με μαρτυρικό τρόπο.\n\nΠηγές: ertnews.gr, tanea.gr",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-13-dekemvriou-2/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-13-dekemvriou-2/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/13/greece/eortologio-poioi-giortazoun-simera-13-dekemvriou/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε θρησκευτική μνήμη και μαρτυρικό θάνατο Αγίων, που σχετίζεται με σημαντικά κοινωνικά και θρησκευτικά θέματα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g58afe9b3b79134e281866bd9dda3776b57aa292a5c48a914fd465f35daa76c67906b46fbc79df9474d204038001b19342162260e5a371ff4503234c426262680_640.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-13T06:06:48.000Z"
+      },
+      {
+        "id": "b0c01cc0b8eb",
+        "title": "Το Ιράν κατάσχεσε ένα πετρελαιοφόρο δεξαμενόπλοιο στον κόλπο του Ομάν",
+        "simpleTitle": "Το Ιράν κατάσχεσε ένα πετρελαιοφόρο δεξαμενόπλοιο στον κόλπο του Ομάν",
+        "simpleText": "**Το Ιράν κατάσχεσε πετρελαιοφόρο στον Κόλπο του Ομάν**\n\nΤο Ιράν πήρε τον έλεγχο ενός πετρελαιοφόρου στον Κόλπο του Ομάν. Αυτό το πλοίο είχε μέσα έξι εκατομμύρια λίτρα ντίζελ. Οι ναυτικοί στο πλοίο ήταν από την Ινδία, τη Σρι Λάνκα και το Μπανγκλαντές.\n\nΤο πλοίο δεν χρησιμοποιούσε τα συστήματα αναγνώρισης, κάτι που θεωρείται ύποπτο. Η κίνηση αυτή έγινε λίγο μετά που οι ΗΠΑ κατέλαβαν ένα άλλο πλοίο στην Καραϊβική, το οποίο σχετιζόταν με το Ιράν και τη Βενεζουέλα.\n\nΤο γεγονός αυτό προκαλεί ανησυχίες για ένταση μεταξύ Ιράν και ΗΠΑ.\n\nΠηγές: ertnews.gr, tovima.gr",
+        "sourceName": "ERT News, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/to-iran-katasxese-ena-petrelaioforo-deksamenoploio-ston-kolpo-tou-oman/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/to-iran-katasxese-ena-petrelaioforo-deksamenoploio-ston-kolpo-tou-oman/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/12/world/iran-katasxese-tanker-ston-kolpo-tou-oman-antipoina-se-ipa/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές διεθνείς σχέσεις και γεωπολιτικές εντάσεις, συγκεκριμένα την κατάσχεση ενός πετρελαιοφόρου από το Ιράν, γεγονός που συνδέεται με την πολιτική κατάσταση και τις κυρώσεις των ΗΠΑ.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gd9aa5a2d1cf83399989ba21cf584765f8dc5d9426207dd425540539be3f0156220b22eb94fd3989e7c1beced2da53b31028fde5c0c4e31be8f2aa279a43e203b_640.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-13T05:21:00.000Z"
+      },
+      {
+        "id": "685b466ee4de",
+        "title": "Η απάντηση της Μόσχας στο επ’ αόριστον πάγωμα των ρωσικών περιουσιακών στοιχείων από την Ε.Ε.",
+        "simpleTitle": "Η απάντηση της Μόσχας στο επ’ αόριστον πάγωμα των ρωσικών περιουσιακών στοιχείων από την Ε.Ε.",
+        "simpleText": "**Η Μόσχα αντιδρά στο πάγωμα ρωσικών περιουσιακών στοιχείων από την Ε.Ε.**\n\nΗ Ευρωπαϊκή Ένωση αποφάσισε να παγώσει επ' αόριστον ρωσικά περιουσιακά στοιχεία αξίας 210 δισεκατομμυρίων ευρώ. Τα κεφάλαια αυτά βρίσκονται κυρίως στη βελγική τράπεζα Euroclear. Η Ε.Ε. σχεδιάζει να χρησιμοποιήσει αυτά τα κεφάλαια για δάνειο προς την Ουκρανία, το οποίο θα βοηθήσει στη στήριξη της οικονομίας και του στρατού της.\n\nΗ Ρωσία αντιδρά έντονα. Η ρωσική κυβέρνηση ανακοίνωσε ότι θα προσφύγει στη δικαιοσύνη εναντίον της Euroclear στο δικαστήριο της Μόσχας. Η Ρωσία χαρακτηρίζει αυτή την ενέργεια ως \"κλοπή κρατικών περιουσιακών στοιχείων\". Ο Ρώσος πρόεδρος, Βλαντιμίρ Πούτιν, έχει επίσης εκφράσει την αγανάκτησή του για τη συγκεκριμένη απόφαση.\n\nΗ απόφαση της Ε.Ε. έχει φέρει και εσωτερικές αντιδράσεις ανάμεσα στα μέλη της. Ορισμένες χώρες, όπως το Βέλγιο, η Ιταλία, η Ουγγαρία και άλλες, εκφράζουν επιφυλάξεις. Η συζήτηση για αυτό το θέμα αναμένεται να συνεχιστεί στην επόμενη σύνοδο κορυφής της Ε.Ε.\n\nΑυτή η απόφαση έχει οδηγήσει σε περαιτέρω επιδείνωση των σχέσεων μεταξύ της Ευρώπης και της Ρωσίας και έχει αυξήσει τις εντάσεις στην περιοχή.\n\nΠηγές: ertnews.gr, 902.gr, protagon.gr",
+        "sourceName": "ERT News, 902.gr – Επιλεγμένα, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/i-apantisi-tis-mosxas-sto-ep-aoriston-pagoma-ton-rosikon-periousiakon-stoixeion-apo-tin-e-e/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "902.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/i-apantisi-tis-mosxas-sto-ep-aoriston-pagoma-ton-rosikon-periousiakon-stoixeion-apo-tin-e-e/"
+          },
+          {
+            "title": "902.gr – Επιλεγμένα",
+            "url": "https://www.902.gr/eidisi/kosmos/409619/i-ee-apofasise-ep-aoriston-pagoma-ton-rosikon-perioysiakon-stoiheion"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/ep-aoriston-pagwma-twn-rwsikwn-periousiakwn-stoixeiwn-apo-tin-ee-44343274895"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και οικονομικές εξελίξεις που επηρεάζουν τις σχέσεις Ευρώπης-Ρωσίας και έχει αντίκτυπο στην οικονομία και στην ασφάλεια της περιοχής.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g0b44088f1d668dee7ea9a690dd40b86777fa65307464bb4db35616288e4d4305d028e0ee0dc8a8a3ef2368c664f0e0d90c1a37e955f6a85088428f3c087fda41_640.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-13T03:27:00.000Z"
+      },
+      {
+        "id": "1da174a8ea46",
+        "title": "Lloyd’s List: Μαρινάκης και Αγγελικούση στην κορυφή – 17 Έλληνες στο top 100 της παγκόσμιας ναυτιλίας",
+        "simpleTitle": "Lloyd’s List: Μαρινάκης και Αγγελικούση στην κορυφή – 17 Έλληνες στο top 100 της παγκόσμιας ναυτιλίας",
+        "simpleText": "**Μαρινάκης και Αγγελικούση στην κορυφή της παγκόσμιας ναυτιλίας**\n\nΟ Βαγγέλης Μαρινάκης και η Μαρία Αγγελικούση είναι δύο από τους πιο σημαντικούς Έλληνες εφοπλιστές, καθώς βρέθηκαν στις κορυφαίες θέσεις της λίστας Lloyd’s List για το 2025. Η λίστα περιλαμβάνει τις 100 πιο επιδραστικές προσωπικότητες στη ναυτιλία παγκοσμίως.\n\nΗ Μαρία Αγγελικούση ανέβηκε στην 8η θέση χάρη στις μεγάλες συμφωνίες του ομίλου της, ενώ ο Βαγγέλης Μαρινάκης βρέθηκε στη 10η θέση, σημειώνοντας σημαντική άνοδο.\n\nΣυνολικά, η Ελλάδα εκπροσωπείται από 17 προσωπικότητες στη λίστα αυτή, αποδεικνύοντας τη σημασία της ελληνικής ναυτιλίας στον κόσμο.\n\nΠηγές: tanea.gr, tovima.gr",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2025/12/13/economy/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/",
+        "sourceDomains": [
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/13/economy/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/13/naytilia/lloyds-list-marinakis-kai-aggelikousi-stin-koryfi-17-ellines-sto-top-100-tis-pagkosmias-naytilias/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την αναγνώριση σημαντικών προσώπων της ελληνικής ναυτιλίας, επηρεάζοντας την οικονομία και το διεθνές εμπόριο.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gbafdf3b35a40ad0d7fed8c74b7e3912e5369fbd3f6f22ebab1a4669ac71188ff68dd63bd97bc3b688e00a11ef74d3e08022da7de1c10ac367cb6f1f36b6ad5bb_640.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-12T22:15:29.000Z"
       }
     ],
     "happy": [
@@ -885,7 +829,7 @@
         "id": "e92812af0401",
         "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
         "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-        "simpleText": "**Πρώην Αστυνομικός Δημιουργεί Κινητό Πλυντήριο για Άστεγους**\n\nΟ Wade Milyard, πρώην αστυνομικός σκύλων στο Frederick του Μέριλαντ, αποφάσισε να βοηθήσει άστεγους ανθρώπους. Κατά τη διάρκεια μιας επίσκεψης σε καταυλισμό αστέγων, ένιωσε ότι έπρεπε να κάνει κάτι καλό. Έτσι δημιούργησε ένα κινητό πλυντήριο.\n\nΑυτό το πλυντήριο προσφέρει καθαρισμό ρούχων στους άστεγους, δίνοντάς τους λίγη ελπίδα και ανθρώπινη αξιοπρέπεια. Η κίνησή του έχει αγγίξει πολλές ζωές και δείχνει πώς μια απλή ιδέα μπορεί να φέρει μεγάλες αλλαγές.\n\nΠηγή: thehappynews.gr",
+        "simpleText": "**Πρώην αστυνομικός βοηθάει άστεγους με κινητό πλυντήριο**\n\nΟ Wade Milyard είναι πρώην αστυνομικός από το Μέριλαντ, ΗΠΑ. Κάποια στιγμή πήγε σε έναν καταυλισμό αστέγων για δουλειά. Εκεί ένιωσε την επιθυμία να βοηθήσει τους ανθρώπους που το είχαν ανάγκη.\n\nΑποφάσισε να δημιουργήσει ένα κινητό πλυντήριο για τους άστεγους. Έτσι μπορούν να πλένουν τα ρούχα τους και να ζουν με περισσότερη αξιοπρέπεια.\n\nΑυτή η κίνηση προσφέρει ελπίδα και διευκολύνει πολλούς ανθρώπους που δεν έχουν σπίτι. Ο Wade με την πράξη του δείχνει πόσο σημαντικό είναι να βοηθάμε ο ένας τον άλλον.\n\nΠηγή: thehappynews.gr",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
         "sourceDomains": [
@@ -898,178 +842,202 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά μια θετική πράξη καλοσύνης ενός πρώην αστυνομικού που δημιούργησε ένα κινητό πλυντήριο για να βοηθήσει άστεγους, προσφέροντάς τους ελπίδα και αξιοπρέπεια.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια θετική πράξη καλοσύνης που προσφέρει ελπίδα στους άστεγους.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gb514d403e51064f9ae7ac136b82c8faeae0f24640d409a0ffe70ef1097e8aec57a94bf8a70cb9cd68a910229bd976a7ef7e972eeabb4e41b269354de0c732abd_640.jpg",
+        "imageUrl": "https://pixabay.com/get/g0a9b50a3973c2e3d7b22a5ae8e250705a04ddbcfa532cc925ded7662c433b631393ca28e64bc155fb768ac787d74455abd75bd5ed182999ef467ee8ddef1c524_640.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-12T05:29:00.000Z"
       },
       {
-        "id": "167877ec-cfa7-499b-9ada-15d72c798b86",
-        "title": "Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη",
-        "simpleTitle": "Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη",
-        "simpleText": "*Η Ελλάδα αποκτά νέο πρωταγωνιστή στην Ευρώπη*\n\nΟ Έλληνας υπουργός Οικονομικών, Κυριάκος Πιερρακάκης, εξελέγη χτες (11 Δεκεμβρίου 2025) πρόεδρος του Eurogroup, του οργάνου που συντονίζει την οικονομική πολιτική της Ευρωζώνης.(reuters.com)\n\nΑυτή η εξέλιξη είναι χαρούμενη για τη χώρα. Σηματοδοτεί ότι η Ελλάδα έχει ανακάμψει οικονομικά και αποκαταστήσει την αξιοπιστία της στην Ευρώπη.(reuters.com)\n\nΦέρνει υπερηφάνεια. Ένας Έλληνας ηγείται τώρα στις αποφάσεις των 20 σημαντικότερων χωρών της Ευρωζώνης.(reuters.com)\n\nΑυτό το γεγονός είναι φωτεινό και αισιόδοξο. δείχνει ότι με δουλειά και προσπάθεια η Ελλάδα ανακτά τη θέση της.\n\nΠηγές: dedomeno.gr, reportaznet.gr",
-        "sourceName": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
-        "sourceUrl": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
+        "id": "e767340659db",
+        "title": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
+        "simpleTitle": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
+        "simpleText": "**Ο Δήμος Σουλίου δίνει επίδομα 1.000 ευρώ για κάθε παιδί**\n\nΟ Δήμος Σουλίου αποφάσισε να προσφέρει ένα επίδομα 1.000 ευρώ για κάθε παιδί που θα γεννηθεί μετά την 1η Ιανουαρίου 2026. Αυτή η απόφαση πάρθηκε από το Δημοτικό Συμβούλιο και συμφωνήθηκε ομόφωνα.\n\nΤο επίδομα απευθύνεται σε οικογένειες που είναι μόνιμοι κάτοικοι του Δήμου Σουλίου. Ο στόχος είναι να βοηθήσει τις οικογένειες και να ενθαρρύνει τη δημιουργία νέων, ειδικά σε μια εποχή που οι γεννήσεις μειώνονται.\n\nΑυτή η κίνηση θεωρείται σημαντική γιατί προσπαθεί να αντιμετωπίσει τα προβλήματα της μείωσης του πληθυσμού στην ελληνική επαρχία.\n\nΠηγή: thehappynews.gr",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
         "sources": [
           {
-            "title": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
-            "url": "https://www.dedomeno.gr/video/413453/kairos-kalimera-ellada-19-11-2025/",
-            "snippet": "",
-            "host": "dedomeno.gr"
-          },
-          {
-            "title": "https://www.reportaznet.gr/2025/12/",
-            "url": "https://www.reportaznet.gr/2025/12/",
-            "snippet": "",
-            "host": "reportaznet.gr"
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/"
           }
         ],
-        "sourceDomains": [
-          "dedomeno.gr",
-          "reportaznet.gr"
-        ],
         "category": "happy",
-        "categoryReason": "web_search_fallback",
+        "categoryReason": "Η είδηση αφορά σε μια θετική πρωτοβουλία του Δήμου Σουλίου που προσφέρει επίδομα για τη στήριξη οικογενειών και ενθάρρυνση γεννήσεων.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g7405adfa816a4a57fc103959028f294a60d816a461817ec4c723673eae97b527b558fdbfedfaf6e08c3d98ce8af628ab4a8e41d7aa535efc08eb68b6b65eabfd_640.jpg",
+        "imageUrl": "https://pixabay.com/get/g8629e36d27b72a583da79b87192fd8782fdb37a6a6446f1101418ec941ecd8194c772ef7ff72a107b9efc847cf334c8d85691f0d38ede4fa140ca32471bb1cc0_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T00:00:00.000Z"
+        "publishedAt": "2025-12-10T08:22:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "fbdd82ee-7f54-4ae6-959c-cf628c9a2791",
-        "title": "Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League",
-        "simpleTitle": "Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League",
-        "simpleText": "*Φιλική νίκη για την Μπάγερν Μονάχου στο Champions League*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, η Μπάγερν Μονάχου πέτυχε σημαντική νίκη στο Champions League. Επικράτησε με 3-1 κατά της Σπόρτινγκ Λισαβόνας, δείχνοντας δύναμη και πολύ καλή απόδοση (dedomeno.gr).\n\nΗ ομάδα από τη Γερμανία έδειξε αποφασιστική για το σκορ. Ομορφες φάσεις και καλά γκολ χάρισαν τη χαρά στους οπαδούς της. Το αποτέλεσμα αυτό τη φέρνει πιο κοντά στα νοκ άουτ της διοργάνωσης (dedomeno.gr).\n\nΗ Μπάγερν έπαιξε με χαμόγελο, αλλά και σοβαρότητα. Αυτό το παιχνίδι είναι ένα καλό νέο για τους φίλους της και γενικά για το ευρωπαϊκό ποδόσφαιρο σήμερα.\n\nΠηγές: theguardian.com, reuters.com",
-        "sourceName": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-        "sourceUrl": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
+        "id": "526ff656-2c5e-481a-8d91-c90d7047a5d0",
+        "title": "Αθλητική νίκη της χθεσινής ημέρας",
+        "simpleTitle": "Αθλητική νίκη της χθεσινής ημέρας",
+        "simpleText": "*Αθλητική νίκη της χθεσινής ημέρας*\n\nΧθες, Παρασκευή 12 Δεκεμβρίου 2025, η γυναικεία ομάδα μπάσκετ του Αθηναϊκού πέτυχε σημαντική νίκη στο EuroCup Women. Έκαναν ένα δυνατό παιχνίδι εκτός έδρας και κέρδισαν με σκορ 80–75. Η νίκη αυτή έχει μεγάλη σημασία, γιατί δείχνει πόσο δυνατές είναι πλέον οι ελληνικές ομάδες στις ευρωπαϊκές διοργανώσεις.\n\nΠηγές: m.riverbender.com, amna.gr",
+        "sourceName": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
+        "sourceUrl": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
         "sources": [
           {
-            "title": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
-            "url": "https://www.theguardian.com/football/live/2025/nov/15/greece-v-scotland-world-cup-2026-qualifier-live",
+            "title": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
+            "url": "https://m.riverbender.com/news/details/play-it-again-sports-scoreboard--thursday-dec-11-2025-89028.cfm",
             "snippet": "",
-            "host": "theguardian.com"
+            "host": "m.riverbender.com"
           },
-          {
-            "title": "https://www.reuters.com/sports/soccer/scotland-lose-greece-handed-lifeline-by-danes-draw-with-belarus-2025-11-15/",
-            "url": "https://www.reuters.com/sports/soccer/scotland-lose-greece-handed-lifeline-by-danes-draw-with-belarus-2025-11-15/",
-            "snippet": "",
-            "host": "reuters.com"
-          }
-        ],
-        "sourceDomains": [
-          "theguardian.com",
-          "reuters.com"
-        ],
-        "category": "sports",
-        "categoryReason": "web_search_fallback",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gfa289ac07f0affd0426d013321b253795ee859335f3f4c1ca2dad0999136ea9de45a1f7e46da5c71a160c7a1b034a69b_640.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-12T00:00:00.000Z"
-      },
-      {
-        "id": "56f09d40-73ca-4fa7-84cf-4ed00660c436",
-        "title": "Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη",
-        "simpleTitle": "Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη",
-        "simpleText": "*Η ΑΕΚ έκανε σπουδαία ανατροπή στη Σαμσούντα και πήρε μεγάλη νίκη στην Ευρώπη*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, η ΑΕΚ πέτυχε μία πολύ σημαντική νίκη στο Conference League. Παρά το δύσκολο ξεκίνημα, γύρισε το παιχνίδι στη Σαμσούντα και κέρδισε τον αγώνα. Η νίκη αυτή δίνει χαρά στους φίλους της ομάδας και ανεβάζει πολύ τη διάθεση στην ομάδα για τη συνέχεια.\n\nΠηγές: amna.gr, messiniapress.gr",
-        "sourceName": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
-        "sourceUrl": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
-        "sources": [
           {
             "title": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
             "url": "https://www.amna.gr/sport/article/956180/Broutsis-To-istoriko-Alkazar-anagennatai-amesa",
             "snippet": "",
             "host": "amna.gr"
-          },
-          {
-            "title": "https://messiniapress.gr/2025/12/12/k%CE%B1%CF%84%CE%AC%CF%84%CE%B1%CE%BE%CE%B7-%CF%84%CE%B7%CF%82-uefa-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CF%80%CE%AC%CE%BD%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-11%CE%B7-%CE%B8%CE%AD%CF%83/",
-            "url": "https://messiniapress.gr/2025/12/12/k%CE%B1%CF%84%CE%AC%CF%84%CE%B1%CE%BE%CE%B7-%CF%84%CE%B7%CF%82-uefa-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CF%80%CE%AC%CE%BD%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-11%CE%B7-%CE%B8%CE%AD%CF%83/",
-            "snippet": "",
-            "host": "messiniapress.gr"
           }
         ],
         "sourceDomains": [
-          "amna.gr",
-          "messiniapress.gr"
+          "m.riverbender.com",
+          "amna.gr"
         ],
         "category": "sports",
         "categoryReason": "web_search_fallback",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g40c9a4c164e40e61ce5475aa9b0c0920c03aa5246f0f03490c19174dabd1c3dd2ff12896e41829523a1854128fd88623_640.jpg",
+        "imageUrl": "https://pixabay.com/get/g2b5c4385251a454709c3efd40775ae690497da9bd2e26f03c523c1348501b867cb528be7168c691b7871f37ed7a56184_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T00:00:00.000Z"
+        "publishedAt": "2025-12-13T00:00:00.000Z"
+      },
+      {
+        "id": "500d3b80-1976-44b2-b2c0-fa4ae4ebb812",
+        "title": "_Ο νέος κόσμος του darts στο Λονδίνο_",
+        "simpleTitle": "_Ο νέος κόσμος του darts στο Λονδίνο_",
+        "simpleText": "_Ο νέος κόσμος του darts στο Λονδίνο_\n\nΣτις 12 Δεκεμβρίου 2025 ξεκίνησε το Παγκόσμιο Πρωτάθλημα Darts στο ιστορικό Alexandra Palace του Λονδίνου (reuters.com). Ο 18χρονος Luke Littler, που είναι τώρα ο κορυφαίος παίκτης στον κόσμο, υπερασπίζεται τον τίτλο του μπροστά σε ενθουσιώδες κοινό και με έπαθλο περίπου 1 εκατομμύριο λίρες (reuters.com).\n\nΗ ατμόσφαιρα είναι γεμάτη χαρά και ζωντάνια. Ο κόσμος έχει ντυθεί με ποικίλα και χιουμοριστικά κουστούμια. Το παιχνίδι συνδυάζει παράδοση, ένταση και πολλή διασκέδαση (reuters.com).\n\nΕίναι μια σημαντική και χαρούμενη στιγμή για τους φίλους των darts.\n\nΠηγή: reuters.com",
+        "sourceName": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+        "sourceUrl": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+        "sources": [
+          {
+            "title": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+            "snippet": "",
+            "url": "https://www.reuters.com/sports/inside-track/ally-pally-alps-darts-drama-vonns-test-sea-games-unfold-2025-12-12/",
+            "matchCount": 2,
+            "diffDays": null,
+            "host": "reuters.com",
+            "score": 25
+          }
+        ],
+        "sourceDomains": [
+          "reuters.com"
+        ],
+        "category": "sports",
+        "categoryReason": "web_search_fallback",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g1840d9104c0dfd14350ad43680c90aa2775ce3c211ef3d2eb608c52117824d7a2b48cef57f87e63a9265ca03e0308dd3_640.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-13T00:00:00.000Z"
       }
     ],
     "screen": [
       {
-        "id": "e57d34db-ad1a-43c0-8294-80d5c76a58ee",
-        "title": "Πρεμιέρα ταινίας για παιδιά στην Ελλάδα",
-        "simpleTitle": "Πρεμιέρα ταινίας για παιδιά στην Ελλάδα",
-        "simpleText": "*Πρεμιέρα ταινίας για παιδιά στην Ελλάδα*\n\nΧθες, Πέμπτη 11 Δεκεμβρίου 2025, βγήκε στις ελληνικές αίθουσες η ταινία κινουμένων σχεδίων «Ο Βασιλιάς των Βασιλιάδων: Μια Ιστορία από τον Κάρολο Ντίκενς». Η ταινία είναι μεταγλωττισμένη στα ελληνικά και αφηγείται την ιστορία του μικρού Γουόλτερ, που περπατά δίπλα στον Ιησού μέσα από μια φανταστική περιπέτεια. Είναι μια ζεστή και ονειρική ταινία για παιδιά και οικογένειες, κατάλληλη για ήρεμες στιγμές μαζί.\n\nΠηγή: megatv.com",
-        "sourceName": "https://www.megatv.com/2025/12/05",
-        "sourceUrl": "https://www.megatv.com/2025/12/05",
+        "id": "25764246-3418-4479-92ba-546afce3f50f",
+        "title": "_Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου_",
+        "simpleTitle": "_Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου_",
+        "simpleText": "_**Μια νέα ελληνική σειρά έρχεται σύντομα στην οθόνη σου**_\n\nΜια νέα σειρά μυθοπλασίας που λέγεται «Ριφιφί» θα κάνει πρεμιέρα τη Δευτέρα 15 Δεκεμβρίου 2025 στις 23:00, στο κανάλι Cosmote Cinema 1.\nΗ σειρά μιλά για την πραγματική ληστεία τράπεζας στην Αθήνα το 1992. Είναι γεμάτη συγκίνηση και χιούμορ, και πρωταγωνιστούν αγαπημένοι ηθοποιοί όπως η Ευαγγελία Μουμούρη, ο Χρήστος Χατζηπαναγιώτης και άλλοι. (moveitmag.gr)\n\nΑυτή η πρεμιέρα είναι πολύ κοντά στην ημερομηνία αναφοράς, αφού είναι σε δυο μέρες από σήμερα (13 Δεκεμβρίου 2025). Είναι ένα ωραίο νέο για όποιον αγαπά τη μυθοπλασία με αληθινές ιστορίες, δράση και συναίσθημα.\n\nΠηγές: flix.gr, tvnea.com",
+        "sourceName": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+        "sourceUrl": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
         "sources": [
           {
-            "title": "https://www.megatv.com/2025/12/05",
-            "url": "https://www.megatv.com/2025/12/05",
+            "title": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
+            "url": "https://flix.gr/en/news/special-screenings-guide-week-11-17-december-2025.html",
             "snippet": "",
-            "host": "megatv.com"
+            "host": "flix.gr"
           },
+          {
+            "title": "https://www.tvnea.com/2025/06/",
+            "url": "https://www.tvnea.com/2025/06/",
+            "snippet": "",
+            "host": "tvnea.com"
+          }
+        ],
+        "sourceDomains": [
+          "flix.gr",
+          "tvnea.com"
+        ],
+        "category": "screen",
+        "categoryReason": "web_search_fallback",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g464b34b88007982d6fb0af3bcdd209e1b3d95f4e7e13cca9a83356ef5948275c421ca913ce381433b1afc433625607abdfcd46a6398e3333349ccfaf77ea3dba_640.png",
+        "videoUrl": null,
+        "publishedAt": "2025-12-13T00:00:00.000Z"
+      },
+      {
+        "id": "c2c05515-6305-48c6-9553-206fce850674",
+        "title": "Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”",
+        "simpleTitle": "Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”",
+        "simpleText": "*Πρεμιέρα του νέου ντοκιμαντέρ “Taylor Swift: The End of an Era”*\n\nΧθες, **12 Δεκεμβρίου 2025**, κυκλοφόρησε στο **Disney+** ένα καινούριο ντοκιμαντέρ με τίτλο *“Taylor Swift: The End of an Era”*. Η ταινία δείχνει στιγμές από την καριέρα της διάσημης τραγουδίστριας και σίγουρα θα χαροποιήσει όσους την αγαπούν και την παρακολουθούν.\n\nΠηγές: megatv.com, moveitmag.gr",
+        "sourceName": "https://www.megatv.com/2025/12",
+        "sourceUrl": "https://www.megatv.com/2025/12",
+        "sources": [
           {
             "title": "https://www.megatv.com/2025/12",
             "url": "https://www.megatv.com/2025/12",
             "snippet": "",
             "host": "megatv.com"
+          },
+          {
+            "title": "https://www.moveitmag.gr/nea/ianoyarios-2025-sto-netflix/70907",
+            "url": "https://www.moveitmag.gr/nea/ianoyarios-2025-sto-netflix/70907",
+            "snippet": "",
+            "host": "moveitmag.gr"
           }
         ],
         "sourceDomains": [
-          "megatv.com"
+          "megatv.com",
+          "moveitmag.gr"
         ],
         "category": "screen",
         "categoryReason": "web_search_fallback",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g811967fed18d9ad9020652f2a4f911dd1b952a5777109d58301fdf1ee471414cd21344064c02d1c1b81d0b24b5ce1fee5d73a7a901fd0a222760ed2e4367f5b7_640.png",
+        "imageUrl": "https://pixabay.com/get/g04bf5f2ae1cbc7ab5e71308ecafa6e251c30fc6c4ec025201f917e9536b4ddbaa2c498876a8f91382c59079c6a2afcec81db3fb1eddf5553bea03948b185f073_640.png",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T00:00:00.000Z"
+        "publishedAt": "2025-12-13T00:00:00.000Z"
       }
     ],
     "culture": [
       {
-        "id": "fdd62365f053",
-        "title": "Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν με χορηγό τον ΟΠΑΠ",
-        "simpleTitle": "Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν με χορηγό τον ΟΠΑΠ",
-        "simpleText": "**Λαμπερή πρεμιέρα για την παράσταση «Το 5ο Βήμα»**\n\nΗ πρεμιέρα της θεατρικής παράστασης «Το 5ο Βήμα» στο Θέατρο Μικρό Χόρν έγινε με μεγάλη επιτυχία. Πλήθος κόσμου και γνωστά πρόσωπα παρευρέθηκαν στην εκδήλωση.\n\nΗ παράσταση είναι σε σκηνοθεσία του Αλέξανδρου Χρυσανθόπουλου και έχει την υποστήριξη του ΟΠΑΠ, που είναι μέλος της Allwyn. Το κοινό την υποδέχτηκε με ενθουσιασμό και θερμά χειροκροτήματα.\n\nΗ παράσταση σημείωσε μεγάλη επιτυχία από την πρώτη στιγμή, αναδεικνύοντας το ταλέντο των συμμετεχόντων.\n\nΠηγές: newsbomb.gr, protagon.gr",
-        "sourceName": "Newsbomb.gr, Protagon",
-        "sourceUrl": "https://www.newsbomb.gr/ellada/story/1700788/lamperi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap",
-        "sourceDomains": [
-          "newsbomb.gr",
-          "protagon.gr"
-        ],
+        "id": "a052c20a-4ad0-4615-b985-9870877fe3b7",
+        "title": "Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ",
+        "simpleTitle": "Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ",
+        "simpleText": "*Σήμερα στην Αθήνα: Μια μεγάλη μουσική γιορτή με θρύλο της ροκ*\n\nΣήμερα, Σάββατο 13 Δεκεμβρίου 2025, η πόλη φωτίζεται από μια σπουδαία στιγμή. Ο θρυλικός ροκ τραγουδιστής Sir Rod Stewart δίνει την πρώτη του εμφάνιση στην Ελλάδα. Η συναυλία γίνεται στο μεγάλο Κλειστό Γήπεδο Μπάσκετ του ΟΑΚΑ και υπόσχεται μια ζεστή μουσική εμπειρία για όλους. (soundarts.gr)\n\nΗ βραδιά είναι μια γιορτή: ο Sir Rod Stewart έρχεται για να μας συγκινήσει με τις επιτυχίες του και τη μοναδική του φωνή. Είναι μια ευκαιρία για τους λάτρεις της ροκ μουσικής να ζήσουν μια αξέχαστη στιγμή. (soundarts.gr)\n\nΑν ψάχνεις για τέτοιες χαρούμενες ειδήσεις, αυτή είναι μια υπέροχη. Μια μεγάλη συναυλία που γίνεται σήμερα, στο επίκεντρο της πολιτιστικής ζωής της Αθήνας.\n\nΠηγές: soundarts.gr, digitalculture.gov.gr",
+        "sourceName": "https://www.soundarts.gr/events/",
+        "sourceUrl": "https://www.soundarts.gr/events/",
         "sources": [
           {
-            "title": "Newsbomb.gr",
-            "url": "https://www.newsbomb.gr/ellada/story/1700788/lamperi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap"
+            "title": "https://www.soundarts.gr/events/",
+            "url": "https://www.soundarts.gr/events/",
+            "snippet": "",
+            "host": "soundarts.gr"
           },
           {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/laberi-premiera-gia-tin-parastasi-to-5o-vima-sto-theatro-mikro-xorn-me-xorigo-ton-opap-44343274740"
+            "title": "https://digitalculture.gov.gr/2025/07/oli-i-ellada-enas-politismos-2025-programma-ekdiloseon-7-13-iouliou-2025/",
+            "url": "https://digitalculture.gov.gr/2025/07/oli-i-ellada-enas-politismos-2025-programma-ekdiloseon-7-13-iouliou-2025/",
+            "snippet": "",
+            "host": "digitalculture.gov.gr"
           }
         ],
+        "sourceDomains": [
+          "soundarts.gr",
+          "digitalculture.gov.gr"
+        ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά την πρεμιέρα μιας θεατρικής παράστασης, που είναι πολιτιστική εκδήλωση.",
+        "categoryReason": "web_search_fallback",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gabd9225a125c0cb868ae673e2e5d5fe40d310c02469a7f3ee235b2eae1a0b2fb5b1210d732268a35b5fe3d9031b034d9974dea69669ff798dbd3779f7b97081d_640.jpg",
+        "imageUrl": "https://pixabay.com/get/gae2e1d28270851c68bec1528b4c4e9379438bc3bc3c2cd148cbde80358f3f0ed65a0f35673df647fc0e868217d85e36384312aed88f202058b788f20801d2e39_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T15:03:08.000Z"
+        "publishedAt": "2025-12-13T00:00:00.000Z"
       },
       {
         "id": "6428763328fc",
         "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
         "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-        "simpleText": "**Ρωμαϊκή σαρκοφάγος βρέθηκε στη Βουδαπέστη**\n\nΣτο Όμπουντα της Βουδαπέστης, οι αρχαιολόγοι βρήκαν μια ρωμαϊκή σαρκοφάγο 1.700 ετών. Η σαρκοφάγος είναι σε πολύ καλή κατάσταση και ανήκε σε μια νεαρή γυναίκα. Αυτή η ανακάλυψη μας δίνει σημαντικές πληροφορίες για το πώς ζούσαν οι άνθρωποι στη ρωμαϊκή Παννονία. Η έρευνα έγινε από το Μουσείο Ιστορίας της πόλης και είναι μια μοναδική ευκαιρία να μάθουμε περισσότερα για το παρελθόν.\n\nΠηγή: thehappynews.gr",
+        "simpleText": "**Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη αποκαλύπτει το παρελθόν**\n\nΣτην πόλη Βουδαπέστη, στην περιοχή Όμπουντα, ανακαλύφθηκε μια ρωμαϊκή σαρκοφάγος. Η σαρκοφάγος είναι περίπου 1.700 ετών και βρέθηκε άθικτη. Μέσα της βρισκόταν μια νεαρή γυναίκα, και η ανακάλυψη αυτή δίνει σημαντικές πληροφορίες για τη ζωή στη ρωμαϊκή Παννονία.\n\nΗ σαρκοφάγος φανερώνει στοιχεία για την καθημερινότητα των ανθρώπων εκείνης της εποχής. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της Βουδαπέστης και αποτελεί μια σπάνια ευκαιρία να μάθουμε περισσότερα για την αρχαία αυτή περιοχή.\n\nΠηγή: thehappynews.gr",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
         "sourceDomains": [
@@ -1082,51 +1050,50 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που σχετίζεται με το πολιτιστικό παρελθόν και την ιστορία, προσφέροντας σημαντικές πληροφορίες για τη ζωή στη ρωμαϊκή εποχή.",
+        "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που συνδέεται με την πολιτιστική κληρονομιά και την ιστορία.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g69e1ffa2fcfe858db167bca611d12130e415a499cd5d9e14cc145a9756701ee21216542d0ee3786921f005648daace3658eb3d784bde22261eba7f28f3956c7d_640.jpg",
+        "imageUrl": "https://pixabay.com/get/g79f5f793372e75c81becd0ef0df03f8d8cd20769b2b1c30c24e83725f6467d963ca6487456af29be70b3e1af44538ad974775eb97d993b1944c99ceae67c5c30_640.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-12T08:31:00.000Z"
       }
     ],
     "fun": [
       {
-        "id": "82bcd444-c31b-4469-8699-d60a1facfe26",
-        "title": "25 χρόνια Κίτρινα Ποδήλατα στο Gazarte",
-        "simpleTitle": "25 χρόνια Κίτρινα Ποδήλατα στο Gazarte",
-        "simpleText": "*25 χρόνια Κίτρινα Ποδήλατα στο Gazarte*\n\nΧθες, 11 Δεκεμβρίου 2025, η αγαπημένη ελληνική μπάντα \"Κίτρινα Ποδήλατα\" γιόρτασε τα 25 χρόνια της με ένα ζωντανό πάρτι στη μουσική σκηνή του Gazarte στην Αθήνα. Η ατμόσφαιρα ήταν γεμάτη μελωδίες και ζωντάνια, και οι θαυμαστές απόλαυσαν μια βραδιά γεμάτη χαρά και μουσική ενέργεια. Είναι ένα γεγονός γεμάτο ζωή και διασκέδαση για όλους τους φίλους της μουσικής.\n\nΠηγές: eventshub.cy, athens-technopolis.gr",
-        "sourceName": "https://www.eventshub.cy/events/2025-12-13/",
-        "sourceUrl": "https://www.eventshub.cy/events/2025-12-13/",
+        "id": "44dfd9dd-15ef-4ade-8345-3b5b97ed93db",
+        "title": "Τα γενέθλια των Μέντα στη σκηνή",
+        "simpleTitle": "Τα γενέθλια των Μέντα στη σκηνή",
+        "simpleText": "*Τα γενέθλια των Μέντα στη σκηνή*\n\nΧθες, Παρασκευή 12 Δεκεμβρίου 2025, γιορτάστηκε μια ξεχωριστή στιγμή με πολύ μουσική χαρά. Το αγαπημένο συγκρότημα Μέντα έκλεισε 25 χρόνια και το γιόρτασε με ένα λαμπερό live πάρτι στο Underathens, με τη συμμετοχή του opening act Tony Bluebird (soundarts.gr).\n\nΉταν μια βραδιά ζωντανή και ζεστή. Ο κόσμος χόρεψε, τραγούδησε και πέρασε όμορφα. Η ατμόσφαιρα ήταν γεμάτη ενέργεια και γιορτινή διάθεση.\n\nΑν θέλεις, μπορούμε να δούμε μαζί τι άλλο θα γίνει αύριο ή προσεχώς.\n\nΠηγή: athens-technopolis.gr",
+        "sourceName": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+        "sourceUrl": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
         "sources": [
           {
-            "title": "https://www.eventshub.cy/events/2025-12-13/",
-            "url": "https://www.eventshub.cy/events/2025-12-13/",
+            "title": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
+            "url": "https://athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-09-12/1205-rock-hard-festival-2025",
             "snippet": "",
-            "host": "eventshub.cy"
+            "host": "athens-technopolis.gr"
           },
           {
-            "title": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis/day/2025-12-11",
-            "url": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis/day/2025-12-11",
+            "title": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-06-13/1298",
+            "url": "https://www.athens-technopolis.gr/index.php/el/ekdiloseis-technopolis/details/2025-06-13/1298",
             "snippet": "",
             "host": "athens-technopolis.gr"
           }
         ],
         "sourceDomains": [
-          "eventshub.cy",
           "athens-technopolis.gr"
         ],
         "category": "fun",
         "categoryReason": "web_search_fallback",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gbdb45f720d697f3c2f75602038a1628854b13cd8d0a8709af2459da45f0c8a7095806219b70fe85250d2bed58604fa1af01aaa2b1441bd2e847d6492e0f9f2de_640.jpg",
+        "imageUrl": "https://pixabay.com/get/gf67b567f196eaed611421bb00ad6aa1c1a5a04987ce76f0ea584cf5a72b2dcce50a799a8adda925ade4118b4dd64211ab8de2c73794e55b6dc3652d71108eb82_640.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-12T00:00:00.000Z"
+        "publishedAt": "2025-12-13T00:00:00.000Z"
       },
       {
         "id": "67ee5b41d5e6",
         "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
         "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-        "simpleText": "**Street party για τη Μαρία Κάλλας στην Αθήνα**\n\nΈνα μεγάλο street party στη μνήμη της Μαρία Κάλλας θα γίνει στην Αθήνα. Η γιορτή αυτή θα πραγματοποιηθεί την Παρασκευή 12 Δεκεμβρίου 2025, στις 20:00. Αρχικά είχε αναβληθεί λόγω κακών καιρικών συνθηκών.\n\nΤο πάρτι θα γίνει στην οδό Πετράκη, κοντά στο Μουσείο Μαρία Κάλλας του Δήμου Αθηναίων. Εκεί, ο δρόμος θα γεμίσει με μουσική και χορό, προσφέροντας χαρά και διασκέδαση για όλους.\n\nΑυτή η γιορτή έχει γίνει πλέον παράδοση στην πόλη και είναι ένας ωραίος τρόπος να τιμηθεί η καλλιτεχνική κληρονομιά της διάσημης τραγουδίστριας.\n\nΠηγή: thehappynews.gr",
+        "simpleText": "**Έρχεται το street party για τη Μαρία Κάλλας στην Αθήνα**\n\nΗ Αθήνα ετοιμάζεται για ένα μεγάλο street party για τη Μαρία Κάλλας. Το πάρτι θα γίνει την Παρασκευή 12 Δεκεμβρίου 2025, στις 8 το βράδυ. Είχε αναβληθεί την προηγούμενη εβδομάδα λόγω κακού καιρού.\n\nΤο event θα λάβει χώρα στην οδό Πετράκη, πίσω από το Μουσείο Μαρία Κάλλας. Ο δρόμος θα γεμίσει μουσική και χαρά, προσκαλώντας όλους να γιορτάσουν την τέχνη της Κάλλας με ένα ξεχωριστό τρόπο.\n\nΑυτό το πάρτι έχει γίνει παράδοση για την Αθήνα, φέρνοντας κάθε χρόνο κέφι και ενέργεια στην πόλη.\n\nΠηγή: thehappynews.gr",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
         "sourceDomains": [
@@ -1139,9 +1106,9 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Το street party είναι μια γιορτινή εκδήλωση που προσφέρει διασκέδαση και χαρά στους συμμετέχοντες.",
+        "categoryReason": "Το street party έχει ως κύριο θέμα τη διασκέδαση και τη γιορτή γύρω από την τέχνη της Μαρία Κάλλας.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ge3cb6d06c918f9537a61e7c328313be64faa7b3598b34f2be9037e6c1853b027ed650bd97b5db48f7c33b7e7ed57c1957f7a0c28711858b4e1a4f5f5c91fe35b_640.jpg",
+        "imageUrl": "https://pixabay.com/get/gcd55baf6acfc3ae1661e5bf06dc935211c7470f9fc183188928190217d769d8ad715df5f9461f34633523b08b1407d3bd700de28d891f50f49b1028e9a82b749_640.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-11T16:55:58.000Z"
       }
