@@ -5,15 +5,7 @@ import {
   SERIOUS_TOPICS_SYSTEM_PROMPT,
   SERIOUS_DIGEST_SYSTEM_PROMPT,
 } from "./llm/seriousDigestPrompts.js";
-import {
-  cleanSimplifiedText,
-  extractSourceDomains,
-  extractWebSearchSources,
-  buildSearchQuery,
-  filterSearchResults,
-  rankAndDedupe,
-  extractHostname,
-} from "./llm/textUtils.js";
+import { cleanSimplifiedText, extractSourceDomains, extractHostname } from "./llm/textUtils.js";
 
 // Paths
 const NEWS_PATH = new URL("./news.json", import.meta.url);
@@ -50,14 +42,18 @@ function extractTextFromResponse(response) {
 function stripSourcesAndInlineLinks(text) {
   if (!text) return "";
 
-  // Κρατάμε μόνο το κομμάτι πριν από οποιαδήποτε γραμμή που ξεκινά με "Πηγές:"
   const idx = text.search(/(^|\n)Πηγές:/);
   let body = idx === -1 ? text : text.slice(0, idx);
 
-  // Αφαιρούμε inline markdown links [κείμενο](http...)
   body = body.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
 
   return body.trimEnd();
+}
+
+function normalizeUrl(u) {
+  if (!u) return "";
+  if (/^https?:\/\//i.test(u)) return u;
+  return `https://${u}`;
 }
 
 function collectSourceUrls(article) {
@@ -70,15 +66,58 @@ function collectSourceUrls(article) {
   if (Array.isArray(article.sources)) {
     for (const s of article.sources) {
       if (typeof s === "string") {
-        urls.push(/^https?:\/\//.test(s) ? s : `https://${s}`);
+        urls.push(normalizeUrl(s));
         continue;
       }
       const u = s?.sourceUrl || s?.url;
-      if (u) urls.push(u);
+      if (u) urls.push(normalizeUrl(u));
     }
   }
 
   return urls.filter(Boolean);
+}
+
+// Παίρνουμε sources από mainArticle (όχι web search)
+function buildSourcesFromMainArticle(mainArticle, { max = 4 } = {}) {
+  if (!mainArticle) {
+    return { sources: [], sourceDomains: [] };
+  }
+
+  /** @type {{title: string, url: string}[]} */
+  const out = [];
+  const seen = new Set();
+
+  // 1) Αν υπάρχει structured sources: [{title,url}]
+  if (Array.isArray(mainArticle.sources) && mainArticle.sources.length) {
+    for (const s of mainArticle.sources) {
+      const title = s?.title || s?.sourceName || mainArticle.sourceName || "Πηγή";
+      const url = normalizeUrl(s?.url || s?.sourceUrl || "");
+      if (!url) continue;
+      if (seen.has(url)) continue;
+      seen.add(url);
+      out.push({ title, url });
+      if (out.length >= max) break;
+    }
+  }
+
+  // 2) Fallback στο sourceUrl
+  if (out.length < max) {
+    const fallbackUrls = collectSourceUrls(mainArticle);
+    for (const urlRaw of fallbackUrls) {
+      const url = normalizeUrl(urlRaw);
+      if (!url) continue;
+      if (seen.has(url)) continue;
+      seen.add(url);
+      out.push({
+        title: mainArticle.sourceName || extractHostname(url) || "Πηγή",
+        url,
+      });
+      if (out.length >= max) break;
+    }
+  }
+
+  const sourceDomains = extractSourceDomains(out.map((s) => s.url).filter(Boolean));
+  return { sources: out, sourceDomains };
 }
 
 // Τίτλοι για τις 3 θεματικές
@@ -97,23 +136,13 @@ function digestTitleForTopic(topic) {
 
 // Score: πρώτα πόσα sites (sources.length), μετά πόσο πρόσφατο
 function scoreSeriousArticle(article) {
-  const sourcesCount = Array.isArray(article.sources)
-    ? article.sources.length
-    : 1;
-  const timeMs = article.publishedAt
-    ? new Date(article.publishedAt).getTime()
-    : 0;
-  // δίνουμε πολύ μεγαλύτερο βάρος στα πολλά sites
+  const sourcesCount = Array.isArray(article.sources) ? article.sources.length : 1;
+  const timeMs = article.publishedAt ? new Date(article.publishedAt).getTime() : 0;
   return sourcesCount * 1_000_000_000_000 + timeMs;
 }
 
 // ---------- Classification: serious → (politics_economy | social | world) ----------
 
-/**
- * Ζητάμε από ένα μικρό LLM να κατατάξει κάθε σοβαρή είδηση
- * σε μία από τις θεματικές: politics_economy | social | world | other.
- * Επιστρέφει map: id -> topic
- */
 async function classifySeriousArticles(seriousArticles) {
   if (!seriousArticles.length) return {};
 
@@ -192,48 +221,35 @@ ${JSON.stringify(items, null, 2)}
       "❌ Αποτυχία JSON parse στην ταξινόμηση σοβαρών ειδήσεων, όλα → 'social':",
       err
     );
-    // Fallback: αν γίνει χαμός, τουλάχιστον όλα να θεωρηθούν "social"
-    /** @type {Record<string, string>} */
     const allSocial = {};
-    for (const a of seriousArticles) {
-      allSocial[a.id] = "social";
-    }
+    for (const a of seriousArticles) allSocial[a.id] = "social";
     return allSocial;
   }
 
-  // Accept either wrapped { results: [...] } or bare array fallback
   const rows = Array.isArray(parsed?.results) ? parsed.results : parsed;
 
-  /** @type {Record<string, string>} */
   const topicById = {};
   for (const row of rows || []) {
     if (!row || typeof row !== "object") continue;
     const { id, topic } = row;
     if (!id || typeof id !== "string") continue;
     if (!topic || typeof topic !== "string") continue;
-    if (!["politics_economy", "social", "world", "other"].includes(topic)) {
-      continue;
-    }
+    if (!["politics_economy", "social", "world", "other"].includes(topic)) continue;
     topicById[id] = topic;
   }
 
-  // Ό,τι δεν ταξινομήθηκε ρητά από το μοντέλο, default "social"
   for (const a of seriousArticles) {
-    if (!topicById[a.id]) {
-      topicById[a.id] = "social";
-    }
+    if (!topicById[a.id]) topicById[a.id] = "social";
   }
 
   const counts = { politics_economy: 0, social: 0, world: 0, other: 0 };
-  for (const t of Object.values(topicById)) {
-    if (counts[t] !== undefined) counts[t]++;
-  }
+  for (const t of Object.values(topicById)) if (counts[t] !== undefined) counts[t]++;
   console.log("📊 Κατανομή σοβαρών ειδήσεων ανά θεματική:", counts);
 
   return topicById;
 }
 
-// ---------- Δημιουργία άρθρου serious digest για μία θεματική ----------
+// ---------- Δημιουργία άρθρου serious digest για μία θεματική (RSS-only) ----------
 
 async function generateSeriousDigestForTopic(topicKey, mainArticle) {
   const topicLabel = SERIOUS_TOPIC_LABELS[topicKey] || "σοβαρές ειδήσεις";
@@ -241,28 +257,43 @@ async function generateSeriousDigestForTopic(topicKey, mainArticle) {
   const today = new Date().toISOString().slice(0, 10);
   const hasMain = Boolean(mainArticle);
 
+  // Αν δεν υπάρχει mainArticle: ασφαλές κείμενο, χωρίς web search, χωρίς LLM
+  if (!hasMain) {
+    const simpleText = cleanSimplifiedText(
+      `Σήμερα δεν βρέθηκε κατάλληλη είδηση για ${topicLabel} από τις πηγές RSS που χρησιμοποιούμε.
+Μπορείς να ξαναδοκιμάσεις αργότερα μέσα στην ημέρα.`
+    );
+
+    return {
+      id: crypto.randomUUID(),
+      contentType: "agent_serious_digest",
+      topic: topicKey,
+      topicLabel,
+      title,
+      simpleText,
+      sourceDomains: [],
+      sources: [],
+      mainArticleId: null,
+      relatedArticleIds: [],
+      createdAt: new Date().toISOString(),
+    };
+  }
+
   const payload = {
     topic: topicKey,
     topicLabel,
     date: today,
-    mainArticle: hasMain
-      ? {
-          id: mainArticle.id,
-          title: mainArticle.simpleTitle || mainArticle.title,
-          summary: mainArticle.simpleText || "",
-          sourceName: mainArticle.sourceName || null,
-          sourceUrl: mainArticle.sourceUrl || null,
-          publishedAt: mainArticle.publishedAt || null,
-        }
-      : null,
+    mainArticle: {
+      id: mainArticle.id,
+      title: mainArticle.simpleTitle || mainArticle.title,
+      summary: mainArticle.simpleText || "",
+      sourceName: mainArticle.sourceName || null,
+      sourceUrl: mainArticle.sourceUrl || null,
+      publishedAt: mainArticle.publishedAt || null,
+    },
   };
 
-  let userContent;
-
-  if (hasMain) {
-    // 🔹 ΕΝΑ γεγονός για κάθε θεματική (πολιτική-οικονομία, κοινωνικά, κόσμος)
-    userContent = `
-
+  const userContent = `
 Θέμα serious digest: ${topicLabel} (${topicKey})
 Ημερομηνία: ${today}
 
@@ -280,35 +311,10 @@ async function generateSeriousDigestForTopic(topicKey, mainArticle) {
 Δεδομένα (JSON):
 ${JSON.stringify(payload, null, 2)}
 `;
-  } else {
-    userContent = `
-
-Θέμα serious digest: ${topicLabel} (${topicKey})
-Ημερομηνία: ${today}
-
-Δεν βρέθηκαν καθόλου κατάλληλα άρθρα στο δικό μας news.json για αυτή την ενότητα.
-
-Θέλω:
-
-- Να χρησιμοποιήσεις ΜΟΝΟ web search (εργαλείο web_search_preview)
-  για να βρεις ΕΝΑ σημαντικό γεγονός της ημέρας που ανήκει στην ενότητα "${topicLabel}".
-- Να γράψεις ΕΝΑ άρθρο σε απλά ελληνικά, σαν ενημέρωση για ενήλικες με ήπιες νοητικές δυσκολίες.
-- Να ΜΗΝ εφευρίσκεις γεγονότα.
-- Να ΜΗΝ κάνεις γενική σύνοψη πολλών θεμάτων (γράψε για ΕΝΑ βασικό γεγονός).
-- Να ΜΗΝ γράφεις πηγές, links ή ονόματα ιστοσελίδων μέσα στο κείμενο.
-
-Για αναφορά, τα metadata σε JSON (δεν περιέχουν άρθρα):
-${JSON.stringify(payload, null, 2)}
-`;
-
-    console.log(`ℹ️ Fallback με web search για serious topic ${topicKey}`);
-  }
 
   const response = await openai.responses.create({
     model: "gpt-4o",
     instructions: SERIOUS_DIGEST_SYSTEM_PROMPT,
-    tools: [{ type: "web_search" }],
-    include: ["web_search_call.action.sources"],
     input: userContent,
     max_output_tokens: 1600,
   });
@@ -316,74 +322,17 @@ ${JSON.stringify(payload, null, 2)}
   let simpleText = extractTextFromResponse(response).trim();
   simpleText = stripSourcesAndInlineLinks(simpleText);
   simpleText = cleanSimplifiedText(simpleText);
-  const webSourcesRaw = extractWebSearchSources(response);
 
-  const contextArticle = hasMain
-    ? mainArticle
-    : {
-        title,
-        summary: simpleText,
-        publishedAt: today,
-      };
+  // Πηγές ΜΟΝΟ από mainArticle (RSS)
+  const { sources, sourceDomains } = buildSourcesFromMainArticle(mainArticle, { max: 4 });
 
-  const { query, entities, eventDate } = buildSearchQuery(contextArticle);
-
-  const { accepted, rejected } = filterSearchResults(
-    webSourcesRaw,
-    entities,
-    eventDate,
-    { blocklist: ["inside track", "opinion", "column", "gallery"] }
-  );
-
-  const ranked = rankAndDedupe(accepted, {
-    whitelistDomains: [
-      "ertnews.gr",
-      "sport24.gr",
-      "gazzetta.gr",
-      "in.gr",
-      "tanea.gr",
-      "kathimerini.gr",
-      "cnn.gr",
-      "uefa.com",
-    ],
-    max: 4,
-  });
-
-  let finalSources = ranked;
-
-  if (!finalSources.length && hasMain) {
-    const fallbackUrls = collectSourceUrls(mainArticle).slice(0, 4);
-    finalSources = fallbackUrls.map((url) => ({
-      title: mainArticle.sourceName || extractHostname(url) || "Πηγή",
-      url,
-    }));
-  }
-
-  if (!finalSources.length) {
-    finalSources = accepted.slice(0, 2);
-  }
-
-  const sourceUrls = finalSources.map((s) => s.url).filter(Boolean);
-  let sourceDomains = extractSourceDomains(sourceUrls);
-
-  if (!sourceDomains.length && !hasMain) {
-    sourceDomains = ["web.search"];
-  }
-
-  const reasonCounts = rejected.reduce((acc, r) => {
-    acc[r.reason] = (acc[r.reason] || 0) + 1;
-    return acc;
-  }, {});
-
-  const finalHosts = finalSources
+  const hosts = sources
     .map((s) => extractHostname(s.url))
     .filter(Boolean)
     .join(", ");
 
   console.log(
-    `🧭 sources serious:${topicKey} | query="${query}" | total=${webSourcesRaw.length} accepted=${accepted.length} rejected=${rejected.length} reasons=${JSON.stringify(
-      reasonCounts
-    )} final_hosts=${finalHosts}`
+    `🧭 sources serious:${topicKey} | rss_sources=${sources.length} hosts=${hosts}`
   );
 
   return {
@@ -394,9 +343,9 @@ ${JSON.stringify(payload, null, 2)}
     title,
     simpleText,
     sourceDomains,
-    sources: finalSources,
-    mainArticleId: hasMain ? mainArticle.id : null,
-    relatedArticleIds: [], // δεν χρησιμοποιούμε πλέον related, ένα γεγονός ανά θεματική
+    sources,
+    mainArticleId: mainArticle.id,
+    relatedArticleIds: [],
     createdAt: new Date().toISOString(),
   };
 }
@@ -416,51 +365,34 @@ async function main() {
   }
 
   const allArticles = Array.isArray(json.articles) ? json.articles : [];
-  const serious = allArticles.filter(
-    (a) => a.category === "serious" && !a.isSensitive
-  );
+  const serious = allArticles.filter((a) => a.category === "serious" && !a.isSensitive);
 
   if (!serious.length) {
     console.log(
-      "ℹ️ Δεν υπάρχουν σοβαρές ειδήσεις στο news.json – θα χρησιμοποιήσουμε web search για κάθε θεματική."
+      "ℹ️ Δεν υπάρχουν σοβαρές ειδήσεις στο news.json – θα βγάλουμε safe κείμενο (χωρίς web search)."
     );
   }
 
-  // 2. Ταξινόμηση σοβαρών ειδήσεων με βάση:
-  //    - πόσα sites (sources.length)
-  //    - πόσο πρόσφατες είναι
-  const sortedSerious = [...serious].sort(
-    (a, b) => scoreSeriousArticle(b) - scoreSeriousArticle(a)
-  );
+  // 2. Ταξινόμηση σοβαρών ειδήσεων
+  const sortedSerious = [...serious].sort((a, b) => scoreSeriousArticle(b) - scoreSeriousArticle(a));
 
   // 3. Ζητάμε από LLM να τις κατηγοριοποιήσει σε 3 θεματικές
   console.log("🧠 Ταξινόμηση σοβαρών ειδήσεων σε πολιτική/κοινωνικό/παγκόσμιο...");
   const topicById = await classifySeriousArticles(sortedSerious);
 
-  /** @type {Record<string, any[]>} */
-  const byTopic = {
-    politics_economy: [],
-    social: [],
-    world: [],
-  };
+  const byTopic = { politics_economy: [], social: [], world: [] };
 
   for (const article of sortedSerious) {
     const topic = topicById[article.id] || "other";
-    if (byTopic[topic]) {
-      byTopic[topic].push(article);
-    }
+    if (byTopic[topic]) byTopic[topic].push(article);
   }
 
   const digestArticles = [];
 
-  // 4. Για κάθε θεματική, επιλέγουμε το καλύτερο mainArticle ή fallback web search
+  // 4. Για κάθε θεματική, επιλέγουμε mainArticle ή safe “δεν βρέθηκε”
   for (const topic of SERIOUS_TOPICS) {
     const items = byTopic[topic] || [];
-
-    const sortedItems = [...items].sort(
-      (a, b) => scoreSeriousArticle(b) - scoreSeriousArticle(a)
-    );
-
+    const sortedItems = [...items].sort((a, b) => scoreSeriousArticle(b) - scoreSeriousArticle(a));
     const contextItems = sortedItems.slice(0, MAX_ITEMS_PER_TOPIC);
     const [mainArticle] = contextItems;
 
@@ -470,19 +402,11 @@ async function main() {
         mainArticle.simpleTitle || mainArticle.title
       );
     } else {
-      console.log(
-        `🧠 Fallback web search για θεματική "${topic}" (χωρίς άρθρα από RSS).`
-      );
+      console.log(`ℹ️ Δεν βρέθηκε mainArticle για "${topic}" (RSS-only mode).`);
     }
 
-    const digest = await generateSeriousDigestForTopic(
-      topic,
-      mainArticle || null
-    );
-
-    if (digest) {
-      digestArticles.push(digest);
-    }
+    const digest = await generateSeriousDigestForTopic(topic, mainArticle || null);
+    if (digest) digestArticles.push(digest);
   }
 
   const output = {
@@ -490,16 +414,10 @@ async function main() {
     articles: digestArticles,
   };
 
-  await fs.writeFile(
-    SERIOUS_DIGEST_PATH,
-    JSON.stringify(output, null, 2),
-    "utf-8"
-  );
+  await fs.writeFile(SERIOUS_DIGEST_PATH, JSON.stringify(output, null, 2), "utf-8");
 
   console.log(
-    `✅ serious-digest.json έτοιμο. Θεματικές: ${digestArticles
-      .map((a) => a.topic)
-      .join(", ")}`
+    `✅ serious-digest.json έτοιμο. Θεματικές: ${digestArticles.map((a) => a.topic).join(", ")}`
   );
 }
 
@@ -507,4 +425,5 @@ main().catch((err) => {
   console.error("❌ Σφάλμα στο generate-serious-digest:", err);
   process.exit(1);
 });
+
 
