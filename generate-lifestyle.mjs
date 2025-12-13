@@ -155,29 +155,31 @@ function groupLifestyleArticlesByCategory(allArticles) {
   return grouped;
 }
 
+// Διαβάζει JSON αν υπάρχει
+async function readJsonIfExists(urlPath) {
+  try {
+    const raw = await fs.readFile(urlPath, "utf-8");
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+// Αν υπήρχε παλιότερα placeholder στο lifestyle.json, δεν θέλουμε να το “κλειδώσουμε”
+function isNoNewsPlaceholderArticle(article) {
+  const t = article?.simpleText || "";
+  return /Σήμερα δεν βρέθηκαν κατάλληλες ειδήσεις/i.test(t);
+}
+
 // Κλήση στο OpenAI για μία κατηγορία (RSS-only, χωρίς web search)
 async function generateLifestyleArticleForCategory(category, items) {
   const today = new Date().toISOString().slice(0, 10);
   const title = lifestyleTitleForCategory(category);
 
-  // Αν δεν υπάρχει τίποτα από RSS: safe placeholder, χωρίς LLM (μηδέν hallucination risk)
+  // Αν δεν υπάρχει τίποτα από RSS: ΔΕΝ δημιουργούμε placeholder εδώ.
+  // Θα γίνει "keep last good article" στο main().
   if (!items || items.length === 0) {
-    const simpleText = cleanSimplifiedText(
-      `Σήμερα δεν βρέθηκαν κατάλληλες ειδήσεις για την κατηγορία "${category}" από τις πηγές RSS που χρησιμοποιούμε.
-Μπορείς να ξαναδοκιμάσεις αργότερα μέσα στην ημέρα.`
-    );
-
-    return {
-      id: crypto.randomUUID(),
-      contentType: "agent_lifestyle",
-      category,
-      date: today,
-      title,
-      simpleText,
-      sourceDomains: [],
-      sources: [],
-      createdAt: new Date().toISOString(),
-    };
+    return null;
   }
 
   // 👉 mainItem είναι το #1 (είναι ήδη ταξινομημένα)
@@ -267,6 +269,14 @@ ${JSON.stringify(payload, null, 2)}
 }
 
 async function main() {
+  // 0) Διαβάζουμε το προηγούμενο lifestyle.json (για “keep last good content”)
+  const prevLifestyle = await readJsonIfExists(LIFESTYLE_PATH);
+  const prevByCategory = new Map(
+    (prevLifestyle?.articles || [])
+      .filter((a) => a && a.category)
+      .map((a) => [a.category, a])
+  );
+
   // 1. Διαβάζουμε news.json
   let json;
   try {
@@ -288,22 +298,39 @@ async function main() {
   const grouped = groupLifestyleArticlesByCategory(allArticles);
 
   const lifestyleArticles = [];
+
   for (const category of LIFESTYLE_CATEGORIES) {
     const items = grouped[category] || [];
     const count = items.length;
 
-    console.log(
-      count > 0
-        ? `🧠 Δημιουργία lifestyle άρθρου (RSS-only) για "${category}" με ${count} items...`
-        : `ℹ️ Δεν υπάρχουν RSS items για "${category}" (RSS-only placeholder).`
-    );
+    if (count > 0) {
+      console.log(
+        `🧠 Δημιουργία lifestyle άρθρου (RSS-only) για "${category}" με ${count} items...`
+      );
 
-    const article = await generateLifestyleArticleForCategory(category, items);
-    if (article) lifestyleArticles.push(article);
+      const fresh = await generateLifestyleArticleForCategory(category, items);
+      if (fresh) {
+        lifestyleArticles.push(fresh);
+        continue;
+      }
+    }
+
+    // 🔒 Δεν υπάρχει νέο υλικό: κράτα το προηγούμενο (αν υπάρχει και δεν είναι placeholder)
+    const prev = prevByCategory.get(category);
+    if (prev && !isNoNewsPlaceholderArticle(prev)) {
+      console.log(
+        `ℹ️ Δεν υπάρχουν νέα RSS items για "${category}". Κρατάω το προηγούμενο άρθρο.`
+      );
+      lifestyleArticles.push(prev);
+    } else {
+      console.log(
+        `ℹ️ Δεν υπάρχουν νέα RSS items για "${category}" και δεν υπάρχει προηγούμενο άρθρο. Παραλείπεται.`
+      );
+    }
   }
 
   if (!lifestyleArticles.length) {
-    console.log("ℹ️ Δεν δημιουργήθηκε κανένα lifestyle άρθρο.");
+    console.log("ℹ️ Δεν δημιουργήθηκε/διατηρήθηκε κανένα lifestyle άρθρο.");
     return;
   }
 
@@ -326,4 +353,3 @@ main().catch((err) => {
   console.error("❌ Σφάλμα στο generate-lifestyle:", err);
   process.exit(1);
 });
-
