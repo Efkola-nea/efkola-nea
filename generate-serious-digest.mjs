@@ -146,12 +146,12 @@ function scoreSeriousArticle(article) {
   return sourcesCount * 1_000_000_000_000 + timeMs;
 }
 
-// ✅ Allow list: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
+// ✅ Allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
   const raw = url.trim().replace(/^\/\//, "https://");
   try {
-    const u = new URL(raw.startsWith("http") ? raw : `https://${raw}`);
+    const u = new URL(raw, "https:");
     const host = u.hostname.toLowerCase();
     const path = u.pathname.toLowerCase();
     if (host === "cdn.pixabay.com") return true;
