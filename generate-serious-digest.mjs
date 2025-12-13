@@ -27,6 +27,8 @@ const SERIOUS_TOPIC_LABELS = {
 // Πόσα θέματα (max) θα εξετάζουμε ανά θεματική πριν διαλέξουμε το καλύτερο mainArticle
 const MAX_ITEMS_PER_TOPIC = 6;
 
+const PIXABAY_ALLOWED_PATH_PREFIXES = ["/get/", "/photos/"];
+
 // ---------- Helpers ----------
 
 // Βοηθός για να πάρουμε text από Responses API
@@ -146,7 +148,7 @@ function scoreSeriousArticle(article) {
   return sourcesCount * 1_000_000_000_000 + timeMs;
 }
 
-// ✅ Allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
+// ✅ allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
   const raw = url.trim().replace(/^\/\//, "https://");
@@ -155,7 +157,8 @@ function isPixabayUrl(url) {
     const host = u.hostname.toLowerCase();
     const path = u.pathname.toLowerCase();
     if (host === "cdn.pixabay.com") return true;
-    if (host === "pixabay.com") return path.startsWith("/get/") || path.startsWith("/photos/");
+    if (host === "pixabay.com")
+      return PIXABAY_ALLOWED_PATH_PREFIXES.some((p) => path.startsWith(p));
     return false;
   } catch {
     return false;
