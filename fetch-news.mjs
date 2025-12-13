@@ -5,7 +5,6 @@ import { CATEGORY_KEYS } from "./llm/newsCategories.js";
 import { simplifyNewsArticle } from "./llm/newsSimplifier.js";
 import { classifyNewsArticle } from "./llm/newsCategorizer.js";
 import {
-  buildSourcesFooter,
   cleanSimplifiedText,
   extractSourceDomains,
   dedupeArticlesByUrlOrTitle,
@@ -25,19 +24,45 @@ const CATEGORY_IMAGE_QUERIES = {
 };
 
 let hasWarnedMissingPixabayKey = false;
+const pixabayCache = new Map(); // categoryKey -> { dayKey, hits }
 
-async function fetchPixabayImageForCategory(categoryKey) {
+function stableIndex(seedStr, modulo) {
+  if (!modulo || modulo <= 0) return 0;
+  const h = crypto.createHash("sha1").update(String(seedStr || "seed")).digest();
+  const n = h.readUInt32BE(0);
+  return n % modulo;
+}
+
+function todayKey() {
+  // YYYY-MM-DD (σταθερό μέσα στο ίδιο run/ημέρα)
+  return new Date().toISOString().slice(0, 10);
+}
+
+function pickPixabayUrl(hits, seed) {
+  const urls = (Array.isArray(hits) ? hits : [])
+    .map((h) => h?.largeImageURL || h?.webformatURL || h?.previewURL)
+    .filter(Boolean);
+  if (!urls.length) return null;
+  const idx = stableIndex(seed, urls.length);
+  return urls[idx] || null;
+}
+
+async function fetchPixabayHitsForCategory(categoryKey) {
   const apiKey = process.env.PIXABAY_API_KEY;
   if (!apiKey) {
     if (!hasWarnedMissingPixabayKey) {
       console.warn("⚠️ PIXABAY_API_KEY is not set. Skipping images.");
       hasWarnedMissingPixabayKey = true;
     }
-    return null;
+    return [];
   }
 
   const baseQuery =
     CATEGORY_IMAGE_QUERIES[categoryKey] || "news abstract background";
+
+  const day = todayKey();
+  // αλλάζουμε σελίδα ανά μέρα/κατηγορία για περισσότερη ποικιλία
+  const page = 1 + stableIndex(`${day}:${categoryKey}`, 5); // 1..5
 
   const url = new URL("https://pixabay.com/api/");
   url.searchParams.set("key", apiKey);
@@ -45,24 +70,35 @@ async function fetchPixabayImageForCategory(categoryKey) {
   url.searchParams.set("image_type", "photo");
   url.searchParams.set("orientation", "horizontal");
   url.searchParams.set("safesearch", "true");
-  url.searchParams.set("per_page", "5");
+  url.searchParams.set("order", "latest");
+  url.searchParams.set("per_page", "100");
+  url.searchParams.set("page", String(page));
 
   try {
     const res = await fetch(url.toString());
     if (!res.ok) {
       console.warn("Pixabay API error", res.status, await res.text());
-      return null;
+      return [];
     }
 
     const data = await res.json();
-    const hit = data.hits?.[0];
-    if (!hit) return null;
-
-    return hit.webformatURL || hit.previewURL || null;
+    return Array.isArray(data.hits) ? data.hits : [];
   } catch (err) {
     console.error("Pixabay fetch failed", err);
-    return null;
+    return [];
   }
+}
+
+async function fetchPixabayImageForCategory(categoryKey, seed) {
+  const day = todayKey();
+  const cached = pixabayCache.get(categoryKey);
+  if (cached && cached.dayKey === day) {
+    return pickPixabayUrl(cached.hits, seed);
+  }
+
+  const hits = await fetchPixabayHitsForCategory(categoryKey);
+  pixabayCache.set(categoryKey, { dayKey: day, hits });
+  return pickPixabayUrl(hits, seed);
 }
 
 const TARGET_CATEGORIES = CATEGORY_KEYS.filter((key) => key !== "other");
@@ -198,6 +234,24 @@ function extractVideoUrl(item, html = "") {
   }
 
   return null;
+}
+
+// Κόβει τυχόν ενότητες "Πηγές" που μπορεί να μπουν μέσα στο κείμενο (LLM ή παλιά footer).
+function stripSourcesBlock(text) {
+  if (!text) return "";
+  let t = String(text);
+
+  // Από "🌍 Πηγές" μέχρι τέλος
+  t = t.replace(/\n?\s*🌍\s*Πηγές[\s\S]*$/i, "");
+
+  // Από "Πηγές" (χωρίς emoji) μέχρι τέλος
+  t = t.replace(/\n?\s*Πηγές\s*\n[\s\S]*$/i, "");
+
+  // Αν υπάρχουν “ορφανά” site names στο τέλος (σπάνιο), κόψ’ τα όταν μοιάζουν με λίστα
+  // (κρατάμε συντηρητικό κανόνα: 2+ γραμμές με 1–4 λέξεις η καθεμία)
+  t = t.replace(/\n(?:[A-Za-zΑ-Ωα-ω0-9.\- ]{2,40}\n){2,}$/m, "\n");
+
+  return t.replace(/\n{3,}/g, "\n\n").trim();
 }
 
 // 🚩 Κανονικοποίηση κατηγορίας από το LLM
@@ -575,9 +629,9 @@ async function buildFinalArticleFromTopic(topic, { tag = "" } = {}) {
     if (nameFallbacks.length) sourceDomains = [...new Set(nameFallbacks)];
   }
 
-  const footer = buildSourcesFooter(sourceDomains);
-  const cleanedText = cleanSimplifiedText(result.simplifiedText || "");
-  const simpleText = cleanedText + footer;
+  // ✅ Κείμενο ΜΟΝΟ της είδησης (χωρίς "Πηγές" μέσα στο text)
+  const cleanedText = stripSourcesBlock(cleanSimplifiedText(result.simplifiedText || ""));
+  const simpleText = cleanedText;
 
   const reason = (result.categoryReason || "").trim();
   const categoryReason = tag ? `${reason}${reason ? " | " : ""}${tag}` : reason;
@@ -899,12 +953,10 @@ async function run() {
     const base = { ...article };
 
     // TESTING FEATURE: generic Pixabay image per category
-    const pixabayImage = await fetchPixabayImageForCategory(article.category);
-    if (pixabayImage) {
-      base.imageUrl = pixabayImage;
-    } else if (!base.imageUrl) {
-      base.imageUrl = null;
-    }
+    const seed = base.id || base.simpleTitle || base.title || "";
+    const pixabayImage = await fetchPixabayImageForCategory(article.category, seed);
+    // Για copyright-safety: ή Pixabay ή τίποτα (δεν κρατάμε feed images)
+    base.imageUrl = pixabayImage || null;
 
     finalArticles.push(base);
   }
