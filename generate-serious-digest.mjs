@@ -149,12 +149,17 @@ function scoreSeriousArticle(article) {
 // ✅ Allowlist: ΜΟΝΟ Pixabay images (όχι RSS/original άρθρα)
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
-  const u = url.trim().toLowerCase();
-  return (
-    u.includes("cdn.pixabay.com/") ||
-    u.includes("pixabay.com/get/") ||
-    u.includes("pixabay.com/photos/")
-  );
+  const raw = url.trim().replace(/^\/\//, "https://");
+  try {
+    const u = new URL(raw.startsWith("http") ? raw : `https://${raw}`);
+    const host = u.hostname.toLowerCase();
+    const path = u.pathname.toLowerCase();
+    if (host === "cdn.pixabay.com") return true;
+    if (host === "pixabay.com") return path.startsWith("/get/") || path.startsWith("/photos/");
+  } catch {
+    return false;
+  }
+  return false;
 }
 
 // Διαβάζει JSON αν υπάρχει (για "κρατάω το προηγούμενο")
