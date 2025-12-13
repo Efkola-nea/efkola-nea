@@ -159,7 +159,6 @@ function isPixabayUrl(url) {
   } catch {
     return false;
   }
-  if (!["http:", "https:"].includes(u.protocol)) return false;
   const host = u.hostname.toLowerCase();
   const path = u.pathname.toLowerCase();
   const allowedHosts = new Set(["pixabay.com", "cdn.pixabay.com"]);
