@@ -28,6 +28,8 @@ const SERIOUS_TOPIC_LABELS = {
 const MAX_ITEMS_PER_TOPIC = 6;
 
 const PIXABAY_ALLOWED_PATH_PREFIXES = ["/get/", "/photos/"];
+const PIXABAY_ALLOWED_HOSTS = new Set(["pixabay.com", "cdn.pixabay.com"]);
+const HTTPS_URL_REGEX = /^https?:\/\//i;
 
 // ---------- Helpers ----------
 
@@ -152,7 +154,7 @@ function scoreSeriousArticle(article) {
 function isPixabayUrl(url) {
   if (!url || typeof url !== "string") return false;
   const normalized = url.trim();
-  if (!/^https?:\/\//i.test(normalized)) return false;
+  if (!HTTPS_URL_REGEX.test(normalized)) return false;
   let u;
   try {
     u = new URL(normalized);
@@ -161,8 +163,7 @@ function isPixabayUrl(url) {
   }
   const host = u.hostname.toLowerCase();
   const path = u.pathname.toLowerCase();
-  const allowedHosts = new Set(["pixabay.com", "cdn.pixabay.com"]);
-  if (!allowedHosts.has(host)) return false;
+  if (!PIXABAY_ALLOWED_HOSTS.has(host)) return false;
   if (host === "cdn.pixabay.com") return true;
   return PIXABAY_ALLOWED_PATH_PREFIXES.some((p) => path.startsWith(p));
 }
