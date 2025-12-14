@@ -1,69 +1,13 @@
 {
-  "generatedAt": "2025-12-13T15:21:45.284Z",
+  "generatedAt": "2025-12-14T16:06:57.753Z",
   "articles": [
     {
-      "id": "d10b47eaf6d1",
-      "title": "Η ειρήνη για την Ουκρανία δεν απέχει πολύ, δήλωσε ο Ερντογάν μετά τη συνάντηση με τον Πούτιν",
-      "simpleTitle": "Η ειρήνη για την Ουκρανία δεν απέχει πολύ, δήλωσε ο Ερντογάν μετά τη συνάντηση με τον Πούτιν",
-      "simpleText": "Ο Πρόεδρος της Τουρκίας, Ταγίπ Ερντογάν, συναντήθηκε με τον Ρώσο Πρόεδρο, Βλαντιμίρ Πούτιν, στο Τουρκμενιστάν. Η συνάντησή τους διήρκεσε 90 λεπτά και είχε στόχο τη συζήτηση για την ειρήνη στην Ουκρανία. Ο Ερντογάν δήλωσε ότι η ειρήνη δεν είναι μακριά. Σκοπεύει να συζητήσει το θέμα με τον Πρόεδρο των Ηνωμένων Πολιτειών. Οι δηλώσεις του έγιναν κατά την επιστροφή του στην Τουρκία. Η εξέλιξη αυτή είναι σημαντική καθώς δείχνει πιθανότητα βελτίωσης της κατάστασης στην Ουκρανία.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-eirini-gia-tin-oukrania-den-apexei-poly-dilose-o-erntogan-meta-ti-synantisi-me-ton-poutin/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/i-eirini-gia-tin-oukrania-den-apexei-poly-dilose-o-erntogan-meta-ti-synantisi-me-ton-poutin/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563975305/synantisi-poytin-erntogan-90-lepta-gia-tin-oykrania/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές εξελίξεις σχετικά με την ειρήνη στην Ουκρανία και τις διπλωματικές συναντήσεις των ηγετών, γεγονός που συνδέεται με μεγάλα κοινωνικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-13T14:46:00.000Z"
-    },
-    {
-      "id": "0938dd1a2f3f",
-      "title": "Αγρότες: «Οχι» στη συνάντηση της Δευτέρας στο Μαξίμου – Τι αποφάσισαν",
-      "simpleTitle": "Αγρότες: «Οχι» στη συνάντηση της Δευτέρας στο Μαξίμου – Τι αποφάσισαν",
-      "simpleText": "Οι αγρότες αποφάσισαν να μην συναντηθούν με τον πρωθυπουργό τη Δευτέρα στο Μέγαρο Μαξίμου. Θεωρούν ότι η πρόσκληση δεν είναι σοβαρή και προγραμματίζουν να εντείνουν τις κινητοποιήσεις τους. Ετοιμάζουν μια λίστα με αιτήματά τους για την κυβέρνηση. Η κατάσταση είναι σημαντική γιατί οι αγρότες ζητούν από την κυβέρνηση να αλλάξει κάποια θέματα που τους αφορούν. Δεν υπάρχουν περισσότερες πληροφορίες για τους λόγους που οι αγρότες λένε «όχι» στη συνάντηση.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/society/563975248/agrotes-ochi-sti-synantisi-tis-deyteras-sto-maximoy-ti-apofasisan/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563975248/agrotes-ochi-sti-synantisi-tis-deyteras-sto-maximoy-ti-apofasisan/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/oi-agrotes-lene-oxi-sti-synantisi-me-ton-mitsotaki-ti-apofasisan-44343275080"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απόφαση των αγροστών να μην συμμετάσχουν σε συνάντηση με τον πρωθυπουργό, προαναγγέλλοντας κλιμάκωση των κινητοποιήσεών τους και τονίζει σοβαρά ζητήματα που σχετίζονται με τα αιτήματα τους προς την κυβέρνηση.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-13T14:23:31.000Z"
-    },
-    {
-      "id": "560095ff2d7e",
-      "title": "Διάσωση 24 μεταναστών νότια του Ταινάρου με συνδρομή της Frontex",
-      "simpleTitle": "Διάσωση 24 μεταναστών νότια του Ταινάρου με συνδρομή της Frontex",
-      "simpleText": "Σώθηκαν 24 μετανάστες κοντά στο Ταίναρο\n\nΠριν λίγες μέρες, 24 μετανάστες βρίσκονταν σε μια μικρή βάρκα στη θάλασσα, 38 ναυτικά μίλια νοτιοδυτικά του ακρωτηρίου Ταίναρου. Το Ενιαίο Κέντρο Συντονισμού έψαξε για αυτούς και βοήθησε να σωθούν. Στην επιχείρηση συμμετείχε ένα πλοίο της FRONTEX, που είναι μια υπηρεσία που βοηθά στη φύλαξη των συνόρων. Δύο άλλα πλοία που ήταν κοντά πήγαν να βοηθήσουν. Οι μετανάστες μεταφέρθηκαν στο λιμάνι της Καλαμάτας και τώρα θα γίνουν οι απαραίτητες διαδικασίες από τις αρχές. Η διάσωση αυτή είναι σημαντική γιατί προστατεύει ανθρώπους που κινδυνεύουν στη θάλασσα.",
+      "id": "9d5f754fc793",
+      "title": "Π. Μαρινάκης: Αν το 2027 δεν πετύχουμε τους στόχους μας, τότε είμαι βέβαιος, ότι όλα όσα συζητάμε δεν θα είναι δεδομένα",
+      "simpleTitle": "Π. Μαρινάκης: Αν το 2027 δεν πετύχουμε τους στόχους μας, τότε είμαι βέβαιος, ότι όλα όσα συζητάμε δεν θα είναι δεδομένα",
+      "simpleText": "Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης δήλωσε ότι αν η Ελλάδα δεν πετύχει τους στόχους της μέχρι το 2027, τίποτα δεν θα είναι δεδομένο. Ανέφερε πως η χώρα κάνει προσπάθειες να μειώσει τη διαφορά της με την Ευρώπη. Υπογράμμισε ότι πολλές δουλειές έχουν δημιουργηθεί και η οικονομία έχει βελτιωθεί.\n\nΜίλησε για την ανάγκη μιας σταθερής πολιτικής για να συνεχιστεί αυτή η πρόοδος. Ανέφερε επίσης ότι δεν αρκεί μόνο η αλλαγή νόμων για τη μείωση του εγκλήματος, αλλά χρειάζεται και δράση από την κυβέρνηση.\n\nΟι δηλώσεις έγιναν σε συνάντηση με πολιτικούς από τη Νέα Δημοκρατία. Ο Μαρινάκης τόνισε ότι η κυβέρνηση Μητσοτάκη έχει επιτύχει πολλούς στόχους και σχεδιάζει περαιτέρω βελτιώσεις.",
       "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/diasosi-24-metanaston-notia-tou-tainarou-me-syndromi-tis-frontex/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/p-marinakis-an-to-2027-den-petyxoume-tous-stoxous-mas-tote-eimai-vevaios-oti-ola-osa-syzitame-den-tha-einai-dedomena/",
       "sourceDomains": [
         "ertnews.gr",
         "tanea.gr"
@@ -71,27 +15,172 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/diasosi-24-metanaston-notia-tou-tainarou-me-syndromi-tis-frontex/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/p-marinakis-an-to-2027-den-petyxoume-tous-stoxous-mas-tote-eimai-vevaios-oti-ola-osa-syzitame-den-tha-einai-dedomena/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/13/greece/diasosi-24-metanaston-notia-toy-tainaroy-me-ti-voitheia-tis-frontex/"
+          "url": "https://www.tanea.gr/2025/12/14/politics/paylos-marinakis-an-to-2027-den-petyxoyme-toys-stoxoys-mas-tote-ola-osa-syzitame-den-tha-e/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η διάσωση μεταναστών σε επικίνδυνες συνθήκες στη θάλασσα σχετίζεται με σοβαρά κοινωνικά και ανθρωπιστικά ζητήματα.",
+      "categoryReason": "Η είδηση αφορά τις δηλώσεις του κυβερνητικού εκπροσώπου σχετικά με την οικονομική κατάσταση της Ελλάδας και τις πολιτικές προσεγγίσεις που πρέπει να ακολουθηθούν για την ανάπτυξη της χώρας, θέμα που σχετίζεται με σοβαρά πολιτικά και κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-13T14:21:49.000Z"
+      "publishedAt": "2025-12-14T15:53:32.000Z"
     },
     {
-      "id": "71d4c78aac60",
-      "title": "Μερτς: Αν πέσει η Ουκρανία, στο στόχαστρο του Πούτιν θα βρεθεί η ΕΕ",
-      "simpleTitle": "Μερτς: Αν πέσει η Ουκρανία, στο στόχαστρο του Πούτιν θα βρεθεί η ΕΕ",
-      "simpleText": "Ο Γερμανός καγκελάριος, Φρίντριχ Μερτς, μίλησε σε ένα συνέδριο στο Μόναχο. Είπε ότι ο κόσμος δεν είναι σε πλήρη ειρήνη ούτε σε πόλεμο. Αν η Ουκρανία κατακτηθεί από τη Ρωσία, ίσως η Ευρωπαϊκή Ένωση βρεθεί σε κίνδυνο. Αυτό σημαίνει ότι η ΕΕ μπορεί να γίνει στόχος. Ο Μερτς τόνισε τη σημασία της υποστήριξης της Ουκρανίας. Είπε ότι η Γερμανία χρειάζεται αλλαγές και οι νέοι να βοηθήσουν τη χώρα. Υπογράμμισε ότι δεν πρέπει να παίξουμε με την ειρήνη στην Ευρώπη.",
+      "id": "6dd7c0e851cf",
+      "title": "OΛME: Συμμετοχή στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ στις 16 Δεκεμβρίου",
+      "simpleTitle": "OΛME: Συμμετοχή στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ στις 16 Δεκεμβρίου",
+      "simpleText": "Η ΟΛΜΕ, η ένωση των εκπαιδευτικών, ανακοίνωσε ότι οι εκπαιδευτικοί θα συμμετάσχουν στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ, στις 16 Δεκεμβρίου. Υπήρχαν φήμες ότι οι εκπαιδευτικοί δεν θα συμμετείχαν, αλλά η ΟΛΜΕ τόνισε ότι αυτές οι φήμες είναι ψευδείς. Η απεργία γίνεται για να διεκδικήσουν καλύτερους όρους εργασίας και προστασία των δικαιωμάτων τους. Η συμμετοχή αυτή είναι σημαντική για τους αγώνες των εργαζομένων στο δημόσιο τομέα.",
+      "sourceName": "ERT News, TA NEA, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/olme-symmetoxi-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvriou/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/olme-symmetoxi-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvriou/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/14/greece/olme-symmetexoyme-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvrioy/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/olme-symmetexoume-stin-apergia-tis-adedy-tin-triti-44343275399"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την συμμετοχή εκπαιδευτικών σε απεργία για την υπεράσπιση των εργασιακών τους δικαιωμάτων, που συνδέεται με σοβαρά κοινωνικά και πολιτικά θέματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T15:52:34.000Z"
+    },
+    {
+      "id": "3ecd75a44bd2",
+      "title": "Η λίστα με τα αιτήματα των αγροτών – Τι ζητούν από την κυβέρνηση",
+      "simpleTitle": "Η λίστα με τα αιτήματα των αγροτών – Τι ζητούν από την κυβέρνηση",
+      "simpleText": "Οι αγρότες στην Ελλάδα ζητούν από την κυβέρνηση διάφορες αλλαγές για να βελτιώσουν την εργασία τους. Αυτήν τη στιγμή κάνουν κινητοποιήσεις, δηλαδή δράσεις για να ακουστεί η φωνή τους.\n\nΤα κύρια αιτήματα των αγροτών περιλαμβάνουν:\n\n1. Κατώτερες εγγυημένες τιμές στα προϊόντα τους ώστε να έχουν εισόδημα για να ζήσουν.\n2. Χαμηλότερη τιμή στο ρεύμα για τις καλλιέργειες.\n3. Επιδότηση στα γεωργικά εργαλεία και αγαθά.\n4. Να μην ενταχθεί ο ΟΠΕΚΕΠΕ στην ΑΑΔΕ, που είναι η φορολογική αρχή.\n5. Πάγωμα και ρύθμιση χρεών χωρίς προκαταβολή.\n\nΕπίσης, ζητούν καλύτερη προστασία από φυσικές καταστροφές και αποζημιώσεις για τα χαμένα ζώα και προϊόντα. Επιθυμούν επίσης να σταματήσουν οι αθρόες εισαγωγές αγροτικών προϊόντων και να διπλασιαστούν οι αγροτικές συντάξεις. Αυτά τα αιτήματα είναι σημαντικά για τους αγρότες καθώς επηρεάζουν το εισόδημα και την καθημερινή τους ζωή.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/i-lista-me-ta-aitimata-ton-agroton-ti-zitoun-apo-tin-kyvernisi/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/i-lista-me-ta-aitimata-ton-agroton-ti-zitoun-apo-tin-kyvernisi/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/14/society/aitimata-agroton-ti-zitoun-apo-tin-kyvernisi-ta-dyo-flegonta-zitimata/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά αιτήματα των αγροτών προς την κυβέρνηση σχετικά με σοβαρά οικονομικά και πολιτικά ζητήματα που επηρεάζουν την καθημερινότητά τους και το εισόδημά τους.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T15:51:27.000Z"
+    },
+    {
+      "id": "eda0a5a65724",
+      "title": "Μακελειό στο Σίδνεϊ: Τουλάχιστον 12 νεκροί και 29 τραυματίες – Αντιδράσεις και διεθνής καταδίκη",
+      "simpleTitle": "Μακελειό στο Σίδνεϊ: Τουλάχιστον 12 νεκροί και 29 τραυματίες – Αντιδράσεις και διεθνής καταδίκη",
+      "simpleText": "Ένοπλη επίθεση έγινε στην παραλία Bondi στο Σίδνεϊ της Αυστραλίας. Ήταν μια πολύ σοβαρή επίθεση που σόκαρε όλη τη χώρα. Δώδεκα άνθρωποι έχασαν τη ζωή τους και 29 τραυματίστηκαν. Η αστυνομία θεωρεί ότι ήταν τρομοκρατική ενέργεια. Ένας από τους δράστες είναι νεκρός, ενώ ένας άλλος νοσηλεύεται σε κρίσιμη κατάσταση.\n\nΗ επίθεση έγινε ενώ άνθρωποι γιόρταζαν το Χανουκά, μια εβραϊκή γιορτή. Η πληροφορία αυτή οδηγεί σε ανησυχίες ότι η εβραϊκή κοινότητα μπορεί να ήταν ο στόχος. Ωστόσο, οι αρχές δεν το έχουν επιβεβαιώσει επίσημα.\n\nΠολίτες έδειξαν θάρρος προσπαθώντας να σταματήσουν τους δράστες. Υπήρξαν διεθνείς αντιδράσεις και καταδίκες, ενώ πολλές χώρες ζητούν να παρθούν μέτρα κατά της αντισημιτικής βίας. Οι αρχές συνεχίζουν να ερευνούν τα αίτια της επίθεσης.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2025/12/14/world/makeleio-sto-sidnei-toylaxiston-12-nekroi-kai-29-traymaties-antidraseis-kai-diethnis-katad/",
+      "sourceDomains": [
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/14/world/makeleio-sto-sidnei-toylaxiston-12-nekroi-kai-29-traymaties-antidraseis-kai-diethnis-katad/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/14/world/synagermos-sto-sidnei-pyrovolismoi-stin-paralia-mponti-polloi-traymaties/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή και θλιβερή ένοπλη επίθεση που είχε ως αποτέλεσμα τον θάνατο και τον τραυματισμό πολλών ανθρώπων, γεγονός που αγγίζει σημαντικά θέματα ασφαλείας και κοινωνικών ζητημάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T14:58:11.000Z"
+    },
+    {
+      "id": "3197608e7f80",
+      "title": "Η ορθολογική διαχείριση των αντιβιοτικών στο νοσοκομείο – Σημαντικό σεμινάριο από τον Ιατρικό Σύλλογο Αθηνών",
+      "simpleTitle": "Η ορθολογική διαχείριση των αντιβιοτικών στο νοσοκομείο – Σημαντικό σεμινάριο από τον Ιατρικό Σύλλογο Αθηνών",
+      "simpleText": "Ένα σημαντικό σεμινάριο έγινε από τον Ιατρικό Σύλλογο Αθηνών για τη σωστή χρήση των αντιβιοτικών στα νοσοκομεία. Το σεμινάριο ήταν για γιατρούς που δουλεύουν σε νοσοκομεία και έγινε με τη βοήθεια του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών. Σκοπός του είναι να ενημερωθούν οι γιατροί για ένα σοβαρό πρόβλημα: οι μικροοργανισμοί γίνονται ανθεκτικοί στα αντιβιοτικά, όταν αυτά δεν χρησιμοποιούνται σωστά. Αυτό μπορεί να κάνει πιο δύσκολη τη θεραπεία των ασθενών. Η Ελλάδα είναι από τις χώρες με υψηλή χρήση αντιβιοτικών, και είναι σημαντικό οι γιατροί να ξέρουν πώς να τα χρησιμοποιούν πιο σωστά για να προστατεύσουν τους ασθενείς.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/epistimi/evzoia/ygeia/i-orthologiki-diaxeirisi-ton-antiviotikon-sto-nosokomeio-simantiko-seminario-apo-ton-iatriko-syllogo-athinon/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/epistimi/evzoia/ygeia/i-orthologiki-diaxeirisi-ton-antiviotikon-sto-nosokomeio-simantiko-seminario-apo-ton-iatriko-syllogo-athinon/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4031189/isa-i-orthologiki-diachirisi-ton-antiviotikon-sto-nosokomio.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σημαντικό σεμινάριο για τη σωστή και ορθολογική χρήση των αντιβιοτικών στα νοσοκομεία, που αντιμετωπίζει ένα σοβαρό πρόβλημα δημόσιας υγείας, την αντίσταση στα αντιβιοτικά.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gf17549d63e9132c382ab1a87d8346ed8e407c82971e6d6aecf304ef6a11c1bedcac7b7c75905e7f1500050f9768a57520abee49100ab34088a70741db96d80eb_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T14:32:20.000Z"
+    },
+    {
+      "id": "d5ef8a9b1d56",
+      "title": "Θεσσαλονίκη: Έκκληση στους αγρότες να επανέλθουν στον θεσμικό διάλογο, απευθύνουν τέσσερις παραγωγικοί φορείς της βιομηχανίας και της βιοτεχνίας",
+      "simpleTitle": "Θεσσαλονίκη: Έκκληση στους αγρότες να επανέλθουν στον θεσμικό διάλογο, απευθύνουν τέσσερις παραγωγικοί φορείς της βιομηχανίας και της βιοτεχνίας",
+      "simpleText": "Στη Θεσσαλονίκη, τέσσερις σημαντικοί οργανισμοί που αντιπροσωπεύουν τη βιομηχανία και τη βιοτεχνία κάνουν έκκληση στους αγρότες. Θέλουν οι αγρότες να ξαναρχίσουν το διάλογο με την κυβέρνηση. Οι οργανισμοί αυτοί είναι: οι σύνδεσμοι Εξαγωγέων και Βιομηχανιών Ελλάδος, καθώς και τα επιμελητήρια Εμποροβιομηχανικό και Βιοτεχνικό Θεσσαλονίκης.\n\nΑνησυχούν γιατί οι αγρότες δεν θέλουν να συζητήσουν με τον πρωθυπουργό. Αυτό μπορεί να δημιουργήσει προβλήματα στην οικονομία. Χωρίς διάλογο, η παραγωγή και το εμπόριο μπορεί να υποφέρουν. Οι οργανισμοί αυτοί τονίζουν ότι η συνεργασία είναι σημαντική για τη βελτίωση της οικονομίας και τη στήριξη της χώρας.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apeythynoun-tesseris-paragogikoi-foreis-tis-viomixanias-kai-tis-viotexnias/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apeythynoun-tesseris-paragogikoi-foreis-tis-viomixanias-kai-tis-viotexnias/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4031181/ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apo-paragogikous-foris-tis-viomichanias-ke-tis-viotechnias.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη σοβαρή κατάσταση του διαλόγου μεταξύ κυβερνητικών φορέων και αγροτών, με σημαντικές επιπτώσεις στην ελληνική οικονομία.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/ge023e7ad55b9732056848d527dd0b715549f040ac52da695418ad925f22b9727a311c720bed40ca64672c0036b1ee14090b84d62d76e2c3e8ae713b64c3bd789_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T14:13:35.000Z"
+    },
+    {
+      "id": "a46dd1f02aa5",
+      "title": "ΠΑΣΟΚ: Η κυβέρνηση ας σταματήσει το κρυφτό και ας απαντήσει τι φοβάται και συνεχίζει να ταυτίζεται με τον κ. Χιλετζάκη",
+      "simpleTitle": "ΠΑΣΟΚ: Η κυβέρνηση ας σταματήσει το κρυφτό και ας απαντήσει τι φοβάται και συνεχίζει να ταυτίζεται με τον κ. Χιλετζάκη",
+      "simpleText": "Το ΠΑΣΟΚ κατηγορεί την κυβέρνηση της Νέας Δημοκρατίας. Λέει ότι η κυβέρνηση δεν είναι ξεκάθαρη σχετικά με τη σχέση της με τον Μύρωνα Χιλετζάκη. Ο Χιλετζάκης φέρεται να έχει εμπλακεί σε υπόθεση σκανδάλου. Το ΠΑΣΟΚ ζητά απαντήσεις για το πώς ήταν μέλος της Νέας Δημοκρατίας, παρόλο που ισχυρισμοί λένε ότι διαγράφηκε ή είναι ανενεργό μέλος. Υπάρχουν φωτογραφίες που δείχνουν τον Χιλετζάκη μαζί με πολιτικούς της Νέας Δημοκρατίας. Το θέμα είναι σημαντικό γιατί αφορά τη διαφάνεια και τη λειτουργία των κομμάτων.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/merts-an-pesei-i-oukrania-sto-stoxastro-tou-poutin-tha-vrethei-i-ee/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/pasok-i-kyvernisi-as-stamatisei-to-kryfto-kai-as-apantisei-ti-fovatai-kai-synexizei-na-taytizetai-me-ton-k-xiletzaki/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -99,60 +188,172 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/merts-an-pesei-i-oukrania-sto-stoxastro-tou-poutin-tha-vrethei-i-ee/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/pasok-i-kyvernisi-as-stamatisei-to-kryfto-kai-as-apantisei-ti-fovatai-kai-synexizei-na-taytizetai-me-ton-k-xiletzaki/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563975242/merts-an-pesei-i-oykrania-sto-stochastro-tis-rosias-tha-tethei-i-e-e/"
+          "url": "https://www.kathimerini.gr/politics/563975881/pasok-i-kyvernisi-as-apantisei-ti-fovatai-kai-synechizei-na-taytizetai-me-ton-k-chiletzaki/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις δηλώσεις του Γερμανού καγκελάριου Φρίντριχ Μερτς σχετικά με την γεωπολιτική κατάσταση στην Ευρώπη και την απειλή που μπορεί να υπάρξει για την ΕΕ αν η Ουκρανία κατακτηθεί από τη Ρωσία, κάτι που συνδέεται με σοβαρά ζητήματα ασφάλειας και πολιτικής.",
+      "categoryReason": "Η είδηση σχετίζεται με πολιτική κριτική, διαφάνεια και ένα σημαντικό σκάνδαλο που αφορά κυβερνητικά στελέχη, γεγονός που την καθιστά σοβαρή.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-13T13:35:48.000Z"
+      "publishedAt": "2025-12-14T13:46:00.000Z"
     },
     {
-      "id": "3a1a8e43ef2a",
-      "title": "Ο «χάρτης» των πληρωμών από τον e-ΕΦΚΑ και τη ΔΥΠΑ έως τις 19 Δεκεμβρίου",
-      "simpleTitle": "Ο «χάρτης» των πληρωμών από τον e-ΕΦΚΑ και τη ΔΥΠΑ έως τις 19 Δεκεμβρίου",
-      "simpleText": "Πληροφορίες πληρωμών από e-ΕΦΚΑ και ΔΥΠΑ 15-19 Δεκεμβρίου\n\nΑπό τις 15 έως τις 19 Δεκεμβρίου 2025, θα δοθούν 1.462.243.998,92 ευρώ σε περίπου 3 εκατομμύρια άτομα. Τα χρήματα αυτά θα προέρχονται από τον e-ΕΦΚΑ και τη Δημόσια Υπηρεσία Απασχόλησης (ΔΥΠΑ).\n\nΣυγκεκριμένα:\n\n- Στις 19 Δεκεμβρίου, ο e-ΕΦΚΑ θα δώσει 1.263.000.000 ευρώ σε συνταξιούχους.\n- Στις 15 Δεκεμβρίου, θα δοθούν 160.998,92 ευρώ σε παλαιούς ασφαλισμένους.\n- Από τις 15 έως 19 Δεκεμβρίου, θα δοθούν 25.000.000 ευρώ σε όσους δικαιούνται εφάπαξ.\n\nΗ ΔΥΠΑ θα διαθέσει συνολικά 174.083.000 ευρώ για επιδόματα ανεργίας, δώρα Χριστουγέννων και μητρότητας.\n\nΑυτές οι πληρωμές είναι σημαντικές γιατί υποστηρίζουν οικονομικά εκατομμύρια ανθρώπους σε όλη την Ελλάδα.",
-      "sourceName": "ERT News, Kathimerini, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/o-xartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvriou/",
+      "id": "22f142dd006e",
+      "title": "Κ. Μητσοτάκης για την τρομοκρατική επίθεση στο Σίδνεϊ: Αντισημιτισμός και μίσος δεν έχουν θέση στις κοινωνίες μας",
+      "simpleTitle": "Κ. Μητσοτάκης για την τρομοκρατική επίθεση στο Σίδνεϊ: Αντισημιτισμός και μίσος δεν έχουν θέση στις κοινωνίες μας",
+      "simpleText": "Η είδηση αφορά μια τρομοκρατική επίθεση στο Σίδνεϊ της Αυστραλίας. Η επίθεση έγινε κατά τη διάρκεια του εορτασμού της Χανουκά, μιας εβραϊκής γιορτής. Ο Έλληνας Πρωθυπουργός, Κυριάκος Μητσοτάκης, καταδίκασε το γεγονός αυτό μέσω ανάρτησης στα μέσα κοινωνικής δικτύωσης. Δήλωσε ότι ο αντισημιτισμός, δηλαδή το μίσος κατά των Εβραίων, και γενικά το μίσος δεν έχουν θέση στην κοινωνία μας. Επίσης, εξέφρασε στήριξη στις εβραϊκές κοινότητες. Δεν είναι γνωστές περισσότερες λεπτομέρειες για τα άτομα που συμμετείχαν στην επίθεση.",
+      "sourceName": "ERT News, Kathimerini, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/k-mitsotakis-gia-tin-tromokratiki-epithesi-sto-sidnei-antisimitismos-kai-misos-den-exoun-thesi-stis-koinonies-mas/",
       "sourceDomains": [
         "ertnews.gr",
+        "kathimerini.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/k-mitsotakis-gia-tin-tromokratiki-epithesi-sto-sidnei-antisimitismos-kai-misos-den-exoun-thesi-stis-koinonies-mas/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/politics/563975854/mitsotakis-gia-tromokratiki-epithesi-sto-sidnei-antisimitismos-kai-misos-den-echoyn-thesi-stis-koinonies-mas/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/mitsotakis-gia-tromokratiki-epithesi-sto-sidnei-o-antisimitismos-den-exei-thesi-stis-koinwnies-mas-44343275357"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Αφορά μια τρομοκρατική επίθεση και τη σοβαρή καταδίκη του αντισημιτισμού, που είναι σημαντικά κοινωνικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T12:57:06.000Z"
+    },
+    {
+      "id": "bf259e0e2813",
+      "title": "Συνελήφθη ύποπτος για την επίθεση με τους δύο νεκρούς στο πανεπιστήμιο Μπράουν στις ΗΠΑ",
+      "simpleTitle": "Συνελήφθη ύποπτος για την επίθεση με τους δύο νεκρούς στο πανεπιστήμιο Μπράουν στις ΗΠΑ",
+      "simpleText": "Συνελήφθη ένας ύποπτος για επίθεση με πυροβολισμούς στο πανεπιστήμιο Brown στις Ηνωμένες Πολιτείες. Το συμβάν έγινε στην πόλη Πρόβιντενς, στο Ρόουντ Άιλαντ. Δύο φοιτητές έχασαν τη ζωή τους και άλλοι εννέα τραυματίστηκαν. Η επίθεση συγκλόνισε την τοπική κοινότητα και το πανεπιστήμιο παρέμεινε κλειστό για λόγους ασφαλείας. Η αστυνομία συνεχίζει την έρευνα για να βρεθούν οι λόγοι της επίθεσης.",
+      "sourceName": "ERT News, Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/synelifthi-ypoptos-gia-tin-epithesi-me-tous-dyo-nekrous-sto-panepistimio-mpraoun-stis-ipa/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/synelifthi-ypoptos-gia-tin-epithesi-me-tous-dyo-nekrous-sto-panepistimio-mpraoun-stis-ipa/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563975836/ipa-synelifthi-ypoptos-gia-tin-foniki-epithesi-sto-panepistimio-brown/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/14/world/pyrovolismoi-sto-panepistimio-mpraoun-synelifthi-ypoptos-gia-tin-epithesi-me-tous-dyo-nekrous/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρή ένοπλη επίθεση σε πανεπιστήμιο, με θανάτους και τραυματισμούς, γεγονός που συνιστά σημαντικό κοινωνικό ζήτημα και ασφάλειας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.facebook.com/plugins/video.php?height=314&#038;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F841246018776308%2F&#038;show_text=false&#038;width=560&#038;t=0",
+      "publishedAt": "2025-12-14T12:46:00.000Z"
+    },
+    {
+      "id": "974896fc6b9e",
+      "title": "Στο Συμβούλιο των Υπουργών Ενέργειας της ΕΕ στις Βρυξέλλες, θα πάρουν μέρος ο Σ. Παπασταύρου και ο Ν. Τσάφος",
+      "simpleTitle": "Στο Συμβούλιο των Υπουργών Ενέργειας της ΕΕ στις Βρυξέλλες, θα πάρουν μέρος ο Σ. Παπασταύρου και ο Ν. Τσάφος",
+      "simpleText": "Ο Υπουργός Ενέργειας, Σταύρος Παπασταύρου, και ο Υφυπουργός, Νίκος Τσάφος, θα πάνε στις Βρυξέλλες στις 15 Δεκεμβρίου. Εκεί θα συμμετέχουν σε συνάντηση με άλλους Υπουργούς Ενέργειας της Ευρωπαϊκής Ένωσης.\n\nΗ συνάντηση αυτή είναι σημαντική γιατί θα συζητηθεί ένα νέο πρόγραμμα που θα βοηθήσει στη βελτίωση των ενεργειακών δικτύων στην Ευρώπη. Τα ενεργειακά δίκτυα είναι τα συστήματα που μεταφέρουν ηλεκτρική ενέργεια και αέρια από μια χώρα στην άλλη. Αυτό θα βοηθήσει να έχουμε πιο ασφαλή και φτηνή ενέργεια.\n\nΕπίσης, θα συζητηθούν συμφωνίες με την Ουκρανία για την ενέργεια, και ο νέος ρόλος της Ελλάδας ως βασική πύλη για τις ενεργειακές προμήθειες στην περιοχή μας. Θα μιλήσουν επίσης για την ασφάλεια των ενεργειακών δικτύων και πώς αυτά μπορούν να προστατευτούν καλύτερα.\n\nΤο πρόγραμμα αυτό θα βοηθήσει στην ανάπτυξη και ανταγωνιστικότητα στην Ευρώπη, κάνοντας την ενέργεια πιο προσιτή και καθαρή για όλους.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-symvoulio-ton-ypourgon-energeias-tis-ee-stis-vrykselles-tha-paroun-meros-o-s-papastayrou-kai-o-n-tsafos/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-symvoulio-ton-ypourgon-energeias-tis-ee-stis-vrykselles-tha-paroun-meros-o-s-papastayrou-kai-o-n-tsafos/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/14/finance/stis-vrykselles-papastayrou-kai-tsafos-gia-to-symvoulio-ton-ypourgon-energeias-tis-ee/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση σχετίζεται με πολιτικές και στρατηγικές αποφάσεις στον τομέα της ενέργειας στην Ευρωπαϊκή Ένωση, που αφορούν την ασφάλεια, τη συνεργασία και την ανάπτυξη ενεργειακών δικτύων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T12:36:53.000Z"
+    },
+    {
+      "id": "4c2698a80f12",
+      "title": "ΟΠΕΚΕΠΕ: Εξι κακουργήματα για τους κατηγορούμενους από την Κρήτη",
+      "simpleTitle": "ΟΠΕΚΕΠΕ: Εξι κακουργήματα για τους κατηγορούμενους από την Κρήτη",
+      "simpleText": "Έξι άτομα από την Κρήτη κατηγορούνται για σοβαρά εγκλήματα λόγω παράνομων επιδοτήσεων. Πρόκειται για χρήματα που δίνονταν για στήριξη αγροτών, αλλά φαίνεται να χρησιμοποιήθηκαν παράνομα. Οι κατηγορούμενοι θεωρούνται ότι δρούσαν σαν ομάδα που έκανε παράνομες πράξεις. Τους δόθηκε χρόνος να απαντήσουν στις κατηγορίες από την Τρίτη ως την Πέμπτη. Η υπόθεση έχει σημασία γιατί αφορά σε κακή χρήση χρημάτων που θα έπρεπε να βοηθούν την αγροτική ανάπτυξη.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/563975839/opekepe-prothesmia-gia-tis-apologies-toys-tha-zitisoyn-oi-katigoroymenoi/",
+      "sourceDomains": [
         "kathimerini.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/oikonomia/o-xartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvriou/"
-        },
-        {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/local/563975227/ypoyrgeio-ergasias-o-chartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvrioy/"
+          "url": "https://www.kathimerini.gr/society/563975839/opekepe-prothesmia-gia-tis-apologies-toys-tha-zitisoyn-oi-katigoroymenoi/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/oikonomia/article/4030762/o-chartis-ton-pliromon-apo-ton-e-efka-ke-ti-dipa-eos-tis-19-dekemvriou.html"
+          "url": "https://www.news.gr/ellada/article/4031147/epta-kakourgimata-prosapti-i-evropea-isangeleas-stous-katigoroumenous-apo-tin-kriti-gia-tis-epidotisis-tou-opekepe.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σημαντικές οικονομικές πληρωμές από δημόσιες υπηρεσίες, όπως ο e-ΕΦΚΑ και η ΔΥΠΑ, που επηρεάζουν τη ζωή και την ευημερία εκατομμυρίων ανθρώπων στην Ελλάδα.",
+      "categoryReason": "Η είδηση αφορά σοβαρές κατηγορίες για κακουργήματα που σχετίζονται με παράνομες επιδοτήσεις, επηρεάζοντας την οικονομία και την αγροτική ανάπτυξη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-13T12:57:00.000Z"
+      "publishedAt": "2025-12-14T12:22:31.000Z"
     },
     {
-      "id": "484d6b68448a",
-      "title": "Μητσοτάκης: Ψηφίζουμε ένα προϋπολογισμό που μετατρέπει την πρόοδο της οικονομίας σε ατομική προκοπή",
-      "simpleTitle": "Μητσοτάκης: Ψηφίζουμε ένα προϋπολογισμό που μετατρέπει την πρόοδο της οικονομίας σε ατομική προκοπή",
-      "simpleText": "Ο πρωθυπουργός της Ελλάδας, Κυριάκος Μητσοτάκης, μίλησε για τον νέο προϋπολογισμό της χώρας σε μια συνάντηση. Αυτή η συνάντηση έγινε στο ΟΑΚΑ, ένα μεγάλο στάδιο στην Αθήνα. Ο πρωθυπουργός είπε ότι ο προϋπολογισμός αυτός θα βοηθήσει την οικονομία να βελτιωθεί και θα κάνει καλύτερη τη ζωή των ανθρώπων. Το θέμα είναι σημαντικό γιατί αφορά την οικονομική κατάσταση της Ελλάδας και πώς αυτή θα επηρεάσει τους πολίτες. Δεν έχουμε περισσότερες λεπτομέρειες για το περιεχόμενο του προϋπολογισμού.",
+      "id": "0eee22421bb2",
+      "title": "Διατροφή, τσάι και καφέ: Πώς οι πολυφαινόλες ενισχύουν την καρδιακή υγεία",
+      "simpleTitle": "Διατροφή, τσάι και καφέ: Πώς οι πολυφαινόλες ενισχύουν την καρδιακή υγεία",
+      "simpleText": "Τίτλος: Πώς το τσάι και ο καφές βοηθούν την καρδιά\n\nΜια νέα μελέτη δείχνει ότι το τσάι, ο καφές και άλλα τρόφιμα με πολυφαινόλες ωφελούν την καρδιά μας. Πολυφαινόλες είναι ουσίες που βρίσκονται σε τρόφιμα όπως τα μούρα, οι ξηροί καρποί, το κακάο, το ελαιόλαδο και τα δημητριακά. Όταν καταναλώνουμε αυτά τα τρόφιμα τακτικά, μπορεί να έχουμε καλύτερη καρδιακή υγεία με το χρόνο. Αυτή η πληροφορία είναι σημαντική γιατί μας δείχνει πώς οι διατροφικές επιλογές μπορούν να ενισχύσουν την υγεία μας.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/30220-diatrofi-tsai-kafe-kai-i-dynamiki-ton-polyphenolon-stin-kardia/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/30220-diatrofi-tsai-kafe-kai-i-dynamiki-ton-polyphenolon-stin-kardia/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε ιατρική μελέτη σχετικά με την καρδιακή υγεία και τη διατροφή, που είναι σοβαρό θέμα με σημαντικές επιπτώσεις για την υγεία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-14T09:49:00.000Z"
+    },
+    {
+      "id": "c9a8e80808d9",
+      "title": "Μητσοτάκης σε αγρότες: Δεν γίνεται διάλογος με τελεσίγραφα – Μελετάμε επιπλέον μέτρα ενίσχυσης",
+      "simpleTitle": "Μητσοτάκης σε αγρότες: Δεν γίνεται διάλογος με τελεσίγραφα – Μελετάμε επιπλέον μέτρα ενίσχυσης",
+      "simpleText": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης μίλησε προς τους αγρότες. Είπε ότι η κυβέρνηση σκέφτεται νέα μέτρα στήριξης για αυτούς. Θέλει να συζητήσει με τους αγρότες, χωρίς όμως αυτοί να θέτουν τελεσίγραφα, δηλαδή απαιτήσεις που δεν αλλάζουν. Ο πρωθυπουργός θεωρεί ότι οι συγκεντρώσεις και οι αποκλεισμοί δρόμων δεν βοηθούν στη λύση των προβλημάτων. Η κατάσταση είναι σημαντική για την οικονομία και την γεωργία στη χώρα. Δεν γνωρίζουμε περισσότερες λεπτομέρειες για τα νέα μέτρα.",
       "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/politics/563975212/mitsotakis-psifizoyme-ena-proypologismo-poy-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/",
+      "sourceUrl": "https://www.kathimerini.gr/politics/563975773/mitsotakis-se-agrotes-den-ginetai-dialogos-me-telesigrafa-meletame-epipleon-metra-enischysis/",
       "sourceDomains": [
         "kathimerini.gr",
         "tovima.gr"
@@ -160,25 +361,25 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/563975212/mitsotakis-psifizoyme-ena-proypologismo-poy-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/"
+          "url": "https://www.kathimerini.gr/politics/563975773/mitsotakis-se-agrotes-den-ginetai-dialogos-me-telesigrafa-meletame-epipleon-metra-enischysis/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/13/politics/mitsotakis-gia-proypologismo-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/"
+          "url": "https://www.tovima.gr/2025/12/14/politics/mitsotaki-se-agrotes-dialogos-den-ginetai-me-telesigrafa-ta-mploka-yponomeyoun-ta-aitimata/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με τον νέο προϋπολογισμό της Ελλάδας και τις δηλώσεις του πρωθυπουργού, αγγίζοντας σοβαρά θέματα οικονομίας και πολιτικής.",
+      "categoryReason": "Η είδηση αφορά την πολιτική και οικονομική κατάσταση που επηρεάζει τους αγρότες και την κυβέρνηση, με σοβαρές συζητήσεις για μέτρα ενίσχυσης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-13T12:12:48.000Z"
+      "publishedAt": "2025-12-14T08:17:20.000Z"
     },
     {
       "id": "f660de306490",
       "title": "Η Ρουμανία δείχνει τον δρόμο: Ένα πρωτοποριακό σύστημα ανακύκλωσης που αγγίζει το 94%",
       "simpleTitle": "Η Ρουμανία δείχνει τον δρόμο: Ένα πρωτοποριακό σύστημα ανακύκλωσης που αγγίζει το 94%",
-      "simpleText": "Η Ρουμανία δημιούργησε ένα πολύ καλό σύστημα ανακύκλωσης. Σε δύο χρόνια, κατάφερε να συγκεντρώσει 94% των πλαστικών, γυάλινων και μεταλλικών δοχείων. Αυτή η επιτυχία έγινε με συνεργασία ανάμεσα στο κράτος και τις ιδιωτικές εταιρείες, μέσω της εταιρείας RetuRO. Το σύστημα είναι απλό και ξεκίνησε από την αρχή, χωρίς να αντικαταστήσει κάτι παλιό. Αυτή η πρωτοβουλία είναι σημαντική γιατί συμβάλλει στην προστασία του περιβάλλοντος.",
+      "simpleText": "Η Ρουμανία ανέπτυξε ένα σύστημα για την ανακύκλωση συσκευασιών που φτάνει το 94% επιτυχίας. Αυτό έγινε με συνεργασία της κυβέρνησης και ιδιωτικών εταιρειών, μέσα από την εταιρεία RetuRO. Το σύστημα είναι απλό, χωρίς να αντικαθιστά παλιές μεθόδους, αλλά δημιουργήθηκε από την αρχή. Στόχος είναι η καλύτερη συλλογή πλαστικών, γυάλινων και μεταλλικών δοχείων. Είναι σημαντικό, γιατί βοηθάει στο περιβάλλον και μπορεί να αποτελέσει παράδειγμα για άλλες χώρες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30214-roumania-anakiklosi-epitixia-sto-systima-epistrofis/",
       "sourceDomains": [
@@ -191,7 +392,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα καινοτόμο σύστημα ανακύκλωσης που έχει σημαντικές επιπτώσεις στο περιβάλλον και στην κοινωνία, στοιχεία που την καθιστούν σοβαρή.",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό περιβαλλοντικό ζήτημα, δηλαδή την ανακύκλωση και την τήρηση περιβαλλοντικών προτύπων, που έχει σημαντικό κοινωνικό και οικολογικό αντίκτυπο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -201,7 +402,7 @@
       "id": "b21b89451997",
       "title": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
       "simpleTitle": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
-      "simpleText": "Τίτλος: Η πρωτεΐνη Klotho βοηθά στην υγιή γήρανση\n\nΕπιστήμονες από το Πανεπιστήμιο της Βαρκελώνης ανακάλυψαν ότι μια πρωτεΐνη, που ονομάζεται Klotho, μπορεί να βοηθήσει τους ανθρώπους να γερνούν πιο υγιείς. Η Klotho μπορεί να επιβραδύνει τη διαδικασία της γήρανσης, προσφέροντας καλύτερη και μεγαλύτερη διάρκεια ζωής. Αυτή η ανακάλυψη είναι σημαντική γιατί μπορεί να βελτιώσει την ποιότητα ζωής των ανθρώπων στο μέλλον. Ακόμα δεν είναι ξεκάθαρο πώς ακριβώς λειτουργεί αυτό ή πότε θα είναι διαθέσιμο.",
+      "simpleText": "Τίτλος: Νέα πρωτεΐνη μπορεί να βοηθήσει στην υγιή γήρανση\n\nΟι επιστήμονες στην Ισπανία, από το Πανεπιστήμιο της Βαρκελώνης, βρήκαν κάτι σημαντικό. Ερευνούν μια πρωτεΐνη που ονομάζεται Klotho. Πιστεύουν ότι αυτή η πρωτεΐνη μπορεί να βοηθήσει τους ανθρώπους να γερνούν πιο υγιεινά και να ζουν περισσότερο.\n\nΗ μελέτη είναι σημαντική γιατί πολλοί άνθρωποι θέλουν να ξέρουν πώς να μένουν υγιείς καθώς μεγαλώνουν. Η έρευνα συνεχίζεται και οι επιστήμονες ελπίζουν να βρουν νέους τρόπους για να βελτιώσουν τη ζωή μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30206-i-proteini-klotho-anoigei-neo-dromo-gia-ygi-giransi-kai-makrozoia/",
       "sourceDomains": [
@@ -214,7 +415,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρή ιατρική ανακάλυψη που σχετίζεται με τη γήρανση και την ποιότητα ζωής των ανθρώπων, επομένως κατατάσσεται στην κατηγορία serious.",
+      "categoryReason": "Η είδηση αφορά την έρευνα για την υγιή γήρανση και μακροχρόνια επιβίωση, θεμάτων που σχετίζονται με την υγεία και την επιστήμη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -224,7 +425,7 @@
       "id": "6428763328fc",
       "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
       "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-      "simpleText": "Μια παλιά ρωμαϊκή σαρκοφάγος ανακαλύφθηκε στη Βουδαπέστη. Η σαρκοφάγος είναι περίπου 1.700 ετών και βρέθηκε στο Όμπουντα, μια περιοχή της Βουδαπέστης. Μέσα βρέθηκαν στοιχεία για μια νεαρή γυναίκα που είχε ταφεί εκεί. Η ανακάλυψη αυτή μας βοηθά να μάθουμε περισσότερα για τη ζωή στην αρχαία Ρωμαϊκή Παννονία. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Αυτή η ανακάλυψη είναι σημαντική γιατί μας δείχνει πώς ζούσαν οι άνθρωποι εκείνη την εποχή.",
+      "simpleText": "Μια αρχαιολογική ανακάλυψη έγινε στη Βουδαπέστη. Βρέθηκε μια ρωμαϊκή σαρκοφάγος, δηλαδή ένα πέτρινο φέρετρο, που είναι περίπου 1.700 ετών. Η σαρκοφάγος βρέθηκε άθικτη στην περιοχή Όμπουντα. Μέσα σε αυτήν είχε ταφεί μια νεαρή γυναίκα. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της Βουδαπέστης. Αυτή η ανακάλυψη είναι σημαντική γιατί μας δίνει πληροφορίες για τη ζωή στην ρωμαϊκή εποχή στην περιοχή της Παννονίας. Δεν έχουν γνωστοποιηθεί άλλες λεπτομέρειες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
       "sourceDomains": [
@@ -237,7 +438,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου σχετίζεται με την ιστορία και τον πολιτισμό της αρχαίας Ρώμης, προσφέροντας πολύτιμες πληροφορίες για τη ζωή της εποχής, που την κατατάσσει στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου προσφέρει πολιτιστικές και ιστορικές πληροφορίες σχετικά με τη ζωή στην αρχαία εποχή, εστιάζοντας στην αρχαιολογία και τις πολιτιστικές εκδηλώσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -247,7 +448,7 @@
       "id": "e92812af0401",
       "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
       "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-      "simpleText": "Ένας πρώην αστυνομικός, ο Wade Milyard, έχει δημιουργήσει μια κινητή μονάδα πλυντηρίου για άστεγους. Αυτό σημαίνει ότι έχει φτιάξει ένα όχημα που μπορεί να πλένει ρούχα και πηγαίνει σε διαφορετικά μέρη. Η ιδέα ξεκίνησε όταν επισκέφτηκε έναν χώρο κατοικίας αστέγων στο Frederick, μια πόλη στη Μέριλαντ της Αμερικής. Ήθελε να βοηθήσει αυτούς τους ανθρώπους να έχουν καθαρά ρούχα. Αυτό είναι σημαντικό γιατί βοηθά τους άστεγους να ζουν με αξιοπρέπεια και να νιώθουν καλύτερα.",
+      "simpleText": "Ένας πρώην αστυνομικός από το Μέριλαντ, ο Wade Milyard, ξεκίνησε μια φιλανθρωπική δράση για άστεγους. Δημιούργησε ένα κινητό πλυντήριο, δηλαδή ένα πλυντήριο ρούχων που μπορεί να μετακινηθεί εύκολα, ώστε οι άστεγοι να μπορούν να πλένουν τα ρούχα τους. Αυτή η κίνηση προσφέρει βοήθεια και ελπίδα σε ανθρώπους που ζουν δύσκολες καταστάσεις. Η ιδέα ήρθε στον Milyard όταν κάποτε επισκέφτηκε έναν πρόχειρο καταυλισμό αστέγων. Αυτή του η δράση έχει ήδη αλλάξει τη ζωή πολλών ατόμων. Δεν είναι γνωστές περισσότερες λεπτομέρειες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
       "sourceDomains": [
@@ -260,9 +461,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά μια θετική δράση που προσφέρει ελπίδα και αξιοπρέπεια στους άστεγους μέσω ενός κινητού πλυντηρίου, αντικατοπτρίζοντας μια πράξη καλοσύνης.",
+      "categoryReason": "Η ιστορία περιγράφει μια θετική και ενθαρρυντική δράση ενός πρώην αστυνομικού που δημιουργεί ένα κινητό πλυντήριο για να βοηθήσει άστεγους, προσφέροντας ελπίδα και βελτίωση στις ζωές τους.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g728743f3195d11db29d8aa3c376f8db64d2200700eb7ca7303dc38d40cec0b1a9bf1d7e22422c2d4110082cdcb76016627dbea7778a52632884ba365e36deeb2_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/ga630900a9fa635cef4658cf575872ce20fb94bf944eb8ef7508d3533a5567fbdc3ed625994e76cef61dc10e9d85ea0f6fa40724966674f2055f94182a286327f_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-12T05:29:00.000Z"
     },
@@ -270,7 +471,7 @@
       "id": "67ee5b41d5e6",
       "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
       "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-      "simpleText": "Το Μουσείο Μαρία Κάλλας στην Αθήνα οργανώνει ένα μεγάλο υπαίθριο πάρτι. Η εκδήλωση θα γίνει την Παρασκευή, 12 Δεκεμβρίου 2025, στις 8 το βράδυ. Πριν λίγες μέρες, το πάρτι είχε αναβληθεί λόγω κακού καιρού. Η γιορτή θα γίνει στην οδό Πετράκη, κοντά στο μουσείο. Ο σκοπός είναι να τιμηθεί η γνωστή τραγουδίστρια της όπερας, Μαρία Κάλλας, με χαρούμενη μουσική και διασκέδαση. Είναι μια ευκαιρία για όλους να περάσουν καλά και να θυμηθούν την καλλιτεχνική της κληρονομιά.",
+      "simpleText": "Την Παρασκευή 12 Δεκεμβρίου 2025, στην Αθήνα θα γίνει μια βραδιά γιορτής για τη Μαρία Κάλλας. Το street party θα γίνει στην οδό Πετράκη, κοντά στο Μουσείο Μαρία Κάλλας. Η εκδήλωση είχε αναβληθεί προηγουμένως λόγω κακού καιρού. Οι επισκέπτες θα απολαύσουν μουσική και χορό, τιμώντας τη μεγάλη καλλιτέχνη. Είναι μια ευκαιρία για την πόλη να γιορτάσει και να κρατήσει ζωντανή τη μνήμη της Κάλλας με χαρούμενο τρόπο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
       "sourceDomains": [
@@ -283,9 +484,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά ένα εορταστικό street party που θα τιμήσει την Μαρία Κάλλας, προσφέροντας χαρούμενη μουσική και διασκέδαση, γεγονός που δημιουργεί θετική διάθεση και γιορτινή ατμόσφαιρα.",
+      "categoryReason": "Η είδηση αφορά ένα γιορτινό street party προς τιμήν της Μαρίας Κάλλας, που έχει ευχάριστο χαρακτήρα και προάγει τη διασκέδαση και τον εορτασμό της καλλιτεχνικής της κληρονομιάς.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g159e8d291cd43838a308c606a7f0fcc83b59f492d44e0426a252970ef9b9bad693e9998f90bbb1294f7ea78ca9f6b19f139d8dd3040d4f0a9c1757c91c85434b_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g62dac53e7def2fe78ea32477225b3b7c1965b3cc13ea63a6ba82c07a942b242a9e7b35269c31c1eea5757158e2b92e764196daa58453ba21dc1410e0a9327fff_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-11T16:55:58.000Z"
     },
@@ -293,7 +494,7 @@
       "id": "10412cb7acb4",
       "title": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
       "simpleTitle": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
-      "simpleText": "Τίτλος: Έρευνα εξετάζει την σχέση πιθήκων με το αλκοόλ\n\nΜια νέα έρευνα μελέτησε πώς οι πίθηκοι σχετίζονται με το αλκοόλ. Οι επιστήμονες πιστεύουν ότι η έλξη για το αλκοόλ μπορεί να προέρχεται από την εποχή που οι πρόγονοί μας ήταν πιθήκοι. Δηλαδή, η αγάπη για το αλκοόλ μπορεί να μην είναι μόνο κάτι που μάθαμε πρόσφατα, αλλά κάτι που υπήρχε από τα παλιά. Αυτό βοηθά να καταλάβουμε καλύτερα την εξέλιξή μας και γιατί οι άνθρωποι έχουν αυτή την έλξη προς το αλκοόλ. Η έρευνα αυτή είναι σημαντική γιατί δίνει νέες πληροφορίες για την ιστορία μας. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες.",
+      "simpleText": "Τίτλος: Έρευνα: Οι πίθηκοι και το αλκοόλ στην εξέλιξη\n\nΜια νέα έρευνα μελετά πώς οι πίθηκοι σχετίζονται με το αλκοόλ. Η έρευνα δείχνει ότι η σχέση αυτή δεν είναι μόνο θέμα του σύγχρονου πολιτισμού. Οι επιστήμονες πιστεύουν ότι η έλξη των πρωτευόντων για το αλκοόλ έχει βαθιές ρίζες στην εξέλιξή τους. Δεν είναι ακόμα γνωστές όλες οι λεπτομέρειες. Αυτή η ανακάλυψη είναι σημαντική για να κατανοήσουμε καλύτερα την εξέλιξη των ζώων και ίσως και του ανθρώπου.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30047-exelixi-alkool-erevna-stous-pithikous/",
       "sourceDomains": [
@@ -306,7 +507,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η έρευνα εξετάζει σοβαρά θέματα σχετικά με την εξέλιξη των ανθρώπων και τη σχέση τους με το αλκοόλ, αναδεικνύοντας πτυχές που αφορούν την ιστορία της ανθρωπότητας.",
+      "categoryReason": "Η έρευνα εξετάζει τις επιστημονικές ρίζες της έλξης των πιθήκων προς το αλκοόλ, συνδέοντας τη με την εξέλιξή τους, γεγονός που σχετίζεται με σοβαρά ζητήματα επιστήμης και ανθρώπινης κατανόησης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -316,7 +517,7 @@
       "id": "31063950671f",
       "title": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
       "simpleTitle": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
-      "simpleText": "**Τίτλος:** Το πρωινό γεύμα και η σχέση του με την υγεία και το άγχος\n\nΤο πρωινό είναι το πρώτο γεύμα που τρώμε κάθε μέρα. Μας δίνει ενέργεια για να ξεκινήσουμε σωστά τη μέρα μας. Είναι πολύ σημαντικό για την υγεία μας, καθώς βοηθά στην εξισορρόπηση της όρεξης και της ευεξίας μας.\n\nΣήμερα, πολλοί άνθρωποι δυσκολεύονται να φάνε ένα θρεπτικό πρωινό. Οι γρήγοροι ρυθμοί της ζωής το κάνουν δύσκολο. Ένα καλό πρωινό μπορεί να μειώσει το άγχος και να μας βοηθήσει να νιώθουμε καλύτερα.\n\nΕίναι σημαντικό να προσπαθούμε να έχουμε ένα υγιεινό πρωινό κάθε μέρα. Αυτή η συνήθεια μπορεί να βελτιώσει τη ζωή μας μακροπρόθεσμα.",
+      "simpleText": "Τίτλος: Το Πρωινό, Η Υγεία και Το Στρες\n\nΤο πρωινό είναι το πρώτο γεύμα της ημέρας και θεωρείται πολύ σημαντικό για την υγεία μας. Μας δίνει ενέργεια και βοηθά να έχουμε καλή διάθεση. Βοηθά επίσης στο να μην πεινάμε πολύ μέσα στην ημέρα.\n\nΠαρόλα αυτά, οι γρήγοροι ρυθμοί της ζωής μας δυσκολεύουν να επιλέξουμε σωστή τροφή το πρωί. Έχουμε πολύ άγχος και δεν βρίσκουμε χρόνο να φάμε υγιεινά. Είναι σημαντικό να προσπαθούμε να τρώμε καλά το πρωί, γιατί έτσι νιώθουμε καλύτερα και έχουμε λιγότερο στρες. Τα στοιχεία για το πώς ακριβώς συμβαίνει αυτό δεν είναι όλα γνωστά.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30211-to-proino-kai-pos-syndeetai-me-ygeia-kai-stres/",
       "sourceDomains": [
@@ -329,7 +530,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με τη σημασία του πρωινού γεύματος για την υγεία και την ευεξία, καθώς και την επίδραση του άγχους, που είναι σοβαρά θέματα υγείας.",
+      "categoryReason": "Η είδηση εξετάζει τη σημασία του πρωινού στην υγεία και τη σύνδεσή του με το άγχος, θέματα που σχετίζονται με την ευημερία και τη διαβίωση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -339,7 +540,7 @@
       "id": "3927486c1550",
       "title": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
       "simpleTitle": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
-      "simpleText": "### Νέο Ηλιακό Σύστημα στο Γήπεδο της Ντόρτμουντ\n\nΤο γήπεδο Signal Iduna Park της Ντόρτμουντ στη Γερμανία εγκατέστησε το μεγαλύτερο ηλιακό σύστημα στον κόσμο. Αυτό σημαίνει ότι η οροφή του γηπέδου καλύφθηκε με περισσότερα από 11.000 ηλιακά πάνελ.\n\nΗ κίνηση αυτή δείχνει πώς ο αθλητισμός μπορεί να βοηθήσει στη σωστή χρήση της ενέργειας και να προστατέψει το περιβάλλον. Το νέο σύστημα έχει ισχύ πάνω από 5 μεγαβάτ, δηλαδή μπορεί να παράγει πολλή ενέργεια.\n\nΑυτό το έργο είναι σημαντικό γιατί βάζει νέα πρότυπα για τα αθλητικά κέντρα και δείχνει την ευθύνη για το μέλλον του πλανήτη.",
+      "simpleText": "Τίτλος: Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο\n\nΤο γήπεδο Signal Iduna Park στη Ντόρτμουντ έχει πλέον το μεγαλύτερο ηλιακό σύστημα στον κόσμο στη στέγη του. Έχει πάνω από 11.000 πάνελ, που μαζεύουν ηλιακή ενέργεια. Το έργο αυτό δείχνει πώς οι αθλητικοί χώροι μπορούν να χρησιμοποιούν ενέργεια με πιο υπεύθυνο τρόπο. Αυτό είναι σημαντικό γιατί βοηθά το περιβάλλον και βάζει νέα πρότυπα για άλλα γήπεδα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30010-gipedo-ntortmount-megalytero-ston-kosmo-iliako-systima/",
       "sourceDomains": [
@@ -352,7 +553,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική πρωτοβουλία για τη βιωσιμότητα και την υπεύθυνη χρήση ενέργειας στον αθλητισμό, κάτι που άπτεται σοβαρών περιβαλλοντικών ζητημάτων.",
+      "categoryReason": "Η εγκατάσταση του μεγαλύτερου ηλιακού συστήματος στον κόσμο στο γήπεδο της Ντόρτμουντ συνδέεται με σημαντικά θέματα βιωσιμότητας και περιβαλλοντικής ευθύνης, που αποτελούν σοβαρές ειδήσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -362,7 +563,7 @@
       "id": "b09b843e0cdc",
       "title": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
       "simpleTitle": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
-      "simpleText": "Τίτλος: Η Δίωξη Κυβερνοεγκλήματος βοηθά στην προστασία των πολιτών στο διαδίκτυο\n\nΗ Διεύθυνση Δίωξης Κυβερνοεγκλήματος είναι τμήμα της Ελληνικής Αστυνομίας. Βοηθά στην ασφάλεια των πολιτών στο διαδίκτυο. Αυτό είναι σημαντικό γιατί πολλοί άνθρωποι και επιχειρήσεις χρησιμοποιούν την τεχνολογία καθημερινά. Όταν υπάρχουν προβλήματα ασφάλειας, η ΔΙΔΙΚ επεμβαίνει για να τα λύσει. Ο στόχος είναι να είναι το διαδίκτυο ασφαλές για όλους.",
+      "simpleText": "Τίτλος: Η ΔΙΔΙΚ βοηθά στην προστασία στο διαδίκτυο\n\nΗ τεχνολογία είναι σημαντική στην καθημερινή μας ζωή. Για αυτό, χρειάζεται να προστατεύουμε τους πολίτες και τις επιχειρήσεις από κινδύνους στο διαδίκτυο. Η Διεύθυνση Δίωξης Κυβερνοεγκλήματος (ΔΙΔΙΚ) της Ελληνικής Αστυνομίας εργάζεται για να κρατήσει το διαδίκτυο ασφαλές. Παρακολουθεί τις εξελίξεις και επεμβαίνει όταν υπάρχει πρόβλημα. Η δουλειά της είναι σημαντική για να νιώθουμε ασφαλείς όταν χρησιμοποιούμε το διαδίκτυο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30209-kyvernoasfaleia-prostasia-politon-didik/",
       "sourceDomains": [
@@ -375,147 +576,68 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα κυβερνοασφάλειας και προστασίας πολιτών, τα οποία είναι κρίσιμα για την ασφάλεια και την προστασία των δικαιωμάτων των ατόμων στον ψηφιακό χώρο.",
+      "categoryReason": "Η είδηση αφορά την κυβερνοασφάλεια και την προστασία των πολιτών από online κινδύνους, που είναι σοβαρά ζητήματα κοινωνικής προστασίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2025-12-10T14:22:00.000Z"
     },
     {
-      "id": "e767340659db",
-      "title": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
-      "simpleTitle": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
-      "simpleText": "Ο Δήμος Σουλίου αποφάσισε να δίνει 1.000 ευρώ σε κάθε παιδί που θα γεννιέται από την 1η Ιανουαρίου 2026 και μετά. Η απόφαση αυτή πάρθηκε από το Δημοτικό Συμβούλιο. Βοηθά έτσι τις οικογένειες που μένουν μόνιμα εκεί. Ο στόχος είναι να στηριχτούν οι οικογένειες και να γεννιούνται περισσότερα παιδιά. Αυτό είναι σημαντικό, γιατί οι γεννήσεις μειώνονται και ο πληθυσμός μικραίνει.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αφορά μια θετική κίνηση που αποσκοπεί στη στήριξη των οικογενειών και την ενθάρρυνση της γέννησης παιδιών, γεγονός που δημιουργεί μια αισιόδοξη ατμόσφαιρα για τους δημότες του Δήμου Σουλίου.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-10T08:22:00.000Z"
-    },
-    {
-      "id": "15059708f215",
-      "title": "Παναθηναϊκός: Προσπάθεια για τον Έντο της Λίβερπουλ",
-      "simpleTitle": "Παναθηναϊκός: Προσπάθεια για τον Έντο της Λίβερπουλ",
-      "simpleText": "Ο Παναθηναϊκός ενδιαφέρεται για τον Βατάρου Έντο από τη Λίβερπουλ. Ο Έντο είναι 32χρονος Ιάπωνας ποδοσφαιριστής. Έχει παίξει σε υψηλό επίπεδο, αλλά φέτος δεν αγωνίζεται συχνά στη Λίβερπουλ. Αυτό μπορεί να του κοστίσει τη θέση στην εθνική Ιαπωνίας. Έχει μόλις πέντε εμφανίσεις στο αγγλικό πρωτάθλημα, κάτι που τον προβληματίζει. Ο Παναθηναϊκός εξετάζει την περίπτωσή του, αν και υπάρχουν και άλλες ομάδες που τον θέλουν. Το συμβόλαιο του Έντο με τη Λίβερπουλ λήγει το 2027, πράγμα που κάνει τη μεταγραφή δύσκολη. Ωστόσο, οι καλές σχέσεις του προπονητή Ράφα Μπενίτεθ με τη Λίβερπουλ μπορεί να βοηθήσουν.",
+      "id": "5427b8082e27",
+      "title": "ΑΕΚ: Η εντεκάδα για το παιχνίδι με τον Παναιτωλικό",
+      "simpleTitle": "ΑΕΚ: Η εντεκάδα για το παιχνίδι με τον Παναιτωλικό",
+      "simpleText": "Η ΑΕΚ ανακοίνωσε τους παίκτες που θα ξεκινήσουν στο παιχνίδι against τον Παναιτωλικό. Ο αγώνας γίνεται στο Αγρίνιο και είναι για τη 14η αγωνιστική της Super League. Η ΑΕΚ θέλει να συνεχίσει να κερδίζει στο πρωτάθλημα. Στο γήπεδο θα ξεκινήσει ο Στρακόσα ως τερματοφύλακας και στην άμυνα θα παίξουν οι Ρότα, Βίντα, Ρέλβας και Πενράις. Στη μεσαία γραμμή θα βρίσκονται οι Πινέδα, Μαρίν και Λιούμπισιτς, ενώ στην επίθεση θα παίξουν ο Καλοσκάμης, ο Ζοάο Μάριο και ο Γιόβιτς. Ο αγώνας είναι σημαντικός για την ΑΕΚ, καθώς θέλει να διατηρήσει το σερί των νικών της.",
       "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/13/sports/panathinaikos-prospatheia-gia-ton-ento-tis-liverpoul/",
+      "sourceUrl": "https://www.tanea.gr/2025/12/14/sports/aek-i-entekada-gia-to-paixnidi-me-ton-panaitoliko/",
       "sourceDomains": [
         "tanea.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/13/sports/panathinaikos-prospatheia-gia-ton-ento-tis-liverpoul/"
+          "url": "https://www.tanea.gr/2025/12/14/sports/aek-i-entekada-gia-to-paixnidi-me-ton-panaitoliko/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη μεταγραφική προσπάθεια του Παναθηναϊκού για τον ποδοσφαιριστή Βατάρου Έντο και παρέχει λεπτομέρειες σχετικά με τον παίκτη και τις διαπραγματεύσεις, γεγονός που τονίζει την αθλητική διάσταση της υπόθεσης. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρεται στην εντεκάδα της ΑΕΚ για έναν αγώνα στο πρωτάθλημα, γεγονός που συνδέεται άμεσα με το ποδόσφαιρο και τον αθλητισμό. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g25115556fcbd84ed9dabdc96f1a13ec574335540d49bae792d718bd664e11fe3837bccf435d47f9cfafb04bbf04db7f51bff3ae6170253f5b906926655763d42_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-13T12:50:18.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAEK.FC.OFFICIAL%2Fposts%2Fpfbid02h4UJGFuaugFiK4L4LziRGMeSQPV3Gz6P7Xo994vZL2D6Dw4aTMhGuqYr84U1TKpKl&amp;show_text=true&amp;width=500",
+      "publishedAt": "2025-12-14T15:00:09.000Z"
     },
     {
-      "id": "d192369693f0",
-      "title": "Αγρια επεισόδια στην Ινδία λόγω… Μέσι",
-      "simpleTitle": "Αγρια επεισόδια στην Ινδία λόγω… Μέσι",
-      "simpleText": "Στην Ινδία, έγιναν επεισόδια σε φιλικό ποδοσφαιρικό αγώνα. Χιλιάδες φίλαθλοι πλήρωσαν πολλά χρήματα για να δουν τον διάσημο ποδοσφαιριστή, Λιονέλ Μέσι. Ωστόσο, ο Μέσι έπαιξε μόνο για λίγο. Αυτό εξόργισε τους ανθρώπους, και ξεκίνησαν να σπάνε καρέκλες και να προκαλούν ζημιές. Η κατάσταση προκάλεσε ανησυχία, αλλά δεν είναι γνωστές άλλες λεπτομέρειες.",
-      "sourceName": "Protagon",
-      "sourceUrl": "https://www.protagon.gr/epikairotita/agria-epeisodia-stin-india-logw-mesi-44343275066",
+      "id": "a36227a19510",
+      "title": "Live streaming: Δείτε τον αγώνα Περιστέρι-Ολυμπιακός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Live streaming: Δείτε τον αγώνα Περιστέρι-Ολυμπιακός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+      "simpleText": "Σήμερα στις 16:00, ο Ολυμπιακός παίζει μπάσκετ με το Περιστέρι. Ο αγώνας είναι μέρος του πρωταθλήματος Ελλάδας, που λέγεται Basket League. Μπορείτε να δείτε το παιχνίδι ζωντανά στην τηλεόραση, στο κανάλι ΕΡΤ2 ΣΠΟΡ. Είναι μια καλή ευκαιρία να παρακολουθήσετε δύο μεγάλες ομάδες να παίζουν.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-peristeri-olympiakos-gia-tin-basket-league-16-00-ert2-spor/",
       "sourceDomains": [
-        "protagon.gr"
+        "ertnews.gr"
       ],
       "sources": [
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/agria-epeisodia-stin-india-logw-mesi-44343275066"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-peristeri-olympiakos-gia-tin-basket-league-16-00-ert2-spor/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά αγώνες και την αντίδραση φιλάθλων σχετικά με την παρουσία του ποδοσφαιριστή Λιονέλ Μέσι σε φιλικό παιχνίδι. | rss_backfill",
+      "categoryReason": "Ο αγώνας Περιστέρι-Ολυμπιακός είναι γεγονός που συνδέεται άμεσα με τον κόσμο των σπορ και ιδιαίτερα του μπάσκετ. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-13T14:10:45.000Z"
+      "imageUrl": "https://pixabay.com/get/gd01173e43b4519029d88bb0d223c2270495f59b3ddf9b0c96654707fade09da9f700615d32b17404db0536247c8a60d42f03289b1b33fc1bedf2db612ed07d7e_1280.jpg",
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+      "publishedAt": "2025-12-14T13:50:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "d10b47eaf6d1",
-        "title": "Η ειρήνη για την Ουκρανία δεν απέχει πολύ, δήλωσε ο Ερντογάν μετά τη συνάντηση με τον Πούτιν",
-        "simpleTitle": "Η ειρήνη για την Ουκρανία δεν απέχει πολύ, δήλωσε ο Ερντογάν μετά τη συνάντηση με τον Πούτιν",
-        "simpleText": "Ο Πρόεδρος της Τουρκίας, Ταγίπ Ερντογάν, συναντήθηκε με τον Ρώσο Πρόεδρο, Βλαντιμίρ Πούτιν, στο Τουρκμενιστάν. Η συνάντησή τους διήρκεσε 90 λεπτά και είχε στόχο τη συζήτηση για την ειρήνη στην Ουκρανία. Ο Ερντογάν δήλωσε ότι η ειρήνη δεν είναι μακριά. Σκοπεύει να συζητήσει το θέμα με τον Πρόεδρο των Ηνωμένων Πολιτειών. Οι δηλώσεις του έγιναν κατά την επιστροφή του στην Τουρκία. Η εξέλιξη αυτή είναι σημαντική καθώς δείχνει πιθανότητα βελτίωσης της κατάστασης στην Ουκρανία.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-eirini-gia-tin-oukrania-den-apexei-poly-dilose-o-erntogan-meta-ti-synantisi-me-ton-poutin/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/i-eirini-gia-tin-oukrania-den-apexei-poly-dilose-o-erntogan-meta-ti-synantisi-me-ton-poutin/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563975305/synantisi-poytin-erntogan-90-lepta-gia-tin-oykrania/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές εξελίξεις σχετικά με την ειρήνη στην Ουκρανία και τις διπλωματικές συναντήσεις των ηγετών, γεγονός που συνδέεται με μεγάλα κοινωνικά ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-13T14:46:00.000Z"
-      },
-      {
-        "id": "0938dd1a2f3f",
-        "title": "Αγρότες: «Οχι» στη συνάντηση της Δευτέρας στο Μαξίμου – Τι αποφάσισαν",
-        "simpleTitle": "Αγρότες: «Οχι» στη συνάντηση της Δευτέρας στο Μαξίμου – Τι αποφάσισαν",
-        "simpleText": "Οι αγρότες αποφάσισαν να μην συναντηθούν με τον πρωθυπουργό τη Δευτέρα στο Μέγαρο Μαξίμου. Θεωρούν ότι η πρόσκληση δεν είναι σοβαρή και προγραμματίζουν να εντείνουν τις κινητοποιήσεις τους. Ετοιμάζουν μια λίστα με αιτήματά τους για την κυβέρνηση. Η κατάσταση είναι σημαντική γιατί οι αγρότες ζητούν από την κυβέρνηση να αλλάξει κάποια θέματα που τους αφορούν. Δεν υπάρχουν περισσότερες πληροφορίες για τους λόγους που οι αγρότες λένε «όχι» στη συνάντηση.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/society/563975248/agrotes-ochi-sti-synantisi-tis-deyteras-sto-maximoy-ti-apofasisan/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563975248/agrotes-ochi-sti-synantisi-tis-deyteras-sto-maximoy-ti-apofasisan/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/oi-agrotes-lene-oxi-sti-synantisi-me-ton-mitsotaki-ti-apofasisan-44343275080"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την απόφαση των αγροστών να μην συμμετάσχουν σε συνάντηση με τον πρωθυπουργό, προαναγγέλλοντας κλιμάκωση των κινητοποιήσεών τους και τονίζει σοβαρά ζητήματα που σχετίζονται με τα αιτήματα τους προς την κυβέρνηση.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-13T14:23:31.000Z"
-      },
-      {
-        "id": "560095ff2d7e",
-        "title": "Διάσωση 24 μεταναστών νότια του Ταινάρου με συνδρομή της Frontex",
-        "simpleTitle": "Διάσωση 24 μεταναστών νότια του Ταινάρου με συνδρομή της Frontex",
-        "simpleText": "Σώθηκαν 24 μετανάστες κοντά στο Ταίναρο\n\nΠριν λίγες μέρες, 24 μετανάστες βρίσκονταν σε μια μικρή βάρκα στη θάλασσα, 38 ναυτικά μίλια νοτιοδυτικά του ακρωτηρίου Ταίναρου. Το Ενιαίο Κέντρο Συντονισμού έψαξε για αυτούς και βοήθησε να σωθούν. Στην επιχείρηση συμμετείχε ένα πλοίο της FRONTEX, που είναι μια υπηρεσία που βοηθά στη φύλαξη των συνόρων. Δύο άλλα πλοία που ήταν κοντά πήγαν να βοηθήσουν. Οι μετανάστες μεταφέρθηκαν στο λιμάνι της Καλαμάτας και τώρα θα γίνουν οι απαραίτητες διαδικασίες από τις αρχές. Η διάσωση αυτή είναι σημαντική γιατί προστατεύει ανθρώπους που κινδυνεύουν στη θάλασσα.",
+        "id": "9d5f754fc793",
+        "title": "Π. Μαρινάκης: Αν το 2027 δεν πετύχουμε τους στόχους μας, τότε είμαι βέβαιος, ότι όλα όσα συζητάμε δεν θα είναι δεδομένα",
+        "simpleTitle": "Π. Μαρινάκης: Αν το 2027 δεν πετύχουμε τους στόχους μας, τότε είμαι βέβαιος, ότι όλα όσα συζητάμε δεν θα είναι δεδομένα",
+        "simpleText": "Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης δήλωσε ότι αν η Ελλάδα δεν πετύχει τους στόχους της μέχρι το 2027, τίποτα δεν θα είναι δεδομένο. Ανέφερε πως η χώρα κάνει προσπάθειες να μειώσει τη διαφορά της με την Ευρώπη. Υπογράμμισε ότι πολλές δουλειές έχουν δημιουργηθεί και η οικονομία έχει βελτιωθεί.\n\nΜίλησε για την ανάγκη μιας σταθερής πολιτικής για να συνεχιστεί αυτή η πρόοδος. Ανέφερε επίσης ότι δεν αρκεί μόνο η αλλαγή νόμων για τη μείωση του εγκλήματος, αλλά χρειάζεται και δράση από την κυβέρνηση.\n\nΟι δηλώσεις έγιναν σε συνάντηση με πολιτικούς από τη Νέα Δημοκρατία. Ο Μαρινάκης τόνισε ότι η κυβέρνηση Μητσοτάκη έχει επιτύχει πολλούς στόχους και σχεδιάζει περαιτέρω βελτιώσεις.",
         "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/diasosi-24-metanaston-notia-tou-tainarou-me-syndromi-tis-frontex/",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/p-marinakis-an-to-2027-den-petyxoume-tous-stoxous-mas-tote-eimai-vevaios-oti-ola-osa-syzitame-den-tha-einai-dedomena/",
         "sourceDomains": [
           "ertnews.gr",
           "tanea.gr"
@@ -523,108 +645,164 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/diasosi-24-metanaston-notia-tou-tainarou-me-syndromi-tis-frontex/"
+            "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/p-marinakis-an-to-2027-den-petyxoume-tous-stoxous-mas-tote-eimai-vevaios-oti-ola-osa-syzitame-den-tha-einai-dedomena/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/13/greece/diasosi-24-metanaston-notia-toy-tainaroy-me-ti-voitheia-tis-frontex/"
+            "url": "https://www.tanea.gr/2025/12/14/politics/paylos-marinakis-an-to-2027-den-petyxoyme-toys-stoxoys-mas-tote-ola-osa-syzitame-den-tha-e/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η διάσωση μεταναστών σε επικίνδυνες συνθήκες στη θάλασσα σχετίζεται με σοβαρά κοινωνικά και ανθρωπιστικά ζητήματα.",
+        "categoryReason": "Η είδηση αφορά τις δηλώσεις του κυβερνητικού εκπροσώπου σχετικά με την οικονομική κατάσταση της Ελλάδας και τις πολιτικές προσεγγίσεις που πρέπει να ακολουθηθούν για την ανάπτυξη της χώρας, θέμα που σχετίζεται με σοβαρά πολιτικά και κοινωνικά ζητήματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-13T14:21:49.000Z"
+        "publishedAt": "2025-12-14T15:53:32.000Z"
       },
       {
-        "id": "71d4c78aac60",
-        "title": "Μερτς: Αν πέσει η Ουκρανία, στο στόχαστρο του Πούτιν θα βρεθεί η ΕΕ",
-        "simpleTitle": "Μερτς: Αν πέσει η Ουκρανία, στο στόχαστρο του Πούτιν θα βρεθεί η ΕΕ",
-        "simpleText": "Ο Γερμανός καγκελάριος, Φρίντριχ Μερτς, μίλησε σε ένα συνέδριο στο Μόναχο. Είπε ότι ο κόσμος δεν είναι σε πλήρη ειρήνη ούτε σε πόλεμο. Αν η Ουκρανία κατακτηθεί από τη Ρωσία, ίσως η Ευρωπαϊκή Ένωση βρεθεί σε κίνδυνο. Αυτό σημαίνει ότι η ΕΕ μπορεί να γίνει στόχος. Ο Μερτς τόνισε τη σημασία της υποστήριξης της Ουκρανίας. Είπε ότι η Γερμανία χρειάζεται αλλαγές και οι νέοι να βοηθήσουν τη χώρα. Υπογράμμισε ότι δεν πρέπει να παίξουμε με την ειρήνη στην Ευρώπη.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/merts-an-pesei-i-oukrania-sto-stoxastro-tou-poutin-tha-vrethei-i-ee/",
+        "id": "6dd7c0e851cf",
+        "title": "OΛME: Συμμετοχή στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ στις 16 Δεκεμβρίου",
+        "simpleTitle": "OΛME: Συμμετοχή στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ στις 16 Δεκεμβρίου",
+        "simpleText": "Η ΟΛΜΕ, η ένωση των εκπαιδευτικών, ανακοίνωσε ότι οι εκπαιδευτικοί θα συμμετάσχουν στην πανδημοσιοϋπαλληλική απεργία της ΑΔΕΔΥ, στις 16 Δεκεμβρίου. Υπήρχαν φήμες ότι οι εκπαιδευτικοί δεν θα συμμετείχαν, αλλά η ΟΛΜΕ τόνισε ότι αυτές οι φήμες είναι ψευδείς. Η απεργία γίνεται για να διεκδικήσουν καλύτερους όρους εργασίας και προστασία των δικαιωμάτων τους. Η συμμετοχή αυτή είναι σημαντική για τους αγώνες των εργαζομένων στο δημόσιο τομέα.",
+        "sourceName": "ERT News, TA NEA, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/olme-symmetoxi-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvriou/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr"
+          "tanea.gr",
+          "protagon.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/merts-an-pesei-i-oukrania-sto-stoxastro-tou-poutin-tha-vrethei-i-ee/"
+            "url": "https://www.ertnews.gr/eidiseis/ellada/olme-symmetoxi-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvriou/"
           },
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563975242/merts-an-pesei-i-oykrania-sto-stochastro-tis-rosias-tha-tethei-i-e-e/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/14/greece/olme-symmetexoyme-stin-pandimosioypalliliki-apergia-tis-adedy-stis-16-dekemvrioy/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/olme-symmetexoume-stin-apergia-tis-adedy-tin-triti-44343275399"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις δηλώσεις του Γερμανού καγκελάριου Φρίντριχ Μερτς σχετικά με την γεωπολιτική κατάσταση στην Ευρώπη και την απειλή που μπορεί να υπάρξει για την ΕΕ αν η Ουκρανία κατακτηθεί από τη Ρωσία, κάτι που συνδέεται με σοβαρά ζητήματα ασφάλειας και πολιτικής.",
+        "categoryReason": "Η είδηση αφορά την συμμετοχή εκπαιδευτικών σε απεργία για την υπεράσπιση των εργασιακών τους δικαιωμάτων, που συνδέεται με σοβαρά κοινωνικά και πολιτικά θέματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-13T13:35:48.000Z"
+        "publishedAt": "2025-12-14T15:52:34.000Z"
       },
       {
-        "id": "3a1a8e43ef2a",
-        "title": "Ο «χάρτης» των πληρωμών από τον e-ΕΦΚΑ και τη ΔΥΠΑ έως τις 19 Δεκεμβρίου",
-        "simpleTitle": "Ο «χάρτης» των πληρωμών από τον e-ΕΦΚΑ και τη ΔΥΠΑ έως τις 19 Δεκεμβρίου",
-        "simpleText": "Πληροφορίες πληρωμών από e-ΕΦΚΑ και ΔΥΠΑ 15-19 Δεκεμβρίου\n\nΑπό τις 15 έως τις 19 Δεκεμβρίου 2025, θα δοθούν 1.462.243.998,92 ευρώ σε περίπου 3 εκατομμύρια άτομα. Τα χρήματα αυτά θα προέρχονται από τον e-ΕΦΚΑ και τη Δημόσια Υπηρεσία Απασχόλησης (ΔΥΠΑ).\n\nΣυγκεκριμένα:\n\n- Στις 19 Δεκεμβρίου, ο e-ΕΦΚΑ θα δώσει 1.263.000.000 ευρώ σε συνταξιούχους.\n- Στις 15 Δεκεμβρίου, θα δοθούν 160.998,92 ευρώ σε παλαιούς ασφαλισμένους.\n- Από τις 15 έως 19 Δεκεμβρίου, θα δοθούν 25.000.000 ευρώ σε όσους δικαιούνται εφάπαξ.\n\nΗ ΔΥΠΑ θα διαθέσει συνολικά 174.083.000 ευρώ για επιδόματα ανεργίας, δώρα Χριστουγέννων και μητρότητας.\n\nΑυτές οι πληρωμές είναι σημαντικές γιατί υποστηρίζουν οικονομικά εκατομμύρια ανθρώπους σε όλη την Ελλάδα.",
-        "sourceName": "ERT News, Kathimerini, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/o-xartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvriou/",
+        "id": "3ecd75a44bd2",
+        "title": "Η λίστα με τα αιτήματα των αγροτών – Τι ζητούν από την κυβέρνηση",
+        "simpleTitle": "Η λίστα με τα αιτήματα των αγροτών – Τι ζητούν από την κυβέρνηση",
+        "simpleText": "Οι αγρότες στην Ελλάδα ζητούν από την κυβέρνηση διάφορες αλλαγές για να βελτιώσουν την εργασία τους. Αυτήν τη στιγμή κάνουν κινητοποιήσεις, δηλαδή δράσεις για να ακουστεί η φωνή τους.\n\nΤα κύρια αιτήματα των αγροτών περιλαμβάνουν:\n\n1. Κατώτερες εγγυημένες τιμές στα προϊόντα τους ώστε να έχουν εισόδημα για να ζήσουν.\n2. Χαμηλότερη τιμή στο ρεύμα για τις καλλιέργειες.\n3. Επιδότηση στα γεωργικά εργαλεία και αγαθά.\n4. Να μην ενταχθεί ο ΟΠΕΚΕΠΕ στην ΑΑΔΕ, που είναι η φορολογική αρχή.\n5. Πάγωμα και ρύθμιση χρεών χωρίς προκαταβολή.\n\nΕπίσης, ζητούν καλύτερη προστασία από φυσικές καταστροφές και αποζημιώσεις για τα χαμένα ζώα και προϊόντα. Επιθυμούν επίσης να σταματήσουν οι αθρόες εισαγωγές αγροτικών προϊόντων και να διπλασιαστούν οι αγροτικές συντάξεις. Αυτά τα αιτήματα είναι σημαντικά για τους αγρότες καθώς επηρεάζουν το εισόδημα και την καθημερινή τους ζωή.",
+        "sourceName": "ERT News, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/i-lista-me-ta-aitimata-ton-agroton-ti-zitoun-apo-tin-kyvernisi/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/i-lista-me-ta-aitimata-ton-agroton-ti-zitoun-apo-tin-kyvernisi/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/14/society/aitimata-agroton-ti-zitoun-apo-tin-kyvernisi-ta-dyo-flegonta-zitimata/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά αιτήματα των αγροτών προς την κυβέρνηση σχετικά με σοβαρά οικονομικά και πολιτικά ζητήματα που επηρεάζουν την καθημερινότητά τους και το εισόδημά τους.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-14T15:51:27.000Z"
+      },
+      {
+        "id": "eda0a5a65724",
+        "title": "Μακελειό στο Σίδνεϊ: Τουλάχιστον 12 νεκροί και 29 τραυματίες – Αντιδράσεις και διεθνής καταδίκη",
+        "simpleTitle": "Μακελειό στο Σίδνεϊ: Τουλάχιστον 12 νεκροί και 29 τραυματίες – Αντιδράσεις και διεθνής καταδίκη",
+        "simpleText": "Ένοπλη επίθεση έγινε στην παραλία Bondi στο Σίδνεϊ της Αυστραλίας. Ήταν μια πολύ σοβαρή επίθεση που σόκαρε όλη τη χώρα. Δώδεκα άνθρωποι έχασαν τη ζωή τους και 29 τραυματίστηκαν. Η αστυνομία θεωρεί ότι ήταν τρομοκρατική ενέργεια. Ένας από τους δράστες είναι νεκρός, ενώ ένας άλλος νοσηλεύεται σε κρίσιμη κατάσταση.\n\nΗ επίθεση έγινε ενώ άνθρωποι γιόρταζαν το Χανουκά, μια εβραϊκή γιορτή. Η πληροφορία αυτή οδηγεί σε ανησυχίες ότι η εβραϊκή κοινότητα μπορεί να ήταν ο στόχος. Ωστόσο, οι αρχές δεν το έχουν επιβεβαιώσει επίσημα.\n\nΠολίτες έδειξαν θάρρος προσπαθώντας να σταματήσουν τους δράστες. Υπήρξαν διεθνείς αντιδράσεις και καταδίκες, ενώ πολλές χώρες ζητούν να παρθούν μέτρα κατά της αντισημιτικής βίας. Οι αρχές συνεχίζουν να ερευνούν τα αίτια της επίθεσης.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2025/12/14/world/makeleio-sto-sidnei-toylaxiston-12-nekroi-kai-29-traymaties-antidraseis-kai-diethnis-katad/",
+        "sourceDomains": [
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/14/world/makeleio-sto-sidnei-toylaxiston-12-nekroi-kai-29-traymaties-antidraseis-kai-diethnis-katad/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/14/world/synagermos-sto-sidnei-pyrovolismoi-stin-paralia-mponti-polloi-traymaties/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια σοβαρή και θλιβερή ένοπλη επίθεση που είχε ως αποτέλεσμα τον θάνατο και τον τραυματισμό πολλών ανθρώπων, γεγονός που αγγίζει σημαντικά θέματα ασφαλείας και κοινωνικών ζητημάτων.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-14T14:58:11.000Z"
+      },
+      {
+        "id": "3197608e7f80",
+        "title": "Η ορθολογική διαχείριση των αντιβιοτικών στο νοσοκομείο – Σημαντικό σεμινάριο από τον Ιατρικό Σύλλογο Αθηνών",
+        "simpleTitle": "Η ορθολογική διαχείριση των αντιβιοτικών στο νοσοκομείο – Σημαντικό σεμινάριο από τον Ιατρικό Σύλλογο Αθηνών",
+        "simpleText": "Ένα σημαντικό σεμινάριο έγινε από τον Ιατρικό Σύλλογο Αθηνών για τη σωστή χρήση των αντιβιοτικών στα νοσοκομεία. Το σεμινάριο ήταν για γιατρούς που δουλεύουν σε νοσοκομεία και έγινε με τη βοήθεια του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών. Σκοπός του είναι να ενημερωθούν οι γιατροί για ένα σοβαρό πρόβλημα: οι μικροοργανισμοί γίνονται ανθεκτικοί στα αντιβιοτικά, όταν αυτά δεν χρησιμοποιούνται σωστά. Αυτό μπορεί να κάνει πιο δύσκολη τη θεραπεία των ασθενών. Η Ελλάδα είναι από τις χώρες με υψηλή χρήση αντιβιοτικών, και είναι σημαντικό οι γιατροί να ξέρουν πώς να τα χρησιμοποιούν πιο σωστά για να προστατεύσουν τους ασθενείς.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/epistimi/evzoia/ygeia/i-orthologiki-diaxeirisi-ton-antiviotikon-sto-nosokomeio-simantiko-seminario-apo-ton-iatriko-syllogo-athinon/",
+        "sourceDomains": [
+          "ertnews.gr",
           "news.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/oikonomia/o-xartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvriou/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/economy/local/563975227/ypoyrgeio-ergasias-o-chartis-ton-pliromon-apo-ton-e-efka-kai-ti-dypa-eos-tis-19-dekemvrioy/"
+            "url": "https://www.ertnews.gr/eidiseis/epistimi/evzoia/ygeia/i-orthologiki-diaxeirisi-ton-antiviotikon-sto-nosokomeio-simantiko-seminario-apo-ton-iatriko-syllogo-athinon/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/oikonomia/article/4030762/o-chartis-ton-pliromon-apo-ton-e-efka-ke-ti-dipa-eos-tis-19-dekemvriou.html"
+            "url": "https://www.news.gr/ellada/article/4031189/isa-i-orthologiki-diachirisi-ton-antiviotikon-sto-nosokomio.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σημαντικές οικονομικές πληρωμές από δημόσιες υπηρεσίες, όπως ο e-ΕΦΚΑ και η ΔΥΠΑ, που επηρεάζουν τη ζωή και την ευημερία εκατομμυρίων ανθρώπων στην Ελλάδα.",
+        "categoryReason": "Η είδηση αφορά ένα σημαντικό σεμινάριο για τη σωστή και ορθολογική χρήση των αντιβιοτικών στα νοσοκομεία, που αντιμετωπίζει ένα σοβαρό πρόβλημα δημόσιας υγείας, την αντίσταση στα αντιβιοτικά.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/gf17549d63e9132c382ab1a87d8346ed8e407c82971e6d6aecf304ef6a11c1bedcac7b7c75905e7f1500050f9768a57520abee49100ab34088a70741db96d80eb_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-13T12:57:00.000Z"
+        "publishedAt": "2025-12-14T14:32:20.000Z"
       },
       {
-        "id": "484d6b68448a",
-        "title": "Μητσοτάκης: Ψηφίζουμε ένα προϋπολογισμό που μετατρέπει την πρόοδο της οικονομίας σε ατομική προκοπή",
-        "simpleTitle": "Μητσοτάκης: Ψηφίζουμε ένα προϋπολογισμό που μετατρέπει την πρόοδο της οικονομίας σε ατομική προκοπή",
-        "simpleText": "Ο πρωθυπουργός της Ελλάδας, Κυριάκος Μητσοτάκης, μίλησε για τον νέο προϋπολογισμό της χώρας σε μια συνάντηση. Αυτή η συνάντηση έγινε στο ΟΑΚΑ, ένα μεγάλο στάδιο στην Αθήνα. Ο πρωθυπουργός είπε ότι ο προϋπολογισμός αυτός θα βοηθήσει την οικονομία να βελτιωθεί και θα κάνει καλύτερη τη ζωή των ανθρώπων. Το θέμα είναι σημαντικό γιατί αφορά την οικονομική κατάσταση της Ελλάδας και πώς αυτή θα επηρεάσει τους πολίτες. Δεν έχουμε περισσότερες λεπτομέρειες για το περιεχόμενο του προϋπολογισμού.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/politics/563975212/mitsotakis-psifizoyme-ena-proypologismo-poy-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/",
+        "id": "d5ef8a9b1d56",
+        "title": "Θεσσαλονίκη: Έκκληση στους αγρότες να επανέλθουν στον θεσμικό διάλογο, απευθύνουν τέσσερις παραγωγικοί φορείς της βιομηχανίας και της βιοτεχνίας",
+        "simpleTitle": "Θεσσαλονίκη: Έκκληση στους αγρότες να επανέλθουν στον θεσμικό διάλογο, απευθύνουν τέσσερις παραγωγικοί φορείς της βιομηχανίας και της βιοτεχνίας",
+        "simpleText": "Στη Θεσσαλονίκη, τέσσερις σημαντικοί οργανισμοί που αντιπροσωπεύουν τη βιομηχανία και τη βιοτεχνία κάνουν έκκληση στους αγρότες. Θέλουν οι αγρότες να ξαναρχίσουν το διάλογο με την κυβέρνηση. Οι οργανισμοί αυτοί είναι: οι σύνδεσμοι Εξαγωγέων και Βιομηχανιών Ελλάδος, καθώς και τα επιμελητήρια Εμποροβιομηχανικό και Βιοτεχνικό Θεσσαλονίκης.\n\nΑνησυχούν γιατί οι αγρότες δεν θέλουν να συζητήσουν με τον πρωθυπουργό. Αυτό μπορεί να δημιουργήσει προβλήματα στην οικονομία. Χωρίς διάλογο, η παραγωγή και το εμπόριο μπορεί να υποφέρουν. Οι οργανισμοί αυτοί τονίζουν ότι η συνεργασία είναι σημαντική για τη βελτίωση της οικονομίας και τη στήριξη της χώρας.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apeythynoun-tesseris-paragogikoi-foreis-tis-viomixanias-kai-tis-viotexnias/",
         "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr"
+          "ertnews.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/politics/563975212/mitsotakis-psifizoyme-ena-proypologismo-poy-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/ert3/thessaloniki-ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apeythynoun-tesseris-paragogikoi-foreis-tis-viomixanias-kai-tis-viotexnias/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/13/politics/mitsotakis-gia-proypologismo-metatrepei-tin-proodo-tis-oikonomias-se-atomiki-prokopi/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4031181/ekklisi-stous-agrotes-na-epanelthoun-ston-thesmiko-dialogo-apo-paragogikous-foris-tis-viomichanias-ke-tis-viotechnias.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση σχετίζεται με τον νέο προϋπολογισμό της Ελλάδας και τις δηλώσεις του πρωθυπουργού, αγγίζοντας σοβαρά θέματα οικονομίας και πολιτικής.",
+        "categoryReason": "Η είδηση αφορά τη σοβαρή κατάσταση του διαλόγου μεταξύ κυβερνητικών φορέων και αγροτών, με σημαντικές επιπτώσεις στην ελληνική οικονομία.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/ge023e7ad55b9732056848d527dd0b715549f040ac52da695418ad925f22b9727a311c720bed40ca64672c0036b1ee14090b84d62d76e2c3e8ae713b64c3bd789_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-13T12:12:48.000Z"
+        "publishedAt": "2025-12-14T14:13:35.000Z"
       }
     ],
     "happy": [
@@ -632,7 +810,7 @@
         "id": "e92812af0401",
         "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
         "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-        "simpleText": "Ένας πρώην αστυνομικός, ο Wade Milyard, έχει δημιουργήσει μια κινητή μονάδα πλυντηρίου για άστεγους. Αυτό σημαίνει ότι έχει φτιάξει ένα όχημα που μπορεί να πλένει ρούχα και πηγαίνει σε διαφορετικά μέρη. Η ιδέα ξεκίνησε όταν επισκέφτηκε έναν χώρο κατοικίας αστέγων στο Frederick, μια πόλη στη Μέριλαντ της Αμερικής. Ήθελε να βοηθήσει αυτούς τους ανθρώπους να έχουν καθαρά ρούχα. Αυτό είναι σημαντικό γιατί βοηθά τους άστεγους να ζουν με αξιοπρέπεια και να νιώθουν καλύτερα.",
+        "simpleText": "Ένας πρώην αστυνομικός από το Μέριλαντ, ο Wade Milyard, ξεκίνησε μια φιλανθρωπική δράση για άστεγους. Δημιούργησε ένα κινητό πλυντήριο, δηλαδή ένα πλυντήριο ρούχων που μπορεί να μετακινηθεί εύκολα, ώστε οι άστεγοι να μπορούν να πλένουν τα ρούχα τους. Αυτή η κίνηση προσφέρει βοήθεια και ελπίδα σε ανθρώπους που ζουν δύσκολες καταστάσεις. Η ιδέα ήρθε στον Milyard όταν κάποτε επισκέφτηκε έναν πρόχειρο καταυλισμό αστέγων. Αυτή του η δράση έχει ήδη αλλάξει τη ζωή πολλών ατόμων. Δεν είναι γνωστές περισσότερες λεπτομέρειες.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
         "sourceDomains": [
@@ -645,9 +823,9 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά μια θετική δράση που προσφέρει ελπίδα και αξιοπρέπεια στους άστεγους μέσω ενός κινητού πλυντηρίου, αντικατοπτρίζοντας μια πράξη καλοσύνης.",
+        "categoryReason": "Η ιστορία περιγράφει μια θετική και ενθαρρυντική δράση ενός πρώην αστυνομικού που δημιουργεί ένα κινητό πλυντήριο για να βοηθήσει άστεγους, προσφέροντας ελπίδα και βελτίωση στις ζωές τους.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g728743f3195d11db29d8aa3c376f8db64d2200700eb7ca7303dc38d40cec0b1a9bf1d7e22422c2d4110082cdcb76016627dbea7778a52632884ba365e36deeb2_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/ga630900a9fa635cef4658cf575872ce20fb94bf944eb8ef7508d3533a5567fbdc3ed625994e76cef61dc10e9d85ea0f6fa40724966674f2055f94182a286327f_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-12T05:29:00.000Z"
       },
@@ -655,7 +833,7 @@
         "id": "67ee5b41d5e6",
         "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
         "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-        "simpleText": "Το Μουσείο Μαρία Κάλλας στην Αθήνα οργανώνει ένα μεγάλο υπαίθριο πάρτι. Η εκδήλωση θα γίνει την Παρασκευή, 12 Δεκεμβρίου 2025, στις 8 το βράδυ. Πριν λίγες μέρες, το πάρτι είχε αναβληθεί λόγω κακού καιρού. Η γιορτή θα γίνει στην οδό Πετράκη, κοντά στο μουσείο. Ο σκοπός είναι να τιμηθεί η γνωστή τραγουδίστρια της όπερας, Μαρία Κάλλας, με χαρούμενη μουσική και διασκέδαση. Είναι μια ευκαιρία για όλους να περάσουν καλά και να θυμηθούν την καλλιτεχνική της κληρονομιά.",
+        "simpleText": "Την Παρασκευή 12 Δεκεμβρίου 2025, στην Αθήνα θα γίνει μια βραδιά γιορτής για τη Μαρία Κάλλας. Το street party θα γίνει στην οδό Πετράκη, κοντά στο Μουσείο Μαρία Κάλλας. Η εκδήλωση είχε αναβληθεί προηγουμένως λόγω κακού καιρού. Οι επισκέπτες θα απολαύσουν μουσική και χορό, τιμώντας τη μεγάλη καλλιτέχνη. Είναι μια ευκαιρία για την πόλη να γιορτάσει και να κρατήσει ζωντανή τη μνήμη της Κάλλας με χαρούμενο τρόπο.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
         "sourceDomains": [
@@ -668,82 +846,59 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά ένα εορταστικό street party που θα τιμήσει την Μαρία Κάλλας, προσφέροντας χαρούμενη μουσική και διασκέδαση, γεγονός που δημιουργεί θετική διάθεση και γιορτινή ατμόσφαιρα.",
+        "categoryReason": "Η είδηση αφορά ένα γιορτινό street party προς τιμήν της Μαρίας Κάλλας, που έχει ευχάριστο χαρακτήρα και προάγει τη διασκέδαση και τον εορτασμό της καλλιτεχνικής της κληρονομιάς.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g159e8d291cd43838a308c606a7f0fcc83b59f492d44e0426a252970ef9b9bad693e9998f90bbb1294f7ea78ca9f6b19f139d8dd3040d4f0a9c1757c91c85434b_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g62dac53e7def2fe78ea32477225b3b7c1965b3cc13ea63a6ba82c07a942b242a9e7b35269c31c1eea5757158e2b92e764196daa58453ba21dc1410e0a9327fff_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-11T16:55:58.000Z"
-      },
-      {
-        "id": "e767340659db",
-        "title": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
-        "simpleTitle": "Επίδομα 1.000 ευρώ για κάθε παιδί από τον Δήμο Σουλίου",
-        "simpleText": "Ο Δήμος Σουλίου αποφάσισε να δίνει 1.000 ευρώ σε κάθε παιδί που θα γεννιέται από την 1η Ιανουαρίου 2026 και μετά. Η απόφαση αυτή πάρθηκε από το Δημοτικό Συμβούλιο. Βοηθά έτσι τις οικογένειες που μένουν μόνιμα εκεί. Ο στόχος είναι να στηριχτούν οι οικογένειες και να γεννιούνται περισσότερα παιδιά. Αυτό είναι σημαντικό, γιατί οι γεννήσεις μειώνονται και ο πληθυσμός μικραίνει.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/30281-dimos-souliou-epidoma-paidi-2026/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αφορά μια θετική κίνηση που αποσκοπεί στη στήριξη των οικογενειών και την ενθάρρυνση της γέννησης παιδιών, γεγονός που δημιουργεί μια αισιόδοξη ατμόσφαιρα για τους δημότες του Δήμου Σουλίου.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-10T08:22:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "d192369693f0",
-        "title": "Αγρια επεισόδια στην Ινδία λόγω… Μέσι",
-        "simpleTitle": "Αγρια επεισόδια στην Ινδία λόγω… Μέσι",
-        "simpleText": "Στην Ινδία, έγιναν επεισόδια σε φιλικό ποδοσφαιρικό αγώνα. Χιλιάδες φίλαθλοι πλήρωσαν πολλά χρήματα για να δουν τον διάσημο ποδοσφαιριστή, Λιονέλ Μέσι. Ωστόσο, ο Μέσι έπαιξε μόνο για λίγο. Αυτό εξόργισε τους ανθρώπους, και ξεκίνησαν να σπάνε καρέκλες και να προκαλούν ζημιές. Η κατάσταση προκάλεσε ανησυχία, αλλά δεν είναι γνωστές άλλες λεπτομέρειες.",
-        "sourceName": "Protagon",
-        "sourceUrl": "https://www.protagon.gr/epikairotita/agria-epeisodia-stin-india-logw-mesi-44343275066",
-        "sourceDomains": [
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/agria-epeisodia-stin-india-logw-mesi-44343275066"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά αγώνες και την αντίδραση φιλάθλων σχετικά με την παρουσία του ποδοσφαιριστή Λιονέλ Μέσι σε φιλικό παιχνίδι. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-13T14:10:45.000Z"
-      },
-      {
-        "id": "15059708f215",
-        "title": "Παναθηναϊκός: Προσπάθεια για τον Έντο της Λίβερπουλ",
-        "simpleTitle": "Παναθηναϊκός: Προσπάθεια για τον Έντο της Λίβερπουλ",
-        "simpleText": "Ο Παναθηναϊκός ενδιαφέρεται για τον Βατάρου Έντο από τη Λίβερπουλ. Ο Έντο είναι 32χρονος Ιάπωνας ποδοσφαιριστής. Έχει παίξει σε υψηλό επίπεδο, αλλά φέτος δεν αγωνίζεται συχνά στη Λίβερπουλ. Αυτό μπορεί να του κοστίσει τη θέση στην εθνική Ιαπωνίας. Έχει μόλις πέντε εμφανίσεις στο αγγλικό πρωτάθλημα, κάτι που τον προβληματίζει. Ο Παναθηναϊκός εξετάζει την περίπτωσή του, αν και υπάρχουν και άλλες ομάδες που τον θέλουν. Το συμβόλαιο του Έντο με τη Λίβερπουλ λήγει το 2027, πράγμα που κάνει τη μεταγραφή δύσκολη. Ωστόσο, οι καλές σχέσεις του προπονητή Ράφα Μπενίτεθ με τη Λίβερπουλ μπορεί να βοηθήσουν.",
+        "id": "5427b8082e27",
+        "title": "ΑΕΚ: Η εντεκάδα για το παιχνίδι με τον Παναιτωλικό",
+        "simpleTitle": "ΑΕΚ: Η εντεκάδα για το παιχνίδι με τον Παναιτωλικό",
+        "simpleText": "Η ΑΕΚ ανακοίνωσε τους παίκτες που θα ξεκινήσουν στο παιχνίδι against τον Παναιτωλικό. Ο αγώνας γίνεται στο Αγρίνιο και είναι για τη 14η αγωνιστική της Super League. Η ΑΕΚ θέλει να συνεχίσει να κερδίζει στο πρωτάθλημα. Στο γήπεδο θα ξεκινήσει ο Στρακόσα ως τερματοφύλακας και στην άμυνα θα παίξουν οι Ρότα, Βίντα, Ρέλβας και Πενράις. Στη μεσαία γραμμή θα βρίσκονται οι Πινέδα, Μαρίν και Λιούμπισιτς, ενώ στην επίθεση θα παίξουν ο Καλοσκάμης, ο Ζοάο Μάριο και ο Γιόβιτς. Ο αγώνας είναι σημαντικός για την ΑΕΚ, καθώς θέλει να διατηρήσει το σερί των νικών της.",
         "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/13/sports/panathinaikos-prospatheia-gia-ton-ento-tis-liverpoul/",
+        "sourceUrl": "https://www.tanea.gr/2025/12/14/sports/aek-i-entekada-gia-to-paixnidi-me-ton-panaitoliko/",
         "sourceDomains": [
           "tanea.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/13/sports/panathinaikos-prospatheia-gia-ton-ento-tis-liverpoul/"
+            "url": "https://www.tanea.gr/2025/12/14/sports/aek-i-entekada-gia-to-paixnidi-me-ton-panaitoliko/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη μεταγραφική προσπάθεια του Παναθηναϊκού για τον ποδοσφαιριστή Βατάρου Έντο και παρέχει λεπτομέρειες σχετικά με τον παίκτη και τις διαπραγματεύσεις, γεγονός που τονίζει την αθλητική διάσταση της υπόθεσης. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρεται στην εντεκάδα της ΑΕΚ για έναν αγώνα στο πρωτάθλημα, γεγονός που συνδέεται άμεσα με το ποδόσφαιρο και τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g25115556fcbd84ed9dabdc96f1a13ec574335540d49bae792d718bd664e11fe3837bccf435d47f9cfafb04bbf04db7f51bff3ae6170253f5b906926655763d42_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-13T12:50:18.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAEK.FC.OFFICIAL%2Fposts%2Fpfbid02h4UJGFuaugFiK4L4LziRGMeSQPV3Gz6P7Xo994vZL2D6Dw4aTMhGuqYr84U1TKpKl&amp;show_text=true&amp;width=500",
+        "publishedAt": "2025-12-14T15:00:09.000Z"
+      },
+      {
+        "id": "a36227a19510",
+        "title": "Live streaming: Δείτε τον αγώνα Περιστέρι-Ολυμπιακός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Live streaming: Δείτε τον αγώνα Περιστέρι-Ολυμπιακός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+        "simpleText": "Σήμερα στις 16:00, ο Ολυμπιακός παίζει μπάσκετ με το Περιστέρι. Ο αγώνας είναι μέρος του πρωταθλήματος Ελλάδας, που λέγεται Basket League. Μπορείτε να δείτε το παιχνίδι ζωντανά στην τηλεόραση, στο κανάλι ΕΡΤ2 ΣΠΟΡ. Είναι μια καλή ευκαιρία να παρακολουθήσετε δύο μεγάλες ομάδες να παίζουν.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-peristeri-olympiakos-gia-tin-basket-league-16-00-ert2-spor/",
+        "sourceDomains": [
+          "ertnews.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-peristeri-olympiakos-gia-tin-basket-league-16-00-ert2-spor/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Ο αγώνας Περιστέρι-Ολυμπιακός είναι γεγονός που συνδέεται άμεσα με τον κόσμο των σπορ και ιδιαίτερα του μπάσκετ. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gd01173e43b4519029d88bb0d223c2270495f59b3ddf9b0c96654707fade09da9f700615d32b17404db0536247c8a60d42f03289b1b33fc1bedf2db612ed07d7e_1280.jpg",
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+        "publishedAt": "2025-12-14T13:50:00.000Z"
       }
     ],
     "screen": [],
@@ -752,7 +907,7 @@
         "id": "6428763328fc",
         "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
         "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-        "simpleText": "Μια παλιά ρωμαϊκή σαρκοφάγος ανακαλύφθηκε στη Βουδαπέστη. Η σαρκοφάγος είναι περίπου 1.700 ετών και βρέθηκε στο Όμπουντα, μια περιοχή της Βουδαπέστης. Μέσα βρέθηκαν στοιχεία για μια νεαρή γυναίκα που είχε ταφεί εκεί. Η ανακάλυψη αυτή μας βοηθά να μάθουμε περισσότερα για τη ζωή στην αρχαία Ρωμαϊκή Παννονία. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Αυτή η ανακάλυψη είναι σημαντική γιατί μας δείχνει πώς ζούσαν οι άνθρωποι εκείνη την εποχή.",
+        "simpleText": "Μια αρχαιολογική ανακάλυψη έγινε στη Βουδαπέστη. Βρέθηκε μια ρωμαϊκή σαρκοφάγος, δηλαδή ένα πέτρινο φέρετρο, που είναι περίπου 1.700 ετών. Η σαρκοφάγος βρέθηκε άθικτη στην περιοχή Όμπουντα. Μέσα σε αυτήν είχε ταφεί μια νεαρή γυναίκα. Η ανασκαφή έγινε από το Μουσείο Ιστορίας της Βουδαπέστης. Αυτή η ανακάλυψη είναι σημαντική γιατί μας δίνει πληροφορίες για τη ζωή στην ρωμαϊκή εποχή στην περιοχή της Παννονίας. Δεν έχουν γνωστοποιηθεί άλλες λεπτομέρειες.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
         "sourceDomains": [
@@ -765,7 +920,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου σχετίζεται με την ιστορία και τον πολιτισμό της αρχαίας Ρώμης, προσφέροντας πολύτιμες πληροφορίες για τη ζωή της εποχής, που την κατατάσσει στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου προσφέρει πολιτιστικές και ιστορικές πληροφορίες σχετικά με τη ζωή στην αρχαία εποχή, εστιάζοντας στην αρχαιολογία και τις πολιτιστικές εκδηλώσεις.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
