@@ -23,7 +23,7 @@ async function simplifyNewsArticle({ title, rawText, sourceUrl }) {
   const userContent = `Τίτλος: ${safeTitle}\n${sourceLine}Κείμενο:\n${safeText}`;
 
   const response = await openai.responses.create({
-    model: "gpt-4o",
+    model: "gpt-4o-mini",
     instructions: NEWS_SIMPLIFY_INSTRUCTIONS,
     input: userContent,
   });
