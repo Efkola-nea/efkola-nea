@@ -12,7 +12,7 @@ import {
 } from "./llm/textUtils.js";
 
 // Paths
-const NEWS_PATH = new URL("./news.json", import.meta.url);
+const NEWS_PATH = new URL("./static/news.json", import.meta.url);
 const SERIOUS_DIGEST_PATH = new URL("./serious-digest.json", import.meta.url);
 
 // Θεματικές για τις σοβαρές ειδήσεις

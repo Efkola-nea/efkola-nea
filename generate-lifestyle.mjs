@@ -15,8 +15,8 @@ const LIFESTYLE_CATEGORIES = ["sports", "screen", "culture", "fun"];
 const MAX_ITEMS_PER_CATEGORY = 10;
 
 // Paths – προσαρμόσ’ τα αν χρειάζεται
-const NEWS_PATH = new URL("./news.json", import.meta.url);
-const LIFESTYLE_PATH = new URL("./lifestyle.json", import.meta.url);
+const NEWS_PATH = new URL("./static/news.json", import.meta.url);
+const LIFESTYLE_PATH = new URL("./static/lifestyle.json", import.meta.url);
 
 // Helper: βγάζουμε text από το Responses API
 function extractTextFromResponse(response) {

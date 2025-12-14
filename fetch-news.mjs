@@ -108,7 +108,7 @@ const MIN_ARTICLES_PER_CATEGORY = 2;
 const MAX_ARTICLES_PER_CATEGORY = 6;
 
 // 👉 Θα γράφουμε το news.json δίπλα στο αρχείο αυτό
-const NEWS_JSON_PATH = new URL("./news.json", import.meta.url);
+const NEWS_JSON_PATH = new URL("./static/news.json", import.meta.url);
 
 // RSS feeds που θα διαβάζουμε
 // ⚠️ Πολλά sites περιορίζουν τη χρήση (συχνά «μόνο για προσωπική χρήση»).
