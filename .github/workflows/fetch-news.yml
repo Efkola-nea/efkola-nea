@@ -48,4 +48,13 @@ jobs:
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Update news, serious digest & lifestyle JSON"
           git push
-
+  deploy:
+    needs: generate
+    uses: ./.github/workflows/deploy-static-to-s3.yml
+    with:
+      site_dir: ./static/
+      invalidate: true
+    secrets:
+      AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+      AWS_REGION: ${{ secrets.AWS_REGION }}
+      S3_BUCKET: ${{ secrets.S3_BUCKET }}
