@@ -1,69 +1,41 @@
 {
-  "generatedAt": "2025-12-15T07:25:00.554Z",
+  "generatedAt": "2025-12-15T15:52:47.868Z",
   "articles": [
     {
-      "id": "3ed6ab938d1f",
-      "title": "ΗΠΑ: Ανατροπή στην έρευνα για το μακελειό στο πανεπιστήμιο Μπράουν – Αφέθηκε ελεύθερος ο συλληφθείς ύποπτος",
-      "simpleTitle": "ΗΠΑ: Ανατροπή στην έρευνα για το μακελειό στο πανεπιστήμιο Μπράουν – Αφέθηκε ελεύθερος ο συλληφθείς ύποπτος",
-      "simpleText": "Τίτλος: ΗΠΑ: Ελεύθερος ο ύποπτος για τους πυροβολισμούς στο Πανεπιστήμιο Μπράουν\n\nΣτο Πανεπιστήμιο Μπράουν, δύο φοιτητές σκοτώθηκαν και άλλοι εννέα τραυματίστηκαν από πυροβολισμούς. Ο ύποπτος που είχε συλληφθεί αφέθηκε ελεύθερος, καθώς οι Αρχές δεν βρήκαν αρκετά στοιχεία για να τον κρατήσουν. Αυτή η εξέλιξη έγινε γνωστή το βράδυ της Κυριακής.\n\nΗ αποδέσμευση του υπόπτου αφήνει τις Αρχές χωρίς γνωστό δράστη, γεγονός που προκαλεί ανησυχία στην τοπική κοινωνία. Ο γενικός εισαγγελέας δήλωσε ότι η έρευνα συνεχίζεται, με τις Αρχές να εξετάζουν υλικό από κάμερες και μαρτυρίες.\n\nΗ επίθεση συνέβη κατά τη διάρκεια εξετάσεων, σε μία από τις πιο πολυσύχναστες περιόδους του ακαδημαϊκού έτους. Το Πανεπιστήμιο ανέστειλε όλα τα μαθήματα και τις εξετάσεις για να προστατεύσει τους φοιτητές.\n\nΈνας από τους τραυματίες έχει πάρει εξιτήριο, ενώ οι άλλοι επτά βρίσκονται σε κρίσιμη κατάσταση. Ο δράστης πυροβόλησε μέσα σε αίθουσα διδασκαλίας, ρίχνοντας περισσότερες από 40 σφαίρες. Οι Αρχές δημοσίευσαν ένα βίντεο με ένα άτομο ντυμένο στα μαύρα κοντά στο σημείο της επίθεσης, ελπίζοντας να βρουν νέες πληροφορίες. Η έρευνα για τους πυροβολισμούς συνεχίζεται.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ipa-anatropi-stin-ereyna-gia-to-makeleio-sto-panepistimio-mpraoun-afethike-eleytheros-o-sylliftheis-ypoptos/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-anatropi-stin-ereyna-gia-to-makeleio-sto-panepistimio-mpraoun-afethike-eleytheros-o-sylliftheis-ypoptos/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563976205/ipa-afethike-eleytheros-o-sylliftheis-ypoptos-gia-to-makeleio-sto-brown-poy-strefontai-oi-ereynes/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό περιστατικό βίας σε πανεπιστημιακό χώρο με τραυματισμούς και θανάτους, καθώς και την έρευνα που συνεχίζεται χωρίς σαφή ύποπτο, κάτι που εγείρει μεγάλα κοινωνικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-15T06:52:30.000Z"
-    },
-    {
-      "id": "0cfe03d9f7e8",
-      "title": "Επίθεση στο πανεπιστήμιο Μπράουν: Ελεύθερος ο άνδρας που είχε προσαχθεί – Οι αρχές εξακολουθούν να αναζητούν τον δράστη",
-      "simpleTitle": "Επίθεση στο πανεπιστήμιο Μπράουν: Ελεύθερος ο άνδρας που είχε προσαχθεί – Οι αρχές εξακολουθούν να αναζητούν τον δράστη",
-      "simpleText": "Ένοπλη επίθεση στο πανεπιστήμιο Μπράουν\n\nΜία ένοπλη επίθεση συνέβη το Σάββατο στο πανεπιστήμιο Μπράουν, στο Ρόουντ Άιλαντ, ΗΠΑ. Δύο φοιτητές σκοτώθηκαν και εννέα τραυματίστηκαν. Ο άνδρας που είχε συλληφθεί για την υπόθεση θα αφεθεί ελεύθερος, καθώς οι αρχές δεν διαθέτουν αποδείξεις για την εμπλοκή του. Οι αστυνομικοί επισημαίνουν ότι συνεχίζουν να αναζητούν τον πραγματικό δράστη.\n\nΗ επίθεση προκάλεσε σοκ στην πανεπιστημιακή κοινότητα. Οι διοικητές του πανεπιστημίου ανακοίνωσαν την ακύρωση εξετάσεων και μαθημάτων μέχρι το τέλος του έτους. Οι τραυματίες έχουν διαφορετικές καταστάσεις υγείας, με επτά να είναι σε σταθερή κατάσταση και ένας σε κρίσιμη αλλά σταθερή κατάσταση.\n\nΗ επίθεση αυτή είναι μία από τις πολλές που έχουν γίνει φέτος στις ΗΠΑ και έχει ευαισθητοποιήσει την τοπική κοινωνία.",
-      "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2025/12/15/world/epithesi-sto-panepistimio-mpraoyn-eleytheros-o-andras-poy-eixe-prosaxthei-oi-arxes-eksakol/",
+      "id": "6bc0cca599fd",
+      "title": "‘Ιδρυμα Μποδοσάκη: Προκήρυξη υποτροφιών για 54η χρονιά –  Ξεκινούν οι αιτήσεις",
+      "simpleTitle": "‘Ιδρυμα Μποδοσάκη: Προκήρυξη υποτροφιών για 54η χρονιά –  Ξεκινούν οι αιτήσεις",
+      "simpleText": "Η είδηση αφορά την προκήρυξη υποτροφιών από το Ίδρυμα Μποδοσάκη για 54η χρονιά. Οι αιτήσεις άρχισαν, δίνοντας την ευκαιρία σε νέες και νέους να σπουδάσουν ή να ερευνήσουν σε διαφορετικά πεδία.\n\nΟι υποτροφίες καλύπτουν μεταπτυχιακές σπουδές, μεταδιδακτορική έρευνα και βραχυχρόνιες επισκέψεις σε Πανεπιστήμια ή Ερευνητικά Κέντρα στο εξωτερικό. Οι τομείς που καλύπτονται περιλαμβάνουν τις Βιοεπιστήμες, τις Τεχνολογικές Επιστήμες και τις Κοινωνικές Επιστήμες.\n\nΕίναι σημαντική η ίση πρόσβαση στην εκπαίδευση, γι' αυτό η αξιολόγηση υποψηφίων περιλαμβάνει και τις οικονομικές συνθήκες. Οι ενδιαφερόμενοι μπορούν να υποβάλουν αίτηση έως 24 Φεβρουαρίου 2026 για τις μεταπτυχιακές σπουδές, 17 Μαρτίου 2026 για τη μεταδιδακτορική έρευνα και 31 Μαρτίου 2026 για τις βραχυχρόνιες επισκέψεις.\n\nΤο Ίδρυμα προάγει την εκπαίδευση και ενισχύει τις ευκαιρίες για νέους ερευνητές.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2025/12/15/greece/idryma-mpodosaki-prokiryksi-ypotrofion-gia-54i-xronia-ksekinoun-oi-aitiseis/",
       "sourceDomains": [
         "tanea.gr",
-        "news.gr"
+        "tovima.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/15/world/epithesi-sto-panepistimio-mpraoyn-eleytheros-o-andras-poy-eixe-prosaxthei-oi-arxes-eksakol/"
+          "url": "https://www.tanea.gr/2025/12/15/greece/idryma-mpodosaki-prokiryksi-ypotrofion-gia-54i-xronia-ksekinoun-oi-aitiseis/"
         },
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4031400/epithesi-sto-panepistimio-braoun-eleftheros-tha-afethi-o-andras-pou-iche-prosachthi-i-arches-exakolouthoun-na-anazitoun-ton-drasti.html"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/15/society/kanontas-to-epomeno-vima-prokiryksi-ypotrofion-idrymatos-mpodosaki-gia-54i-xronia/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή ένοπλη επίθεση σε πανεπιστήμιο, με θύματα και συνέπειες στην πανεπιστημιακή κοινότητα, καταγράφοντας ένα σημαντικό κοινωνικό ζήτημα.",
+      "categoryReason": "Η είδηση αφορά την προκήρυξη υποτροφιών από ένα φιλανθρωπικό ίδρυμα, με σημαντικές ευκαιρίες εκπαίδευσης και έρευνας, επισημαίνοντας τη σημασία της ίσης πρόσβασης στην εκπαίδευση, που είναι καθαρά σοβαρό θέμα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-15T06:52:03.000Z"
+      "publishedAt": "2025-12-15T15:17:24.000Z"
     },
     {
-      "id": "f3bff658ccec",
-      "title": "Λος Άντζελες: Νεκροί εντοπίστηκαν ο σκηνοθέτης Ρομπ Ράινερ και η σύζυγός του στο σπίτι τους – Ο γιος τους φέρεται ως ο βασικός ύποπτος",
-      "simpleTitle": "Λος Άντζελες: Νεκροί εντοπίστηκαν ο σκηνοθέτης Ρομπ Ράινερ και η σύζυγός του στο σπίτι τους – Ο γιος τους φέρεται ως ο βασικός ύποπτος",
-      "simpleText": "Στο Λος Άντζελες, ο 78χρονος σκηνοθέτης Ρομπ Ράινερ και η 68χρονη σύζυγός του, Μισέλ, βρέθηκαν νεκροί στο σπίτι τους την Κυριακή. Σύμφωνα με την αστυνομία, τα θύματα παρουσίαζαν τραύματα από μαχαίρι.\n\nΟ γιος τους, Νικ Ράινερ, φαίνεται να είναι ο βασικός ύποπτος, αν και η αστυνομία δεν έχει επιβεβαιώσει επίσημα την ταυτότητά του ως ύποπτου. Ο Νικ έχει αντιμετωπίσει σοβαρά προβλήματα με τον εθισμό στα ναρκωτικά στο παρελθόν.\n\nΗ αστυνομία πραγματοποιεί έρευνα και ανακρίνει μέλη της οικογένειας για να μάθει περισσότερα σχετικά με τις συνθήκες του θανάτου τους. Η απώλεια του Ράινερ προκαλεί θλίψη στην κοινότητα του Χόλιγουντ, καθώς ήταν γνωστός για τις κλασικές του ταινίες, όπως «Όταν ο Χάρι γνώρισε τη Σάλι».\n\nΗ κατάσταση όλη αυτή είναι σοβαρή και το μέλλον της έρευνας αναμένεται να ρίξει φως στα γεγονότα.",
+      "id": "df25fc1e148a",
+      "title": "Πέθανε ο ηθοποιός Αλμπέρτο Εσκενάζυ",
+      "simpleTitle": "Πέθανε ο ηθοποιός Αλμπέρτο Εσκενάζυ",
+      "simpleText": "Ο ηθοποιός Αλμπέρτο Εσκενάζυ έφυγε από τη ζωή στα 73 του χρόνια. Ο θάνατός του συνέβη τα ξημερώματα της Δευτέρας, 15 Δεκεμβρίου, μετά από μια πρόκληση που αντιμετώπιζε με σοβαρή ασθένεια, συγκεκριμένα καρκίνο.\n\nΟ Αλμπέρτο Εσκενάζυ γεννήθηκε στη Θεσσαλονίκη και πέρασε εκεί τα παιδικά του χρόνια. Σπούδασε υποκριτική στη Δραματική Σχολή του Εθνικού Θεάτρου και αποφοίτησε το 1976. Η καριέρα του περιλάμβανε πολλές συμμετοχές σε τηλεοπτικές σειρές, θεατρικές παραστάσεις και κινηματογραφικές ταινίες, με μεγάλες συνεργασίες όπως αυτές με τους Κώστα Καζάκο και Τζένη Καρέζη. Ξεχώρισε για τις ερμηνείες του στη σειρά «Ο Συμβολαιογράφος» και στο «Φως του Αυγερινού».\n\nΕκτός από την υποκριτική, ο Αλμπέρτο Εσκενάζυ είχε δημιουργήσει και τη δική του θεατρική παραγωγή, ενώ ήταν υποψήφιος στις ευρωεκλογές του 2024. Αφήνει πίσω του δύο παιδιά, τον Λέοντα και τη Σάρα. Η απώλεια του είναι σημαντική για τον καλλιτεχνικό κόσμο λόγω της προσφοράς του στην τέχνη.",
       "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-tou-sto-spiti-tous-o-gios-tous-feretai-os-o-vasikos-ypoptos/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/pethane-o-ithopoios-almperto-eskenazy/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr",
@@ -74,161 +46,156 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-tou-sto-spiti-tous-o-gios-tous-feretai-os-o-vasikos-ypoptos/"
+          "url": "https://www.ertnews.gr/eidiseis/pethane-o-ithopoios-almperto-eskenazy/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563976094/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-toy-ereyna-gia-anthropoktonia/"
+          "url": "https://www.kathimerini.gr/culture/563976862/pethane-se-ilikia-73-eton-o-ithopoios-almperto-eskenazy/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/15/world/sok-o-skinothetis-romp-rainer-kai-i-syzygos-toy-vrethikan-nekroi-sto-spiti-toys/"
+          "url": "https://www.tanea.gr/2025/12/15/greece/pethane-o-ithopoios-almperto-eskenazy/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/15/world/sok-sto-xoligount-nekroi-sto-spiti-tous-o-romp-rainer-kai-i-syzygos-tou-ereyna-gia-anthropoktonia/"
+          "url": "https://www.tovima.gr/2025/12/15/culture/pethane-o-almperto-eskenazy-se-ilikia-73-eton/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/thriler-sto-xoligount-nekroi-sto-spiti-tous-o-skinothetis-rob-rainer-kai-i-syzygos-tou-44343275510"
+          "url": "https://www.protagon.gr/epikairotita/pethane-se-ilikia-73-etwn-o-ithopoios-alberto-eskenazy-44343275992"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τους θανάτους του σκηνοθέτη Ρομπ Ράινερ και της συζύγου του, οι οποίοι βρίσκονται υπό αστυνομική έρευνα για ανθρωποκτονία, με σοβαρές συνθήκες και κοινωνικές προεκτάσεις.",
+      "categoryReason": "Ο θάνατος του Αλμπέρτο Εσκενάζυ είναι μια σοβαρή είδηση που αφορά την απώλεια ενός καλλιτέχνη και τις επιπτώσεις της ασθένειας στον άνθρωπο.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-15T06:26:30.000Z"
+      "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0JssLM5uy4MVeBL5Ndp1BWHghccaNKjzefryjjRPkMvMmbmTmegByX5W8wRVVi75Vl%26id%3D100009883453348&amp;show_text=true&amp;width=500",
+      "publishedAt": "2025-12-15T15:14:10.000Z"
     },
     {
-      "id": "9064efda26a5",
-      "title": "Συνεχίζουν τα μπλόκα οι αγρότες μετά το «όχι» στο κάλεσμα Μητσοτάκη – Ο χάρτης των κινητοποιήσεων",
-      "simpleTitle": "Συνεχίζουν τα μπλόκα οι αγρότες μετά το «όχι» στο κάλεσμα Μητσοτάκη – Ο χάρτης των κινητοποιήσεων",
-      "simpleText": "Οι αγρότες συνεχίζουν τις κινητοποιήσεις τους στην Ελλάδα. Μετά την άρνησή τους να συναντηθούν με την κυβέρνηση, προγραμματίζουν μπλόκα σε σημαντικές οδικές αρτηρίες. Ο πρωθυπουργός Κυριάκος Μητσοτάκης δήλωσε ότι η κυβέρνηση είναι ανοιχτή σε διάλογο, αλλά οι αγρότες θεωρούν ότι η συζήτηση δεν είναι ειλικρινής.\n\nΑυτή τη στιγμή, υπάρχουν μπλόκα σε πολλές περιοχές, όπως η Εθνική Οδός Αθηνών-Θεσσαλονίκης και σε διάφορα τελωνεία. Παράλληλα, προγραμματίζονται και άλλες κινητοποιήσεις, όπως συγκεντρώσεις και πορείες. Οι αγρότες διεκδικούν συγκεκριμένα μέτρα στήριξης για τα προβλήματά τους.\n\nΟρισμένα από τα αιτήματα τους δεν έχουν γίνει γνωστά, αλλά τονίζουν ότι βρίσκονται σε δύσκολη κατάσταση και χρειάζονται άμεσες λύσεις.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/synexizoun-ta-mploka-oi-agrotes-meta-to-oxi-sto-kalesma-mitsotaki-o-xartis-ton-kinitopoiiseon/",
+      "id": "9b131e2f91ec",
+      "title": "Eurovision 2026: Οι 35 χώρες που θα συμμετάσχουν στον μουσικό διαγωνισμό",
+      "simpleTitle": "Eurovision 2026: Οι 35 χώρες που θα συμμετάσχουν στον μουσικό διαγωνισμό",
+      "simpleText": "Η Eurovision 2026 θα διεξαχθεί στη Βιέννη από τις 12 έως τις 16 Μαΐου. Στον μουσικό διαγωνισμό θα συμμετάσχουν 35 χώρες. Κάθε χώρα θα στείλει ένα τραγούδι και έναν καλλιτέχνη.\n\nΗ οργάνωση του διαγωνισμού είναι δύσκολη, καθώς υπάρχουν προβλήματα. Πέντε χώρες αποφάσισαν να μην συμμετάσχουν λόγω διαφωνιών για την παρουσία του Ισραήλ. Αυτό το γεγονός δείχνει ότι η μουσική και η πολιτική μπορεί να είναι συνδεδεμένες.\n\nΗ συμμετοχή των 35 χωρών είναι σημαντική, διότι δείχνει την υψηλή δημοτικότητα της Eurovision στην Ευρώπη και σε άλλες περιοχές.",
+      "sourceName": "Kathimerini, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/culture/563976634/eurovision-2026-oi-35-chores-poy-tha-symmetaschoyn-ston-moysiko-diagonismo/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
+        "kathimerini.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/synexizoun-ta-mploka-oi-agrotes-meta-to-oxi-sto-kalesma-mitsotaki-o-xartis-ton-kinitopoiiseon/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/culture/563976634/eurovision-2026-oi-35-chores-poy-tha-symmetaschoyn-ston-moysiko-diagonismo/"
         },
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563976199/paramenoyn-sta-mploka-oi-agrotes-o-chartis-ton-kinitopoiiseon/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/eurovision-2026-oi-35-xwres-pou-tha-symmetasxoun-ston-diagwnismo-44343275986"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις σοβαρές κινητοποιήσεις των αγροτών στην Ελλάδα και τη διαμαρτυρία τους απέναντι στην κυβέρνηση, θέμα που σχετίζεται με κοινωνικά και πολιτικά ζητήματα και έχει ευρύτερες επιπτώσεις στην κοινωνία.",
+      "category": "culture",
+      "categoryReason": "Η Eurovision είναι ένας μουσικός διαγωνισμός που συνδυάζει στοιχεία από τη μουσική και τον πολιτισμό, ενώ η είδηση αναφέρεται και σε πολιτικά ζητήματα που επηρεάζουν την εκδήλωση.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g1aa1968cdfcc1359ddffe083890433662022207c4b871156b682046109868756f60e8792377d7312f2ae659b3e2bb232fcc4ae68ef411ebf3f7d7083a752bd9d_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-15T06:23:01.000Z"
+      "publishedAt": "2025-12-15T15:02:07.000Z"
     },
     {
-      "id": "1bfa111b6ee9",
-      "title": "Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω πυρκαγιάς σε φορτηγό",
-      "simpleTitle": "Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω πυρκαγιάς σε φορτηγό",
-      "simpleText": "Τίτλος: Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω φωτιάς σε φορτηγό\n\nΈγινε φωτιά σε ένα φορτηγό σήμερα, 15 Δεκεμβρίου, στη Νέα Εθνική Οδό Αθηνών – Λαμίας, κοντά στα διόδια Αφιδνών. Για αυτό το λόγο, η κυκλοφορία των οχημάτων σταμάτησε στο ρεύμα προς Αθήνα. Οι αρχές ειδοποιήθηκαν και έσπευσαν στο σημείο για να ελέγξουν την κατάσταση και να διασφαλίσουν την ασφάλεια των οδηγών. Είναι σημαντικό να αποφεύγονται οι κυριότεροι δρόμοι σε τέτοιες περιπτώσεις, ώστε να προληφθούν ατυχήματα και να διευκολυνθούν οι υπηρεσίες έκτακτης ανάγκης.",
-      "sourceName": "ERT News, Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/diakopi-kykloforias-sta-diodia-afidnon-logo-pyrkagias-se-fortigo/",
+      "id": "dbe515ed8f71",
+      "title": "Ο Βαγγέλης Μαρινάκης «χρυσός» χορηγός για την ανακαίνιση του Παναθηναϊκού Σταδίου",
+      "simpleTitle": "Ο Βαγγέλης Μαρινάκης «χρυσός» χορηγός για την ανακαίνιση του Παναθηναϊκού Σταδίου",
+      "simpleText": "Τίτλος: Ο Βαγγέλης Μαρινάκης θα χορηγήσει την ανακαίνιση του Παναθηναϊκού Σταδίου\n\nΗ Ελληνική Ολυμπιακή Επιτροπή ανακοίνωσε ότι ο Βαγγέλης Μαρινάκης, μέσω της εταιρείας του, Capital Maritime & Trading, θα χρηματοδοτήσει την ανακαίνιση του Παναθηναϊκού Σταδίου. Η ανακοίνωση έγινε πρόσφατα και αφορά την αναβάθμιση του σταδίου, που είναι ιστορικό και βρίσκεται στο Καλλιμάρμαρο.\n\nΗ ανακαίνιση περιλαμβάνει την τοποθέτηση νέου ταρτάν, κατάλληλου για διεθνείς αγώνες στίβου τύπου Diamond League. Επίσης, θα αντικατασταθεί ο φωτισμός του σταδίου με σύγχρονους LED λαμπτήρες. Αυτός ο νέος φωτισμός θα βελτιώσει την ομορφιά του σταδίου και θα προσφέρει ένα φωτεινό περίπατο στους επισκέπτες.\n\nΗ ανακαίνιση αυτή είναι σημαντική γιατί θα επιτρέψει στο Παναθηναϊκό Στάδιο να φιλοξενεί μεγάλους αθλητικούς αγώνες, συμβάλλοντας έτσι στην ανάπτυξη του αθλητισμού στην Ελλάδα.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2025/12/15/sports/o-vaggelis-marinakis-xrysos-xorigos-gia-tin-anakainisi-tou-panathinaikou-stadiou/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
+        "tanea.gr",
         "tovima.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/diakopi-kykloforias-sta-diodia-afidnon-logo-pyrkagias-se-fortigo/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563976181/diakopi-kykloforias-sta-diodia-afidnon-fotia-se-fortigo/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/15/sports/o-vaggelis-marinakis-xrysos-xorigos-gia-tin-anakainisi-tou-panathinaikou-stadiou/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/15/society/diakopi-kykloforias-fotia-se-fortigo-sta-diodia-stis-afidnes/"
+          "url": "https://www.tovima.gr/2025/12/15/sports/o-vaggelis-marinakis-analamvanei-tin-anakainisi-tou-panathinaikou-stadiou-meso-xorigias-stin-elliniki-olympiaki-epitropi/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή κατάσταση που σχετίζεται με τη δημόσια ασφάλεια και τη διακοπή κυκλοφορίας λόγω πυρκαγιάς σε φορτηγό.",
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά την ανακαίνιση του Παναθηναϊκού Σταδίου με χρηματοδότηση από τον Βαγγέλη Μαρινάκη, που θα επιτρέψει τη διεξαγωγή διεθνών αθλητικών αγώνων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ga60ec891698a687789b1106e43d3a68f37886ed2724f15fa0e6f27179251653a6ebe0c31469ee5e3b7c0b667eb6a31e6a40ebac72c42e8620fa6b7223bc08e4e_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/geffd1621580122fde1b278253a6027bc97d536af3bc036971963d06576bee9fc56337ebd2cc20c018ff80b31986d6a47da8d4d486a533a11c695b8adbf0f8c0e_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-15T06:11:11.000Z"
+      "publishedAt": "2025-12-15T15:00:16.000Z"
     },
     {
-      "id": "b2ad48c22fc3",
-      "title": "Πυρκαγιά σε ισόγειο διαμέρισμα στο Αιγάλεω – Στο νοσοκομείο μία ηλικιωμένη",
-      "simpleTitle": "Πυρκαγιά σε ισόγειο διαμέρισμα στο Αιγάλεω – Στο νοσοκομείο μία ηλικιωμένη",
-      "simpleText": "Στο Αιγάλεω, ξέσπασε φωτιά σε ισόγειο διαμέρισμα κατά τη διάρκεια της νύχτας. Η φωτιά ήταν μικρής έκτασης και εκδηλώθηκε από άγνωστη αιτία. Εννέα πυροσβέστες με τρία οχήματα έφτασαν γρήγορα για να σβήσουν τη φωτιά.\n\nΜια 80χρονη γυναίκα, που βρισκόταν στο διαμέρισμα, υπέστη ελαφρά εγκαύματα και μεταφέρθηκε στο νοσοκομείο. Οι αρχές εξετάζουν τώρα πώς ξεκίνησε η πυρκαγιά. Αυτή η είδηση είναι σημαντική γιατί θυμίζει την ανάγκη προσοχής σε θέματα ασφάλειας και προστασίας των ανθρώπων.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/pyrkagia-se-isogeio-diamerisma-sto-aigaleo-sto-nosokomeio-mia-ilikiomeni/",
+      "id": "bbeef29dcd4a",
+      "title": "Λάρισα: Αναβλήθηκε για τον Οκτώβριο του 2026 η δίκη δύο αγροτών του μπλόκου της Νίκαιας",
+      "simpleTitle": "Λάρισα: Αναβλήθηκε για τον Οκτώβριο του 2026 η δίκη δύο αγροτών του μπλόκου της Νίκαιας",
+      "simpleText": "Τίτλος: Αναβλήθηκε η δίκη δύο αγροτών από τη Νίκαια για τον Οκτώβριο του 2026\n\nΔύο αγρότες από το μπλόκο της Νίκαιας έχουν κατηγορηθεί για σωματική βλάβη και βία κατά αστυνομικών. Οι ίδιοι αρνούνται τις κατηγορίες. Η δίκη τους αναβλήθηκε και θα γίνει πλέον στις 14 Οκτωβρίου 2026.\n\nΗ υπόθεση σχετίζεται με επεισόδια που έγιναν όταν οι αγρότες ξεκίνησαν τις κινητοποιήσεις τους. Αρκετοί αγρότες συγκεντρώθηκαν στην Κεντρική Πλατεία Λάρισας για να διαμαρτυρηθούν και να υποστηρίξουν τους κατηγορούμενους. Η συγκέντρωση έγινε με την παρουσία τρακτέρ, ως σύμβολο της αγροτικής κινητοποίησης.\n\nΟι παρευρισκόμενοι εξέφρασαν την ανησυχία τους για την ποινικοποίηση των αγροτικών κινητοποιήσεων και ζήτησαν να αποσυρθούν οι κατηγορίες εναντίον των αγροτών που συμμετέχουν σε διαμαρτυρίες. Η εξέλιξη αυτή είναι σημαντική, καθώς υπογραμμίζει τις προκλήσεις που αντιμετωπίζουν οι αγρότες και τα δικαιώματά τους να διαμαρτύρονται σε ζητήματα που τους αφορούν.",
+      "sourceName": "Kathimerini, TA NEA, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/563976598/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/pyrkagia-se-isogeio-diamerisma-sto-aigaleo-sto-nosokomeio-mia-ilikiomeni/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563976157/aigaleo-pyrkagia-se-isogeio-diamerisma-sto-nosokomeio-mia-ilikiomeni/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια πυρκαγιά σε διαμέρισμα που προκάλεσε σοβαρό κίνδυνο για μια ηλικιωμένη γυναίκα, αναδεικνύοντας ζητήματα ασφάλειας και δημόσιας υγείας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g81cf6771f70bfdec2c2fbbf05f2d30c58998c230c86aa7b8dfb9288f070d7dbde2178dcc0cba16858666d8ba8b8d40779b1189bbdc252582395f3e007124baa7_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-15T06:05:30.000Z"
-    },
-    {
-      "id": "76658d95b4f7",
-      "title": "Τραγωδία στην Κολομβία: Δεκαεπτά νεκροί, ανάμεσά τους 16 μαθητές λυκείου, από πτώση λεωφορείου σε χαράδρα",
-      "simpleTitle": "Τραγωδία στην Κολομβία: Δεκαεπτά νεκροί, ανάμεσά τους 16 μαθητές λυκείου, από πτώση λεωφορείου σε χαράδρα",
-      "simpleText": "Στη βορειοδυτική Κολομβία, 17 άνθρωποι σκοτώθηκαν σε τροχαίο ατύχημα, μεταξύ των οποίων 16 μαθητές λυκείου. Το δυστύχημα συνέβη όταν το λεωφορείο τους έπεσε σε χαράδρα βάθους 40 μέτρων. Οι μαθητές από τον δήμο Μπέγιο επέστρεφαν από εκδρομή στην παραλία για να γιορτάσουν την αποφοίτησή τους. Το ατύχημα συνέβη το πρωί, και τα αίτια παραμένουν άγνωστα.\n\nΟ οδηγός του λεωφορείου και οι 16 μαθητές ηλικίας 16 έως 18 ετών σκοτώθηκαν. Επίσης, 22 τραυματίες διακομίστηκαν σε νοσοκομείο, με τρεις από αυτούς σε σοβαρή κατάσταση. Ο πρόεδρος της Κολομβίας, Γουστάβο Πέτρο, εξέφρασε τα συλλυπητήριά του στις οικογένειες των θυμάτων. Στην περιοχή δρουν ένοπλά στοιχεία του ELN, γεγονός που έκανε τις δυνάμεις διάσωσης να λάβουν μέτρα ασφαλείας πριν προσεγγίσουν το σημείο.\n\nΑυτή η τραγωδία είναι σημαντική καθώς υπογραμμίζει τα προβλήματα ασφάλειας και τις προκλήσεις που αντιμετωπίζει η Κολομβία.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-kolomvia-dekaepta-nekroi-anamesa-tous-16-mathites-lykeiou-apo-ptosi-leoforeiou-se-xaradra/",
-      "sourceDomains": [
-        "ertnews.gr",
         "kathimerini.gr",
-        "tanea.gr"
+        "tanea.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-kolomvia-dekaepta-nekroi-anamesa-tous-16-mathites-lykeiou-apo-ptosi-leoforeiou-se-xaradra/"
-        },
-        {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563976124/kolomvia-trochaio-me-17-nekroys-anamesa-toys-16-mathites-lykeioy/"
+          "url": "https://www.kathimerini.gr/society/563976598/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/15/world/tragodia-stin-kolomvia-toylaxiston-17-oi-nekroi-apo-tin-ptosi-sxolikoy-leoforeioy-se-xarad/"
+          "url": "https://www.tanea.gr/2025/12/15/greece/law/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4031970/anavlithike-gia-ton-oktovrio-i-diki-dio-agroton-tou-blokou-tis-nikeas.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με πολλούς θανάτους, συμπεριλαμβανομένων νέων μαθητών, και αναδεικνύει σημαντικά ζητήματα ασφάλειας στην Κολομβία.",
+      "categoryReason": "Η είδηση αναφέρεται σε κατηγορίες κατά δύο αγροτών που συμμετείχαν σε διαμαρτυρίες, εστιάζοντας σε σοβαρά ζητήματα δικαιωμάτων και ποινικοποίησης των αγροτικών κινητοποιήσεων.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gaa9bcbfb975f7b5d58e97b52f483f1213b3d66bf542a0de5d9f0725f98b85f55328f679d1fad59a6941ef334f295b6d8f2b6cb64770d9f67ea714b4b389fd3fa_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-15T14:43:54.000Z"
+    },
+    {
+      "id": "71c814a358ec",
+      "title": "Δ. Κουτσούμπας για αγρότες: Ο αγώνας τους είναι πραγματικός ξεσηκωμός, συγκλονιστικός και μεγαλειώδης",
+      "simpleTitle": "Δ. Κουτσούμπας για αγρότες: Ο αγώνας τους είναι πραγματικός ξεσηκωμός, συγκλονιστικός και μεγαλειώδης",
+      "simpleText": "Δ. Κουτσούμπας: Ο αγώνας των αγροτών είναι σημαντικός\n\nΟ Δημήτρης Κουτσούμπας, γενικός γραμματέας του ΚΚΕ, μίλησε για την κινητοποίηση των αγροτών στη Βουλή. Αυτές οι κινητοποιήσεις συνεχίζονται για τρίτη εβδομάδα. Ο Κουτσούμπας είπε ότι ο αγώνας των αγροτών είναι μεγάλος και ότι η συμμετοχή τους είναι πρωτόγνωρη.\n\nΑναφέρθηκε σε επισκέψεις του στα μπλόκα αγροτών σε διάφορες περιοχές, όπως η Λάρισα και η Αταλάντη. Εξήγησε ότι οι αγρότες νιώθουν ότι δεν έχουν τίποτα να χάσουν, καθώς έχουν ήδη χάσει έσοδα και παραγωγή. Τόνισε ότι η επιβίωσή τους δεν εξαρτάται μόνο από κρατικές επιδοτήσεις αλλά και από άλλες απαραίτητες πολιτικές, όπως η μείωση του κόστους παραγωγής.\n\nΟ Κουτσούμπας ανέφερε ότι οι κυβερνώντες έχουν ήδη κατανοήσει τη σοβαρότητα της κατάστασης. Επίσης, είπε ότι τα μπλόκα των αγροτών ενοχλούν μεγάλες επιχειρηματικές ομάδες και ότι οι αγρότες ζητούν άμεσες λύσεις για τα προβλήματά τους.\n\nΣημαντική είναι η αίσθηση του ξεσηκωμού που επικρατεί ανάμεσα στους αγρότες, καθώς αγωνίζονται για την επιβίωσή τους και το μέλλον τους στον τόπο τους.",
+      "sourceName": "ERT News, 902.gr – Επιλεγμένα",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/d-koutsoumpas-gia-agrotes-o-agonas-tous-einai-pragmatikos-ksesikomos-sygklonistikos-kai-megaleiodis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "902.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/d-koutsoumpas-gia-agrotes-o-agonas-tous-einai-pragmatikos-ksesikomos-sygklonistikos-kai-megaleiodis/"
+        },
+        {
+          "title": "902.gr – Επιλεγμένα",
+          "url": "https://www.902.gr/eidisi/voyli/409788/d-koytsoympas-pragmatikos-xesikomos-o-megaleiodis-agonas-ton-agroton-gia-tin"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές κινητοποιήσεις αγροτών και πολιτικές παρεμβάσεις που σχετίζονται με την επιβίωσή τους και τα δικαιώματά τους, με επείγουσες απαιτήσεις προς την κυβέρνηση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-15T05:55:52.000Z"
+      "publishedAt": "2025-12-15T14:29:01.000Z"
     },
     {
-      "id": "10bf8ca03e44",
-      "title": "Μαρόκο: Τουλάχιστον 14 νεκροί από αιφνίδιες πλημμύρες στην παράκτια επαρχία Σάφι",
-      "simpleTitle": "Μαρόκο: Τουλάχιστον 14 νεκροί από αιφνίδιες πλημμύρες στην παράκτια επαρχία Σάφι",
-      "simpleText": "Σημαντική είδηση από το Μαρόκο: Τουλάχιστον 14 άνθρωποι έχουν χάσει τη ζωή τους λόγω ξαφνικών πλημμυρών στην παράκτια επαρχία Σάφι. Αυτό συνέβη σήμερα όταν σφοδρές βροχές πλήξανε την περιοχή.\n\nΗ βροχή έπεσε για μόλις μία ώρα, αλλά προκάλεσε μεγάλες καταστροφές. Πολλά σπίτια και καταστήματα πλημμύρισαν, ενώ αυτοκίνητα παρασύρθηκαν και δρόμοι αποκλείστηκαν. 32 άνθρωποι τραυματίστηκαν, αλλά οι περισσότεροι έχουν επιστρέψει στα σπίτια τους αφού έλαβαν ιατρική βοήθεια.\n\nΟι αρχές συνεχίζουν τις προσπάθειες διάσωσης. Αυτές οι πλημμύρες έρχονται μετά από χρόνια ξηρασίας στο Μαρόκο, που έχει συναντήσει επίσης έντονες βροχοπτώσεις και χιονοπτώσεις στις ορεινές περιοχές. Η κατάσταση είναι σοβαρή και απαιτεί προσοχή.",
+      "id": "c66bf22efb70",
+      "title": "Τσιάρας: Καλούμε άμεσα τους εκπροσώπους των αγροτών σε ουσιαστικό διάλογο",
+      "simpleTitle": "Τσιάρας: Καλούμε άμεσα τους εκπροσώπους των αγροτών σε ουσιαστικό διάλογο",
+      "simpleText": "Ο υπουργός Αγροτικής Ανάπτυξης, Κώστας Τσιάρας, κάλεσε άμεσα τους εκπροσώπους των αγροτών σε έναν ουσιαστικό διάλογο. Αυτή η δήλωση έγινε σε μια συγκυρία κατά την οποία οι αγρότες εντείνουν τις κινητοποιήσεις τους και απεργούν. Ο υπουργός αναγνώρισε ότι υπάρχουν πολλά προβλήματα στον αγροτικό τομέα, όπως το αυξανόμενο κόστος παραγωγής, οι διεθνείς εξελίξεις και η κλιματική κρίση.\n\nΟ κ. Τσιάρας τόνισε ότι η κυβέρνηση είναι διατεθειμένη να συζητήσει και να εξετάσει τα δίκαια αιτήματα των αγροτών. Επεσήμανε τη σημασία του διαλόγου για την επίλυση των προβλημάτων που βιώνουν οι αγρότες στην Ελλάδα. Η κυβέρνηση προσπαθεί να βρει λύσεις, όπως η μείωση του κόστους παραγωγής και η στήριξη της ρευστότητας των παραγωγών.\n\nΗ πρωτοβουλία αυτή είναι σημαντική, καθώς οι αγρότες απαιτούν στήριξη και λύσεις στα προβλήματά τους. Ο διάλογος μπορεί να βοηθήσει στη δημιουργία συνεργασιών και στην καλύτερη κατανόηση των αναγκών του αγροτικού τομέα.",
       "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2025/12/15/world/maroko-toylaxiston-14-nekroi-apo-aifnidies-plimmyres-stin-paraktia-eparxia-safi/",
+      "sourceUrl": "https://www.tanea.gr/2025/12/15/politics/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo/",
       "sourceDomains": [
         "tanea.gr",
         "news.gr"
@@ -236,27 +203,92 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/15/world/maroko-toylaxiston-14-nekroi-apo-aifnidies-plimmyres-stin-paraktia-eparxia-safi/"
+          "url": "https://www.tanea.gr/2025/12/15/politics/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4031268/maroko-toulachiston-21-nekri-se-xafnikes-plimmires.html"
+          "url": "https://www.news.gr/politikh/article/4031977/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές πλημμύρες στο Μαρόκο με θάνατο ανθρώπων και σοβαρές καταστροφές, άρα συνδέεται με σοβαρά κοινωνικά και περιβαλλοντικά ζητήματα.",
+      "categoryReason": "Η είδηση αφορά μηνύματα του υπουργού Αγροτικής Ανάπτυξης σχετικά με σοβαρά ζητήματα που απασχολούν τον αγροτικό τομέα, όπως οι κινητοποιήσεις των αγροτών και τα οικονομικά τους προβλήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.youtube.com/embed/d8iFJ5ifdMs?si=rjgyxrCFUfdNoURa",
+      "publishedAt": "2025-12-15T14:24:58.000Z"
+    },
+    {
+      "id": "148eee832297",
+      "title": "Λασίθι: Εδεσαν και φίμωσαν 67χρονη μέσα στο σπίτι της",
+      "simpleTitle": "Λασίθι: Εδεσαν και φίμωσαν 67χρονη μέσα στο σπίτι της",
+      "simpleText": "Στην Ιεράπετρα Λασιθίου, συνέβη ένα σοβαρό περιστατικό το πρωί της Κυριακής. Δύο άγνωστοι άνδρες μπήκαν στο σπίτι μιας 67χρονης γυναίκας. Φορούσαν γάντια και ίσως κουκούλες. Οι δράστες έδεσαν και φίμωσαν τη γυναίκα με κολλητική ταινία.\n\nΜετά την πράξη αυτή, έψαξαν σε όλα τα δωμάτια του σπιτιού, αλλά δεν αφαίρεσαν τίποτα. Αφού ολοκλήρωσαν την έρευνα, αποχώρησαν. Η γυναίκα κατάφερε να λυθεί και ενημέρωσε τον σύζυγό της, ο οποίος κοιμόταν σε άλλο δωμάτιο.\n\nΗ 67χρονη μεταφέρθηκε πρώτα στο Νοσοκομείο Ιεράπετρας, όπου δεν βρέθηκαν σοβαρά σημάδια κακοποίησης. Ωστόσο, λόγω καρδιολογικών προβλημάτων που έχει, χρειάστηκε να μεταφερθεί και στο Γενικό Νοσοκομείο Αγίου Νικολάου για πιο λεπτομερή παρακολούθηση.\n\nΗ αστυνομία διερευνά την υπόθεση και προσπαθεί να βρει πληροφορίες για τους δράστες και τους λόγους πίσω από την επίθεση. Αυτό το περιστατικό έχει ανησυχήσει την τοπική κοινωνία.",
+      "sourceName": "Kathimerini, TA NEA, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/563976601/lasithi-edesan-kai-fimosan-67chroni-mesa-sto-spiti-tis/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563976601/lasithi-edesan-kai-fimosan-67chroni-mesa-sto-spiti-tis/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/15/greece/ierapetra-edesan-kai-fimosan-67xroni-mesa-sto-spiti-tis/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4031950/edesan-ke-fimosan-67chroni-mesa-sto-spiti-tis-se-chorio-tis-ierapetras.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό περιστατικό ασφάλειας που περιλαμβάνει την επίθεση και κακοποίηση μιας ηλικιωμένης γυναίκας, γεγονός που προκαλεί ανησυχία στην τοπική κοινωνία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-15T05:31:24.000Z"
+      "publishedAt": "2025-12-15T14:06:46.000Z"
     },
     {
-      "id": "ee29b86cf7c2",
-      "title": "Τρομοκρατική επίθεση στο Σίδνεϊ:  Ένας 50χρονος και ο 24χρονος γιος του οι δύο δράστες",
-      "simpleTitle": "Τρομοκρατική επίθεση στο Σίδνεϊ:  Ένας 50χρονος και ο 24χρονος γιος του οι δύο δράστες",
-      "simpleText": "Στο Σίδνεϊ, σημειώθηκε μια σοβαρή τρομοκρατική επίθεση που εξελίχθηκε το απόγευμα της Κυριακής, όταν δύο άντρες –ένας 50χρονος πατέρας και ο 24χρονος γιος του– άνοιξαν πυρ στην παραλία Μπόνταϊ. Η επίθεση έγινε κατά τη διάρκεια μιας εβραϊκής γιορτής, του Χάνουκα, και είχε σοβαρές συνέπειες. Δεκαέξι άνθρωποι έχασαν τη ζωή τους, ανάμεσα τους και ένας από τους δράστες, ενώ άλλοι 40 τραυματίστηκαν και νοσηλεύονται.\n\nΟι αστυνομικές αρχές δήλωσαν ότι δεν αναζητούν άλλους συνεργούς και στην περιοχή βρέθηκε αυτοσχέδιος εκρηκτικός μηχανισμός που σχετίζεται με τους δράστες. Ο πρωθυπουργός της Νέας Νότιας Ουαλίας, Κρις Μινς, επιβεβαίωσε ότι πρόκειται για τρομοκρατική ενέργεια που επηρεάζει άμεσα την εβραϊκή κοινότητα της περιοχής.\n\nΤο περιστατικό προκάλεσε αναστάτωση, με αυτόπτες μάρτυρες να περιγράφουν σκηνές πανικού, καθώς οι άνθρωποι προσπαθούσαν να διαφύγουν. Η κατάσταση παραμένει τεταμένη, με την αστυνομία να ερευνά τα αίτια και τις συνθήκες της επίθεσης.",
+      "id": "bb088b39984d",
+      "title": "Νέο κάλεσμα Τσιάρα στους αγρότες για διάλογο: «Όσο νωρίτερα, τόσο καλύτερα»",
+      "simpleTitle": "Νέο κάλεσμα Τσιάρα στους αγρότες για διάλογο: «Όσο νωρίτερα, τόσο καλύτερα»",
+      "simpleText": "Ο υπουργός Αγροτικής Ανάπτυξης, κ. Τσιάρας, κάλεσε τους αγρότες σε διάλογο. Είπε ότι είναι σημαντικό να μιλήσουν γρήγορα, γιατί οι ανάγκες των αγροτών είναι πολλές και σημαντικές. Ανέφερε ότι η κοινωνία περιμένει υπευθυνότητα, και πως θα πρέπει να εξετάσουν όλα τα αιτήματα που έχουν στείλει οι αγρότες.\n\nΟ υπουργός τόνισε ότι υπάρχουν δίκαια αιτήματα και ότι οι αγρότες πρέπει να νιώσουν ότι οι ανάγκες τους είναι σεβαστές. Το κάλεσμα έγινε μετά από αιτήματα των αγροτών, και ο διάλογος θεωρείται σημαντικός για την ανάπτυξη του τομέα.\n\nΔεν είναι γνωστό πότε ή πού θα γίνει ο διάλογος, αλλά είναι σίγουρα μια ευκαιρία να συζητηθούν τα θέματα που απασχολούν τους αγρότες.",
+      "sourceName": "TO BHMA, TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2025/12/15/politics/neo-kalesma-tsiara-stous-agrotes-gia-dialogo-oso-noritera-toso-kalytera/",
+      "sourceDomains": [
+        "tovima.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/15/politics/neo-kalesma-tsiara-stous-agrotes-gia-dialogo-oso-noritera-toso-kalytera/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/15/politics/anakoinoseis-tsiara-stis-1500-gia-tous-agrotes-tha-dosei-apantiseis-sta-aitimata-tous/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/yparxoun-perithwria-neo-kalesma-tsiara-stous-agrotes-gia-dialogo-44343275913"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την κυβερνητική πρωτοβουλία για διάλογο με τους αγρότες, εστιάζοντας σε σοβαρά ζητήματα που επηρεάζουν τον αγροτικό τομέα και την οικονομία της χώρας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-15T14:00:37.000Z"
+    },
+    {
+      "id": "06828cdf1a02",
+      "title": "Η Stoiximan παρουσιάζει τη νέα της εικόνα",
+      "simpleTitle": "Η Stoiximan παρουσιάζει τη νέα της εικόνα",
+      "simpleText": "Η Stoiximan αλλάζει την εικόνα της\n\nΗ Stoiximan, μια γνωστή εταιρεία στον τομέα της ψυχαγωγίας, παρουσίασε τη νέα της εικόνα. Αυτή η ανανέωση δείχνει την επιθυμία της να προσφέρει πιο άμεσες και εντυπωσιακές στιγμές στους χρήστες της. Η εταιρεία επενδύει σε νέες εμπειρίες που ξεχωρίζουν και προσφέρουν αξία.\n\nΗ νέα ταυτότητα της Stoiximan περιλαμβάνει ένα ανανεωμένο λογότυπο. Αυτό το λογότυπο παραμένει αναγνωρίσιμο, αλλά είναι πιο καθαρό και μοντέρνο. Το χρώμα του μπλε είναι πιο φωτεινό, προσφέροντας ζωντάνια και ενέργεια. Ο CEO της Stoiximan, Νίκος Φλίγκος, δήλωσε ότι η νέα εικόνα δείχνει πού θέλει να πάει η εταιρεία στο μέλλον. Τονίζει τη σημασία της τεχνολογίας και της υπευθυνότητας στην ψυχαγωγία.\n\nΑυτή η αλλαγή είναι σημαντική γιατί δείχνει την εξέλιξη της Stoiximan και τη δέσμευσή της στην ποιότητα και την ικανοποίηση των χρηστών. Η παρουσίαση έγινε πρόσφατα, αν και ακριβής ημερομηνία δεν αναφέρεται.",
       "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/14/world/tromokratiki-epithesi-sto-sidnei-enas-50xronos-kai-o-24xronos-gios-toy-oi-dyo-drastes-tis/",
+      "sourceUrl": "https://www.tanea.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/",
       "sourceDomains": [
         "tanea.gr",
         "tovima.gr"
@@ -264,25 +296,25 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/14/world/tromokratiki-epithesi-sto-sidnei-enas-50xronos-kai-o-24xronos-gios-toy-oi-dyo-drastes-tis/"
+          "url": "https://www.tanea.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/14/world/tromokratiki-epithesi-sto-sidnei-pateras-kai-gios-oi-drastes-anevikan-stous-16-oi-nekroi/"
+          "url": "https://www.tovima.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τρομοκρατική επίθεση με θανάσιμες συνέπειες και σοβαρές επιπτώσεις στην κοινότητα, γεγονός που εντάσσεται σε μεγάλα κοινωνικά ζητήματα.",
+      "category": "fun",
+      "categoryReason": "Η ανακοίνωση αλλαγής εικόνας της Stoiximan επικεντρώνεται στη διασκέδαση και την ψυχαγωγία. Η νέα ταυτότητα και ο ανανεωμένος σχεδιασμός συμβάλλουν στη δημιουργία θετικών και ζωντανών εμπειριών για τους χρήστες, κάτι που ταιριάζει στην κατηγορία fun.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-14T20:55:47.000Z"
+      "publishedAt": "2025-12-15T13:33:13.000Z"
     },
     {
       "id": "0eee22421bb2",
       "title": "Διατροφή, τσάι και καφέ: Πώς οι πολυφαινόλες ενισχύουν την καρδιακή υγεία",
       "simpleTitle": "Διατροφή, τσάι και καφέ: Πώς οι πολυφαινόλες ενισχύουν την καρδιακή υγεία",
-      "simpleText": "Τίτλος: Πώς οι πολυφαινόλες βοηθούν την καρδιά\n\nΜια νέα μελέτη δείχνει ότι η κατανάλωση τροφών και ροφημάτων που περιέχουν πολυφαινόλες, όπως το τσάι, ο καφές, τα μούρα, οι ξηροί καρποί, το κακάο, το ελαιόλαδο και τα δημητριακά ολικής άλεσης, μπορεί να βελτιώσει την καρδιακή υγεία των ανθρώπων.\n\nΑυτές οι πολυφαινόλες είναι φυσικές ουσίες που βρίσκονται σε πολλές υγιεινές τροφές και είναι γνωστές για την προστατευτική τους δράση στην καρδιά. Η έρευνα υποστηρίζει ότι η τακτική κατανάλωση αυτών των τροφών μπορεί να έχει θετικές επιπτώσεις στην υγεία της καρδιάς με την πάροδο του χρόνου.\n\nΗ συγκεκριμένη μελέτη είναι σημαντική, γιατί δείχνει πώς η διατροφή μπορεί να επιδράσει στην υγεία γενικότερα, και ειδικότερα στην καρδιά, που είναι ένα ζωτικό όργανο για την καλή λειτουργία του σώματος.",
+      "simpleText": "Νέα μελέτη δείχνει ότι η καλή καρδιακή υγεία μπορεί να σχετίζεται με την κατανάλωση τροφών και ροφημάτων πλούσιων σε πολυφαινόλες. Αυτές οι πολυφαινόλες βρίσκονται σε προϊόντα όπως το τσάι, ο καφές, τα μούρα, οι ξηροί καρποί, το κακάο, το ελαιόλαδο και τα δημητριακά ολικής άλεσης. Οι άνθρωποι που τα καταναλώνουν συχνά μπορεί να έχουν καλύτερη υγεία της καρδιάς με την πάροδο του χρόνου. Η διατροφή έχει σημαντικό ρόλο στην προστασία της καρδιάς μας. Αυτό το θέμα είναι σπουδαίο, γιατί δείχνει πώς οι καθημερινές επιλογές φαγητού και ποτού μπορούν να επηρεάσουν θετικά την υγεία μας.πολλοί.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30220-diatrofi-tsai-kafe-kai-i-dynamiki-ton-polyphenolon-stin-kardia/",
       "sourceDomains": [
@@ -295,7 +327,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια μελέτη που εξετάζει τη σχέση μεταξύ διατροφής και καρδιακής υγείας, θέματα που είναι σοβαρά και σημαντικά για την υγεία και την ευημερία των ανθρώπων.",
+      "categoryReason": "Η είδηση αναφέρεται σε μελέτη που εξετάζει τη σχέση της διατροφής, με ιδιαίτερη έμφαση στις πολυφαινόλες, με την καρδιακή υγεία, ένα σοβαρό κοινωνικό και υγειονομικό θέμα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -305,7 +337,7 @@
       "id": "f660de306490",
       "title": "Η Ρουμανία δείχνει τον δρόμο: Ένα πρωτοποριακό σύστημα ανακύκλωσης που αγγίζει το 94%",
       "simpleTitle": "Η Ρουμανία δείχνει τον δρόμο: Ένα πρωτοποριακό σύστημα ανακύκλωσης που αγγίζει το 94%",
-      "simpleText": "Η Ρουμανία έχει αναπτύξει ένα νέο σύστημα ανακύκλωσης που είναι πολύ επιτυχημένο. Σε μόλις δύο χρόνια, το ποσοστό συλλογής χρησιμοποιημένων πλαστικών, γυάλινων και μεταλλικών συσκευασιών φτάνει το 94%.\n\nΑυτό το σύστημα λειτουργεί με τη συνεργασία δημόσιων και ιδιωτικών φορέων μέσω της εταιρείας RetuRO. Η καινοτομία του είναι ότι δεν έπρεπε να αλλάξει κάποιο παλιό σύστημα, αλλά ξεκίνησε από τον μηδέν. Έτσι, μπόρεσαν να δημιουργήσουν μια διαδικασία πιο απλή και αποτελεσματική.\n\nΑυτή η επίτευξη είναι σημαντική, γιατί δείχνει πώς μπορεί να βελτιωθεί η ανακύκλωση και η προστασία του περιβάλλοντος.",
+      "simpleText": "Η Ρουμανία επιτυγχάνει στην ανακύκλωση\n\nΗ Ρουμανία έχει αναπτύξει ένα νέος και επιτυχές σύστημα ανακύκλωσης. Σε μόλις δύο χρόνια, η χώρα κατάφερε να ανακυκλώνει το 94% των πλαστικών, γυάλινων και μεταλλικών συσκευασιών.\n\nΑυτό επιτεύχθηκε χάρη στη συνεργασία δημόσιου και ιδιωτικού τομέα μέσω της εταιρείας RetuRO. Το σύστημα τους είναι απλό και δεν βασίζεται σε παλαιά μοντέλα, γεγονός που βοήθησε στην επιτυχία του.\n\nΑυτή η επίδοση είναι σημαντική γιατί δείχνει πώς μια νέα προσέγγιση μπορεί να φέρει θετικά αποτελέσματα στην ανακύκλωση και στην προστασία του περιβάλλοντος.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30214-roumania-anakiklosi-epitixia-sto-systima-epistrofis/",
       "sourceDomains": [
@@ -318,7 +350,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό ζήτημα περιβάλλοντος και βιωσιμότητας, καθώς αναφέρεται στην επίτευξη υψηλού ποσοστού ανακύκλωσης στην Ρουμανία, κάτι που σχετίζεται με την προστασία του περιβάλλοντος και τις δημόσιες πολιτικές.",
+      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα περιβάλλοντος και ανακύκλωσης, επισημαίνοντας την επιτυχία ενός συστήματος που μπορεί να έχει θετικό αντίκτυπο στη βιωσιμότητα και την προστασία του περιβάλλοντος.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -328,7 +360,7 @@
       "id": "b21b89451997",
       "title": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
       "simpleTitle": "Η πρωτεΐνη Klotho ανοίγει νέο δρόμο για υγιή γήρανση και μακροζωία",
-      "simpleText": "Νέα έρευνα δείχνει πως η πρωτεΐνη Klotho μπορεί να βοηθήσει τους ανθρώπους να γερνούν πιο υγιεινά και να ζουν περισσότερα χρόνια.\n\nΗ έρευνα έγινε στο Πανεπιστήμιο της Βαρκελώνης. Οι επιστήμονες μελετούν την Klotho εδώ και χρόνια, καθώς πιστεύουν ότι μπορεί να είναι το \"κλειδί\" για να επιβραδύνουμε τη διαδικασία της γήρανσης.\n\nΑυτή η ανακάλυψη είναι σημαντική, γιατί μπορεί να αλλάξει τον τρόπο που αντιμετωπίζουμε τη γήρανση και την υγεία μας στο μέλλον. Παρά τις υποσχέσεις, χρειάζεται περισσότερη έρευνα για να κατανοήσουμε πλήρως πώς λειτουργεί η πρωτεΐνη και αν μπορεί να χρησιμοποιηθεί στην καθημερινή ζωή.",
+      "simpleText": "Τίτλος: Μια νέα πρωτεΐνη μπορεί να βοηθήσει στην υγιή γήρανση\n\nΜια νέα έρευνα από το Πανεπιστήμιο της Βαρκελώνης δείχνει ότι η πρωτεΐνη Klotho μπορεί να έχει θετική επίδραση στη γήρανση. Οι επιστήμονες αναζητούν εδώ και καιρό τρόπους για να βοηθήσουν τους ανθρώπους να ζήσουν περισσότερο και καλύτερα.\n\nΗ πρωτεΐνη αυτή φαίνεται να σχετίζεται με τη διαδικασία της γήρανσης και μπορεί να προσφέρει ελπίδα για μια πιο υγιή ζωή καθώς μεγαλώνουμε. Αυτή η ανακάλυψη μπορεί να ανοίξει νέες δυνατότητες στην έρευνα για τη μακροχρόνια υγεία.\n\nΗ σημασία αυτής της έρευνας είναι μεγάλη, καθώς ελπίζεται ότι μπορεί να βελτιώσει την ποιότητα ζωής των ανθρώπων σε μεγαλύτερες ηλικίες. Οι λεπτομέρειες για το πώς ακριβώς λειτουργεί η Klotho δεν είναι ακόμη γνωστές και απαιτείται περισσότερη μελέτη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30206-i-proteini-klotho-anoigei-neo-dromo-gia-ygi-giransi-kai-makrozoia/",
       "sourceDomains": [
@@ -341,7 +373,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πρωτεΐνη Klotho και τη σχέση της με την υγιή γήρανση και τη μακροχρόνια υγεία, θέματα που σχετίζονται με την υγεία και την επιστημονική έρευνα.",
+      "categoryReason": "Η είδηση αφορά έρευνες για την υγιή γήρανση και τη μακροζωία, θέματα που σχετίζονται με την υγεία και την ποιότητα ζωής των ανθρώπων, τα οποία συνδέονται με σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -351,7 +383,7 @@
       "id": "6428763328fc",
       "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
       "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-      "simpleText": "Σε μια πρόσφατη ανασκαφή στη Βουδαπέστη, βρέθηκε μια σαρκοφάγος ηλικίας 1.700 ετών. Αυτή η σαρκοφάγος, που βρίσκεται στο Όμπουντα, ήταν άθικτη και περιέχει στοιχεία για μια νεαρή γυναίκα που είχε ταφεί εκεί.\n\nΗ ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Αυτή η ανακάλυψη είναι σημαντική διότι μας δίνει πληροφορίες για την καθημερινή ζωή και τον πολιτισμό στη ρωμαϊκή εποχή, ειδικά στην περιοχή που ονομαζόταν Παννονία. Μέσα από τα ευρήματα, οι ερευνητές μπορούν να μάθουν περισσότερα για τις συνήθειες και τον τρόπο ζωής των ανθρώπων εκείνης της εποχής.",
+      "simpleText": "Σαφήνεια στην ιστορία ενός αρχαίου ευρήματος\n\nΜια ρωμαϊκή σαρκοφάγος ηλικίας περίπου 1.700 ετών βρέθηκε άθικτη στο Όμπουντα της Βουδαπέστης. Αυτό το εύρημα είναι σημαντικό γιατί μας δίνει πληροφορίες για τη ζωή μιας νεαρής γυναίκας που θάφτηκε εκεί.\n\nΗ ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Μέσα από αυτή τη διαδικασία, μαθαίνουμε περισσότερα για την καθημερινότητα και τον πολιτισμό της ρωμαϊκής εποχής στην περιοχή Παννονία. Το γεγονός αυτό είναι σημαντικό γιατί μας βοηθά να κατανοήσουμε καλύτερα την ιστορία και τον πολιτισμό της περιοχής.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
       "sourceDomains": [
@@ -364,7 +396,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου στη Βουδαπέστη σχετίζεται με την ιστορία και τον πολιτισμό της ρωμαϊκής εποχής, προσφέροντας σημαντικές πληροφορίες για τον κόσμο της Παννονίας.",
+      "categoryReason": "Η είδηση αφορά την ανασκαφή μιας ρωμαϊκής σαρκοφάγου, η οποία σχετίζεται με την ιστορία και τον πολιτισμό της ρωμαϊκής εποχής, που την καθιστά πολιτιστική νέα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -374,7 +406,7 @@
       "id": "e92812af0401",
       "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
       "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-      "simpleText": "Πριν από λίγο καιρό, ένας πρώην αστυνομικός από το Μέριλαντ, ο Wade Milyard, αποφάσισε να βοηθήσει τους άστεγους. Όλα άρχισαν όταν επισκέφθηκε έναν καταυλισμό αστέγων και ένιωσε την ανάγκη να κάνει κάτι χρήσιμο για αυτούς.\n\nΈτσι, δημιούργησε ένα κινητό πλυντήριο ρούχων. Αυτό το πλυντήριο προσφέρει τη δυνατότητα στους άστεγους να πλένουν τα ρούχα τους, κάτι που μπορεί να είναι πολύ σημαντικό για την υγιεινή και την αξιοπρέπεια τους. Είναι μια πράξη καλοσύνης που μπορεί να αλλάξει τη ζωή πολλών ανθρώπων.\n\nΑυτή η πρωτοβουλία δείχνει πως μικρές πράξεις μπορούν να φέρουν ελπίδα σε όσους το χρειάζονται.",
+      "simpleText": "Ένας πρώην αστυνομικός δημιουργεί ελπίδα για τους άστεγους με ένα κινητό πλυντήριο.\n\nΟ Wade Milyard, πρώην αστυνομικός από το Frederick του Μέριλαντ, έζησε μια εμπειρία που τον οδήγησε να βοηθήσει τους άστεγους. Όλα ξεκίνησαν όταν πήγε σε έναν καταυλισμό αστέγων για να ερευνήσει μια διαφωνία. Εκεί, ένιωσε την ανάγκη να κάνει κάτι καλό για αυτούς τους ανθρώπους.\n\nΈτσι, αποφάσισε να φτιάξει ένα κινητό πλυντήριο. Αυτή η ιδέα είναι σημαντική, γιατί βοηθά τους άστεγους να διατηρούν καθαρά ρούχα και να νιώθουν καλύτερα. Αν και οι λεπτομέρειες της λειτουργίας του πλυντηρίου δεν είναι γνωστές, η πράξη καλοσύνης του Milyard δείχνει πώς μπορεί κάποιος να κάνει τη διαφορά στη ζωή άλλων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
       "sourceDomains": [
@@ -387,9 +419,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η πρωτοβουλία του πρώην αστυνομικού να δημιουργήσει ένα κινητό πλυντήριο για άστεγους είναι μια θετική και ενθαρρυντική ιστορία που φέρνει ελπίδα και προσφέρει πρακτική βοήθεια στους ανθρώπους που την έχουν ανάγκη.",
+      "categoryReason": "Η πρωτοβουλία του πρώην αστυνομικού να προσφέρει ένα κινητό πλυντήριο για άστεγους είναι ένα θετικό και ενθαρρυντικό γεγονός που δείχνει πως μπορούμε να κάνουμε τη διαφορά στη ζωή άλλων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gde1da3ca1176cf32d29c48ed58d4131ed93f14a540e24dab5f80a8a59498b7cf6deff7243afffdb3b77c256a29db49a4b325b46ee72aef4a02485d5a2a76c047_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g7ef596a04ecf4f1ca59c7b9756ab095be9100757059eb81a974b8b4699cae598f0cc8e63d4a7af3fc91e1874c7413578c4ff90ce6d36542ea852955cc115b73b_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-12T05:29:00.000Z"
     },
@@ -397,7 +429,7 @@
       "id": "67ee5b41d5e6",
       "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
       "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-      "simpleText": "Τίτλος: Το πάρτι για τη Μαρία Κάλλας επιστρέφει στην Αθήνα\n\nΣτις 12 Δεκεμβρίου 2025, θα πραγματοποιηθεί το street party του Μουσείου Μαρία Κάλλας στην Αθήνα. Η εκδήλωση αυτή είχε αναβληθεί την προηγούμενη εβδομάδα λόγω κακών καιρών.\n\nΤο πάρτι θα ξεκινήσει στις 20:00 στην οδό Πετράκη, πίσω από το Μουσείο. Είναι μια νύχτα γιορτής και διασκέδασης, που έχει γίνει παράδοση στην πόλη. Οι συμμετέχοντες θα έχουν την ευκαιρία να γιορτάσουν τη ζωή και το έργο της διάσημης τραγουδίστριας.\n\nΑυτή η εκδήλωση είναι σημαντική καθώς ενώνει την κοινότητα και προάγει την καλλιτεχνική κληρονομιά της Μαρίας Κάλλας με χαρά και δημιουργικότητα.",
+      "simpleText": "Η Μαρία Κάλλας γιορτάζεται ξανά στην Αθήνα με ένα street party. Η εκδήλωση θα γίνει την Παρασκευή 12 Δεκεμβρίου 2025, στις 20:00. Αρχικά είχε αναβληθεί λόγω κακών καιρικών συνθηκών.\n\nΤο street party θα πραγματοποιηθεί στην οδό Πετράκη, πίσω από το Μουσείο Μαρία Κάλλας. Οι επισκέπτες θα έχουν την ευκαιρία να απολαύσουν μουσική και διασκέδαση. Είναι μια ευκαιρία να τιμηθεί η καλλιτεχνική κληρονομιά της σπουδαίας τραγουδίστριας με ένα ευχάριστο και γιορτινό τρόπο.\n\nΑυτή η βραδιά έχει γίνει σημαντική για την πόλη και αναμένεται να προσφέρει χαρά και κέφι στους συμμετέχοντες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
       "sourceDomains": [
@@ -410,9 +442,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η εκδήλωση είναι μια γιορτή που τιμά τη ζωή και το έργο της Μαρίας Κάλλας και προάγει την καλλιτεχνική κληρονομιά, δημιουργώντας χαρούμενη και εορταστική ατμόσφαιρα στην κοινότητα.",
+      "categoryReason": "Η είδηση αφορά ένα ιδιαίτερα θετικό και γιορτινό street party προς τιμήν της Μαρίας Κάλλας, το οποίο αναμένεται να προσφέρει χαρά και διασκέδαση στους συμμετέχοντες.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4e3e8cb635a5dd5e7627605273c5f0f3448f87f1c24338ea23c1163c48254b6066551ef215b5f70fc2053534b0dde3cc2fc6733c1beccff4449b6bc0f15ab7b1_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gcb0c650dab2ed64791930a89d3514063bcdbb59ca057f6cdf8d8c98ceff4ca8db66c34df168f91289acdacf6a6566301f624d9caf37bd30d09650ded6769d0f3_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2025-12-11T16:55:58.000Z"
     },
@@ -420,7 +452,7 @@
       "id": "10412cb7acb4",
       "title": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
       "simpleTitle": "Αλκοόλ και εξέλιξη: τι αποκαλύπτει η νέα έρευνα για τους πιθήκους",
-      "simpleText": "Τίτλος: Αλκοόλ και εξέλιξη στους πιθήκους\n\nΜια νέα έρευνα δείχνει ότι η σχέση των ανθρώπων με το αλκοόλ δεν προέρχεται μόνο από τον πολιτισμό. Σύμφωνα με την έρευνα, αυτή η έλξη για το αλκοόλ έχει τις ρίζες της στην εξέλιξη των πρωτευόντων ζώων, όπως οι πίθηκοι. Η μελέτη αναλύει πώς η αιθανόλη, μια ουσία που περιέχεται στο αλκοόλ, επηρεάζει τη συμπεριφορά και την εξέλιξη των ζώων αυτών. Είναι σημαντικό να κατανοήσουμε αυτή τη σύνδεση, καθώς μπορεί να μας βοηθήσει να ανακαλύψουμε περισσότερα για τη σχέση μας με το αλκοόλ σήμερα. Οι λεπτομέρειες της έρευνας είναι ακόμη περιορισμένες.",
+      "simpleText": "Τίτλος: Πώς το αλκοόλ επηρεάζει τους πιθήκους\n\nΜια νέα έρευνα εξετάζει τη σχέση των πιθήκων με το αλκοόλ. Σύμφωνα με την έρευνα, αυτή η έλξη για το αλκοόλ δεν είναι μόνο θέμα πολιτισμού, αλλά έχει βαθιές ρίζες στην εξέλιξη των ζώων αυτών.\n\nΗ έρευνα δείχνει ότι οι πιθήκοι, όπως και οι άνθρωποι, έχουν μια φυσική έλξη για την αιθανόλη, το κύριο στοιχείο του αλκοόλ. Αυτό σημαίνει ότι η σχέση μας με το αλκοόλ μπορεί να είναι φυσική και όχι μόνο κοινωνική.\n\nΗ μελέτη έχει σημασία γιατί μας βοηθά να κατανοήσουμε καλύτερα τη συμπεριφορά και την εξέλιξη των πρωτευόντων. Οι πληροφορίες αυτές μπορεί να εξελίξουν τη γνώση μας για τον άνθρωπο και τη χρήση αλκοόλ στην καθημερινή ζωή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30047-exelixi-alkool-erevna-stous-pithikous/",
       "sourceDomains": [
@@ -433,7 +465,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η έρευνα εξετάζει την εξελικτική σχέση του ανθρώπου με το αλκοόλ, η οποία σχετίζεται με σοβαρά ζητήματα όπως η συμπεριφορά και η υγεία.",
+      "categoryReason": "Η είδηση εξετάζει σοβαρές επιστημονικές πτυχές της σχέσης των πιθήκων με το αλκοόλ, εστιάζοντας στην εξέλιξη και τον αντίκτυπο αυτής της σχέσης στην κατανόηση της ανθρώπινης συμπεριφοράς.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -443,7 +475,7 @@
       "id": "31063950671f",
       "title": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
       "simpleTitle": "Το πρωινό και πώς συνδέεται με την υγεία και το στρες",
-      "simpleText": "Τίτλος: Η σημασία του πρωινού για την υγεία και το στρες\n\nΤο πρωινό είναι πολύ σημαντικό γεύμα. Μας δίνει ενέργεια, βοηθά στην όρεξη και στη γενική μας ευεξία. Από μικρή ηλικία, ακούμε ότι είναι το πιο σημαντικό γεύμα της ημέρας.\n\nΩστόσο, οι γρήγοροι ρυθμοί της καθημερινότητας μπορεί να μας δυσκολεύουν. Συχνά, δεν έχουμε τον χρόνο να φτιάξουμε ένα θρεπτικό και ισορροπημένο πρωινό. Αυτό μπορεί να επηρεάσει την υγεία μας και τα επίπεδα στρες.\n\nΕίναι καλό να προσπαθούμε να τρώμε πρωινό, καθώς μπορεί να μας κάνει να αισθανόμαστε καλύτερα και να έχουμε περισσότερη ενέργεια στην ημέρα μας.",
+      "simpleText": "Τίτλος: Η σημασία του πρωινού για την υγεία και το στρες\n\nΤο πρωινό γεύμα είναι πολύ σημαντικό για την υγεία μας. Ξεκινά την ημέρα μας και μας δίνει ενέργεια. Βοηθά επίσης στο να νιώθουμε καλύτερα και να ελέγχουμε την όρεξή μας. Παρόλα αυτά, οι γρήγοροι ρυθμοί της καθημερινότητας συχνά μας κάνουν να παραλείπουμε ένα σωστό και θρεπτικό πρωινό.\n\nΗ καλή επιλογή του πρωινού μπορεί να μας προστατεύσει από το άγχος και να μας βοηθήσει να είμαστε πιο παραγωγικοί. Η διαδικασία του να βρούμε χρόνο για να φάμε, μαζί με την επιλογή υγιεινών τροφών, μπορεί να είναι δύσκολη, αλλά είναι πολύ σημαντική για τη γενική ευημερία μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30211-to-proino-kai-pos-syndeetai-me-ygeia-kai-stres/",
       "sourceDomains": [
@@ -456,7 +488,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Το άρθρο αναφέρει τη σημασία του πρωινού στην υγεία και τη σύνδεση του με το στρες, θέματα που σχετίζονται με σοβαρά ζητήματα ευεξίας και διατροφής.",
+      "categoryReason": "Η είδηση επικεντρώνεται στη σημασία του πρωινού γεύματος για την υγεία και τη σχέση του με το άγχος, θέματα που θεωρούνται σοβαρά και σχετίζονται με την ευημερία και την υγεία του ατόμου.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -466,7 +498,7 @@
       "id": "3927486c1550",
       "title": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
       "simpleTitle": "Στο γήπεδο της Ντόρτμουντ εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο",
-      "simpleText": "Στο γήπεδο της Ντόρτμουντ, το Signal Iduna Park, εγκαταστάθηκε το μεγαλύτερο ηλιακό σύστημα στον κόσμο. Αυτή η εγκατάσταση έχει πάνω από 11.000 ηλιακά πάνελ και μπορεί να παράγει περισσότερη από 5 MW ηλεκτρική ενέργεια.\n\nΗ σημαντικότητα αυτού του έργου είναι μεγάλη. Δείχνει πώς ο αθλητισμός μπορεί να συμβάλλει στη βιωσιμότητα και στην υπεύθυνη χρήση της ενέργειας. Το γήπεδο καθορίζει νέα πρότυπα για τα σύγχρονα αθλητικά κέντρα, προωθώντας τη χρήση καθαρής ενέργειας.",
+      "simpleText": "Στο γήπεδο της Ντόρτμουντ έχει τοποθετηθεί το μεγαλύτερο ηλιακό σύστημα παγκοσμίως. Το Signal Iduna Park, όπως ονομάζεται, έχει πάνω από 11.000 φωτοβολταϊκά πάνελ. Αυτά τα πάνελ παράγουν περισσότερη από 5 MW ενέργειας.\n\nΑυτή η εγκατάσταση είναι σημαντική γιατί δείχνει πώς ο αθλητισμός μπορεί να συμβάλλει στη βιωσιμότητα. Σημαίνει ότι οι αθλητικές εγκαταστάσεις μπορούν να χρησιμοποιούν ανανεώσιμες πηγές ενέργειας και να είναι πιο φιλικές προς το περιβάλλον. Με αυτό τον τρόπο, το γήπεδο γίνεται παράδειγμα για άλλα αθλητικά κέντρα σε όλο τον κόσμο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30010-gipedo-ntortmount-megalytero-ston-kosmo-iliako-systima/",
       "sourceDomains": [
@@ -479,7 +511,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η εγκατάσταση του μεγαλύτερου ηλιακού συστήματος στον κόσμο στο γήπεδο της Ντόρτμουντ αναδεικνύει σοβαρά ζητήματα σχετικά με τη βιωσιμότητα και την υπεύθυνη χρήση ενέργειας στον αθλητισμό.",
+      "categoryReason": "Η εγκατάσταση του μεγαλύτερου ηλιακού συστήματος στον κόσμο στο γήπεδο της Ντόρτμουντ έχει σοβαρές προεκτάσεις σχετικά με τη βιωσιμότητα και τη χρήση ανανεώσιμων πηγών ενέργειας στον αθλητισμό.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -489,7 +521,7 @@
       "id": "b09b843e0cdc",
       "title": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
       "simpleTitle": "Κυβερνοασφάλεια και προστασία πολιτών: η ΔΙΔΙΚ στην πρώτη γραμμή",
-      "simpleText": "Τίτλος: Ασφάλεια στο Διαδίκτυο: Η ΔΙΔΙΚ προστατεύει τους πολίτες\n\nΗ Διεύθυνση Δίωξης Κυβερνοεγκλήματος, γνωστή ως ΔΙΔΙΚ, είναι μέρος της Ελληνικής Αστυνομίας. Αυτή η υπηρεσία εργάζεται για να κρατήσει το διαδίκτυο ασφαλές για όλους. Η τεχνολογία είναι σημαντική για την καθημερινότητά μας, και η ασφαλής χρήση της είναι απαραίτητη.\n\nΗ ΔΙΔΙΚ παρακολουθεί συνεχώς τι συμβαίνει στο διαδίκτυο. Αν εντοπίσει κάτι επικίνδυνο, παρεμβαίνει για να προστατεύσει τους πολίτες και τις επιχειρήσεις. Αυτή η δουλειά τους είναι κρίσιμη, γιατί οι κυβερνοεγκληματίες μπορούν να προκαλέσουν ζημιές σε πολλούς ανθρώπους.\n\nΕίναι σημαντικό να έχουμε μια ομάδα που φροντίζει για την ασφάλεια μας στον ψηφιακό κόσμο. Η ΔΙΔΙΚ διασφαλίζει ότι οι πολίτες μπορούν να χρησιμοποιούν το διαδίκτυο με περισσότερη ασφάλεια.",
+      "simpleText": "Τίτλος: Προστασία πολιτών από ψηφιακούς κινδύνους\n\nΗ Διεύθυνση Δίωξης Κυβερνοεγκλήματος (ΔΙΔΙΚ) της Ελληνικής Αστυνομίας εργάζεται για την ασφάλεια των πολιτών στο διαδίκτυο. Σε έναν κόσμο όπου χρησιμοποιούμε καθημερινά την τεχνολογία, η προστασία από κυβερνοεγκλήματα είναι πολύ σημαντική.\n\nΗ ΔΙΔΙΚ παρακολουθεί τις εξελίξεις στον τομέα της κυβερνοασφάλειας και αναλαμβάνει δράσεις όταν χρειάζεται. Σκοπός της είναι να διασφαλίσει ότι ο ψηφιακός χώρος είναι όσο το δυνατόν πιο ασφαλής για όλους.\n\nΑυτή η δουλειά είναι κρίσιμη, καθώς οι ψηφιακοί κίνδυνοι αυξάνονται. Οι πολίτες πρέπει να αισθάνονται ασφαλείς όταν χρησιμοποιούν το διαδίκτυο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30209-kyvernoasfaleia-prostasia-politon-didik/",
       "sourceDomains": [
@@ -502,124 +534,73 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κυβερνοασφάλεια και την προστασία πολιτών, που είναι σοβαρά ζητήματα σχετικά με την ασφάλεια και την τεχνολογία.",
+      "categoryReason": "Η είδηση αφορά την κυβερνοασφάλεια και την προστασία των πολιτών από ψηφιακούς κινδύνους, ζητήματα που σχετίζονται με την ασφάλεια και την πολιτική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2025-12-10T14:22:00.000Z"
     },
     {
-      "id": "29af20b5507f",
-      "title": "Ο Λιούμπισιτς, ο …Σαβέβσκι και η «νέα ΑΕΚ»",
-      "simpleTitle": "Ο Λιούμπισιτς, ο …Σαβέβσκι και η «νέα ΑΕΚ»",
-      "simpleText": "Τίτλος: Ο Σαβέβσκι και ο Λιούμπισιτς στην ΑΕΚ\n\nΤην περασμένη Κυριακή, ο Τόνι Σαβέβσκι υπέγραψε αυτόγραφα για τους θαυμαστές του στο γήπεδο της ΑΕΚ στη Νέα Φιλαδέλφεια. Η εκδήλωση προσελκύσει πολλούς φιλάθλους. Την ίδια μέρα, ο Λιούμπισιτς αγωνίστηκε με την ομάδα και έδειξε καλή απόδοση σε ένα σημαντικό παιχνίδι.\n\nΟ Λιούμπισιτς, κροάτης ποδοσφαιριστής, έκανε καλή εμφάνιση και βοήθησε την ομάδα να πετύχει γκολ. Έχει κριθεί σημαντικός για την ΑΕΚ, αν και προηγουμένως κάποιοι αμφισβητούσαν την αξία του. Σημαντικό είναι ότι, με την απόδοση του, μπορεί να αποδοθεί συγκριτικά με τον Σαβέβσκι, έναν θρυλικό παίκτη της ΑΕΚ που άφησε μεγάλο αποτύπωμα στην ομάδα.\n\nΑυτή η εξέλιξη δείχνει πώς το ποδόσφαιρο μπορεί να αλλάξει γρήγορα. Σημαντικό είναι ότι ο Λιούμπισιτς φαίνεται να βελτιώνεται και ίσως έχει μέλλον στην ομάδα. Η σωστή του απόδοση μπορεί να σημαίνει νέα αρχή για αυτόν στη Νέα Φιλαδέλφεια.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/15/sports/o-lioumpisits-o-savevski-kai-i-nea-aek/",
+      "id": "7e6825bb489c",
+      "title": "Live streaming: Δείτε τον αγώνα χάντμπολ Νέα Ιωνία-ΑΕΚ για την Α1 Γυναικών (16:45, EΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Live streaming: Δείτε τον αγώνα χάντμπολ Νέα Ιωνία-ΑΕΚ για την Α1 Γυναικών (16:45, EΡΤ2 ΣΠΟΡ)",
+      "simpleText": "Αγώνας χάντμπολ Νέα Ιωνία - ΑΕΚ\n\nΣήμερα στις 16:45 θα γίνει αγώνας χάντμπολ μεταξύ της Νέας Ιωνίας και της ΑΕΚ. Είναι ο 8ος αγώνας της Α1 κατηγορίας γυναικών. Ο αγώνας θα μεταδοθεί ζωντανά από την τηλεόραση, συγκεκριμένα από το κανάλι ΕΡΤ2 ΣΠΟΡ. Μπορείτε επίσης να τον παρακολουθήσετε online μέσω της πλατφόρμας ΕRTFLIX. Αυτός ο αγώνας είναι σημαντικός για τις ομάδες και τους φιλάθλους τους.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-xantmpol-nea-ionia-aek-gia-tin-a1-gynaikon-16-45-ert2-spor/",
       "sourceDomains": [
-        "tanea.gr"
+        "ertnews.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/15/sports/o-lioumpisits-o-savevski-kai-i-nea-aek/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-xantmpol-nea-ionia-aek-gia-tin-a1-gynaikon-16-45-ert2-spor/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά την απόδοση και συμμετοχή ποδοσφαιριστών της ΑΕΚ, που σχετίζεται άμεσα με το ποδόσφαιρο και τις δραστηριότητες της ομάδας. | rss_backfill",
+      "categoryReason": "Ο αγώνας χάντμπολ αφορά αποκλειστικά αθλητικά γεγονότα, όπως η Α1 Γυναικών, και σχετίζεται με τη ζωντανή μετάδοση δύο αθλητικών ομάδων. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-14T22:18:15.000Z"
-    },
-    {
-      "id": "952c2a91241d",
-      "title": "Όλα τα γκολ και τα highlights της 14ης αγωνιστικής της Super League",
-      "simpleTitle": "Όλα τα γκολ και τα highlights της 14ης αγωνιστικής της Super League",
-      "simpleText": "**Απλός τίτλος: Τα γκολ και τα σημαντικά σημεία της 14ης αγωνιστικής της Super League**\n\nΗ 14η αγωνιστική της Super League πραγματοποιήθηκε το Σαββατοκύριακο. Ήταν η πρώτη αγωνιστική του δεύτερου γύρου του πρωταθλήματος.\n\nΤο Σάββατο, ο Λεβαδειακός κέρδισε την ΑΕΛ με 3-0 και διατηρήθηκε στην 4η θέση της βαθμολογίας. Στη συνέχεια, ο ΟΦΗ νίκησε επίσης με 3-0 τον Πανσερραϊκό, αποκτώντας σημαντική βαθμολογική ανάσα. Το τελευταίο ματς της ημέρας έληξε χωρίς γκολ, καθώς Κηφισιά και Αστέρας Aktor ήρθαν ισόπαλες 0-0 στη Νεάπολη.\n\nΤην Κυριακή, η ΑΕΚ είχε εντυπωσιακή νίκη 5-0 επί του Παναιτωλικού στο Αγρίνιο. Ο Ρόμπερτ Λιούμπιτσιτς ήταν ο πιο καθοριστικός παίκτης, σημειώνοντας δύο γκολ και δίνοντας δύο ασίστ.\n\nΑυτή η αγωνιστική είναι σημαντική γιατί καθορίζει τη θέση των ομάδων στη βαθμολογία και επηρεάζει τις μελλοντικές τους επιδόσεις.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/14/sports/ola-ta-gkol-kai-ta-highlights-tis-14is-agonistikis-tis-super-league/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/14/sports/ola-ta-gkol-kai-ta-highlights-tis-14is-agonistikis-tis-super-league/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά τους αγώνες και τις επιδόσεις ομάδων της Super League, κάτι που ανήκει στην κατηγορία του αθλητισμού. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g995049296c35bc64262a2a1b9506352d1a11baa601bfc28ddaf74d363e147aa6c6e9c28c7891af5db4dd731ef43516dc6e6e938b9b2fec631225d00bde6ec86c_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-14T21:38:55.000Z"
+      "imageUrl": "https://pixabay.com/get/g5a67a8250fb19bc26ca0971169cbf7bd57f9e5629180d7cdd14f25a62736f4d49a88759909a66d7a1cb78dad0e18bf84cd63bb5baa3dbef8ab6087041d0b0b42_1280.jpg",
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+      "publishedAt": "2025-12-15T14:35:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "3ed6ab938d1f",
-        "title": "ΗΠΑ: Ανατροπή στην έρευνα για το μακελειό στο πανεπιστήμιο Μπράουν – Αφέθηκε ελεύθερος ο συλληφθείς ύποπτος",
-        "simpleTitle": "ΗΠΑ: Ανατροπή στην έρευνα για το μακελειό στο πανεπιστήμιο Μπράουν – Αφέθηκε ελεύθερος ο συλληφθείς ύποπτος",
-        "simpleText": "Τίτλος: ΗΠΑ: Ελεύθερος ο ύποπτος για τους πυροβολισμούς στο Πανεπιστήμιο Μπράουν\n\nΣτο Πανεπιστήμιο Μπράουν, δύο φοιτητές σκοτώθηκαν και άλλοι εννέα τραυματίστηκαν από πυροβολισμούς. Ο ύποπτος που είχε συλληφθεί αφέθηκε ελεύθερος, καθώς οι Αρχές δεν βρήκαν αρκετά στοιχεία για να τον κρατήσουν. Αυτή η εξέλιξη έγινε γνωστή το βράδυ της Κυριακής.\n\nΗ αποδέσμευση του υπόπτου αφήνει τις Αρχές χωρίς γνωστό δράστη, γεγονός που προκαλεί ανησυχία στην τοπική κοινωνία. Ο γενικός εισαγγελέας δήλωσε ότι η έρευνα συνεχίζεται, με τις Αρχές να εξετάζουν υλικό από κάμερες και μαρτυρίες.\n\nΗ επίθεση συνέβη κατά τη διάρκεια εξετάσεων, σε μία από τις πιο πολυσύχναστες περιόδους του ακαδημαϊκού έτους. Το Πανεπιστήμιο ανέστειλε όλα τα μαθήματα και τις εξετάσεις για να προστατεύσει τους φοιτητές.\n\nΈνας από τους τραυματίες έχει πάρει εξιτήριο, ενώ οι άλλοι επτά βρίσκονται σε κρίσιμη κατάσταση. Ο δράστης πυροβόλησε μέσα σε αίθουσα διδασκαλίας, ρίχνοντας περισσότερες από 40 σφαίρες. Οι Αρχές δημοσίευσαν ένα βίντεο με ένα άτομο ντυμένο στα μαύρα κοντά στο σημείο της επίθεσης, ελπίζοντας να βρουν νέες πληροφορίες. Η έρευνα για τους πυροβολισμούς συνεχίζεται.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ipa-anatropi-stin-ereyna-gia-to-makeleio-sto-panepistimio-mpraoun-afethike-eleytheros-o-sylliftheis-ypoptos/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-anatropi-stin-ereyna-gia-to-makeleio-sto-panepistimio-mpraoun-afethike-eleytheros-o-sylliftheis-ypoptos/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563976205/ipa-afethike-eleytheros-o-sylliftheis-ypoptos-gia-to-makeleio-sto-brown-poy-strefontai-oi-ereynes/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρό περιστατικό βίας σε πανεπιστημιακό χώρο με τραυματισμούς και θανάτους, καθώς και την έρευνα που συνεχίζεται χωρίς σαφή ύποπτο, κάτι που εγείρει μεγάλα κοινωνικά ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-15T06:52:30.000Z"
-      },
-      {
-        "id": "0cfe03d9f7e8",
-        "title": "Επίθεση στο πανεπιστήμιο Μπράουν: Ελεύθερος ο άνδρας που είχε προσαχθεί – Οι αρχές εξακολουθούν να αναζητούν τον δράστη",
-        "simpleTitle": "Επίθεση στο πανεπιστήμιο Μπράουν: Ελεύθερος ο άνδρας που είχε προσαχθεί – Οι αρχές εξακολουθούν να αναζητούν τον δράστη",
-        "simpleText": "Ένοπλη επίθεση στο πανεπιστήμιο Μπράουν\n\nΜία ένοπλη επίθεση συνέβη το Σάββατο στο πανεπιστήμιο Μπράουν, στο Ρόουντ Άιλαντ, ΗΠΑ. Δύο φοιτητές σκοτώθηκαν και εννέα τραυματίστηκαν. Ο άνδρας που είχε συλληφθεί για την υπόθεση θα αφεθεί ελεύθερος, καθώς οι αρχές δεν διαθέτουν αποδείξεις για την εμπλοκή του. Οι αστυνομικοί επισημαίνουν ότι συνεχίζουν να αναζητούν τον πραγματικό δράστη.\n\nΗ επίθεση προκάλεσε σοκ στην πανεπιστημιακή κοινότητα. Οι διοικητές του πανεπιστημίου ανακοίνωσαν την ακύρωση εξετάσεων και μαθημάτων μέχρι το τέλος του έτους. Οι τραυματίες έχουν διαφορετικές καταστάσεις υγείας, με επτά να είναι σε σταθερή κατάσταση και ένας σε κρίσιμη αλλά σταθερή κατάσταση.\n\nΗ επίθεση αυτή είναι μία από τις πολλές που έχουν γίνει φέτος στις ΗΠΑ και έχει ευαισθητοποιήσει την τοπική κοινωνία.",
-        "sourceName": "TA NEA, News.gr",
-        "sourceUrl": "https://www.tanea.gr/2025/12/15/world/epithesi-sto-panepistimio-mpraoyn-eleytheros-o-andras-poy-eixe-prosaxthei-oi-arxes-eksakol/",
+        "id": "6bc0cca599fd",
+        "title": "‘Ιδρυμα Μποδοσάκη: Προκήρυξη υποτροφιών για 54η χρονιά –  Ξεκινούν οι αιτήσεις",
+        "simpleTitle": "‘Ιδρυμα Μποδοσάκη: Προκήρυξη υποτροφιών για 54η χρονιά –  Ξεκινούν οι αιτήσεις",
+        "simpleText": "Η είδηση αφορά την προκήρυξη υποτροφιών από το Ίδρυμα Μποδοσάκη για 54η χρονιά. Οι αιτήσεις άρχισαν, δίνοντας την ευκαιρία σε νέες και νέους να σπουδάσουν ή να ερευνήσουν σε διαφορετικά πεδία.\n\nΟι υποτροφίες καλύπτουν μεταπτυχιακές σπουδές, μεταδιδακτορική έρευνα και βραχυχρόνιες επισκέψεις σε Πανεπιστήμια ή Ερευνητικά Κέντρα στο εξωτερικό. Οι τομείς που καλύπτονται περιλαμβάνουν τις Βιοεπιστήμες, τις Τεχνολογικές Επιστήμες και τις Κοινωνικές Επιστήμες.\n\nΕίναι σημαντική η ίση πρόσβαση στην εκπαίδευση, γι' αυτό η αξιολόγηση υποψηφίων περιλαμβάνει και τις οικονομικές συνθήκες. Οι ενδιαφερόμενοι μπορούν να υποβάλουν αίτηση έως 24 Φεβρουαρίου 2026 για τις μεταπτυχιακές σπουδές, 17 Μαρτίου 2026 για τη μεταδιδακτορική έρευνα και 31 Μαρτίου 2026 για τις βραχυχρόνιες επισκέψεις.\n\nΤο Ίδρυμα προάγει την εκπαίδευση και ενισχύει τις ευκαιρίες για νέους ερευνητές.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2025/12/15/greece/idryma-mpodosaki-prokiryksi-ypotrofion-gia-54i-xronia-ksekinoun-oi-aitiseis/",
         "sourceDomains": [
           "tanea.gr",
-          "news.gr"
+          "tovima.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/15/world/epithesi-sto-panepistimio-mpraoyn-eleytheros-o-andras-poy-eixe-prosaxthei-oi-arxes-eksakol/"
+            "url": "https://www.tanea.gr/2025/12/15/greece/idryma-mpodosaki-prokiryksi-ypotrofion-gia-54i-xronia-ksekinoun-oi-aitiseis/"
           },
           {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4031400/epithesi-sto-panepistimio-braoun-eleftheros-tha-afethi-o-andras-pou-iche-prosachthi-i-arches-exakolouthoun-na-anazitoun-ton-drasti.html"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/15/society/kanontas-to-epomeno-vima-prokiryksi-ypotrofion-idrymatos-mpodosaki-gia-54i-xronia/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή ένοπλη επίθεση σε πανεπιστήμιο, με θύματα και συνέπειες στην πανεπιστημιακή κοινότητα, καταγράφοντας ένα σημαντικό κοινωνικό ζήτημα.",
+        "categoryReason": "Η είδηση αφορά την προκήρυξη υποτροφιών από ένα φιλανθρωπικό ίδρυμα, με σημαντικές ευκαιρίες εκπαίδευσης και έρευνας, επισημαίνοντας τη σημασία της ίσης πρόσβασης στην εκπαίδευση, που είναι καθαρά σοβαρό θέμα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-15T06:52:03.000Z"
+        "publishedAt": "2025-12-15T15:17:24.000Z"
       },
       {
-        "id": "f3bff658ccec",
-        "title": "Λος Άντζελες: Νεκροί εντοπίστηκαν ο σκηνοθέτης Ρομπ Ράινερ και η σύζυγός του στο σπίτι τους – Ο γιος τους φέρεται ως ο βασικός ύποπτος",
-        "simpleTitle": "Λος Άντζελες: Νεκροί εντοπίστηκαν ο σκηνοθέτης Ρομπ Ράινερ και η σύζυγός του στο σπίτι τους – Ο γιος τους φέρεται ως ο βασικός ύποπτος",
-        "simpleText": "Στο Λος Άντζελες, ο 78χρονος σκηνοθέτης Ρομπ Ράινερ και η 68χρονη σύζυγός του, Μισέλ, βρέθηκαν νεκροί στο σπίτι τους την Κυριακή. Σύμφωνα με την αστυνομία, τα θύματα παρουσίαζαν τραύματα από μαχαίρι.\n\nΟ γιος τους, Νικ Ράινερ, φαίνεται να είναι ο βασικός ύποπτος, αν και η αστυνομία δεν έχει επιβεβαιώσει επίσημα την ταυτότητά του ως ύποπτου. Ο Νικ έχει αντιμετωπίσει σοβαρά προβλήματα με τον εθισμό στα ναρκωτικά στο παρελθόν.\n\nΗ αστυνομία πραγματοποιεί έρευνα και ανακρίνει μέλη της οικογένειας για να μάθει περισσότερα σχετικά με τις συνθήκες του θανάτου τους. Η απώλεια του Ράινερ προκαλεί θλίψη στην κοινότητα του Χόλιγουντ, καθώς ήταν γνωστός για τις κλασικές του ταινίες, όπως «Όταν ο Χάρι γνώρισε τη Σάλι».\n\nΗ κατάσταση όλη αυτή είναι σοβαρή και το μέλλον της έρευνας αναμένεται να ρίξει φως στα γεγονότα.",
+        "id": "df25fc1e148a",
+        "title": "Πέθανε ο ηθοποιός Αλμπέρτο Εσκενάζυ",
+        "simpleTitle": "Πέθανε ο ηθοποιός Αλμπέρτο Εσκενάζυ",
+        "simpleText": "Ο ηθοποιός Αλμπέρτο Εσκενάζυ έφυγε από τη ζωή στα 73 του χρόνια. Ο θάνατός του συνέβη τα ξημερώματα της Δευτέρας, 15 Δεκεμβρίου, μετά από μια πρόκληση που αντιμετώπιζε με σοβαρή ασθένεια, συγκεκριμένα καρκίνο.\n\nΟ Αλμπέρτο Εσκενάζυ γεννήθηκε στη Θεσσαλονίκη και πέρασε εκεί τα παιδικά του χρόνια. Σπούδασε υποκριτική στη Δραματική Σχολή του Εθνικού Θεάτρου και αποφοίτησε το 1976. Η καριέρα του περιλάμβανε πολλές συμμετοχές σε τηλεοπτικές σειρές, θεατρικές παραστάσεις και κινηματογραφικές ταινίες, με μεγάλες συνεργασίες όπως αυτές με τους Κώστα Καζάκο και Τζένη Καρέζη. Ξεχώρισε για τις ερμηνείες του στη σειρά «Ο Συμβολαιογράφος» και στο «Φως του Αυγερινού».\n\nΕκτός από την υποκριτική, ο Αλμπέρτο Εσκενάζυ είχε δημιουργήσει και τη δική του θεατρική παραγωγή, ενώ ήταν υποψήφιος στις ευρωεκλογές του 2024. Αφήνει πίσω του δύο παιδιά, τον Λέοντα και τη Σάρα. Η απώλεια του είναι σημαντική για τον καλλιτεχνικό κόσμο λόγω της προσφοράς του στην τέχνη.",
         "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, Protagon",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-tou-sto-spiti-tous-o-gios-tous-feretai-os-o-vasikos-ypoptos/",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/pethane-o-ithopoios-almperto-eskenazy/",
         "sourceDomains": [
           "ertnews.gr",
           "kathimerini.gr",
@@ -630,120 +611,153 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-tou-sto-spiti-tous-o-gios-tous-feretai-os-o-vasikos-ypoptos/"
+            "url": "https://www.ertnews.gr/eidiseis/pethane-o-ithopoios-almperto-eskenazy/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563976094/los-antzeles-nekroi-entopistikan-o-skinothetis-romp-rainer-kai-i-syzygos-toy-ereyna-gia-anthropoktonia/"
+            "url": "https://www.kathimerini.gr/culture/563976862/pethane-se-ilikia-73-eton-o-ithopoios-almperto-eskenazy/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/15/world/sok-o-skinothetis-romp-rainer-kai-i-syzygos-toy-vrethikan-nekroi-sto-spiti-toys/"
+            "url": "https://www.tanea.gr/2025/12/15/greece/pethane-o-ithopoios-almperto-eskenazy/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/15/world/sok-sto-xoligount-nekroi-sto-spiti-tous-o-romp-rainer-kai-i-syzygos-tou-ereyna-gia-anthropoktonia/"
+            "url": "https://www.tovima.gr/2025/12/15/culture/pethane-o-almperto-eskenazy-se-ilikia-73-eton/"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/thriler-sto-xoligount-nekroi-sto-spiti-tous-o-skinothetis-rob-rainer-kai-i-syzygos-tou-44343275510"
+            "url": "https://www.protagon.gr/epikairotita/pethane-se-ilikia-73-etwn-o-ithopoios-alberto-eskenazy-44343275992"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τους θανάτους του σκηνοθέτη Ρομπ Ράινερ και της συζύγου του, οι οποίοι βρίσκονται υπό αστυνομική έρευνα για ανθρωποκτονία, με σοβαρές συνθήκες και κοινωνικές προεκτάσεις.",
+        "categoryReason": "Ο θάνατος του Αλμπέρτο Εσκενάζυ είναι μια σοβαρή είδηση που αφορά την απώλεια ενός καλλιτέχνη και τις επιπτώσεις της ασθένειας στον άνθρωπο.",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-15T06:26:30.000Z"
+        "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0JssLM5uy4MVeBL5Ndp1BWHghccaNKjzefryjjRPkMvMmbmTmegByX5W8wRVVi75Vl%26id%3D100009883453348&amp;show_text=true&amp;width=500",
+        "publishedAt": "2025-12-15T15:14:10.000Z"
       },
       {
-        "id": "9064efda26a5",
-        "title": "Συνεχίζουν τα μπλόκα οι αγρότες μετά το «όχι» στο κάλεσμα Μητσοτάκη – Ο χάρτης των κινητοποιήσεων",
-        "simpleTitle": "Συνεχίζουν τα μπλόκα οι αγρότες μετά το «όχι» στο κάλεσμα Μητσοτάκη – Ο χάρτης των κινητοποιήσεων",
-        "simpleText": "Οι αγρότες συνεχίζουν τις κινητοποιήσεις τους στην Ελλάδα. Μετά την άρνησή τους να συναντηθούν με την κυβέρνηση, προγραμματίζουν μπλόκα σε σημαντικές οδικές αρτηρίες. Ο πρωθυπουργός Κυριάκος Μητσοτάκης δήλωσε ότι η κυβέρνηση είναι ανοιχτή σε διάλογο, αλλά οι αγρότες θεωρούν ότι η συζήτηση δεν είναι ειλικρινής.\n\nΑυτή τη στιγμή, υπάρχουν μπλόκα σε πολλές περιοχές, όπως η Εθνική Οδός Αθηνών-Θεσσαλονίκης και σε διάφορα τελωνεία. Παράλληλα, προγραμματίζονται και άλλες κινητοποιήσεις, όπως συγκεντρώσεις και πορείες. Οι αγρότες διεκδικούν συγκεκριμένα μέτρα στήριξης για τα προβλήματά τους.\n\nΟρισμένα από τα αιτήματα τους δεν έχουν γίνει γνωστά, αλλά τονίζουν ότι βρίσκονται σε δύσκολη κατάσταση και χρειάζονται άμεσες λύσεις.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/synexizoun-ta-mploka-oi-agrotes-meta-to-oxi-sto-kalesma-mitsotaki-o-xartis-ton-kinitopoiiseon/",
+        "id": "bbeef29dcd4a",
+        "title": "Λάρισα: Αναβλήθηκε για τον Οκτώβριο του 2026 η δίκη δύο αγροτών του μπλόκου της Νίκαιας",
+        "simpleTitle": "Λάρισα: Αναβλήθηκε για τον Οκτώβριο του 2026 η δίκη δύο αγροτών του μπλόκου της Νίκαιας",
+        "simpleText": "Τίτλος: Αναβλήθηκε η δίκη δύο αγροτών από τη Νίκαια για τον Οκτώβριο του 2026\n\nΔύο αγρότες από το μπλόκο της Νίκαιας έχουν κατηγορηθεί για σωματική βλάβη και βία κατά αστυνομικών. Οι ίδιοι αρνούνται τις κατηγορίες. Η δίκη τους αναβλήθηκε και θα γίνει πλέον στις 14 Οκτωβρίου 2026.\n\nΗ υπόθεση σχετίζεται με επεισόδια που έγιναν όταν οι αγρότες ξεκίνησαν τις κινητοποιήσεις τους. Αρκετοί αγρότες συγκεντρώθηκαν στην Κεντρική Πλατεία Λάρισας για να διαμαρτυρηθούν και να υποστηρίξουν τους κατηγορούμενους. Η συγκέντρωση έγινε με την παρουσία τρακτέρ, ως σύμβολο της αγροτικής κινητοποίησης.\n\nΟι παρευρισκόμενοι εξέφρασαν την ανησυχία τους για την ποινικοποίηση των αγροτικών κινητοποιήσεων και ζήτησαν να αποσυρθούν οι κατηγορίες εναντίον των αγροτών που συμμετέχουν σε διαμαρτυρίες. Η εξέλιξη αυτή είναι σημαντική, καθώς υπογραμμίζει τις προκλήσεις που αντιμετωπίζουν οι αγρότες και τα δικαιώματά τους να διαμαρτύρονται σε ζητήματα που τους αφορούν.",
+        "sourceName": "Kathimerini, TA NEA, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/society/563976598/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/synexizoun-ta-mploka-oi-agrotes-meta-to-oxi-sto-kalesma-mitsotaki-o-xartis-ton-kinitopoiiseon/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563976199/paramenoyn-sta-mploka-oi-agrotes-o-chartis-ton-kinitopoiiseon/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις σοβαρές κινητοποιήσεις των αγροτών στην Ελλάδα και τη διαμαρτυρία τους απέναντι στην κυβέρνηση, θέμα που σχετίζεται με κοινωνικά και πολιτικά ζητήματα και έχει ευρύτερες επιπτώσεις στην κοινωνία.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-15T06:23:01.000Z"
-      },
-      {
-        "id": "1bfa111b6ee9",
-        "title": "Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω πυρκαγιάς σε φορτηγό",
-        "simpleTitle": "Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω πυρκαγιάς σε φορτηγό",
-        "simpleText": "Τίτλος: Διακοπή κυκλοφορίας στα διόδια Αφιδνών λόγω φωτιάς σε φορτηγό\n\nΈγινε φωτιά σε ένα φορτηγό σήμερα, 15 Δεκεμβρίου, στη Νέα Εθνική Οδό Αθηνών – Λαμίας, κοντά στα διόδια Αφιδνών. Για αυτό το λόγο, η κυκλοφορία των οχημάτων σταμάτησε στο ρεύμα προς Αθήνα. Οι αρχές ειδοποιήθηκαν και έσπευσαν στο σημείο για να ελέγξουν την κατάσταση και να διασφαλίσουν την ασφάλεια των οδηγών. Είναι σημαντικό να αποφεύγονται οι κυριότεροι δρόμοι σε τέτοιες περιπτώσεις, ώστε να προληφθούν ατυχήματα και να διευκολυνθούν οι υπηρεσίες έκτακτης ανάγκης.",
-        "sourceName": "ERT News, Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/diakopi-kykloforias-sta-diodia-afidnon-logo-pyrkagias-se-fortigo/",
-        "sourceDomains": [
-          "ertnews.gr",
           "kathimerini.gr",
-          "tovima.gr"
+          "tanea.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/diakopi-kykloforias-sta-diodia-afidnon-logo-pyrkagias-se-fortigo/"
-          },
-          {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563976181/diakopi-kykloforias-sta-diodia-afidnon-fotia-se-fortigo/"
+            "url": "https://www.kathimerini.gr/society/563976598/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/15/society/diakopi-kykloforias-fotia-se-fortigo-sta-diodia-stis-afidnes/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/15/greece/law/larisa-anavlithike-gia-ton-oktovrio-toy-2026-i-diki-dyo-agroton-toy-mplokoy-tis-nikaias/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4031970/anavlithike-gia-ton-oktovrio-i-diki-dio-agroton-tou-blokou-tis-nikeas.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σοβαρή κατάσταση που σχετίζεται με τη δημόσια ασφάλεια και τη διακοπή κυκλοφορίας λόγω πυρκαγιάς σε φορτηγό.",
+        "categoryReason": "Η είδηση αναφέρεται σε κατηγορίες κατά δύο αγροτών που συμμετείχαν σε διαμαρτυρίες, εστιάζοντας σε σοβαρά ζητήματα δικαιωμάτων και ποινικοποίησης των αγροτικών κινητοποιήσεων.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ga60ec891698a687789b1106e43d3a68f37886ed2724f15fa0e6f27179251653a6ebe0c31469ee5e3b7c0b667eb6a31e6a40ebac72c42e8620fa6b7223bc08e4e_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gaa9bcbfb975f7b5d58e97b52f483f1213b3d66bf542a0de5d9f0725f98b85f55328f679d1fad59a6941ef334f295b6d8f2b6cb64770d9f67ea714b4b389fd3fa_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-15T06:11:11.000Z"
+        "publishedAt": "2025-12-15T14:43:54.000Z"
       },
       {
-        "id": "b2ad48c22fc3",
-        "title": "Πυρκαγιά σε ισόγειο διαμέρισμα στο Αιγάλεω – Στο νοσοκομείο μία ηλικιωμένη",
-        "simpleTitle": "Πυρκαγιά σε ισόγειο διαμέρισμα στο Αιγάλεω – Στο νοσοκομείο μία ηλικιωμένη",
-        "simpleText": "Στο Αιγάλεω, ξέσπασε φωτιά σε ισόγειο διαμέρισμα κατά τη διάρκεια της νύχτας. Η φωτιά ήταν μικρής έκτασης και εκδηλώθηκε από άγνωστη αιτία. Εννέα πυροσβέστες με τρία οχήματα έφτασαν γρήγορα για να σβήσουν τη φωτιά.\n\nΜια 80χρονη γυναίκα, που βρισκόταν στο διαμέρισμα, υπέστη ελαφρά εγκαύματα και μεταφέρθηκε στο νοσοκομείο. Οι αρχές εξετάζουν τώρα πώς ξεκίνησε η πυρκαγιά. Αυτή η είδηση είναι σημαντική γιατί θυμίζει την ανάγκη προσοχής σε θέματα ασφάλειας και προστασίας των ανθρώπων.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/pyrkagia-se-isogeio-diamerisma-sto-aigaleo-sto-nosokomeio-mia-ilikiomeni/",
+        "id": "71c814a358ec",
+        "title": "Δ. Κουτσούμπας για αγρότες: Ο αγώνας τους είναι πραγματικός ξεσηκωμός, συγκλονιστικός και μεγαλειώδης",
+        "simpleTitle": "Δ. Κουτσούμπας για αγρότες: Ο αγώνας τους είναι πραγματικός ξεσηκωμός, συγκλονιστικός και μεγαλειώδης",
+        "simpleText": "Δ. Κουτσούμπας: Ο αγώνας των αγροτών είναι σημαντικός\n\nΟ Δημήτρης Κουτσούμπας, γενικός γραμματέας του ΚΚΕ, μίλησε για την κινητοποίηση των αγροτών στη Βουλή. Αυτές οι κινητοποιήσεις συνεχίζονται για τρίτη εβδομάδα. Ο Κουτσούμπας είπε ότι ο αγώνας των αγροτών είναι μεγάλος και ότι η συμμετοχή τους είναι πρωτόγνωρη.\n\nΑναφέρθηκε σε επισκέψεις του στα μπλόκα αγροτών σε διάφορες περιοχές, όπως η Λάρισα και η Αταλάντη. Εξήγησε ότι οι αγρότες νιώθουν ότι δεν έχουν τίποτα να χάσουν, καθώς έχουν ήδη χάσει έσοδα και παραγωγή. Τόνισε ότι η επιβίωσή τους δεν εξαρτάται μόνο από κρατικές επιδοτήσεις αλλά και από άλλες απαραίτητες πολιτικές, όπως η μείωση του κόστους παραγωγής.\n\nΟ Κουτσούμπας ανέφερε ότι οι κυβερνώντες έχουν ήδη κατανοήσει τη σοβαρότητα της κατάστασης. Επίσης, είπε ότι τα μπλόκα των αγροτών ενοχλούν μεγάλες επιχειρηματικές ομάδες και ότι οι αγρότες ζητούν άμεσες λύσεις για τα προβλήματά τους.\n\nΣημαντική είναι η αίσθηση του ξεσηκωμού που επικρατεί ανάμεσα στους αγρότες, καθώς αγωνίζονται για την επιβίωσή τους και το μέλλον τους στον τόπο τους.",
+        "sourceName": "ERT News, 902.gr – Επιλεγμένα",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/d-koutsoumpas-gia-agrotes-o-agonas-tous-einai-pragmatikos-ksesikomos-sygklonistikos-kai-megaleiodis/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr"
+          "902.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/pyrkagia-se-isogeio-diamerisma-sto-aigaleo-sto-nosokomeio-mia-ilikiomeni/"
+            "url": "https://www.ertnews.gr/roi-idiseon/d-koutsoumpas-gia-agrotes-o-agonas-tous-einai-pragmatikos-ksesikomos-sygklonistikos-kai-megaleiodis/"
           },
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563976157/aigaleo-pyrkagia-se-isogeio-diamerisma-sto-nosokomeio-mia-ilikiomeni/"
+            "title": "902.gr – Επιλεγμένα",
+            "url": "https://www.902.gr/eidisi/voyli/409788/d-koytsoympas-pragmatikos-xesikomos-o-megaleiodis-agonas-ton-agroton-gia-tin"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια πυρκαγιά σε διαμέρισμα που προκάλεσε σοβαρό κίνδυνο για μια ηλικιωμένη γυναίκα, αναδεικνύοντας ζητήματα ασφάλειας και δημόσιας υγείας.",
+        "categoryReason": "Η είδηση αφορά σοβαρές κινητοποιήσεις αγροτών και πολιτικές παρεμβάσεις που σχετίζονται με την επιβίωσή τους και τα δικαιώματά τους, με επείγουσες απαιτήσεις προς την κυβέρνηση.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g81cf6771f70bfdec2c2fbbf05f2d30c58998c230c86aa7b8dfb9288f070d7dbde2178dcc0cba16858666d8ba8b8d40779b1189bbdc252582395f3e007124baa7_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-15T06:05:30.000Z"
+        "publishedAt": "2025-12-15T14:29:01.000Z"
+      },
+      {
+        "id": "c66bf22efb70",
+        "title": "Τσιάρας: Καλούμε άμεσα τους εκπροσώπους των αγροτών σε ουσιαστικό διάλογο",
+        "simpleTitle": "Τσιάρας: Καλούμε άμεσα τους εκπροσώπους των αγροτών σε ουσιαστικό διάλογο",
+        "simpleText": "Ο υπουργός Αγροτικής Ανάπτυξης, Κώστας Τσιάρας, κάλεσε άμεσα τους εκπροσώπους των αγροτών σε έναν ουσιαστικό διάλογο. Αυτή η δήλωση έγινε σε μια συγκυρία κατά την οποία οι αγρότες εντείνουν τις κινητοποιήσεις τους και απεργούν. Ο υπουργός αναγνώρισε ότι υπάρχουν πολλά προβλήματα στον αγροτικό τομέα, όπως το αυξανόμενο κόστος παραγωγής, οι διεθνείς εξελίξεις και η κλιματική κρίση.\n\nΟ κ. Τσιάρας τόνισε ότι η κυβέρνηση είναι διατεθειμένη να συζητήσει και να εξετάσει τα δίκαια αιτήματα των αγροτών. Επεσήμανε τη σημασία του διαλόγου για την επίλυση των προβλημάτων που βιώνουν οι αγρότες στην Ελλάδα. Η κυβέρνηση προσπαθεί να βρει λύσεις, όπως η μείωση του κόστους παραγωγής και η στήριξη της ρευστότητας των παραγωγών.\n\nΗ πρωτοβουλία αυτή είναι σημαντική, καθώς οι αγρότες απαιτούν στήριξη και λύσεις στα προβλήματά τους. Ο διάλογος μπορεί να βοηθήσει στη δημιουργία συνεργασιών και στην καλύτερη κατανόηση των αναγκών του αγροτικού τομέα.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2025/12/15/politics/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/15/politics/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4031977/tsiaras-kaloume-amesa-tous-ekprosopous-ton-agroton-se-ousiastiko-dialogo.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μηνύματα του υπουργού Αγροτικής Ανάπτυξης σχετικά με σοβαρά ζητήματα που απασχολούν τον αγροτικό τομέα, όπως οι κινητοποιήσεις των αγροτών και τα οικονομικά τους προβλήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.youtube.com/embed/d8iFJ5ifdMs?si=rjgyxrCFUfdNoURa",
+        "publishedAt": "2025-12-15T14:24:58.000Z"
+      },
+      {
+        "id": "148eee832297",
+        "title": "Λασίθι: Εδεσαν και φίμωσαν 67χρονη μέσα στο σπίτι της",
+        "simpleTitle": "Λασίθι: Εδεσαν και φίμωσαν 67χρονη μέσα στο σπίτι της",
+        "simpleText": "Στην Ιεράπετρα Λασιθίου, συνέβη ένα σοβαρό περιστατικό το πρωί της Κυριακής. Δύο άγνωστοι άνδρες μπήκαν στο σπίτι μιας 67χρονης γυναίκας. Φορούσαν γάντια και ίσως κουκούλες. Οι δράστες έδεσαν και φίμωσαν τη γυναίκα με κολλητική ταινία.\n\nΜετά την πράξη αυτή, έψαξαν σε όλα τα δωμάτια του σπιτιού, αλλά δεν αφαίρεσαν τίποτα. Αφού ολοκλήρωσαν την έρευνα, αποχώρησαν. Η γυναίκα κατάφερε να λυθεί και ενημέρωσε τον σύζυγό της, ο οποίος κοιμόταν σε άλλο δωμάτιο.\n\nΗ 67χρονη μεταφέρθηκε πρώτα στο Νοσοκομείο Ιεράπετρας, όπου δεν βρέθηκαν σοβαρά σημάδια κακοποίησης. Ωστόσο, λόγω καρδιολογικών προβλημάτων που έχει, χρειάστηκε να μεταφερθεί και στο Γενικό Νοσοκομείο Αγίου Νικολάου για πιο λεπτομερή παρακολούθηση.\n\nΗ αστυνομία διερευνά την υπόθεση και προσπαθεί να βρει πληροφορίες για τους δράστες και τους λόγους πίσω από την επίθεση. Αυτό το περιστατικό έχει ανησυχήσει την τοπική κοινωνία.",
+        "sourceName": "Kathimerini, TA NEA, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/society/563976601/lasithi-edesan-kai-fimosan-67chroni-mesa-sto-spiti-tis/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/563976601/lasithi-edesan-kai-fimosan-67chroni-mesa-sto-spiti-tis/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/15/greece/ierapetra-edesan-kai-fimosan-67xroni-mesa-sto-spiti-tis/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4031950/edesan-ke-fimosan-67chroni-mesa-sto-spiti-tis-se-chorio-tis-ierapetras.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό περιστατικό ασφάλειας που περιλαμβάνει την επίθεση και κακοποίηση μιας ηλικιωμένης γυναίκας, γεγονός που προκαλεί ανησυχία στην τοπική κοινωνία.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-15T14:06:46.000Z"
       }
     ],
     "happy": [
@@ -751,7 +765,7 @@
         "id": "e92812af0401",
         "title": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
         "simpleTitle": "Πρώην αστυνομικός προσφέρει ελπίδα με ένα κινητό πλυντήριο για άστεγους",
-        "simpleText": "Πριν από λίγο καιρό, ένας πρώην αστυνομικός από το Μέριλαντ, ο Wade Milyard, αποφάσισε να βοηθήσει τους άστεγους. Όλα άρχισαν όταν επισκέφθηκε έναν καταυλισμό αστέγων και ένιωσε την ανάγκη να κάνει κάτι χρήσιμο για αυτούς.\n\nΈτσι, δημιούργησε ένα κινητό πλυντήριο ρούχων. Αυτό το πλυντήριο προσφέρει τη δυνατότητα στους άστεγους να πλένουν τα ρούχα τους, κάτι που μπορεί να είναι πολύ σημαντικό για την υγιεινή και την αξιοπρέπεια τους. Είναι μια πράξη καλοσύνης που μπορεί να αλλάξει τη ζωή πολλών ανθρώπων.\n\nΑυτή η πρωτοβουλία δείχνει πως μικρές πράξεις μπορούν να φέρουν ελπίδα σε όσους το χρειάζονται.",
+        "simpleText": "Ένας πρώην αστυνομικός δημιουργεί ελπίδα για τους άστεγους με ένα κινητό πλυντήριο.\n\nΟ Wade Milyard, πρώην αστυνομικός από το Frederick του Μέριλαντ, έζησε μια εμπειρία που τον οδήγησε να βοηθήσει τους άστεγους. Όλα ξεκίνησαν όταν πήγε σε έναν καταυλισμό αστέγων για να ερευνήσει μια διαφωνία. Εκεί, ένιωσε την ανάγκη να κάνει κάτι καλό για αυτούς τους ανθρώπους.\n\nΈτσι, αποφάσισε να φτιάξει ένα κινητό πλυντήριο. Αυτή η ιδέα είναι σημαντική, γιατί βοηθά τους άστεγους να διατηρούν καθαρά ρούχα και να νιώθουν καλύτερα. Αν και οι λεπτομέρειες της λειτουργίας του πλυντηρίου δεν είναι γνωστές, η πράξη καλοσύνης του Milyard δείχνει πώς μπορεί κάποιος να κάνει τη διαφορά στη ζωή άλλων.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30212-proin-astynomikos-prosfera-elpida-me-kinito-plyntirio-gia-astegous/",
         "sourceDomains": [
@@ -764,9 +778,9 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η πρωτοβουλία του πρώην αστυνομικού να δημιουργήσει ένα κινητό πλυντήριο για άστεγους είναι μια θετική και ενθαρρυντική ιστορία που φέρνει ελπίδα και προσφέρει πρακτική βοήθεια στους ανθρώπους που την έχουν ανάγκη.",
+        "categoryReason": "Η πρωτοβουλία του πρώην αστυνομικού να προσφέρει ένα κινητό πλυντήριο για άστεγους είναι ένα θετικό και ενθαρρυντικό γεγονός που δείχνει πως μπορούμε να κάνουμε τη διαφορά στη ζωή άλλων.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gde1da3ca1176cf32d29c48ed58d4131ed93f14a540e24dab5f80a8a59498b7cf6deff7243afffdb3b77c256a29db49a4b325b46ee72aef4a02485d5a2a76c047_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g7ef596a04ecf4f1ca59c7b9756ab095be9100757059eb81a974b8b4699cae598f0cc8e63d4a7af3fc91e1874c7413578c4ff90ce6d36542ea852955cc115b73b_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-12T05:29:00.000Z"
       },
@@ -774,7 +788,7 @@
         "id": "67ee5b41d5e6",
         "title": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
         "simpleTitle": "Το street party για τη Μαρία Κάλλας επιστρέφει στην Αθήνα με γιορτινή λάμψη",
-        "simpleText": "Τίτλος: Το πάρτι για τη Μαρία Κάλλας επιστρέφει στην Αθήνα\n\nΣτις 12 Δεκεμβρίου 2025, θα πραγματοποιηθεί το street party του Μουσείου Μαρία Κάλλας στην Αθήνα. Η εκδήλωση αυτή είχε αναβληθεί την προηγούμενη εβδομάδα λόγω κακών καιρών.\n\nΤο πάρτι θα ξεκινήσει στις 20:00 στην οδό Πετράκη, πίσω από το Μουσείο. Είναι μια νύχτα γιορτής και διασκέδασης, που έχει γίνει παράδοση στην πόλη. Οι συμμετέχοντες θα έχουν την ευκαιρία να γιορτάσουν τη ζωή και το έργο της διάσημης τραγουδίστριας.\n\nΑυτή η εκδήλωση είναι σημαντική καθώς ενώνει την κοινότητα και προάγει την καλλιτεχνική κληρονομιά της Μαρίας Κάλλας με χαρά και δημιουργικότητα.",
+        "simpleText": "Η Μαρία Κάλλας γιορτάζεται ξανά στην Αθήνα με ένα street party. Η εκδήλωση θα γίνει την Παρασκευή 12 Δεκεμβρίου 2025, στις 20:00. Αρχικά είχε αναβληθεί λόγω κακών καιρικών συνθηκών.\n\nΤο street party θα πραγματοποιηθεί στην οδό Πετράκη, πίσω από το Μουσείο Μαρία Κάλλας. Οι επισκέπτες θα έχουν την ευκαιρία να απολαύσουν μουσική και διασκέδαση. Είναι μια ευκαιρία να τιμηθεί η καλλιτεχνική κληρονομιά της σπουδαίας τραγουδίστριας με ένα ευχάριστο και γιορτινό τρόπο.\n\nΑυτή η βραδιά έχει γίνει σημαντική για την πόλη και αναμένεται να προσφέρει χαρά και κέφι στους συμμετέχοντες.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30322-maria-kallas-street-party-athina-2025/",
         "sourceDomains": [
@@ -787,68 +801,101 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η εκδήλωση είναι μια γιορτή που τιμά τη ζωή και το έργο της Μαρίας Κάλλας και προάγει την καλλιτεχνική κληρονομιά, δημιουργώντας χαρούμενη και εορταστική ατμόσφαιρα στην κοινότητα.",
+        "categoryReason": "Η είδηση αφορά ένα ιδιαίτερα θετικό και γιορτινό street party προς τιμήν της Μαρίας Κάλλας, το οποίο αναμένεται να προσφέρει χαρά και διασκέδαση στους συμμετέχοντες.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4e3e8cb635a5dd5e7627605273c5f0f3448f87f1c24338ea23c1163c48254b6066551ef215b5f70fc2053534b0dde3cc2fc6733c1beccff4449b6bc0f15ab7b1_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gcb0c650dab2ed64791930a89d3514063bcdbb59ca057f6cdf8d8c98ceff4ca8db66c34df168f91289acdacf6a6566301f624d9caf37bd30d09650ded6769d0f3_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2025-12-11T16:55:58.000Z"
       }
     ],
     "sports": [
       {
-        "id": "29af20b5507f",
-        "title": "Ο Λιούμπισιτς, ο …Σαβέβσκι και η «νέα ΑΕΚ»",
-        "simpleTitle": "Ο Λιούμπισιτς, ο …Σαβέβσκι και η «νέα ΑΕΚ»",
-        "simpleText": "Τίτλος: Ο Σαβέβσκι και ο Λιούμπισιτς στην ΑΕΚ\n\nΤην περασμένη Κυριακή, ο Τόνι Σαβέβσκι υπέγραψε αυτόγραφα για τους θαυμαστές του στο γήπεδο της ΑΕΚ στη Νέα Φιλαδέλφεια. Η εκδήλωση προσελκύσει πολλούς φιλάθλους. Την ίδια μέρα, ο Λιούμπισιτς αγωνίστηκε με την ομάδα και έδειξε καλή απόδοση σε ένα σημαντικό παιχνίδι.\n\nΟ Λιούμπισιτς, κροάτης ποδοσφαιριστής, έκανε καλή εμφάνιση και βοήθησε την ομάδα να πετύχει γκολ. Έχει κριθεί σημαντικός για την ΑΕΚ, αν και προηγουμένως κάποιοι αμφισβητούσαν την αξία του. Σημαντικό είναι ότι, με την απόδοση του, μπορεί να αποδοθεί συγκριτικά με τον Σαβέβσκι, έναν θρυλικό παίκτη της ΑΕΚ που άφησε μεγάλο αποτύπωμα στην ομάδα.\n\nΑυτή η εξέλιξη δείχνει πώς το ποδόσφαιρο μπορεί να αλλάξει γρήγορα. Σημαντικό είναι ότι ο Λιούμπισιτς φαίνεται να βελτιώνεται και ίσως έχει μέλλον στην ομάδα. Η σωστή του απόδοση μπορεί να σημαίνει νέα αρχή για αυτόν στη Νέα Φιλαδέλφεια.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/15/sports/o-lioumpisits-o-savevski-kai-i-nea-aek/",
+        "id": "dbe515ed8f71",
+        "title": "Ο Βαγγέλης Μαρινάκης «χρυσός» χορηγός για την ανακαίνιση του Παναθηναϊκού Σταδίου",
+        "simpleTitle": "Ο Βαγγέλης Μαρινάκης «χρυσός» χορηγός για την ανακαίνιση του Παναθηναϊκού Σταδίου",
+        "simpleText": "Τίτλος: Ο Βαγγέλης Μαρινάκης θα χορηγήσει την ανακαίνιση του Παναθηναϊκού Σταδίου\n\nΗ Ελληνική Ολυμπιακή Επιτροπή ανακοίνωσε ότι ο Βαγγέλης Μαρινάκης, μέσω της εταιρείας του, Capital Maritime & Trading, θα χρηματοδοτήσει την ανακαίνιση του Παναθηναϊκού Σταδίου. Η ανακοίνωση έγινε πρόσφατα και αφορά την αναβάθμιση του σταδίου, που είναι ιστορικό και βρίσκεται στο Καλλιμάρμαρο.\n\nΗ ανακαίνιση περιλαμβάνει την τοποθέτηση νέου ταρτάν, κατάλληλου για διεθνείς αγώνες στίβου τύπου Diamond League. Επίσης, θα αντικατασταθεί ο φωτισμός του σταδίου με σύγχρονους LED λαμπτήρες. Αυτός ο νέος φωτισμός θα βελτιώσει την ομορφιά του σταδίου και θα προσφέρει ένα φωτεινό περίπατο στους επισκέπτες.\n\nΗ ανακαίνιση αυτή είναι σημαντική γιατί θα επιτρέψει στο Παναθηναϊκό Στάδιο να φιλοξενεί μεγάλους αθλητικούς αγώνες, συμβάλλοντας έτσι στην ανάπτυξη του αθλητισμού στην Ελλάδα.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2025/12/15/sports/o-vaggelis-marinakis-xrysos-xorigos-gia-tin-anakainisi-tou-panathinaikou-stadiou/",
         "sourceDomains": [
-          "tanea.gr"
+          "tanea.gr",
+          "tovima.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/15/sports/o-lioumpisits-o-savevski-kai-i-nea-aek/"
+            "url": "https://www.tanea.gr/2025/12/15/sports/o-vaggelis-marinakis-xrysos-xorigos-gia-tin-anakainisi-tou-panathinaikou-stadiou/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/15/sports/o-vaggelis-marinakis-analamvanei-tin-anakainisi-tou-panathinaikou-stadiou-meso-xorigias-stin-elliniki-olympiaki-epitropi/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά την απόδοση και συμμετοχή ποδοσφαιριστών της ΑΕΚ, που σχετίζεται άμεσα με το ποδόσφαιρο και τις δραστηριότητες της ομάδας. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά την ανακαίνιση του Παναθηναϊκού Σταδίου με χρηματοδότηση από τον Βαγγέλη Μαρινάκη, που θα επιτρέψει τη διεξαγωγή διεθνών αθλητικών αγώνων.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/geffd1621580122fde1b278253a6027bc97d536af3bc036971963d06576bee9fc56337ebd2cc20c018ff80b31986d6a47da8d4d486a533a11c695b8adbf0f8c0e_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-14T22:18:15.000Z"
+        "publishedAt": "2025-12-15T15:00:16.000Z"
       },
       {
-        "id": "952c2a91241d",
-        "title": "Όλα τα γκολ και τα highlights της 14ης αγωνιστικής της Super League",
-        "simpleTitle": "Όλα τα γκολ και τα highlights της 14ης αγωνιστικής της Super League",
-        "simpleText": "**Απλός τίτλος: Τα γκολ και τα σημαντικά σημεία της 14ης αγωνιστικής της Super League**\n\nΗ 14η αγωνιστική της Super League πραγματοποιήθηκε το Σαββατοκύριακο. Ήταν η πρώτη αγωνιστική του δεύτερου γύρου του πρωταθλήματος.\n\nΤο Σάββατο, ο Λεβαδειακός κέρδισε την ΑΕΛ με 3-0 και διατηρήθηκε στην 4η θέση της βαθμολογίας. Στη συνέχεια, ο ΟΦΗ νίκησε επίσης με 3-0 τον Πανσερραϊκό, αποκτώντας σημαντική βαθμολογική ανάσα. Το τελευταίο ματς της ημέρας έληξε χωρίς γκολ, καθώς Κηφισιά και Αστέρας Aktor ήρθαν ισόπαλες 0-0 στη Νεάπολη.\n\nΤην Κυριακή, η ΑΕΚ είχε εντυπωσιακή νίκη 5-0 επί του Παναιτωλικού στο Αγρίνιο. Ο Ρόμπερτ Λιούμπιτσιτς ήταν ο πιο καθοριστικός παίκτης, σημειώνοντας δύο γκολ και δίνοντας δύο ασίστ.\n\nΑυτή η αγωνιστική είναι σημαντική γιατί καθορίζει τη θέση των ομάδων στη βαθμολογία και επηρεάζει τις μελλοντικές τους επιδόσεις.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/14/sports/ola-ta-gkol-kai-ta-highlights-tis-14is-agonistikis-tis-super-league/",
+        "id": "7e6825bb489c",
+        "title": "Live streaming: Δείτε τον αγώνα χάντμπολ Νέα Ιωνία-ΑΕΚ για την Α1 Γυναικών (16:45, EΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Live streaming: Δείτε τον αγώνα χάντμπολ Νέα Ιωνία-ΑΕΚ για την Α1 Γυναικών (16:45, EΡΤ2 ΣΠΟΡ)",
+        "simpleText": "Αγώνας χάντμπολ Νέα Ιωνία - ΑΕΚ\n\nΣήμερα στις 16:45 θα γίνει αγώνας χάντμπολ μεταξύ της Νέας Ιωνίας και της ΑΕΚ. Είναι ο 8ος αγώνας της Α1 κατηγορίας γυναικών. Ο αγώνας θα μεταδοθεί ζωντανά από την τηλεόραση, συγκεκριμένα από το κανάλι ΕΡΤ2 ΣΠΟΡ. Μπορείτε επίσης να τον παρακολουθήσετε online μέσω της πλατφόρμας ΕRTFLIX. Αυτός ο αγώνας είναι σημαντικός για τις ομάδες και τους φιλάθλους τους.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-xantmpol-nea-ionia-aek-gia-tin-a1-gynaikon-16-45-ert2-spor/",
         "sourceDomains": [
-          "tanea.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/14/sports/ola-ta-gkol-kai-ta-highlights-tis-14is-agonistikis-tis-super-league/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-xantmpol-nea-ionia-aek-gia-tin-a1-gynaikon-16-45-ert2-spor/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τους αγώνες και τις επιδόσεις ομάδων της Super League, κάτι που ανήκει στην κατηγορία του αθλητισμού. | rss_backfill",
+        "categoryReason": "Ο αγώνας χάντμπολ αφορά αποκλειστικά αθλητικά γεγονότα, όπως η Α1 Γυναικών, και σχετίζεται με τη ζωντανή μετάδοση δύο αθλητικών ομάδων. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g995049296c35bc64262a2a1b9506352d1a11baa601bfc28ddaf74d363e147aa6c6e9c28c7891af5db4dd731ef43516dc6e6e938b9b2fec631225d00bde6ec86c_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-14T21:38:55.000Z"
+        "imageUrl": "https://pixabay.com/get/g5a67a8250fb19bc26ca0971169cbf7bd57f9e5629180d7cdd14f25a62736f4d49a88759909a66d7a1cb78dad0e18bf84cd63bb5baa3dbef8ab6087041d0b0b42_1280.jpg",
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+        "publishedAt": "2025-12-15T14:35:00.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
+        "id": "9b131e2f91ec",
+        "title": "Eurovision 2026: Οι 35 χώρες που θα συμμετάσχουν στον μουσικό διαγωνισμό",
+        "simpleTitle": "Eurovision 2026: Οι 35 χώρες που θα συμμετάσχουν στον μουσικό διαγωνισμό",
+        "simpleText": "Η Eurovision 2026 θα διεξαχθεί στη Βιέννη από τις 12 έως τις 16 Μαΐου. Στον μουσικό διαγωνισμό θα συμμετάσχουν 35 χώρες. Κάθε χώρα θα στείλει ένα τραγούδι και έναν καλλιτέχνη.\n\nΗ οργάνωση του διαγωνισμού είναι δύσκολη, καθώς υπάρχουν προβλήματα. Πέντε χώρες αποφάσισαν να μην συμμετάσχουν λόγω διαφωνιών για την παρουσία του Ισραήλ. Αυτό το γεγονός δείχνει ότι η μουσική και η πολιτική μπορεί να είναι συνδεδεμένες.\n\nΗ συμμετοχή των 35 χωρών είναι σημαντική, διότι δείχνει την υψηλή δημοτικότητα της Eurovision στην Ευρώπη και σε άλλες περιοχές.",
+        "sourceName": "Kathimerini, Protagon",
+        "sourceUrl": "https://www.kathimerini.gr/culture/563976634/eurovision-2026-oi-35-chores-poy-tha-symmetaschoyn-ston-moysiko-diagonismo/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/culture/563976634/eurovision-2026-oi-35-chores-poy-tha-symmetaschoyn-ston-moysiko-diagonismo/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/eurovision-2026-oi-35-xwres-pou-tha-symmetasxoun-ston-diagwnismo-44343275986"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η Eurovision είναι ένας μουσικός διαγωνισμός που συνδυάζει στοιχεία από τη μουσική και τον πολιτισμό, ενώ η είδηση αναφέρεται και σε πολιτικά ζητήματα που επηρεάζουν την εκδήλωση.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g1aa1968cdfcc1359ddffe083890433662022207c4b871156b682046109868756f60e8792377d7312f2ae659b3e2bb232fcc4ae68ef411ebf3f7d7083a752bd9d_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2025-12-15T15:02:07.000Z"
+      },
+      {
         "id": "6428763328fc",
         "title": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
         "simpleTitle": "Ρωμαϊκή σαρκοφάγος στη Βουδαπέστη: μια ανασκαφή που φωτίζει το παρελθόν",
-        "simpleText": "Σε μια πρόσφατη ανασκαφή στη Βουδαπέστη, βρέθηκε μια σαρκοφάγος ηλικίας 1.700 ετών. Αυτή η σαρκοφάγος, που βρίσκεται στο Όμπουντα, ήταν άθικτη και περιέχει στοιχεία για μια νεαρή γυναίκα που είχε ταφεί εκεί.\n\nΗ ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Αυτή η ανακάλυψη είναι σημαντική διότι μας δίνει πληροφορίες για την καθημερινή ζωή και τον πολιτισμό στη ρωμαϊκή εποχή, ειδικά στην περιοχή που ονομαζόταν Παννονία. Μέσα από τα ευρήματα, οι ερευνητές μπορούν να μάθουν περισσότερα για τις συνήθειες και τον τρόπο ζωής των ανθρώπων εκείνης της εποχής.",
+        "simpleText": "Σαφήνεια στην ιστορία ενός αρχαίου ευρήματος\n\nΜια ρωμαϊκή σαρκοφάγος ηλικίας περίπου 1.700 ετών βρέθηκε άθικτη στο Όμπουντα της Βουδαπέστης. Αυτό το εύρημα είναι σημαντικό γιατί μας δίνει πληροφορίες για τη ζωή μιας νεαρής γυναίκας που θάφτηκε εκεί.\n\nΗ ανασκαφή έγινε από το Μουσείο Ιστορίας της πόλης. Μέσα από αυτή τη διαδικασία, μαθαίνουμε περισσότερα για την καθημερινότητα και τον πολιτισμό της ρωμαϊκής εποχής στην περιοχή Παννονία. Το γεγονός αυτό είναι σημαντικό γιατί μας βοηθά να κατανοήσουμε καλύτερα την ιστορία και τον πολιτισμό της περιοχής.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30049-romaiiki-sarkofagos-sti-boudapesti-anaskafi/",
         "sourceDomains": [
@@ -861,13 +908,42 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η ανακάλυψη της ρωμαϊκής σαρκοφάγου στη Βουδαπέστη σχετίζεται με την ιστορία και τον πολιτισμό της ρωμαϊκής εποχής, προσφέροντας σημαντικές πληροφορίες για τον κόσμο της Παννονίας.",
+        "categoryReason": "Η είδηση αφορά την ανασκαφή μιας ρωμαϊκής σαρκοφάγου, η οποία σχετίζεται με την ιστορία και τον πολιτισμό της ρωμαϊκής εποχής, που την καθιστά πολιτιστική νέα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2025-12-12T08:31:00.000Z"
       }
     ],
-    "fun": []
+    "fun": [
+      {
+        "id": "06828cdf1a02",
+        "title": "Η Stoiximan παρουσιάζει τη νέα της εικόνα",
+        "simpleTitle": "Η Stoiximan παρουσιάζει τη νέα της εικόνα",
+        "simpleText": "Η Stoiximan αλλάζει την εικόνα της\n\nΗ Stoiximan, μια γνωστή εταιρεία στον τομέα της ψυχαγωγίας, παρουσίασε τη νέα της εικόνα. Αυτή η ανανέωση δείχνει την επιθυμία της να προσφέρει πιο άμεσες και εντυπωσιακές στιγμές στους χρήστες της. Η εταιρεία επενδύει σε νέες εμπειρίες που ξεχωρίζουν και προσφέρουν αξία.\n\nΗ νέα ταυτότητα της Stoiximan περιλαμβάνει ένα ανανεωμένο λογότυπο. Αυτό το λογότυπο παραμένει αναγνωρίσιμο, αλλά είναι πιο καθαρό και μοντέρνο. Το χρώμα του μπλε είναι πιο φωτεινό, προσφέροντας ζωντάνια και ενέργεια. Ο CEO της Stoiximan, Νίκος Φλίγκος, δήλωσε ότι η νέα εικόνα δείχνει πού θέλει να πάει η εταιρεία στο μέλλον. Τονίζει τη σημασία της τεχνολογίας και της υπευθυνότητας στην ψυχαγωγία.\n\nΑυτή η αλλαγή είναι σημαντική γιατί δείχνει την εξέλιξη της Stoiximan και τη δέσμευσή της στην ποιότητα και την ικανοποίηση των χρηστών. Η παρουσίαση έγινε πρόσφατα, αν και ακριβής ημερομηνία δεν αναφέρεται.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/",
+        "sourceDomains": [
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/15/market/i-stoiximan-parousiazei-ti-nea-tis-eikona/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η ανακοίνωση αλλαγής εικόνας της Stoiximan επικεντρώνεται στη διασκέδαση και την ψυχαγωγία. Η νέα ταυτότητα και ο ανανεωμένος σχεδιασμός συμβάλλουν στη δημιουργία θετικών και ζωντανών εμπειριών για τους χρήστες, κάτι που ταιριάζει στην κατηγορία fun.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-15T13:33:13.000Z"
+      }
+    ]
   }
 }
