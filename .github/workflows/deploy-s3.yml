@@ -1,12 +1,23 @@
-name: Deploy static site to S3
+name: Deploy static site to S3 (reusable)
 
 on:
-  push:
-    branches: [ "main" ]
-  workflow_dispatch:
+  workflow_call:
+    inputs:
+      site_dir:
+        description: "Directory for static files"
+        required: false
+        default: "dist"
+        type: string
+    secrets:
+      AWS_ROLE_ARN:
+        required: true
+      AWS_REGION:
+        required: true
+      S3_BUCKET:
+        required: true
 
 permissions:
-  id-token: write   # required for OIDC
+  id-token: write
   contents: read
 
 concurrency:
@@ -16,13 +27,9 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set site directory
-        run: echo "SITE_DIR=./static/" >> $GITHUB_ENV
 
       - name: Configure AWS credentials (OIDC)
         uses: aws-actions/configure-aws-credentials@v4
@@ -32,7 +39,7 @@ jobs:
 
       - name: Sync files to S3
         run: |
-          aws s3 sync "${SITE_DIR}" "s3://${{ secrets.S3_BUCKET }}/" \
+          aws s3 sync "${{ inputs.site_dir }}" "s3://${{ secrets.S3_BUCKET }}/" \
             --delete \
             --exclude ".git/*" \
             --exclude ".github/*" \
