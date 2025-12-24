@@ -49,7 +49,7 @@ jobs:
           git commit -m "Update news, serious digest & lifestyle JSON"
           git push
   deploy:
-    needs: generate
+    needs: build
     uses: ./.github/workflows/deploy-static-to-s3.yml
     with:
       site_dir: ./static/
