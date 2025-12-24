@@ -7,49 +7,50 @@ on:
     - cron: "0 15 * * *" # 17:00 ώρα Ελλάδας (χειμώνα)
 
 jobs:
-  # build:
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     contents: write # για να μπορεί να κάνει commit τα json
-  #   env:
-  #     OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-  #     PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
-  #     ENABLE_PIXABAY_IMAGES: "true"
-  #     MAX_PIXABAY_CALLS: "25"
-  #     IMAGE_SCORE_THRESHOLD: "3"
-  #     # DEBUG_IMAGES: "true" # (προαιρετικό) για logs στο imageResolver
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # για να μπορεί να κάνει commit τα json
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+      ENABLE_PIXABAY_IMAGES: "true"
+      MAX_PIXABAY_CALLS: "25"
+      IMAGE_SCORE_THRESHOLD: "3"
+      # DEBUG_IMAGES: "true" # (προαιρετικό) για logs στο imageResolver
 
-  #   steps:
-  #     - name: Checkout repo
-  #       uses: actions/checkout@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-  #     - name: Setup Node.js
-  #       uses: actions/setup-node@v4
-  #       with:
-  #         node-version: "20"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-  #     - name: Install dependencies
-  #       run: npm install openai rss-parser
+      - name: Install dependencies
+        run: npm install openai rss-parser
 
-  #     - name: Run fetch script (news.json)
-  #       run: node fetch-news.mjs
+      - name: Run fetch script (news.json)
+        run: node fetch-news.mjs
 
-  #     - name: Generate serious digest (serious-digest.json)
-  #       run: node generate-serious-digest.mjs
+      - name: Generate serious digest (serious-digest.json)
+        run: node generate-serious-digest.mjs
 
-  #     - name: Generate lifestyle articles (lifestyle.json)
-  #       run: node generate-lifestyle.mjs # <- πρόσεξε το όνομα εδώ
+      - name: Generate lifestyle articles (lifestyle.json)
+        run: node generate-lifestyle.mjs # <- πρόσεξε το όνομα εδώ
 
-  #     - name: Commit and push JSON files
-  #       run: |
-  #         git config user.name "github-actions[bot]"
-  #         git config user.email "github-actions[bot]@users.noreply.github.com"
-  #         git add ./static/news.json ./static/lifestyle.json ./static/serious-digest.json
-  #         git diff --cached --quiet && echo "No changes" && exit 0
-  #         git commit -m "Update news, serious digest & lifestyle JSON"
-  #         git push
+      - name: Commit and push JSON files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./static/news.json ./static/lifestyle.json ./static/serious-digest.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update news, serious digest & lifestyle JSON"
+          git push
+
   deploy:
-    # needs: build
+    needs: build
     permissions:
       id-token: write
       contents: read
