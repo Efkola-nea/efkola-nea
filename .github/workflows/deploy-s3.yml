@@ -13,7 +13,7 @@ on:
         required: true
       AWS_REGION:
         required: true
-      S3_BUCKET":
+      S3_BUCKET:
         required: true
 
 permissions:
