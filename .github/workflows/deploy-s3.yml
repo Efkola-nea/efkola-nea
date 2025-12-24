@@ -17,7 +17,7 @@ on:
         required: true
 
 permissions:
-  id-token: write   # required for OIDC
+  id-token: write
   contents: read
 
 concurrency:
@@ -27,7 +27,6 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4

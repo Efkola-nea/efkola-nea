@@ -317,7 +317,7 @@ ${JSON.stringify(payload, null, 2)}
 `;
 
   const response = await openai.responses.create({
-    model: "gpt-4o",
+    model: "gpt-4o-mini",
     instructions: SERIOUS_DIGEST_SYSTEM_PROMPT,
     input: userContent,
     max_output_tokens: 1600,

@@ -1,3 +1,4 @@
+// generate-lifestyle.mjs
 import fs from "fs/promises";
 import crypto from "crypto";
 import { openai } from "./llm/openaiClient.js";
@@ -233,7 +234,7 @@ ${JSON.stringify(payload, null, 2)}
 `;
 
   const response = await openai.responses.create({
-    model: "gpt-4o",
+    model: "gpt-4o-mini",
     instructions: LIFESTYLE_AGENT_SYSTEM_PROMPT,
     input: userContent,
     max_output_tokens: 1600,
@@ -251,9 +252,7 @@ ${JSON.stringify(payload, null, 2)}
     .filter(Boolean)
     .join(", ");
 
-  console.log(
-    `🧭 sources lifestyle:${category} | rss_sources=${sources.length} hosts=${hosts}`
-  );
+  console.log(`🧭 sources lifestyle:${category} | rss_sources=${sources.length} hosts=${hosts}`);
 
   return {
     id: crypto.randomUUID(),
@@ -342,9 +341,7 @@ async function main() {
   await fs.writeFile(LIFESTYLE_PATH, JSON.stringify(output, null, 2), "utf-8");
 
   console.log(
-    `✅ lifestyle.json έτοιμο. Κατηγορίες: ${lifestyleArticles
-      .map((a) => a.category)
-      .join(", ")}`
+    `✅ lifestyle.json έτοιμο. Κατηγορίες: ${lifestyleArticles.map((a) => a.category).join(", ")}`
   );
 }
 
@@ -353,3 +350,4 @@ main().catch((err) => {
   console.error("❌ Σφάλμα στο generate-lifestyle:", err);
   process.exit(1);
 });
+
