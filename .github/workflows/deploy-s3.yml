@@ -41,8 +41,17 @@ jobs:
         run: |
           aws s3 sync "${{ inputs.site_dir }}" "s3://${{ secrets.S3_BUCKET }}/" \
             --delete \
-            --exclude ".git/*" \
-            --exclude ".github/*" \
-            --exclude "README*" \
-            --exclude "**/*.map" \
-            --cache-control "max-age=300"
+            --exclude ".git/*" --exclude ".github/*" --exclude "README*" --exclude "**/*.map" \
+            --cache-control "public,max-age=31536000,immutable"
+
+          aws s3 sync "${{ inputs.site_dir }}" "s3://${{ secrets.S3_BUCKET }}/" \
+            --exclude "*" \
+            --include "*.html" \
+            --include "*.json" \
+            --cache-control "no-cache,no-store,must-revalidate"
+
+      - name: Invalidate CloudFront
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/" "/index.html" "/article.html" "category.html" "/*.json"
