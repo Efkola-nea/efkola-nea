@@ -50,6 +50,9 @@ jobs:
           git push
   deploy:
     needs: build
+    permissions:
+      id-token: write
+      contents: read
     uses: ./.github/workflows/deploy-s3.yml
     with:
       site_dir: ./static/
