@@ -50,7 +50,7 @@ jobs:
           git push
   deploy:
     needs: build
-    uses: ./.github/workflows/deploy-static-to-s3.yml
+    uses: ./.github/workflows/deploy-s3.yml
     with:
       site_dir: ./static/
     secrets:
