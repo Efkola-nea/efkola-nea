@@ -1,13 +1,201 @@
 {
-  "generatedAt": "2025-12-28T07:44:56.460Z",
+  "generatedAt": "2025-12-28T15:46:13.849Z",
   "articles": [
     {
-      "id": "08f3715e18bb",
-      "title": "Βρετανία: Συμφωνία για επιστροφές παράτυπων μεταναστών με Ανγκόλα και Ναμίμπια",
-      "simpleTitle": "Βρετανία: Συμφωνία για επιστροφές παράτυπων μεταναστών με Ανγκόλα και Ναμίμπια",
-      "simpleText": "Βρετανία: Συμφωνία με Ανγκόλα και Ναμίμπια για επιστροφή μεταναστών\n\nΗ Βρετανία έκανε συμφωνία με τις χώρες Ανγκόλα και Ναμίμπια. Αυτές οι χώρες θα δέχονται πίσω παράτυπους μετανάστες και πολίτες τους που έχουν ποινικό μητρώο. Η συμφωνία ήρθε μετά από απειλές από τη Βρετανία, ότι θα επιβάλει τιμωρίες στις χώρες που δεν συνεργάζονται.\n\nΗ βρετανική υπουργός Εσωτερικών ανέφερε ότι περιμένει από κάθε χώρα να ακολουθεί τους κανόνες. Αν κάποιος πολίτης μιας χώρας δεν έχει δικαίωμα να μείνει στη Βρετανία, τότε η χώρα του πρέπει να τον δεχτεί πίσω.\n\nΑυτές οι συμφωνίες είναι μέρος των αλλαγών που ανακοίνωσε η βρετανική κυβέρνηση για να γίνουν πιο γρήγορες οι απελάσεις παράτυπων μεταναστών. Από τον Ιούλιο της περασμένης χρονιάς, η Βρετανία έχει απελάσει πάνω από 50.000 μετανάστες. Η κυβέρνηση θέλει να δώσει προτεραιότητα στην επιστροφή των μεταναστών στις χώρες τους.",
+      "id": "c4be0d06cb3d",
+      "title": "Ισπανία: Καταρρακτώδεις βροχές και πλημμύρες κοντά στη Μάλαγα, στα νότια της χώρας",
+      "simpleTitle": "Ισπανία: Καταρρακτώδεις βροχές και πλημμύρες κοντά στη Μάλαγα, στα νότια της χώρας",
+      "simpleText": "Τίτλος: Ισπανία: Έντονες βροχές και πλημμύρες κοντά στη Μάλαγα\n\nΣυνοπτικά, κατά τη διάρκεια του Σαββάτου προς Κυριακή, σημειώθηκαν πολύ δυνατές βροχές κοντά στη Μάλαγα, μία περιοχή στο νότο της Ισπανίας. Αυτές οι βροχές προκάλεσαν πλημμύρες και μεγάλες ζημιές σε χωριά της περιοχής. Ευτυχώς, μέχρι στιγμής δεν έχουν αναφερθεί θύματα.\n\nΟι υπηρεσίες έκτακτης ανάγκης εργάζονται σκληρά για να καθαρίσουν τους δρόμους. Οι αρχές έχουν αναφέρει 339 περιστατικά που σχετίζονται με τις πλημμύρες, αλλά δεν είναι σοβαρά. Η Ισπανία πλήττεται συχνά από ακραία καιρικά φαινόμενα, που σχετίζονται με την κλιματική αλλαγή.\n\nΗ εθνική μετεωρολογική υπηρεσία έχει μειώσει το επίπεδο προειδοποίησης, αλλά σε άλλες περιοχές, όπως η Μούρθια και η Βαλένθια, υπάρχει ακόμη κίνδυνος ζημιών. Το γεγονός αυτό είναι σημαντικό, καθώς δείχνει την ανάγκη για προετοιμασία και πρόληψη σε περιπτώσεις φυσικών καταστροφών.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga-sta-notia-tis-xoras/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga-sta-notia-tis-xoras/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563997355/ispania-katarraktodeis-vroches-konta-sti-malaga-plimmyrisan-choria-vinteo/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/28/world/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές συνέπειες λόγω έντονων καιρικών φαινομένων και πλημμυρών στην Ισπανία, άμεσα συνδεδεμένων με ζητήματα κλιματικής αλλαγής.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2025/12/afp-tv-20251228-dis-esp-climate-changeclimate-896f6we-en-online-video-cutter-com.mp4",
+      "publishedAt": "2025-12-28T15:15:12.000Z"
+    },
+    {
+      "id": "148d8483bfa5",
+      "title": "Ταύρος: Ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών",
+      "simpleTitle": "Ταύρος: Ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών",
+      "simpleText": "Σύντομη περίληψη είδησης:\n\nΕισβολή σε πρακτορείο τυχερών παιχνιδιών στον Ταύρο\n\nΤο πρωί της Κυριακής, 28 Δεκεμβρίου, συνέβη μια ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών στην οδό Παλαιολόγου στον Ταύρο. Περίπου στις 11:00, ένας άνδρας με καλυμμένα χαρακτηριστικά μπήκε στο κατάστημα. Χρησιμοποιώντας ένα μαχαίρι, τραυμάτισε στο χέρι μια 29χρονη υπάλληλο και την έκλεισε σε γραφείο. Αφαίρεσε περίπου 10.000 ευρώ και στη συνέχεια έφυγε. Αυτή τη στιγμή, η Αστυνομία διεξάγει έρευνες για να βρει τον δράστη, εξετάζοντας επίσης πλάνα από κάμερες ασφαλείας. Είναι σημαντικό να εντοπιστεί αυτό το άτομο για να διασφαλιστεί η ασφάλεια στην περιοχή.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/tayros-enopli-listeia-se-praktoreio-tyxeron-paixnidion/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/tayros-enopli-listeia-se-praktoreio-tyxeron-paixnidion/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563997349/tayros-enopli-listeia-se-praktoreio-tycheron-paichnidion-traymatistike-ypallilos/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/28/greece/enopli-listeia-se-praktoreio-tyxeron-paixnidion-ston-tayro-traymatistike-ypallilos/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε μια ένοπλη ληστεία με τραυματισμό υπαλλήλου, γεγονός που εγείρει σοβαρά ζητήματα ασφαλείας και κοινωνικής ανησυχίας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T14:44:13.000Z"
+    },
+    {
+      "id": "560a13ab3836",
+      "title": "Χανιά: Νεκρός 67χρονος που έπεσε σε γκρεμό με το αυτοκίνητό του",
+      "simpleTitle": "Χανιά: Νεκρός 67χρονος που έπεσε σε γκρεμό με το αυτοκίνητό του",
+      "simpleText": "Στο Χανιά, ένας 67χρονος άνδρας σκοτώθηκε σε αυτοκινητιστικό δυστύχημα. Το ατύχημα συνέβη το βράδυ της Τετάρτης, όταν το αυτοκίνητό του εξετράπη από την πορεία του και έπεσε σε γκρεμό. Η περιοχή βρίσκεται κοντά στο Οροπέδιο Ομαλού.\n\nΟ άνδρας, κάτοικος της περιοχής, δεν επέστρεψε σπίτι του και οι συγγενείς του τον αναζήτησαν. Όταν τον εντόπισαν, ειδοποίησαν τις αρχές. Διασώστες από την Πυροσβεστική Υπηρεσία Χανίων και άλλες υπηρεσίες έσπευσαν για να τον ανασύρουν. Η επιχείρηση ξεκίνησε το μεσημέρι της Πέμπτης. Δυστυχώς, ο 67χρονος βρέθηκε χωρίς τις αισθήσεις του και μεταφέρθηκε από το ΕΚΑΒ.\n\nΟι αρμόδιες αρχές δουλεύουν τώρα για να βρουν τα αίτια της εκτροπής του αυτοκινήτου. Αυτό το γεγονός είναι σημαντικό γιατί δείχνει τις κινδύνους που υπάρχουν στους δρόμους και την ανάγκη για προσοχή κατά την οδήγηση.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2025/12/28/greece/xania-nekros-67xronos-poy-epese-se-gkremo-me-to-aytokinito-toy/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/28/greece/xania-nekros-67xronos-poy-epese-se-gkremo-me-to-aytokinito-toy/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4039194/trocheo-distichima-sta-chania-nekros-67chronos-pou-to-aftokinito-tou-exetrapi-tis-porias-tou-ke-epese-se-gkremo.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα τραγικό αυτοκινητιστικό δυστύχημα που οδήγησε σε θάνατο, γεγονός που σχετίζεται με σοβαρά κοινωνικά ζητήματα όπως η οδική ασφάλεια.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T13:48:02.000Z"
+    },
+    {
+      "id": "9549d40e2869",
+      "title": "Ο Εμανουέλ Μακρόν αποχαιρετά την Μπριζίτ Μπαρντό: «Θρηνούμε έναν θρύλο του αιώνα»",
+      "simpleTitle": "Ο Εμανουέλ Μακρόν αποχαιρετά την Μπριζίτ Μπαρντό: «Θρηνούμε έναν θρύλο του αιώνα»",
+      "simpleText": "Ο Γάλλος πρόεδρος Εμανουέλ Μακρόν αποχαιρέτησε τη σπουδαία ηθοποιό Μπριζίτ Μπαρντό, η οποία πέθανε πρόσφατα. Σε ανακοίνωσή του, την χαρακτήρισε «θρύλο του αιώνα». Ανέφερε ότι οι ταινίες και η φωνή της άγγιξαν πολλές ζωές. Επίσης, υπογράμμισε την αφοσίωσή της στα ζώα και την ιδιαίτερη θέση της στη γαλλική κουλτούρα, καθώς είχε γίνει σύμβολο ελευθερίας. Η Μπαρντό θεωρείται ένα μεγάλο αστέρι του κινηματογράφου, με σημαντική επίδραση στην τέχνη και την κοινωνία. Αυτό το γεγονός είναι σημαντικό γιατί αναδεικνύει την προσφορά της στη Γαλλία και παγκοσμίως.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-emanouel-makron-apoxaireta-tin-mprizit-mparnto-thrinoume-enan-thrylo-tou-aiona/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/o-emanouel-makron-apoxaireta-tin-mprizit-mparnto-thrinoume-enan-thrylo-tou-aiona/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563997328/makron-gia-mprizit-mparnto-thrinoyme-enan-thrylo-toy-aiona/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4039093/o-makron-apochereta-tin-brizit-barnto-thrinoume-enan-thrilo-tou-eona.html"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά τον αποχαιρετισμό μιας εμβληματικής ηθοποιού που έχει επηρεάσει σημαντικά τον πολιτισμό και τον κινηματογράφο, γι' αυτό και κατατάσσεται στην κατηγορία του πολιτισμού.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T13:46:43.000Z"
+    },
+    {
+      "id": "67ea964fe1e9",
+      "title": "Γκύζη: Άντρας μαχαίρωσε τη σύζυγό του και έβαλε τέλος στη ζωή του",
+      "simpleTitle": "Γκύζη: Άντρας μαχαίρωσε τη σύζυγό του και έβαλε τέλος στη ζωή του",
+      "simpleText": "Τίτλος: Γκύζη: Άνδρας μαχαίρωσε τη γυναίκα του και αυτοκτόνησε\n\nΣτην περιοχή του Γκύζη, ένα σοβαρό περιστατικό συνέβη σε διαμέρισμα. Ένας 74χρονος άνδρας μαχαίρωσε τη 67χρονη σύζυγό του στον λαιμό μετά από καβγά. Αμέσως μετά την επίθεση, ο άνδρας πήδηξε από την ταράτσα και έβαλε τέλος στη ζωή του.\n\nΗ γυναίκα μεταφέρθηκε στο νοσοκομείο Γεννηματάς, όπου οι γιατροί προσπαθούν να σταθεροποιήσουν την κατάσταση της υγείας της. Βρέθηκε και ένα σημείωμα από τον άνδρα, στο οποίο έγραφε ότι δεν αντέχει άλλο την κατάσταση.\n\nΗ αστυνομία ερευνά το περιστατικό και παίρνει μαρτυρίες από τους γείτονες. Το γεγονός είναι σημαντικό γιατί δείχνει την ανάγκη για βοήθεια σε κρίσιμες καταστάσεις.",
+      "sourceName": "TA NEA, TO BHMA, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2025/12/28/greece/gkyzi-antras-maxairose-ti-syzygo-tou-kai-evale-telos-sti-zoi-tou/",
+      "sourceDomains": [
+        "tanea.gr",
+        "tovima.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/28/greece/gkyzi-antras-maxairose-ti-syzygo-tou-kai-evale-telos-sti-zoi-tou/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/28/society/gkyzi-maxairose-ti-syzygo-tou-kai-aytoktonise/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/gkyzi-andras-maxairwse-ti-syzygo-tou-ston-laimo-kai-aftoktonise-44343283423"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το περιστατικό αφορά μια σοβαρή περίπτωση βίας και αυτοκτονίας, που συνιστά ένα σημαντικό κοινωνικό ζήτημα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://orangepress.gr/player?slug=8anathforo-epeisodio-meta3y-hlikiwmenwn-stoy-gkyzh-oi-prwtes-eikones",
+      "publishedAt": "2025-12-28T13:44:15.000Z"
+    },
+    {
+      "id": "9aaa62666962",
+      "title": "Κυψέλη: Ανδρας μαχαίρωσε τη σύζυγό του και αυτοκτόνησε πέφτοντας από την ταράτσα",
+      "simpleTitle": "Κυψέλη: Ανδρας μαχαίρωσε τη σύζυγό του και αυτοκτόνησε πέφτοντας από την ταράτσα",
+      "simpleText": "Άλλος τίτλος: Κυψέλη: Άνδρας τραυμάτισε τη σύζυγό του και μετά αυτοκτόνησε.\n\nΣτην Κυψέλη, ένας άνδρας 67 ετών τραυμάτισε τη σύζυγό του με μαχαίρι. Αυτή τη στιγμή, η γυναίκα νοσηλεύεται σε σοβαρή κατάσταση στο νοσοκομείο \"Γεννηματάς\". Μετά το τραγικό συμβάν, ο άνδρας έπεσε από την ταράτσα του σπιτιού τους και αυτοκτόνησε.\n\nΗ αστυνομία έχει αποκλείσει την περιοχή. Αυτή η οικογενειακή τραγωδία είναι σοβαρή και έχει σοκαρίσει την τοπική κοινότητα. Δεν είναι γνωστά τα αίτια της επίθεσης ή οι συνθήκες που οδήγησαν σε αυτή την κατάσταση.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/563997322/gkyzi-andras-machairose-ti-syzygo-toy-kai-aytoktonise-peftontas-apo-to-mpalkoni/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563997322/gkyzi-andras-machairose-ti-syzygo-toy-kai-aytoktonise-peftontas-apo-to-mpalkoni/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4039163/ikogeniaki-tragodia-stou-gkizi-andras-macherose-ti-sizigo-tou-ke-aftoktonise-peftontas-apo-to-balkoni-i-gineka-dini-machi-na-kratithi-sti-zoi.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Αυτή η είδηση αφορά μια σοβαρή οικογενειακή τραγωδία με βία και αυτοκτονία, γεγονότα που επηρεάζουν την κοινωνία και απαιτούν σοβαρή αντιμετώπιση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T13:30:33.000Z"
+    },
+    {
+      "id": "72e4868c44ed",
+      "title": "Γλυφάδα: Στο εδώλιο αύριο ο τράπερ που συνελήφθη με κλεμμένο όχημα – Ποινική δίωξη για αποδοχή προϊόντων εγκλήματος",
+      "simpleTitle": "Γλυφάδα: Στο εδώλιο αύριο ο τράπερ που συνελήφθη με κλεμμένο όχημα – Ποινική δίωξη για αποδοχή προϊόντων εγκλήματος",
+      "simpleText": "Τίτλος: Τράπερ στη Γλυφάδα κατηγορείται για κλεμμένο όχημα\n\nΣτην Γλυφάδα, ένας τράπερ συνελήφθη με κλεμμένο αυτοκίνητο. Αυτό συνέβη το απόγευμα του Σαββάτου, κατά τη διάρκεια ενός αστυνομικού ελέγχου. Οι αστυνομικοί σταμάτησαν τον 25χρονο στην οδό Κύπρου και διαπίστωσαν ότι το αυτοκίνητο είχε δηλωθεί ως κλεμμένο από την περιοχή του Ωραιόκαστρου Θεσσαλονίκης.\n\nΜαζί του ήταν ένα δεύτερο άτομο, το οποίο είχε μικρή ποσότητα ναρκωτικών και επίσης συνελήφθη. Ο τράπερ θα δικαστεί αύριο σε ειδικό δικαστήριο για την υπόθεση αυτή. Η κατηγορία που του ασκήθηκε είναι για αποδοχή προϊόντων εγκλήματος, δηλαδή για το γεγονός ότι οδηγούσε ένα κλεμμένο όχημα.\n\nΗ υπόθεση είναι σημαντική καθώς αναδεικνύει ζητήματα εγκληματικότητας και ασφάλειας στους δημόσιους δρόμους.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/vretania-symfonia-gia-epistrofes-paratypon-metanaston-me-angkola-kai-namimpia/",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/glyfada-sto-edolio-ayrio-o-traper-pou-synelifthi-me-klemmeno-oxima-poiniki-dioksi-gia-apodoxi-proionton-egklimatos/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -15,366 +203,137 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/vretania-symfonia-gia-epistrofes-paratypon-metanaston-me-angkola-kai-namimpia/"
+          "url": "https://www.ertnews.gr/roi-idiseon/glyfada-sto-edolio-ayrio-o-traper-pou-synelifthi-me-klemmeno-oxima-poiniki-dioksi-gia-apodoxi-proionton-egklimatos/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563997193/vretania-symfonia-me-angkola-kai-namimpia-gia-epistrofes-metanaston/"
+          "url": "https://www.kathimerini.gr/society/563997310/poiniki-dioxi-ston-traper-poy-synelifthi-na-odigei-klemmeno-aytokinito/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σε συμφωνία της Βρετανίας με άλλες χώρες για την επιστροφή παράτυπων μεταναστών και σχετίζεται με σοβαρά κοινωνικά και πολιτικά θέματα.",
+      "categoryReason": "Η είδηση αφορά τη σύλληψη ενός τράπερ με κλεμμένο όχημα και τη νομική διαδικασία που ακολουθεί, αναδεικνύοντας ζητήματα εγκληματικότητας και ασφάλειας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-28T07:10:00.000Z"
+      "publishedAt": "2025-12-28T12:46:07.000Z"
     },
     {
-      "id": "69a5dcc3a54f",
-      "title": "Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ – Πώς θα λειτουργήσει η αγορά έως την Πρωτοχρονιά",
-      "simpleTitle": "Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ – Πώς θα λειτουργήσει η αγορά έως την Πρωτοχρονιά",
-      "simpleText": "Τίτλος: Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ\n\nΣήμερα, τελευταία Κυριακή του χρόνου, τα εμπορικά καταστήματα και τα σούπερ μάρκετ είναι ανοιχτά. Αυτό συμβαίνει για να μπορέσουν οι καταναλωτές να κάνουν τα ψώνια τους πριν την Πρωτοχρονιά. Τα καταστήματα θα λειτουργήσουν από τις 11:00 έως τις 18:00. Μερικές φορές, οι ώρες μπορεί να διαφέρουν ελαφρώς σε κάποια καταστήματα.\n\nΕίναι σημαντικό να σημειωθεί ότι θα είναι κλειστά την ημέρα της Πρωτοχρονιάς και στις 2 Ιανουαρίου, ημέρα που γίνεται η «απογραφή» των επιχειρήσεων.\n\nΟ Εμπορικός Σύλλογος Αθηνών αναφέρει ότι αυτές οι ώρες είναι προτεινόμενες και οι έμποροι μπορούν να κάνουν αλλαγές αν το επιθυμούν.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/anoixta-simera-ta-katastimata-kai-ta-souper-market-pos-tha-leitourgisei-i-agora-eos-tin-protoxronia/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/anoixta-simera-ta-katastimata-kai-ta-souper-market-pos-tha-leitourgisei-i-agora-eos-tin-protoxronia/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563997166/anoichta-simera-katastimata-kai-soyper-market-pos-tha-leitoyrgisei-i-agora-eos-tin-protochronia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/economy/anoixta-simera-katastimata-kai-souper-market-poies-ores-tha-leitourgisoun/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις ώρες λειτουργίας των καταστημάτων και των σούπερ μάρκετ, κάτι που σχετίζεται με την οικονομία και τις καταναλωτικές συνήθειες, επομένως εμπίπτει σε σοβαρές ειδήσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T07:02:19.000Z"
-    },
-    {
-      "id": "3c930ec40b74",
-      "title": "Καιρός: Θυελλώδεις άνεμοι στη Βόρεια Ελλάδα – Η πρόγνωση έως την Πρωτοχρονιά",
-      "simpleTitle": "Καιρός: Θυελλώδεις άνεμοι στη Βόρεια Ελλάδα – Η πρόγνωση έως την Πρωτοχρονιά",
-      "simpleText": "Τίτλος: Ισχυροί άνεμοι στη Βόρεια Ελλάδα – Καιρός έως την Πρωτοχρονιά\n\nΣήμερα, Κυριακή 28 Δεκεμβρίου 2025, αναμένονται ισχυροί βορειοδυτικοί άνεμοι στη Βόρεια Ελλάδα. Οι άνεμοι θα φτάσουν τα 8 με 9 μποφόρ στην κεντρική Μακεδονία, συμπεριλαμβανομένης της Θεσσαλονίκης, και στις Σποράδες. Ο καιρός θα είναι γενικά αίθριος, με λίγες τοπικές νεφώσεις, κυρίως στα νησιά του Ιονίου και στην Πελοπόννησο.\n\nΗ θερμοκρασία θα κυμανθεί από 1 έως 18 βαθμούς Κελσίου. Στην περιοχή της Θεσσαλονίκης, οι θερμοκρασίες θα είναι από 3 έως 11 βαθμούς. Υπάρχει πιθανότητα ασθενών βροχών το απόγευμα, ειδικά στα νότια νησιά.\n\nΕίναι σημαντικό να παρακολουθούμε τον καιρό, καθώς οι θυελλώδεις άνεμοι και η πτώση της θερμοκρασίας μπορούν να προκαλέσουν δυσκολίες στις μετακινήσεις και άλλες δραστηριότητες. Επίσης, από αύριο Δευτέρα, η θερμοκρασία θα σημειώσει μικρή πτώση, με παγετό στα βόρεια και κεντρικά ηπειρωτικά.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/society/563997160/kairos-thyellodeis-anemoi-sti-voreia-ellada-i-prognosi-eos-tin-protochronia/",
+      "id": "cc249b75ebd0",
+      "title": "Εθνική Οδός: Μετ΄ εμποδίων η επιστροφή των εκδρομέων – Πού υπάρχουν προβλήματα",
+      "simpleTitle": "Εθνική Οδός: Μετ΄ εμποδίων η επιστροφή των εκδρομέων – Πού υπάρχουν προβλήματα",
+      "simpleText": "Τίτλος: Δύσκολη επιστροφή για τους εκδρομείς στην Εθνική Οδό\n\nΗ επιστροφή των εκδρομέων μετά τα Χριστούγεννα αντιμετωπίζει προβλήματα στην Εθνική Οδό. Η κίνηση είναι πολύ αργή και υπάρχουν μεγάλες καθυστερήσεις. Αυτό συμβαίνει κυρίως στην περιοχή της Λαμίας, όπου σχηματίζεται ουρά γύρω από 3 χιλιόμετρα.\n\nΟι οδηγοί χρειάζονται υπομονή, καθώς η κατάσταση επιδεινώνεται όσο περνά ο χρόνος. Η ταχύτητα είναι πολύ χαμηλή και απαιτείται προσοχή για την ασφάλεια όλων. Είναι σημαντικό οι ταξιδιώτες να είναι ενημερωμένοι ώστε να προγραμματίσουν καλύτερα το ταξίδι τους.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/563997298/ethniki-odos-met-empodion-i-epistrofi-ton-ekdromeon-poy-yparchoyn-provlimata/",
       "sourceDomains": [
         "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563997160/kairos-thyellodeis-anemoi-sti-voreia-ellada-i-prognosi-eos-tin-protochronia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/greece/o-kairos-simera-thyellodeis-anemoi-kai-ptosi-thermokrasias-pos-tha-kanoyme-protoxronia/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά καιρικά φαινόμενα, όπως θυελλώδεις άνεμοι και πτώση θερμοκρασίας, που επηρεάζουν τη Βόρεια Ελλάδα και μπορεί να προκαλέσουν δυσκολίες στις μετακινήσεις.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g29b3d3faa95dbcdff076c35f15aaf4f86b89c0090921904b5d93048b2d8a23353a13b5cb4e39cce93182a0bc87993d80b7c385fbfea8ee46c297cec29819ebfb_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T06:52:33.000Z"
-    },
-    {
-      "id": "9d77c92e329d",
-      "title": "Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ",
-      "simpleTitle": "Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ",
-      "simpleText": "Τίτλος: Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ\n\nΤο Συμβούλιο Ασφαλείας του ΟΗΕ θα συνεδριάσει τη Δευτέρα για να συζητήσει την απόφαση του Ισραήλ να αναγνωρίσει τη Σομαλιλάνδη ως ανεξάρτητο κράτος. Αυτή η απόφαση έχει προκαλέσει αντιδράσεις στην Σομαλία και σε πολλές χώρες της περιοχής.\n\nΔεκαεννέα αραβικές και μουσουλμανικές χώρες εξέδωσαν μια κοινή ανακοίνωση, εκφράζοντας ανησυχία για τις επιπτώσεις της απόφασης στην ειρήνη και την ασφάλεια στην περιοχή. Επίσης, καταδικάζουν την ενέργεια του Ισραήλ ως παραβίαση του διεθνούς δικαίου. Ανησυχούν επίσης για τις καταγγελίες ότι η αναγνώριση της Σομαλιλάνδης μπορεί να σχετίζεται με σχέδια εκδίωξης Παλαιστινίων από τις περιοχές τους.\n\nΗ Σομαλιλάνδη κήρυξε την ανεξαρτησία της το 1991, όταν η Σομαλία ήταν σε αναταραχή. Εδώ και χρόνια λειτουργεί αυτόνομα, έχοντας τη δική της αστυνομία και στρατό. Ωστόσο, δεν είχε αναγνωριστεί από καμία χώρα, γεγονός που την έχει απομονώσει πολιτικά και οικονομικά παρόλο που βρίσκεται σε στρατηγική τοποθεσία.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ektakti-synedriasi-tou-symvouliou-asfaleias-tou-oie-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/ektakti-synedriasi-tou-symvouliou-asfaleias-tou-oie-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/world/oie-ektakti-synedriasi-tou-sa-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ για την αναγνώριση της Σομαλιλάνδης, που σχετίζεται με σοβαρά διεθνή θέματα όπως η πολιτική ασφάλεια, η αναγνώριση κρατών και οι σχέσεις μεταξύ χωρών.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T06:38:23.000Z"
-    },
-    {
-      "id": "c62b9f4c08da",
-      "title": "«Αιώνιοι» φοιτητές: 35.000 ζήτησαν παράταση σπουδών, 280.000 θα διαγραφούν",
-      "simpleTitle": "«Αιώνιοι» φοιτητές: 35.000 ζήτησαν παράταση σπουδών, 280.000 θα διαγραφούν",
-      "simpleText": "35.000 φοιτητές ζήτησαν παράταση σπουδών, ενώ 280.000 θα διαγραφούν\n\nΑπό την 1η Ιανουαρίου 2026, θα ξεκινήσει η εφαρμογή ενός νόμου που αφορά τη διαγραφή φοιτητών από τα δημόσια πανεπιστήμια στην Ελλάδα. Η υπουργός Παιδείας, Σοφία Ζαχαράκη, ανακοίνωσε ότι 35.000 φοιτητές εκμεταλλεύτηκαν την ευκαιρία να ζητήσουν παράταση για να ολοκληρώσουν τις σπουδές τους. Όμως, περίπου 280.000 φοιτητές που δεν έχουν ενεργή σύνδεση με τις σπουδές τους θα διαγραφούν.\n\nΟ νόμος έχει στόχο να φέρει μια πιο δίκαιη και λειτουργική κατάσταση στα πανεπιστήμια. Αυτό σημαίνει ότι δεν θα υπάρχουν φοιτητές που μένουν χωρίς να σπουδάζουν για πολλά χρόνια. Η υπουργός τόνισε ότι η διαγραφή δεν είναι τιμωρία και ότι υπάρχουν εξαιρέσεις για άτομα με ειδικές ανάγκες ή σοβαρά προβλήματα.\n\nΣημαντικά είναι ότι οι φοιτητές αυτοί που θα διαγραφούν έχουν υπερβεί την ανώτατη διάρκεια φοίτησης. Για να διαγραφούν, πρέπει να έχουν ήδη περάσει δύο χρόνια χωρίς να έχουν συμμετάσχει σε εξετάσεις. Το θεσμικό αυτό πλαίσιο είναι αποτέλεσμα απαιτήσεων που υπάρχουν στα ευρωπαϊκά πανεπιστήμια και στοχεύει στη βελτίωση της εκπαίδευσης. Οι φοιτητές που εργάζονται ή έχουν οικογενειακές υποχρεώσεις μπορούν να υποβάλουν αίτηση για παράταση.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/society/563997175/aionioi-foitites-35-000-zitisan-paratasi-spoydon-280-000-tha-diagrafoyn/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563997175/aionioi-foitites-35-000-zitisan-paratasi-spoydon-280-000-tha-diagrafoyn/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/greece/diagrafontai-280-000-aionioi-foitites-paratasi-spoydon-zitisan-35-000/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη σοβαρή κατάσταση της εκπαίδευσης και τις νομικές ρυθμίσεις που επηρεάζουν τα δημόσια πανεπιστήμια στην Ελλάδα, με σημαντικές συνέπειες για τους φοιτητές.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T06:23:37.000Z"
-    },
-    {
-      "id": "3965ae080bee",
-      "title": "Βραζιλία: Σε χειρουργική επέμβαση για την αντιμετώπιση επίμονου λόξυγγα υποβλήθηκε ο Μπολσονάρο",
-      "simpleTitle": "Βραζιλία: Σε χειρουργική επέμβαση για την αντιμετώπιση επίμονου λόξυγγα υποβλήθηκε ο Μπολσονάρο",
-      "simpleText": "Τίτλος: Χειρουργική επέμβαση για τον Μπολσονάρο λόγω λόξυγγα\n\nΟ πρώην πρόεδρος της Βραζιλίας, Ζαΐχ Μπολσονάρο, υποβλήθηκε σε χειρουργική επέμβαση για να αντιμετωπίσει έναν επίμονο λόξυγγα. Η επέμβαση έγινε χθες, Σάββατο, και ανακοίνωθηκε από τη σύζυγό του, Μισέλ Μπολσονάρο. Οι γιατροί απεκλείσαν το δεξί φρενικό νεύρο του, ενώ προγραμματίστηκε και νέα επέμβαση για το αριστερό μέσα σε 48 ώρες.\n\nΤο φρενικό νεύρο είναι σημαντικό για την αναπνοή, καθώς ελέγχει το διάφραγμα. Αν δεν λειτουργεί σωστά, μπορεί να προκαλέσει σοβαρά προβλήματα. Ο Μπολσονάρο, 70 ετών, είχε εισαχθεί σε νοσοκομείο και για άλλη εγχείρηση πρόσφατα.\n\nΕπίσης, τον Σεπτέμβριο του 2023, καταδικάστηκε σε 27 χρόνια φυ imprisonment λόγω σχεδίου πραξικοπήματος. Ο δικαστής του επέτρεψε να κάνει την επέμβαση στο νοσοκομείο. Ο πρώην πρόεδρος έχει αντιμετωπίσει προβλήματα υγείας μετά από επίθεση με μαχαίρι το 2018.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-se-xeirourgiki-epemvasi-gia-tin-antimetopisi-epimonou-loksygga-ypovlithike-o-mpolsonaro/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-se-xeirourgiki-epemvasi-gia-tin-antimetopisi-epimonou-loksygga-ypovlithike-o-mpolsonaro/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/world/mpolsonaroy-ypovlithike-se-xeiroyrgiki-epemvasi-gia-tin-antimetopisi-epimonoy-loksygga/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την υγεία του πρώην προεδρεύοντος Ζαΐχ Μπολσονάρο και περιλαμβάνει σοβαρά θέματα υγειονομικής περίθαλψης και νομικών ζητημάτων, όπως η καταδίκη του.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T06:16:31.000Z"
-    },
-    {
-      "id": "119c249bd356",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 28 Δεκεμβρίου",
-      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 28 Δεκεμβρίου",
-      "simpleText": "Σήμερα, 28 Δεκεμβρίου, γιορτάζουν οι Άγιοι Δόμνα, Θεόφιλος και Μυγδόνιος. Είναι μια σημαντική ημέρα, γιατί τιμάμε τη μνήμη της Αγίας Δόμνας, η οποία ήταν μάρτυρας της χριστιανικής πίστης.\n\nΗ Αγία Δόμνα ζούσε στη Νικομήδεια, κατά την περίοδο του Ρωμαίου αυτοκράτορα Μαξιμιανού. Αρχικά ήταν ιέρεια ειδώλων, αλλά μετά από την ανάγνωση επιστολών του Αποστόλου Παύλου, βαπτίστηκε χριστιανή. Από τότε, αφιερώθηκε στη βοήθεια των φτωχών, μοιράζοντας την περιουσία της.\n\nΩστόσο, η απόφαση της να γίνει χριστιανή την έφερε σε κίνδυνο. Όταν ο Μαξιμιανός έμαθε για την πίστη της, διέταξε τη σύλληψή της. Δεν την βρήκε, αλλά διέταξε τη δίωξη όλων των χριστιανών, μεταξύ των οποίων ήταν και η Δόμνα. Τελικά, αναγνωρίστηκε και εκτελέστηκε.\n\nΓια αυτούς που γιορτάζουν σήμερα, τα συνηθισμένα ονόματα είναι Δόμνα, Θεόφιλος, και άλλα σχετικά.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-28-dekemvriou-2/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-28-dekemvriou-2/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/28/greece/eortologio-poioi-giortazoun-simera-28-dekemvriou/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εορτή της Αγίας Δόμνας, η οποία έχει ιστορικό και θρησκευτικό χαρακτήρα, αναφερόμενη σε θέματα πίστης και μαρτυρίου.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T06:01:48.000Z"
-    },
-    {
-      "id": "d1c6afcbfa69",
-      "title": "Βρετανία: Το Λονδίνο ξεκινά ένα πρόγραμμα για προσέλκυση νέων στις βρετανικές ένοπλες δυνάμεις",
-      "simpleTitle": "Βρετανία: Το Λονδίνο ξεκινά ένα πρόγραμμα για προσέλκυση νέων στις βρετανικές ένοπλες δυνάμεις",
-      "simpleText": "Λονδίνο: Νέο πρόγραμμα για την προσέλκυση νέων στον στρατό\n\nΗ Βρετανία ξεκινά ένα πρόγραμμα για νέους κάτω των 25 ετών, που θα προσφέρει αμειβόμενη εκπαίδευση στον στρατό. Το πρόγραμμα θα αρχίσει τον Μάρτιο και θα διαρκέσει ένα χρόνο. Στην αρχή θα συμμετάσχουν 150 άτομα, αλλά η κυβέρνηση σκοπεύει να επεκτείνει τις θέσεις σε πάνω από 1.000 στο μέλλον.\n\nΟ υπουργός Άμυνας, Τζον Χίλι, δήλωσε ότι αυτό το πρόγραμμα στοχεύει στη σύνδεση της κοινωνίας με τις ένοπλες δυνάμεις. Ενώ στη Βρετανία δεν υπάρχει υποχρεωτική στρατιωτική θητεία από το 1960, επισημαίνεται ότι οι ανάγκες για στρατιώτες αυξάνονται, κυρίως λόγω των διεθνών απειλών.\n\nΟι νέοι που θα συμμετάσχουν θα αποκτήσουν δεξιότητες που θα τους βοηθήσουν και σε άλλες καριέρες. Μετά την ολοκλήρωση της εκπαίδευσής τους, θα μπορούν να αποφασίσουν αν θα παραμείνουν στον στρατό ή όχι.",
-      "sourceName": "ERT News, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/vretania-to-londino-ksekina-ena-programma-gia-proselkysi-neon-stis-vretanikes-enoples-dynameis/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/vretania-to-londino-ksekina-ena-programma-gia-proselkysi-neon-stis-vretanikes-enoples-dynameis/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/27/world/vretania-to-londino-ksekina-programma-gia-tin-proselkysi-neon-stis-enoples-dynameis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την έναρξη ενός προγράμματος προσέλκυσης νέων στο στρατό στο πλαίσιο αυξανόμενων διεθνών απειλών, το οποίο σχετίζεται με σοβαρά ζητήματα άμυνας και επιβάλλει διάλογο για τη στρατιωτική θητεία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-28T05:45:00.000Z"
-    },
-    {
-      "id": "6594981495a8",
-      "title": "Πανιώνιος: Παραιτήθηκε ο Ζούρος μετά την ήττα από τον Ηρακλή",
-      "simpleTitle": "Πανιώνιος: Παραιτήθηκε ο Ζούρος μετά την ήττα από τον Ηρακλή",
-      "simpleText": "Ο Ηλίας Ζούρος αποχώρησε από την θέση του προπονητή του Πανιωνίου μετά την ήττα της ομάδας από τον Ηρακλή. Ο αγώνας έγινε στη Θεσσαλονίκη και η ήττα ήταν με σκορ 80-66.\n\nΟ Ζούρος ανακοίνωσε την παραίτησή του στη δημόσια τηλεόραση αμέσως μετά το τέλος του παιχνιδιού. Η ομάδα του Πανιωνίου έχει δείξει κακή εικόνα φέτος, με 14 ήττες και μόλις μία νίκη σε 15 αγώνες υπό την καθοδήγησή του.\n\nΗ ήττα αυτή ήταν άλλη μία στα αρνητικά αποτελέσματα της φετινής χρονιάς, και πλέον ο Πανιώνιος αναζητά νέο προπονητή. Ανάμεσα στους υποψηφίους είναι ο Νέναντ Μάρκοβιτς, ο οποίος έχει προπονήσει ξανά την ομάδα, καθώς και ο Γιώργος Λιμνιάτης. Η κατάσταση αυτή είναι σημαντική για τον Πανιώνιο, αφού η ομάδα θέλει να βελτιώσει τις επιδόσεις της και να προχωρήσει πιο δυναμικά στη συνέχεια της σεζόν.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/athletics/basketball/563996920/panionios-paraitithike-o-zoyros-meta-tin-itta-apo-ton-irakli/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/athletics/basketball/563996920/panionios-paraitithike-o-zoyros-meta-tin-itta-apo-ton-irakli/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/27/sports/panionios-paraitithike-o-zouros-oi-pithanoi-antikatastates/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά την παραίτηση του προπονητή μιας μπασκετικής ομάδας μετά από μια ήττα, κάτι που σχετίζεται άμεσα με τον αθλητισμό και τις επιδόσεις των ομάδων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-27T20:58:54.000Z"
-    },
-    {
-      "id": "4976c414d7df",
-      "title": "Μακρόν σε Ζελένσκι: Απαραίτητες οι ισχυρές εγγυήσεις ασφαλείας προς το Κίεβο",
-      "simpleTitle": "Μακρόν σε Ζελένσκι: Απαραίτητες οι ισχυρές εγγυήσεις ασφαλείας προς το Κίεβο",
-      "simpleText": "Τίτλος: Μακρόν: Χρειάζονται ισχυρές εγγυήσεις για την ασφάλεια της Ουκρανίας\n\nΟ Γάλλος πρόεδρος Εμανουέλ Μακρόν μίλησε πρόσφατα τηλεφωνικά με τον Ουκρανό πρόεδρο Βολοντιμίρ Ζελένσκι. Αυτή η συνομιλία έγινε με τη συμμετοχή και άλλων Ευρωπαίων ηγετών. Ο κύριος στόχος ήταν να τονιστεί η ανάγκη στήριξης της Ουκρανίας, καθώς ο Ζελένσκι ετοιμάζεται να συναντήσει τον Αμερικανό πρόεδρο Ντόναλντ Τραμπ.\n\nΟ Μακρόν επεσήμανε ότι είναι σημαντικό η ειρηνική λύση στην Ουκρανία να συνοδεύεται από μόνιμες εγγυήσεις ασφαλείας. Η Γαλλία προγραμματίζει να συνεργαστεί με τις Ηνωμένες Πολιτείες για να επιτύχει αυτόν τον στόχο. Υπογράμμισε επίσης ότι οι Ευρωπαίοι εταίροι πρέπει να συμμετέχουν στις σχετικές συζητήσεις.\n\nΑυτή η ενημέρωση είναι σημαντική, καθώς οι εγγυήσεις ασφαλείας θα βοηθήσουν την Ουκρανία να ανταπεξέλθει στις προκλήσεις που αντιμετωπίζει, ειδικά λόγω των στρατιωτικών επιθέσεων από τη Ρωσία.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/27/world/makron-se-zelenski-aparaitites-oi-isxyres-eggyiseis-asfaleias-pros-to-kievo/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/27/world/makron-se-zelenski-aparaitites-oi-isxyres-eggyiseis-asfaleias-pros-to-kievo/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/27/world/makron-anagki-na-dothoun-isxyres-eggyiseis-asfaleias-sto-kievo/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη συνομιλία Μακρόν-Ζελένσκι για την ασφάλεια της Ουκρανίας, που σχετίζεται με σοβαρά πολιτικά και στρατιωτικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-27T20:36:54.000Z"
-    },
-    {
-      "id": "fc021de026b4",
-      "title": "Πούτιν: Η Ουκρανία δεν βιάζεται για ειρήνη, θα πετύχουμε τους στόχους μας διά της ισχύος",
-      "simpleTitle": "Πούτιν: Η Ουκρανία δεν βιάζεται για ειρήνη, θα πετύχουμε τους στόχους μας διά της ισχύος",
-      "simpleText": "Ο Ρώσος πρόεδρος Πούτιν δήλωσε ότι η Ουκρανία δεν επιδιώκει γρήγορα την ειρήνη και ότι η Ρωσία θα επιτύχει τους στόχους της μέσω στρατιωτικής δύναμης. Αυτό έγινε λίγο πριν από μια τηλεδιάσκεψη του Ουκρανού προέδρου, Βολοντίμιρ Ζελένσκι, με Ευρωπαίους ηγέτες και τον πρόεδρο των Ηνωμένων Πολιτειών, Ντόναλντ Τραμπ.\n\nΗ δήλωση αυτή είναι σημαντική, γιατί δείχνει την ένταση στη σύγκρουση μεταξύ Ρωσίας και Ουκρανίας. Ο Πούτιν φαίνεται απογοητευμένος από την έλλειψη προόδου για μια ειρηνική λύση και αναφέρει ότι η Ρωσία θα συνεχίσει την στρατιωτική της επιχείρηση αν η Ουκρανία δεν συμφωνήσει για ειρηνικές συνομιλίες.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/world/563996896/poytin-i-oykrania-den-viazetai-gia-eirini-tha-petychoyme-toys-stochoys-mas-dia-tis-ischyos/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563996896/poytin-i-oykrania-den-viazetai-gia-eirini-tha-petychoyme-toys-stochoys-mas-dia-tis-ischyos/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/poutin-i-oukrania-den-viazetai-gia-eirini-tha-petyxoume-tous-stoxous-mas-dia-tis-isxyos-44343283208"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές δηλώσεις του Ρώσου προέδρου Πούτιν σχετικά με τη σύγκρουση στην Ουκρανία, που υποδεικνύουν την κατάσταση έντασης και τις στρατηγικές προθέσεις της Ρωσίας, κάτι που εντάσσεται στην κατηγορία σοβαρών ειδήσεων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-27T20:02:24.000Z"
-    },
-    {
-      "id": "568a26e752f1",
-      "title": "Ουκρανία: Πάνω από 1 εκατ. νοικοκυριά χωρίς ρεύμα στο Κίεβο",
-      "simpleTitle": "Ουκρανία: Πάνω από 1 εκατ. νοικοκυριά χωρίς ρεύμα στο Κίεβο",
-      "simpleText": "Τίτλος: Ουκρανία: Πάνω από 1 εκατομμύριο σπίτια χωρίς ρεύμα στο Κίεβο\n\nΣτην Ουκρανία, περισσότερα από 1 εκατομμύριο νοικοκυριά έμειναν χωρίς ηλεκτρικό ρεύμα, εξαιτίας ρωσικών επιθέσεων. Το πρωί, μία επίθεση προκάλεσε διακοπή ρεύματος σε πάνω από 700.000 σπίτια στο Κίεβο και σε 400.000 στην γύρω περιοχή.\n\nΗ ιδιωτική εταιρεία DTEK, που παρέχει ηλεκτρικό ρεύμα, ανακοίνωσε ότι τα συνεργεία της προσπαθούν να αποκαταστήσουν την ηλεκτροδότηση. Αυτή η κατάσταση είναι σοβαρή, καθώς οι άνθρωποι χρειάζονται ρεύμα για τις καθημερινές τους ανάγκες, ειδικά κατά την περίοδο του χειμώνα.\n\nΗ είδηση δείχνει την επίδραση των στρατιωτικών συγκρούσεων στην καθημερινή ζωή των πολιτών.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/world/563996929/oykrania-pano-apo-1-ekat-noikokyria-choris-reyma-sto-kievo/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563996929/oykrania-pano-apo-1-ekat-noikokyria-choris-reyma-sto-kievo/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/27/world/oykrania-pano-apo-1-ekat-noikokyria-sto-kievo-xoris-reyma-epeita-apo-rosikes-epitheseis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές επιπτώσεις των στρατιωτικών επιθέσεων στην καθημερινή ζωή των πολιτών στην Ουκρανία, καθώς πάνω από 1 εκατομμύριο νοικοκυριά έμειναν χωρίς ηλεκτρικό ρεύμα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-27T19:39:00.000Z"
-    },
-    {
-      "id": "dbf88f61e2fb",
-      "title": "Γουατεμάλα: Τουλάχιστον 15 νεκροί και 19 τραυματίες σε δυστύχημα με λεωφορείο",
-      "simpleTitle": "Γουατεμάλα: Τουλάχιστον 15 νεκροί και 19 τραυματίες σε δυστύχημα με λεωφορείο",
-      "simpleText": "Τίτλος: Δυστύχημα με λεωφορείο στη Γουατεμάλα, πολλοί νεκροί και τραυματίες\n\nΣτη Γουατεμάλα, ένα λεωφορείο έπεσε σε φαράγγι. Το δυστύχημα έγινε στο διαμέρισμα Σολόλα. Αυτή η περιοχή έχει πυκνή ομίχλη, κάτι που μπορεί να επηρεάσει την οδήγηση.\n\nΑπό το δυστύχημα, τουλάχιστον 15 άτομα έχουν χάσει τη ζωή τους και 19 είναι τραυματίες. Οι αρχές προσπαθούν να εξετάσουν τις συνθήκες που οδήγησαν στο ατύχημα. Είναι σημαντικό να κατανοήσουμε τι συνέβη, ώστε να αποφευχθούν παρόμοια περιστατικά στο μέλλον.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2025/12/27/world/gouatemala-toulaxiston-15-nekroi-kai-19-traymaties-se-dystyxima-me-leoforeio/",
-      "sourceDomains": [
-        "tovima.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/27/world/gouatemala-toulaxiston-15-nekroi-kai-19-traymaties-se-dystyxima-me-leoforeio/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563997298/ethniki-odos-met-empodion-i-epistrofi-ton-ekdromeon-poy-yparchoyn-provlimata/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4038687/tragodia-stin-gouatemala-toulachiston-15-nekri-ke-19-travmaties-apo-distichima-me-leoforio.html"
+          "url": "https://www.news.gr/ellada/article/4039104/met%ce%84-empodion-i-epistrofi-ton-ekdromeon-ton-christougennon-stin-athina.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα με πολλές ανθρώπινες απώλειες και τραυματισμούς, γεγονός που την κατατάσσει στις σοβαρές ειδήσεις.",
+      "categoryReason": "Η είδηση αναφέρεται σε προβλήματα που αντιμετωπίζουν οι εκδρομείς κατά την επιστροφή τους από τις γιορτές, εστιάζοντας σε ζητήματα κίνησης και ασφαλείας στην Εθνική Οδό.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-27T14:27:34.000Z"
+      "publishedAt": "2025-12-28T12:42:38.000Z"
+    },
+    {
+      "id": "6ac9a258f6a2",
+      "title": "Τροχαίο δυστύχημα στα Χανιά: ΙΧ έπεσε σε γκρεμό – Χωρίς τις αισθήσεις του ανασύρθηκε ο οδηγός",
+      "simpleTitle": "Τροχαίο δυστύχημα στα Χανιά: ΙΧ έπεσε σε γκρεμό – Χωρίς τις αισθήσεις του ανασύρθηκε ο οδηγός",
+      "simpleText": "Τίτλος: Τραγωδία στα Χανιά: Οδηγός ΙΧ έπεσε σε γκρεμό και βρέθηκε νεκρός\n\nΣτα Χανιά, το μεσημέρι της Κυριακής, συνέβη ένα σοβαρό τροχαίο ατύχημα. Ένας οδηγός ενός αυτοκινήτου αναζητούνταν από τους συγγενείς του από το πρωί. Είχε χαθεί η επικοινωνία μαζί του. Όταν το αυτοκίνητο βρέθηκε, διαπιστώθηκε ότι είχε πέσει σε γκρεμό.\n\nΗ Πυροσβεστική υπηρεσία κατέφθασε γρήγορα στο σημείο με 12 άνδρες και 6 οχήματα για να βοηθήσει. Ο οδηγός βρέθηκε εκτός του αυτοκινήτου και ήταν χωρίς τις αισθήσεις του. Οι συγγενείς του, οι οποίοι τον αναζητούσαν, βρέθηκαν μπροστά σε μία θλιβερή εικόνα κατά την προσπάθεια ανάσυρσης του.\n\nΗ υπόθεση ερευνάται από τις αρμόδιες αρχές για να μάθουν πώς συνέβη αυτό το ατύχημα. Είναι μία τραγική στιγμή για την οικογένεια του οδηγού.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/troxaio-dystyxima-sta-xania-ix-epese-se-gkremo-xoris-tis-aisthiseis-tou-anasyrthike-o-odigos/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/troxaio-dystyxima-sta-xania-ix-epese-se-gkremo-xoris-tis-aisthiseis-tou-anasyrthike-o-odigos/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563997304/tragodia-sta-chania-nekros-odigos-ich-poy-epese-se-gkremo/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα που είχε ως αποτέλεσμα τον θάνατο ενός οδηγού, που αποτελεί μία τραγική περίπτωση με σημαντικές κοινωνικές και ανθρώπινες συνέπειες.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g179fcaa3bbdbc1eb974ecaf408ccb268410f43b195e0d4eef2890350414216af914f0a10997a1a07b601997daaa940453c54b94484b7c5f2e76d83d230656c82_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T12:35:49.000Z"
+    },
+    {
+      "id": "f9eb40674faa",
+      "title": "Πέθανε η Μπριζίτ Μπαρντό",
+      "simpleTitle": "Πέθανε η Μπριζίτ Μπαρντό",
+      "simpleText": "Η Μπριζίτ Μπαρντό, μια διάσημη Γαλλίδα ηθοποιός, πέθανε σε ηλικία 91 ετών. Γεννήθηκε στο Παρίσι, στις 28 Σεπτεμβρίου 1934. Η καριέρα της στον κινηματογράφο άρχισε το 1952, αλλά έγινε γνωστή σε όλο τον κόσμο το 1956 με την ταινία «Και ο Θεός… Επλασε τη Γυναίκα», που σκηνοθέτησε ο Ροζέ Βαντίμ.\n\nΗ Μπαρντό ήταν σύμβολο του γαλλικού σινεμά και η επιρροή της δεν περιοριζόταν μόνο στον κινηματογράφο. Ασχολήθηκε επίσης με κοινωνικά θέματα και έγινε γνωστή για την υποστήριξή της σε διάφορες causes. Ο θάνατός της είναι σημαντικός, καθώς σηματοδοτεί την απώλεια μιας εμβληματικής προσωπικότητας του θεάτρου και της κοινωνίας.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/563997238/pethane-i-mprizit-mparnto/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563997238/pethane-i-mprizit-mparnto/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/28/world/pethane-i-mprizit-mparnto/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Ο θάνατος της Μπριζίτ Μπαρντό είναι ένα σοβαρό γεγονός που αφορά την απώλεια μιας εμβληματικής προσωπικότητας του κινηματογράφου και της κοινωνίας, αγγίζοντας θέματα πολιτιστικής κληρονομιάς και κοινωνικών ζητημάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T10:00:20.000Z"
+    },
+    {
+      "id": "bcc18e9d1c21",
+      "title": "Ουκρανικό: Το κρίσιμο τετ α τετ Τραμπ – Ζελένσκι και τα μηνύματα της Μόσχας",
+      "simpleTitle": "Ουκρανικό: Το κρίσιμο τετ α τετ Τραμπ – Ζελένσκι και τα μηνύματα της Μόσχας",
+      "simpleText": "Συνάντηση Τραμπ και Ζελένσκι για την Ουκρανία\n\nΣήμερα, στις 20:00 ώρα Ελλάδος, ο Βολοντίμιρ Ζελένσκι θα συναντήσει τον Ντόναλντ Τραμπ στη Φλόριντα. Αυτή η συνάντηση είναι σημαντική, γιατί προσπαθούν να λύσουν τις δυσκολίες που υπάρχουν στις συνομιλίες για τον πόλεμο στην Ουκρανία.\n\nΣτο τραπέζι θα συζητηθεί ένα σχέδιο ειρήνης που έχει 20 σημεία. Αυτό το σχέδιο δημιούργησαν από κοινού Αμερικανοί και Ουκρανοί. Ο Ζελένσκι θα φέρει και τις τελευταίες προτάσεις του για το θέμα των εδαφών, που είναι πολύ σημαντικό σε αυτή τη διαπραγμάτευση.\n\nΗ συνάντηση είναι κρίσιμη γιατί ελπίζουν να βρουν μια λύση για την ειρήνη στην Ουκρανία.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/563997211/oykraniko-to-krisimo-tet-a-tet-tramp-zelenski-kai-ta-minymata-tis-moschas/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563997211/oykraniko-to-krisimo-tet-a-tet-tramp-zelenski-kai-ta-minymata-tis-moschas/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/28/world/florinta-simera-to-krisimo-tet-a-tet-tramp-zelenski/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η συνάντηση Τραμπ και Ζελένσκι αφορά την επίλυση του πολέμου στην Ουκρανία, ένα σοβαρό πολιτικό και κοινωνικό ζήτημα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-28T07:58:02.000Z"
     },
     {
       "id": "3c371d410661",
       "title": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
       "simpleTitle": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
-      "simpleText": "Τίτλος: Οι μαθητές σήμερα και οι δουλειές του μέλλοντος\n\nΝέα μελέτη δείχνει ότι περισσότερα από τα μισά παιδιά που αρχίζουν το δημοτικό σχολείο τώρα, θα δουλέψουν σε επαγγέλματα που δεν υπάρχουν ακόμα. Αυτό ισχύει σύμφωνα με τα αποτελέσματα του World Futures Day 2025. Αυτή η αλλαγή δείχνει πόσο γρήγορα αλλάζει ο κόσμος της εργασίας.\n\nΕπιπλέον, πολλοί εργαζόμενοι εργάζονται σε θέσεις που δημιουργήθηκαν πρόσφατα. Είναι σημαντικό να αναφερθεί ότι οι εργοδότες πια δίνουν περισσότερη σημασία στις δεξιότητες ζωής, όπως η επικοινωνία και η συνεργασία, παρά στα παραδοσιακά πτυχία.\n\nΠολλοί νέοι νιώθουν ανασφάλεια για το μέλλον τους, επειδή δεν ξέρουν πώς θα είναι οι δουλειές που θα κληθούν να κάνουν. Οι εξελίξεις αυτές είναι σημαντικές γιατί επηρεάζουν την εκπαίδευση και την κατάρτιση των μαθητών σήμερα.",
+      "simpleText": "Σήμερα, οι μαθητές που ξεκινούν το δημοτικό σχολείο θα εργαστούν στο μέλλον σε επαγγέλματα που δεν έχουν ακόμα δημιουργηθεί. Αυτή η πληροφορία προέρχεται από μία μελέτη για το μέλλον της εργασίας. Ο κόσμος αλλάζει γρήγορα και οι επαγγελματικές επιλογές για τους μαθητές είναι πολύ διαφορετικές σε σχέση με το παρελθόν.\n\nΠολλοί εργάτες σήμερα έχουν θέσεις που δεν υπήρχαν πριν από λίγα χρόνια. Οι εργοδότες πλέον δίνουν περισσότερη σημασία στις προσωπικές δεξιότητες παρά στα τυπικά πτυχία. Αυτό έχει προκαλέσει ανησυχία στους νέους, που νιώθουν ότι δεν είναι έτοιμοι να αντιμετωπίσουν τις προκλήσεις του μέλλοντος.\n\nΑυτή η κατάσταση είναι σημαντική γιατί δείχνει την ανάγκη για προσαρμογή στην εκπαίδευση και στον τρόπο που προετοιμάζονται οι νέοι για την αγορά εργασίας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30551-mathites-kai-epaggelmata-tou-mellontos/",
       "sourceDomains": [
@@ -387,7 +346,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Αυτή η είδηση σχετίζεται με σοβαρά θέματα εκπαίδευσης και επαγγελματικής εξέλιξης, αναφέροντας τις προκλήσεις και τις αλλαγές στην αγορά εργασίας, που επηρεάζουν το μέλλον των μαθητών.",
+      "categoryReason": "Η είδηση αφορά τις αλλαγές στην αγορά εργασίας και την προετοιμασία των μαθητών για μελλοντικές επαγγελματικές προκλήσεις, θέματα που εντάσσονται σε σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -397,7 +356,7 @@
       "id": "b614a8010620",
       "title": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
       "simpleTitle": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
-      "simpleText": "Η Νότια Κορέα καθορίζει κανόνες για τις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη.\n\nΗ κυβέρνηση της Νότιας Κορέας ανακοινώνει νέα μέτρα για να προστατεύσει τους καταναλωτές. Από το επόμενο έτος, όλες οι διαφημίσεις που δημιουργούνται με τεχνητή νοημοσύνη θα πρέπει να έχουν ειδική σήμανση. Αυτό σημαίνει ότι οι άνθρωποι θα ξέρουν πότε βλέπουν μια διαφήμιση που δεν είναι αληθινή.\n\nΟ λόγος για αυτή την απόφαση είναι η αύξηση των παραπλανητικών διαφημίσεων. Αυτές οι διαφημίσεις συχνά δείχνουν ψεύτικους ειδικούς ή άτομα που δεν έχουν πραγματικά συμμετάσχει. Για παράδειγμα, μερικές φορές χρησιμοποιούν γνωστούς με παραποιημένες εικόνες για να προωθήσουν διάφορα προϊόντα. Είναι σημαντικό να υπάρχει σαφήνεια, ώστε οι καταναλωτές να μπορούν να κάνουν σωστές επιλογές.",
+      "simpleText": "Η Νότια Κορέα θέλει να προστατεύσει τους καταναλωτές με νέους κανόνες για τις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη (AI). Από του χρόνου, όλες οι διαφημίσεις που δημιουργούνται με AI θα πρέπει να έχουν ειδική σήμανση. Αυτό σημαίνει ότι οι καταναλωτές θα ξέρουν ποια διαφήμιση είναι αληθινή και ποια όχι.\n\nΗ απόφαση αυτή προέρχεται από την ανησυχία για τις ψευδείς διαφημίσεις, που συχνά δείχνουν ψεύτικους ειδικούς ή επεξεργασμένα βίντεο διάσημων προσώπων που διαφημίζουν διάφορα προϊόντα, όπως φάρμακα και καλλυντικά. Είναι σημαντικό αυτό το μέτρο, γιατί θα βοηθήσει τους ανθρώπους να κάνουν καλύτερες επιλογές και να μην παραπλανώνται.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30395-notia-korea-ai-diafimisis-prostasia-katanaloton/",
       "sourceDomains": [
@@ -410,7 +369,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά νέα νομοθεσία που αποσκοπεί στην προστασία των καταναλωτών από παραπλανητικές διαφημίσεις, κάτι που συνδέεται με σοβαρά ζητήματα δικαιωμάτων και ηθικής στη χρήση τεχνητής νοημοσύνης.",
+      "categoryReason": "Η είδηση αφορά σημαντικές ρυθμίσεις για την προστασία των καταναλωτών από παραπλανητικές διαφημίσεις με τη χρήση τεχνητής νοημοσύνης, άρα έχει σοβαρό κοινωνικό και νομικό αντίκτυπο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -420,7 +379,7 @@
       "id": "e68355ef1eca",
       "title": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
       "simpleTitle": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
-      "simpleText": "Οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου απορρίφθηκαν. Η Ναμίμπια ζήτησε να αρθεί η διεθνής απαγόρευση στο εμπόριο κεράτων μαύρου και λευκού ρινόκερου. Αυτή η απόφαση έγινε σε μια σημαντική συνεδρίαση για την προστασία της άγριας ζωής. Η συνάντηση πραγματοποιήθηκε στη Σαμαρκάνδη του Ουζμπεκιστάν.\n\nΕπιπλέον, απορρίφθηκε και η πρόταση της Ναμίμπια για το εμπόριο ελεφαντόδοντου από αφρικανικούς ελέφαντες σαβάνας. Αυτές οι αποφάσεις δείχνουν τη σταθερή στάση της διεθνούς κοινότητας απέναντι στην προστασία των απειλούμενων ειδών. Είναι σημαντικό γιατί οι ρινόκεροι και οι ελέφαντες απειλούνται και η προστασία τους χρειάζεται τη στήριξη όλων των χωρών.",
+      "simpleText": "Τίτλος: Απορρίφθηκαν οι προτάσεις από τη Ναμίμπια για το εμπόριο κεράτων ρινόκερου\n\nΗ Ναμίμπια είχε προτείνει να επιτραπεί το εμπόριο κεράτων από ρινόκερους. Αυτές οι προτάσεις απορρίφθηκαν πρόσφατα. Η απόφαση ελήφθη σε μια σημαντική συνάντηση για την προστασία της φύσης. Αυτή η συνάντηση έγινε στη Σαμαρκάνδη, στο Ουζμπεκιστάν.\n\nΕπιπλέον, απορρίφθηκε και μια άλλη πρόταση της Ναμίμπια για το εμπόριο ελεφαντόδοντου από αφρικανικούς ελέφαντες σαβάνας. Αυτές οι αποφάσεις δείχνουν την αποφασιστικότητα της διεθνούς κοινότητας να προστατεύσει τα απειλούμενα ζώα. Είναι σημαντικό να διατηρήσουμε τα είδη αυτά και το οικοσύστημα τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30398-namimpia-aporripsi-emporiou-keraton-rinokerou/",
       "sourceDomains": [
@@ -433,7 +392,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απόφαση της διεθνούς κοινότητας για την προστασία απειλούμενων ειδών, όπως οι ρινόκεροι και οι ελέφαντες, και θίγει ουσιαστικά ζητήματα σχετικά με τη διατήρηση της άγριας ζωής.",
+      "categoryReason": "Η είδηση αφορά τις αποφάσεις που ελήφθησαν σχετικά με την προστασία των απειλούμενων ειδών, όπως οι ρινόκεροι και οι ελέφαντες, τα οποία σχετίζονται με σοβαρά περιβαλλοντικά και κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -443,7 +402,7 @@
       "id": "ebc0c248c17d",
       "title": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
       "simpleTitle": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
-      "simpleText": "Τίτλος: Η Πολωνία σταματά την εκτροφή ζώων για γούνα\n\nΗ Πολωνία αποφάσισε να απαγορεύσει την εκτροφή ζώων για γούνα. Αυτό συνέβη πρόσφατα, όταν ο πρόεδρος της χώρας, Καρόλ Ναβρότσκι, υπέγραψε νέο νόμο. Με αυτή την απόφαση, η Πολωνία γίνεται η 18η χώρα της Ευρωπαϊκής Ένωσης που παίρνει αυτή την απόφαση.\n\nΑυτή η απαγόρευση είναι σημαντική, καθώς η Πολωνία ήταν η μεγαλύτερη παραγωγός γούνας στην Ευρώπη. Ετησίως, εκατομμύρια ζώα όπως μινκ, αλεπούδες, ρακούν και τσιντσιλά, θανατώνονταν για το τρίχωμά τους. Η απόφαση αυτή στέλνει ένα μήνυμα υπέρ της προστασίας των ζώων και της ηθικής μεταχείρισής τους.",
+      "simpleText": "Η Πολωνία απαγόρευσε την εκτροφή ζώων για γούνα. Αυτό είναι ένα σημαντικό βήμα για τα δικαιώματα των ζώων στη χώρα.\n\nΗ απόφαση ελήφθη πρόσφατα με την υπογραφή του Πρόεδρου Καρόλ Ναβρότσκι. Η Πολωνία είναι τώρα η 18η χώρα στην Ευρωπαϊκή Ένωση που προχωρεί σε αυτή την απαγόρευση. Μέχρι τώρα, η Πολωνία ήταν η μεγαλύτερη παραγωγός γούνας στην Ευρώπη και δεύτερη στον κόσμο, μετά την Κίνα. Κάθε χρόνο, εκατομμύρια ζώα όπως μινκ και αλεπούδες θανατώνονταν για το τρίχωμά τους.\n\nΗ απαγόρευση αυτή δείχνει τη στήριξη για την προστασία των ζώων και την ηθική μεταχείρισή τους. Είναι ένα βήμα που μπορεί να επηρεάσει τη στάση άλλων χωρών και να προάγει καλύτερες συνθήκες για τα ζώα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30403-polonia-apagorevei-gouna-kai-prostasia-zoon/",
       "sourceDomains": [
@@ -456,7 +415,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η απόφαση της Πολωνίας να απαγορεύσει την εκτροφή ζώων για γούνα αφορά σοβαρά θέματα δικαιωμάτων των ζώων και ηθικής μεταχείρισης, επομένως εντάσσεται στις σοβαρές ειδήσεις.",
+      "categoryReason": "Η είδηση αφορά την απαγόρευση της εκτροφής ζώων για γούνα στην Πολωνία, η οποία είναι ένα σημαντικό βήμα για τα δικαιώματα των ζώων και ένα σοβαρό κοινωνικό ζήτημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -466,7 +425,7 @@
       "id": "550687067d79",
       "title": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
       "simpleTitle": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
-      "simpleText": "Τίτλος: Οι φάλαινες επιστρέφουν στον Καναδά\n\nΣτον Ατλαντικό Ωκεανό, οι βόρειες ρυγχοφάλαινες, ένα είδος φάλαινας που είναι απειλούμενο, δείχνουν σημάδια ανάκαμψης. Αυτό συμβαίνει στον Καναδά, λόγω της δουλειάς και των προσπαθειών για τη θαλάσσια προστασία τα τελευταία χρόνια. Οι βόρειες ρυγχοφάλαινες μοιάζουν με μεγάλα δελφίνια και ζουν σε συγκεκριμένες περιοχές του ωκεανού, σε βαθιά μέρη.\n\nΙστορικά, αυτές οι φάλαινες αντιμετώπισαν πολλές δυσκολίες εξαιτίας της φαλαινοθηρίας, δηλαδή του κυνηγιού τους, που μείωσε τον πληθυσμό τους. Αν και οι απαγορεύσεις στη φαλαινοθηρία βοήθησαν, η κατάσταση παραμένει δύσκολη. Οι χαμηλοί ρυθμοί αναπαραγωγής και οι κίνδυνοι από πλοία και αλιευτικά δίχτυα είναι ακόμα σοβαρές απειλές.\n\nΗ είδηση αυτή είναι σημαντική διότι δείχνει ότι οι προσπάθειες για τη διατήρηση των θαλάσσιων ειδών μπορούν να έχουν θετικά αποτελέσματα.",
+      "simpleText": "Τίτλος: Η επιστροφή των φαλαινών στον Καναδά\n\nΜία ομάδα βόρειων ρυγχοφαλαινών στον Ατλαντικό, που είναι απειλούμενη, αρχίζει να ανακάμπτει στον Καναδά. Αυτό συμβαίνει μετά από πολλές δεκαετίες προσπαθειών για θαλάσσια προστασία. Οι βόρειες ρυγχοφάλαινες μοιάζουν με μεγάλα δελφίνια και είναι γνωστές για την περιέργεια τους. Ζουν σε σταθερές περιοχές πάνω από υποθαλάσσια φαράγγια.\n\nΣτο παρελθόν, ο πληθυσμός τους μειώθηκε λόγω της φαλαινοθηρίας, δηλαδή του κυνηγιού φαλαινών για το κρέας και το λάδι τους. Αν και οι απαγορεύσεις στη φαλαινοθηρία βοήθησαν, οι φάλαινες έχουν ακόμα προκλήσεις. Οι ρυθμοί αναπαραγωγής τους είναι χαμηλοί και κινδυνεύουν από συγκρούσεις με πλοία και ακατάλληλα αλιευτικά δίχτυα.\n\nΗ είδηση αυτή είναι σημαντική γιατί δείχνει πως η προστασία του ωκεανού μπορεί να βοηθήσει στην ανάκαμψη απειλούμενων ειδών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/",
       "sourceDomains": [
@@ -479,7 +438,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με τη θαλάσσια προστασία και την αποκατάσταση ενός απειλούμενου είδους φάλαινας, που είναι σοβαρό κοινωνικό και περιβαλλοντικό ζήτημα.",
+      "categoryReason": "Η είδηση αφορά την ανάκαμψη της απειλούμενης ομάδας βόρειων ρυγχοφαλαινών, που συνδέεται με σοβαρά ζητήματα θαλάσσιας προστασίας, περιβάλλοντος και βιοποικιλότητας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -489,7 +448,7 @@
       "id": "3d553240411d",
       "title": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
       "simpleTitle": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
-      "simpleText": "Τίτλος: Ένας κήπος στο σχολείο μαθαίνει στα παιδιά για τη φύση\n\nΗ αδελφή Sharon Dillon επισκέφτηκε το σχολείο Heritage Middle School πριν από μερικά χρόνια. Τότε, ο εξωτερικός χώρος του σχολείου δεν είχε καμία ζωή. Σήμερα, όμως, ο σχολικός κήπος έχει μετατραπεί σε ένα ενδιαφέρον μέρος όπου τα παιδιά μαθαίνουν για τη φύση και την καλλιέργεια.\n\nΣτον κήπο, υπάρχουν παρτέρια γεμάτα λαχανικά, μυρωδικά και λουλούδια. Τα παιδιά συμμετέχουν ενεργά σε όλες τις διαδικασίες, από το φύτεμα μέχρι τη συγκομιδή των προϊόντων. Αυτός ο κήπος δεν είναι μόνο ένα όμορφο μέρος, αλλά είναι και μέρος της καθημερινής εκπαίδευσης των μαθητών. Είναι σημαντικό γιατί τους δίνει την ευκαιρία να μάθουν πώς μεγαλώνει η ζωή.",
+      "simpleText": "Τίτλος: Ένας κήπος στο σχολείο διδάσκει στα παιδιά πώς μεγαλώνει η ζωή\n\nΣτο Heritage Middle School, έχει δημιουργηθεί ένας σχολικός κήπος. Όταν η αδελφή Sharon Dillon ήρθε στο σχολείο, ο χώρος έξω ήταν άδειος. Τώρα, ο κήπος είναι γεμάτος από λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στο να φτιάξουν και να φροντίσουν τον κήπο. Μαθαίνουν πώς να φυτεύουν και να συγκομίζουν τα προϊόντα. Αυτός ο κήπος είναι σημαντικός γιατί δίνει στα παιδιά την ευκαιρία να μάθουν για τη φύση, την παραγωγή τροφής και την ομαδική εργασία. Είναι μέρος της καθημερινής τους εκπαίδευσης και τους φέρνει πιο κοντά στη ζωή της φύσης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30391-kipos-astiki-kalliergeia-paidia-scholeio/",
       "sourceDomains": [
@@ -502,7 +461,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία αναδεικνύει τη θετική επίδραση του σχολικού κήπου στην εκπαίδευση και την ανάπτυξη των παιδιών, δείχνοντάς τους πώς μεγαλώνει η ζωή μέσα από τη συμμετοχή τους στη φύση.",
+      "categoryReason": "Η είδηση αφορά τη δημιουργία ενός σχολικού κήπου που ενισχύει τη μάθηση και την ευημερία των παιδιών, προσφέροντας θετικές εμπειρίες και χαρά μέσω της επαφής τους με τη φύση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -512,7 +471,7 @@
       "id": "4e32e5977ae6",
       "title": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
       "simpleTitle": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
-      "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης σταματά τη χρήση γούνων\n\nΗ Εβδομάδα Μόδας στη Νέα Υόρκη αποφάσισε να μην χρησιμοποιεί γούνες σε καμία εκδήλωση από το Σεπτέμβριο του 2026. Αυτή η απόφαση προήλθε από το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής. Η νέα πολιτική δείχνει πως η βιομηχανία της μόδας θέλει να προάγει τα δικαιώματα των ζώων. Δεν θα υπάρξουν γούνες ούτε στις επίσημες εκδηλώσεις ούτε στα ψηφιακά κανάλια του Συμβουλίου. Αυτή η αλλαγή είναι σημαντική γιατί στέλνει ένα μήνυμα κατά της κακοποίησης των ζώων.",
+      "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης λέει «όχι» στις γούνες\n\nΗ Εβδομάδα Μόδας στη Νέα Υόρκη αλλάζει τις κανόνες της. Το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής αποφάσισε να σταματήσει την προώθηση γούνων. Αυτό σημαίνει ότι από τον Σεπτέμβριο του 2026, στις επίσημες εκδηλώσεις και στα ψηφιακά κανάλια τους, δεν θα υπάρχουν γούνες.\n\nΑυτή η απόφαση είναι σημαντική γιατί δείχνει ότι η βιομηχανία της μόδας θέλει να προστατεύσει τα δικαιώματα των ζώων. Το μήνυμα είναι δυνατό: η μόδα που προκαλεί πόνο στους ζώων δεν είναι αποδεκτή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30409-nea-yorki-evdomada-modas-xoris-gounes/",
       "sourceDomains": [
@@ -525,7 +484,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά την Εβδομάδα Μόδας της Νέας Υόρκης και την πολιτική της για τα δικαιώματα των ζώων, που σχετίζεται με την πολιτιστική βιομηχανία της μόδας.",
+      "categoryReason": "Η είδηση αφορά στην Εβδομάδα Μόδας της Νέας Υόρκης και τη σημαντική απόφαση για την απαγόρευση γούνων, που σχετίζεται με θέματα μόδας και πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -535,7 +494,7 @@
       "id": "c82a2758c7a6",
       "title": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
       "simpleTitle": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
-      "simpleText": "Ο Αντρέ Ριέ συγκίνησε το κοινό με ελληνικά κάλαντα στο Μάαστριχτ\n\nΟ Αντρέ Ριέ, γνωστός μουσικός, παρουσίασε μια όμορφη χριστουγεννιάτικη συναυλία στο Μάαστριχτ της Ολλανδίας. Στη βραδιά αυτή, ερμήνευσε τα ελληνικά κάλαντα, προσθέτοντας μια ζεστή αίσθηση από την Ελλάδα. Η Ελληνίδα σοπράνο Χριστίνα Πέτρου έδωσε τη φωνή της σε αυτή την ερμηνεία. Το κοινό την αποθέωσε με χειροκροτήματα, ενώ το βίντεο από την εμφάνιση συγκέντρωσε πολλές προβολές στα μέσα κοινωνικής δικτύωσης. Αυτή η στιγμή είναι σημαντική γιατί συνδυάζει τη μουσική παράδοση της Ελλάδας με τη γιορτή των Χριστουγέννων στην Ευρώπη.",
+      "simpleText": "Τίτλος: Ο Αντρέ Ριέ συγκίνησε το κοινό με ελληνικά κάλαντα στο Μάαστριχτ\n\nΣτην ετήσια χριστουγεννιάτικη συναυλία του στο Μάαστριχτ της Ολλανδίας, ο μουσικός Αντρέ Ριέ παρουσίασε ένα ιδιαίτερο πρόγραμμα. Κατά τη διάρκεια της συναυλίας, η Ελληνίδα σοπράνο Χριστίνα Πέτρου ερμήνευσε ελληνικά κάλαντα, κάτι που συγκίνησε το κοινό. Αυτή η στιγμή πρόσφερε μια ζεστή ατμόσφαιρα και έφερε κομμάτι της ελληνικής παράδοσης στην Ευρώπη. Η ερμηνεία της Πέτρου έλαβε θετικά σχόλια, και το βίντεο από την εμφάνιση συγκέντρωσε πολλές προβολές σε κοινωνικά δίκτυα. Αυτό το γεγονός είναι σημαντικό, καθώς αναδεικνύει την ελληνική μουσική παράδοση σε ένα διεθνές κοινό.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30481-andre-rie-ellinika-kalanta-xristina-petrou/",
       "sourceDomains": [
@@ -548,7 +507,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια μουσική εκδήλωση που συνδυάζει ελληνική παράδοση και χριστουγεννιάτικη γιορτή, οπότε ανήκει στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Η είδηση αφορά μια μουσική εκδήλωση με ελληνικά κάλαντα, που αναδεικνύει την ελληνική κουλτούρα και παράδοση σε διεθνές επίπεδο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -558,7 +517,7 @@
       "id": "0302270e1a79",
       "title": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
       "simpleTitle": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
-      "simpleText": "Τίτλος: Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Μουσικό Ταξίδι\n\nΣτις 29 και 30 Δεκεμβρίου, το Μέγαρο Μουσικής διοργανώνει ένα εορταστικό γκαλά. Αυτή είναι μια εκδήλωση που προσκαλεί τους ανθρώπους σε ένα μουσικό ταξίδι γεμάτο χαρά.\n\nΣτην αίθουσα του Μεγάρου, οι επισκέπτες θα απολαύσουν ήχους και εικόνες που προέρχονται από διαφορετικούς πολιτισμούς. Για δύο βραδιές, η μουσική θα ενώνει τον κόσμο, προσφέροντας μια εμπειρία που συνδυάζει την κλασική μουσική με τη σύγχρονη αισθητική.\n\nΑυτό το γκαλά είναι σημαντικό γιατί δίνει τη δυνατότητα στους ανθρώπους να βιώσουν τη μαγεία της μουσικής και να θυμηθούν τις όμορφες στιγμές πριν από την αλλαγή του χρόνου.",
+      "simpleText": "Τίτλος: Γιορτινό Γκαλά στο Μέγαρο Μουσικής\n\nΤο Εορταστικό Γκαλά θα γίνει στο Μέγαρο Μουσικής στις 29 και 30 Δεκεμβρίου. Είναι μια εκδήλωση με μουσική και εικόνες που έχει στόχο να γιορτάσει την έλευση του νέου χρόνου. Η εκδήλωση προσκαλεί τους θεατές σε ένα ταξίδι σε διαφορετικούς πολιτισμούς, με τη βοήθεια της μουσικής.\n\nΟι συμμετέχοντες μπορούν να απολαύσουν ένα πρόγραμμα που συνδυάζει κλασική μουσική με σύγχρονες ιδέες. Είναι μια ευκαιρία να γνωρίσουν διαφορετικές πολιτιστικές επιρροές και να βιώσουν συναισθήματα χαράς. Είναι σημαντικό γιατί ενώνει τους ανθρώπους μέσα από τη μουσική, σε μια εποχή που συχνά γιορτάζουμε μαζί.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30440-eortastiko-gala-megaro-mousikis-taxidi-me-ti-fantasia/",
       "sourceDomains": [
@@ -571,7 +530,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η εκδήλωση αφορά μουσική και πολιτιστικές εμπειρίες που συνδυάζουν διαφορετικούς πολιτισμούς, κάνοντάς την καταλληλότερη για την κατηγορία του πολιτισμού.",
+      "categoryReason": "Η εκδήλωση περιλαμβάνει μουσική και πολιτιστικές επιρροές, εστιάζοντας σε μια γιορτινή μουσική εμπειρία που ενώνει διαφορετικούς πολιτισμούς.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -581,7 +540,7 @@
       "id": "89ffdb155ea3",
       "title": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
       "simpleTitle": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
-      "simpleText": "Το Βρετανικό Μουσείο ανακοινώνει ένα νέο σχέδιο για την επαναφορά ελληνικών και αιγυπτιακών αρχαιοτήτων. Αυτό γίνεται μέσω δανεισμού αυτών των παρακάτω έργων. Στην Ινδία, έχουν μεταφερθεί περίπου 80 αρχαιότητες, οι οποίες θα εκτίθενται εκεί για τρία χρόνια. Αυτή η κίνηση προκαλεί συζητήσεις σε σχέση με την πολιτιστική συνεργασία και τις διεκδικήσεις που υπάρχουν για τις αρχαιότητες. Το ζήτημα της διαχείρισής τους, ειδικά για τις ελληνικές, παραμένει ανοιχτό και σημαντικό.",
+      "simpleText": "Το Βρετανικό Μουσείο επαναφέρει ένα παλιό θέμα: τη διαχείριση των ελληνικών αρχαιοτήτων. Αυτό συμβαίνει μέσα από ένα νέο σχέδιο δανεισμών που έχει προκαλέσει συζητήσεις.\n\nΠρόσφατα, περίπου 80 ελληνικές και αιγυπτιακές αρχαιότητες στάλθηκαν στην Ινδία. Εκεί θα εκτεθούν για τρία χρόνια. Το μουσείο το προβάλλει ως μια καινοτόμο μορφή συνεργασίας.\n\nΑυτή η πρωτοβουλία είναι σημαντική, διότι αναδεικνύει τις σχέσεις μεταξύ χωρών και τις διεκδικήσεις που υπάρχουν γύρω από τα πολιτιστικά μνημεία. Προς το παρόν, δεν υπάρχουν πληροφορίες για τις αντιδράσεις που έχει προκαλέσει αυτή η κίνηση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30442-vretaniko-mouseio-ellinikes-arxaiotites/",
       "sourceDomains": [
@@ -594,40 +553,40 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά πολιτιστικές συνεργασίες και διεκδικήσεις σχετικά με τις ελληνικές και αιγυπτιακές αρχαιότητες, γεγονός που ταιριάζει στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Η είδηση αφορά πολιτιστικές διεκδικήσεις και τη διαχείριση αρχαιοτήτων, επικεντρωμένη στις σχέσεις πολιτισμού μεταξύ χωρών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2025-12-19T11:25:00.000Z"
     },
     {
-      "id": "785b9fc740b5",
-      "title": "ΗΠΑ: H εταιρεία που χαρίζει ταξίδια και αυτοκίνητα στους κορυφαίους εργαζομένους κάθε χρόνο",
-      "simpleTitle": "ΗΠΑ: H εταιρεία που χαρίζει ταξίδια και αυτοκίνητα στους κορυφαίους εργαζομένους κάθε χρόνο",
-      "simpleText": "Μια εταιρεία στην Αμερική δίνει δώρα στους καλύτερους εργαζομένους της κάθε χρόνο. Αυτά τα δώρα περιλαμβάνουν ταξίδια και αυτοκίνητα. Η εταιρεία αυτή ασχολείται με την κυβερνοασφάλεια και έχει έδρα το Ορλάντο. Έχει περίπου 700 εργαζομένους.\n\nΑυτή η πρωτοβουλία δείχνει την αναγνώριση της δουλειάς και της προσπάθειας των εργαζομένων. Είναι σημαντικό γιατί βοηθά στην ενίσχυση της ηθικής και της ικανοποίησης στην εργασία. Οι συγκεκριμένες λεπτομέρειες για τα ταξίδια και τα αυτοκίνητα δεν είναι γνωστές.",
-      "sourceName": "Kathimerini",
-      "sourceUrl": "https://www.kathimerini.gr/economy/international/563997073/ipa-h-etaireia-poy-charizei-taxidia-kai-aytokinita-stoys-koryfaioys-ergazomenoys-kathe-chrono/",
+      "id": "6882219add6f",
+      "title": "Πρωτοβουλία αλληλεγγύης της ΕΡΤ Πύργου: Εδέσματα και παιχνίδια σε πολύτεκνες οικογένειες",
+      "simpleTitle": "Πρωτοβουλία αλληλεγγύης της ΕΡΤ Πύργου: Εδέσματα και παιχνίδια σε πολύτεκνες οικογένειες",
+      "simpleText": "Η ΕΡΤ Πύργου διοργάνωσε μια δράση στήριξης για πολύτεκνες οικογένειες. Αυτή η πρωτοβουλία πραγματοποιήθηκε κατά τη διάρκεια των εορτών. Στη δράση συμμετείχαν εργαζόμενοι της ΕΡΤ Πύργου και συνεργάστηκαν με την Αντικαρκινική Εταιρεία στην Ηλεία και άλλους φορείς.\n\nΣκοπός της πρωτοβουλίας ήταν να προσφέρουν τρόφιμα και παιχνίδια σε παιδιά. Περισσότερες από 100 οικογένειες που βρίσκονται σε δύσκολη κατάσταση έλαβαν προϊόντα και δώρα. Αυτή η δράση είναι σημαντική γιατί βοηθάει να ανακουφίσει τις ανάγκες των ευάλωτων οικογενειών.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/ert3/protovoulia-allileggyis-tis-ert-pyrgou-edesmata-kai-paixnidia-se-polyteknes-oikogeneies/",
       "sourceDomains": [
-        "kathimerini.gr"
+        "ertnews.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/international/563997073/ipa-h-etaireia-poy-charizei-taxidia-kai-aytokinita-stoys-koryfaioys-ergazomenoys-kathe-chrono/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/ert3/protovoulia-allileggyis-tis-ert-pyrgou-edesmata-kai-paixnidia-se-polyteknes-oikogeneies/"
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά την αναγνώριση και επιβράβευση των εργαζομένων, προσφέροντάς τους δώρα όπως ταξίδια και αυτοκίνητα, κάτι που δημιουργεί θετική διάθεση και ικανοποίηση στην εργασία. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρει μια θετική πρωτοβουλία που προσφέρει βοήθεια και χαρά σε πολύτεκνες οικογένειες, εστιάζοντας στην αλληλεγγύη και την υποστήριξη κατά την περίοδο των εορτών. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2025-12-27T21:56:00.000Z"
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2025/ert3/themata-ert3/12/28-12-59-ert-pirgou.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2025/12/28-12-59-ert-pirgou_2.jpg",
+      "publishedAt": "2025-12-28T14:40:00.000Z"
     },
     {
       "id": "5438153d916f",
       "title": "Τσέλσι – Άστον Βίλα 1-2: Ανατροπή και -3 από την κορυφή",
       "simpleTitle": "Τσέλσι – Άστον Βίλα 1-2: Ανατροπή και -3 από την κορυφή",
-      "simpleText": "Η Τσέλσι έχασε από την Άστον Βίλα με σκορ 1-2. Ο αγώνας έγινε στο Στάμφορντ Μπριτζ, το γήπεδο της Τσέλσι.\n\nΗ Άστον Βίλα κατάφερε να κερδίσει παρόλο που ήταν πίσω στο σκορ. Αυτή η νίκη είναι σημαντική γιατί η Άστον Βίλα συνεχίζει τις καλές εμφανίσεις της στην Premier League, τη μεγαλύτερη ποδοσφαιρική κατηγορία στην Αγγλία.\n\nΜε αυτή την ήττα, η Τσέλσι βρίσκεται τώρα τρεις πόντους μακριά από την κορυφή της βαθμολογίας.",
+      "simpleText": "Η Άστον Βίλα κέρδισε την Τσέλσι με 2-1 στο γήπεδο Στάμφορντ Μπριτζ. Αυτό συνέβη σε έναν αγώνα της Premier League. Η Άστον Βίλα έκανε την ανατροπή, καθώς έχανε αρχικά. Με αυτή τη νίκη, η Άστον Βίλα παραμένει σε καλή φόρμα στη διοργάνωση.\n\nΗ νίκη αυτή είναι σημαντική για την Άστον Βίλα, γιατί την φέρνει πιο κοντά στην κορυφή του πίνακα. Αντίθετα, η Τσέλσι, με την ήττα αυτή, απομακρύνεται από την πρώτη θέση.",
       "sourceName": "TO BHMA",
       "sourceUrl": "https://www.tovima.gr/2025/12/27/sports/tselsi-aston-vila-1-2-anatropi-kai-3-apo-tin-koryfi/",
       "sourceDomains": [
@@ -640,7 +599,7 @@
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τον αγώνα ποδοσφαίρου μεταξύ Τσέλσι και Άστον Βίλα, με ανατροπή στο σκορ και επίδραση στην κατάταξη της Premier League. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου μεταξύ Τσέλσι και Άστον Βίλα, που είναι σημαντική για την Premier League. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -650,12 +609,167 @@
   "articlesByCategory": {
     "serious": [
       {
-        "id": "08f3715e18bb",
-        "title": "Βρετανία: Συμφωνία για επιστροφές παράτυπων μεταναστών με Ανγκόλα και Ναμίμπια",
-        "simpleTitle": "Βρετανία: Συμφωνία για επιστροφές παράτυπων μεταναστών με Ανγκόλα και Ναμίμπια",
-        "simpleText": "Βρετανία: Συμφωνία με Ανγκόλα και Ναμίμπια για επιστροφή μεταναστών\n\nΗ Βρετανία έκανε συμφωνία με τις χώρες Ανγκόλα και Ναμίμπια. Αυτές οι χώρες θα δέχονται πίσω παράτυπους μετανάστες και πολίτες τους που έχουν ποινικό μητρώο. Η συμφωνία ήρθε μετά από απειλές από τη Βρετανία, ότι θα επιβάλει τιμωρίες στις χώρες που δεν συνεργάζονται.\n\nΗ βρετανική υπουργός Εσωτερικών ανέφερε ότι περιμένει από κάθε χώρα να ακολουθεί τους κανόνες. Αν κάποιος πολίτης μιας χώρας δεν έχει δικαίωμα να μείνει στη Βρετανία, τότε η χώρα του πρέπει να τον δεχτεί πίσω.\n\nΑυτές οι συμφωνίες είναι μέρος των αλλαγών που ανακοίνωσε η βρετανική κυβέρνηση για να γίνουν πιο γρήγορες οι απελάσεις παράτυπων μεταναστών. Από τον Ιούλιο της περασμένης χρονιάς, η Βρετανία έχει απελάσει πάνω από 50.000 μετανάστες. Η κυβέρνηση θέλει να δώσει προτεραιότητα στην επιστροφή των μεταναστών στις χώρες τους.",
+        "id": "c4be0d06cb3d",
+        "title": "Ισπανία: Καταρρακτώδεις βροχές και πλημμύρες κοντά στη Μάλαγα, στα νότια της χώρας",
+        "simpleTitle": "Ισπανία: Καταρρακτώδεις βροχές και πλημμύρες κοντά στη Μάλαγα, στα νότια της χώρας",
+        "simpleText": "Τίτλος: Ισπανία: Έντονες βροχές και πλημμύρες κοντά στη Μάλαγα\n\nΣυνοπτικά, κατά τη διάρκεια του Σαββάτου προς Κυριακή, σημειώθηκαν πολύ δυνατές βροχές κοντά στη Μάλαγα, μία περιοχή στο νότο της Ισπανίας. Αυτές οι βροχές προκάλεσαν πλημμύρες και μεγάλες ζημιές σε χωριά της περιοχής. Ευτυχώς, μέχρι στιγμής δεν έχουν αναφερθεί θύματα.\n\nΟι υπηρεσίες έκτακτης ανάγκης εργάζονται σκληρά για να καθαρίσουν τους δρόμους. Οι αρχές έχουν αναφέρει 339 περιστατικά που σχετίζονται με τις πλημμύρες, αλλά δεν είναι σοβαρά. Η Ισπανία πλήττεται συχνά από ακραία καιρικά φαινόμενα, που σχετίζονται με την κλιματική αλλαγή.\n\nΗ εθνική μετεωρολογική υπηρεσία έχει μειώσει το επίπεδο προειδοποίησης, αλλά σε άλλες περιοχές, όπως η Μούρθια και η Βαλένθια, υπάρχει ακόμη κίνδυνος ζημιών. Το γεγονός αυτό είναι σημαντικό, καθώς δείχνει την ανάγκη για προετοιμασία και πρόληψη σε περιπτώσεις φυσικών καταστροφών.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga-sta-notia-tis-xoras/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga-sta-notia-tis-xoras/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/563997355/ispania-katarraktodeis-vroches-konta-sti-malaga-plimmyrisan-choria-vinteo/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/28/world/ispania-katarraktodeis-vroxes-kai-plimmyres-konta-sti-malaga/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές συνέπειες λόγω έντονων καιρικών φαινομένων και πλημμυρών στην Ισπανία, άμεσα συνδεδεμένων με ζητήματα κλιματικής αλλαγής.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2025/12/afp-tv-20251228-dis-esp-climate-changeclimate-896f6we-en-online-video-cutter-com.mp4",
+        "publishedAt": "2025-12-28T15:15:12.000Z"
+      },
+      {
+        "id": "148d8483bfa5",
+        "title": "Ταύρος: Ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών",
+        "simpleTitle": "Ταύρος: Ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών",
+        "simpleText": "Σύντομη περίληψη είδησης:\n\nΕισβολή σε πρακτορείο τυχερών παιχνιδιών στον Ταύρο\n\nΤο πρωί της Κυριακής, 28 Δεκεμβρίου, συνέβη μια ένοπλη ληστεία σε πρακτορείο τυχερών παιχνιδιών στην οδό Παλαιολόγου στον Ταύρο. Περίπου στις 11:00, ένας άνδρας με καλυμμένα χαρακτηριστικά μπήκε στο κατάστημα. Χρησιμοποιώντας ένα μαχαίρι, τραυμάτισε στο χέρι μια 29χρονη υπάλληλο και την έκλεισε σε γραφείο. Αφαίρεσε περίπου 10.000 ευρώ και στη συνέχεια έφυγε. Αυτή τη στιγμή, η Αστυνομία διεξάγει έρευνες για να βρει τον δράστη, εξετάζοντας επίσης πλάνα από κάμερες ασφαλείας. Είναι σημαντικό να εντοπιστεί αυτό το άτομο για να διασφαλιστεί η ασφάλεια στην περιοχή.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/tayros-enopli-listeia-se-praktoreio-tyxeron-paixnidion/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/tayros-enopli-listeia-se-praktoreio-tyxeron-paixnidion/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/563997349/tayros-enopli-listeia-se-praktoreio-tycheron-paichnidion-traymatistike-ypallilos/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/28/greece/enopli-listeia-se-praktoreio-tyxeron-paixnidion-ston-tayro-traymatistike-ypallilos/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε μια ένοπλη ληστεία με τραυματισμό υπαλλήλου, γεγονός που εγείρει σοβαρά ζητήματα ασφαλείας και κοινωνικής ανησυχίας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-28T14:44:13.000Z"
+      },
+      {
+        "id": "560a13ab3836",
+        "title": "Χανιά: Νεκρός 67χρονος που έπεσε σε γκρεμό με το αυτοκίνητό του",
+        "simpleTitle": "Χανιά: Νεκρός 67χρονος που έπεσε σε γκρεμό με το αυτοκίνητό του",
+        "simpleText": "Στο Χανιά, ένας 67χρονος άνδρας σκοτώθηκε σε αυτοκινητιστικό δυστύχημα. Το ατύχημα συνέβη το βράδυ της Τετάρτης, όταν το αυτοκίνητό του εξετράπη από την πορεία του και έπεσε σε γκρεμό. Η περιοχή βρίσκεται κοντά στο Οροπέδιο Ομαλού.\n\nΟ άνδρας, κάτοικος της περιοχής, δεν επέστρεψε σπίτι του και οι συγγενείς του τον αναζήτησαν. Όταν τον εντόπισαν, ειδοποίησαν τις αρχές. Διασώστες από την Πυροσβεστική Υπηρεσία Χανίων και άλλες υπηρεσίες έσπευσαν για να τον ανασύρουν. Η επιχείρηση ξεκίνησε το μεσημέρι της Πέμπτης. Δυστυχώς, ο 67χρονος βρέθηκε χωρίς τις αισθήσεις του και μεταφέρθηκε από το ΕΚΑΒ.\n\nΟι αρμόδιες αρχές δουλεύουν τώρα για να βρουν τα αίτια της εκτροπής του αυτοκινήτου. Αυτό το γεγονός είναι σημαντικό γιατί δείχνει τις κινδύνους που υπάρχουν στους δρόμους και την ανάγκη για προσοχή κατά την οδήγηση.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2025/12/28/greece/xania-nekros-67xronos-poy-epese-se-gkremo-me-to-aytokinito-toy/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/28/greece/xania-nekros-67xronos-poy-epese-se-gkremo-me-to-aytokinito-toy/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4039194/trocheo-distichima-sta-chania-nekros-67chronos-pou-to-aftokinito-tou-exetrapi-tis-porias-tou-ke-epese-se-gkremo.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά ένα τραγικό αυτοκινητιστικό δυστύχημα που οδήγησε σε θάνατο, γεγονός που σχετίζεται με σοβαρά κοινωνικά ζητήματα όπως η οδική ασφάλεια.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-28T13:48:02.000Z"
+      },
+      {
+        "id": "67ea964fe1e9",
+        "title": "Γκύζη: Άντρας μαχαίρωσε τη σύζυγό του και έβαλε τέλος στη ζωή του",
+        "simpleTitle": "Γκύζη: Άντρας μαχαίρωσε τη σύζυγό του και έβαλε τέλος στη ζωή του",
+        "simpleText": "Τίτλος: Γκύζη: Άνδρας μαχαίρωσε τη γυναίκα του και αυτοκτόνησε\n\nΣτην περιοχή του Γκύζη, ένα σοβαρό περιστατικό συνέβη σε διαμέρισμα. Ένας 74χρονος άνδρας μαχαίρωσε τη 67χρονη σύζυγό του στον λαιμό μετά από καβγά. Αμέσως μετά την επίθεση, ο άνδρας πήδηξε από την ταράτσα και έβαλε τέλος στη ζωή του.\n\nΗ γυναίκα μεταφέρθηκε στο νοσοκομείο Γεννηματάς, όπου οι γιατροί προσπαθούν να σταθεροποιήσουν την κατάσταση της υγείας της. Βρέθηκε και ένα σημείωμα από τον άνδρα, στο οποίο έγραφε ότι δεν αντέχει άλλο την κατάσταση.\n\nΗ αστυνομία ερευνά το περιστατικό και παίρνει μαρτυρίες από τους γείτονες. Το γεγονός είναι σημαντικό γιατί δείχνει την ανάγκη για βοήθεια σε κρίσιμες καταστάσεις.",
+        "sourceName": "TA NEA, TO BHMA, Protagon",
+        "sourceUrl": "https://www.tanea.gr/2025/12/28/greece/gkyzi-antras-maxairose-ti-syzygo-tou-kai-evale-telos-sti-zoi-tou/",
+        "sourceDomains": [
+          "tanea.gr",
+          "tovima.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/28/greece/gkyzi-antras-maxairose-ti-syzygo-tou-kai-evale-telos-sti-zoi-tou/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/28/society/gkyzi-maxairose-ti-syzygo-tou-kai-aytoktonise/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/gkyzi-andras-maxairwse-ti-syzygo-tou-ston-laimo-kai-aftoktonise-44343283423"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το περιστατικό αφορά μια σοβαρή περίπτωση βίας και αυτοκτονίας, που συνιστά ένα σημαντικό κοινωνικό ζήτημα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://orangepress.gr/player?slug=8anathforo-epeisodio-meta3y-hlikiwmenwn-stoy-gkyzh-oi-prwtes-eikones",
+        "publishedAt": "2025-12-28T13:44:15.000Z"
+      },
+      {
+        "id": "9aaa62666962",
+        "title": "Κυψέλη: Ανδρας μαχαίρωσε τη σύζυγό του και αυτοκτόνησε πέφτοντας από την ταράτσα",
+        "simpleTitle": "Κυψέλη: Ανδρας μαχαίρωσε τη σύζυγό του και αυτοκτόνησε πέφτοντας από την ταράτσα",
+        "simpleText": "Άλλος τίτλος: Κυψέλη: Άνδρας τραυμάτισε τη σύζυγό του και μετά αυτοκτόνησε.\n\nΣτην Κυψέλη, ένας άνδρας 67 ετών τραυμάτισε τη σύζυγό του με μαχαίρι. Αυτή τη στιγμή, η γυναίκα νοσηλεύεται σε σοβαρή κατάσταση στο νοσοκομείο \"Γεννηματάς\". Μετά το τραγικό συμβάν, ο άνδρας έπεσε από την ταράτσα του σπιτιού τους και αυτοκτόνησε.\n\nΗ αστυνομία έχει αποκλείσει την περιοχή. Αυτή η οικογενειακή τραγωδία είναι σοβαρή και έχει σοκαρίσει την τοπική κοινότητα. Δεν είναι γνωστά τα αίτια της επίθεσης ή οι συνθήκες που οδήγησαν σε αυτή την κατάσταση.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/society/563997322/gkyzi-andras-machairose-ti-syzygo-toy-kai-aytoktonise-peftontas-apo-to-mpalkoni/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/563997322/gkyzi-andras-machairose-ti-syzygo-toy-kai-aytoktonise-peftontas-apo-to-mpalkoni/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4039163/ikogeniaki-tragodia-stou-gkizi-andras-macherose-ti-sizigo-tou-ke-aftoktonise-peftontas-apo-to-balkoni-i-gineka-dini-machi-na-kratithi-sti-zoi.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Αυτή η είδηση αφορά μια σοβαρή οικογενειακή τραγωδία με βία και αυτοκτονία, γεγονότα που επηρεάζουν την κοινωνία και απαιτούν σοβαρή αντιμετώπιση.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-28T13:30:33.000Z"
+      },
+      {
+        "id": "72e4868c44ed",
+        "title": "Γλυφάδα: Στο εδώλιο αύριο ο τράπερ που συνελήφθη με κλεμμένο όχημα – Ποινική δίωξη για αποδοχή προϊόντων εγκλήματος",
+        "simpleTitle": "Γλυφάδα: Στο εδώλιο αύριο ο τράπερ που συνελήφθη με κλεμμένο όχημα – Ποινική δίωξη για αποδοχή προϊόντων εγκλήματος",
+        "simpleText": "Τίτλος: Τράπερ στη Γλυφάδα κατηγορείται για κλεμμένο όχημα\n\nΣτην Γλυφάδα, ένας τράπερ συνελήφθη με κλεμμένο αυτοκίνητο. Αυτό συνέβη το απόγευμα του Σαββάτου, κατά τη διάρκεια ενός αστυνομικού ελέγχου. Οι αστυνομικοί σταμάτησαν τον 25χρονο στην οδό Κύπρου και διαπίστωσαν ότι το αυτοκίνητο είχε δηλωθεί ως κλεμμένο από την περιοχή του Ωραιόκαστρου Θεσσαλονίκης.\n\nΜαζί του ήταν ένα δεύτερο άτομο, το οποίο είχε μικρή ποσότητα ναρκωτικών και επίσης συνελήφθη. Ο τράπερ θα δικαστεί αύριο σε ειδικό δικαστήριο για την υπόθεση αυτή. Η κατηγορία που του ασκήθηκε είναι για αποδοχή προϊόντων εγκλήματος, δηλαδή για το γεγονός ότι οδηγούσε ένα κλεμμένο όχημα.\n\nΗ υπόθεση είναι σημαντική καθώς αναδεικνύει ζητήματα εγκληματικότητας και ασφάλειας στους δημόσιους δρόμους.",
         "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/vretania-symfonia-gia-epistrofes-paratypon-metanaston-me-angkola-kai-namimpia/",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/glyfada-sto-edolio-ayrio-o-traper-pou-synelifthi-me-klemmeno-oxima-poiniki-dioksi-gia-apodoxi-proionton-egklimatos/",
         "sourceDomains": [
           "ertnews.gr",
           "kathimerini.gr"
@@ -663,195 +777,50 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/vretania-symfonia-gia-epistrofes-paratypon-metanaston-me-angkola-kai-namimpia/"
+            "url": "https://www.ertnews.gr/roi-idiseon/glyfada-sto-edolio-ayrio-o-traper-pou-synelifthi-me-klemmeno-oxima-poiniki-dioksi-gia-apodoxi-proionton-egklimatos/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563997193/vretania-symfonia-me-angkola-kai-namimpia-gia-epistrofes-metanaston/"
+            "url": "https://www.kathimerini.gr/society/563997310/poiniki-dioxi-ston-traper-poy-synelifthi-na-odigei-klemmeno-aytokinito/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σε συμφωνία της Βρετανίας με άλλες χώρες για την επιστροφή παράτυπων μεταναστών και σχετίζεται με σοβαρά κοινωνικά και πολιτικά θέματα.",
+        "categoryReason": "Η είδηση αφορά τη σύλληψη ενός τράπερ με κλεμμένο όχημα και τη νομική διαδικασία που ακολουθεί, αναδεικνύοντας ζητήματα εγκληματικότητας και ασφάλειας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-28T07:10:00.000Z"
-      },
-      {
-        "id": "69a5dcc3a54f",
-        "title": "Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ – Πώς θα λειτουργήσει η αγορά έως την Πρωτοχρονιά",
-        "simpleTitle": "Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ – Πώς θα λειτουργήσει η αγορά έως την Πρωτοχρονιά",
-        "simpleText": "Τίτλος: Ανοιχτά σήμερα τα καταστήματα και τα σούπερ μάρκετ\n\nΣήμερα, τελευταία Κυριακή του χρόνου, τα εμπορικά καταστήματα και τα σούπερ μάρκετ είναι ανοιχτά. Αυτό συμβαίνει για να μπορέσουν οι καταναλωτές να κάνουν τα ψώνια τους πριν την Πρωτοχρονιά. Τα καταστήματα θα λειτουργήσουν από τις 11:00 έως τις 18:00. Μερικές φορές, οι ώρες μπορεί να διαφέρουν ελαφρώς σε κάποια καταστήματα.\n\nΕίναι σημαντικό να σημειωθεί ότι θα είναι κλειστά την ημέρα της Πρωτοχρονιάς και στις 2 Ιανουαρίου, ημέρα που γίνεται η «απογραφή» των επιχειρήσεων.\n\nΟ Εμπορικός Σύλλογος Αθηνών αναφέρει ότι αυτές οι ώρες είναι προτεινόμενες και οι έμποροι μπορούν να κάνουν αλλαγές αν το επιθυμούν.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/anoixta-simera-ta-katastimata-kai-ta-souper-market-pos-tha-leitourgisei-i-agora-eos-tin-protoxronia/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/anoixta-simera-ta-katastimata-kai-ta-souper-market-pos-tha-leitourgisei-i-agora-eos-tin-protoxronia/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563997166/anoichta-simera-katastimata-kai-soyper-market-pos-tha-leitoyrgisei-i-agora-eos-tin-protochronia/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/28/economy/anoixta-simera-katastimata-kai-souper-market-poies-ores-tha-leitourgisoun/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις ώρες λειτουργίας των καταστημάτων και των σούπερ μάρκετ, κάτι που σχετίζεται με την οικονομία και τις καταναλωτικές συνήθειες, επομένως εμπίπτει σε σοβαρές ειδήσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-28T07:02:19.000Z"
-      },
-      {
-        "id": "3c930ec40b74",
-        "title": "Καιρός: Θυελλώδεις άνεμοι στη Βόρεια Ελλάδα – Η πρόγνωση έως την Πρωτοχρονιά",
-        "simpleTitle": "Καιρός: Θυελλώδεις άνεμοι στη Βόρεια Ελλάδα – Η πρόγνωση έως την Πρωτοχρονιά",
-        "simpleText": "Τίτλος: Ισχυροί άνεμοι στη Βόρεια Ελλάδα – Καιρός έως την Πρωτοχρονιά\n\nΣήμερα, Κυριακή 28 Δεκεμβρίου 2025, αναμένονται ισχυροί βορειοδυτικοί άνεμοι στη Βόρεια Ελλάδα. Οι άνεμοι θα φτάσουν τα 8 με 9 μποφόρ στην κεντρική Μακεδονία, συμπεριλαμβανομένης της Θεσσαλονίκης, και στις Σποράδες. Ο καιρός θα είναι γενικά αίθριος, με λίγες τοπικές νεφώσεις, κυρίως στα νησιά του Ιονίου και στην Πελοπόννησο.\n\nΗ θερμοκρασία θα κυμανθεί από 1 έως 18 βαθμούς Κελσίου. Στην περιοχή της Θεσσαλονίκης, οι θερμοκρασίες θα είναι από 3 έως 11 βαθμούς. Υπάρχει πιθανότητα ασθενών βροχών το απόγευμα, ειδικά στα νότια νησιά.\n\nΕίναι σημαντικό να παρακολουθούμε τον καιρό, καθώς οι θυελλώδεις άνεμοι και η πτώση της θερμοκρασίας μπορούν να προκαλέσουν δυσκολίες στις μετακινήσεις και άλλες δραστηριότητες. Επίσης, από αύριο Δευτέρα, η θερμοκρασία θα σημειώσει μικρή πτώση, με παγετό στα βόρεια και κεντρικά ηπειρωτικά.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/society/563997160/kairos-thyellodeis-anemoi-sti-voreia-ellada-i-prognosi-eos-tin-protochronia/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563997160/kairos-thyellodeis-anemoi-sti-voreia-ellada-i-prognosi-eos-tin-protochronia/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/28/greece/o-kairos-simera-thyellodeis-anemoi-kai-ptosi-thermokrasias-pos-tha-kanoyme-protoxronia/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρά καιρικά φαινόμενα, όπως θυελλώδεις άνεμοι και πτώση θερμοκρασίας, που επηρεάζουν τη Βόρεια Ελλάδα και μπορεί να προκαλέσουν δυσκολίες στις μετακινήσεις.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g29b3d3faa95dbcdff076c35f15aaf4f86b89c0090921904b5d93048b2d8a23353a13b5cb4e39cce93182a0bc87993d80b7c385fbfea8ee46c297cec29819ebfb_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-28T06:52:33.000Z"
-      },
-      {
-        "id": "9d77c92e329d",
-        "title": "Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ",
-        "simpleTitle": "Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ",
-        "simpleText": "Τίτλος: Έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ τη Δευτέρα για την αναγνώριση της Σομαλιλάνδης από το Ισραήλ\n\nΤο Συμβούλιο Ασφαλείας του ΟΗΕ θα συνεδριάσει τη Δευτέρα για να συζητήσει την απόφαση του Ισραήλ να αναγνωρίσει τη Σομαλιλάνδη ως ανεξάρτητο κράτος. Αυτή η απόφαση έχει προκαλέσει αντιδράσεις στην Σομαλία και σε πολλές χώρες της περιοχής.\n\nΔεκαεννέα αραβικές και μουσουλμανικές χώρες εξέδωσαν μια κοινή ανακοίνωση, εκφράζοντας ανησυχία για τις επιπτώσεις της απόφασης στην ειρήνη και την ασφάλεια στην περιοχή. Επίσης, καταδικάζουν την ενέργεια του Ισραήλ ως παραβίαση του διεθνούς δικαίου. Ανησυχούν επίσης για τις καταγγελίες ότι η αναγνώριση της Σομαλιλάνδης μπορεί να σχετίζεται με σχέδια εκδίωξης Παλαιστινίων από τις περιοχές τους.\n\nΗ Σομαλιλάνδη κήρυξε την ανεξαρτησία της το 1991, όταν η Σομαλία ήταν σε αναταραχή. Εδώ και χρόνια λειτουργεί αυτόνομα, έχοντας τη δική της αστυνομία και στρατό. Ωστόσο, δεν είχε αναγνωριστεί από καμία χώρα, γεγονός που την έχει απομονώσει πολιτικά και οικονομικά παρόλο που βρίσκεται σε στρατηγική τοποθεσία.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ektakti-synedriasi-tou-symvouliou-asfaleias-tou-oie-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/ektakti-synedriasi-tou-symvouliou-asfaleias-tou-oie-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/28/world/oie-ektakti-synedriasi-tou-sa-ti-deytera-gia-tin-anagnorisi-tis-somalilandis-apo-to-israil/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την έκτακτη συνεδρίαση του Συμβουλίου Ασφαλείας του ΟΗΕ για την αναγνώριση της Σομαλιλάνδης, που σχετίζεται με σοβαρά διεθνή θέματα όπως η πολιτική ασφάλεια, η αναγνώριση κρατών και οι σχέσεις μεταξύ χωρών.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-28T06:38:23.000Z"
-      },
-      {
-        "id": "c62b9f4c08da",
-        "title": "«Αιώνιοι» φοιτητές: 35.000 ζήτησαν παράταση σπουδών, 280.000 θα διαγραφούν",
-        "simpleTitle": "«Αιώνιοι» φοιτητές: 35.000 ζήτησαν παράταση σπουδών, 280.000 θα διαγραφούν",
-        "simpleText": "35.000 φοιτητές ζήτησαν παράταση σπουδών, ενώ 280.000 θα διαγραφούν\n\nΑπό την 1η Ιανουαρίου 2026, θα ξεκινήσει η εφαρμογή ενός νόμου που αφορά τη διαγραφή φοιτητών από τα δημόσια πανεπιστήμια στην Ελλάδα. Η υπουργός Παιδείας, Σοφία Ζαχαράκη, ανακοίνωσε ότι 35.000 φοιτητές εκμεταλλεύτηκαν την ευκαιρία να ζητήσουν παράταση για να ολοκληρώσουν τις σπουδές τους. Όμως, περίπου 280.000 φοιτητές που δεν έχουν ενεργή σύνδεση με τις σπουδές τους θα διαγραφούν.\n\nΟ νόμος έχει στόχο να φέρει μια πιο δίκαιη και λειτουργική κατάσταση στα πανεπιστήμια. Αυτό σημαίνει ότι δεν θα υπάρχουν φοιτητές που μένουν χωρίς να σπουδάζουν για πολλά χρόνια. Η υπουργός τόνισε ότι η διαγραφή δεν είναι τιμωρία και ότι υπάρχουν εξαιρέσεις για άτομα με ειδικές ανάγκες ή σοβαρά προβλήματα.\n\nΣημαντικά είναι ότι οι φοιτητές αυτοί που θα διαγραφούν έχουν υπερβεί την ανώτατη διάρκεια φοίτησης. Για να διαγραφούν, πρέπει να έχουν ήδη περάσει δύο χρόνια χωρίς να έχουν συμμετάσχει σε εξετάσεις. Το θεσμικό αυτό πλαίσιο είναι αποτέλεσμα απαιτήσεων που υπάρχουν στα ευρωπαϊκά πανεπιστήμια και στοχεύει στη βελτίωση της εκπαίδευσης. Οι φοιτητές που εργάζονται ή έχουν οικογενειακές υποχρεώσεις μπορούν να υποβάλουν αίτηση για παράταση.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/society/563997175/aionioi-foitites-35-000-zitisan-paratasi-spoydon-280-000-tha-diagrafoyn/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/563997175/aionioi-foitites-35-000-zitisan-paratasi-spoydon-280-000-tha-diagrafoyn/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/28/greece/diagrafontai-280-000-aionioi-foitites-paratasi-spoydon-zitisan-35-000/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τη σοβαρή κατάσταση της εκπαίδευσης και τις νομικές ρυθμίσεις που επηρεάζουν τα δημόσια πανεπιστήμια στην Ελλάδα, με σημαντικές συνέπειες για τους φοιτητές.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-28T06:23:37.000Z"
-      },
-      {
-        "id": "3965ae080bee",
-        "title": "Βραζιλία: Σε χειρουργική επέμβαση για την αντιμετώπιση επίμονου λόξυγγα υποβλήθηκε ο Μπολσονάρο",
-        "simpleTitle": "Βραζιλία: Σε χειρουργική επέμβαση για την αντιμετώπιση επίμονου λόξυγγα υποβλήθηκε ο Μπολσονάρο",
-        "simpleText": "Τίτλος: Χειρουργική επέμβαση για τον Μπολσονάρο λόγω λόξυγγα\n\nΟ πρώην πρόεδρος της Βραζιλίας, Ζαΐχ Μπολσονάρο, υποβλήθηκε σε χειρουργική επέμβαση για να αντιμετωπίσει έναν επίμονο λόξυγγα. Η επέμβαση έγινε χθες, Σάββατο, και ανακοίνωθηκε από τη σύζυγό του, Μισέλ Μπολσονάρο. Οι γιατροί απεκλείσαν το δεξί φρενικό νεύρο του, ενώ προγραμματίστηκε και νέα επέμβαση για το αριστερό μέσα σε 48 ώρες.\n\nΤο φρενικό νεύρο είναι σημαντικό για την αναπνοή, καθώς ελέγχει το διάφραγμα. Αν δεν λειτουργεί σωστά, μπορεί να προκαλέσει σοβαρά προβλήματα. Ο Μπολσονάρο, 70 ετών, είχε εισαχθεί σε νοσοκομείο και για άλλη εγχείρηση πρόσφατα.\n\nΕπίσης, τον Σεπτέμβριο του 2023, καταδικάστηκε σε 27 χρόνια φυ imprisonment λόγω σχεδίου πραξικοπήματος. Ο δικαστής του επέτρεψε να κάνει την επέμβαση στο νοσοκομείο. Ο πρώην πρόεδρος έχει αντιμετωπίσει προβλήματα υγείας μετά από επίθεση με μαχαίρι το 2018.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-se-xeirourgiki-epemvasi-gia-tin-antimetopisi-epimonou-loksygga-ypovlithike-o-mpolsonaro/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-se-xeirourgiki-epemvasi-gia-tin-antimetopisi-epimonou-loksygga-ypovlithike-o-mpolsonaro/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/28/world/mpolsonaroy-ypovlithike-se-xeiroyrgiki-epemvasi-gia-tin-antimetopisi-epimonoy-loksygga/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την υγεία του πρώην προεδρεύοντος Ζαΐχ Μπολσονάρο και περιλαμβάνει σοβαρά θέματα υγειονομικής περίθαλψης και νομικών ζητημάτων, όπως η καταδίκη του.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-28T06:16:31.000Z"
+        "publishedAt": "2025-12-28T12:46:07.000Z"
       }
     ],
     "happy": [
       {
-        "id": "785b9fc740b5",
-        "title": "ΗΠΑ: H εταιρεία που χαρίζει ταξίδια και αυτοκίνητα στους κορυφαίους εργαζομένους κάθε χρόνο",
-        "simpleTitle": "ΗΠΑ: H εταιρεία που χαρίζει ταξίδια και αυτοκίνητα στους κορυφαίους εργαζομένους κάθε χρόνο",
-        "simpleText": "Μια εταιρεία στην Αμερική δίνει δώρα στους καλύτερους εργαζομένους της κάθε χρόνο. Αυτά τα δώρα περιλαμβάνουν ταξίδια και αυτοκίνητα. Η εταιρεία αυτή ασχολείται με την κυβερνοασφάλεια και έχει έδρα το Ορλάντο. Έχει περίπου 700 εργαζομένους.\n\nΑυτή η πρωτοβουλία δείχνει την αναγνώριση της δουλειάς και της προσπάθειας των εργαζομένων. Είναι σημαντικό γιατί βοηθά στην ενίσχυση της ηθικής και της ικανοποίησης στην εργασία. Οι συγκεκριμένες λεπτομέρειες για τα ταξίδια και τα αυτοκίνητα δεν είναι γνωστές.",
-        "sourceName": "Kathimerini",
-        "sourceUrl": "https://www.kathimerini.gr/economy/international/563997073/ipa-h-etaireia-poy-charizei-taxidia-kai-aytokinita-stoys-koryfaioys-ergazomenoys-kathe-chrono/",
+        "id": "6882219add6f",
+        "title": "Πρωτοβουλία αλληλεγγύης της ΕΡΤ Πύργου: Εδέσματα και παιχνίδια σε πολύτεκνες οικογένειες",
+        "simpleTitle": "Πρωτοβουλία αλληλεγγύης της ΕΡΤ Πύργου: Εδέσματα και παιχνίδια σε πολύτεκνες οικογένειες",
+        "simpleText": "Η ΕΡΤ Πύργου διοργάνωσε μια δράση στήριξης για πολύτεκνες οικογένειες. Αυτή η πρωτοβουλία πραγματοποιήθηκε κατά τη διάρκεια των εορτών. Στη δράση συμμετείχαν εργαζόμενοι της ΕΡΤ Πύργου και συνεργάστηκαν με την Αντικαρκινική Εταιρεία στην Ηλεία και άλλους φορείς.\n\nΣκοπός της πρωτοβουλίας ήταν να προσφέρουν τρόφιμα και παιχνίδια σε παιδιά. Περισσότερες από 100 οικογένειες που βρίσκονται σε δύσκολη κατάσταση έλαβαν προϊόντα και δώρα. Αυτή η δράση είναι σημαντική γιατί βοηθάει να ανακουφίσει τις ανάγκες των ευάλωτων οικογενειών.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/ert3/protovoulia-allileggyis-tis-ert-pyrgou-edesmata-kai-paixnidia-se-polyteknes-oikogeneies/",
         "sourceDomains": [
-          "kathimerini.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/economy/international/563997073/ipa-h-etaireia-poy-charizei-taxidia-kai-aytokinita-stoys-koryfaioys-ergazomenoys-kathe-chrono/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/ert3/protovoulia-allileggyis-tis-ert-pyrgou-edesmata-kai-paixnidia-se-polyteknes-oikogeneies/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά την αναγνώριση και επιβράβευση των εργαζομένων, προσφέροντάς τους δώρα όπως ταξίδια και αυτοκίνητα, κάτι που δημιουργεί θετική διάθεση και ικανοποίηση στην εργασία. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρει μια θετική πρωτοβουλία που προσφέρει βοήθεια και χαρά σε πολύτεκνες οικογένειες, εστιάζοντας στην αλληλεγγύη και την υποστήριξη κατά την περίοδο των εορτών. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-27T21:56:00.000Z"
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2025/ert3/themata-ert3/12/28-12-59-ert-pirgou.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2025/12/28-12-59-ert-pirgou_2.jpg",
+        "publishedAt": "2025-12-28T14:40:00.000Z"
       },
       {
         "id": "3d553240411d",
         "title": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
         "simpleTitle": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
-        "simpleText": "Τίτλος: Ένας κήπος στο σχολείο μαθαίνει στα παιδιά για τη φύση\n\nΗ αδελφή Sharon Dillon επισκέφτηκε το σχολείο Heritage Middle School πριν από μερικά χρόνια. Τότε, ο εξωτερικός χώρος του σχολείου δεν είχε καμία ζωή. Σήμερα, όμως, ο σχολικός κήπος έχει μετατραπεί σε ένα ενδιαφέρον μέρος όπου τα παιδιά μαθαίνουν για τη φύση και την καλλιέργεια.\n\nΣτον κήπο, υπάρχουν παρτέρια γεμάτα λαχανικά, μυρωδικά και λουλούδια. Τα παιδιά συμμετέχουν ενεργά σε όλες τις διαδικασίες, από το φύτεμα μέχρι τη συγκομιδή των προϊόντων. Αυτός ο κήπος δεν είναι μόνο ένα όμορφο μέρος, αλλά είναι και μέρος της καθημερινής εκπαίδευσης των μαθητών. Είναι σημαντικό γιατί τους δίνει την ευκαιρία να μάθουν πώς μεγαλώνει η ζωή.",
+        "simpleText": "Τίτλος: Ένας κήπος στο σχολείο διδάσκει στα παιδιά πώς μεγαλώνει η ζωή\n\nΣτο Heritage Middle School, έχει δημιουργηθεί ένας σχολικός κήπος. Όταν η αδελφή Sharon Dillon ήρθε στο σχολείο, ο χώρος έξω ήταν άδειος. Τώρα, ο κήπος είναι γεμάτος από λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στο να φτιάξουν και να φροντίσουν τον κήπο. Μαθαίνουν πώς να φυτεύουν και να συγκομίζουν τα προϊόντα. Αυτός ο κήπος είναι σημαντικός γιατί δίνει στα παιδιά την ευκαιρία να μάθουν για τη φύση, την παραγωγή τροφής και την ομαδική εργασία. Είναι μέρος της καθημερινής τους εκπαίδευσης και τους φέρνει πιο κοντά στη ζωή της φύσης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30391-kipos-astiki-kalliergeia-paidia-scholeio/",
         "sourceDomains": [
@@ -864,7 +833,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία αναδεικνύει τη θετική επίδραση του σχολικού κήπου στην εκπαίδευση και την ανάπτυξη των παιδιών, δείχνοντάς τους πώς μεγαλώνει η ζωή μέσα από τη συμμετοχή τους στη φύση.",
+        "categoryReason": "Η είδηση αφορά τη δημιουργία ενός σχολικού κήπου που ενισχύει τη μάθηση και την ευημερία των παιδιών, προσφέροντας θετικές εμπειρίες και χαρά μέσω της επαφής τους με τη φύση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -873,38 +842,10 @@
     ],
     "sports": [
       {
-        "id": "6594981495a8",
-        "title": "Πανιώνιος: Παραιτήθηκε ο Ζούρος μετά την ήττα από τον Ηρακλή",
-        "simpleTitle": "Πανιώνιος: Παραιτήθηκε ο Ζούρος μετά την ήττα από τον Ηρακλή",
-        "simpleText": "Ο Ηλίας Ζούρος αποχώρησε από την θέση του προπονητή του Πανιωνίου μετά την ήττα της ομάδας από τον Ηρακλή. Ο αγώνας έγινε στη Θεσσαλονίκη και η ήττα ήταν με σκορ 80-66.\n\nΟ Ζούρος ανακοίνωσε την παραίτησή του στη δημόσια τηλεόραση αμέσως μετά το τέλος του παιχνιδιού. Η ομάδα του Πανιωνίου έχει δείξει κακή εικόνα φέτος, με 14 ήττες και μόλις μία νίκη σε 15 αγώνες υπό την καθοδήγησή του.\n\nΗ ήττα αυτή ήταν άλλη μία στα αρνητικά αποτελέσματα της φετινής χρονιάς, και πλέον ο Πανιώνιος αναζητά νέο προπονητή. Ανάμεσα στους υποψηφίους είναι ο Νέναντ Μάρκοβιτς, ο οποίος έχει προπονήσει ξανά την ομάδα, καθώς και ο Γιώργος Λιμνιάτης. Η κατάσταση αυτή είναι σημαντική για τον Πανιώνιο, αφού η ομάδα θέλει να βελτιώσει τις επιδόσεις της και να προχωρήσει πιο δυναμικά στη συνέχεια της σεζόν.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/athletics/basketball/563996920/panionios-paraitithike-o-zoyros-meta-tin-itta-apo-ton-irakli/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/athletics/basketball/563996920/panionios-paraitithike-o-zoyros-meta-tin-itta-apo-ton-irakli/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/27/sports/panionios-paraitithike-o-zouros-oi-pithanoi-antikatastates/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά την παραίτηση του προπονητή μιας μπασκετικής ομάδας μετά από μια ήττα, κάτι που σχετίζεται άμεσα με τον αθλητισμό και τις επιδόσεις των ομάδων.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-27T20:58:54.000Z"
-      },
-      {
         "id": "5438153d916f",
         "title": "Τσέλσι – Άστον Βίλα 1-2: Ανατροπή και -3 από την κορυφή",
         "simpleTitle": "Τσέλσι – Άστον Βίλα 1-2: Ανατροπή και -3 από την κορυφή",
-        "simpleText": "Η Τσέλσι έχασε από την Άστον Βίλα με σκορ 1-2. Ο αγώνας έγινε στο Στάμφορντ Μπριτζ, το γήπεδο της Τσέλσι.\n\nΗ Άστον Βίλα κατάφερε να κερδίσει παρόλο που ήταν πίσω στο σκορ. Αυτή η νίκη είναι σημαντική γιατί η Άστον Βίλα συνεχίζει τις καλές εμφανίσεις της στην Premier League, τη μεγαλύτερη ποδοσφαιρική κατηγορία στην Αγγλία.\n\nΜε αυτή την ήττα, η Τσέλσι βρίσκεται τώρα τρεις πόντους μακριά από την κορυφή της βαθμολογίας.",
+        "simpleText": "Η Άστον Βίλα κέρδισε την Τσέλσι με 2-1 στο γήπεδο Στάμφορντ Μπριτζ. Αυτό συνέβη σε έναν αγώνα της Premier League. Η Άστον Βίλα έκανε την ανατροπή, καθώς έχανε αρχικά. Με αυτή τη νίκη, η Άστον Βίλα παραμένει σε καλή φόρμα στη διοργάνωση.\n\nΗ νίκη αυτή είναι σημαντική για την Άστον Βίλα, γιατί την φέρνει πιο κοντά στην κορυφή του πίνακα. Αντίθετα, η Τσέλσι, με την ήττα αυτή, απομακρύνεται από την πρώτη θέση.",
         "sourceName": "TO BHMA",
         "sourceUrl": "https://www.tovima.gr/2025/12/27/sports/tselsi-aston-vila-1-2-anatropi-kai-3-apo-tin-koryfi/",
         "sourceDomains": [
@@ -917,7 +858,7 @@
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τον αγώνα ποδοσφαίρου μεταξύ Τσέλσι και Άστον Βίλα, με ανατροπή στο σκορ και επίδραση στην κατάταξη της Premier League. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου μεταξύ Τσέλσι και Άστον Βίλα, που είναι σημαντική για την Premier League. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -927,10 +868,43 @@
     "screen": [],
     "culture": [
       {
+        "id": "9549d40e2869",
+        "title": "Ο Εμανουέλ Μακρόν αποχαιρετά την Μπριζίτ Μπαρντό: «Θρηνούμε έναν θρύλο του αιώνα»",
+        "simpleTitle": "Ο Εμανουέλ Μακρόν αποχαιρετά την Μπριζίτ Μπαρντό: «Θρηνούμε έναν θρύλο του αιώνα»",
+        "simpleText": "Ο Γάλλος πρόεδρος Εμανουέλ Μακρόν αποχαιρέτησε τη σπουδαία ηθοποιό Μπριζίτ Μπαρντό, η οποία πέθανε πρόσφατα. Σε ανακοίνωσή του, την χαρακτήρισε «θρύλο του αιώνα». Ανέφερε ότι οι ταινίες και η φωνή της άγγιξαν πολλές ζωές. Επίσης, υπογράμμισε την αφοσίωσή της στα ζώα και την ιδιαίτερη θέση της στη γαλλική κουλτούρα, καθώς είχε γίνει σύμβολο ελευθερίας. Η Μπαρντό θεωρείται ένα μεγάλο αστέρι του κινηματογράφου, με σημαντική επίδραση στην τέχνη και την κοινωνία. Αυτό το γεγονός είναι σημαντικό γιατί αναδεικνύει την προσφορά της στη Γαλλία και παγκοσμίως.",
+        "sourceName": "ERT News, Kathimerini, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-emanouel-makron-apoxaireta-tin-mprizit-mparnto-thrinoume-enan-thrylo-tou-aiona/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/o-emanouel-makron-apoxaireta-tin-mprizit-mparnto-thrinoume-enan-thrylo-tou-aiona/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/563997328/makron-gia-mprizit-mparnto-thrinoyme-enan-thrylo-toy-aiona/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4039093/o-makron-apochereta-tin-brizit-barnto-thrinoume-enan-thrilo-tou-eona.html"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά τον αποχαιρετισμό μιας εμβληματικής ηθοποιού που έχει επηρεάσει σημαντικά τον πολιτισμό και τον κινηματογράφο, γι' αυτό και κατατάσσεται στην κατηγορία του πολιτισμού.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-28T13:46:43.000Z"
+      },
+      {
         "id": "4e32e5977ae6",
         "title": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
         "simpleTitle": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
-        "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης σταματά τη χρήση γούνων\n\nΗ Εβδομάδα Μόδας στη Νέα Υόρκη αποφάσισε να μην χρησιμοποιεί γούνες σε καμία εκδήλωση από το Σεπτέμβριο του 2026. Αυτή η απόφαση προήλθε από το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής. Η νέα πολιτική δείχνει πως η βιομηχανία της μόδας θέλει να προάγει τα δικαιώματα των ζώων. Δεν θα υπάρξουν γούνες ούτε στις επίσημες εκδηλώσεις ούτε στα ψηφιακά κανάλια του Συμβουλίου. Αυτή η αλλαγή είναι σημαντική γιατί στέλνει ένα μήνυμα κατά της κακοποίησης των ζώων.",
+        "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης λέει «όχι» στις γούνες\n\nΗ Εβδομάδα Μόδας στη Νέα Υόρκη αλλάζει τις κανόνες της. Το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής αποφάσισε να σταματήσει την προώθηση γούνων. Αυτό σημαίνει ότι από τον Σεπτέμβριο του 2026, στις επίσημες εκδηλώσεις και στα ψηφιακά κανάλια τους, δεν θα υπάρχουν γούνες.\n\nΑυτή η απόφαση είναι σημαντική γιατί δείχνει ότι η βιομηχανία της μόδας θέλει να προστατεύσει τα δικαιώματα των ζώων. Το μήνυμα είναι δυνατό: η μόδα που προκαλεί πόνο στους ζώων δεν είναι αποδεκτή.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30409-nea-yorki-evdomada-modas-xoris-gounes/",
         "sourceDomains": [
@@ -943,7 +917,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά την Εβδομάδα Μόδας της Νέας Υόρκης και την πολιτική της για τα δικαιώματα των ζώων, που σχετίζεται με την πολιτιστική βιομηχανία της μόδας.",
+        "categoryReason": "Η είδηση αφορά στην Εβδομάδα Μόδας της Νέας Υόρκης και τη σημαντική απόφαση για την απαγόρευση γούνων, που σχετίζεται με θέματα μόδας και πολιτισμού.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -953,7 +927,7 @@
         "id": "c82a2758c7a6",
         "title": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
         "simpleTitle": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
-        "simpleText": "Ο Αντρέ Ριέ συγκίνησε το κοινό με ελληνικά κάλαντα στο Μάαστριχτ\n\nΟ Αντρέ Ριέ, γνωστός μουσικός, παρουσίασε μια όμορφη χριστουγεννιάτικη συναυλία στο Μάαστριχτ της Ολλανδίας. Στη βραδιά αυτή, ερμήνευσε τα ελληνικά κάλαντα, προσθέτοντας μια ζεστή αίσθηση από την Ελλάδα. Η Ελληνίδα σοπράνο Χριστίνα Πέτρου έδωσε τη φωνή της σε αυτή την ερμηνεία. Το κοινό την αποθέωσε με χειροκροτήματα, ενώ το βίντεο από την εμφάνιση συγκέντρωσε πολλές προβολές στα μέσα κοινωνικής δικτύωσης. Αυτή η στιγμή είναι σημαντική γιατί συνδυάζει τη μουσική παράδοση της Ελλάδας με τη γιορτή των Χριστουγέννων στην Ευρώπη.",
+        "simpleText": "Τίτλος: Ο Αντρέ Ριέ συγκίνησε το κοινό με ελληνικά κάλαντα στο Μάαστριχτ\n\nΣτην ετήσια χριστουγεννιάτικη συναυλία του στο Μάαστριχτ της Ολλανδίας, ο μουσικός Αντρέ Ριέ παρουσίασε ένα ιδιαίτερο πρόγραμμα. Κατά τη διάρκεια της συναυλίας, η Ελληνίδα σοπράνο Χριστίνα Πέτρου ερμήνευσε ελληνικά κάλαντα, κάτι που συγκίνησε το κοινό. Αυτή η στιγμή πρόσφερε μια ζεστή ατμόσφαιρα και έφερε κομμάτι της ελληνικής παράδοσης στην Ευρώπη. Η ερμηνεία της Πέτρου έλαβε θετικά σχόλια, και το βίντεο από την εμφάνιση συγκέντρωσε πολλές προβολές σε κοινωνικά δίκτυα. Αυτό το γεγονός είναι σημαντικό, καθώς αναδεικνύει την ελληνική μουσική παράδοση σε ένα διεθνές κοινό.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30481-andre-rie-ellinika-kalanta-xristina-petrou/",
         "sourceDomains": [
@@ -966,7 +940,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια μουσική εκδήλωση που συνδυάζει ελληνική παράδοση και χριστουγεννιάτικη γιορτή, οπότε ανήκει στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Η είδηση αφορά μια μουσική εκδήλωση με ελληνικά κάλαντα, που αναδεικνύει την ελληνική κουλτούρα και παράδοση σε διεθνές επίπεδο.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -976,7 +950,7 @@
         "id": "0302270e1a79",
         "title": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
         "simpleTitle": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
-        "simpleText": "Τίτλος: Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Μουσικό Ταξίδι\n\nΣτις 29 και 30 Δεκεμβρίου, το Μέγαρο Μουσικής διοργανώνει ένα εορταστικό γκαλά. Αυτή είναι μια εκδήλωση που προσκαλεί τους ανθρώπους σε ένα μουσικό ταξίδι γεμάτο χαρά.\n\nΣτην αίθουσα του Μεγάρου, οι επισκέπτες θα απολαύσουν ήχους και εικόνες που προέρχονται από διαφορετικούς πολιτισμούς. Για δύο βραδιές, η μουσική θα ενώνει τον κόσμο, προσφέροντας μια εμπειρία που συνδυάζει την κλασική μουσική με τη σύγχρονη αισθητική.\n\nΑυτό το γκαλά είναι σημαντικό γιατί δίνει τη δυνατότητα στους ανθρώπους να βιώσουν τη μαγεία της μουσικής και να θυμηθούν τις όμορφες στιγμές πριν από την αλλαγή του χρόνου.",
+        "simpleText": "Τίτλος: Γιορτινό Γκαλά στο Μέγαρο Μουσικής\n\nΤο Εορταστικό Γκαλά θα γίνει στο Μέγαρο Μουσικής στις 29 και 30 Δεκεμβρίου. Είναι μια εκδήλωση με μουσική και εικόνες που έχει στόχο να γιορτάσει την έλευση του νέου χρόνου. Η εκδήλωση προσκαλεί τους θεατές σε ένα ταξίδι σε διαφορετικούς πολιτισμούς, με τη βοήθεια της μουσικής.\n\nΟι συμμετέχοντες μπορούν να απολαύσουν ένα πρόγραμμα που συνδυάζει κλασική μουσική με σύγχρονες ιδέες. Είναι μια ευκαιρία να γνωρίσουν διαφορετικές πολιτιστικές επιρροές και να βιώσουν συναισθήματα χαράς. Είναι σημαντικό γιατί ενώνει τους ανθρώπους μέσα από τη μουσική, σε μια εποχή που συχνά γιορτάζουμε μαζί.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30440-eortastiko-gala-megaro-mousikis-taxidi-me-ti-fantasia/",
         "sourceDomains": [
@@ -989,7 +963,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η εκδήλωση αφορά μουσική και πολιτιστικές εμπειρίες που συνδυάζουν διαφορετικούς πολιτισμούς, κάνοντάς την καταλληλότερη για την κατηγορία του πολιτισμού.",
+        "categoryReason": "Η εκδήλωση περιλαμβάνει μουσική και πολιτιστικές επιρροές, εστιάζοντας σε μια γιορτινή μουσική εμπειρία που ενώνει διαφορετικούς πολιτισμούς.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -999,7 +973,7 @@
         "id": "89ffdb155ea3",
         "title": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
         "simpleTitle": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
-        "simpleText": "Το Βρετανικό Μουσείο ανακοινώνει ένα νέο σχέδιο για την επαναφορά ελληνικών και αιγυπτιακών αρχαιοτήτων. Αυτό γίνεται μέσω δανεισμού αυτών των παρακάτω έργων. Στην Ινδία, έχουν μεταφερθεί περίπου 80 αρχαιότητες, οι οποίες θα εκτίθενται εκεί για τρία χρόνια. Αυτή η κίνηση προκαλεί συζητήσεις σε σχέση με την πολιτιστική συνεργασία και τις διεκδικήσεις που υπάρχουν για τις αρχαιότητες. Το ζήτημα της διαχείρισής τους, ειδικά για τις ελληνικές, παραμένει ανοιχτό και σημαντικό.",
+        "simpleText": "Το Βρετανικό Μουσείο επαναφέρει ένα παλιό θέμα: τη διαχείριση των ελληνικών αρχαιοτήτων. Αυτό συμβαίνει μέσα από ένα νέο σχέδιο δανεισμών που έχει προκαλέσει συζητήσεις.\n\nΠρόσφατα, περίπου 80 ελληνικές και αιγυπτιακές αρχαιότητες στάλθηκαν στην Ινδία. Εκεί θα εκτεθούν για τρία χρόνια. Το μουσείο το προβάλλει ως μια καινοτόμο μορφή συνεργασίας.\n\nΑυτή η πρωτοβουλία είναι σημαντική, διότι αναδεικνύει τις σχέσεις μεταξύ χωρών και τις διεκδικήσεις που υπάρχουν γύρω από τα πολιτιστικά μνημεία. Προς το παρόν, δεν υπάρχουν πληροφορίες για τις αντιδράσεις που έχει προκαλέσει αυτή η κίνηση.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30442-vretaniko-mouseio-ellinikes-arxaiotites/",
         "sourceDomains": [
@@ -1012,7 +986,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά πολιτιστικές συνεργασίες και διεκδικήσεις σχετικά με τις ελληνικές και αιγυπτιακές αρχαιότητες, γεγονός που ταιριάζει στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Η είδηση αφορά πολιτιστικές διεκδικήσεις και τη διαχείριση αρχαιοτήτων, επικεντρωμένη στις σχέσεις πολιτισμού μεταξύ χωρών.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
