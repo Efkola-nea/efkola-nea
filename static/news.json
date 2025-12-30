@@ -1,158 +1,201 @@
 {
-  "generatedAt": "2025-12-29T15:51:10.012Z",
+  "generatedAt": "2025-12-30T07:49:16.330Z",
   "articles": [
     {
-      "id": "ff154427976b",
-      "title": "Λαβρόφ: Η Ουκρανία επιχείρησε επίθεση με drones στην κατοικία του Πούτιν",
-      "simpleTitle": "Λαβρόφ: Η Ουκρανία επιχείρησε επίθεση με drones στην κατοικία του Πούτιν",
-      "simpleText": "Τίτλος: Η Ουκρανία επιχείρησε να χτυπήσει την κατοικία του Πούτιν με drones\n\nΟ υπουργός Εξωτερικών της Ρωσίας, Σεργκέι Λαβρόφ, ανακοίνωσε ότι το βράδυ της Κυριακής, η Ουκρανία προσπάθησε να επιτεθεί με drones στην κατοικία του Βλαντίμιρ Πούτιν, που βρίσκεται στην περιοχή του Νόβγκοροντ.\n\nΟ Λαβρόφ δήλωσε ότι η Ρωσία θα αλλάξει τη διαπραγματευτική της στάση, λόγω της ενέργειας αυτής, που χαρακτηρίζεται ως κρατική τρομοκρατία από το Κίεβο. Εξέφρασε ότι έχουν καθοριστεί οι στόχοι και ο χρόνος για τις πιθανές αντιδράσεις της Ρωσίας, αλλά τόνισε ότι δεν σκοπεύει να αποσυρθεί από τις ειρηνικές διαπραγματεύσεις.\n\nΜέχρι στιγμής, δεν υπάρχουν πληροφορίες για θύματα ή ζημιές από την επίθεση αυτή.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/lavrof-i-oukrania-epixeirise-epithesi-me-drones-stin-katoikia-tou-poutin/",
+      "id": "93d729dbc68d",
+      "title": "Λαϊκές αγορές: Πανελλαδική απεργία επ’ αόριστον από 7 Ιανουαρίου",
+      "simpleTitle": "Λαϊκές αγορές: Πανελλαδική απεργία επ’ αόριστον από 7 Ιανουαρίου",
+      "simpleText": "Απεργία στις Λαϊκές Αγορές από 7 Ιανουαρίου\n\nΟι πωλητές και παραγωγοί στις λαϊκές αγορές αποφάσισαν να προχωρήσουν σε απεργία επ’ αόριστον, αρχίζοντας από τις 7 Ιανουαρίου 2026. Αυτή η απόφαση πάρθηκε λόγω των δύσκολων οικονομικών συνθηκών που αντιμετωπίζουν. Οι ενώσεις των παραγωγών και πωλητών ζητούν αλλαγές που θα μειώσουν το κόστος της παραγωγής και της διακίνησης των προϊόντων.\n\nΤα κύρια αιτήματα περιλαμβάνουν τη στήριξη των αγροτών, τη μείωση της φορολογίας και την καταπολέμηση της ακρίβειας. Οι οργανώσεις που συμμετέχουν στην απεργία δηλώνουν ότι οι λαϊκές αγορές είναι σημαντικές για τα νοικοκυριά και τους καταναλωτές, και δεν θέλουν να μετατραπούν σε θύματα των οικονομικών πολιτικών που επηρεάζουν αρνητικά την αγορά.\n\nΗ κινητοποίηση αυτή έχει μεγάλη σημασία για τη στήριξη των εργαζομένων και των αγροτών που εξαρτώνται από τη λειτουργία των λαϊκών αγορών.",
+      "sourceName": "Kathimerini, TA NEA, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/society/563999467/laikes-agores-panelladiki-apergia-ep-aoriston-apo-7-ianoyarioy/",
       "sourceDomains": [
-        "ertnews.gr",
         "kathimerini.gr",
-        "tanea.gr"
+        "tanea.gr",
+        "tovima.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/lavrof-i-oukrania-epixeirise-epithesi-me-drones-stin-katoikia-tou-poutin/"
-        },
-        {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/563998426/lavrof-to-kievo-epicheirise-epithesi-stin-katoikia-toy-poytin-stin-periochi-toy-novgkoront/"
+          "url": "https://www.kathimerini.gr/society/563999467/laikes-agores-panelladiki-apergia-ep-aoriston-apo-7-ianoyarioy/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/world/lavrof-i-oukrania-epixeirise-na-pliksei-me-drones-tin-katoikia-tou-poutin/"
+          "url": "https://www.tanea.gr/2025/12/30/greece/panelladiki-apergia-ep-aoriston-stis-laikes-agores-apo-7-ianouariou/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/30/society/apergia-ep-aoriston-stis-laikes-agores-den-stinoun-pagkous-ta-aitimata/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή αναφορά σχετικά με στρατιωτική επίθεση και τις πολιτικές επιπτώσεις της, με άμεσες συνέπειες για τις διεθνείς σχέσεις.",
+      "categoryReason": "Η απεργία στις λαϊκές αγορές είναι σοβαρή είδηση που σχετίζεται με οικονομικά ζητήματα και κοινωνικές κινητοποιήσεις.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gcde14c766fd3e89559575e815d8b92fbeeebb98abe1750a90f085eab2d10cc849d8b91d63682321fe3fbbb4153e1f6da5ae87234eab59989d12a074406a53946_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-29T15:27:52.000Z"
+      "publishedAt": "2025-12-30T07:22:10.000Z"
     },
     {
-      "id": "3e11d215c4b0",
-      "title": "Βαρδούσια: Από ασφυξία πέθαναν οι 4 ορειβάτες – Τι έδειξε η ιατροδικαστική",
-      "simpleTitle": "Βαρδούσια: Από ασφυξία πέθαναν οι 4 ορειβάτες – Τι έδειξε η ιατροδικαστική",
-      "simpleText": "Τίτλος: Βαρδούσια: Θάνατος τεσσάρων ορειβατών από ασφυξία\n\nΤέσσερις ορειβάτες πέθαναν στα Βαρδούσια από ασφυξία. Αυτό συνέβη όταν παρασύρθηκαν από μια χιονοστιβάδα. Εγκλωβίστηκαν στο χιόνι και δεν μπορούσαν να αναπνεύσουν. Η ιατροδικαστική εξέταση αποκάλυψε ότι δεν είχαν κακώσεις.\n\nΤο περιστατικό είναι σημαντικό γιατί δείχνει τους κινδύνους που υπάρχουν όταν κάνουμε ορειβασία σε χιονισμένες περιοχές. Η εκτίμηση της ασφάλειας είναι πολύ σημαντική, ειδικά όταν υπάρχουν χιονοστιβάδες. Πώς να αποφύγουμε τέτοιες τραγικές καταστάσεις είναι κάτι που πρέπει να συζητηθεί.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2025/12/29/society/vardousia-apo-asfyksia-pethanan-oi-4-oreivates-ti-edeikse-i-iatrodikastiki/",
+      "id": "ae2b4ebc6f30",
+      "title": "Τραγωδία στα Άνω Λιόσια: Νεκρός άνδρας που παρασύρθηκε από συρμό του Προαστιακού",
+      "simpleTitle": "Τραγωδία στα Άνω Λιόσια: Νεκρός άνδρας που παρασύρθηκε από συρμό του Προαστιακού",
+      "simpleText": "Στα Άνω Λιόσια, σημειώθηκε δυστύχημα το πρωί της Τρίτης, 30 Δεκεμβρίου. Ένας άνδρας 50 ετών παρασύρθηκε από συρμό του Προαστιακού Σιδηροδρόμου.\n\nΟ άνδρας προσπαθούσε να διασχίσει τις σιδηροδρομικές γραμμές από σημείο χωρίς διάβαση, όταν συγκρούστηκε με το τρένο. Παρελήφθη από ασθενοφόρο και μεταφέρθηκε στο νοσοκομείο «Αττικόν», αλλά, δυστυχώς, υπέκυψε στα τραύματά του.\n\nΗ Hellenic Train ανακοίνωσε ότι το περιστατικό συνέβη σε κλειστό και περιφραγμένο τμήμα της γραμμής. Στο σημείο βρέθηκαν συνεργεία της Αστυνομίας και του ΕΚΑΒ. Για την εξυπηρέτηση των επιβατών, δρομολογήθηκαν λεωφορεία. Αν και η σιδηροδρομική κυκλοφορία καθυστέρησε λόγω του συμβάντος, η Hellenic Train συνεργάζεται με τις αρχές για να διερευνηθούν οι συνθήκες του ατυχήματος.\n\nΤο γεγονός είναι σημαντικό, καθώς αναδεικνύει τους κινδύνους που υπάρχουν κοντά σε σιδηροδρομικές γραμμές και τη σημασία της ασφαλούς διασταύρωσης.",
+      "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/tragodia-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/",
       "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr",
         "tovima.gr",
         "news.gr"
       ],
       "sources": [
         {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/tragodia-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/563999428/ano-liosia-nekros-andras-poy-parasyrthike-apo-syrmo-toy-proastiakoy/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/30/greece/tragiko-dystyxima-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/"
+        },
+        {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/society/vardousia-apo-asfyksia-pethanan-oi-4-oreivates-ti-edeikse-i-iatrodikastiki/"
+          "url": "https://www.tovima.gr/2025/12/30/society/tragodia-ston-proastiako-sta-ano-liosia-andras-parasyrthike-apo-syrmo/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4039911/apo-asfixia-pethanan-i-4-orivates-sta-vardousia-kataplakothikan-apo-chionostivades.html"
+          "url": "https://www.news.gr/ellada/article/4040227/nekros-andras-pou-parasirthike-apo-sirmo-tou-proastiakou-sta-ano-liosia.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο τεσσάρων ορειβατών από ασφυξία, ένα σοβαρό θέμα που σχετίζεται με την ασφάλεια στις ορεινές δραστηριότητες και τους κινδύνους από φυσικά φαινόμενα.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό δυστύχημα που έχει ως αποτέλεσμα τον θάνατο ενός άνδρα, τονίζοντας τους κινδύνους που σχετίζονται με τις σιδηροδρομικές διαβάσεις και την ανάγκη για ασφαλέστερη διάβαση.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g7b0ae5169d0bfa7bc03e6626440b81c723445651f5428075270ddfc04124a7d38759ce4b8e1e5a2c7198dc81f7fb5636a8439e8dc0f7648eeaab00d44f754b93_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-29T15:23:08.000Z"
+      "publishedAt": "2025-12-30T07:07:07.000Z"
     },
     {
-      "id": "c05e4355241f",
-      "title": "Κρήτη: Χωρίς Pet Scan το ΠΑΓΝΗ – Ακυρώνονται ραντεβού καρκινοπαθών",
-      "simpleTitle": "Κρήτη: Χωρίς Pet Scan το ΠΑΓΝΗ – Ακυρώνονται ραντεβού καρκινοπαθών",
-      "simpleText": "Στη Κρήτη, το Πανεπιστημιακό Νοσοκομείο Ηρακλείου (ΠΑΓΝΗ) έχει σταματήσει να λειτουργεί το μηχάνημα Pet Scan. Αυτό έχει δημιουργήσει προβλήματα για ασθενείς με καρκίνο, καθώς οι προγραμματισμένες εξετάσεις τους αναβάλλονται. Οι ασθενείς ενημερώθηκαν την Δευτέρα 29 Δεκεμβρίου ότι το μηχάνημα παρουσίασε βλάβη και χρειάζεται χρόνος και ανταλλακτικά για να επισκευαστεί.\n\nΠριν από λίγο καιρό, εξαιτίας αγροτικών κινητοποιήσεων, κάποιοι ασθενείς είχαν ήδη αναγκαστεί να αναβάλουν τις εξετάσεις τους λόγω προβλημάτων στη μεταφορά ενός ειδικού φαρμάκου από την Αθήνα. Η εκτίμηση ότι οι προσδοκίες του ραντεβού για το Pet Scan ξεπερνούν τους τρεις μήνες σημαίνει ότι πολλοί ασθενείς ήταν ήδη σε δύσκολη κατάσταση.\n\nΤο Pet Scan είναι πολύ σημαντικό για την καλή διάγνωση και θεραπεία του καρκίνου. Βοηθά τους γιατρούς να κατανοήσουν καλύτερα την ασθένεια και να κάνουν τις καλύτερες επιλογές για τη θεραπεία. Ο διοικητής του νοσοκομείου, Γιώργος Χαλκιαδάκης, δήλωσε ότι εργάζονται για την επισκευή του μηχανήματος, αλλά η διαδικασία αυτή μπορεί να διαρκέσει λόγω των εορτών.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/29/greece/kriti-xoris-pet-scan-to-pagni-akyronontai-rantevoy-karkinopathon/",
+      "id": "eda03d731910",
+      "title": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του",
+      "simpleTitle": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του",
+      "simpleText": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του\n\nΈνα σοβαρό επεισόδιο συνέβη σε αγώνα kick boxing στη Σερβία. Ο Έλληνας αθλητής, Γιάννης Τσουκαλάς, νίκησε τον Σέρβο αντίπαλό του, Βαχίντ Κιτσάρα, με νοκ άουτ. Λίγα δευτερόλεπτα μετά τη νίκη του, περίπου 50 άτομα μπήκαν στο ρινγκ και του επιτέθηκαν.\n\nΗ κατάσταση έγινε επικίνδυνη, καθώς ο Τσουκαλάς τραυματίστηκε και χρειάστηκε να μεταφερθεί σε νοσοκομείο στο Βελιγράδι. Εκεί, υποβλήθηκε σε προληπτικές εξετάσεις και όταν οι γιατροί είπαν ότι είναι καλά, επέστρεψε στην Ελλάδα.\n\nΟι διοργανωτές δεν είχαν αρκετό προσωπικό ασφαλείας για να διαχειριστούν την κατάσταση, κάτι που προκάλεσε την γενικευμένη σύρραξη. Είναι σημαντικό ότι η επίθεση συνέβη σε ένα αθλητικό γεγονός και ότι χρειάζεται περισσότερη προσοχή για την ασφάλεια των αθλητών.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-tou/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-tou/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563999395/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-toy/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το γεγονός περιλαμβάνει σοβαρές παραβιάσεις ασφάλειας και την επίθεση σε αθλητή κατά τη διάρκεια ενός αγώνα, γεγονός που αναδεικνύει σημαντικά ζητήματα σχετικά με την ασφάλεια στον αθλητισμό.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb81b57118ede7783180fc05948c56d78dd28eebedcb1db180059a9a8a1772ca9e0801fdf4e4a823f144ee713c84c243f75fb4fc4b52630ac92bb44ff4c59ecc2_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2025-12-30T06:02:49.000Z"
+    },
+    {
+      "id": "491f4bdfb7a4",
+      "title": "Οι ΗΠΑ κατέστρεψαν «προκυμαία» στη Βενεζουέλα – Κατά τον Τραμπ συνδεόταν με διακίνηση ναρκωτικών",
+      "simpleTitle": "Οι ΗΠΑ κατέστρεψαν «προκυμαία» στη Βενεζουέλα – Κατά τον Τραμπ συνδεόταν με διακίνηση ναρκωτικών",
+      "simpleText": "Οι Ηνωμένες Πολιτείες κατέστρεψαν μια περιοχή στη Βενεζουέλα που χρησιμοποιούνταν για τη διακίνηση ναρκωτικών. Αυτό συνέβη μετά από μια στρατιωτική επιχείρηση που άρχισε τον Σεπτέμβριο. Ο πρώην πρόεδρος Ντόναλντ Τραμπ δήλωσε ότι πρόκειται για το πρώτο χερσαίο πλήγμα από την αρχή αυτής της εκστρατείας.\n\nΑμερικανικές δυνάμεις έχουν επιτεθεί σε σκάφη που θεωρούνται ότι σχετίζονται με τη διακίνηση ναρκωτικών. Το τελευταίο πλήγμα είχε αποτέλεσμα τον θάνατο δύο ατόμων που χαρακτηρίστηκαν «ναρκωτρομολόγοι». Παρά τις δηλώσεις για τις επιτυχίες κατά των ναρκωτικών, πολλές φωνές αμφισβητούν την εγκυρότητα αυτών των επιχειρήσεων, και η κυβέρνηση της Βενεζουέλας αρνείται τις κατηγορίες.\n\nΟ Τραμπ, χωρίς να στις λεπτομέρειες των επιχειρήσεων, είπε ότι υπήρξε μεγάλη έκρηξη στην περιοχή που καταστράφηκε. Οι λεπτομέρειες για το πότε και πώς έγινε η επίθεση δεν είναι σαφείς.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/world/563999320/oi-ipa-katestrepsan-prokymaia-sti-venezoyela-kata-ton-tramp-syndeotan-me-diakinisi-narkotikon/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563999320/oi-ipa-katestrepsan-prokymaia-sti-venezoyela-kata-ton-tramp-syndeotan-me-diakinisi-narkotikon/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2025/12/30/world/tramp-oi-ipa-katestrepsan-apovathra-sti-venezoyela-poy-syndeotan-me-diakinisi-narkotikon/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και στρατιωτικές ενέργειες των ΗΠΑ κατά της διακίνησης ναρκωτικών στη Βενεζουέλα, με αναφορές σε στρατιωτικές επιθέσεις και τις πολιτικές συνέπειες για τις σχέσεις ΗΠΑ-Βενεζουέλας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-30T05:57:37.000Z"
+    },
+    {
+      "id": "9873295cfc4d",
+      "title": "ΣΥΡΙΖΑ: Ο κ. Μητσοτάκης μπέρδεψε τους «Φραπέδες» και τους «Χασάπηδες» της ΝΔ με τους πραγματικούς αγρότες",
+      "simpleTitle": "ΣΥΡΙΖΑ: Ο κ. Μητσοτάκης μπέρδεψε τους «Φραπέδες» και τους «Χασάπηδες» της ΝΔ με τους πραγματικούς αγρότες",
+      "simpleText": "Ο τίτλος μπορεί να απλοποιηθεί σε: \"Ο ΣΥΡΙΖΑ κατηγορεί τον Μητσοτάκη ότι δεν καταλαβαίνει τους αγρότες.\"\n\nΗ είδηση αφορά τη δήλωση του πρωθυπουργού Κυριάκου Μητσοτάκη σε μία συνέντευξη. Ο ΣΥΡΙΖΑ, ένα πολιτικό κόμμα, αντέτεινε ότι ο Μητσοτάκης μπέρδεψε τους αγρότες με άλλες ομάδες. Κατηγορεί τον πρωθυπουργό ότι προσπαθεί να διχάσει την κοινωνία, ειδικά ανάμεσα στους αγρότες που αντιδρούν για κάποια ζητήματα.\n\nΣυγκεκριμένα, η ανακοίνωση του ΣΥΡΙΖΑ αναφέρει ότι οι αγρότες βιώνουν δύσκολες καταστάσεις και ο Μητσοτάκης δεν ακούει τις ανησυχίες τους. Πιστεύει ότι η κυβέρνηση δεν νοιάζεται πραγματικά για τα προβλήματα των αγροτών. Ο ΣΥΡΙΖΑ καλεί τον Μητσοτάκη να μην υποτιμά τον αγώνα τους και να αναγνωρίσει την πραγματικότητα που αντιμετωπίζουν.\n\nΗ κατάσταση είναι σημαντική γιατί δείχνει την ένταση στις σχέσεις μεταξύ της κυβέρνησης και των αγροτών, που είναι μία σημαντική κοινωνική ομάδα στην Ελλάδα.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2025/12/30/politics/syriza-o-k-mitsotakis-mperdepse-toys-frapedes-kai-toys-xasapides-tis-nd-me-toys-pragmatiko/",
       "sourceDomains": [
         "tanea.gr",
-        "tovima.gr"
+        "news.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/greece/kriti-xoris-pet-scan-to-pagni-akyronontai-rantevoy-karkinopathon/"
+          "url": "https://www.tanea.gr/2025/12/30/politics/syriza-o-k-mitsotakis-mperdepse-toys-frapedes-kai-toys-xasapides-tis-nd-me-toys-pragmatiko/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/society/pagni-xoris-pet-scan-i-kriti-akyronoun-rantevou-karkinopathon/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4040164/siriza-ps-o-k-mitsotakis-berdepse-tous-frapedes-ke-tous-chasapides-tis-nd-me-tous-pragmatikous-agrotes.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σημαντικά ζητήματα υγείας και την ταλαιπωρία καρκινοπαθών λόγω τεχνικών προβλημάτων σε ένα ιατρικό μηχάνημα, κάτι που έχει σοβαρές συνέπειες για τη διάγνωση και θεραπεία της ασθένειας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4ea6c3ac0bf72e22b4f64ef76c63cea38ab3ad803e7a65ee886dddd293a49b1fc8d3bdf0882285a303b819f5784ffcc89984b1fb36d70f4cf5aad9f71f6f7f62_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:53:34.000Z"
-    },
-    {
-      "id": "a78aa11f415f",
-      "title": "Τραγωδία στην Καλαμπάκα: Νεκρά δύο αδέρφια από αναθυμιάσεις σόμπας",
-      "simpleTitle": "Τραγωδία στην Καλαμπάκα: Νεκρά δύο αδέρφια από αναθυμιάσεις σόμπας",
-      "simpleText": "Στην Καλαμπάκα, δύο αδέλφια βρέθηκαν νεκρά στο σπίτι τους. Ο άνδρας ήταν 73 ετών και η γυναίκα 65. Η τραγωδία συνέβη στην περιοχή Κρύα Βρύση. Σύμφωνα με τις πρώτες πληροφορίες, οι θάνατοί τους φαίνεται να σχετίζονται με αναθυμιάσεις από σόμπα που είχαν για θέρμανση.\n\nΑμέσως μετά την ανακάλυψή τους, η Αστυνομία έφτασε στο σημείο και ο χώρος αποκλείστηκε. Η ακριβής αιτία των θανάτων θα καθοριστεί από ιατροδικαστική εξέταση. Είναι σημαντικό να επισημάνουμε την ανάγκη προσοχής στη χρήση συσκευών θέρμανσης, καθώς οι αναθυμιάσεις μπορεί να είναι επικίνδυνες.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/29/greece/tragodia-stin-kalampaka-nekra-dyo-aderfia-apo-anathymiaseis-sompas/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/greece/tragodia-stin-kalampaka-nekra-dyo-aderfia-apo-anathymiaseis-sompas/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/society/tragodia-stin-kalampaka-nekra-dyo-adelfia-apo-anathymiaseis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά το θάνατο δύο ανθρώπων από αναθυμιάσεις, που αποτελεί μία σοβαρή και τραγική περίπτωση σχετική με θέματα υγείας και ασφάλειας.",
+      "categoryReason": "Η είδηση αφορά πολιτική κριτική του ΣΥΡΙΖΑ προς τον πρωθυπουργό Μητσοτάκη, εστιάζοντας σε σημαντικά κοινωνικά ζητήματα που αφορούν τους αγρότες και την κυβέρνηση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-29T14:50:40.000Z"
+      "publishedAt": "2025-12-30T05:55:29.000Z"
     },
     {
-      "id": "4c41482ccd0e",
-      "title": "Έφτασε στην Αλεξανδρούπολη το πρώτο αμερικανικό φορτίο LNG",
-      "simpleTitle": "Έφτασε στην Αλεξανδρούπολη το πρώτο αμερικανικό φορτίο LNG",
-      "simpleText": "Τίτλος: Ήρθε στην Αλεξανδρούπολη το πρώτο φορτίο υγροποιημένου φυσικού αερίου από τις ΗΠΑ\n\nΣτην Αλεξανδρούπολη έφτασε το πρώτο φορτίο υγροποιημένου φυσικού αερίου (LNG) από την Αμερική. Αυτό συνέβη πρόσφατα και είναι σημαντικό για την ενεργειακή ασφάλεια της περιοχής.\n\nΗ εταιρεία Metlen, που είναι υπεύθυνη για τη διαχείριση αυτού του φορτίου, θεωρείται σημαντικός παράγοντας για τη Νοτιοανατολική Ευρώπη. Το LNG αυτό θα χρησιμοποιηθεί κυρίως για την αγορά της Βουλγαρίας, μέσω συνεργασίας με την κρατική εταιρεία Bulgargaz.\n\nΑυτή η συνεργασία είναι μία από τις πιο σταθερές στην περιοχή. Η άφιξη του αμερικανικού LNG δείχνει τη σημασία της Αλεξανδρούπολης ως σημείο διανομής ενέργειας.",
-      "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2025/12/29/finance/eftase-stin-aleksandroupoli-to-proto-amerikaniko-fortio-lng/",
+      "id": "ff3c9f862b46",
+      "title": "Σίδνεϊ: «Μόνοι» ενήργησαν οι δράστες της επίθεσης στην παραλία Μπόνταϊ",
+      "simpleTitle": "Σίδνεϊ: «Μόνοι» ενήργησαν οι δράστες της επίθεσης στην παραλία Μπόνταϊ",
+      "simpleText": "Στο Σίδνεϊ, δύο άτομα έκαναν μια επίθεση στην παραλία Μπόνταϊ στις 14 Δεκεμβρίου. Αυτή η μέρα είναι σημαντική, επειδή συμπίπτει με την εβραϊκή γιορτή του Χάνουκα. Από την επίθεση, 15 άνθρωποι έχασαν τη ζωή τους.\n\nΗ αρχηγός της ομοσπονδιακής αστυνομίας της Αυστραλίας δήλωσε ότι οι δράστες ενήργησαν μόνοι τους. Αυτό σημαίνει ότι δεν είχαν βοήθεια από άλλους. Η κατάσταση είναι σοβαρή, καθώς η επίθεση έχει προκαλέσει μεγάλη ανησυχία στους πολίτες.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/world/563999380/sidnei-monoi-enirgisan-oi-drastes-tis-epithesis-stin-paralia-mpontai/",
       "sourceDomains": [
-        "tovima.gr",
-        "protagon.gr"
+        "kathimerini.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/finance/eftase-stin-aleksandroupoli-to-proto-amerikaniko-fortio-lng/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/563999380/sidnei-monoi-enirgisan-oi-drastes-tis-epithesis-stin-paralia-mpontai/"
         },
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/oikonomia/stin-aleksandroupoli-to-prwto-amerikaniko-fortio-lng-gia-ti-voulgariki-agora-apo-ti-metlen-44343283909"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4040143/i-dio-drastes-tis-epithesis-sto-sidnei-enirgisan-moni-diloni-i-archigos-tis-omospondiakis-astinomias-tis-afstralias.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται στην άφιξη του πρώτου φορτίου υγροποιημένου φυσικού αερίου από τις ΗΠΑ στην Αλεξανδρούπολη, ένα γεγονός που έχει σοβαρές συνέπειες για την ενεργειακή ασφάλεια της περιοχής και τη συνεργασία στον τομέα της ενέργειας.",
+      "categoryReason": "Η επίθεση στην παραλία Μπόνταϊ έχει σοβαρές συνέπειες με θύματα και ανησυχία στους πολίτες, επομένως σχετίζεται με σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2025-12-29T14:44:06.000Z"
+      "publishedAt": "2025-12-30T05:45:11.000Z"
     },
     {
-      "id": "fff6ac865f68",
-      "title": "Ο Πούτιν αλλάζει τη νομοθεσία ώστε η Ρωσία να αγνοεί τις αποφάσεις των διεθνών ποινικών δικαστηρίων",
-      "simpleTitle": "Ο Πούτιν αλλάζει τη νομοθεσία ώστε η Ρωσία να αγνοεί τις αποφάσεις των διεθνών ποινικών δικαστηρίων",
-      "simpleText": "Τίτλος: Ο Πούτιν αλλάζει τον νόμο για να μη δέχεται αποφάσεις διεθνών δικαστηρίων\n\nΟ Βλαντίμιρ Πούτιν υπέγραψε νέες νόμιμες αλλαγές για να δώσει στη Ρωσία το δικαίωμα να αγνοεί τις αποφάσεις ξένων και διεθνών δικαστηρίων σχετικά με ποινικές υποθέσεις. Αυτό συνέβη πρόσφατα, καθώς η Ουκρανία και οι Ευρωπαϊκές χώρες προσπαθούν να επιβάλουν κυρώσεις στη Ρωσία λόγω της επίθεσής της στην Ουκρανία.\n\nΗ απόφαση του Πούτιν είναι απάντηση σε αναφορές που μιλούν για εγκλήματα πολέμου από Ρώσους αξιωματούχους. Η Μόσχα απορρίπτει αυτές τις κατηγορίες. Παράλληλα, τον Ιούνιο, η Ουκρανία και το Ευρωπαϊκό Δικαστήριο Δικαιωμάτων του Ανθρώπου συμφώνησαν να δημιουργήσουν ένα ειδικό ποινικό δικαστήριο για αυτά τα θέματα.\n\nΤο Διεθνές Ποινικό Δικαστήριο (ΔΠΔ) έχει εκδώσει εντάλματα σύλληψης για τον Πούτιν και άλλους Ρώσους, κατηγορώντας τους για παράνομη μεταφορά παιδιών από την Ουκρανία. Η Ρωσία, μέσω του Κρεμλινού, λέει ότι αυτό είναι ψευδές και ισχυρίζεται ότι η μεταφορά έγινε για να προστατευτούν τα παιδιά.\n\nΜε τις αλλαγές, η Ρωσία μπορεί να αγνοεί αποφάσεις που εκδίδονται από διεθνή δικαστήρια αν δεν υπάρχει συμφωνία μαζί της ή αν δεν έχει ψηφιστεί από τον ΟΗΕ.",
+      "id": "452da161f9cc",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 30 Δεκεμβρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 30 Δεκεμβρίου",
+      "simpleText": "Σήμερα, 30 Δεκεμβρίου, γιορτάζουν οι Άγιοι Ανύσιος, Ανυσία, Γεδεών και Φιλέταιρος. Αυτοί οι Άγιοι τιμώνται για τη βαθιά πίστη τους. Ο Άγιος Φιλέταιρος, για παράδειγμα, είχε μεγάλη εξωτερική ομορφιά, αλλά πίστευε ότι η ψυχική ομορφιά είναι πιο σημαντική.\n\nΟ Φιλέταιρος προσεγγίστηκε από τον αυτοκράτορα Διοκλητιανό, ο οποίος ήθελε να τον έχει κοντά του, αλλά όρισε ότι έπρεπε να αρνηθεί τον Χριστιανισμό. Ο Φιλέταιρος αρνήθηκε να απομακρυνθεί από την πίστη του και φυλακίστηκε. Αργότερα, με άλλους ηγεμόνες, αντιμετώπισε διωγμούς και κακουχίες. Έζησε όμως με πίστη και αφοσίωση, συναντώντας άλλους αγίους και προσευχόμενος μαζί τους.\n\nΗ γιορτή αυτή είναι σημαντική γιατί τιμά την αφοσίωση και την πίστη των Αγίων, ενώ πολλοί άνθρωποι γιορτάζουν και το όνομά τους σήμερα.",
       "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-allazei-ti-nomothesia-oste-i-rosia-na-agnoei-tis-apofaseis-ton-diethnon-poinikon-dikastirion/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-30-dekemvriou-2/",
       "sourceDomains": [
         "ertnews.gr",
         "tanea.gr"
@@ -160,180 +203,53 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-allazei-ti-nomothesia-oste-i-rosia-na-agnoei-tis-apofaseis-ton-diethnon-poinikon-dikastirion/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-30-dekemvriou-2/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/world/o-poytin-pernaei-nomo-gia-na-agnoei-apofaseis-diethnon-poinikon-dikastirion-apo-ti-rosia/"
+          "url": "https://www.tanea.gr/2025/12/30/greece/eortologio-poioi-giortazoun-simera-30-dekemvriou/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές νομικές και πολιτικές εξελίξεις σχετικά με την αγνόηση διεθνών δικαστικών αποφάσεων από τη Ρωσία, συνδέεται με σημαντικά ζητήματα όπως εγκλήματα πολέμου και διεθνείς σχέσεις.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gb174e5718d7778c735ae5a8ca19c314835a83a908f5b8616b5be973a5632e307e60978267abca71dd0e4dd902ab73017044639780458715ee4e5ee6135be064f_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:41:22.000Z"
-    },
-    {
-      "id": "d4330903bd73",
-      "title": "Άρης Μουγκοπέτρος: Αθωώθηκε από το δικαστήριο για την υπόθεση ενδοοικογενειακής απειλής",
-      "simpleTitle": "Άρης Μουγκοπέτρος: Αθωώθηκε από το δικαστήριο για την υπόθεση ενδοοικογενειακής απειλής",
-      "simpleText": "Ο Άρης Μουγκοπέτρος αθωώθηκε από το δικαστήριο της Τρίπολης για κατηγορία ενδοοικογενειακής απειλής. Η απόφαση εκδόθηκε τη Δευτέρα, μετά από δίκη που ακολούθησε μια καταγγελία από τη σύζυγό του, την ημέρα των Χριστουγέννων.\n\nΤο δικαστήριο αποφάνθηκε ότι η κατηγορία δεν είναι βάσιμη και απελευθέρωσε τον μουσικό από τις εν λόγω κατηγορίες. Μετά την απόφαση, ο Άρης Μουγκοπέτρος είπε πως ζήτησε συγγνώμη από τα παιδιά του σε μια προηγούμενη δήλωση, χωρίς να μπορεί να μιλήσει πολύ λόγω των συναισθημάτων του. Ο δικηγόρος του υπογράμμισε ότι η διαδικασία ήταν δύσκολη, αλλά η απόφαση είναι θετική.\n\nΟ κ. Μουγκοπέτρος τώρα επιθυμεί να επανασυνδεθεί με τα παιδιά του. Αξιοσημείωτο είναι ότι διέψευσε ότι ζήτησε συγνώμη δημόσια από τα παιδιά του, κάτι που είχε αναφερθεί στα ΜΜΕ.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/29/greece/aris-moygkopetros-athoothike-apo-to-dikastirio-gia-tin-ypothesi-endooikogeneiakis-apeilis/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/greece/aris-moygkopetros-athoothike-apo-to-dikastirio-gia-tin-ypothesi-endooikogeneiakis-apeilis/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/society/athoothike-o-aris-mougkopetros/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια δικαστική απόφαση που σχετίζεται με την κατηγορία ενδοοικογενειακής απειλής, η οποία είναι ένα σοβαρό κοινωνικό ζήτημα.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfce3e876c82d48c1d3abd744e359a3bb6aa2a4ad37a41954996f3b0c3d3c7134ba07df5da5f688866fe9e2ae9546ce8e43e89ebfda2cf3c528893dcd09533eec_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:33:18.000Z"
-    },
-    {
-      "id": "917e68250a3a",
-      "title": "Θεσσαλονίκη: Σε εξέλιξη η επιχείρηση κατάσβεσης της φωτιάς σε απορρίμματα κοντά στη Σχολή Δικαστών",
-      "simpleTitle": "Θεσσαλονίκη: Σε εξέλιξη η επιχείρηση κατάσβεσης της φωτιάς σε απορρίμματα κοντά στη Σχολή Δικαστών",
-      "simpleText": "Στη Θεσσαλονίκη, υπάρχει φωτιά σε απορρίμματα κοντά στη Σχολή Δικαστών. Η φωτιά ξεκίνησε μετά τις 12 το μεσημέρι σε εξωτερικό χώρο στην περιοχή της Μίκρας.\n\nΣτο σημείο εργάζονται είκοσι πυροσβέστες με οκτώ οχήματα για να σβήσουν τη φωτιά. Η κατάσταση είναι σε εξέλιξη και η φωτιά έχει προσελκύσει την προσοχή των αρχών. Είναι σημαντικό να κατασβεστεί γρήγορα, γιατί μπορεί να προκαλέσει προβλήματα στην περιοχή. Μέχρι στιγμής δεν υπάρχουν πληροφορίες για τραυματισμούς.",
-      "sourceName": "ERT News, Kathimerini, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-se-ekseliksi-i-epixeirisi-katasvesis-tis-fotias-se-aporrimmata-konta-sti-sxoli-dikaston/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki-se-ekseliksi-i-epixeirisi-katasvesis-tis-fotias-se-aporrimmata-konta-sti-sxoli-dikaston/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563998063/thessaloniki-fotia-se-aporrimmata-konta-sti-scholi-dikaston/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4039882/fotia-se-aporrimmata-konta-sti-scholi-dikaston-stin-thessaloniki.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η φωτιά σε απορρίμματα στη Θεσσαλονίκη αποτελεί σοβαρό γεγονός που σχετίζεται με την ασφάλεια και την υγεία της περιοχής, καθώς απαιτεί την άμεση παρέμβαση των πυροσβεστικών δυνάμεων.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4fd469e8ee11d22a7fb4d76a83bcdb481a8fe0ff77b726bc06adb45e9e5466606e2ecec844d6b723decc8fdaa692b2132954ad50d85fb7abe2b69436553f79b7_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:27:51.000Z"
-    },
-    {
-      "id": "b8b5fa88710a",
-      "title": "Βαρδούσια: Από ασφυξία ο θάνατος των τεσσάρων ορειβατών σύμφωνα με την ιατροδικαστική εξέταση",
-      "simpleTitle": "Βαρδούσια: Από ασφυξία ο θάνατος των τεσσάρων ορειβατών σύμφωνα με την ιατροδικαστική εξέταση",
-      "simpleText": "Τίτλος: Θάνατος τεσσάρων ορειβατών από ασφυξία στα Βαρδούσια\n\nΣτα Βαρδούσια, τέσσερις ορειβαστές έχασαν τη ζωή τους εξαιτίας ασφυκτικού θανάτου, όπως δείχνει η ιατροδικαστική εξέταση. Το περιστατικό συνέβη το Σάββατο, 27 Δεκεμβρίου, σε περιοχή της Φωκίδας.\n\nΟι τέσσερις ορειβάτες, τρεις άνδρες και μία γυναίκα, καταπλακώθηκαν από μεγάλες ποσότητες χιονιού, πιθανόν λόγω χιονοστιβάδας. Δεν βρέθηκαν εξωτερικές κακώσεις ή τραύματα, γεγονός που επιβεβαίωσε ότι ο θάνατός τους οφείλεται στην ασφυξία.\n\nΟι ορειβάτες ήταν σχεδόν αγκαλιασμένοι, υποδεικνύοντας ότι η χιονοστιβάδα συνέβη ξαφνικά και δεν είχαν χρόνο να αντιδράσουν. Η επιχείρηση διάσωσης ήταν δύσκολη λόγω των αντίξοων καιρικών συνθηκών. Αυτή η τραγωδία υπογραμμίζει τους κινδύνους που αντιμετωπίζουν οι ορειβάτες σε δύσκολες περιοχές.",
-      "sourceName": "ERT News, Kathimerini, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/vardousia-apo-asfyksia-o-thanatos-ton-tessaron-oreivaton-symfona-me-tin-iatrodikastiki-eksetasi/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/vardousia-apo-asfyksia-o-thanatos-ton-tessaron-oreivaton-symfona-me-tin-iatrodikastiki-eksetasi/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563998129/vardoysia-apo-asfyxia-o-thanatos-ton-tessaron-oreivaton/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/apo-asfyksia-o-thanatos-twn-tessarwn-sta-vardousia-44343283861"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό και τραγικό περιστατικό με τον θάνατο τεσσάρων ορειβατών από ασφυξία λόγω χιονοστιβάδας, κάτι που είναι σημαντικό για την ασφάλεια και τους κινδύνους στον αθλητισμό και την ορειβασία.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc363e929e95501b8be9634225ccedc26ac1ab8cc95479aa38a922107e791e911d82d73c2c541d9c1ef8ec67aaef4e48660e5ac78622342027a9f4f84b7e74f46_1280.jpg",
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2025/12/ertnews-20251227182027-aac-h264-microsoft-1080-5000kbps-1.mp4",
-      "publishedAt": "2025-12-29T14:26:42.000Z"
-    },
-    {
-      "id": "2134d7596ae2",
-      "title": "Θεσσαλονίκη: Προετοιμασίες για το μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο – Κορυφαίοι DJs και εντυπωσιακό laser show",
-      "simpleTitle": "Θεσσαλονίκη: Προετοιμασίες για το μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο – Κορυφαίοι DJs και εντυπωσιακό laser show",
-      "simpleText": "Θεσσαλονίκη: Ετοιμάζεται μεγάλη γιορτή για την αλλαγή του χρόνου στον Λευκό Πύργο.\n\nΗ Θεσσαλονίκη προετοιμάζεται για μία εντυπωσιακή γιορτή την παραμονή της Πρωτοχρονιάς. Θα γίνει ένα μεγάλο πάρτι στον Λευκό Πύργο, όπου θα συγκεντρωθούν πολλοί κάτοικοι και επισκέπτες. Το 2025 θα υποδεχτούμε με ένα εντυπωσιακό laser show και μουσική από γνωστούς DJs.\n\nΗ εκδήλωση θα ξεκινήσει το απόγευμα και θα διαρκέσει μέχρι το πρωί. Από τις 8 το βράδυ θα παίζουν δύο σπουδαίοι DJs, οι Fideles και Gheist, που είναι γνωστοί σε όλο τον κόσμο. Η βραδιά θα συνδυάζει τη μουσική με φωτεινές εικόνες, ώστε να δημιουργήσει μια γιορτινή ατμόσφαιρα.\n\nΟ δήμος Θεσσαλονίκης ελπίζει ότι οι πολίτες θα υποστηρίξουν την εκδήλωση, παρά τις χαμηλές θερμοκρασίες που προβλέπουν οι μετεωρολόγοι. Επίσης, φέτος για πρώτη φορά στολίστηκαν πολλές γειτονιές της πόλης με φωτεινά στολίδια, φέρνοντας εορταστική διάθεση σε ολόκληρη τη Θεσσαλονίκη.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-proetoimasies-gia-to-megalo-parti-allagis-tou-xronou-ston-leyko-pyrgo-koryfaioi-djs-kai-entyposiako-laser-show/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki-proetoimasies-gia-to-megalo-parti-allagis-tou-xronou-ston-leyko-pyrgo-koryfaioi-djs-kai-entyposiako-laser-show/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4039836/proetimasies-gia-to-megalo-parti-allagis-tou-chronou-ston-lefko-pirgo-sti-thessaloniki.html"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αφορά ένα μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο με DJs και laser show, το οποίο είναι λαμπερό και διασκεδαστικό, προορισμένο να προσελκύσει κόσμο για γιορτή και ψυχαγωγία.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfb1e707df03460461ebbb3f3a2c3d8a70be5c288415f1de246c74c76fd848c74c91a1d545cb01db53caef2bd71aac6c1643839c6088e873a071d9574b7cc1f5e_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:25:19.000Z"
-    },
-    {
-      "id": "c1a2821e950f",
-      "title": "Τελευταίο αντίο στη Σύλβα Ακρίτα – Ανδρουλάκης: «Ο αγώνας της μας εμπνέει»",
-      "simpleTitle": "Τελευταίο αντίο στη Σύλβα Ακρίτα – Ανδρουλάκης: «Ο αγώνας της μας εμπνέει»",
-      "simpleText": "**Απλός τίτλος: Αποχαιρετισμός στη Σύλβα Ακρίτα**\n\nΗ Σύλβα Ακρίτα, σημαντική πολιτικός και η πρώτη γυναίκα βουλευτής του ΠΑΣΟΚ, απεβίωσε πρόσφατα. Η κηδεία της έγινε το μεσημέρι της Δευτέρας 29 Δεκεμβρίου 2025, στο Α’ Νεκροταφείο Αθηνών. Πολύς κόσμος, κυρίως από τον πολιτικό χώρο, παραβρέθηκε για να την τιμήσει.\n\nΗ κόρη της, Έλενα Ακρίτα, που είναι και βουλευτής του ΣΥΡΙΖΑ, ήταν πολύ συγκινημένη. Στην κηδεία βρέθηκαν και άλλοι πολιτικοί, όπως ο Νίκος Ανδρουλάκης, ο αρχηγός της αξιωματικής αντιπολίτευσης. Ο Ανδρουλάκης μίλησε για τον αγώνα της Σύλβας Ακρίτα υπέρ των δικαιωμάτων των γυναικών και της κοινωνικής δικαιοσύνης.\n\nΗ οικογένεια της Σύλβας ζήτησε, αντί για στεφάνια, οι φίλοι και γνωστοί να κάνουν δωρεές σε ένα κέντρο που βοηθά παιδιά που έχουν πέσει θύματα κακοποίησης. Η Σύλβα Ακρίτα θα μείνει στη μνήμη πολλών, καθώς υπηρέτησε την κοινωνία με πάθος και αφοσίωση.",
-      "sourceName": "ERT News, Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/teleytaio-antio-sti-sylva-akrita-androulakis-o-agonas-tis-mas-empneei/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/teleytaio-antio-sti-sylva-akrita-androulakis-o-agonas-tis-mas-empneei/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/563998159/teleytaio-antio-sti-sylva-akrita-plithos-kosmoy-stin-kideia-eikones/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/society/teleytaio-antio-sti-sylva-akrita/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον αποχαιρετισμό μιας σημαντικής πολιτικής προσωπικότητας, την Σύλβα Ακρίτα, και κουβαλά σοβαρά θέματα που σχετίζονται με τα δικαιώματα των γυναικών και την κοινωνική δικαιοσύνη.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά τη γιορτή των Αγίων και την επίσημη τιμή τους, γεγονός που συνδέεται με θρησκευτικές παραδόσεις και πολιτιστικές αξίες.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2025/12/ertnews-20251229153955-aac-h264-microsoft-1080-5000kbps.mp4",
-      "publishedAt": "2025-12-29T14:18:19.000Z"
+      "videoUrl": null,
+      "publishedAt": "2025-12-30T05:05:46.000Z"
+    },
+    {
+      "id": "a6042e3cf5d4",
+      "title": "Συνάντηση Τραμπ-Νετανιάχου: Η Χαμάς διαμηνύει πως δεν θα καταθέσει τα όπλα",
+      "simpleTitle": "Συνάντηση Τραμπ-Νετανιάχου: Η Χαμάς διαμηνύει πως δεν θα καταθέσει τα όπλα",
+      "simpleText": "Τίτλος: Συνάντηση Τραμπ-Νετανιάχου: Η Χαμάς δηλώνει ότι δεν παραδίνει τα όπλα\n\nΗ αμερικανική κυβέρνηση και η ισραηλινή κυβέρνηση προγραμματίζουν συνάντηση μεταξύ του προεδρου Τραμπ και του πρωθυπουργού Νετανιάχου. Αυτή η συνάντηση είναι σημαντική καθώς αφορά την κατάσταση στη Μέση Ανατολή.\n\nΛίγο πριν από τη συνάντηση, η Χαμάς, μια ομάδα που ασκεί ένοπλη δράση, δήλωσε ότι δεν προτίθεται να παραδώσει τα όπλα της. Αντίθετα, καλεί όλες τις πλευρές να εργαστούν για την αποστρατικοποίηση του Ισραήλ.\n\nΑυτές οι εξελίξεις δείχνουν την ένταση στην περιοχή και πώς επηρεάζουν τις διαπραγματεύσεις. Η δήλωση της Χαμάς υπογραμμίζει τη δύσκολη κατάσταση και την πρόθεση της ομάδας να συνεχίσει τον αγώνα της.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2025/12/29/world/synantisi-tramp-netaniaxou-i-xamas-diaminyei-pos-den-tha-katathesei-ta-opla/",
+      "sourceDomains": [
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2025/12/29/world/synantisi-tramp-netaniaxou-i-xamas-diaminyei-pos-den-tha-katathesei-ta-opla/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4040088/i-chamas-epanalamvani-pos-den-tha-katathesi-ta-opla.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές εξελίξεις στη Μέση Ανατολή και την κατάσταση της Χαμάς, που σχετίζονται με τη διεθνή ασφάλεια και τις σχέσεις μεταξύ κρατών.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2025-12-29T22:00:17.000Z"
     },
     {
       "id": "3c371d410661",
       "title": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
       "simpleTitle": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
-      "simpleText": "Τίτλος: Οι μαθητές και τα επαγγέλματα που θα υπάρξουν στο μέλλον\n\nΜια πρόσφατη έρευνα δείχνει ότι περισσότερα από τα μισά παιδιά που τώρα ξεκινούν το δημοτικό σχολείο θα δουλέψουν σε επαγγέλματα που δεν υπάρχουν σήμερα. Αυτό σημαίνει ότι ο κόσμος της εργασίας αλλάζει γρήγορα.\n\nΗ έρευνα έγινε στο πλαίσιο της εκδήλωσης World Futures Day 2025. Δείχνει πως οι επαγγελματικές δρόμοι των μαθητών θα είναι διαφορετικοί από αυτούς που γνωρίζουμε τώρα. Πολλοί εργαζόμενοι σήμερα ήδη απασχολούνται σε θέσεις που φτιάχτηκαν μόλις πριν λίγα χρόνια.\n\nΕπιπλέον, οι εργοδότες δίνουν περισσότερη σημασία στις δεξιότητες που έχει κάποιος στη ζωή, παρά σε τυπικά πτυχία. Αυτό έχει σαν αποτέλεσμα πολλοί νέοι να αισθάνονται αβέβαιοι σχετικά με το μέλλον τους.\n\nΕίναι σημαντικό να κατανοούμε αυτές τις αλλαγές ώστε να προετοιμαστούμε καλύτερα για τις επαγγελματικές ευκαιρίες που θα υπάρξουν.",
+      "simpleText": "Τίτλος: Οι μαθητές σήμερα και οι δουλειές του μέλλοντος\n\nΠερίληψη:\nΠερισσότερα από τα μισά παιδιά που αρχίζουν τώρα το δημοτικό σχολείο πιθανότατα θα κάνουν δουλειές που δεν υπάρχουν ακόμα. Αυτό δείχνει πως η αγορά εργασίας αλλάζει πολύ γρήγορα.\n\nΤη στιγμή αυτή, πολλοί εργαζόμενοι έχουν θέσεις εργασίας που δεν υπήρχαν πριν από λίγα χρόνια. Οι εργοδότες δίνουν λίγη σημασία στα τυπικά προσόντα και προτιμούν τις \"δεξιότητες ζωής\", δηλαδή ικανότητες που αφορούν την καθημερινή ζωή και τις σχέσεις. Αυτό οδηγεί πολλούς νέους να νιώθουν άγχος και ανασφάλεια για το μέλλον τους.\n\nΗ είδηση είναι σημαντική γιατί δείχνει ότι οι μαθητές πρέπει να προετοιμαστούν για έναν κόσμο με πολλές αλλαγές στις δουλειές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30551-mathites-kai-epaggelmata-tou-mellontos/",
       "sourceDomains": [
@@ -346,7 +262,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά θέματα σχετικά με την εκπαίδευση και τις μελλοντικές επαγγελματικές προοπτικές των μαθητών, εστιάζοντας στις αλλαγές στον κόσμο της εργασίας και στις απαιτήσεις των εργοδοτών.",
+      "categoryReason": "Η είδηση σχετίζεται με σοβαρά ζητήματα όπως η αγορά εργασίας, οι αλλαγές στα επαγγελματικά προσόντα και οι προκλήσεις που αντιμετωπίζουν οι μαθητές, αναδεικνύοντας τις ανησυχίες για το μέλλον τους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -356,7 +272,7 @@
       "id": "b614a8010620",
       "title": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
       "simpleTitle": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
-      "simpleText": "Η Νότια Κορέα βάζει κανόνες για τις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη.\n\nΑπό το επόμενο έτος, οι διαφημίσεις που δημιουργούνται με τη βοήθεια της τεχνητής νοημοσύνης θα πρέπει να έχουν ειδική ένδειξη. Αυτό σημαίνει ότι οι καταναλωτές θα μπορούν να δουν καθαρά αν μια διαφήμιση είναι πραγματική ή αν έχει δημιουργηθεί από υπολογιστή.\n\nΗ απόφαση αυτή παίρνεται γιατί πολλές φορές οι διαφημίσεις αυτές εμφανίζουν ψεύτικους ειδικούς ή χρησιμοποιούν εικόνες διάσημων προσώπων που δεν συμμετέχουν πραγματικά. Οι διαφημίσεις αυτές συχνά προωθούν προϊόντα υγείας, καλλυντικά ή ακόμη και παράνομες υπηρεσίες.\n\nΑυτός ο κανονισμός είναι σημαντικός για την προστασία των καταναλωτών και την αποφυγή παραπληροφόρησης.",
+      "simpleText": "Τίτλος: Νότια Κορέα: Νέοι κανόνες για διαφημίσεις με τεχνητή νοημοσύνη\n\nΗ Νότια Κορέα προγραμματίζει νέους κανόνες για τις διαφημίσεις. Από το επόμενο έτος, οι διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη (AI) θα πρέπει να έχουν ειδική σήμανση. Αυτό σημαίνει ότι οι άνθρωποι θα ξέρουν ποιες διαφημίσεις είναι πραγματικές και ποιες όχι.\n\nΑυτή η απόφαση γίνεται λόγω της αύξησης των παραπλανητικών διαφημίσεων. Σε πολλές περιπτώσεις, οι διαφημίσεις εμφανίζουν ψεύτικους ειδικούς ή χρησιμοποιούν εικόνες διασημοτήτων που δεν έχουν συμφωνήσει να προωθήσουν προϊόντα. Αυτές οι πρακτικές μπορούν να προκαλέσουν σύγχυση στους καταναλωτές, κυρίως σε προϊόντα υγείας ή καλλυντικά.\n\nΈτσι, οι νέοι κανόνες θα βοηθήσουν στην προστασία των πολιτών από παραπλανητικές πληροφορίες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30395-notia-korea-ai-diafimisis-prostasia-katanaloton/",
       "sourceDomains": [
@@ -369,7 +285,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την προστασία των καταναλωτών μέσω κανονισμών γύρω από τις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη, κάτι που σχετίζεται με σοβαρά ζητήματα όπως η παραπληροφόρηση και η διαφάνεια στην αγορά.",
+      "categoryReason": "Η είδηση αφορά τη θέσπιση νέων κανόνων για τη διαφάνεια στις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη, θεσπίζοντας μέτρα προστασίας για τους καταναλωτές από παραπλανητικές πληροφορίες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -379,7 +295,7 @@
       "id": "e68355ef1eca",
       "title": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
       "simpleTitle": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
-      "simpleText": "Νέα απόφαση για την προστασία ρινόκερων\n\nΟι προτάσεις της Ναμίμπια να επιτραπεί το εμπόριο κεράτων ρινόκερων απορρίφθηκαν. Αυτό συνέβη σε μία σημαντική συνάντηση για την προστασία της άγριας ζωής. Η συνάντηση του οργανισμού CITES έγινε στη Σαμαρκάνδη, στο Ουζμπεκιστάν.\n\nΗ Ναμίμπια ζήτησε να αρθεί η διεθνής απαγόρευση για το εμπόριο κεράτων του μαύρου και του λευκού ρινόκερου. Αυτή η απόφαση είναι σημαντική γιατί δείχνει τη δέσμευσή της διεθνούς κοινότητας να προστατεύει τα απειλούμενα είδη.\n\nΕπιπλέον, απορρίφθηκε και η πρόταση της Ναμίμπια να επιτραπεί το εμπόριο ελεφαντόδοντου από αφρικανικούς ελέφαντες. Αυτή η απόφαση επιβεβαιώνει τη σταθερή στάση κατά των πρακτικών που βλάπτουν την άγρια ζωή.",
+      "simpleText": "Τίτλος: Απορρίφθηκαν οι προτάσεις της Ναμίμπια σχετικά με τα ρινόκερα\n\nΣτη Ναμίμπια, είπαν ότι θέλουν να επιτρέψουν το εμπόριο κεράτων ρινόκερου, αλλά αυτή η πρόταση δεν έγινε αποδεκτή. Η απόφαση πάρθηκε σε μια πολύ σημαντική συνάντηση, που ονομάζεται CITES, η οποία έγινε πρόσφατα στη Σαμαρκάνδη του Ουζμπεκιστάν.\n\nΣτη συνάντηση, οι συμμετέχοντες αποφάσισαν επίσης να μην επιτρέψουν το εμπόριο ελεφαντόδοντου από αφρικανικούς ελέφαντες. Αυτή η απόφαση δείχνει πόσο σοβαρά παίρνουν την προστασία των άγριων ζώων και των απειλούμενων ειδών.\n\nΑυτές οι αποφάσεις είναι σημαντικές γιατί δείχνουν τη διεθνή συνεργασία για την προστασία της άγριας ζωής.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30398-namimpia-aporripsi-emporiou-keraton-rinokerou/",
       "sourceDomains": [
@@ -392,7 +308,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η απόφαση για την αποδοχή ή την απόρριψη προτάσεων σχετικά με το εμπόριο κεράτων ρινόκερου και ελεφαντόδοντου έχει σοβαρές συνέπειες για την προστασία των απειλούμενων ειδών και σχετίζεται με μεγάλα περιβαλλοντικά και κοινωνικά ζητήματα.",
+      "categoryReason": "Η είδηση σχετίζεται με την προστασία άγριων ζώων και την απόφαση της διεθνούς κοινότητας για τη διατήρηση απειλούμενων ειδών, που είναι σοβαρά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -402,7 +318,7 @@
       "id": "ebc0c248c17d",
       "title": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
       "simpleTitle": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
-      "simpleText": "Η Πολωνία σταματά τη γούνα, προστατεύοντας τα ζώα\n\nΗ Πολωνία έγινε η 18η χώρα της Ευρωπαϊκής Ένωσης που απαγορεύει την εκτροφή ζώων για γούνα. Αυτό σημαίνει ότι δεν θα επιτρέπεται πια να εκτρέφονται ζώα μόνο για να χρησιμοποιηθεί το τρίχωμά τους. Ο νόμος υπογράφηκε από τον Πρόεδρο Καρόλ Ναβρότσκι.\n\nΑυτή η απόφαση είναι σημαντική γιατί η Πολωνία ήταν η μεγαλύτερη χώρα στην Ευρώπη που παρήγαγε γούνα και η δεύτερη στον κόσμο, μετά την Κίνα. Κάθε χρόνο, εκατομμύρια ζώα όπως μινκ, αλεπούδες και ρακούν θανατώνονταν για τη γούνα τους. Με την απαγόρευση αυτής της πρακτικής, η Πολωνία στέλνει ένα μήνυμα υπέρ της προστασίας και της ηθικής μεταχείρισης των ζώων.",
+      "simpleText": "Η Πολωνία απαγόρευσε την εκτροφή ζώων για γούνα\n\nΗ Πολωνία έγινε η 18η χώρα της Ευρωπαϊκής Ένωσης που σταματά την εκτροφή ζώων για γούνα. Αυτό είναι σημαντικό γιατί στέλνει ένα μήνυμα υπέρ της προστασίας των ζώων. Ο Πρόεδρος Καρόλ Ναβρότσκι υπέγραψε τον νέο νόμο που οδηγεί στην αλλαγή αυτή. Μέχρι τώρα, η Πολωνία ήταν η μεγαλύτερη παραγωγός γούνας στην Ευρώπη. Κάθε χρόνο, εκατομμύρια ζώα, όπως μινκ και αλεπούδες, θανατώνονταν για το τρίχωμά τους. Με αυτή την απόφαση, η Πολωνία βοηθά στην καλύτερη μεταχείριση των ζώων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30403-polonia-apagorevei-gouna-kai-prostasia-zoon/",
       "sourceDomains": [
@@ -415,7 +331,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απαγόρευση εκτροφής ζώων για γούνα στην Πολωνία, ένα σημαντικό βήμα για τα δικαιώματα των ζώων και τη ηθική τους μεταχείριση, που σχετίζεται με σοβαρά κοινωνικά θέματα.",
+      "categoryReason": "Η συγκεκριμένη είδηση αφορά την απαγόρευση της εκτροφής ζώων για γούνα στην Πολωνία, ενισχύοντας την προστασία των δικαιωμάτων των ζώων, γεγονός που αποτελεί σοβαρό κοινωνικό και ηθικό ζήτημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -425,7 +341,7 @@
       "id": "550687067d79",
       "title": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
       "simpleTitle": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
-      "simpleText": "Τίτλος: Οι φάλαινες επιστρέφουν στον Καναδά\n\nΜια ομάδα βόρειων ρυγχοφαλαινών στον Καναδά αρχίζει να ανακάμπτει. Αυτό συμβαίνει λόγω προσπαθειών προστασίας της θάλασσας εδώ και πολλά χρόνια. Οι ρυγχοφάλαινες είναι μεγάλα ζώα που μοιάζουν με δελφίνια. Ζουν σε συγκεκριμένες περιοχές του ωκεανού, όπως σε βαθιά φαράγγια.\n\nΠαλαιότερα, οι φάλαινες αυτές είχαν πάθει μεγάλη ζημιά από το κυνήγι τους. Αν και έχουν γίνει απαγορεύσεις για τη φαλαινοθηρία, οι ρυγχοφάλαινες έχουν ακόμα κινδύνους να αντιμετωπίσουν. Αυτοί οι κίνδυνοι περιλαμβάνουν τροχαία ατυχήματα με πλοία και παγιδεύσεις σε δίχτυα ψαρέματος. Η αποκατάσταση του πληθυσμού τους είναι δύσκολη και απαιτεί χρόνο.\n\nΗ είδηση αυτή είναι σημαντική γιατί δείχνει ότι οι προσπάθειες προστασίας της θάλασσας μπορούν να έχουν θετικά αποτελέσματα. Αυτό είναι καλό για το οικοσύστημα και την βιοποικιλότητα της περιοχής.",
+      "simpleText": "Τίτλος: Οι φάλαινες ξαναγυρίζουν στον Καναδά\n\nΜια ομάδα φαλαινών, οι βόρειες ρυγχοφάλαινες, επιστρέφει στον Καναδά. Αυτό συμβαίνει στον Ατλαντικό Ωκεανό, σε μια περιοχή που ονομάζεται «Gully». Η επιστροφή τους είναι αποτέλεσμα πολλών χρόνων δουλειάς και προστασίας του θαλάσσιου περιβάλλοντος.\n\nΟι βόρειες ρυγχοφάλαινες είναι μεγάλες και μοιάζουν με δελφίνια. Είναι γνωστές για την περιέργεια και την παιχνιδιάρικη τους διάθεση. Ζουν σε συγκεκριμένες περιοχές του ωκεανού, σε βάθη που δεν είναι εύκολα προσβάσιμα.\n\nΣτο παρελθόν, οι φάλαινες αυτές είχαν πληγεί από το κυνήγι, το οποίο μείωσε τον πληθυσμό τους. Παρόλο που έχουν γίνει προσπάθειες για την προστασία τους, οι φάλαινες συνεχίζουν να αντιμετωπίζουν κινδύνους, όπως συγκρούσεις με πλοία και αλιευτικά δίχτυα. Η εποχή αυτή δείχνει ότι η προστασία των θαλάσσιων οικοσυστημάτων μπορεί να έχει θετικά αποτελέσματα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/",
       "sourceDomains": [
@@ -437,8 +353,8 @@
           "url": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την προστασία και αποκατάσταση ενός απειλούμενου είδους φάλαινας, που συνδέεται με σοβαρά περιβαλλοντικά ζητήματα και τις προσπάθειες διατήρησης της βιοποικιλότητας, καθιστώντας την σοβαρή και σημαντική.",
+      "category": "happy",
+      "categoryReason": "Η επιστροφή των φαλαινών στον Καναδά είναι μια θετική και ενθαρρυντική ιστορία που δείχνει τη θετική επίδραση της θαλάσσιας προστασίας στο περιβάλλον.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -448,7 +364,7 @@
       "id": "3d553240411d",
       "title": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
       "simpleTitle": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
-      "simpleText": "Τίτλος: Ένας κήπος στο σχολείο που δείχνει στα παιδιά πώς να καλλιεργούν.\n\nΣτο Heritage Middle School, η αδελφή Sharon Dillon δημιούργησε έναν σχολικό κήπο που έχει μεταμορφώσει τον εξωτερικό χώρο του σχολείου. Αρχικά, ο χώρος ήταν άδειος, αλλά τώρα έχει γεμίσει με λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στη διαδικασία καλλιέργειας. Μάθαινουν πώς να φυτεύουν και να συγκομίζουν τα φυτά. Ο κήπος είναι σημαντικός, γιατί προσφέρει ευκαιρίες μάθησης και χαράς, και γίνεται κομμάτι της καθημερινής εκπαιδευτικής τους εμπειρίας.",
+      "simpleText": "Τίτλος: Ένας σχολικός κήπος που διδάσκει τα παιδιά για τη ζωή\n\nΣτο Heritage Middle School, η αδελφή Sharon Dillon έχει φτιάξει έναν σχολικό κήπο, όπου τα παιδιά μαθαίνουν πώς να καλλιεργούν φυτά. Πριν μερικά χρόνια, ο χώρος δεν είχε καμία ομορφιά. Σήμερα, είναι γεμάτος από λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στην φροντίδα του κήπου. Φυτεύουν, ποτίζουν και μαζεύουν καρπούς. Αυτός ο κήπος δεν είναι απλώς ένας χώρος πρασίνου. Είναι μέρος της καθημερινής μάθησης και τους δείχνει πώς μεγαλώνει η ζωή. Αυτό είναι σημαντικό γιατί βοηθά τα παιδιά να κατανοήσουν τη διαδικασία της φύσης και να αναπτύξουν ενδιαφέρον για την καλλιέργεια.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30391-kipos-astiki-kalliergeia-paidia-scholeio/",
       "sourceDomains": [
@@ -461,7 +377,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε έναν σχολικό κήπο που προσφέρει θετικές εμπειρίες και μάθηση στα παιδιά, ενισχύοντας τη χαρά και την ευημερία τους.",
+      "categoryReason": "Η είδηση αφορά ένα σχολικό κήπο που διδάσκει στα παιδιά την αξία της καλλιέργειας και της εργασίας στη φύση, προάγοντας θετικά συναισθήματα και εμπειρίες μάθησης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -471,7 +387,7 @@
       "id": "4e32e5977ae6",
       "title": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
       "simpleTitle": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
-      "simpleText": "Η Εβδομάδα Μόδας της Νέας Υόρκης αποφάσισε να απομακρυνθεί από τη χρήση γούνων. Αυτό σημαίνει ότι δεν θα προβάλλει γούνες σε καμία εκδήλωση ούτε σε ψηφιακά μέσα. Η απόφαση αυτή ανακοινώθηκε από το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής.\n\nΑυτή η νέα πολιτική θα ισχύσει από τον Σεπτέμβριο του 2026. Είναι σημαντική γιατί προωθεί τα δικαιώματα των ζώων και δείχνει ότι η μόδα μπορεί να εξελιχθεί χωρίς να προκαλεί πόνο στα ζώα.",
+      "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης δεν θα χρησιμοποιεί γούνες\n\nΗ Εβδομάδα Μόδας της Νέας Υόρκης ετοιμάζεται να αλλάξει. Το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής ανακοίνωσε ότι δεν θα επιτρέπει τη χρήση γουνών σε καμία εκδήλωση από τον Σεπτέμβριο του 2026.\n\nΑυτή η απόφαση προωθεί τα δικαιώματα των ζώων και δείχνει ότι η μόδα δεν πρέπει να προκαλεί πόνο στα ζώα. Το μήνυμα είναι ξεκάθαρο: η μόδα που βλάπτει τα ζώα δεν είναι αποδεκτή στην κοινωνία. Αυτή η αλλαγή είναι σημαντική για την κατεύθυνση που θέλει να πάρει η βιομηχανία της μόδας στον κόσμο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30409-nea-yorki-evdomada-modas-xoris-gounes/",
       "sourceDomains": [
@@ -484,7 +400,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια σημαντική απόφαση στην Εβδομάδα Μόδας της Νέας Υόρκης που σχετίζεται με την πολιτική και ηθική διάσταση της μόδας, προωθώντας τα δικαιώματα των ζώων και τις σύγχρονες τάσεις στον πολιτιστικό τομέα.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική απόφαση της Εβδομάδας Μόδας της Νέας Υόρκης που προωθεί τα δικαιώματα των ζώων και επηρεάζει την κατεύθυνση της μόδας, κάτι που σχετίζεται με πολιτιστικές αξίες και τάσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -494,7 +410,7 @@
       "id": "c82a2758c7a6",
       "title": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
       "simpleTitle": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
-      "simpleText": "Ο Αντρέ Ριέ συγκίνησε το κοινό του με ελληνικά κάλαντα στην Ολλανδία.\n\nΣτην ετήσια χριστουγεννιάτικη συναυλία του στο Μάαστριχτ, ο γνωστός μουσικός παρουσίασε μια ιδιαίτερη στιγμή. Μαζί του ήταν η Ελληνίδα σοπράνο Χριστίνα Πέτρου, η οποία ερμήνευσε τα παραδοσιακά ελληνικά κάλαντα. Αυτή η ερμηνεία έφερε μια ζεστή αίσθηση από την Ελλάδα στην Ευρώπη και κέρδισε το θερμό χειροκρότημα του κοινού.\n\nΤο βίντεο της εμφανίσεως έγινε πολύ δημοφιλές στα social media, συγκεντρώνοντας χιλιάδες προβολές. Αυτή η στιγμή είναι σημαντική γιατί δείχνει την πολιτιστική σύνδεση ανάμεσα στην Ελλάδα και άλλες χώρες.",
+      "simpleText": "Ο τίτλος της είδησης είναι: \"Ο Αντρέ Ριέ έκανε μια ξεχωριστή εμφάνιση με ελληνικά κάλαντα στο Μάαστριχτ.\"\n\nΣτο Μάαστριχτ της Ολλανδίας, ο διάσημος μουσικός Αντρέ Ριέ πραγματοποίησε τη χριστουγεννιάτικη συναυλία του. Στην εκδήλωση, ερμήνευσε ελληνικά κάλαντα, κάτι που συγκίνησε το κοινό. Η Ελληνίδα σοπράνο Χριστίνα Πέτρου ήταν αυτή που τραγούδησε τα κάλαντα. Η ερμηνεία της προκάλεσε ενθουσιασμό και οι θεατές χειροκρότησαν θερμά. Το βίντεο της παράστασης έχει ήδη πολλές προβολές στα μέσα κοινωνικής δικτύωσης.\n\nΑυτή η στιγμή είναι σημαντική, καθώς φέρνει ελληνικές παραδόσεις κοντά σε ξένο κοινό και προάγει τον πολιτισμό της Ελλάδας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30481-andre-rie-ellinika-kalanta-xristina-petrou/",
       "sourceDomains": [
@@ -507,7 +423,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η συναυλία του Αντρέ Ριέ με την ερμηνεία ελληνικών καλάντων από τη Χριστίνα Πέτρου αποτελεί μια πολιτιστική εκδήλωση που ενώνει διαφορετικές κουλτούρες και φέρνει την ελληνική παράδοση στην Ολλανδία.",
+      "categoryReason": "Η είδηση αφορά στη συναυλία του Αντρέ Ριέ, η οποία προάγει τον πολιτισμό μέσω της ερμηνείας ελληνικών κάλαντων, κάτι που σχετίζεται άμεσα με τον πολιτιστικό τομέα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -517,7 +433,7 @@
       "id": "0302270e1a79",
       "title": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
       "simpleTitle": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
-      "simpleText": "Τίτλος: Γιορτινή μουσική εκδήλωση στο Μέγαρο Μουσικής\n\nΣτις 29 και 30 Δεκεμβρίου, θα γίνει στο Μέγαρο Μουσικής μία γιορτινή μουσική εκδήλωση. Αυτή η εκδήλωση προσκαλεί το κοινό να βιώσει μία μοναδική εμπειρία γεμάτη ήχους και εικόνες από διαφορετικούς πολιτισμούς. Οι συμμετέχοντες θα έχουν την ευκαιρία να ταξιδέψουν νοερά, όπως ο χαρακτήρας Φιλέας Φογκ, μέσα από τη μουσική.\n\nΗ εκδήλωση ενώνει κλασική μουσική και σύγχρονα στοιχεία, προσφέροντας μία στιγμή χαράς πριν την αλλαγή του χρόνου. Είναι μία ευκαιρία για τους ανθρώπους να γιορτάσουν και να απολαύσουν τη μουσική μαζί.",
+      "simpleText": "Τίτλος: Γιορτινό Μουσικό Γκαλά στο Μέγαρο Μουσικής\n\nΣτις 29 και 30 Δεκεμβρίου, το Μέγαρο Μουσικής φιλοξενεί ένα γιορτινό γκαλά. Αυτή η εκδήλωση μας προσκαλεί να ζήσουμε μια μαγική εμπειρία μέσα από τη μουσική. Το γκαλά συνδυάζει ήχους και εικόνες από διάφορους πολιτισμούς.\n\nΟι μουσικές θα μας ταξιδέψουν όπως ο ήρωας Φιλέας Φογκ στα βιβλία. Δεν χρειάζεται να φέρουμε μαζί μας τίποτα, μόνο να απολαύσουμε τη μουσική. Αυτό το γεγονός είναι σημαντικό, καθώς φέρνει κοντά ανθρώπους διαφορετικών υποβαθρών, ενισχύοντας τη χαρά και την ενότητα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30440-eortastiko-gala-megaro-mousikis-taxidi-me-ti-fantasia/",
       "sourceDomains": [
@@ -530,7 +446,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η εκδήλωση αφορά μουσική και πολιτιστικά στοιχεία, ενσωματώνοντας κλασική και σύγχρονη μουσική σε μια γιορτινή ατμόσφαιρα, γεγονός που την κατατάσσει στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Το γκαλά στο Μέγαρο Μουσικής αφορά μια πολιτιστική εκδήλωση που συνδυάζει μουσική και διαφορετικούς πολιτισμούς, γεγονός που το κατατάσσει στην κατηγορία του πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -540,7 +456,7 @@
       "id": "89ffdb155ea3",
       "title": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
       "simpleTitle": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
-      "simpleText": "Τίτλος: Το Βρετανικό Μουσείο και οι ελληνικές αρχαιότητες\n\nΤο Βρετανικό Μουσείο επανέρχεται σε ένα παλιό θέμα που αφορά τις ελληνικές αρχαιότητες. Πρόσφατα, το μουσείο ανακοίνωσε νέο τρόπο συνεργασίας μέσω διεθνών δανεισμών, που έχει προκαλέσει συζητήσεις.\n\nΠερίπου 80 αρχαιότητες από την Ελλάδα και την Αίγυπτο στάλθηκαν στην Ινδία. Εκεί, θα εκτίθενται για τρία χρόνια. Αυτό σημαίνει ότι οι άνθρωποι στην Ινδία θα μπορούν να δουν αυτές τις σπουδαίες αρχαιότητες. Το Βρετανικό Μουσείο προσπαθεί να δείξει ότι η συνεργασία αυτή είναι κάτι καινούργιο και θετικό.\n\nΗ σημασία της είδησης είναι ότι εγείρει ερωτήματα για τη διαχείριση των αρχαιοτήτων και τη σχέση μεταξύ διαφορετικών χωρών. Δεν είναι γνωστά τα επόμενα βήματα ή οι αντιδράσεις από την Ελλάδα.",
+      "simpleText": "Το Βρετανικό Μουσείο συζητά τη διαχείριση ελληνικών αρχαιοτήτων. Αυτό είναι ένα παλιό θέμα, που αφορά την επιστροφή αρχαιοτήτων στην Ελλάδα.\n\nΠρόσφατα, το μουσείο έστειλε περίπου 80 ελληνικές και αιγυπτιακές αρχαιότητες στην Ινδία. Αυτές οι αρχαιότητες θα εκτεθούν εκεί για τρία χρόνια. Το Βρετανικό Μουσείο αναφέρει ότι αυτή η συνεργασία είναι μια νέα και καινοτόμος μορφή δανεισμού.\n\nΑυτή η κίνηση έχει προκαλέσει συζητήσεις και αντιδράσεις, καθώς η επιστροφή αρχαιοτήτων είναι ένα σημαντικό θέμα για την Ελλάδα. Δεν είναι ξεκάθαρο πώς θα συνεχιστεί αυτή η διαδικασία στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30442-vretaniko-mouseio-ellinikes-arxaiotites/",
       "sourceDomains": [
@@ -553,287 +469,279 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά τη συνεργασία του Βρετανικού Μουσείου με άλλες χώρες σχετικά με τις ελληνικές αρχαιότητες, αναδεικνύοντας ζητήματα πολιτιστικής διπλωματίας και διαχείρισης πολιτιστικής κληρονομιάς.",
+      "categoryReason": "Η είδηση αφορά τη διαχείριση και δανεισμό ελληνικών αρχαιοτήτων, που είναι θεματική του πολιτισμού και της πολιτιστικής διπλωματίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2025-12-19T11:25:00.000Z"
     },
     {
-      "id": "cc25a4979f61",
-      "title": "Μαζί για το Παιδί: Στήριξη 2000 παιδιών μέσα από τις δράσεις Secret Santa και Breakfast Boxes",
-      "simpleTitle": "Μαζί για το Παιδί: Στήριξη 2000 παιδιών μέσα από τις δράσεις Secret Santa και Breakfast Boxes",
-      "simpleText": "Ο τίτλος μπορεί να παραφραστεί ως: «Στήριξη 2000 παιδιών με τις δράσεις Secret Santa και Breakfast Boxes».\n\nΠρόσφατα, χιλιάδες παιδιά στην Ελλάδα έλαβαν στήριξη μέσω δύο σημαντικών δράσεων. Οι δράσεις αυτές ονομάζονται Secret Santa και Breakfast Boxes. Μέχρι τώρα, 2000 παιδιά από φορείς παιδικής προστασίας και ευάλωτες οικογένειες συμμετείχαν.\n\nΓια να συμβεί αυτό, αρκετά σχολεία, εταιρείες και ιδιώτες ενώνουν τις δυνάμεις τους. Αυτές οι ενέργειες είναι σημαντικές γιατί προσφέρουν χαρά και υποστήριξη σε παιδιά που το έχουν ανάγκη. Οι δράσεις πραγματοποιούνται σε όλη τη χώρα και ενισχύουν την αλληλεγγύη στις τοπικές κοινωνίες.",
-      "sourceName": "Protagon",
-      "sourceUrl": "https://www.protagon.gr/epikairotita/mazi-gia-to-paidi-stiriksi-2000-paidiwn-mesa-apo-tis-draseis-secret-santa-kai-breakfast-boxes-44343283898",
-      "sourceDomains": [
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/mazi-gia-to-paidi-stiriksi-2000-paidiwn-mesa-apo-tis-draseis-secret-santa-kai-breakfast-boxes-44343283898"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αφορά θετικές δράσεις που προσφέρουν υποστήριξη και χαρά σε 2000 παιδιά, δημιουργώντας μια αισιόδοξη ατμόσφαιρα γύρω από την αλληλεγγύη και την κοινωνική προσφορά. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g68dae1d3d3d9640d3a0c9d08a681642d9c653d49907327de75c42424e301cf92871718169a7c36bbd3025fb7dc9a61d21c5d732783aed92e076aec58033138a9_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2025-12-29T14:33:39.000Z"
-    },
-    {
-      "id": "22464903ff7c",
-      "title": "«Παναθηναϊκός, ΑΕΚ και ΠΑΟΚ για Γιάγκουσιτς»",
-      "simpleTitle": "«Παναθηναϊκός, ΑΕΚ και ΠΑΟΚ για Γιάγκουσιτς»",
-      "simpleText": "**Τίτλος: «Ελληνικές ομάδες ενδιαφέρονται για τον Γιάγκουσιτς»**\n\nΗ είδηση αφορά τον Αντριάνο Γιάγκουσιτς, έναν 20χρονο ποδοσφαιριστή από την Κροατία. Παίζει στη Σλάβεν Μπέλουπο και έχει εντυπωσιάσει με τις επιδόσεις του.\n\nΤρεις μεγάλες ελληνικές ομάδες, ο Παναθηναϊκός, η ΑΕΚ και ο ΠΑΟΚ, τον παρακολουθούν. Ο Γιάγκουσιτς έχει πετύχει 8 γκολ και έχει δώσει 6 ασίστ σε 20 αγώνες φέτος.\n\nΗ αξία του είναι γύρω στα 4 εκατ. ευρώ, αλλά μπορεί να πωληθεί για περίπου 2,3 εκατ. ευρώ, με όρο ότι η ομάδα που τον αγοράσει θα δώσει και 30% σε περίπτωση μελλοντικής πώλησης.\n\nΕπίσης, το ενδιαφέρον για αυτόν δεν περιορίζεται μόνο στην Ελλάδα. Ορισμένοι σκάουτερ από μεγάλες ομάδες της Ευρώπης, όπως η Μπαρτσελόνα, τον έχουν παρακολουθήσει. Αυτές οι πληροφορίες δείχνουν πόσο σημαντικός είναι ο Γιάγκουσιτς για το μέλλον του ποδοσφαίρου.",
+      "id": "fefb41595eab",
+      "title": "Σερβία: Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά την νίκη του",
+      "simpleTitle": "Σερβία: Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά την νίκη του",
+      "simpleText": "Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά τη νίκη του\n\nΟ Γιάννης Τσουκαλάς, Έλληνας αθλητής του kick boxing, κέρδισε έναν αγώνα στη Σερβία. Ο αγώνας ήταν για τον παγκόσμιο τίτλο της WKU στην κατηγορία των -67 κιλών. Αμέσως μετά τη νίκη του, περίπου 50 άτομα μπήκαν στο ρινγκ και του επιτέθηκαν. Αυτό προκάλεσε αναστάτωση και ο Τσουκαλάς τραυματίστηκε. Χρειάστηκε να μεταφερθεί σε νοσοκομείο στο Βελιγράδι για προληπτικές εξετάσεις. Ευτυχώς, η κατάσταση της υγείας του είναι καλή και επέστρεψε στην Ελλάδα.\n\nΗ επίθεση αυτή είναι σημαντική γιατί δείχνει ότι δεν υπάρχει πάντα ασφάλεια σε τέτοιες εκδηλώσεις, κάτι που επιβεβαίωσαν και οι διοργανωτές που ανέφεραν ότι δεν είχαν αρκετό προσωπικό ασφαλείας.",
       "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2025/12/29/sports/panathinaikos-aek-kai-paok-gia-giagkousits/",
+      "sourceUrl": "https://www.tanea.gr/2025/12/30/sports/servia-o-athlitis-kick-boxing-giannis-tsoukalas-dexthike-epiethsi-meta-tin-niki-tou/",
       "sourceDomains": [
         "tanea.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2025/12/29/sports/panathinaikos-aek-kai-paok-gia-giagkousits/"
+          "url": "https://www.tanea.gr/2025/12/30/sports/servia-o-athlitis-kick-boxing-giannis-tsoukalas-dexthike-epiethsi-meta-tin-niki-tou/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τις μεταγραφές και το ενδιαφέρον μεγάλων ποδοσφαιρικών ομάδων για έναν νεαρό παίκτη, γεγονός που συνδέεται άμεσα με τον κόσμο του αθλητισμού. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά έναν Έλληνα αθλητή kick boxing και το περιστατικό που συνέβη μετά την νίκη του στον αγώνα, επομένως κατατάσσεται στην κατηγορία των σπορ. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4580fe13e119a31963c63b2a941a895ea261449c2612ec0855b76ea36ad08b0cb154b554529e556a2b33e6bb9916060c8e98c7dc22e84d18f3f1ef90010ddea7_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g5d9e142397f3384ff9912b73df9f136d2651804c43100bc8ea8f713ed8132904c7079ae241f66264357d3a85921a677f345ec86041f860e9bfdf68b5807f4816_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-29T14:25:50.000Z"
+      "publishedAt": "2025-12-30T07:08:21.000Z"
     },
     {
-      "id": "dc37626f4895",
-      "title": "ΑΕΚ: Δέκα πρώην παίκτες της ζητούν απαγόρευση μεταγραφών για χρέη 2,5 εκατ. ευρώ",
-      "simpleTitle": "ΑΕΚ: Δέκα πρώην παίκτες της ζητούν απαγόρευση μεταγραφών για χρέη 2,5 εκατ. ευρώ",
-      "simpleText": "Τίτλος: Πρώην παίκτες της ΑΕΚ ζητούν να σταματήσουν οι μεταγραφές λόγω χρεών\n\nΔέκα πρώην ποδοσφαιριστές της ΑΕΚ έχουν ζητήσει να απαγορευτούν οι μεταγραφές της ομάδας. Αυτό συμβαίνει επειδή η ΑΕΚ χρωστάει 2,5 εκατομμύρια ευρώ σε αυτούς.\n\nΗ αίτηση για την απαγόρευση έγινε, καθώς τα χρέη προέρχονται από την παλιά ΠΑΕ της ΑΕΚ. Δηλαδή, είναι από μια προηγούμενη περίοδο της ομάδας.\n\nΑυτή η κατάσταση είναι σημαντική, γιατί αν επιβληθεί η απαγόρευση, η ΑΕΚ δεν θα μπορεί να αγοράζει νέους παίκτες. Αυτό μπορεί να επηρεάσει την ομάδα και την απόδοσή της στο πρωτάθλημα.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2025/12/29/sports/deka-proin-paiktes-tis-aek-zitoun-apagoreysi-metagrafon-gia-xrei-25-ekat-eyro/",
+      "id": "d934dbc12455",
+      "title": "Ινφαντίνο: Τα Best FIFA Football Awards του 2026 θα φιλοξενηθούν στο Ντουμπάι",
+      "simpleTitle": "Ινφαντίνο: Τα Best FIFA Football Awards του 2026 θα φιλοξενηθούν στο Ντουμπάι",
+      "simpleText": "Ομιλία Ινφαντίνο: Τα βραβεία Best FIFA Football Awards του 2026 θα γίνουν στο Ντουμπάι\n\nΟ πρόεδρος της FIFA, Τζιάνι Ινφαντίνο, ανακοίνωσε ότι το 2026, η τελετή των βραβείων Best FIFA Football Awards θα πραγματοποιηθεί στο Ντουμπάι. Η ανακοίνωση έγινε την Δευτέρα, 29 Δεκεμβρίου, στο Παγκόσμιο Αθλητικό Συνέδριο που διεξήχθη στην πόλη αυτή.\n\nΤα βραβεία αυτά ξεχωρίζουν τους καλύτερους ποδοσφαιριστές, προπονητές και ομάδες του κόσμου. Οι νικητές επιλέγονται από ψήφους φιλάθλων, εκπροσώπων των ΜΜΕ και άλλων ειδικών στον αθλητισμό. Ο Ινφαντίνο σημείωσε ότι αυτή η συνεργασία θα ενισχύσει την ενότητα μέσω του αθλητισμού.\n\nΕίναι σημαντικό να αναφερθεί ότι πρόσφατα βραβεία, όπως αυτά του 2025, έδωσαν το τίτλο του καλύτερου άνδρα παίκτη στον Ουσμάν Ντεμπελέ και της καλύτερης γυναίκας παίκτριας στην Αϊτάνα Μπονματί.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/infantino-ta-best-fifa-football-awards-tou-2026-tha-filoksenithoun-sto-ntoumpai/",
       "sourceDomains": [
-        "tovima.gr"
+        "ertnews.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2025/12/29/sports/deka-proin-paiktes-tis-aek-zitoun-apagoreysi-metagrafon-gia-xrei-25-ekat-eyro/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/infantino-ta-best-fifa-football-awards-tou-2026-tha-filoksenithoun-sto-ntoumpai/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση σχετίζεται άμεσα με το ποδόσφαιρο και τις μεταγραφές, που είναι κρίσιμες για τις ομάδες και τους παίκτες. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τα Best FIFA Football Awards, τα οποία βραβεύουν κορυφαίους αθλητές και ομάδες στο ποδόσφαιρο, που είναι κεντρικό θέμα του αθλητισμού. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/gb08e4cd06cf3a14b6dc9ce9666f7fb5dbe132ab4ed43152ba17f2bf2172482cc52f1984d264649b4ea8abb3eb5bd1b8a8cc7025459837504e78d22f0b8243182_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2025-12-29T14:06:33.000Z"
+      "publishedAt": "2025-12-30T05:23:41.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "ff154427976b",
-        "title": "Λαβρόφ: Η Ουκρανία επιχείρησε επίθεση με drones στην κατοικία του Πούτιν",
-        "simpleTitle": "Λαβρόφ: Η Ουκρανία επιχείρησε επίθεση με drones στην κατοικία του Πούτιν",
-        "simpleText": "Τίτλος: Η Ουκρανία επιχείρησε να χτυπήσει την κατοικία του Πούτιν με drones\n\nΟ υπουργός Εξωτερικών της Ρωσίας, Σεργκέι Λαβρόφ, ανακοίνωσε ότι το βράδυ της Κυριακής, η Ουκρανία προσπάθησε να επιτεθεί με drones στην κατοικία του Βλαντίμιρ Πούτιν, που βρίσκεται στην περιοχή του Νόβγκοροντ.\n\nΟ Λαβρόφ δήλωσε ότι η Ρωσία θα αλλάξει τη διαπραγματευτική της στάση, λόγω της ενέργειας αυτής, που χαρακτηρίζεται ως κρατική τρομοκρατία από το Κίεβο. Εξέφρασε ότι έχουν καθοριστεί οι στόχοι και ο χρόνος για τις πιθανές αντιδράσεις της Ρωσίας, αλλά τόνισε ότι δεν σκοπεύει να αποσυρθεί από τις ειρηνικές διαπραγματεύσεις.\n\nΜέχρι στιγμής, δεν υπάρχουν πληροφορίες για θύματα ή ζημιές από την επίθεση αυτή.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/lavrof-i-oukrania-epixeirise-epithesi-me-drones-stin-katoikia-tou-poutin/",
+        "id": "93d729dbc68d",
+        "title": "Λαϊκές αγορές: Πανελλαδική απεργία επ’ αόριστον από 7 Ιανουαρίου",
+        "simpleTitle": "Λαϊκές αγορές: Πανελλαδική απεργία επ’ αόριστον από 7 Ιανουαρίου",
+        "simpleText": "Απεργία στις Λαϊκές Αγορές από 7 Ιανουαρίου\n\nΟι πωλητές και παραγωγοί στις λαϊκές αγορές αποφάσισαν να προχωρήσουν σε απεργία επ’ αόριστον, αρχίζοντας από τις 7 Ιανουαρίου 2026. Αυτή η απόφαση πάρθηκε λόγω των δύσκολων οικονομικών συνθηκών που αντιμετωπίζουν. Οι ενώσεις των παραγωγών και πωλητών ζητούν αλλαγές που θα μειώσουν το κόστος της παραγωγής και της διακίνησης των προϊόντων.\n\nΤα κύρια αιτήματα περιλαμβάνουν τη στήριξη των αγροτών, τη μείωση της φορολογίας και την καταπολέμηση της ακρίβειας. Οι οργανώσεις που συμμετέχουν στην απεργία δηλώνουν ότι οι λαϊκές αγορές είναι σημαντικές για τα νοικοκυριά και τους καταναλωτές, και δεν θέλουν να μετατραπούν σε θύματα των οικονομικών πολιτικών που επηρεάζουν αρνητικά την αγορά.\n\nΗ κινητοποίηση αυτή έχει μεγάλη σημασία για τη στήριξη των εργαζομένων και των αγροτών που εξαρτώνται από τη λειτουργία των λαϊκών αγορών.",
+        "sourceName": "Kathimerini, TA NEA, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/society/563999467/laikes-agores-panelladiki-apergia-ep-aoriston-apo-7-ianoyarioy/",
         "sourceDomains": [
-          "ertnews.gr",
           "kathimerini.gr",
-          "tanea.gr"
+          "tanea.gr",
+          "tovima.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/lavrof-i-oukrania-epixeirise-epithesi-me-drones-stin-katoikia-tou-poutin/"
-          },
-          {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/563998426/lavrof-to-kievo-epicheirise-epithesi-stin-katoikia-toy-poytin-stin-periochi-toy-novgkoront/"
+            "url": "https://www.kathimerini.gr/society/563999467/laikes-agores-panelladiki-apergia-ep-aoriston-apo-7-ianoyarioy/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/29/world/lavrof-i-oukrania-epixeirise-na-pliksei-me-drones-tin-katoikia-tou-poutin/"
+            "url": "https://www.tanea.gr/2025/12/30/greece/panelladiki-apergia-ep-aoriston-stis-laikes-agores-apo-7-ianouariou/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2025/12/30/society/apergia-ep-aoriston-stis-laikes-agores-den-stinoun-pagkous-ta-aitimata/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σοβαρή αναφορά σχετικά με στρατιωτική επίθεση και τις πολιτικές επιπτώσεις της, με άμεσες συνέπειες για τις διεθνείς σχέσεις.",
+        "categoryReason": "Η απεργία στις λαϊκές αγορές είναι σοβαρή είδηση που σχετίζεται με οικονομικά ζητήματα και κοινωνικές κινητοποιήσεις.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gcde14c766fd3e89559575e815d8b92fbeeebb98abe1750a90f085eab2d10cc849d8b91d63682321fe3fbbb4153e1f6da5ae87234eab59989d12a074406a53946_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-29T15:27:52.000Z"
+        "publishedAt": "2025-12-30T07:22:10.000Z"
       },
       {
-        "id": "3e11d215c4b0",
-        "title": "Βαρδούσια: Από ασφυξία πέθαναν οι 4 ορειβάτες – Τι έδειξε η ιατροδικαστική",
-        "simpleTitle": "Βαρδούσια: Από ασφυξία πέθαναν οι 4 ορειβάτες – Τι έδειξε η ιατροδικαστική",
-        "simpleText": "Τίτλος: Βαρδούσια: Θάνατος τεσσάρων ορειβατών από ασφυξία\n\nΤέσσερις ορειβάτες πέθαναν στα Βαρδούσια από ασφυξία. Αυτό συνέβη όταν παρασύρθηκαν από μια χιονοστιβάδα. Εγκλωβίστηκαν στο χιόνι και δεν μπορούσαν να αναπνεύσουν. Η ιατροδικαστική εξέταση αποκάλυψε ότι δεν είχαν κακώσεις.\n\nΤο περιστατικό είναι σημαντικό γιατί δείχνει τους κινδύνους που υπάρχουν όταν κάνουμε ορειβασία σε χιονισμένες περιοχές. Η εκτίμηση της ασφάλειας είναι πολύ σημαντική, ειδικά όταν υπάρχουν χιονοστιβάδες. Πώς να αποφύγουμε τέτοιες τραγικές καταστάσεις είναι κάτι που πρέπει να συζητηθεί.",
-        "sourceName": "TO BHMA, News.gr",
-        "sourceUrl": "https://www.tovima.gr/2025/12/29/society/vardousia-apo-asfyksia-pethanan-oi-4-oreivates-ti-edeikse-i-iatrodikastiki/",
+        "id": "ae2b4ebc6f30",
+        "title": "Τραγωδία στα Άνω Λιόσια: Νεκρός άνδρας που παρασύρθηκε από συρμό του Προαστιακού",
+        "simpleTitle": "Τραγωδία στα Άνω Λιόσια: Νεκρός άνδρας που παρασύρθηκε από συρμό του Προαστιακού",
+        "simpleText": "Στα Άνω Λιόσια, σημειώθηκε δυστύχημα το πρωί της Τρίτης, 30 Δεκεμβρίου. Ένας άνδρας 50 ετών παρασύρθηκε από συρμό του Προαστιακού Σιδηροδρόμου.\n\nΟ άνδρας προσπαθούσε να διασχίσει τις σιδηροδρομικές γραμμές από σημείο χωρίς διάβαση, όταν συγκρούστηκε με το τρένο. Παρελήφθη από ασθενοφόρο και μεταφέρθηκε στο νοσοκομείο «Αττικόν», αλλά, δυστυχώς, υπέκυψε στα τραύματά του.\n\nΗ Hellenic Train ανακοίνωσε ότι το περιστατικό συνέβη σε κλειστό και περιφραγμένο τμήμα της γραμμής. Στο σημείο βρέθηκαν συνεργεία της Αστυνομίας και του ΕΚΑΒ. Για την εξυπηρέτηση των επιβατών, δρομολογήθηκαν λεωφορεία. Αν και η σιδηροδρομική κυκλοφορία καθυστέρησε λόγω του συμβάντος, η Hellenic Train συνεργάζεται με τις αρχές για να διερευνηθούν οι συνθήκες του ατυχήματος.\n\nΤο γεγονός είναι σημαντικό, καθώς αναδεικνύει τους κινδύνους που υπάρχουν κοντά σε σιδηροδρομικές γραμμές και τη σημασία της ασφαλούς διασταύρωσης.",
+        "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/tragodia-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/",
         "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr",
           "tovima.gr",
           "news.gr"
         ],
         "sources": [
           {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/tragodia-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/563999428/ano-liosia-nekros-andras-poy-parasyrthike-apo-syrmo-toy-proastiakoy/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/30/greece/tragiko-dystyxima-sta-ano-liosia-nekros-andras-pou-parasyrthike-apo-syrmo-tou-proastiakou/"
+          },
+          {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/29/society/vardousia-apo-asfyksia-pethanan-oi-4-oreivates-ti-edeikse-i-iatrodikastiki/"
+            "url": "https://www.tovima.gr/2025/12/30/society/tragodia-ston-proastiako-sta-ano-liosia-andras-parasyrthike-apo-syrmo/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4039911/apo-asfixia-pethanan-i-4-orivates-sta-vardousia-kataplakothikan-apo-chionostivades.html"
+            "url": "https://www.news.gr/ellada/article/4040227/nekros-andras-pou-parasirthike-apo-sirmo-tou-proastiakou-sta-ano-liosia.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον θάνατο τεσσάρων ορειβατών από ασφυξία, ένα σοβαρό θέμα που σχετίζεται με την ασφάλεια στις ορεινές δραστηριότητες και τους κινδύνους από φυσικά φαινόμενα.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g7b0ae5169d0bfa7bc03e6626440b81c723445651f5428075270ddfc04124a7d38759ce4b8e1e5a2c7198dc81f7fb5636a8439e8dc0f7648eeaab00d44f754b93_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-29T15:23:08.000Z"
-      },
-      {
-        "id": "c05e4355241f",
-        "title": "Κρήτη: Χωρίς Pet Scan το ΠΑΓΝΗ – Ακυρώνονται ραντεβού καρκινοπαθών",
-        "simpleTitle": "Κρήτη: Χωρίς Pet Scan το ΠΑΓΝΗ – Ακυρώνονται ραντεβού καρκινοπαθών",
-        "simpleText": "Στη Κρήτη, το Πανεπιστημιακό Νοσοκομείο Ηρακλείου (ΠΑΓΝΗ) έχει σταματήσει να λειτουργεί το μηχάνημα Pet Scan. Αυτό έχει δημιουργήσει προβλήματα για ασθενείς με καρκίνο, καθώς οι προγραμματισμένες εξετάσεις τους αναβάλλονται. Οι ασθενείς ενημερώθηκαν την Δευτέρα 29 Δεκεμβρίου ότι το μηχάνημα παρουσίασε βλάβη και χρειάζεται χρόνος και ανταλλακτικά για να επισκευαστεί.\n\nΠριν από λίγο καιρό, εξαιτίας αγροτικών κινητοποιήσεων, κάποιοι ασθενείς είχαν ήδη αναγκαστεί να αναβάλουν τις εξετάσεις τους λόγω προβλημάτων στη μεταφορά ενός ειδικού φαρμάκου από την Αθήνα. Η εκτίμηση ότι οι προσδοκίες του ραντεβού για το Pet Scan ξεπερνούν τους τρεις μήνες σημαίνει ότι πολλοί ασθενείς ήταν ήδη σε δύσκολη κατάσταση.\n\nΤο Pet Scan είναι πολύ σημαντικό για την καλή διάγνωση και θεραπεία του καρκίνου. Βοηθά τους γιατρούς να κατανοήσουν καλύτερα την ασθένεια και να κάνουν τις καλύτερες επιλογές για τη θεραπεία. Ο διοικητής του νοσοκομείου, Γιώργος Χαλκιαδάκης, δήλωσε ότι εργάζονται για την επισκευή του μηχανήματος, αλλά η διαδικασία αυτή μπορεί να διαρκέσει λόγω των εορτών.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/29/greece/kriti-xoris-pet-scan-to-pagni-akyronontai-rantevoy-karkinopathon/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/29/greece/kriti-xoris-pet-scan-to-pagni-akyronontai-rantevoy-karkinopathon/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/29/society/pagni-xoris-pet-scan-i-kriti-akyronoun-rantevou-karkinopathon/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σημαντικά ζητήματα υγείας και την ταλαιπωρία καρκινοπαθών λόγω τεχνικών προβλημάτων σε ένα ιατρικό μηχάνημα, κάτι που έχει σοβαρές συνέπειες για τη διάγνωση και θεραπεία της ασθένειας.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4ea6c3ac0bf72e22b4f64ef76c63cea38ab3ad803e7a65ee886dddd293a49b1fc8d3bdf0882285a303b819f5784ffcc89984b1fb36d70f4cf5aad9f71f6f7f62_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-29T14:53:34.000Z"
-      },
-      {
-        "id": "a78aa11f415f",
-        "title": "Τραγωδία στην Καλαμπάκα: Νεκρά δύο αδέρφια από αναθυμιάσεις σόμπας",
-        "simpleTitle": "Τραγωδία στην Καλαμπάκα: Νεκρά δύο αδέρφια από αναθυμιάσεις σόμπας",
-        "simpleText": "Στην Καλαμπάκα, δύο αδέλφια βρέθηκαν νεκρά στο σπίτι τους. Ο άνδρας ήταν 73 ετών και η γυναίκα 65. Η τραγωδία συνέβη στην περιοχή Κρύα Βρύση. Σύμφωνα με τις πρώτες πληροφορίες, οι θάνατοί τους φαίνεται να σχετίζονται με αναθυμιάσεις από σόμπα που είχαν για θέρμανση.\n\nΑμέσως μετά την ανακάλυψή τους, η Αστυνομία έφτασε στο σημείο και ο χώρος αποκλείστηκε. Η ακριβής αιτία των θανάτων θα καθοριστεί από ιατροδικαστική εξέταση. Είναι σημαντικό να επισημάνουμε την ανάγκη προσοχής στη χρήση συσκευών θέρμανσης, καθώς οι αναθυμιάσεις μπορεί να είναι επικίνδυνες.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/29/greece/tragodia-stin-kalampaka-nekra-dyo-aderfia-apo-anathymiaseis-sompas/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/29/greece/tragodia-stin-kalampaka-nekra-dyo-aderfia-apo-anathymiaseis-sompas/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/29/society/tragodia-stin-kalampaka-nekra-dyo-adelfia-apo-anathymiaseis/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά το θάνατο δύο ανθρώπων από αναθυμιάσεις, που αποτελεί μία σοβαρή και τραγική περίπτωση σχετική με θέματα υγείας και ασφάλειας.",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό δυστύχημα που έχει ως αποτέλεσμα τον θάνατο ενός άνδρα, τονίζοντας τους κινδύνους που σχετίζονται με τις σιδηροδρομικές διαβάσεις και την ανάγκη για ασφαλέστερη διάβαση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-29T14:50:40.000Z"
+        "publishedAt": "2025-12-30T07:07:07.000Z"
       },
       {
-        "id": "4c41482ccd0e",
-        "title": "Έφτασε στην Αλεξανδρούπολη το πρώτο αμερικανικό φορτίο LNG",
-        "simpleTitle": "Έφτασε στην Αλεξανδρούπολη το πρώτο αμερικανικό φορτίο LNG",
-        "simpleText": "Τίτλος: Ήρθε στην Αλεξανδρούπολη το πρώτο φορτίο υγροποιημένου φυσικού αερίου από τις ΗΠΑ\n\nΣτην Αλεξανδρούπολη έφτασε το πρώτο φορτίο υγροποιημένου φυσικού αερίου (LNG) από την Αμερική. Αυτό συνέβη πρόσφατα και είναι σημαντικό για την ενεργειακή ασφάλεια της περιοχής.\n\nΗ εταιρεία Metlen, που είναι υπεύθυνη για τη διαχείριση αυτού του φορτίου, θεωρείται σημαντικός παράγοντας για τη Νοτιοανατολική Ευρώπη. Το LNG αυτό θα χρησιμοποιηθεί κυρίως για την αγορά της Βουλγαρίας, μέσω συνεργασίας με την κρατική εταιρεία Bulgargaz.\n\nΑυτή η συνεργασία είναι μία από τις πιο σταθερές στην περιοχή. Η άφιξη του αμερικανικού LNG δείχνει τη σημασία της Αλεξανδρούπολης ως σημείο διανομής ενέργειας.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2025/12/29/finance/eftase-stin-aleksandroupoli-to-proto-amerikaniko-fortio-lng/",
-        "sourceDomains": [
-          "tovima.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/29/finance/eftase-stin-aleksandroupoli-to-proto-amerikaniko-fortio-lng/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/oikonomia/stin-aleksandroupoli-to-prwto-amerikaniko-fortio-lng-gia-ti-voulgariki-agora-apo-ti-metlen-44343283909"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται στην άφιξη του πρώτου φορτίου υγροποιημένου φυσικού αερίου από τις ΗΠΑ στην Αλεξανδρούπολη, ένα γεγονός που έχει σοβαρές συνέπειες για την ενεργειακή ασφάλεια της περιοχής και τη συνεργασία στον τομέα της ενέργειας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2025-12-29T14:44:06.000Z"
-      },
-      {
-        "id": "fff6ac865f68",
-        "title": "Ο Πούτιν αλλάζει τη νομοθεσία ώστε η Ρωσία να αγνοεί τις αποφάσεις των διεθνών ποινικών δικαστηρίων",
-        "simpleTitle": "Ο Πούτιν αλλάζει τη νομοθεσία ώστε η Ρωσία να αγνοεί τις αποφάσεις των διεθνών ποινικών δικαστηρίων",
-        "simpleText": "Τίτλος: Ο Πούτιν αλλάζει τον νόμο για να μη δέχεται αποφάσεις διεθνών δικαστηρίων\n\nΟ Βλαντίμιρ Πούτιν υπέγραψε νέες νόμιμες αλλαγές για να δώσει στη Ρωσία το δικαίωμα να αγνοεί τις αποφάσεις ξένων και διεθνών δικαστηρίων σχετικά με ποινικές υποθέσεις. Αυτό συνέβη πρόσφατα, καθώς η Ουκρανία και οι Ευρωπαϊκές χώρες προσπαθούν να επιβάλουν κυρώσεις στη Ρωσία λόγω της επίθεσής της στην Ουκρανία.\n\nΗ απόφαση του Πούτιν είναι απάντηση σε αναφορές που μιλούν για εγκλήματα πολέμου από Ρώσους αξιωματούχους. Η Μόσχα απορρίπτει αυτές τις κατηγορίες. Παράλληλα, τον Ιούνιο, η Ουκρανία και το Ευρωπαϊκό Δικαστήριο Δικαιωμάτων του Ανθρώπου συμφώνησαν να δημιουργήσουν ένα ειδικό ποινικό δικαστήριο για αυτά τα θέματα.\n\nΤο Διεθνές Ποινικό Δικαστήριο (ΔΠΔ) έχει εκδώσει εντάλματα σύλληψης για τον Πούτιν και άλλους Ρώσους, κατηγορώντας τους για παράνομη μεταφορά παιδιών από την Ουκρανία. Η Ρωσία, μέσω του Κρεμλινού, λέει ότι αυτό είναι ψευδές και ισχυρίζεται ότι η μεταφορά έγινε για να προστατευτούν τα παιδιά.\n\nΜε τις αλλαγές, η Ρωσία μπορεί να αγνοεί αποφάσεις που εκδίδονται από διεθνή δικαστήρια αν δεν υπάρχει συμφωνία μαζί της ή αν δεν έχει ψηφιστεί από τον ΟΗΕ.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-allazei-ti-nomothesia-oste-i-rosia-na-agnoei-tis-apofaseis-ton-diethnon-poinikon-dikastirion/",
+        "id": "eda03d731910",
+        "title": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του",
+        "simpleTitle": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του",
+        "simpleText": "Συμπλοκή σε αγώνα kick boxing στη Σερβία: Επιτέθηκαν σε Έλληνα αθλητή μετά τη νίκη του\n\nΈνα σοβαρό επεισόδιο συνέβη σε αγώνα kick boxing στη Σερβία. Ο Έλληνας αθλητής, Γιάννης Τσουκαλάς, νίκησε τον Σέρβο αντίπαλό του, Βαχίντ Κιτσάρα, με νοκ άουτ. Λίγα δευτερόλεπτα μετά τη νίκη του, περίπου 50 άτομα μπήκαν στο ρινγκ και του επιτέθηκαν.\n\nΗ κατάσταση έγινε επικίνδυνη, καθώς ο Τσουκαλάς τραυματίστηκε και χρειάστηκε να μεταφερθεί σε νοσοκομείο στο Βελιγράδι. Εκεί, υποβλήθηκε σε προληπτικές εξετάσεις και όταν οι γιατροί είπαν ότι είναι καλά, επέστρεψε στην Ελλάδα.\n\nΟι διοργανωτές δεν είχαν αρκετό προσωπικό ασφαλείας για να διαχειριστούν την κατάσταση, κάτι που προκάλεσε την γενικευμένη σύρραξη. Είναι σημαντικό ότι η επίθεση συνέβη σε ένα αθλητικό γεγονός και ότι χρειάζεται περισσότερη προσοχή για την ασφάλεια των αθλητών.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-tou/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "kathimerini.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-allazei-ti-nomothesia-oste-i-rosia-na-agnoei-tis-apofaseis-ton-diethnon-poinikon-dikastirion/"
+            "url": "https://www.ertnews.gr/roi-idiseon/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-tou/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/29/world/o-poytin-pernaei-nomo-gia-na-agnoei-apofaseis-diethnon-poinikon-dikastirion-apo-ti-rosia/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/563999395/symploki-se-agona-kick-boxing-sti-servia-epitethikan-se-ellina-athliti-meta-ti-niki-toy/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές νομικές και πολιτικές εξελίξεις σχετικά με την αγνόηση διεθνών δικαστικών αποφάσεων από τη Ρωσία, συνδέεται με σημαντικά ζητήματα όπως εγκλήματα πολέμου και διεθνείς σχέσεις.",
+        "categoryReason": "Το γεγονός περιλαμβάνει σοβαρές παραβιάσεις ασφάλειας και την επίθεση σε αθλητή κατά τη διάρκεια ενός αγώνα, γεγονός που αναδεικνύει σημαντικά ζητήματα σχετικά με την ασφάλεια στον αθλητισμό.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gb174e5718d7778c735ae5a8ca19c314835a83a908f5b8616b5be973a5632e307e60978267abca71dd0e4dd902ab73017044639780458715ee4e5ee6135be064f_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gb81b57118ede7783180fc05948c56d78dd28eebedcb1db180059a9a8a1772ca9e0801fdf4e4a823f144ee713c84c243f75fb4fc4b52630ac92bb44ff4c59ecc2_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-29T14:41:22.000Z"
+        "publishedAt": "2025-12-30T06:02:49.000Z"
+      },
+      {
+        "id": "491f4bdfb7a4",
+        "title": "Οι ΗΠΑ κατέστρεψαν «προκυμαία» στη Βενεζουέλα – Κατά τον Τραμπ συνδεόταν με διακίνηση ναρκωτικών",
+        "simpleTitle": "Οι ΗΠΑ κατέστρεψαν «προκυμαία» στη Βενεζουέλα – Κατά τον Τραμπ συνδεόταν με διακίνηση ναρκωτικών",
+        "simpleText": "Οι Ηνωμένες Πολιτείες κατέστρεψαν μια περιοχή στη Βενεζουέλα που χρησιμοποιούνταν για τη διακίνηση ναρκωτικών. Αυτό συνέβη μετά από μια στρατιωτική επιχείρηση που άρχισε τον Σεπτέμβριο. Ο πρώην πρόεδρος Ντόναλντ Τραμπ δήλωσε ότι πρόκειται για το πρώτο χερσαίο πλήγμα από την αρχή αυτής της εκστρατείας.\n\nΑμερικανικές δυνάμεις έχουν επιτεθεί σε σκάφη που θεωρούνται ότι σχετίζονται με τη διακίνηση ναρκωτικών. Το τελευταίο πλήγμα είχε αποτέλεσμα τον θάνατο δύο ατόμων που χαρακτηρίστηκαν «ναρκωτρομολόγοι». Παρά τις δηλώσεις για τις επιτυχίες κατά των ναρκωτικών, πολλές φωνές αμφισβητούν την εγκυρότητα αυτών των επιχειρήσεων, και η κυβέρνηση της Βενεζουέλας αρνείται τις κατηγορίες.\n\nΟ Τραμπ, χωρίς να στις λεπτομέρειες των επιχειρήσεων, είπε ότι υπήρξε μεγάλη έκρηξη στην περιοχή που καταστράφηκε. Οι λεπτομέρειες για το πότε και πώς έγινε η επίθεση δεν είναι σαφείς.",
+        "sourceName": "Kathimerini, TA NEA",
+        "sourceUrl": "https://www.kathimerini.gr/world/563999320/oi-ipa-katestrepsan-prokymaia-sti-venezoyela-kata-ton-tramp-syndeotan-me-diakinisi-narkotikon/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/563999320/oi-ipa-katestrepsan-prokymaia-sti-venezoyela-kata-ton-tramp-syndeotan-me-diakinisi-narkotikon/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/30/world/tramp-oi-ipa-katestrepsan-apovathra-sti-venezoyela-poy-syndeotan-me-diakinisi-narkotikon/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και στρατιωτικές ενέργειες των ΗΠΑ κατά της διακίνησης ναρκωτικών στη Βενεζουέλα, με αναφορές σε στρατιωτικές επιθέσεις και τις πολιτικές συνέπειες για τις σχέσεις ΗΠΑ-Βενεζουέλας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-30T05:57:37.000Z"
+      },
+      {
+        "id": "9873295cfc4d",
+        "title": "ΣΥΡΙΖΑ: Ο κ. Μητσοτάκης μπέρδεψε τους «Φραπέδες» και τους «Χασάπηδες» της ΝΔ με τους πραγματικούς αγρότες",
+        "simpleTitle": "ΣΥΡΙΖΑ: Ο κ. Μητσοτάκης μπέρδεψε τους «Φραπέδες» και τους «Χασάπηδες» της ΝΔ με τους πραγματικούς αγρότες",
+        "simpleText": "Ο τίτλος μπορεί να απλοποιηθεί σε: \"Ο ΣΥΡΙΖΑ κατηγορεί τον Μητσοτάκη ότι δεν καταλαβαίνει τους αγρότες.\"\n\nΗ είδηση αφορά τη δήλωση του πρωθυπουργού Κυριάκου Μητσοτάκη σε μία συνέντευξη. Ο ΣΥΡΙΖΑ, ένα πολιτικό κόμμα, αντέτεινε ότι ο Μητσοτάκης μπέρδεψε τους αγρότες με άλλες ομάδες. Κατηγορεί τον πρωθυπουργό ότι προσπαθεί να διχάσει την κοινωνία, ειδικά ανάμεσα στους αγρότες που αντιδρούν για κάποια ζητήματα.\n\nΣυγκεκριμένα, η ανακοίνωση του ΣΥΡΙΖΑ αναφέρει ότι οι αγρότες βιώνουν δύσκολες καταστάσεις και ο Μητσοτάκης δεν ακούει τις ανησυχίες τους. Πιστεύει ότι η κυβέρνηση δεν νοιάζεται πραγματικά για τα προβλήματα των αγροτών. Ο ΣΥΡΙΖΑ καλεί τον Μητσοτάκη να μην υποτιμά τον αγώνα τους και να αναγνωρίσει την πραγματικότητα που αντιμετωπίζουν.\n\nΗ κατάσταση είναι σημαντική γιατί δείχνει την ένταση στις σχέσεις μεταξύ της κυβέρνησης και των αγροτών, που είναι μία σημαντική κοινωνική ομάδα στην Ελλάδα.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2025/12/30/politics/syriza-o-k-mitsotakis-mperdepse-toys-frapedes-kai-toys-xasapides-tis-nd-me-toys-pragmatiko/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/30/politics/syriza-o-k-mitsotakis-mperdepse-toys-frapedes-kai-toys-xasapides-tis-nd-me-toys-pragmatiko/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4040164/siriza-ps-o-k-mitsotakis-berdepse-tous-frapedes-ke-tous-chasapides-tis-nd-me-tous-pragmatikous-agrotes.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά πολιτική κριτική του ΣΥΡΙΖΑ προς τον πρωθυπουργό Μητσοτάκη, εστιάζοντας σε σημαντικά κοινωνικά ζητήματα που αφορούν τους αγρότες και την κυβέρνηση.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-30T05:55:29.000Z"
+      },
+      {
+        "id": "ff3c9f862b46",
+        "title": "Σίδνεϊ: «Μόνοι» ενήργησαν οι δράστες της επίθεσης στην παραλία Μπόνταϊ",
+        "simpleTitle": "Σίδνεϊ: «Μόνοι» ενήργησαν οι δράστες της επίθεσης στην παραλία Μπόνταϊ",
+        "simpleText": "Στο Σίδνεϊ, δύο άτομα έκαναν μια επίθεση στην παραλία Μπόνταϊ στις 14 Δεκεμβρίου. Αυτή η μέρα είναι σημαντική, επειδή συμπίπτει με την εβραϊκή γιορτή του Χάνουκα. Από την επίθεση, 15 άνθρωποι έχασαν τη ζωή τους.\n\nΗ αρχηγός της ομοσπονδιακής αστυνομίας της Αυστραλίας δήλωσε ότι οι δράστες ενήργησαν μόνοι τους. Αυτό σημαίνει ότι δεν είχαν βοήθεια από άλλους. Η κατάσταση είναι σοβαρή, καθώς η επίθεση έχει προκαλέσει μεγάλη ανησυχία στους πολίτες.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/world/563999380/sidnei-monoi-enirgisan-oi-drastes-tis-epithesis-stin-paralia-mpontai/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/563999380/sidnei-monoi-enirgisan-oi-drastes-tis-epithesis-stin-paralia-mpontai/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4040143/i-dio-drastes-tis-epithesis-sto-sidnei-enirgisan-moni-diloni-i-archigos-tis-omospondiakis-astinomias-tis-afstralias.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η επίθεση στην παραλία Μπόνταϊ έχει σοβαρές συνέπειες με θύματα και ανησυχία στους πολίτες, επομένως σχετίζεται με σοβαρά κοινωνικά ζητήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-30T05:45:11.000Z"
       }
     ],
     "happy": [
       {
-        "id": "cc25a4979f61",
-        "title": "Μαζί για το Παιδί: Στήριξη 2000 παιδιών μέσα από τις δράσεις Secret Santa και Breakfast Boxes",
-        "simpleTitle": "Μαζί για το Παιδί: Στήριξη 2000 παιδιών μέσα από τις δράσεις Secret Santa και Breakfast Boxes",
-        "simpleText": "Ο τίτλος μπορεί να παραφραστεί ως: «Στήριξη 2000 παιδιών με τις δράσεις Secret Santa και Breakfast Boxes».\n\nΠρόσφατα, χιλιάδες παιδιά στην Ελλάδα έλαβαν στήριξη μέσω δύο σημαντικών δράσεων. Οι δράσεις αυτές ονομάζονται Secret Santa και Breakfast Boxes. Μέχρι τώρα, 2000 παιδιά από φορείς παιδικής προστασίας και ευάλωτες οικογένειες συμμετείχαν.\n\nΓια να συμβεί αυτό, αρκετά σχολεία, εταιρείες και ιδιώτες ενώνουν τις δυνάμεις τους. Αυτές οι ενέργειες είναι σημαντικές γιατί προσφέρουν χαρά και υποστήριξη σε παιδιά που το έχουν ανάγκη. Οι δράσεις πραγματοποιούνται σε όλη τη χώρα και ενισχύουν την αλληλεγγύη στις τοπικές κοινωνίες.",
-        "sourceName": "Protagon",
-        "sourceUrl": "https://www.protagon.gr/epikairotita/mazi-gia-to-paidi-stiriksi-2000-paidiwn-mesa-apo-tis-draseis-secret-santa-kai-breakfast-boxes-44343283898",
+        "id": "550687067d79",
+        "title": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
+        "simpleTitle": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
+        "simpleText": "Τίτλος: Οι φάλαινες ξαναγυρίζουν στον Καναδά\n\nΜια ομάδα φαλαινών, οι βόρειες ρυγχοφάλαινες, επιστρέφει στον Καναδά. Αυτό συμβαίνει στον Ατλαντικό Ωκεανό, σε μια περιοχή που ονομάζεται «Gully». Η επιστροφή τους είναι αποτέλεσμα πολλών χρόνων δουλειάς και προστασίας του θαλάσσιου περιβάλλοντος.\n\nΟι βόρειες ρυγχοφάλαινες είναι μεγάλες και μοιάζουν με δελφίνια. Είναι γνωστές για την περιέργεια και την παιχνιδιάρικη τους διάθεση. Ζουν σε συγκεκριμένες περιοχές του ωκεανού, σε βάθη που δεν είναι εύκολα προσβάσιμα.\n\nΣτο παρελθόν, οι φάλαινες αυτές είχαν πληγεί από το κυνήγι, το οποίο μείωσε τον πληθυσμό τους. Παρόλο που έχουν γίνει προσπάθειες για την προστασία τους, οι φάλαινες συνεχίζουν να αντιμετωπίζουν κινδύνους, όπως συγκρούσεις με πλοία και αλιευτικά δίχτυα. Η εποχή αυτή δείχνει ότι η προστασία των θαλάσσιων οικοσυστημάτων μπορεί να έχει θετικά αποτελέσματα.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/",
         "sourceDomains": [
-          "protagon.gr"
+          "thehappynews.gr"
         ],
         "sources": [
           {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/mazi-gia-to-paidi-stiriksi-2000-paidiwn-mesa-apo-tis-draseis-secret-santa-kai-breakfast-boxes-44343283898"
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά θετικές δράσεις που προσφέρουν υποστήριξη και χαρά σε 2000 παιδιά, δημιουργώντας μια αισιόδοξη ατμόσφαιρα γύρω από την αλληλεγγύη και την κοινωνική προσφορά. | rss_backfill",
+        "categoryReason": "Η επιστροφή των φαλαινών στον Καναδά είναι μια θετική και ενθαρρυντική ιστορία που δείχνει τη θετική επίδραση της θαλάσσιας προστασίας στο περιβάλλον.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g68dae1d3d3d9640d3a0c9d08a681642d9c653d49907327de75c42424e301cf92871718169a7c36bbd3025fb7dc9a61d21c5d732783aed92e076aec58033138a9_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2025-12-29T14:33:39.000Z"
+        "publishedAt": "2025-12-23T09:23:58.000Z"
       },
       {
         "id": "3d553240411d",
         "title": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
         "simpleTitle": "Ένας σχολικός κήπος που δείχνει στα παιδιά πώς μεγαλώνει η ζωή",
-        "simpleText": "Τίτλος: Ένας κήπος στο σχολείο που δείχνει στα παιδιά πώς να καλλιεργούν.\n\nΣτο Heritage Middle School, η αδελφή Sharon Dillon δημιούργησε έναν σχολικό κήπο που έχει μεταμορφώσει τον εξωτερικό χώρο του σχολείου. Αρχικά, ο χώρος ήταν άδειος, αλλά τώρα έχει γεμίσει με λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στη διαδικασία καλλιέργειας. Μάθαινουν πώς να φυτεύουν και να συγκομίζουν τα φυτά. Ο κήπος είναι σημαντικός, γιατί προσφέρει ευκαιρίες μάθησης και χαράς, και γίνεται κομμάτι της καθημερινής εκπαιδευτικής τους εμπειρίας.",
+        "simpleText": "Τίτλος: Ένας σχολικός κήπος που διδάσκει τα παιδιά για τη ζωή\n\nΣτο Heritage Middle School, η αδελφή Sharon Dillon έχει φτιάξει έναν σχολικό κήπο, όπου τα παιδιά μαθαίνουν πώς να καλλιεργούν φυτά. Πριν μερικά χρόνια, ο χώρος δεν είχε καμία ομορφιά. Σήμερα, είναι γεμάτος από λαχανικά, μυρωδικά και λουλούδια.\n\nΟι μαθητές συμμετέχουν ενεργά στην φροντίδα του κήπου. Φυτεύουν, ποτίζουν και μαζεύουν καρπούς. Αυτός ο κήπος δεν είναι απλώς ένας χώρος πρασίνου. Είναι μέρος της καθημερινής μάθησης και τους δείχνει πώς μεγαλώνει η ζωή. Αυτό είναι σημαντικό γιατί βοηθά τα παιδιά να κατανοήσουν τη διαδικασία της φύσης και να αναπτύξουν ενδιαφέρον για την καλλιέργεια.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30391-kipos-astiki-kalliergeia-paidia-scholeio/",
         "sourceDomains": [
@@ -846,7 +754,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε έναν σχολικό κήπο που προσφέρει θετικές εμπειρίες και μάθηση στα παιδιά, ενισχύοντας τη χαρά και την ευημερία τους.",
+        "categoryReason": "Η είδηση αφορά ένα σχολικό κήπο που διδάσκει στα παιδιά την αξία της καλλιέργειας και της εργασίας στη φύση, προάγοντας θετικά συναισθήματα και εμπειρίες μάθησης.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -855,59 +763,87 @@
     ],
     "sports": [
       {
-        "id": "22464903ff7c",
-        "title": "«Παναθηναϊκός, ΑΕΚ και ΠΑΟΚ για Γιάγκουσιτς»",
-        "simpleTitle": "«Παναθηναϊκός, ΑΕΚ και ΠΑΟΚ για Γιάγκουσιτς»",
-        "simpleText": "**Τίτλος: «Ελληνικές ομάδες ενδιαφέρονται για τον Γιάγκουσιτς»**\n\nΗ είδηση αφορά τον Αντριάνο Γιάγκουσιτς, έναν 20χρονο ποδοσφαιριστή από την Κροατία. Παίζει στη Σλάβεν Μπέλουπο και έχει εντυπωσιάσει με τις επιδόσεις του.\n\nΤρεις μεγάλες ελληνικές ομάδες, ο Παναθηναϊκός, η ΑΕΚ και ο ΠΑΟΚ, τον παρακολουθούν. Ο Γιάγκουσιτς έχει πετύχει 8 γκολ και έχει δώσει 6 ασίστ σε 20 αγώνες φέτος.\n\nΗ αξία του είναι γύρω στα 4 εκατ. ευρώ, αλλά μπορεί να πωληθεί για περίπου 2,3 εκατ. ευρώ, με όρο ότι η ομάδα που τον αγοράσει θα δώσει και 30% σε περίπτωση μελλοντικής πώλησης.\n\nΕπίσης, το ενδιαφέρον για αυτόν δεν περιορίζεται μόνο στην Ελλάδα. Ορισμένοι σκάουτερ από μεγάλες ομάδες της Ευρώπης, όπως η Μπαρτσελόνα, τον έχουν παρακολουθήσει. Αυτές οι πληροφορίες δείχνουν πόσο σημαντικός είναι ο Γιάγκουσιτς για το μέλλον του ποδοσφαίρου.",
+        "id": "fefb41595eab",
+        "title": "Σερβία: Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά την νίκη του",
+        "simpleTitle": "Σερβία: Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά την νίκη του",
+        "simpleText": "Έλληνας αθλητής kick boxing δέχθηκε επίθεση μετά τη νίκη του\n\nΟ Γιάννης Τσουκαλάς, Έλληνας αθλητής του kick boxing, κέρδισε έναν αγώνα στη Σερβία. Ο αγώνας ήταν για τον παγκόσμιο τίτλο της WKU στην κατηγορία των -67 κιλών. Αμέσως μετά τη νίκη του, περίπου 50 άτομα μπήκαν στο ρινγκ και του επιτέθηκαν. Αυτό προκάλεσε αναστάτωση και ο Τσουκαλάς τραυματίστηκε. Χρειάστηκε να μεταφερθεί σε νοσοκομείο στο Βελιγράδι για προληπτικές εξετάσεις. Ευτυχώς, η κατάσταση της υγείας του είναι καλή και επέστρεψε στην Ελλάδα.\n\nΗ επίθεση αυτή είναι σημαντική γιατί δείχνει ότι δεν υπάρχει πάντα ασφάλεια σε τέτοιες εκδηλώσεις, κάτι που επιβεβαίωσαν και οι διοργανωτές που ανέφεραν ότι δεν είχαν αρκετό προσωπικό ασφαλείας.",
         "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2025/12/29/sports/panathinaikos-aek-kai-paok-gia-giagkousits/",
+        "sourceUrl": "https://www.tanea.gr/2025/12/30/sports/servia-o-athlitis-kick-boxing-giannis-tsoukalas-dexthike-epiethsi-meta-tin-niki-tou/",
         "sourceDomains": [
           "tanea.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2025/12/29/sports/panathinaikos-aek-kai-paok-gia-giagkousits/"
+            "url": "https://www.tanea.gr/2025/12/30/sports/servia-o-athlitis-kick-boxing-giannis-tsoukalas-dexthike-epiethsi-meta-tin-niki-tou/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τις μεταγραφές και το ενδιαφέρον μεγάλων ποδοσφαιρικών ομάδων για έναν νεαρό παίκτη, γεγονός που συνδέεται άμεσα με τον κόσμο του αθλητισμού. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν Έλληνα αθλητή kick boxing και το περιστατικό που συνέβη μετά την νίκη του στον αγώνα, επομένως κατατάσσεται στην κατηγορία των σπορ. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4580fe13e119a31963c63b2a941a895ea261449c2612ec0855b76ea36ad08b0cb154b554529e556a2b33e6bb9916060c8e98c7dc22e84d18f3f1ef90010ddea7_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g5d9e142397f3384ff9912b73df9f136d2651804c43100bc8ea8f713ed8132904c7079ae241f66264357d3a85921a677f345ec86041f860e9bfdf68b5807f4816_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-29T14:25:50.000Z"
+        "publishedAt": "2025-12-30T07:08:21.000Z"
       },
       {
-        "id": "dc37626f4895",
-        "title": "ΑΕΚ: Δέκα πρώην παίκτες της ζητούν απαγόρευση μεταγραφών για χρέη 2,5 εκατ. ευρώ",
-        "simpleTitle": "ΑΕΚ: Δέκα πρώην παίκτες της ζητούν απαγόρευση μεταγραφών για χρέη 2,5 εκατ. ευρώ",
-        "simpleText": "Τίτλος: Πρώην παίκτες της ΑΕΚ ζητούν να σταματήσουν οι μεταγραφές λόγω χρεών\n\nΔέκα πρώην ποδοσφαιριστές της ΑΕΚ έχουν ζητήσει να απαγορευτούν οι μεταγραφές της ομάδας. Αυτό συμβαίνει επειδή η ΑΕΚ χρωστάει 2,5 εκατομμύρια ευρώ σε αυτούς.\n\nΗ αίτηση για την απαγόρευση έγινε, καθώς τα χρέη προέρχονται από την παλιά ΠΑΕ της ΑΕΚ. Δηλαδή, είναι από μια προηγούμενη περίοδο της ομάδας.\n\nΑυτή η κατάσταση είναι σημαντική, γιατί αν επιβληθεί η απαγόρευση, η ΑΕΚ δεν θα μπορεί να αγοράζει νέους παίκτες. Αυτό μπορεί να επηρεάσει την ομάδα και την απόδοσή της στο πρωτάθλημα.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2025/12/29/sports/deka-proin-paiktes-tis-aek-zitoun-apagoreysi-metagrafon-gia-xrei-25-ekat-eyro/",
+        "id": "d934dbc12455",
+        "title": "Ινφαντίνο: Τα Best FIFA Football Awards του 2026 θα φιλοξενηθούν στο Ντουμπάι",
+        "simpleTitle": "Ινφαντίνο: Τα Best FIFA Football Awards του 2026 θα φιλοξενηθούν στο Ντουμπάι",
+        "simpleText": "Ομιλία Ινφαντίνο: Τα βραβεία Best FIFA Football Awards του 2026 θα γίνουν στο Ντουμπάι\n\nΟ πρόεδρος της FIFA, Τζιάνι Ινφαντίνο, ανακοίνωσε ότι το 2026, η τελετή των βραβείων Best FIFA Football Awards θα πραγματοποιηθεί στο Ντουμπάι. Η ανακοίνωση έγινε την Δευτέρα, 29 Δεκεμβρίου, στο Παγκόσμιο Αθλητικό Συνέδριο που διεξήχθη στην πόλη αυτή.\n\nΤα βραβεία αυτά ξεχωρίζουν τους καλύτερους ποδοσφαιριστές, προπονητές και ομάδες του κόσμου. Οι νικητές επιλέγονται από ψήφους φιλάθλων, εκπροσώπων των ΜΜΕ και άλλων ειδικών στον αθλητισμό. Ο Ινφαντίνο σημείωσε ότι αυτή η συνεργασία θα ενισχύσει την ενότητα μέσω του αθλητισμού.\n\nΕίναι σημαντικό να αναφερθεί ότι πρόσφατα βραβεία, όπως αυτά του 2025, έδωσαν το τίτλο του καλύτερου άνδρα παίκτη στον Ουσμάν Ντεμπελέ και της καλύτερης γυναίκας παίκτριας στην Αϊτάνα Μπονματί.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/infantino-ta-best-fifa-football-awards-tou-2026-tha-filoksenithoun-sto-ntoumpai/",
         "sourceDomains": [
-          "tovima.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2025/12/29/sports/deka-proin-paiktes-tis-aek-zitoun-apagoreysi-metagrafon-gia-xrei-25-ekat-eyro/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/infantino-ta-best-fifa-football-awards-tou-2026-tha-filoksenithoun-sto-ntoumpai/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση σχετίζεται άμεσα με το ποδόσφαιρο και τις μεταγραφές, που είναι κρίσιμες για τις ομάδες και τους παίκτες. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τα Best FIFA Football Awards, τα οποία βραβεύουν κορυφαίους αθλητές και ομάδες στο ποδόσφαιρο, που είναι κεντρικό θέμα του αθλητισμού. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/gb08e4cd06cf3a14b6dc9ce9666f7fb5dbe132ab4ed43152ba17f2bf2172482cc52f1984d264649b4ea8abb3eb5bd1b8a8cc7025459837504e78d22f0b8243182_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2025-12-29T14:06:33.000Z"
+        "publishedAt": "2025-12-30T05:23:41.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
+        "id": "452da161f9cc",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 30 Δεκεμβρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 30 Δεκεμβρίου",
+        "simpleText": "Σήμερα, 30 Δεκεμβρίου, γιορτάζουν οι Άγιοι Ανύσιος, Ανυσία, Γεδεών και Φιλέταιρος. Αυτοί οι Άγιοι τιμώνται για τη βαθιά πίστη τους. Ο Άγιος Φιλέταιρος, για παράδειγμα, είχε μεγάλη εξωτερική ομορφιά, αλλά πίστευε ότι η ψυχική ομορφιά είναι πιο σημαντική.\n\nΟ Φιλέταιρος προσεγγίστηκε από τον αυτοκράτορα Διοκλητιανό, ο οποίος ήθελε να τον έχει κοντά του, αλλά όρισε ότι έπρεπε να αρνηθεί τον Χριστιανισμό. Ο Φιλέταιρος αρνήθηκε να απομακρυνθεί από την πίστη του και φυλακίστηκε. Αργότερα, με άλλους ηγεμόνες, αντιμετώπισε διωγμούς και κακουχίες. Έζησε όμως με πίστη και αφοσίωση, συναντώντας άλλους αγίους και προσευχόμενος μαζί τους.\n\nΗ γιορτή αυτή είναι σημαντική γιατί τιμά την αφοσίωση και την πίστη των Αγίων, ενώ πολλοί άνθρωποι γιορτάζουν και το όνομά τους σήμερα.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-30-dekemvriou-2/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-30-dekemvriou-2/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2025/12/30/greece/eortologio-poioi-giortazoun-simera-30-dekemvriou/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά τη γιορτή των Αγίων και την επίσημη τιμή τους, γεγονός που συνδέεται με θρησκευτικές παραδόσεις και πολιτιστικές αξίες.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2025-12-30T05:05:46.000Z"
+      },
+      {
         "id": "4e32e5977ae6",
         "title": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
         "simpleTitle": "Η Εβδομάδα Μόδας της Νέας Υόρκης γυρίζει την πλάτη στις γούνες",
-        "simpleText": "Η Εβδομάδα Μόδας της Νέας Υόρκης αποφάσισε να απομακρυνθεί από τη χρήση γούνων. Αυτό σημαίνει ότι δεν θα προβάλλει γούνες σε καμία εκδήλωση ούτε σε ψηφιακά μέσα. Η απόφαση αυτή ανακοινώθηκε από το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής.\n\nΑυτή η νέα πολιτική θα ισχύσει από τον Σεπτέμβριο του 2026. Είναι σημαντική γιατί προωθεί τα δικαιώματα των ζώων και δείχνει ότι η μόδα μπορεί να εξελιχθεί χωρίς να προκαλεί πόνο στα ζώα.",
+        "simpleText": "Τίτλος: Η Εβδομάδα Μόδας της Νέας Υόρκης δεν θα χρησιμοποιεί γούνες\n\nΗ Εβδομάδα Μόδας της Νέας Υόρκης ετοιμάζεται να αλλάξει. Το Συμβούλιο Σχεδιαστών Μόδας της Αμερικής ανακοίνωσε ότι δεν θα επιτρέπει τη χρήση γουνών σε καμία εκδήλωση από τον Σεπτέμβριο του 2026.\n\nΑυτή η απόφαση προωθεί τα δικαιώματα των ζώων και δείχνει ότι η μόδα δεν πρέπει να προκαλεί πόνο στα ζώα. Το μήνυμα είναι ξεκάθαρο: η μόδα που βλάπτει τα ζώα δεν είναι αποδεκτή στην κοινωνία. Αυτή η αλλαγή είναι σημαντική για την κατεύθυνση που θέλει να πάρει η βιομηχανία της μόδας στον κόσμο.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30409-nea-yorki-evdomada-modas-xoris-gounes/",
         "sourceDomains": [
@@ -920,7 +856,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια σημαντική απόφαση στην Εβδομάδα Μόδας της Νέας Υόρκης που σχετίζεται με την πολιτική και ηθική διάσταση της μόδας, προωθώντας τα δικαιώματα των ζώων και τις σύγχρονες τάσεις στον πολιτιστικό τομέα.",
+        "categoryReason": "Η είδηση αφορά μια σημαντική απόφαση της Εβδομάδας Μόδας της Νέας Υόρκης που προωθεί τα δικαιώματα των ζώων και επηρεάζει την κατεύθυνση της μόδας, κάτι που σχετίζεται με πολιτιστικές αξίες και τάσεις.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -930,7 +866,7 @@
         "id": "c82a2758c7a6",
         "title": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
         "simpleTitle": "Ο Αντρέ Ριέ συγκίνησε το κοινό με τα ελληνικά κάλαντα στο Μάαστριχτ",
-        "simpleText": "Ο Αντρέ Ριέ συγκίνησε το κοινό του με ελληνικά κάλαντα στην Ολλανδία.\n\nΣτην ετήσια χριστουγεννιάτικη συναυλία του στο Μάαστριχτ, ο γνωστός μουσικός παρουσίασε μια ιδιαίτερη στιγμή. Μαζί του ήταν η Ελληνίδα σοπράνο Χριστίνα Πέτρου, η οποία ερμήνευσε τα παραδοσιακά ελληνικά κάλαντα. Αυτή η ερμηνεία έφερε μια ζεστή αίσθηση από την Ελλάδα στην Ευρώπη και κέρδισε το θερμό χειροκρότημα του κοινού.\n\nΤο βίντεο της εμφανίσεως έγινε πολύ δημοφιλές στα social media, συγκεντρώνοντας χιλιάδες προβολές. Αυτή η στιγμή είναι σημαντική γιατί δείχνει την πολιτιστική σύνδεση ανάμεσα στην Ελλάδα και άλλες χώρες.",
+        "simpleText": "Ο τίτλος της είδησης είναι: \"Ο Αντρέ Ριέ έκανε μια ξεχωριστή εμφάνιση με ελληνικά κάλαντα στο Μάαστριχτ.\"\n\nΣτο Μάαστριχτ της Ολλανδίας, ο διάσημος μουσικός Αντρέ Ριέ πραγματοποίησε τη χριστουγεννιάτικη συναυλία του. Στην εκδήλωση, ερμήνευσε ελληνικά κάλαντα, κάτι που συγκίνησε το κοινό. Η Ελληνίδα σοπράνο Χριστίνα Πέτρου ήταν αυτή που τραγούδησε τα κάλαντα. Η ερμηνεία της προκάλεσε ενθουσιασμό και οι θεατές χειροκρότησαν θερμά. Το βίντεο της παράστασης έχει ήδη πολλές προβολές στα μέσα κοινωνικής δικτύωσης.\n\nΑυτή η στιγμή είναι σημαντική, καθώς φέρνει ελληνικές παραδόσεις κοντά σε ξένο κοινό και προάγει τον πολιτισμό της Ελλάδας.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30481-andre-rie-ellinika-kalanta-xristina-petrou/",
         "sourceDomains": [
@@ -943,7 +879,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η συναυλία του Αντρέ Ριέ με την ερμηνεία ελληνικών καλάντων από τη Χριστίνα Πέτρου αποτελεί μια πολιτιστική εκδήλωση που ενώνει διαφορετικές κουλτούρες και φέρνει την ελληνική παράδοση στην Ολλανδία.",
+        "categoryReason": "Η είδηση αφορά στη συναυλία του Αντρέ Ριέ, η οποία προάγει τον πολιτισμό μέσω της ερμηνείας ελληνικών κάλαντων, κάτι που σχετίζεται άμεσα με τον πολιτιστικό τομέα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -953,7 +889,7 @@
         "id": "0302270e1a79",
         "title": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
         "simpleTitle": "Εορταστικό Γκαλά στο Μέγαρο Μουσικής: Ένα γιορτινό μουσικό ταξίδι στον κόσμο",
-        "simpleText": "Τίτλος: Γιορτινή μουσική εκδήλωση στο Μέγαρο Μουσικής\n\nΣτις 29 και 30 Δεκεμβρίου, θα γίνει στο Μέγαρο Μουσικής μία γιορτινή μουσική εκδήλωση. Αυτή η εκδήλωση προσκαλεί το κοινό να βιώσει μία μοναδική εμπειρία γεμάτη ήχους και εικόνες από διαφορετικούς πολιτισμούς. Οι συμμετέχοντες θα έχουν την ευκαιρία να ταξιδέψουν νοερά, όπως ο χαρακτήρας Φιλέας Φογκ, μέσα από τη μουσική.\n\nΗ εκδήλωση ενώνει κλασική μουσική και σύγχρονα στοιχεία, προσφέροντας μία στιγμή χαράς πριν την αλλαγή του χρόνου. Είναι μία ευκαιρία για τους ανθρώπους να γιορτάσουν και να απολαύσουν τη μουσική μαζί.",
+        "simpleText": "Τίτλος: Γιορτινό Μουσικό Γκαλά στο Μέγαρο Μουσικής\n\nΣτις 29 και 30 Δεκεμβρίου, το Μέγαρο Μουσικής φιλοξενεί ένα γιορτινό γκαλά. Αυτή η εκδήλωση μας προσκαλεί να ζήσουμε μια μαγική εμπειρία μέσα από τη μουσική. Το γκαλά συνδυάζει ήχους και εικόνες από διάφορους πολιτισμούς.\n\nΟι μουσικές θα μας ταξιδέψουν όπως ο ήρωας Φιλέας Φογκ στα βιβλία. Δεν χρειάζεται να φέρουμε μαζί μας τίποτα, μόνο να απολαύσουμε τη μουσική. Αυτό το γεγονός είναι σημαντικό, καθώς φέρνει κοντά ανθρώπους διαφορετικών υποβαθρών, ενισχύοντας τη χαρά και την ενότητα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30440-eortastiko-gala-megaro-mousikis-taxidi-me-ti-fantasia/",
         "sourceDomains": [
@@ -966,7 +902,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η εκδήλωση αφορά μουσική και πολιτιστικά στοιχεία, ενσωματώνοντας κλασική και σύγχρονη μουσική σε μια γιορτινή ατμόσφαιρα, γεγονός που την κατατάσσει στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Το γκαλά στο Μέγαρο Μουσικής αφορά μια πολιτιστική εκδήλωση που συνδυάζει μουσική και διαφορετικούς πολιτισμούς, γεγονός που το κατατάσσει στην κατηγορία του πολιτισμού.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -976,7 +912,7 @@
         "id": "89ffdb155ea3",
         "title": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
         "simpleTitle": "Βρετανικό Μουσείο και ελληνικές αρχαιότητες: δανεισμοί, διεκδικήσεις και πολιτιστική διπλωματία",
-        "simpleText": "Τίτλος: Το Βρετανικό Μουσείο και οι ελληνικές αρχαιότητες\n\nΤο Βρετανικό Μουσείο επανέρχεται σε ένα παλιό θέμα που αφορά τις ελληνικές αρχαιότητες. Πρόσφατα, το μουσείο ανακοίνωσε νέο τρόπο συνεργασίας μέσω διεθνών δανεισμών, που έχει προκαλέσει συζητήσεις.\n\nΠερίπου 80 αρχαιότητες από την Ελλάδα και την Αίγυπτο στάλθηκαν στην Ινδία. Εκεί, θα εκτίθενται για τρία χρόνια. Αυτό σημαίνει ότι οι άνθρωποι στην Ινδία θα μπορούν να δουν αυτές τις σπουδαίες αρχαιότητες. Το Βρετανικό Μουσείο προσπαθεί να δείξει ότι η συνεργασία αυτή είναι κάτι καινούργιο και θετικό.\n\nΗ σημασία της είδησης είναι ότι εγείρει ερωτήματα για τη διαχείριση των αρχαιοτήτων και τη σχέση μεταξύ διαφορετικών χωρών. Δεν είναι γνωστά τα επόμενα βήματα ή οι αντιδράσεις από την Ελλάδα.",
+        "simpleText": "Το Βρετανικό Μουσείο συζητά τη διαχείριση ελληνικών αρχαιοτήτων. Αυτό είναι ένα παλιό θέμα, που αφορά την επιστροφή αρχαιοτήτων στην Ελλάδα.\n\nΠρόσφατα, το μουσείο έστειλε περίπου 80 ελληνικές και αιγυπτιακές αρχαιότητες στην Ινδία. Αυτές οι αρχαιότητες θα εκτεθούν εκεί για τρία χρόνια. Το Βρετανικό Μουσείο αναφέρει ότι αυτή η συνεργασία είναι μια νέα και καινοτόμος μορφή δανεισμού.\n\nΑυτή η κίνηση έχει προκαλέσει συζητήσεις και αντιδράσεις, καθώς η επιστροφή αρχαιοτήτων είναι ένα σημαντικό θέμα για την Ελλάδα. Δεν είναι ξεκάθαρο πώς θα συνεχιστεί αυτή η διαδικασία στο μέλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30442-vretaniko-mouseio-ellinikes-arxaiotites/",
         "sourceDomains": [
@@ -989,42 +925,13 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά τη συνεργασία του Βρετανικού Μουσείου με άλλες χώρες σχετικά με τις ελληνικές αρχαιότητες, αναδεικνύοντας ζητήματα πολιτιστικής διπλωματίας και διαχείρισης πολιτιστικής κληρονομιάς.",
+        "categoryReason": "Η είδηση αφορά τη διαχείριση και δανεισμό ελληνικών αρχαιοτήτων, που είναι θεματική του πολιτισμού και της πολιτιστικής διπλωματίας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2025-12-19T11:25:00.000Z"
       }
     ],
-    "fun": [
-      {
-        "id": "2134d7596ae2",
-        "title": "Θεσσαλονίκη: Προετοιμασίες για το μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο – Κορυφαίοι DJs και εντυπωσιακό laser show",
-        "simpleTitle": "Θεσσαλονίκη: Προετοιμασίες για το μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο – Κορυφαίοι DJs και εντυπωσιακό laser show",
-        "simpleText": "Θεσσαλονίκη: Ετοιμάζεται μεγάλη γιορτή για την αλλαγή του χρόνου στον Λευκό Πύργο.\n\nΗ Θεσσαλονίκη προετοιμάζεται για μία εντυπωσιακή γιορτή την παραμονή της Πρωτοχρονιάς. Θα γίνει ένα μεγάλο πάρτι στον Λευκό Πύργο, όπου θα συγκεντρωθούν πολλοί κάτοικοι και επισκέπτες. Το 2025 θα υποδεχτούμε με ένα εντυπωσιακό laser show και μουσική από γνωστούς DJs.\n\nΗ εκδήλωση θα ξεκινήσει το απόγευμα και θα διαρκέσει μέχρι το πρωί. Από τις 8 το βράδυ θα παίζουν δύο σπουδαίοι DJs, οι Fideles και Gheist, που είναι γνωστοί σε όλο τον κόσμο. Η βραδιά θα συνδυάζει τη μουσική με φωτεινές εικόνες, ώστε να δημιουργήσει μια γιορτινή ατμόσφαιρα.\n\nΟ δήμος Θεσσαλονίκης ελπίζει ότι οι πολίτες θα υποστηρίξουν την εκδήλωση, παρά τις χαμηλές θερμοκρασίες που προβλέπουν οι μετεωρολόγοι. Επίσης, φέτος για πρώτη φορά στολίστηκαν πολλές γειτονιές της πόλης με φωτεινά στολίδια, φέρνοντας εορταστική διάθεση σε ολόκληρη τη Θεσσαλονίκη.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-proetoimasies-gia-to-megalo-parti-allagis-tou-xronou-ston-leyko-pyrgo-koryfaioi-djs-kai-entyposiako-laser-show/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki-proetoimasies-gia-to-megalo-parti-allagis-tou-xronou-ston-leyko-pyrgo-koryfaioi-djs-kai-entyposiako-laser-show/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4039836/proetimasies-gia-to-megalo-parti-allagis-tou-chronou-ston-lefko-pirgo-sti-thessaloniki.html"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση αφορά ένα μεγάλο πάρτι αλλαγής του χρόνου στον Λευκό Πύργο με DJs και laser show, το οποίο είναι λαμπερό και διασκεδαστικό, προορισμένο να προσελκύσει κόσμο για γιορτή και ψυχαγωγία.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gfb1e707df03460461ebbb3f3a2c3d8a70be5c288415f1de246c74c76fd848c74c91a1d545cb01db53caef2bd71aac6c1643839c6088e873a071d9574b7cc1f5e_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2025-12-29T14:25:19.000Z"
-      }
-    ]
+    "fun": []
   }
 }
