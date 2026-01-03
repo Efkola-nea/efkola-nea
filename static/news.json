@@ -1,364 +1,41 @@
 {
-  "generatedAt": "2026-01-02T15:48:24.978Z",
+  "generatedAt": "2026-01-03T07:43:49.918Z",
   "articles": [
     {
-      "id": "78db8e1216af",
-      "title": "Θεσσαλονίκη: Νεαρός άνδρας έπεσε από τον 3ο όροφο υπό ανέγερση οικοδομής στο Κορδελιό",
-      "simpleTitle": "Θεσσαλονίκη: Νεαρός άνδρας έπεσε από τον 3ο όροφο υπό ανέγερση οικοδομής στο Κορδελιό",
-      "simpleText": "Στον Κορδελιό της Θεσσαλονίκης, ένα νεαρός άνδρας, 19 ετών, έπεσε από τον τρίτο όροφο μιας οικοδομής που είναι υπό ανέγερση. Το περιστατικό συνέβη νωρίς το μεσημέρι της 2ας Ιανουαρίου 2026. Δεν είναι σαφείς οι λόγοι που προκάλεσαν την πτώση.\n\nΟι διασώστες του ΕΚΑΒ ειδοποιήθηκαν και έφτασαν γρήγορα στο σημείο. Διαπίστωσαν ότι ο άνδρας είχε τις αισθήσεις του. Οι γιατροί του ΕΚΑΒ παρέσχε βοήθεια για να σταθεροποιήσουν την κατάσταση του, ακολουθώντας ειδικά πρωτόκολλα που απαιτούνται για τέτοιες περιπτώσεις. Μετά τη σταθεροποίησή του, ο νεαρός μεταφέρθηκε στο Γενικό Νοσοκομείο «Γ. Παπανικολάου» για περαιτέρω νοσηλεία.\n\nΤο γεγονός είναι σημαντικό, καθώς αναδεικνύει τους κινδύνους που υπάρχουν στα εργοτάξια και την ανάγκη για ασφάλεια σε τέτοιες καταστάσεις.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-nearos-andras-epese-apo-ton-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/",
+      "id": "ced3490f538c",
+      "title": "Βενεζουέλα: Ισχυρές εκρήξεις ακούγονται στο Καράκας – Ορατή στήλη καπνού",
+      "simpleTitle": "Βενεζουέλα: Ισχυρές εκρήξεις ακούγονται στο Καράκας – Ορατή στήλη καπνού",
+      "simpleText": "Στην πρωτεύουσα της Βενεζουέλας, το Καράκας, σημειώθηκαν ισχυρές εκρήξεις σήμερα το πρωί. Οι εκρήξεις άρχισαν γύρω στις 02:00 τοπική ώρα. Οι κάτοικοι άκουσαν δυνατούς κρότους και παρατήρησαν μια στήλη καπνού στον ουρανό. Δηλώθηκε ότι σε μία νότια περιοχή της πόλης υπήρξε διακοπή ρεύματος, κοντά σε μια μεγάλη στρατιωτική βάση.\n\nΤην ίδια ώρα, υπάρχουν πληροφορίες για αεροσκάφη που πετούσαν πάνω από την πόλη. Οι εκρήξεις έγιναν σε μία περίοδο έντασης, καθώς οι στρατιωτικές επιχειρήσεις των ΗΠΑ φαίνεται να έχουν κλιμακωθεί, με αφορμή την καταπολέμηση της διακίνησης ναρκωτικών.\n\nΗ κατάσταση στην περιοχή είναι ανησυχητική και οι κάτοικοι νιώθουν την ένταση αυτών των γεγονότων. Η σημασία της είδησης έγκειται στην αναταραχή που προκαλεί, καθώς οι ισχυρές εκρήξεις ενδέχεται να σχετίζονται με ευρύτερες γεωπολιτικές εξελίξεις. Μέχρι στιγμής δεν είναι γνωστά περισσότερα στοιχεία σχετικά με τις εκρήξεις και την κατάσταση που επικρατεί.",
+      "sourceName": "TA NEA, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2026/01/03/world/venezouela-isxyres-ekrikseis-akougontai-sto-karakas/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-nearos-andras-epese-apo-ton-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564003268/thessaloniki-nearos-epese-apo-ton-trito-orofo-oikodomis-nosileyetai-traymatismenos/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/02/greece/sto-nosokomeio-diakomistike-19xronos-pou-epese-apo-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Το περιστατικό αφορά έναν νεαρό άνδρα που έπεσε από οικοδομή και μεταφέρθηκε στο νοσοκομείο, αναδεικνύοντας τους σοβαρούς κινδύνους στην εργασία και τις επιπτώσεις της εγκατάλειψης της ασφάλειας στα εργοτάξια.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g15d610e12ca6dd838c2040fd674907fd11c172a804f6be1529569ef1cc67c1954b39a51d96ccdb0d506013e8e7212ac471bc5bfcc53960587e8c8f465dd3b1c5_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T15:27:39.000Z"
-    },
-    {
-      "id": "ab8b58578f2f",
-      "title": "Τραγωδία στο Κραν Μοντανά: «Σε κρίσιμη κατάσταση 80-100 τραυματίες»",
-      "simpleTitle": "Τραγωδία στο Κραν Μοντανά: «Σε κρίσιμη κατάσταση 80-100 τραυματίες»",
-      "simpleText": "Τίτλος: Τραγωδία στο Κραν Μοντανά: Πυρκαγιά με πολλούς τραυματίες\n\nΣτο Κραν Μοντανά, στην Ελβετία, συνέβη μια σοβαρή πυρκαγιά σε κλαμπ. Αυτό συνέβη τις πρώτες ώρες της Πρωτοχρονιάς. Περίπου 40 άνθρωποι έχουν χάσει τη ζωή τους, και 80-100 τραυματίες είναι σε κρίσιμη κατάσταση. Οι τραυματίες μεταφέρονται σε εξειδικευμένα νοσοκομεία για εγκαύματα σε όλη την Ευρώπη.\n\nΟι αρχές ανησυχούν ότι ο αριθμός των θυμάτων μπορεί να αυξηθεί. Η πυρκαγιά δείχνει πόσο επικίνδυνη μπορεί να είναι η αμέλεια σε τέτοιους χώρους. Συνήθως, στα χιονοδρομικά κέντρα υπάρχουν προβλήματα με μεθυσμένους και κλοπές, αλλά αυτή τη φορά η κατάσταση έγινε πολύ σοβαρή.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/world/564003241/tragodia-sto-kran-montana-se-krisimi-katastasi-80-100-traymaties/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564003241/tragodia-sto-kran-montana-se-krisimi-katastasi-80-100-traymaties/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/kran-montana-i-tragwdia-kai-i-proeidopoiisi-44343286116"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με θανάτους και πολλούς βαριά τραυματισμένους από πυρκαγιά σε κλαμπ, που προκαλεί μεγάλη ανησυχία για την ασφάλεια σε δημόσιους χώρους.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T15:11:00.000Z"
-    },
-    {
-      "id": "d510695c24e7",
-      "title": "Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες",
-      "simpleTitle": "Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες",
-      "simpleText": "Τίτλος: Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες\n\nΣύνοψη είδησης:\n\nΚατά τον Δεκέμβριο στην Αττική, σημειώθηκαν περισσότερα από 540 τροχαία ατυχήματα. Αυτά είχαν ως αποτέλεσμα το θάνατο 10 ατόμων και τον τραυματισμό 597 άλλων.\n\nΤα ατυχήματα συνέβησαν λόγω απρόσεκτης οδήγησης και παραβίασης κανόνων κυκλοφορίας. Πολλοί οδηγοί δεν χρησιμοποίησαν ζώνες ασφαλείας ή κράνη. Οι κλήσεις της αστυνομίας αυξήθηκαν σημαντικά για θέματα όπως η οδήγηση υπό την επήρεια αλκοόλ και η υπερβολική ταχύτητα.\n\nΑυτή η κατάσταση είναι ανησυχητική, καθώς οι θάνατοι και οι σοβαροί τραυματισμοί στις δρόμους επηρεάζουν τις οικογένειες και την κοινωνία συνολικά. Η ασφάλεια στους δρόμους πρέπει να γίνεται προτεραιότητα για όλους.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/society/564003070/attiki-pano-apo-540-trochaia-ton-dekemvrio-me-10-nekroys-kai-597-traymaties/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564003070/attiki-pano-apo-540-trochaia-ton-dekemvrio-me-10-nekroys-kai-597-traymaties/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/panw-apo-540-troxaia-ton-dekemvrio-stin-attiki-me-10-nekrous-kai-597-travmaties-44343286208"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά τροχαία ατυχήματα στην Αττική, με απολογισμό θανάτους και τραυματισμούς, και επισημαίνει ανησυχητικά ζητήματα ασφάλειας στους δρόμους.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T15:09:01.000Z"
-    },
-    {
-      "id": "17680d0210c0",
-      "title": "Ιράν: Συνεχίζονται αμείωτες οι διαδηλώσεις για τις οικονομικές δυσκολίες – Αυξάνεται ο αριθμός των θυμάτων από τις ταραχές",
-      "simpleTitle": "Ιράν: Συνεχίζονται αμείωτες οι διαδηλώσεις για τις οικονομικές δυσκολίες – Αυξάνεται ο αριθμός των θυμάτων από τις ταραχές",
-      "simpleText": "**Τίτλος: Συνεχίζονται οι διαδηλώσεις στο Ιράν για την οικονομία – Αυξάνονται τα θύματα**\n\nΣτο Ιράν, οι διαδηλώσεις για την κακή οικονομική κατάσταση συνεχίζονται. Ξεκίνησαν την περασμένη Κυριακή και είναι οι μεγαλύτερες που έχουν γίνει τα τελευταία τρία χρόνια. Οι άνθρωποι διαμαρτύρονται για την αύξηση των τιμών και την πτώση της αξίας του νομίσματος.\n\nΤην Πέμπτη, αναφέρθηκαν τουλάχιστον έξι θάνατοι και δεκάδες τραυματισμοί. Σε μία περίπτωση, τρεις διαδηλωτές σκοτώθηκαν μόλις τρεις ημέρες πριν από την ανακοίνωση. Οι συγκρούσεις με τις δυνάμεις ασφαλείας έχουν γίνει πιο βίαιες, με χρήση πραγματικών πυρών εναντίον των διαδηλωτών σε διάφορες πόλεις.\n\nΟι οικονομικές δυσκολίες στο Ιράν είναι σοβαρές, κυρίως λόγω διεθνών κυρώσεων που σχετίζονται με το πυρηνικό πρόγραμμα της χώρας. Οι πολίτες ζουν δύσκολα, με τον πληθωρισμό να φτάνει το 42,5% τον Δεκέμβριο. Οι διαμαρτυρίες αυτές έχουν προκαλέσει σοβαρές ανησυχίες για την ασφάλεια και την πολιτική κατάσταση στην περιοχή.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/iran-synexizontai-ameiotes-oi-diadiloseis-gia-tis-oikonomikes-dyskolies-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/iran-synexizontai-ameiotes-oi-diadiloseis-gia-tis-oikonomikes-dyskolies-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/02/world/anypoxoritoi-oi-diadilotes-sto-iran-gia-tis-oikonomikes-sythikes-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές διαδηλώσεις και ανθρώπινες απώλειες στο Ιράν λόγω οικονομικών δυσκολιών, θέτοντας ζητήματα δικαιωμάτων και πολιτικής ασφάλειας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T15:06:24.000Z"
-    },
-    {
-      "id": "625d96c0b3db",
-      "title": "Γάζα: Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα",
-      "simpleTitle": "Γάζα: Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα",
-      "simpleText": "Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα στη Γάζα. Η επίσκεψη έγινε πρόσφατα και η ηθοποιός συνοδευόταν από αμερικανική αντιπροσωπεία.\n\nΚατά την επίσκεψη, η Τζολί συναντήθηκε με μέλη της Ερυθράς Ημισελήνου, οι οποίοι εργάζονται για να παρέχουν ανθρωπιστική βοήθεια στην περιοχή. Επίσης, επισκέφθηκε αποθήκες που περιέχουν ανθρωπιστική βοήθεια και το Νοσοκομείο Ελ Αρίς, όπου ήρθε σε επαφή με ασθενείς.\n\nΑυτή η επίσκεψη είναι σημαντική γιατί δείχνει την υποστήριξη προς τους ανθρώπους που χρειάζονται βοήθεια στην περιοχή και την ανάγκη για ανθρωπιστική δράση σε περιοχές που πλήττονται από συγκρούσεις.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/world/564003199/gaza-i-antzelina-tzoli-episkefthike-to-perasma-tis-rafa/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564003199/gaza-i-antzelina-tzoli-episkefthike-to-perasma-tis-rafa/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/i-antzelina-tzoli-sto-perasma-tis-rafa-me-amerikaniki-antiproswpeia-44343286165"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η επίσκεψη της Αντζελίνα Τζολί στη Γάζα και η αλληλεπίδρασή της με ανθρωπιστικές οργανώσεις αφορά σοβαρά κοινωνικά ζητήματα όπως η ανθρωπιστική βοήθεια και οι συνέπειες των συγκρούσεων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:51:05.000Z"
-    },
-    {
-      "id": "f50844f9db5a",
-      "title": "Κ. Χατζηδάκης: Δεν υπάρχουν δικαιολογίες για να μην προσέρχονται στον διάλογο οι αγρότες",
-      "simpleTitle": "Κ. Χατζηδάκης: Δεν υπάρχουν δικαιολογίες για να μην προσέρχονται στον διάλογο οι αγρότες",
-      "simpleText": "Ο Κωστής Χατζηδάκης, αντιπρόεδρος της κυβέρνησης, δήλωσε ότι οι αγρότες δεν έχουν λόγους να μην συμμετέχουν στον διάλογο. Η δήλωση έγινε πρόσφατα και έχει να κάνει με τις κινητοποιήσεις τους, όπως οι μπλόκοι, που δημιουργούν προβλήματα στην οικονομία. Ανέφερε ότι το 2025 δόθηκαν στους αγρότες 3,8 δισ. ευρώ, το μεγαλύτερο ποσό των τελευταίων ετών.\n\nΕίναι σημαντικό γιατί οι αγρότες αντιμετωπίζουν δύσκολα προβλήματα. Ο Χατζηδάκης τόνισε ότι η συμμετοχή τους στον διάλογο είναι κρίσιμη για να λυθούν αυτά τα θέματα. Επιπλέον, ανέφερε ότι η κυβέρνηση έχει αναλάβει πρωτοβουλίες για να στηρίξει τους αγρότες, αλλά υπάρχουν προκλήσεις που πρέπει να αντιμετωπιστούν.",
-      "sourceName": "Kathimerini, TA NEA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564003145/k-chatzidakis-den-yparchoyn-dikaiologies-gia-na-min-proserchontai-ston-dialogo-oi-agrotes/",
-      "sourceDomains": [
-        "kathimerini.gr",
         "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564003145/k-chatzidakis-den-yparchoyn-dikaiologies-gia-na-min-proserchontai-ston-dialogo-oi-agrotes/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/02/politics/xatzidakis-mesa-sto-2025-dothikan-38-dis-stoys-agrotes-den-yparxoyn-dikaiologies-gia-na-mi/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4042926/chatzidakis-mesa-sto-2025-dothikan-38-dis-stous-agrotes.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με σημαντικά ζητήματα που αφορούν τους αγρότες και την κυβέρνηση, καθώς συμπεριλαμβάνει οικονομικές ενισχύσεις και την αναγκαιότητα του διαλόγου σε σχέση με τις κοινωνικές και οικονομικές συνέπειες των κινητοποιήσεών τους.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:47:00.000Z"
-    },
-    {
-      "id": "cba6307532da",
-      "title": "Νέος προσωπάρχης του Ζελένσκι ο Κιρίλο Μπουντάνοφ, επικεφαλής της υπηρεσίας στρατιωτικών πληροφοριών",
-      "simpleTitle": "Νέος προσωπάρχης του Ζελένσκι ο Κιρίλο Μπουντάνοφ, επικεφαλής της υπηρεσίας στρατιωτικών πληροφοριών",
-      "simpleText": "Νέος αρχηγός του προσωπικού του Ζελένσκι ο Κιρίλο Μπουντάνοφ\n\nΟ Κιρίλο Μπουντάνοφ είναι τώρα ο νέος προσωπάρχης του προέδρου της Ουκρανίας, Βολοντίμιρ Ζελένσκι. Ο παλιός προσωπάρχης, Άντριι Γέρμακ, παραιτήθηκε τον Νοέμβριο λόγω ενός σκανδάλου που αφορούσε διαφθορά στην κυβέρνηση.\n\nΟ Μπουντάνοφ είναι επικεφαλής της υπηρεσίας στρατιωτικών πληροφοριών και είναι γνωστός για τη διεξαγωγή σημαντικών στρατιωτικών επιχειρήσεων κατά της Ρωσίας. Η αλλαγή αυτή είναι σημαντική καθώς δείχνει τη στρατηγική του Ζελένσκι για την αντιμετώπιση των προκλήσεων στη χώρα του.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/01/02/world/neos-prosoparxis-tou-zelenski-o-kirilo-mpountanof-epikefalis-tis-ypiresias-stratiotikon-pliroforion/",
-      "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/02/world/neos-prosoparxis-tou-zelenski-o-kirilo-mpountanof-epikefalis-tis-ypiresias-stratiotikon-pliroforion/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4042941/o-zelenski-epelexe-prosoparchi-tou-ton-epikefalis-tis-ipiresias-stratiotikon-pliroforion.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πολιτική αναδιάρθρωση στη Ουκρανία, με σημαντικές συνέπειες για την ασφάλεια και τη διακυβέρνηση, η οποία σχετίζεται με την παραίτηση του προηγούμενου προσωπάρχη και την επιλογή ενός νέου που έχει στρατιωτική εμπειρία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:44:49.000Z"
-    },
-    {
-      "id": "5ba02b0acf61",
-      "title": "Ηράκλειο: Τρεις συλλήψεις για ζωοκτονία – Μπήκαν σε ποιμνιοστάσιο και θανάτωσαν 40 αρνιά",
-      "simpleTitle": "Ηράκλειο: Τρεις συλλήψεις για ζωοκτονία – Μπήκαν σε ποιμνιοστάσιο και θανάτωσαν 40 αρνιά",
-      "simpleText": "Στη περιοχή του Ηρακλείου, τρεις άνδρες, 25, 36 και 62 ετών, συνελήφθησαν για ζωοκτονία. Σύμφωνα με την αστυνομία, οι άνδρες παραβίασαν το βράδυ της 29ης Δεκεμβρίου 2025 ένα ποιμνιοστάσιο και θανάτωσαν 40 αρνιά. Το ποιμνιοστάσιο ανήκει σε έναν τοπικό κάτοικο και βρίσκεται σε αγροτική περιοχή του Δήμου Βιάννου.\n\nΗ αστυνομία ερευνά αυτή την υπόθεση, προσπαθώντας να καταλάβει τα κίνητρα των κατηγορουμένων και αν υπάρχουν άλλοι εμπλεκόμενοι. Αυτό το γεγονός είναι σημαντικό διότι δείχνει την ανάγκη προστασίας των ζώων και την ασφάλεια της αγροτικής κοινότητας.",
-      "sourceName": "Kathimerini, TA NEA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564003007/irakleio-treis-syllipseis-gia-zooktonia-mpikan-se-poimniostasio-kai-thanatosan-40-arnia/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564003007/irakleio-treis-syllipseis-gia-zooktonia-mpikan-se-poimniostasio-kai-thanatosan-40-arnia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/02/greece/irakleio-treis-syllipseis-gia-zooktonia-mpikan-se-poimniostasio-kai-thanatosan-40-arnia/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4042904/tris-sillipsis-gia-zooktonia-i-drastes-bikan-se-pimniostasio-ke-thanatosan-40-arnia.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό παράπτωμα, τη ζωοκτονία, που εγείρει ζητήματα σχετικά με την ασφάλεια και την προστασία των ζώων, καθώς και την εγκληματικότητα στην αγροτική κοινότητα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:26:12.000Z"
-    },
-    {
-      "id": "fa610dcc949a",
-      "title": "Ο Ιταλός ΥΠΕΞ κατέθεσε λουλούδια στον τόπο της τραγωδίας στο Κραν Μοντανά",
-      "simpleTitle": "Ο Ιταλός ΥΠΕΞ κατέθεσε λουλούδια στον τόπο της τραγωδίας στο Κραν Μοντανά",
-      "simpleText": "Ο Ιταλός Υπουργός Εξωτερικών κατέθεσε λουλούδια για θύματα στη Ελβετία\n\nΟ Ιταλός Υπουργός Εξωτερικών, Αντόνιο Ταγιάνι, επισκέφτηκε το μεσημέρι το κλαμπ «Le Constellation» στο Κραν Μοντανά της Ελβετίας. Εκεί, κατέθεσε λουλούδια στη μνήμη των θυμάτων μιας σοβαρής τραγωδίας.\n\nΔεκατρείς Ιταλοί βρίσκονται αυτή τη στιγμή στο νοσοκομείο. Πέντε από αυτούς έχουν υποστεί σοβαρά τραύματα και εγκαύματα. Ανάμεσα στους τραυματίες, τρεις δεν έχουν ακόμη ταυτοποιηθεί. Δυστυχώς, πέντε άτομα παραμένουν αγνοούμενα.\n\nΟ πρώτος ταυτοποιημένος νεκρός είναι ο 16χρονος Εμανουέλε Γκαλεπίνι, Ιταλός γκόλφερ που ζούσε στο Ντουμπάι. Ο υπουργός δήλωσε πως οι αρχές έχουν ξεκινήσει έρευνες για να βρουν τις αιτίες της τραγωδίας και να αποδώσουν ευθύνες. Ανέφερε ότι πολλές ανακρίσεις έχουν γίνει.\n\nΑξιοσημείωτο είναι ότι έχουν αναφερθεί και άλλοι πολίτες από διάφορες χώρες που είναι αγνοούμενοι ή τραυματίες. Η κατάσταση είναι σοβαρή και η έρευνα συνεχίζεται.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/o-italos-ypeks-katethese-louloudia-ston-topo-tis-tragodias-sto-kran-montana/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/o-italos-ypeks-katethese-louloudia-ston-topo-tis-tragodias-sto-kran-montana/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/02/world/kran-montana-o-italos-ypeks-antonio-tagiani-sto-simeio-tis-tragodias-na-apodothoun-eythynes/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με θύματα και τραυματίες, περιγράφοντας τις συνέπειες και τις έρευνες που διεξάγονται.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:13:55.000Z"
-    },
-    {
-      "id": "d38091ce9291",
-      "title": "Νίκος Χριστοδουλίδης: «Αναλαμβάνουμε την προεδρία της E.E. σε μια στιγμή βαθιάς αλλαγής»",
-      "simpleTitle": "Νίκος Χριστοδουλίδης: «Αναλαμβάνουμε την προεδρία της E.E. σε μια στιγμή βαθιάς αλλαγής»",
-      "simpleText": "Τίτλος: Ο Νίκος Χριστοδουλίδης αναλαμβάνει την προεδρία της Ε.Ε. σε μια στιγμή αλλαγών\n\nΟ Νίκος Χριστοδουλίδης, πρόεδρος της Κυπριακής Δημοκρατίας, ανακοίνωσε ότι η Κύπρος αναλαμβάνει την προεδρία της Ευρωπαϊκής Ένωσης το πρώτο εξάμηνο του 2026. Αυτό συμβαίνει σε μια δύσκολη περίοδο γεωπολιτικών αναταραχών. Ο Χριστοδουλίδης επισήμανε ότι οι αποφάσεις που θα ληφθούν τώρα είναι σημαντικές για το μέλλον της Ένωσης.\n\nΔεσμεύτηκε ότι η Κύπρος θα λειτουργήσει ως δίκαιος μεσολαβητής και θα εργαστεί για την ενίσχυση της άμυνας και της ασφάλειας στην Ευρώπη. Αυτό είναι σημαντικό γιατί οι προκλήσεις που αντιμετωπίζει η Ε.Ε. απαιτούν συνεργασία και αποφασιστικότητα.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/world/564003109/nikos-christodoylidis-analamvanoyme-tin-proedria-tis-e-e-se-mia-stigmi-vathias-allagis/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564003109/nikos-christodoylidis-analamvanoyme-tin-proedria-tis-e-e-se-mia-stigmi-vathias-allagis/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4042807/christodoulidis-analamvanoume-tin-proedria-tis-ee-se-mia-stigmi-vathias-allagis.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ανάληψη της προεδρίας της Ευρωπαϊκής Ένωσης από την Κύπρο σε μια κρίσιμη γεωπολιτική περίοδο, επομένως συνδέεται με σοβαρά πολιτικά ζητήματα και το μέλλον της Ένωσης.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T14:08:39.000Z"
-    },
-    {
-      "id": "fde9ad508438",
-      "title": "Παγκόσμιο σοκ από την τραγωδία στην Ελβετία: Ελληνίδα μεταξύ των αγνοουμένων στο Κραν Μοντανά – Η στιγμή που ξεκίνησε η φωτιά",
-      "simpleTitle": "Παγκόσμιο σοκ από την τραγωδία στην Ελβετία: Ελληνίδα μεταξύ των αγνοουμένων στο Κραν Μοντανά – Η στιγμή που ξεκίνησε η φωτιά",
-      "simpleText": "Τίτλος: Τραγωδία στην Ελβετία: Ελληνίδα αγνοείται μετά από φωτιά\n\nΜία σοβαρή κατάσταση συνέβη στην Ελβετία, συγκεκριμένα στο Κραν Μοντανά. Μία φωτιά ξέσπασε σε μπαρ, με αποτέλεσμα να υπάρχουν αγνοούμενοι. Ανάμεσα στους αγνοούμενους είναι και μία Ελληνίδα.\n\nΗ φωτιά ξεκίνησε όταν θαμώνες και προσωπικό του μπαρ \"Le Constellation\" χρησιμοποιούσαν αναμμένα βεγγαλικά. Αυτή η πράξη προκάλεσε μεγάλη φωτιά, η οποία έκαψε μέρος του χώρου.\n\nΟι αρχές εργάζονται σκληρά για να βρουν τους αγνοούμενους και να ταυτοποιήσουν τα θύματα. Είναι μια δύσκολη κατάσταση για τις οικογένειες που περιμένουν νέα. Η τραγωδία αυτή ευαισθητοποίησε το κοινό και είναι σημαντική για τις ασφαλιστικές διαδικασίες σε δημόσιους χώρους.",
-      "sourceName": "News.gr, Protagon",
-      "sourceUrl": "https://www.news.gr/kosmos/article/4042853/pagkosmio-sok-apo-tin-tragodia-stin-elvetia-ellinida-metaxi-ton-agnooumenon-sto-kran-montana-i-stigmi-pou-xekinise-i-fotia.html",
-      "sourceDomains": [
-        "news.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4042853/pagkosmio-sok-apo-tin-tragodia-stin-elvetia-ellinida-metaxi-ton-agnooumenon-sto-kran-montana-i-stigmi-pou-xekinise-i-fotia.html"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/03/world/venezouela-isxyres-ekrikseis-akougontai-sto-karakas/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/tragwdia-sto-kran-montana-i-stigmi-pou-to-bar-pianei-fwtia-44343286102"
+          "url": "https://www.protagon.gr/epikairotita/venezouela-isxyres-ekrikseis-sto-karakas-44343286457"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με αγνοούμενους και θύματα, που σχετίζεται με ένα επικίνδυνο περιστατικό σε δημόσιο χώρο.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g73159f22d7796b2daf920aeb972175fae57365f6f99837705f77ace1377bb164a424db4da33b7d25a1b5e546bc48873de39283cfa22f1875aae099d5ec2ad63d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T13:40:16.000Z"
-    },
-    {
-      "id": "8e4034452f5e",
-      "title": "Π. Μαρινάκης: Πανεπιστήμια χωρίς αιώνιους φοιτητές και με αυξημένη χρηματοδότηση",
-      "simpleTitle": "Π. Μαρινάκης: Πανεπιστήμια χωρίς αιώνιους φοιτητές και με αυξημένη χρηματοδότηση",
-      "simpleText": "Τίτλος: Ο Π. Μαρινάκης προτείνει αλλαγές στα πανεπιστήμια\n\nΟ Π. Μαρινάκης, κυβερνητικός εκπρόσωπος, μίλησε για τις αλλαγές που θέλει να κάνει στα ελληνικά δημόσια πανεπιστήμια. Είπε ότι θέλει να μειώσει τον αριθμό των \"αιώνιων φοιτητών\". Αυτοί είναι φοιτητές που σπουδάζουν για πολλά χρόνια χωρίς να ολοκληρώσουν τις σπουδές τους.\n\nΟ Μαρινάκης ανέφερε ότι, αν οι αλλαγές εφαρμοστούν, τα ελληνικά πανεπιστήμια θα είναι διαφορετικά το 2026. Επιπλέον, σκοπεύει να αυξήσει τη χρηματοδότηση για τα πανεπιστήμια. Αυτή είναι η βοήθεια που δίνεται σε χρήματα για να λειτουργούν καλύτερα.\n\nΕίναι σημαντικό να γίνουν αυτές οι αλλαγές γιατί πολλά χρόνια, πολλοί φοιτητές δεν είχαν την ευκαιρία για να ολοκληρώσουν τις σπουδές τους. Αυτό οδήγησε σε απώλεια ευκαιριών για τους νέους. Ο Μαρινάκης πιστεύει ότι με τις νέες προτάσεις θα υπάρξουν περισσότερες ευκαιρίες για όλους.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564003061/p-marinakis-panepistimia-choris-aionioys-foitites-kai-me-ayximeni-chrimatodotisi/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564003061/p-marinakis-panepistimia-choris-aionioys-foitites-kai-me-ayximeni-chrimatodotisi/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4042824/marinakis-to-2026-vriski-ta-ellinika-dimosia-panepistimia-choris-eonious-fitites-choris-energo-katalipsi.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές αλλαγές στην ανώτατη εκπαίδευση στην Ελλάδα, επικεντρώνοντας σε ζητήματα όπως η χρηματοδότηση και η κατάσταση των φοιτητών, που σχετίζονται με την πολιτική και την κοινωνία.",
+      "categoryReason": "Η είδηση αφορά σοβαρές εξελίξεις στη Βενεζουέλα, με αναφορές για εκρήξεις και εντεινόμενες στρατιωτικές επιχειρήσεις με γεωπολιτικές διαστάσεις.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T13:16:00.000Z"
+      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dferpa3ougqx",
+      "publishedAt": "2026-01-03T06:49:43.000Z"
     },
     {
-      "id": "320ef6f660ea",
-      "title": "Πεύκη: Συνελήφθησαν επ΄αυτοφώρω δύο ανήλικοι που άρπαξαν από συνομήλικούς τους τα χρήματα από τα κάλαντα",
-      "simpleTitle": "Πεύκη: Συνελήφθησαν επ΄αυτοφώρω δύο ανήλικοι που άρπαξαν από συνομήλικούς τους τα χρήματα από τα κάλαντα",
-      "simpleText": "Δύο ανήλικοι συνελήφθησαν στην Πεύκη επειδή άρπαξαν χρήματα από συνομηλίκους τους. Το περιστατικό συνέβη το πρωί της παραμονής της Πρωτοχρονιάς.\n\nΟι δράστες, 13 και 15 ετών, πλησίασαν μια παρέα τεσσάρων παιδιών που ήταν έξω για να ψάλλουν τα πρωτοχρονιάτικα κάλαντα. Με απειλές ότι θα τους χτυπήσουν, τους ακινητοποίησαν και τους πήραν τα χρήματα που είχαν συγκεντρώσει.\n\nΑμέσως ειδοποιήθηκε η αστυνομία, η οποία τους βρήκε και τους συνέλαβε. Οι ανήλικοι οδηγήθηκαν στο αστυνομικό τμήμα για να εξεταστεί η υπόθεση. Αυτό το γεγονός είναι σημαντικό, καθώς δείχνει τις προκλήσεις που μπορεί να αντιμετωπίσουν τα παιδιά στις γιορτές.",
+      "id": "403a32cc5202",
+      "title": "Βενεζουέλα: Επτά εκρήξεις στο Καράκας κοντά σε στρατιωτική βάση – Μπλακάουτ και αναφορές για υπερπτήσεις αεροσκαφών",
+      "simpleTitle": "Βενεζουέλα: Επτά εκρήξεις στο Καράκας κοντά σε στρατιωτική βάση – Μπλακάουτ και αναφορές για υπερπτήσεις αεροσκαφών",
+      "simpleText": "Σύνοψη είδησης: Εκρήξεις στο Καράκας\n\nΣτο Καράκας, την πρωτεύουσα της Βενεζουέλας, σημειώθηκαν επτά ισχυρές εκρήξεις γύρω στις 02:00 τοπική ώρα. Οι εκρήξεις ακούγονταν κοντά σε μια στρατιωτική βάση και κατά τη διάρκεια του περιστατικού υπήρξαν διακοπές ρεύματος σε μια νότια περιοχή της πόλης. Οι κάτοικοι, τρομαγμένοι, βγήκαν στους δρόμους, ενώ αναφέρθηκαν και χαμηλές πτήσεις αεροσκαφών.\n\nΗ κυβέρνηση της Βενεζουέλας δεν έχει δώσει επίσημες πληροφορίες για το τι συνέβη. Το γεγονός αυτό συμβαίνει σε μια περίοδο έντασης με τις Ηνωμένες Πολιτείες, οι οποίες είχαν αναφέρει πρόσφατα τη δυνατότητα επιθέσεων στη χώρα. Αυτό το περιστατικό ανησυχεί την τοπική κοινωνία και ενισχύει την αβεβαιότητα στην περιοχή.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/peyki-synelifthisan-ep-aytoforo-dyo-anilikoi-pou-arpaksan-apo-synomilikous-tous-ta-xrimata-apo-ta-kalanta/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/venezouela-epta-ekrikseis-sto-karakas-konta-se-stratiotiki-vasi-mplakaout-kai-anafores-gia-yperptiseis-aeroskafon/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -366,25 +43,343 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/peyki-synelifthisan-ep-aytoforo-dyo-anilikoi-pou-arpaksan-apo-synomilikous-tous-ta-xrimata-apo-ta-kalanta/"
+          "url": "https://www.ertnews.gr/eidiseis/diethni/venezouela-epta-ekrikseis-sto-karakas-konta-se-stratiotiki-vasi-mplakaout-kai-anafores-gia-yperptiseis-aeroskafon/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564003028/peyki-dyo-anilikoi-arpaxan-apo-synomilikoys-toys-ta-chrimata-apo-ta-kalanta/"
+          "url": "https://www.kathimerini.gr/world/564005290/venezoyela-anafores-gia-seirines-aeroporikoy-synagermoy-kai-ekrixeis-sto-karakas/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια ληστεία με ανηλίκους, η οποία είναι σοβαρή και αγγίζει θέματα ασφάλειας και εγκληματικότητας που επηρεάζουν την κοινωνία.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό περιστατικό εκρήξεων στο Καράκας, που προκαλεί ανησυχία λόγω της πολιτικής και στρατιωτικής κατάστασης στη Βενεζουέλα, άρα εμπίπτει σε θέματα σοβαρών κοινωνικών ζητημάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260103-SK5-DHMHTRIOY-BENEZOYELA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260103-SK5-DHMHTRIOY-BENEZOYELA.jpg",
+      "publishedAt": "2026-01-03T06:46:22.000Z"
+    },
+    {
+      "id": "4f7284cfb6c6",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 3 Ιανουαρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 3 Ιανουαρίου",
+      "simpleText": "Σήμερα, 3 Ιανουαρίου, η εκκλησία τιμά την Οσία Γενεβιέβη από το Παρίσι. Αυτή η ημέρα είναι σημαντική για όσους έχουν τα ονόματα Γενοβέφα και Γενεβιέβη, καθώς γιορτάζουν.\n\nΗ Αγία Γενεβιέβη γεννήθηκε περίπου το 419 μ.Χ. στη Ναντέρ, κοντά στο Παρίσι. Από μικρή ήθελε να αφιερωθεί στον Θεό και, σε ηλικία 15 ετών, έγινε μοναχή. Είχε σημαντική επιρροή στην προσευχή και την υποστήριξη των κατοίκων του Παρισιού κατά τη διάρκεια δύσκολων καταστάσεων, όπως επιθέσεις και πολιορκίες.\n\nΣτις αρχές του 5ου αιώνα, κατά την επίθεση των Ούννων υπό τον Αττίλα, η Γενεβιέβη κατάφερε να πείσει τους κατοίκους να μη φύγουν από την πόλη και να προσευχηθούν, κάτι που είχε θετικό αποτέλεσμα. Η αγία πέθανε γύρω στο 502 ή σύμφωνα με τις παραδόσεις το 512. Τα λείψανά της είναι σημαντικά για την ιστορία και την παράδοση της Γαλλίας.\n\nΣήμερα, η ημέρα αφιερωμένη στην Οσία Γενεβιέβη είναι μια ευκαιρία να θυμηθούμε τη ζωή και τα έργα της.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-3-ianouariou-2/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-3-ianouariou-2/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/03/greece/eortologio-poioi-giortazoun-simera-3-ianouariou/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η είδηση αναφέρεται στη γιορτή της Οσίας Γενεβιέβης και την πολιτιστική και θρησκευτική της σημασία, εστιάζοντας στις παραδόσεις και την ιστορία γύρω από την αγία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-02T13:00:35.000Z"
+      "publishedAt": "2026-01-03T06:04:14.000Z"
+    },
+    {
+      "id": "ac5f36d6260d",
+      "title": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Τουλάχιστον δύο νεκροί – Πολλά σπίτια καταστράφηκαν κοντά στο επίκεντρο",
+      "simpleTitle": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Τουλάχιστον δύο νεκροί – Πολλά σπίτια καταστράφηκαν κοντά στο επίκεντρο",
+      "simpleText": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Δύο άνθρωποι σκοτώθηκαν και πολλά σπίτια καταστράφηκαν.\n\nΧθες, Παρασκευή 2 Ιουνίου, σημειώθηκε σεισμός 6,5 Ρίχτερ στο νοτιοδυτικό Μεξικό, κοντά στη Σαν Μάρκος. Ο σεισμός έγινε γύρω στις 07:58 τοπική ώρα. Το επίκεντρο βρέθηκε περίπου 400 χιλιόμετρα από την Πόλη του Μεξικού. Ο σεισμός προκάλεσε σοβαρές ζημιές στην περιοχή, με τουλάχιστον 50 σπίτια να έχουν καταστραφεί και να παρουσιάζουν ρωγμές.\n\nΔύο άνθρωποι έχασαν τη ζωή τους. Ένας 60χρονος στην Πόλη του Μεξικού, καθώς και μια 50χρονη γυναίκα στη Σαν Μάρκος. Περίπου 12 άτομα τραυματίστηκαν. Οι κάτοικοι ήταν τρομαγμένοι και αναγκάστηκαν να βγουν στους δρόμους για ασφάλεια.\n\nΣτην πρωτεύουσα, ενεργοποιήθηκαν συστήματα προειδοποίησης για σεισμό, τα οποία δίνουν κάποιους λεπτούς στους πολίτες για να προετοιμαστούν. Δεν εκδόθηκε προειδοποίηση για τσουνάμι.\n\nΟ σεισμός αυτός θυμίζει τη σεισμική δραστηριότητα που πλήττει συχνά τη χώρα, λόγω της θέσης της πάνω σε πέντε τεκτονικές πλάκες.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/seismos-6-5-rixter-sto-meksiko-toulaxiston-dyo-nekroi-polla-spitia-katastrafikan-konta-sto-epikentro/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/seismos-6-5-rixter-sto-meksiko-toulaxiston-dyo-nekroi-polla-spitia-katastrafikan-konta-sto-epikentro/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564005236/seismos-6-5-richter-sto-mexiko-toylachiston-2-nekroi-dekades-spitia-katestrammena-fotografies/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρό γεγονός, έναν σεισμό που προκάλεσε θανάτους και καταστροφές, αγγίζοντας σημαντικά κοινωνικά ζητήματα και ζητήματα ασφάλειας.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/ga33ea9d00524a8af0d526d9d95f457ff821966954f0ff7ea427f0f4fb59c7f9149171bbea927acf974b03efc6c03178ee627ed280d4e5a1b447e7ee6b6b97435_1280.jpg",
+      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/01/4627558-mexico-earthquake.mp4",
+      "publishedAt": "2026-01-03T05:39:32.000Z"
+    },
+    {
+      "id": "a8553df7c3cc",
+      "title": "«Τρελή» πορεία αυτοκινήτου στην Κηφισιά: Οδηγός που «τερμάτισε» το αλκοτέστ χτύπησε δέντρο και επτά παρκαρισμένα οχήματα",
+      "simpleTitle": "«Τρελή» πορεία αυτοκινήτου στην Κηφισιά: Οδηγός που «τερμάτισε» το αλκοτέστ χτύπησε δέντρο και επτά παρκαρισμένα οχήματα",
+      "simpleText": "Σύνοψη είδησης: «Επικίνδυνη πορεία αυτοκινήτου στην Κηφισιά»\n\nΈνας 51χρονος άνδρας προκάλεσε αναστάτωση στην Κηφισιά, οδηγώντας υπό την επήρεια αλκοόλ. Το βράδυ της Παρασκευής, 2 Ιανουαρίου, γύρω στις 22:30, οδήγησε το αυτοκίνητο του με επικίνδυνο τρόπο από τη Μεταμόρφωση προς τη Βαρυμπόμπη.\n\nΚατά τη διάρκεια της πορείας του, χτύπησε ένα δέντρο και επτά παρκαρισμένα αυτοκίνητα. Οι αστυνομικοί που τον ακολούθησαν έκαναν αλκοτέστ και διαπίστωσαν ότι το αλκοόλ που είχε καταναλώσει ήταν 1,86 mg/l. Αυτό σημαίνει ότι ήταν περίπου επτά φορές πάνω από το επιτρεπόμενο όριο, που είναι 0,25 mg/l.\n\nΟ οδηγός αναμένεται να οδηγηθεί στο αυτόφωρο, επειδή υπερέβαινε κατά πολύ το όριο αλκοόλ που επιτρέπει την οδήγηση. Αυτή η είδηση είναι σημαντική γιατί δείχνει τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ, που μπορεί να προκαλέσει σοβαρά ατυχήματα και ζημιές.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/treli-poreia-aytokinitou-stin-kifisia-odigos-pou-termatise-to-alkotest-xtypise-dentro-kai-epta-parkarismena-oximata/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/treli-poreia-aytokinitou-stin-kifisia-odigos-pou-termatise-to-alkotest-xtypise-dentro-kai-epta-parkarismena-oximata/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564005227/kifisia-methysmenos-odigos-chtypise-epta-parkarismena-ochimata/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό ζήτημα σχετικά με την οδήγηση υπό την επήρεια αλκοόλ, το οποίο μπορεί να προκαλέσει επικίνδυνες καταστάσεις και ζημιές. Αναδεικνύει τους κινδύνους που αυτό συνεπάγεται για την ασφάλεια στο δρόμο.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-03T05:21:03.000Z"
+    },
+    {
+      "id": "883140eed397",
+      "title": "Φωτιά σε διαμέρισμα στο κέντρο της Αθήνας – Απεγκλωβίστηκαν τέσσερα άτομα",
+      "simpleTitle": "Φωτιά σε διαμέρισμα στο κέντρο της Αθήνας – Απεγκλωβίστηκαν τέσσερα άτομα",
+      "simpleText": "Φωτιά ξέσπασε το βράδυ της Παρασκευής, 2 Ιανουαρίου, σε ένα κτίριο στη Γραμμή Μάρνη, στο κέντρο της Αθήνας. Το κτίριο αυτό είναι χώρος προσωρινής διαμονής για ανθρώπους.\n\nΗ Πυροσβεστική απάντησε άμεσα με 18 πυροσβέστες και έξι οχήματα. Χρησιμοποίησαν και ένα ειδικό όχημα με σκάλες. Οι πυροσβέστες κατάφεραν να απεγκλωβίσουν τέσσερα άτομα. Τρεις βγήκαν από το κλιμακοστάσιο και ένας με τη βοήθεια του κλιμακοφόρου. Οι τέσσερις αυτοί άνθρωποι είχαν μικροτραυματισμούς και μεταφέρθηκαν προληπτικά στο νοσοκομείο «Ευαγγελισμός».\n\nΗ φωτιά έχει ελεγχθεί κι έχει σβήσει. Λόγω του περιστατικού, η κυκλοφορία των οχημάτων στα κοντινά σημεία διακόπηκε προσωρινά. Αυτή η είδηση είναι σημαντική γιατί δείχνει την άμεση αντίδραση των πυροσβεστών και τη βοήθεια που δόθηκε στους ανθρώπους που κινδύνεψαν.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/fotia-se-diamerisma-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/fotia-se-diamerisma-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564005221/fotia-se-choro-prosorinis-diamonis-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η φωτιά σε διαμέρισμα στο κέντρο της Αθήνας περιλαμβάνει σοβαρά ζητήματα δημόσιας ασφάλειας και υγείας, καθώς η άμεση αντίδραση της Πυροσβεστικής και οι μικροτραυματισμοί των απεγκλωβισμένων αφορούν σημαντικά γεγονότα για την κοινότητα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gc23078c38a382393233657915baea3c460119e2c62ae5df0afca5a1a996d722e9c3950f1159240607309b57f68b5b304de05b75de0924c37302905aa11bba0ac_1280.jpg",
+      "videoUrl": "https://orangepress.gr/player?slug=megalh-pyrkagia-me-traymaties-se-xwro-filo3enias-metanastwn-sth-marnh-03-01",
+      "publishedAt": "2026-01-03T05:03:42.000Z"
+    },
+    {
+      "id": "0bf113eb8959",
+      "title": "Εργαζόμενος της Disney τραυματίστηκε από έναν ψεύτικο βράχο βάρους 180 κιλών κατά τη διάρκεια ενός σόου",
+      "simpleTitle": "Εργαζόμενος της Disney τραυματίστηκε από έναν ψεύτικο βράχο βάρους 180 κιλών κατά τη διάρκεια ενός σόου",
+      "simpleText": "Τίτλος: Εργαζόμενος της Disney τραυματίστηκε από μεγάλο ψεύτικο βράχο σε σόου\n\nΈνας υπάλληλος σε θεματικό πάρκο της Disney στη Φλόριντα τραυματίστηκε όταν προσπάθησε να σταματήσει έναν ψεύτικο βράχο 180 κιλών, ο οποίος κατευθυνόταν προς τους θεατές. Το περιστατικό συνέβη την Τρίτη κατά τη διάρκεια μιας παράστασης με θέμα την ταινία «Indiana Jones».\n\nΟ άνδρας διασώθηκε γρήγορα από τους συναδέλφους του, αλλά είχε τραυματιστεί στο κεφάλι και αιμορραγούσε. Η Disney επιβεβαίωσε την κατάσταση και δήλωσε ότι αξιολογούν το περιστατικό για να διασφαλίσουν την ασφάλεια. Ανέφεραν ότι θα κάνουν αλλαγές στην παράσταση για να αποφευχθούν παρόμοια ατυχήματα στο μέλλον.\n\nΑυτό το γεγονός είναι σημαντικό γιατί θυμίζει τη σημασία της ασφάλειας στις ψυχαγωγικές δραστηριότητες, ειδικά όταν εμπλέκονται μεγάλα και βαριά αντικείμενα.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ergazomenos-tis-disney-traymatistike-apo-enan-pseytiko-vraxo-varous-180-kilon-kata-ti-diarkeia-enos-soou/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ergazomenos-tis-disney-traymatistike-apo-enan-pseytiko-vraxo-varous-180-kilon-kata-ti-diarkeia-enos-soou/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564003622/florinta-ergazomenos-sto-disney-world-traymatistike-apo-pseytiko-vracho-180-kilon/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το περιστατικό αφορά σοβαρό τραυματισμό εργαζομένου κατά τη διάρκεια μιας παράστασης, εστιάζοντας σε θέματα ασφάλειας που σχετίζονται με ψυχαγωγικές δραστηριότητες.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g3f11c7a38a9ae8daade9ee49031639ce53b96fddaf3393f49561043ada187290259e20e84c79123fd9fd2d4ed1f266f76cd493db7ca66953291c23e16f1505ae_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ox_eOj0ESxk?si=q8492jTOPz1kBTpr",
+      "publishedAt": "2026-01-03T02:50:00.000Z"
+    },
+    {
+      "id": "16f4f15bbd7b",
+      "title": "Γυναίκα έχασε τη ζωή της από επίθεση κούγκαρ στο Κολοράντο των ΗΠΑ",
+      "simpleTitle": "Γυναίκα έχασε τη ζωή της από επίθεση κούγκαρ στο Κολοράντο των ΗΠΑ",
+      "simpleText": "Στο Κολοράντο των Ηνωμένων Πολιτειών, μια γυναίκα έχασε τη ζωή της από επίθεση κούγκαρ κατά τη διάρκεια πεζοπορίας. Το περιστατικό συνέβη πρόσφατα και οι τοπικές αρχές επιβεβαίωσαν ότι το θύμα βρέθηκε στο έδαφος, ενώ περπατούσαν άλλοι πεζοπόροι.\n\nΟι πεζοπόροι, βλέποντας το κούγκαρ, τρόμαξαν το ζώο ρίχνοντας πέτρες και κατάφεραν να το διώξουν. Οι αρχές, ακολουθώντας τους κανονισμούς, σκότωσαν δύο κούγκαρ, ένα από αυτά που εμπλέκονταν στην επίθεση και άλλο ένα που βρέθηκε κοντά.\n\nΗ ταυτότητα της γυναίκας και τα αίτια του θανάτου της δεν έχουν ανακοινωθεί μέχρι στιγμής. Είναι σημαντικό να σημειωθεί ότι τέτοιες επιθέσεις είναι σπάνιες στην περιοχή. Από το 1990, έχουν καταγραφεί μόνο 28 επιθέσεις από κούγκαρ.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/gynaika-exase-ti-zoi-tis-apo-epithesi-kougkar-sto-koloranto-ton-ipa/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/gynaika-exase-ti-zoi-tis-apo-epithesi-kougkar-sto-koloranto-ton-ipa/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564003574/spania-epithesi-poyma-sto-koloranto-nekri-mia-gynaika/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4043140/mia-gineka-echase-ti-zoi-tis-apo-epithesi-kougkar-sto-koloranto.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή υπόθεση θανάτου από επίθεση άγριου ζώου, που εγείρει ζητήματα ασφάλειας καθώς και τις συνθήκες που οδηγούν σε τέτοια περιστατικά.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T23:06:00.000Z"
+    },
+    {
+      "id": "0accdc7d3e1a",
+      "title": "Νεαρός άνδρας γδύθηκε μπροστά στον αυτοκράτορα Ναρουχίτο την ώρα που εκείνος χαιρετούσε το πλήθος",
+      "simpleTitle": "Νεαρός άνδρας γδύθηκε μπροστά στον αυτοκράτορα Ναρουχίτο την ώρα που εκείνος χαιρετούσε το πλήθος",
+      "simpleText": "Τίτλος: Νεαρός άνδρας αποκαλύφθηκε μπροστά στον αυτοκράτορα Ναρουχίτο\n\nΤο γεγονός συνέβη την Παρασκευή, 2 Ιανουαρίου, στο Τόκιο, κατά τη διάρκεια μιας εκδήλωσης για την Πρωτοχρονιά. Ένας νεαρός, περίπου 20 ετών, γδύθηκε μπροστά στον αυτοκράτορα της Ιαπωνίας, Ναρουχίτο, και την αυτοκρατορική οικογένεια, που χαιρετούσαν το πλήθος. Ο άνδρας ήταν στην πρώτη σειρά, όταν ξαφνικά πέταξε τα ρούχα του και φώναξε δυνατά.\n\nΜετά την πράξη του, αναρρίχησε πάνω από τον φράχτη που είχε τοποθετήσει η αστυνομία και συνελήφθη άμεσα από μέλη της αυτοκρατορικής φρουράς και αστυνομικούς. Αυτοί τον σκέπασαν με μία κουβέρτα. Υπάρχουν πληροφορίες ότι ο νεαρός είχε προαναγγείλει αυτή την ενέργεια σε ιστοτόπους κοινωνικών δικτύων.\n\nΗ αυτοκρατορική οικογένεια δεν έχει πολιτικό ρόλο στην Ιαπωνία, αλλά είναι ένα σημαντικό σύ symbolo της χώρας και είναι γενικά υπό σεβασμό. Αυτό το επεισόδιο προκάλεσε αναστάτωση και είναι σημαντικό γιατί δείχνει την ευαισθησία της κοινωνίας για την αυτοκρατορική παράδοση.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/nearos-andras-gdythike-mprosta-ston-aytokratora-narouxito-tin-ora-pou-ekeinos-xairetouse-to-plithos/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/nearos-andras-gdythike-mprosta-ston-aytokratora-narouxito-tin-ora-pou-ekeinos-xairetouse-to-plithos/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/02/world/gdythike-mprosta-ston-aytokratora-tis-iaponias-poy-xairetoyse-to-plithos-me-tin-eykairia-t/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4043169/nearos-gdithike-brosta-ston-aftokratora-tis-iaponias-eno-cheretouse-to-plithos.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό και αναπάντεχο περιστατικό που συνέβη μπροστά στον αυτοκράτορα της Ιαπωνίας, το οποίο εγείρει ζητήματα σεβασμού εντός της κοινωνίας απέναντι στην αυτοκρατορική οικογένεια.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T22:10:00.000Z"
+    },
+    {
+      "id": "f557852df2b9",
+      "title": "Η βαθμολογία της Euroleague μετά τη νίκη που πέτυχε ο Ολυμπιακός επί του Παναθηναϊκού",
+      "simpleTitle": "Η βαθμολογία της Euroleague μετά τη νίκη που πέτυχε ο Ολυμπιακός επί του Παναθηναϊκού",
+      "simpleText": "Ο Ολυμπιακός νίκησε τον Παναθηναϊκό με σκορ 87-82 σε αγώνα για την Euroleague. Το παιχνίδι έγινε στο ΟΑΚΑ στις 2 Ιανουαρίου 2026. Αυτή ήταν η 10η συνεχόμενη νίκη του Ολυμπιακού απέναντι στον Παναθηναϊκό. Με αυτή τη νίκη, ο Ολυμπιακός βελτίωσε το ρεκόρ του σε 11 νίκες και 7 ήττες και παραμένει σε καλή θέση για την τετράδα και την εξάδα της βαθμολογίας. Αντίθετα, ο Παναθηναϊκός έπεσε στο 12-7.\n\nΑυτή η νίκη είναι σημαντική, καθώς επηρεάζει τη συνολική πορεία των ομάδων στη διοργάνωση. Οι δύο ομάδες αποτελούν παραδοσιακούς αντιπάλους στο ελληνικό μπάσκετ, και η νίκη του Ολυμπιακού ενισχύει τη θέση του στην κατάταξη.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/02/sports/i-vathmologia-tis-euroleague-meta-ti-niki-pou-petyxe-o-olympiakos-epi-tou-panathinaikou/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/02/sports/i-vathmologia-tis-euroleague-meta-ti-niki-pou-petyxe-o-olympiakos-epi-tou-panathinaikou/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/athlhtika/article/4043183/euroleague-o-olimpiakos-perase-me-niki-apo-tin-edra-tou-panathinaikou.html"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αναφέρεται σε αγώνα μπάσκετ μεταξύ του Ολυμπιακού και του Παναθηναϊκού, επισημαίνοντας τις επιδόσεις και τη βαθμολογία των ομάδων στην Euroleague.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g80656ffb80d81389a94eadeb654f1e7f28028f95362c78a93f911671407690d2f7d5489d2712af8ee3001a140f4f9efc3a64ef4722926da9cc14a078511d9ac0_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T21:52:07.000Z"
+    },
+    {
+      "id": "8b1f86e2073b",
+      "title": "Απώλεια για την αθλητική δημοσιογραφία: Πέθανε ο Σταύρος Πετρακόπουλος",
+      "simpleTitle": "Απώλεια για την αθλητική δημοσιογραφία: Πέθανε ο Σταύρος Πετρακόπουλος",
+      "simpleText": "Τίτλος: Έφυγε από τη ζωή ο αθλητικός δημοσιογράφος Σταύρος Πετρακόπουλος\n\nΟ Σταύρος Πετρακόπουλος, γνωστός αθλητικός συντάκτης, πέθανε πρόσφατα. Γεννήθηκε το 1944 στη Θεσσαλονίκη και από το 1971 εργάστηκε στην αθλητική δημοσιογραφία. Δημιούργησε ένα νέο σύστημα για την καταγραφή στατιστικών δεδομένων στο ποδόσφαιρο στην Ελλάδα.\n\nΕργάστηκε σε εφημερίδες όπως «Θεσσαλονίκη» και «Αγγελιοφόρος» καθώς και στην ΕΡΤ3. Ήταν αναγνωρίσιμος για τις ικανότητές του στη στατιστική και την ακριβή μνήμη του. Η Ένωση Συντακτών Μακεδονίας-Θράκης τον αποχαιρέτησε με σεβασμό.\n\nΗ κηδεία του θα γίνει τη Δευτέρα 5 Ιανουαρίου 2026, στις 10.30 π.μ. στον Ιερό Ναό Κοιμήσεως της Θεοτόκου στις Σαράντα Εκκλησιές. Η απώλειά του θεωρείται σημαντική για το χώρο της αθλητικής δημοσιογραφίας.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/02/greece/apoleia-gia-tin-athlitiki-dimosiografia-pethane-o-stayros-petrakopoylos/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/02/greece/apoleia-gia-tin-athlitiki-dimosiografia-pethane-o-stayros-petrakopoylos/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4043154/pethane-o-athlitikos-sintaktis-stavros-petrakopoulos.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την απώλεια ενός σημαντικού προσώπου στην αθλητική δημοσιογραφία, η οποία έχει σοβαρές κοινωνικές και πολιτιστικές επιπτώσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T21:47:39.000Z"
+    },
+    {
+      "id": "abb0e4aa84fd",
+      "title": "«Ξύπνησε» η Αίτνα στη Σικελία – Εντυπωσιακές εικόνες",
+      "simpleTitle": "«Ξύπνησε» η Αίτνα στη Σικελία – Εντυπωσιακές εικόνες",
+      "simpleText": "Η Αίτνα στη Σικελία ενεργοποιήθηκε ξανά με έκρηξη. Το γεγονός συνέβη το απόγευμα της 1ης Ιανουαρίου 2026. Η λάβα βγήκε από άνοιγμα σε υψόμετρο περίπου 2.000 μέτρων. Ρέει προς τη κοιλάδα Valle del Bove, φτάνοντας μέχρι 1.500 μέτρα.\n\nΟι εικόνες από την έκρηξη είναι εντυπωσιακές, αλλά και ανησυχητικές. Μέχρι τώρα, η κατάσταση είναι ελεγχόμενη. Οι επιστήμονες παρακολουθούν την εξέλιξη προσεκτικά. Δεν έχουν αναφερθεί ζημιές ή κίνδυνοι για τους κατοίκους των γύρω περιοχών επειδή η κοιλάδα προσφέρει φυσική προστασία.\n\nΗ δραστηριότητα του ηφαιστείου είναι σημαντική για την περιοχή, αφού μπορεί να επηρεάσει το τουρισμό και τη ζωή των κατοίκων.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2026/01/02/world/ksypnise-i-aitna-sti-sikelia-entyposiakes-eikones/",
+      "sourceDomains": [
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/02/world/ksypnise-i-aitna-sti-sikelia-entyposiakes-eikones/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/02/world/ksypnise-i-aitna-sti-sikelia-entyposiakes-eikones/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την έκρηξη του ηφαιστείου Αίτνα, που συνδέεται με σοβαρά ζητήματα όπως η ασφάλεια των κατοίκων και οι πιθανές επιπτώσεις στον τουρισμό και το περιβάλλον.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T21:42:01.000Z"
+    },
+    {
+      "id": "f4e6577fdd78",
+      "title": "Γαλλία: Το Grok «έγδυσε» ψηφιακά γυναίκες – Δικαστική έρευνα για τα deepfakes",
+      "simpleTitle": "Γαλλία: Το Grok «έγδυσε» ψηφιακά γυναίκες – Δικαστική έρευνα για τα deepfakes",
+      "simpleText": "Στο Παρίσι, οι αρχές της Γαλλίας ξεκίνησαν έρευνα για τη δημιουργία και διάδοση σεξουαλικών deepfakes. Αυτές οι ψηφιακά παραποιημένες εικόνες και βίντεο φτιάχνονται με τη βοήθεια της τεχνητής νοημοσύνης Grok στην πλατφόρμα Χ.\n\nΤα deepfakes είναι εικόνες ή βίντεο που παραποιούν την πραγματικότητα, συχνά χωρίς τη συγκατάθεση των ατόμων που εμφανίζονται σε αυτά. Οι γαλλικές αρχές άρχισαν την έρευνα λόγω αναφορών από γυναίκες και εφήβους που δέχθηκαν αυτή την ψηφιακή επίθεση.\n\nΗ υπόθεση είναι σημαντική γιατί αναδεικνύει θέματα σχετικά με την ασφάλεια και την ιδιωτικότητα των ατόμων στο διαδίκτυο. Οι αρχές προσπαθούν να εξετάσουν την κατάσταση και να προστατεύσουν τα θύματα.",
+      "sourceName": "Kathimerini, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/world/564003595/gallia-to-grok-egdyse-psifiaka-gynaikes-dikastiki-ereyna-gia-ta-deepfakes/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564003595/gallia-to-grok-egdyse-psifiaka-gynaikes-dikastiki-ereyna-gia-ta-deepfakes/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/gallia-mas-egdysan-psifiaka-erevna-gia-deepfakes-gynaikwn-kai-efivwn-apo-to-grok-44343286412"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα όπως η προστασία της ιδιωτικότητας και η ασφάλεια των ατόμων στο διαδίκτυο, καθώς και οι δικαστικές έρευνες για την κακοποίηση μέσω της τεχνολογίας, που είναι σημαντικά κοινωνικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g9b8a85f04feea2f73bf6ed3f321f3fab60ad25f586eb60818b3914bac5370b03f0ba62f7de01e4301c38c4e4e40e62908ef44cdbabd56016e6b3d22cbf665a4f_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-02T20:53:44.000Z"
     },
     {
       "id": "653f7df17409",
       "title": "Πώς ο σκύλος στο σπίτι ενισχύει την ψυχική υγεία των εφήβων",
       "simpleTitle": "Πώς ο σκύλος στο σπίτι ενισχύει την ψυχική υγεία των εφήβων",
-      "simpleText": "Τίτλος: Πώς ο σκύλος στο σπίτι βοηθά την ψυχική υγεία των εφήβων\n\nΜια νέα έρευνα δείχνει ότι οι σκύλοι που ζουν σε σπίτια βοηθούν τους εφήβους να έχουν καλύτερη ψυχική υγεία. Όταν υπάρχει ένας σκύλος στο σπίτι, αυτό μπορεί να αλλάξει το μικροβίωμα των παιδιών και των εφήβων. Το μικροβίωμα είναι ένα σύνολο μικρών οργανισμών που ζουν μέσα μας και επηρεάζουν την υγεία μας.\n\nΑυτή η αλλαγή μπορεί να έχει θετική επίδραση στην ψυχική τους υγεία και στην κοινωνικότητά τους, δηλαδή στον τρόπο που σχετίζονται με άλλους ανθρώπους. Αυτό είναι σημαντικό γιατί η καλή ψυχική υγεία βοηθά τους εφήβους να είναι πιο ευτυχισμένοι και να αντιμετωπίζουν καλύτερα τις προκλήσεις της ζωής. Ωστόσο, δεν γνωρίζουμε όλες τις λεπτομέρειες της έρευνας.",
+      "simpleText": "Τίτλος: Πώς ο σκύλος στο σπίτι βοηθάει την ψυχική υγεία των εφήβων\n\nΜια νέα έρευνα δείχνει ότι οι σκύλοι στο σπίτι έχουν θετική επίδραση στη ψυχική υγεία των εφήβων. Δηλαδή, η παρουσία ενός σκύλου μπορεί να διορθώσει το μικροβίωμα τους. Το μικροβίωμα είναι το σύνολο των μικροβίων που ζουν στο σώμα μας. Όταν είναι υγιές, μπορεί να βοηθήσει στην κοινωνικότητα και στη γενική ευεξία.\n\nΑυτό είναι σημαντικό γιατί οι έφηβοι αντιμετωπίζουν πολλές προκλήσεις, όπως το άγχος και οι σχέσεις με τους άλλους. Ο σκύλος μπορεί να προσφέρει αγάπη και παρέα, κάτι που μπορεί να κάνει τους εφήβους πιο ευτυχισμένους. Αυτό σημαίνει ότι οι οικογενειακοί σκύλοι δεν είναι μόνο φίλοι, αλλά και σύμμαχοι στην ψυχική υγεία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30215-pos-o-skylos-sto-spiti-veltionei-tin-psixiki-ygeia-ton-efivon-meso-mikroviomatos/",
       "sourceDomains": [
@@ -397,7 +392,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η έρευνα δείχνει θετικές επιδράσεις των σκύλων στην ψυχική υγεία των εφήβων, προσφέροντας ευτυχία και ενίσχυση της κοινωνικότητας.",
+      "categoryReason": "Η έρευνα δείχνει ότι οι σκύλοι βελτιώνουν την ψυχική υγεία των εφήβων, κάτι που προάγει τη θετική και χαρούμενη διάθεση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -407,7 +402,7 @@
       "id": "cc4bcba554b2",
       "title": "Η Ελβετία ανοίγει τη συζήτηση για απαγόρευση των social media στα παιδιά",
       "simpleTitle": "Η Ελβετία ανοίγει τη συζήτηση για απαγόρευση των social media στα παιδιά",
-      "simpleText": "Η Ελβετία συζητά για πιθανή απαγόρευση των social media στα παιδιά. Η υπουργός Εσωτερικών, Ελίζαμπεθ Μπάουμ-Σνάιντερ, δήλωσε ότι είναι ανοιχτή στην ιδέα αυτή. Σκοπός της συζήτησης είναι η καλύτερη προστασία των παιδιών στον ψηφιακό κόσμο.\n\nΟι ανησυχίες για την ασφάλεια των παιδιών στο διαδίκτυο έχουν αυξηθεί. Είναι σημαντικό να εξεταστεί πώς επηρεάζει η χρήση των social media τα μικρότερα παιδιά και ποια μέτρα μπορούν να ληφθούν για να τα προστατεύσουν. Αυτή η συζήτηση έρχεται σε μια περίοδο που άλλες χώρες εξετάζουν επίσης πιο αυστηρούς κανόνες για την ασφάλεια των παιδιών.",
+      "simpleText": "Η Ελβετία ξεκινάει συζήτηση για τη χρήση social media από παιδιά\n\nΗ Ελβετία εξετάζει το θέμα της προστασίας των παιδιών από τα social media. Η υπουργός Εσωτερικών, Ελίζαμπεθ Μπάουμ-Σνάιντερ, ανέφερε ότι είναι ανοιχτή στο ενδεχόμενο να απαγορευτούν τα μέσα κοινωνικής δικτύωσης για τα μικρότερα παιδιά. Η συζήτηση αυτή έρχεται καθώς σε πολλές χώρες αυξάνονται οι ανησυχίες για την ασφάλεια των παιδιών στο διαδίκτυο. Η κίνηση αυτή έχει σημασία, καθώς στοχεύει στη καλύτερη προστασία των παιδιών σε έναν κόσμο που γίνεται ολοένα και πιο ψηφιακός.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30483-elvetia-apagorefsi-social-media-paidia/",
       "sourceDomains": [
@@ -420,9 +415,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά κοινωνικά ζητήματα όπως η ασφάλεια των παιδιών στο διαδίκτυο και η πιθανή νομοθετική παρέμβαση της Ελβετίας για την προστασία τους.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό κοινωνικό θέμα που αφορά την προστασία των παιδιών στον ψηφιακό κόσμο και τις ανησυχίες γύρω από την ασφάλεια μέσω των social media.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gcb102284726a23111c1d6488368ed31d32effa786fa46d2a534573159c4bf7c8d916a2acc3f462243bc71982f773dadf4120745df05e6375881394693901af37_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g48b87f9eb7607e3c820e4a71e5b4ca0b1b247644453b1c0d5e08966fbc0dff5f4cf0c39322a1b5d7cb45a6048cfc6403f7ac3c5511dc01c9ce7fd3a1f96546cd_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-01T10:18:00.000Z"
     },
@@ -430,7 +425,7 @@
       "id": "131158518d95",
       "title": "Κίνα: Γιατροί κράτησαν ένα κομμένο αυτί «ζωντανό» στο πόδι για μήνες πριν το επανασυνδέσουν",
       "simpleTitle": "Κίνα: Γιατροί κράτησαν ένα κομμένο αυτί «ζωντανό» στο πόδι για μήνες πριν το επανασυνδέσουν",
-      "simpleText": "Τίτλος: Κίνα: Γιατροί κράτησαν ένα κομμένο αυτί «ζωντανό» στο πόδι\n\nΜια ιστορία από την Κίνα δείχνει πώς η ιατρική μπορεί να κάνει θαύματα. Χειρουργοί βοήθησαν μια γυναίκα που υπέστη σοβαρό εργατικό ατύχημα. Τα μαλλιά της μπλέχτηκαν σε μηχάνημα και η γυναίκα τραυματίστηκε σοβαρά, με αποτέλεσμα να χρειαστεί να αποκοπεί το αυτί της.\n\nΓια να διατηρήσουν το αυτί ζωντανό μέχρι να μπορέσουν να το ξαναενώσουν στο κεφάλι της, οι γιατροί έκαναν μια πρωτοφανή επέμβαση. Το κομμένο αυτί μεταμοσχεύτηκε προσωρινά στο πόδι της. Αυτή η διαδικασία κράτησε για αρκετούς μήνες.\n\nΗ ιστορία είναι σημαντική γιατί δείχνει την επιμονή και τη δημιουργικότητα των γιατρών, καθώς και τις δυνατότητες της ιατρικής στην αποκατάσταση σοβαρών τραυματισμών.",
+      "simpleText": "Τίτλος: Κίνα: Γιατροί κράτησαν ένα κομμένο αυτί ζωντανό στο πόδι για μήνες\n\nΜια ενδιαφέρουσα ιστορία από την Κίνα αναφέρεται σε μια πρωτοφανή ιατρική επέμβαση. Γιατροί σε μια επαρχία της Κίνας αντιμετώπισαν ένα σοβαρό εργατικό ατύχημα. Μια γυναίκα τραυματίστηκε όταν τα μαλλιά της πιάστηκαν σε μηχάνημα εργοστασίου, με αποτέλεσμα να προκληθούν σοβαρές κακώσεις στο κεφάλι, τον λαιμό και το πρόσωπό της.\n\nΚατά τη διάρκεια του ατυχήματος, το αυτί της γυναίκας αποκόπηκε μαζί με τον γύρω ιστό. Για να το διατηρήσουν ζωντανό μέχρι να μπορέσουν να το επανασυνδέσουν, οι γιατροί προχώρησαν σε μια καινοτόμο λύση: μεταμόσχευσαν προσωρινά το αυτί στο πόδι της γυναίκας. Αυτή η διαδικασία βοήθησε να παραμείνει το αυτί σε καλή κατάσταση για μήνες.\n\nΗ ιστορία αυτή αναδεικνύει την επιμονή και τη δημιουργικότητα της ιατρικής, καθώς οι γιατροί προσπάθησαν να προσφέρουν την καλύτερη δυνατή φροντίδα στην ασθενή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30614-kina-metamosxefsi-afti-sto-podi/",
       "sourceDomains": [
@@ -443,7 +438,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό ιατρικό περιστατικό που σχετίζεται με την αποκατάσταση σοβαρών τραυματισμών και αναδεικνύει τις δυνατότητες της ιατρικής, κάνοντάς την σοβαρή και σημαντική.",
+      "categoryReason": "Η είδηση σχετίζεται με σοβαρό εργατικό ατύχημα και καινοτόμες ιατρικές διαδικασίες, που αναδεικνύουν ζητήματα υγείας και ιατρικής επιστήμης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -453,7 +448,7 @@
       "id": "acf79d494b0b",
       "title": "Το Λιμενικό Σώμα δίπλα στα παιδιά με το Make-A-Wish, με πράξεις κοινωνικής προσφοράς",
       "simpleTitle": "Το Λιμενικό Σώμα δίπλα στα παιδιά με το Make-A-Wish, με πράξεις κοινωνικής προσφοράς",
-      "simpleText": "Το Λιμενικό Σώμα υποστηρίζει τα παιδιά μέσω του Make-A-Wish\n\nΤο Λιμενικό Σώμα συμμετείχε σε μια ξεχωριστή εκδήλωση για παιδιά που βρίσκονται στο Ογκολογικό Νοσοκομείο Παίδων ΜΗΤΕΡΑ. Η εκδήλωση οργανώθηκε από το Make-A-Wish Ελλάδος με σκοπό να προσφέρει χαρά και ελπίδα σε αυτά τα παιδιά. Η δράση αυτή πραγματοποιήθηκε κατά την περίοδο των Χριστουγέννων και δημιούργησε μια ζεστή και ευχάριστη ατμόσφαιρα εν μέσω των δύσκολων καταστάσεων που βιώνουν τα παιδιά και οι οικογένειές τους. Είναι σημαντικό γιατί δείχνει την αλληλεγγύη και την κοινωνική ευθύνη που αναλαμβάνουν θεσμικοί φορείς για τη στήριξη των πιο αδύναμων.",
+      "simpleText": "Το Λιμενικό Σώμα στηρίζει παιδιά μέσω του Make-A-Wish\n\nΣυγκίνηση και αλληλεγγύη δείχνει το Λιμενικό Σώμα. Σε συνεργασία με τον οργανισμό Make-A-Wish Ελλάδας, διοργάνωσε μια χριστουγεννιάτικη δράση. Στην εκδήλωση αυτή, στόχος ήταν να προσφερθούν χαμόγελα και ελπίδα σε παιδιά που νοσηλεύονται στο Ογκολογικό Νοσοκομείο Παίδων ΜΗΤΕΡΑ.\n\nΗ πρωτοβουλία αυτή δημιουργεί μια γιορτινή ατμόσφαιρα και δείχνει πώς μπορούμε να στηρίξουμε όσους έχουν ανάγκη. Είναι σημαντικό να θυμόμαστε ότι η βοήθεια σε αυτούς τους μικρούς ήρωες είναι πάντα απαραίτητη. Αυτές οι δράσεις συμβάλλουν στην ψυχολογία και την ευημερία των παιδιών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30609-limeniko-soma-make-a-wish-koinoniki-prosfora-paidia/",
       "sourceDomains": [
@@ -466,7 +461,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η εκδήλωση του Λιμενικού Σώματος για τα παιδιά στο Ογκολογικό Νοσοκομείο Παίδων με την υποστήριξη του Make-A-Wish αποσκοπεί στο να προσφέρει χαρά και ελπίδα, κάτι που συνάδει με την έννοια των θετικών και χαρούμενων ιστοριών.",
+      "categoryReason": "Η είδηση αφορά μια θετική και συγκινητική πρωτοβουλία του Λιμενικού Σώματος σε συνεργασία με το Make-A-Wish για την υποστήριξη παιδιών που νοσηλεύονται, δημιουργώντας μια γιορτινή και αισιόδοξη ατμόσφαιρα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -476,7 +471,7 @@
       "id": "b8631b5189ec",
       "title": "Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί: πώς να τα χρησιμοποιείτε σωστά στο μαγείρεμα",
       "simpleTitle": "Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί: πώς να τα χρησιμοποιείτε σωστά στο μαγείρεμα",
-      "simpleText": "Τίτλος: Πώς να χρησιμοποιείτε σωστά τη λαδόκολλα, το αλουμινόχαρτο και το κερωμένο χαρτί\n\nΗ λαδόκολλα, το αλουμινόχαρτο και το κερωμένο χαρτί είναι τρία υλικά που υπάρχουν στις περισσότερες κουζίνες. Είναι χρήσιμα για το μαγείρεμα και διευκολύνουν τη διαδικασία.\n\nΚάθε υλικό έχει διαφορετική χρήση. Η λαδόκολλα βοηθάει στο ψήσιμο και κρατάει τα τρόφιμα από το να κολλήσουν. Το αλουμινόχαρτο χρησιμοποιείται για να διατηρεί τη ζέστη των φαγητών και για μαγείρεμα στο φούρνο. Το κερωμένο χαρτί είναι καλό για την αποθήκευση τροφίμων, αλλά δεν πρέπει να χρησιμοποιείται στο ψήσιμο.\n\nΕίναι σημαντικό να γνωρίζουμε πώς να τα χρησιμοποιούμε σωστά. Αυτό όχι μόνο διευκολύνει το μαγείρεμα, αλλά προσφέρει και ασφάλεια στα τρόφιμα και τις συσκευές μας.",
+      "simpleText": "Τίτλος: Χρήσιμα υλικά για μαγείρεμα: Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί\n\nΣτην κουζίνα σας μπορεί να έχετε λαδόκολλα, αλουμινόχαρτο ή κερωμένο χαρτί. Αυτά τα υλικά βοηθούν στο μαγείρεμα και κάνουν τη διαδικασία πιο εύκολη και καθαρή. Κάθε υλικό έχει διαφορετική χρήση και κανόνες που πρέπει να γνωρίζετε για να είστε ασφαλείς.\n\nΗ λαδόκολλα χρησιμοποιείται για να μην κολλούν τα τρόφιμα στο ταψί. Το αλουμινόχαρτο κρατάει τη θερμότητα και προστατεύει το φαγητό από τη φωτιά. Το κερωμένο χαρτί είναι καλό για να αποθηκεύετε τρόφιμα, αλλά δεν πρέπει να το βάζετε στο φούρνο.\n\nΕίναι σημαντικό να γνωρίζετε πότε και πώς να χρησιμοποιείτε αυτά τα υλικά. Έτσι, θα μπορείτε να μαγειρεύετε πιο άνετα και με ασφάλεια.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30441-ladokolla-aloyminoxarto-keromeno-xarti-mageirema/",
       "sourceDomains": [
@@ -489,7 +484,7 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Το άρθρο παρέχει πρακτικές συμβουλές για το μαγείρεμα με καθημερινά υλικά, που μπορούν να κάνουν την κουζίνα πιο ευχάριστη και διασκεδαστική.",
+      "categoryReason": "Το άρθρο παρέχει χρήσιμες και πρακτικές πληροφορίες για την κουζίνα, με στόχο να διευκολύνει τη διαδικασία του μαγειρέματος, γεγονός που το καθιστά ευχάριστο και διασκεδαστικό.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -499,7 +494,7 @@
       "id": "3c371d410661",
       "title": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
       "simpleTitle": "Οι μαθητές σήμερα και τα επαγγέλματα του μέλλοντος",
-      "simpleText": "Μάθηση και future jobs\n\nΠερίπου τα μισά παιδιά που ξεκινούν τώρα το δημοτικό σχολείο θα εργαστούν σε επαγγέλματα που δεν έχουν ακόμα εφευρεθεί. Αυτό το στοιχείο προέρχεται από μια έκθεση για το μέλλον της εργασίας. Δείχνει πως ο κόσμος αλλάζει γρήγορα.\n\nΠολλοί εργαζόμενοι σήμερα έχουν θέσεις εργασίας που δεν υπήρχαν πριν από λίγα χρόνια. Οι εργοδότες πλέον δίνουν περισσότερη σημασία σε δεξιότητες που αφορούν τη ζωή, αντί για τυπικά προσόντα, όπως είναι πτυχία ή πιστοποιήσεις.\n\nΓια αυτόν τον λόγο, πολλοί νέοι αισθάνονται ότι δεν είναι έτοιμοι για το μέλλον που έρχεται. Αυτή η κατάσταση είναι σημαντική, γιατί δείχνει την ανάγκη για προετοιμασία και εκπαίδευση σε νέες δεξιότητες.",
+      "simpleText": "Τίτλος: Οι μαθητές και τα επαγγέλματα του μέλλοντος\n\nΠερίληψη:\nΣύμφωνα με νέα στοιχεία, πάνω από τα μισά παιδιά που ξεκινούν το δημοτικό σχολείο σήμερα θα δουλέψουν σε επαγγέλματα που δεν έχουν ακόμη εφευρεθεί. Αυτό ισχύει λόγω των γρήγορων αλλαγών στον κόσμο της εργασίας. Πολλοί εργαζόμενοι σήμερα έχουν ήδη θέσεις που δεν υπήρχαν πριν από λίγα χρόνια.\n\nΟι εργοδότες δίνουν πλέον περισσότερη σημασία σε δεξιότητες, όπως η συνεργασία και η επικοινωνία, και λιγότερη στα παραδοσιακά πτυχία. Αυτό προκαλεί ανησυχία στους νέους, οι οποίοι νιώθουν ότι δεν είναι έτοιμοι για την αβεβαιότητα του μέλλοντος.\n\nΗ είδηση είναι σημαντική γιατί δείχνει την ανάγκη για αλλαγές στην εκπαίδευση και την προετοιμασία των παιδιών για το μέλλον που τους περιμένει.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30551-mathites-kai-epaggelmata-tou-mellontos/",
       "sourceDomains": [
@@ -512,7 +507,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά θέματα που σχετίζονται με τις αλλαγές στο εργασιακό τοπίο και την εκπαίδευση, με έμφαση στις απαιτήσεις για νέες δεξιότητες και τις προκλήσεις που αντιμετωπίζουν οι νέοι στην προετοιμασία τους για το μέλλον.",
+      "categoryReason": "Η είδηση αναφέρεται σε σημαντικά ζητήματα που αφορούν την εκπαίδευση και το μέλλον της εργασίας, τονίζοντας την ανάγκη αλλαγής στη διαδικασία προετοιμασίας των μαθητών για επαγγέλματα που δεν έχουν ακόμη αναπτυχθεί.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -522,7 +517,7 @@
       "id": "b614a8010620",
       "title": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
       "simpleTitle": "Η Νότια Κορέα βάζει όρια στις AI διαφημίσεις για την προστασία των καταναλωτών",
-      "simpleText": "Τίτλος: Η Νότια Κορέα προστατεύει τους καταναλωτές από AI διαφημίσεις\n\nΗ Νότια Κορέα προετοιμάζεται να προστατεύσει τους καταναλωτές από διαφημίσεις που δημιουργούνται με τεχνητή νοημοσύνη (AI). Από τον επόμενο χρόνο, όλες οι διαφημίσεις που χρησιμοποιούν αυτή την τεχνολογία θα πρέπει να έχουν μια ξεκάθαρη σήμανση.\n\nΑυτό σημαίνει ότι οι άνθρωποι θα μπορούν να καταλαβαίνουν ποια διαφήμιση είναι αληθινή και ποια δεν είναι.\n\nΗ απόφαση αυτή έρχεται λόγω της αύξησης παραπλανητικών διαφημίσεων, που συχνά δείχνουν ψεύτικους ειδικούς ή δημοφιλή άτομα, για να πουλήσουν προϊόντα ή υπηρεσίες. Αυτό είναι σημαντικό γιατί βοηθά τους καταναλωτές να κάνουν καλύτερες και πιο ενημερωμένες επιλογές.",
+      "simpleText": "Η Νότια Κορέα θέτει κανόνες για τις διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη.\n\nΗ κυβέρνηση της Νότιας Κορέας αποφάσισε να προστατεύσει τους καταναλωτές. Από το 2024, όλες οι διαφημίσεις που χρησιμοποιούν AI θα πρέπει να έχουν σαφή σήμανση. Αυτό σημαίνει ότι οι άνθρωποι θα μπορούν να καταλαβαίνουν ποιες διαφημίσεις είναι αληθινές και ποιες όχι.\n\nΑυτή η απόφαση έρχεται γιατί οι διαφημίσεις με AI συχνά παρουσιάζουν ψεύτικους ειδικούς ή αναγνωρίσιμες προσωπικότητες (deepfake) που προωθούν προϊόντα. Αυτά τα προϊόντα μπορεί να είναι καλλυντικά, υπηρεσίες υγείας ή ακόμα και παράνομες υπηρεσίες. Είναι σημαντικό να γνωρίζουμε ποιοι είναι πραγματικοί και ποιοι είναι ψεύτικοι, ώστε να κάνουμε καλύτερες επιλογές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30395-notia-korea-ai-diafimisis-prostasia-katanaloton/",
       "sourceDomains": [
@@ -535,7 +530,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μέτρα προστασίας των καταναλωτών από παραπλανητικές διαφημίσεις που χρησιμοποιούν τεχνητή νοημοσύνη, ένα σοβαρό κοινωνικό ζήτημα που σχετίζεται με την ηθική διάσταση της διαφήμισης και τη διαφάνεια στην αγορά.",
+      "categoryReason": "Η είδηση αφορά την προστασία των καταναλωτών μέσω κανονισμών για τις διαφημίσεις με τεχνητή νοημοσύνη, ένα σοβαρό κοινωνικό και νομικό ζήτημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -545,7 +540,7 @@
       "id": "e68355ef1eca",
       "title": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
       "simpleTitle": "Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου",
-      "simpleText": "Τίτλος: Απορρίφθηκαν οι προτάσεις της Ναμίμπια για το εμπόριο κεράτων ρινόκερου\n\nΗ Ναμίμπια πρότεινε να επιτραπεί το εμπόριο κεράτων από ρινόκερους, αλλά η πρόταση δεν έγινε αποδεκτή. Αυτό συνέβη σε μια συνάντηση για την προστασία της άγριας ζωής, που έγινε στη Σαμαρκάνδη του Ουζμπεκιστάν. Επίσης, απορρίφθηκε και μια άλλη πρόταση της Ναμίμπια για το εμπόριο ελεφαντόδοντου από αφρικανικούς ελέφαντες.\n\nΗ απόφαση είναι σημαντική γιατί δείχνει ότι η διεθνής κοινότητα θέλει να προστατεύσει τα απειλούμενα είδη ζώων. Η απαγόρευση αυτή σημαίνει ότι οι χώρες συμφωνούν να μη διευκολύνουν το εμπόριο που μπορεί να βλάψει τα ζώα και το οικοσύστημα τους.",
+      "simpleText": "Η είδηση αφορά την Ναμίμπια και τις προτάσεις της για το εμπόριο κεράτων ρινόκερου. Οι προτάσεις αυτές δεν έγιναν δεκτές στο πλαίσιο μιας σημαντικής συνεδρίασης που έγινε πρόσφατα στη Σαμαρκάνδη, Ουζμπεκιστάν. Στην ίδια συνεδρίαση, απορρίφθηκε και η πρόταση για την επαναφορά του εμπορίου ελεφαντόδοντου από αφρικανικούς ελέφαντες.\n\nΑυτές οι αποφάσεις δείχνουν τη συνεχιζόμενη δέσμευση της διεθνούς κοινότητας για την προστασία των απειλούμενων ειδών. Η προστασία των ρινόκερων και των ελεφάντων είναι σημαντική για τη διατήρηση της βιοποικιλότητας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30398-namimpia-aporripsi-emporiou-keraton-rinokerou/",
       "sourceDomains": [
@@ -558,7 +553,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη διεθνή προστασία της άγριας ζωής και την απόφαση να απορριφθεί το εμπόριο κεράτων ρινόκερου και ελεφαντόδοντου, που είναι σημαντική για τη διατήρηση των απειλούμενων ειδών.",
+      "categoryReason": "Η είδηση αφορά την απόρριψη προτάσεων που σχετίζονται με το εμπόριο απειλούμενων ειδών, κάτι που έχει σοβαρές επιπτώσεις στη διατήρηση της βιοποικιλότητας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -568,7 +563,7 @@
       "id": "ebc0c248c17d",
       "title": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
       "simpleTitle": "Η Πολωνία λέει τέλος στη γούνα και κάνει ιστορικό βήμα για τα δικαιώματα των ζώων",
-      "simpleText": "Η Πολωνία απαγόρευσε την εκτροφή ζώων για γούνα, κάνοντας ένα σημαντικό βήμα για τα δικαιώματα των ζώων. Αυτή η απόφαση έγινε μετά την υπογραφή ενός νόμου από τον Πρόεδρο Καρόλ Ναβρότσκι.\n\nΗ Πολωνία είναι η 18η χώρα της Ευρωπαϊκής Ένωσης που παίρνει αυτή την απόφαση. Μέχρι τώρα, ήταν η μεγαλύτερη παραγωγός γούνας στην Ευρώπη και η δεύτερη παγκοσμίως, πίσω από την Κίνα. Κάθε χρόνο, εκατομμύρια ζώα, όπως μινκ και αλεπούδες, θυσιάζονταν για το τρίχωμά τους.\n\nΗ απόφαση αυτή στέλνει ένα ισχυρό μήνυμα υπέρ της προστασίας των ζώων και της ηθικής μεταχείρισής τους. Είναι σημαντικό βήμα για την ευημερία των ζώων στην Πολωνία.",
+      "simpleText": "Η Πολωνία απαγόρευσε την εκτροφή ζώων για γούνα. Αυτό είναι σημαντικό βήμα για τα δικαιώματα των ζώων. Η απόφαση αυτή έγινε γνωστή πρόσφατα, όταν ο Πρόεδρος Καρόλ Ναβρότσκι υπέγραψε τον σχετικό νόμο.\n\nΗ Πολωνία είναι τώρα η 18η χώρα της Ευρωπαϊκής Ένωσης που κάνει αυτή την κίνηση. Μέχρι σήμερα, η χώρα ήταν η μεγαλύτερη παραγωγός γούνας στην Ευρώπη και η δεύτερη στον κόσμο, μετά την Κίνα. Κάθε χρόνο, εκατομμύρια ζώα, όπως μινκ και αλεπούδες, θανατώνονταν για το τρίχωμά τους.\n\nΑυτή η απόφαση δείχνει τη βελτίωση της προστασίας των ζώων και την ηθική μεταχείρισή τους. Είναι μια σοβαρή αλλαγή που επηρεάζει τη ζωή πολλών ζώων στην Πολωνία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30403-polonia-apagorevei-gouna-kai-prostasia-zoon/",
       "sourceDomains": [
@@ -581,7 +576,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή απόφαση της Πολωνίας για την απαγόρευση της εκτροφής ζώων για γούνα, η οποία σχετίζεται με τα δικαιώματα των ζώων και την ηθική μεταχείρισή τους.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή αλλαγή που αφορά τη νομοθεσία για την προστασία των ζώων στην Πολωνία, υπογραμμίζοντας τα δικαιώματα και την ηθική μεταχείρισή τους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -591,7 +586,7 @@
       "id": "550687067d79",
       "title": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
       "simpleTitle": "Οι φάλαινες στον Καναδά επιστρέφουν: η θαλάσσια προστασία δίνει ξανά ζωή στη «Gully»",
-      "simpleText": "Τίτλος: Οι φάλαινες στον Καναδά επιστρέφουν χάρη στη θαλάσσια προστασία\n\nΑναφορά στη σοβαρή κατάσταση των βόρειων ρυγχοφαλαινών στον Καναδά. Αυτές οι φάλαινες, που μοιάζουν με μεγάλα δελφίνια, ζούσαν σε συγκεκριμένες περιοχές του Ατλαντικού. Έχουν επηρεαστεί πολύ από την εμπορική φαλαινοθηρία στο παρελθόν, που μείωσε τον πληθυσμό τους.\n\nΤα τελευταία χρόνια, η προστασία του θαλάσσιου περιβάλλοντος έχει οδηγήσει σε σημάδια ανάκαμψης αυτής της απειλούμενης ομάδας. Παρά τις θετικές εξελίξεις, οι βόρειες ρυγχοφάλαινες εξακολουθούν να αντιμετωπίζουν κινδύνους, όπως συγκρούσεις με πλοία και αλιευτικά δίχτυα. Η κατάσταση αυτή είναι σημαντική, διότι δείχνει πώς η επιστήμη και οι προσπάθειες προστασίας μπορούν να βοηθήσουν τα είδη που βρίσκονται σε κίνδυνο.",
+      "simpleText": "Τίτλος: Οι φάλαινες επιστρέφουν στον Καναδά\n\nΜια ομάδα βόρειων ρυγχοφαλαινών στον Ατλαντικό, που είναι απειλούμενη, δείχνει ότι επιστρέφει στον Καναδά. Αυτό συμβαίνει λόγω των προσπαθειών για την προστασία της θάλασσας που γίνονται εδώ και πολλά χρόνια. Οι βόρειες ρυγχοφάλαινες μοιάζουν με μεγάλα δελφίνια και ζουν σε συγκεκριμένες περιοχές του ωκεανού.\n\nΣτο παρελθόν, η φαλαινοθηρία, δηλαδή η θήρευση φαλαινών, είχε αρνητική επίδραση στους πληθυσμούς τους. Αν και υπάρχουν πλέον απαγορεύσεις για τη φαλαινοθηρία, οι φάλαινες εξακολουθούν να αντιμετωπίζουν δυσκολίες. Ο αριθμός τους αναπτύσσεται αργά και αντιμετωπίζουν κινδύνους όπως συγκρούσεις με πλοία και παγίδευση σε αλιευτικά δίχτυα.\n\nΗ επιστροφή των φαλαινών είναι σημαντική για το οικοσύστημα και δείχνει ότι η προστασία των θαλάσσιων περιοχών μπορεί να έχει θετικά αποτελέσματα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30404-falaines-thalassia-prostasia-kanadas-gully/",
       "sourceDomains": [
@@ -604,238 +599,205 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με την κατάσταση των βόρειων ρυγχοφαλαινών που είναι απειλούμενες, τη σημαντικότητα της θαλάσσιας προστασίας και τους κινδύνους που αντιμετωπίζουν, τα οποία είναι σοβαρά θέματα περιβάλλοντος.",
+      "categoryReason": "Η είδηση αφορά την προστασία θαλάσσιων ειδών και οικοσυστημάτων, αναδεικνύοντας σοβαρά θέματα περιβάλλοντος και βιοποικιλότητας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2025-12-23T09:23:58.000Z"
     },
     {
-      "id": "d49a5b7da01f",
-      "title": "Ολυμπιακός – ΟΦΗ: Το τελετουργικό του Super Cup",
-      "simpleTitle": "Ολυμπιακός – ΟΦΗ: Το τελετουργικό του Super Cup",
-      "simpleText": "Ολυμπιακός και ΟΦΗ θα αγωνιστούν για το Super Cup. Ο αγώνας θα γίνει στις 3 Ιανουαρίου, στις 5 το απόγευμα. Η Ελληνική Ποδοσφαιρική Ομοσπονδία, γνωστή ως ΕΠΟ, ανακοίνωσε λεπτομέρειες για το τελετουργικό που θα συμβεί πριν και κατά τη διάρκεια του αγώνα. Το Super Cup είναι ένας σημαντικός αγώνας στην ελληνική ποδοσφαιρική σκηνή, γιατί συγκεντρώνει δύο από τις καλύτερες ομάδες της χώρας. Είναι σημαντικό γιατί προσφέρει την ευκαιρία στους παίκτες να κερδίσουν έναν τίτλο και στους φιλάθλους να δουν έναν ωραίο αγώνα. Τα τελετουργικά περιλαμβάνουν ειδικές εμφανίσεις και εορτασμούς, αλλά δεν έχουν ανακοινωθεί όλες οι λεπτομέρειες.",
+      "id": "d85759621c76",
+      "title": "Ολυμπιακός: Αποθέωση για τους ερυθρόλευκους στο ΣΕΦ",
+      "simpleTitle": "Ολυμπιακός: Αποθέωση για τους ερυθρόλευκους στο ΣΕΦ",
+      "simpleText": "Τίτλος: Μαζική υποστήριξη στον Ολυμπιακό στο ΣΕΦ\n\nΣτο Στάδιο Ειρήνης και Φιλίας (ΣΕΦ), εκατοντάδες οπαδοί του Ολυμπιακού συγκεντρώθηκαν για να γιορτάσουν τη νίκη της ομάδας τους εναντίον του Παναθηναϊκού. Το γεγονός αυτό συνέβη πρόσφατα και είναι σημαντικό γιατί δείχνει την αφοσίωση και την αγάπη των φιλάθλων για την ομάδα τους. Η νίκη αυτή είναι σημαντική για την ψυχολογία της ομάδας και δημιουργεί θετική ατμόσφαιρα για τον Ολυμπιακό.",
       "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/01/02/sports/olympiakos-ofi-to-teletourgiko-tou-super-cup/",
+      "sourceUrl": "https://www.tovima.gr/2026/01/03/sports/olympiakos-apotheosi-gia-tous-erythroleykous-sto-sef/",
       "sourceDomains": [
         "tovima.gr"
       ],
       "sources": [
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/02/sports/olympiakos-ofi-to-teletourgiko-tou-super-cup/"
+          "url": "https://www.tovima.gr/2026/01/03/sports/olympiakos-apotheosi-gia-tous-erythroleykous-sto-sef/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου μεταξύ δύο ομάδων για το Super Cup, γεγονός που σχετίζεται άμεσα με τον τομέα του αθλητισμού. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρεται σε αγώνα ποδοσφαίρου και την υποστήριξη της ομάδας Ολυμπιακός από τους οπαδούς της, κάτι που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g1678c397dd390117d5dcd048f8d188d2208eeb3dc90ce97086f871e73066d421eaa3c5ba01b7c34ed2063696d7919d180b2c891538008d01cb53f0db05e8c046_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-02T13:13:14.000Z"
-    },
-    {
-      "id": "b20337f13472",
-      "title": "Ο Τσιτσιπάς νίκησε τον Μοτσιζούκι και έκανε το 2-0 για την Ελλάδα",
-      "simpleTitle": "Ο Τσιτσιπάς νίκησε τον Μοτσιζούκι και έκανε το 2-0 για την Ελλάδα",
-      "simpleText": "Ο Στέφανος Τσιτσιπάς κέρδισε τον Σιντάρο Μοτσιζούκι με 2-0 σετ. Αυτό συνέβη στο United Cup, μια σημαντική διοργάνωση τένις. Με αυτή τη νίκη, η ελληνική ομάδα έχει πλέον δύο νίκες στην αναμέτρησή της με την Ιαπωνία. Είναι σημαντικό γιατί η επιτυχία του Τσιτσιπά βοηθά την Εθνική ομάδα να προχωρήσει στη διοργάνωση.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/01/02/sports/o-tsitsipas-nikise-ton-motsizouki-kai-ekane-to-2-0-gia-tin-ellada/",
-      "sourceDomains": [
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/02/sports/o-tsitsipas-nikise-ton-motsizouki-kai-ekane-to-2-0-gia-tin-ellada/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη νίκη του Τσιτσιπά σε αγώνα τένις, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τις επιδόσεις της Εθνικής ομάδας. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfb023bb54cb0ef930c7767a94329fd1ddd4b95a6b4cd0dd756311d46b8d017709601ca13ed7108537a195bb83f1d3ba1c03bc4da38b2da1d5694587dc8acdaca_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-02T13:18:07.000Z"
+      "publishedAt": "2026-01-02T22:34:51.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "78db8e1216af",
-        "title": "Θεσσαλονίκη: Νεαρός άνδρας έπεσε από τον 3ο όροφο υπό ανέγερση οικοδομής στο Κορδελιό",
-        "simpleTitle": "Θεσσαλονίκη: Νεαρός άνδρας έπεσε από τον 3ο όροφο υπό ανέγερση οικοδομής στο Κορδελιό",
-        "simpleText": "Στον Κορδελιό της Θεσσαλονίκης, ένα νεαρός άνδρας, 19 ετών, έπεσε από τον τρίτο όροφο μιας οικοδομής που είναι υπό ανέγερση. Το περιστατικό συνέβη νωρίς το μεσημέρι της 2ας Ιανουαρίου 2026. Δεν είναι σαφείς οι λόγοι που προκάλεσαν την πτώση.\n\nΟι διασώστες του ΕΚΑΒ ειδοποιήθηκαν και έφτασαν γρήγορα στο σημείο. Διαπίστωσαν ότι ο άνδρας είχε τις αισθήσεις του. Οι γιατροί του ΕΚΑΒ παρέσχε βοήθεια για να σταθεροποιήσουν την κατάσταση του, ακολουθώντας ειδικά πρωτόκολλα που απαιτούνται για τέτοιες περιπτώσεις. Μετά τη σταθεροποίησή του, ο νεαρός μεταφέρθηκε στο Γενικό Νοσοκομείο «Γ. Παπανικολάου» για περαιτέρω νοσηλεία.\n\nΤο γεγονός είναι σημαντικό, καθώς αναδεικνύει τους κινδύνους που υπάρχουν στα εργοτάξια και την ανάγκη για ασφάλεια σε τέτοιες καταστάσεις.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-nearos-andras-epese-apo-ton-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/",
+        "id": "ced3490f538c",
+        "title": "Βενεζουέλα: Ισχυρές εκρήξεις ακούγονται στο Καράκας – Ορατή στήλη καπνού",
+        "simpleTitle": "Βενεζουέλα: Ισχυρές εκρήξεις ακούγονται στο Καράκας – Ορατή στήλη καπνού",
+        "simpleText": "Στην πρωτεύουσα της Βενεζουέλας, το Καράκας, σημειώθηκαν ισχυρές εκρήξεις σήμερα το πρωί. Οι εκρήξεις άρχισαν γύρω στις 02:00 τοπική ώρα. Οι κάτοικοι άκουσαν δυνατούς κρότους και παρατήρησαν μια στήλη καπνού στον ουρανό. Δηλώθηκε ότι σε μία νότια περιοχή της πόλης υπήρξε διακοπή ρεύματος, κοντά σε μια μεγάλη στρατιωτική βάση.\n\nΤην ίδια ώρα, υπάρχουν πληροφορίες για αεροσκάφη που πετούσαν πάνω από την πόλη. Οι εκρήξεις έγιναν σε μία περίοδο έντασης, καθώς οι στρατιωτικές επιχειρήσεις των ΗΠΑ φαίνεται να έχουν κλιμακωθεί, με αφορμή την καταπολέμηση της διακίνησης ναρκωτικών.\n\nΗ κατάσταση στην περιοχή είναι ανησυχητική και οι κάτοικοι νιώθουν την ένταση αυτών των γεγονότων. Η σημασία της είδησης έγκειται στην αναταραχή που προκαλεί, καθώς οι ισχυρές εκρήξεις ενδέχεται να σχετίζονται με ευρύτερες γεωπολιτικές εξελίξεις. Μέχρι στιγμής δεν είναι γνωστά περισσότερα στοιχεία σχετικά με τις εκρήξεις και την κατάσταση που επικρατεί.",
+        "sourceName": "TA NEA, Protagon",
+        "sourceUrl": "https://www.tanea.gr/2026/01/03/world/venezouela-isxyres-ekrikseis-akougontai-sto-karakas/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-nearos-andras-epese-apo-ton-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564003268/thessaloniki-nearos-epese-apo-ton-trito-orofo-oikodomis-nosileyetai-traymatismenos/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/02/greece/sto-nosokomeio-diakomistike-19xronos-pou-epese-apo-3o-orofo-ypo-anegersi-oikodomis-sto-kordelio/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Το περιστατικό αφορά έναν νεαρό άνδρα που έπεσε από οικοδομή και μεταφέρθηκε στο νοσοκομείο, αναδεικνύοντας τους σοβαρούς κινδύνους στην εργασία και τις επιπτώσεις της εγκατάλειψης της ασφάλειας στα εργοτάξια.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g15d610e12ca6dd838c2040fd674907fd11c172a804f6be1529569ef1cc67c1954b39a51d96ccdb0d506013e8e7212ac471bc5bfcc53960587e8c8f465dd3b1c5_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-02T15:27:39.000Z"
-      },
-      {
-        "id": "ab8b58578f2f",
-        "title": "Τραγωδία στο Κραν Μοντανά: «Σε κρίσιμη κατάσταση 80-100 τραυματίες»",
-        "simpleTitle": "Τραγωδία στο Κραν Μοντανά: «Σε κρίσιμη κατάσταση 80-100 τραυματίες»",
-        "simpleText": "Τίτλος: Τραγωδία στο Κραν Μοντανά: Πυρκαγιά με πολλούς τραυματίες\n\nΣτο Κραν Μοντανά, στην Ελβετία, συνέβη μια σοβαρή πυρκαγιά σε κλαμπ. Αυτό συνέβη τις πρώτες ώρες της Πρωτοχρονιάς. Περίπου 40 άνθρωποι έχουν χάσει τη ζωή τους, και 80-100 τραυματίες είναι σε κρίσιμη κατάσταση. Οι τραυματίες μεταφέρονται σε εξειδικευμένα νοσοκομεία για εγκαύματα σε όλη την Ευρώπη.\n\nΟι αρχές ανησυχούν ότι ο αριθμός των θυμάτων μπορεί να αυξηθεί. Η πυρκαγιά δείχνει πόσο επικίνδυνη μπορεί να είναι η αμέλεια σε τέτοιους χώρους. Συνήθως, στα χιονοδρομικά κέντρα υπάρχουν προβλήματα με μεθυσμένους και κλοπές, αλλά αυτή τη φορά η κατάσταση έγινε πολύ σοβαρή.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/world/564003241/tragodia-sto-kran-montana-se-krisimi-katastasi-80-100-traymaties/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564003241/tragodia-sto-kran-montana-se-krisimi-katastasi-80-100-traymaties/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/kran-montana-i-tragwdia-kai-i-proeidopoiisi-44343286116"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με θανάτους και πολλούς βαριά τραυματισμένους από πυρκαγιά σε κλαμπ, που προκαλεί μεγάλη ανησυχία για την ασφάλεια σε δημόσιους χώρους.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-02T15:11:00.000Z"
-      },
-      {
-        "id": "d510695c24e7",
-        "title": "Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες",
-        "simpleTitle": "Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες",
-        "simpleText": "Τίτλος: Αττική: Πάνω από 540 τροχαία τον Δεκέμβριο, με 10 νεκρούς και 597 τραυματίες\n\nΣύνοψη είδησης:\n\nΚατά τον Δεκέμβριο στην Αττική, σημειώθηκαν περισσότερα από 540 τροχαία ατυχήματα. Αυτά είχαν ως αποτέλεσμα το θάνατο 10 ατόμων και τον τραυματισμό 597 άλλων.\n\nΤα ατυχήματα συνέβησαν λόγω απρόσεκτης οδήγησης και παραβίασης κανόνων κυκλοφορίας. Πολλοί οδηγοί δεν χρησιμοποίησαν ζώνες ασφαλείας ή κράνη. Οι κλήσεις της αστυνομίας αυξήθηκαν σημαντικά για θέματα όπως η οδήγηση υπό την επήρεια αλκοόλ και η υπερβολική ταχύτητα.\n\nΑυτή η κατάσταση είναι ανησυχητική, καθώς οι θάνατοι και οι σοβαροί τραυματισμοί στις δρόμους επηρεάζουν τις οικογένειες και την κοινωνία συνολικά. Η ασφάλεια στους δρόμους πρέπει να γίνεται προτεραιότητα για όλους.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/society/564003070/attiki-pano-apo-540-trochaia-ton-dekemvrio-me-10-nekroys-kai-597-traymaties/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564003070/attiki-pano-apo-540-trochaia-ton-dekemvrio-me-10-nekroys-kai-597-traymaties/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/panw-apo-540-troxaia-ton-dekemvrio-stin-attiki-me-10-nekrous-kai-597-travmaties-44343286208"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρά τροχαία ατυχήματα στην Αττική, με απολογισμό θανάτους και τραυματισμούς, και επισημαίνει ανησυχητικά ζητήματα ασφάλειας στους δρόμους.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-02T15:09:01.000Z"
-      },
-      {
-        "id": "17680d0210c0",
-        "title": "Ιράν: Συνεχίζονται αμείωτες οι διαδηλώσεις για τις οικονομικές δυσκολίες – Αυξάνεται ο αριθμός των θυμάτων από τις ταραχές",
-        "simpleTitle": "Ιράν: Συνεχίζονται αμείωτες οι διαδηλώσεις για τις οικονομικές δυσκολίες – Αυξάνεται ο αριθμός των θυμάτων από τις ταραχές",
-        "simpleText": "**Τίτλος: Συνεχίζονται οι διαδηλώσεις στο Ιράν για την οικονομία – Αυξάνονται τα θύματα**\n\nΣτο Ιράν, οι διαδηλώσεις για την κακή οικονομική κατάσταση συνεχίζονται. Ξεκίνησαν την περασμένη Κυριακή και είναι οι μεγαλύτερες που έχουν γίνει τα τελευταία τρία χρόνια. Οι άνθρωποι διαμαρτύρονται για την αύξηση των τιμών και την πτώση της αξίας του νομίσματος.\n\nΤην Πέμπτη, αναφέρθηκαν τουλάχιστον έξι θάνατοι και δεκάδες τραυματισμοί. Σε μία περίπτωση, τρεις διαδηλωτές σκοτώθηκαν μόλις τρεις ημέρες πριν από την ανακοίνωση. Οι συγκρούσεις με τις δυνάμεις ασφαλείας έχουν γίνει πιο βίαιες, με χρήση πραγματικών πυρών εναντίον των διαδηλωτών σε διάφορες πόλεις.\n\nΟι οικονομικές δυσκολίες στο Ιράν είναι σοβαρές, κυρίως λόγω διεθνών κυρώσεων που σχετίζονται με το πυρηνικό πρόγραμμα της χώρας. Οι πολίτες ζουν δύσκολα, με τον πληθωρισμό να φτάνει το 42,5% τον Δεκέμβριο. Οι διαμαρτυρίες αυτές έχουν προκαλέσει σοβαρές ανησυχίες για την ασφάλεια και την πολιτική κατάσταση στην περιοχή.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/iran-synexizontai-ameiotes-oi-diadiloseis-gia-tis-oikonomikes-dyskolies-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/iran-synexizontai-ameiotes-oi-diadiloseis-gia-tis-oikonomikes-dyskolies-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/02/world/anypoxoritoi-oi-diadilotes-sto-iran-gia-tis-oikonomikes-sythikes-ayksanetai-o-arithmos-ton-thymaton-apo-tis-taraxes/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές διαδηλώσεις και ανθρώπινες απώλειες στο Ιράν λόγω οικονομικών δυσκολιών, θέτοντας ζητήματα δικαιωμάτων και πολιτικής ασφάλειας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-02T15:06:24.000Z"
-      },
-      {
-        "id": "625d96c0b3db",
-        "title": "Γάζα: Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα",
-        "simpleTitle": "Γάζα: Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα",
-        "simpleText": "Η Αντζελίνα Τζολί επισκέφθηκε το πέρασμα της Ράφα στη Γάζα. Η επίσκεψη έγινε πρόσφατα και η ηθοποιός συνοδευόταν από αμερικανική αντιπροσωπεία.\n\nΚατά την επίσκεψη, η Τζολί συναντήθηκε με μέλη της Ερυθράς Ημισελήνου, οι οποίοι εργάζονται για να παρέχουν ανθρωπιστική βοήθεια στην περιοχή. Επίσης, επισκέφθηκε αποθήκες που περιέχουν ανθρωπιστική βοήθεια και το Νοσοκομείο Ελ Αρίς, όπου ήρθε σε επαφή με ασθενείς.\n\nΑυτή η επίσκεψη είναι σημαντική γιατί δείχνει την υποστήριξη προς τους ανθρώπους που χρειάζονται βοήθεια στην περιοχή και την ανάγκη για ανθρωπιστική δράση σε περιοχές που πλήττονται από συγκρούσεις.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/world/564003199/gaza-i-antzelina-tzoli-episkefthike-to-perasma-tis-rafa/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564003199/gaza-i-antzelina-tzoli-episkefthike-to-perasma-tis-rafa/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/i-antzelina-tzoli-sto-perasma-tis-rafa-me-amerikaniki-antiproswpeia-44343286165"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η επίσκεψη της Αντζελίνα Τζολί στη Γάζα και η αλληλεπίδρασή της με ανθρωπιστικές οργανώσεις αφορά σοβαρά κοινωνικά ζητήματα όπως η ανθρωπιστική βοήθεια και οι συνέπειες των συγκρούσεων.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-02T14:51:05.000Z"
-      },
-      {
-        "id": "f50844f9db5a",
-        "title": "Κ. Χατζηδάκης: Δεν υπάρχουν δικαιολογίες για να μην προσέρχονται στον διάλογο οι αγρότες",
-        "simpleTitle": "Κ. Χατζηδάκης: Δεν υπάρχουν δικαιολογίες για να μην προσέρχονται στον διάλογο οι αγρότες",
-        "simpleText": "Ο Κωστής Χατζηδάκης, αντιπρόεδρος της κυβέρνησης, δήλωσε ότι οι αγρότες δεν έχουν λόγους να μην συμμετέχουν στον διάλογο. Η δήλωση έγινε πρόσφατα και έχει να κάνει με τις κινητοποιήσεις τους, όπως οι μπλόκοι, που δημιουργούν προβλήματα στην οικονομία. Ανέφερε ότι το 2025 δόθηκαν στους αγρότες 3,8 δισ. ευρώ, το μεγαλύτερο ποσό των τελευταίων ετών.\n\nΕίναι σημαντικό γιατί οι αγρότες αντιμετωπίζουν δύσκολα προβλήματα. Ο Χατζηδάκης τόνισε ότι η συμμετοχή τους στον διάλογο είναι κρίσιμη για να λυθούν αυτά τα θέματα. Επιπλέον, ανέφερε ότι η κυβέρνηση έχει αναλάβει πρωτοβουλίες για να στηρίξει τους αγρότες, αλλά υπάρχουν προκλήσεις που πρέπει να αντιμετωπιστούν.",
-        "sourceName": "Kathimerini, TA NEA, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/politics/564003145/k-chatzidakis-den-yparchoyn-dikaiologies-gia-na-min-proserchontai-ston-dialogo-oi-agrotes/",
-        "sourceDomains": [
-          "kathimerini.gr",
           "tanea.gr",
-          "news.gr"
+          "protagon.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/politics/564003145/k-chatzidakis-den-yparchoyn-dikaiologies-gia-na-min-proserchontai-ston-dialogo-oi-agrotes/"
-          },
-          {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/02/politics/xatzidakis-mesa-sto-2025-dothikan-38-dis-stoys-agrotes-den-yparxoyn-dikaiologies-gia-na-mi/"
+            "url": "https://www.tanea.gr/2026/01/03/world/venezouela-isxyres-ekrikseis-akougontai-sto-karakas/"
           },
           {
-            "title": "News.gr",
-            "url": "https://www.news.gr/politikh/article/4042926/chatzidakis-mesa-sto-2025-dothikan-38-dis-stous-agrotes.html"
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/venezouela-isxyres-ekrikseis-sto-karakas-44343286457"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση ασχολείται με σημαντικά ζητήματα που αφορούν τους αγρότες και την κυβέρνηση, καθώς συμπεριλαμβάνει οικονομικές ενισχύσεις και την αναγκαιότητα του διαλόγου σε σχέση με τις κοινωνικές και οικονομικές συνέπειες των κινητοποιήσεών τους.",
+        "categoryReason": "Η είδηση αφορά σοβαρές εξελίξεις στη Βενεζουέλα, με αναφορές για εκρήξεις και εντεινόμενες στρατιωτικές επιχειρήσεις με γεωπολιτικές διαστάσεις.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dferpa3ougqx",
+        "publishedAt": "2026-01-03T06:49:43.000Z"
+      },
+      {
+        "id": "403a32cc5202",
+        "title": "Βενεζουέλα: Επτά εκρήξεις στο Καράκας κοντά σε στρατιωτική βάση – Μπλακάουτ και αναφορές για υπερπτήσεις αεροσκαφών",
+        "simpleTitle": "Βενεζουέλα: Επτά εκρήξεις στο Καράκας κοντά σε στρατιωτική βάση – Μπλακάουτ και αναφορές για υπερπτήσεις αεροσκαφών",
+        "simpleText": "Σύνοψη είδησης: Εκρήξεις στο Καράκας\n\nΣτο Καράκας, την πρωτεύουσα της Βενεζουέλας, σημειώθηκαν επτά ισχυρές εκρήξεις γύρω στις 02:00 τοπική ώρα. Οι εκρήξεις ακούγονταν κοντά σε μια στρατιωτική βάση και κατά τη διάρκεια του περιστατικού υπήρξαν διακοπές ρεύματος σε μια νότια περιοχή της πόλης. Οι κάτοικοι, τρομαγμένοι, βγήκαν στους δρόμους, ενώ αναφέρθηκαν και χαμηλές πτήσεις αεροσκαφών.\n\nΗ κυβέρνηση της Βενεζουέλας δεν έχει δώσει επίσημες πληροφορίες για το τι συνέβη. Το γεγονός αυτό συμβαίνει σε μια περίοδο έντασης με τις Ηνωμένες Πολιτείες, οι οποίες είχαν αναφέρει πρόσφατα τη δυνατότητα επιθέσεων στη χώρα. Αυτό το περιστατικό ανησυχεί την τοπική κοινωνία και ενισχύει την αβεβαιότητα στην περιοχή.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/venezouela-epta-ekrikseis-sto-karakas-konta-se-stratiotiki-vasi-mplakaout-kai-anafores-gia-yperptiseis-aeroskafon/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/venezouela-epta-ekrikseis-sto-karakas-konta-se-stratiotiki-vasi-mplakaout-kai-anafores-gia-yperptiseis-aeroskafon/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564005290/venezoyela-anafores-gia-seirines-aeroporikoy-synagermoy-kai-ekrixeis-sto-karakas/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό περιστατικό εκρήξεων στο Καράκας, που προκαλεί ανησυχία λόγω της πολιτικής και στρατιωτικής κατάστασης στη Βενεζουέλα, άρα εμπίπτει σε θέματα σοβαρών κοινωνικών ζητημάτων.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260103-SK5-DHMHTRIOY-BENEZOYELA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260103-SK5-DHMHTRIOY-BENEZOYELA.jpg",
+        "publishedAt": "2026-01-03T06:46:22.000Z"
+      },
+      {
+        "id": "ac5f36d6260d",
+        "title": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Τουλάχιστον δύο νεκροί – Πολλά σπίτια καταστράφηκαν κοντά στο επίκεντρο",
+        "simpleTitle": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Τουλάχιστον δύο νεκροί – Πολλά σπίτια καταστράφηκαν κοντά στο επίκεντρο",
+        "simpleText": "Σεισμός 6,5 Ρίχτερ στο Μεξικό: Δύο άνθρωποι σκοτώθηκαν και πολλά σπίτια καταστράφηκαν.\n\nΧθες, Παρασκευή 2 Ιουνίου, σημειώθηκε σεισμός 6,5 Ρίχτερ στο νοτιοδυτικό Μεξικό, κοντά στη Σαν Μάρκος. Ο σεισμός έγινε γύρω στις 07:58 τοπική ώρα. Το επίκεντρο βρέθηκε περίπου 400 χιλιόμετρα από την Πόλη του Μεξικού. Ο σεισμός προκάλεσε σοβαρές ζημιές στην περιοχή, με τουλάχιστον 50 σπίτια να έχουν καταστραφεί και να παρουσιάζουν ρωγμές.\n\nΔύο άνθρωποι έχασαν τη ζωή τους. Ένας 60χρονος στην Πόλη του Μεξικού, καθώς και μια 50χρονη γυναίκα στη Σαν Μάρκος. Περίπου 12 άτομα τραυματίστηκαν. Οι κάτοικοι ήταν τρομαγμένοι και αναγκάστηκαν να βγουν στους δρόμους για ασφάλεια.\n\nΣτην πρωτεύουσα, ενεργοποιήθηκαν συστήματα προειδοποίησης για σεισμό, τα οποία δίνουν κάποιους λεπτούς στους πολίτες για να προετοιμαστούν. Δεν εκδόθηκε προειδοποίηση για τσουνάμι.\n\nΟ σεισμός αυτός θυμίζει τη σεισμική δραστηριότητα που πλήττει συχνά τη χώρα, λόγω της θέσης της πάνω σε πέντε τεκτονικές πλάκες.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/seismos-6-5-rixter-sto-meksiko-toulaxiston-dyo-nekroi-polla-spitia-katastrafikan-konta-sto-epikentro/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/seismos-6-5-rixter-sto-meksiko-toulaxiston-dyo-nekroi-polla-spitia-katastrafikan-konta-sto-epikentro/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564005236/seismos-6-5-richter-sto-mexiko-toylachiston-2-nekroi-dekades-spitia-katestrammena-fotografies/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρό γεγονός, έναν σεισμό που προκάλεσε θανάτους και καταστροφές, αγγίζοντας σημαντικά κοινωνικά ζητήματα και ζητήματα ασφάλειας.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/ga33ea9d00524a8af0d526d9d95f457ff821966954f0ff7ea427f0f4fb59c7f9149171bbea927acf974b03efc6c03178ee627ed280d4e5a1b447e7ee6b6b97435_1280.jpg",
+        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/01/4627558-mexico-earthquake.mp4",
+        "publishedAt": "2026-01-03T05:39:32.000Z"
+      },
+      {
+        "id": "a8553df7c3cc",
+        "title": "«Τρελή» πορεία αυτοκινήτου στην Κηφισιά: Οδηγός που «τερμάτισε» το αλκοτέστ χτύπησε δέντρο και επτά παρκαρισμένα οχήματα",
+        "simpleTitle": "«Τρελή» πορεία αυτοκινήτου στην Κηφισιά: Οδηγός που «τερμάτισε» το αλκοτέστ χτύπησε δέντρο και επτά παρκαρισμένα οχήματα",
+        "simpleText": "Σύνοψη είδησης: «Επικίνδυνη πορεία αυτοκινήτου στην Κηφισιά»\n\nΈνας 51χρονος άνδρας προκάλεσε αναστάτωση στην Κηφισιά, οδηγώντας υπό την επήρεια αλκοόλ. Το βράδυ της Παρασκευής, 2 Ιανουαρίου, γύρω στις 22:30, οδήγησε το αυτοκίνητο του με επικίνδυνο τρόπο από τη Μεταμόρφωση προς τη Βαρυμπόμπη.\n\nΚατά τη διάρκεια της πορείας του, χτύπησε ένα δέντρο και επτά παρκαρισμένα αυτοκίνητα. Οι αστυνομικοί που τον ακολούθησαν έκαναν αλκοτέστ και διαπίστωσαν ότι το αλκοόλ που είχε καταναλώσει ήταν 1,86 mg/l. Αυτό σημαίνει ότι ήταν περίπου επτά φορές πάνω από το επιτρεπόμενο όριο, που είναι 0,25 mg/l.\n\nΟ οδηγός αναμένεται να οδηγηθεί στο αυτόφωρο, επειδή υπερέβαινε κατά πολύ το όριο αλκοόλ που επιτρέπει την οδήγηση. Αυτή η είδηση είναι σημαντική γιατί δείχνει τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ, που μπορεί να προκαλέσει σοβαρά ατυχήματα και ζημιές.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/treli-poreia-aytokinitou-stin-kifisia-odigos-pou-termatise-to-alkotest-xtypise-dentro-kai-epta-parkarismena-oximata/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/treli-poreia-aytokinitou-stin-kifisia-odigos-pou-termatise-to-alkotest-xtypise-dentro-kai-epta-parkarismena-oximata/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564005227/kifisia-methysmenos-odigos-chtypise-epta-parkarismena-ochimata/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό ζήτημα σχετικά με την οδήγηση υπό την επήρεια αλκοόλ, το οποίο μπορεί να προκαλέσει επικίνδυνες καταστάσεις και ζημιές. Αναδεικνύει τους κινδύνους που αυτό συνεπάγεται για την ασφάλεια στο δρόμο.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-02T14:47:00.000Z"
+        "publishedAt": "2026-01-03T05:21:03.000Z"
+      },
+      {
+        "id": "883140eed397",
+        "title": "Φωτιά σε διαμέρισμα στο κέντρο της Αθήνας – Απεγκλωβίστηκαν τέσσερα άτομα",
+        "simpleTitle": "Φωτιά σε διαμέρισμα στο κέντρο της Αθήνας – Απεγκλωβίστηκαν τέσσερα άτομα",
+        "simpleText": "Φωτιά ξέσπασε το βράδυ της Παρασκευής, 2 Ιανουαρίου, σε ένα κτίριο στη Γραμμή Μάρνη, στο κέντρο της Αθήνας. Το κτίριο αυτό είναι χώρος προσωρινής διαμονής για ανθρώπους.\n\nΗ Πυροσβεστική απάντησε άμεσα με 18 πυροσβέστες και έξι οχήματα. Χρησιμοποίησαν και ένα ειδικό όχημα με σκάλες. Οι πυροσβέστες κατάφεραν να απεγκλωβίσουν τέσσερα άτομα. Τρεις βγήκαν από το κλιμακοστάσιο και ένας με τη βοήθεια του κλιμακοφόρου. Οι τέσσερις αυτοί άνθρωποι είχαν μικροτραυματισμούς και μεταφέρθηκαν προληπτικά στο νοσοκομείο «Ευαγγελισμός».\n\nΗ φωτιά έχει ελεγχθεί κι έχει σβήσει. Λόγω του περιστατικού, η κυκλοφορία των οχημάτων στα κοντινά σημεία διακόπηκε προσωρινά. Αυτή η είδηση είναι σημαντική γιατί δείχνει την άμεση αντίδραση των πυροσβεστών και τη βοήθεια που δόθηκε στους ανθρώπους που κινδύνεψαν.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/fotia-se-diamerisma-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/fotia-se-diamerisma-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564005221/fotia-se-choro-prosorinis-diamonis-sto-kentro-tis-athinas-apegklovistikan-tessera-atoma/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η φωτιά σε διαμέρισμα στο κέντρο της Αθήνας περιλαμβάνει σοβαρά ζητήματα δημόσιας ασφάλειας και υγείας, καθώς η άμεση αντίδραση της Πυροσβεστικής και οι μικροτραυματισμοί των απεγκλωβισμένων αφορούν σημαντικά γεγονότα για την κοινότητα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gc23078c38a382393233657915baea3c460119e2c62ae5df0afca5a1a996d722e9c3950f1159240607309b57f68b5b304de05b75de0924c37302905aa11bba0ac_1280.jpg",
+        "videoUrl": "https://orangepress.gr/player?slug=megalh-pyrkagia-me-traymaties-se-xwro-filo3enias-metanastwn-sth-marnh-03-01",
+        "publishedAt": "2026-01-03T05:03:42.000Z"
+      },
+      {
+        "id": "0bf113eb8959",
+        "title": "Εργαζόμενος της Disney τραυματίστηκε από έναν ψεύτικο βράχο βάρους 180 κιλών κατά τη διάρκεια ενός σόου",
+        "simpleTitle": "Εργαζόμενος της Disney τραυματίστηκε από έναν ψεύτικο βράχο βάρους 180 κιλών κατά τη διάρκεια ενός σόου",
+        "simpleText": "Τίτλος: Εργαζόμενος της Disney τραυματίστηκε από μεγάλο ψεύτικο βράχο σε σόου\n\nΈνας υπάλληλος σε θεματικό πάρκο της Disney στη Φλόριντα τραυματίστηκε όταν προσπάθησε να σταματήσει έναν ψεύτικο βράχο 180 κιλών, ο οποίος κατευθυνόταν προς τους θεατές. Το περιστατικό συνέβη την Τρίτη κατά τη διάρκεια μιας παράστασης με θέμα την ταινία «Indiana Jones».\n\nΟ άνδρας διασώθηκε γρήγορα από τους συναδέλφους του, αλλά είχε τραυματιστεί στο κεφάλι και αιμορραγούσε. Η Disney επιβεβαίωσε την κατάσταση και δήλωσε ότι αξιολογούν το περιστατικό για να διασφαλίσουν την ασφάλεια. Ανέφεραν ότι θα κάνουν αλλαγές στην παράσταση για να αποφευχθούν παρόμοια ατυχήματα στο μέλλον.\n\nΑυτό το γεγονός είναι σημαντικό γιατί θυμίζει τη σημασία της ασφάλειας στις ψυχαγωγικές δραστηριότητες, ειδικά όταν εμπλέκονται μεγάλα και βαριά αντικείμενα.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ergazomenos-tis-disney-traymatistike-apo-enan-pseytiko-vraxo-varous-180-kilon-kata-ti-diarkeia-enos-soou/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/ergazomenos-tis-disney-traymatistike-apo-enan-pseytiko-vraxo-varous-180-kilon-kata-ti-diarkeia-enos-soou/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564003622/florinta-ergazomenos-sto-disney-world-traymatistike-apo-pseytiko-vracho-180-kilon/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το περιστατικό αφορά σοβαρό τραυματισμό εργαζομένου κατά τη διάρκεια μιας παράστασης, εστιάζοντας σε θέματα ασφάλειας που σχετίζονται με ψυχαγωγικές δραστηριότητες.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g3f11c7a38a9ae8daade9ee49031639ce53b96fddaf3393f49561043ada187290259e20e84c79123fd9fd2d4ed1f266f76cd493db7ca66953291c23e16f1505ae_1280.jpg",
+        "videoUrl": "https://www.youtube.com/embed/ox_eOj0ESxk?si=q8492jTOPz1kBTpr",
+        "publishedAt": "2026-01-03T02:50:00.000Z"
       }
     ],
     "happy": [
@@ -843,7 +805,7 @@
         "id": "653f7df17409",
         "title": "Πώς ο σκύλος στο σπίτι ενισχύει την ψυχική υγεία των εφήβων",
         "simpleTitle": "Πώς ο σκύλος στο σπίτι ενισχύει την ψυχική υγεία των εφήβων",
-        "simpleText": "Τίτλος: Πώς ο σκύλος στο σπίτι βοηθά την ψυχική υγεία των εφήβων\n\nΜια νέα έρευνα δείχνει ότι οι σκύλοι που ζουν σε σπίτια βοηθούν τους εφήβους να έχουν καλύτερη ψυχική υγεία. Όταν υπάρχει ένας σκύλος στο σπίτι, αυτό μπορεί να αλλάξει το μικροβίωμα των παιδιών και των εφήβων. Το μικροβίωμα είναι ένα σύνολο μικρών οργανισμών που ζουν μέσα μας και επηρεάζουν την υγεία μας.\n\nΑυτή η αλλαγή μπορεί να έχει θετική επίδραση στην ψυχική τους υγεία και στην κοινωνικότητά τους, δηλαδή στον τρόπο που σχετίζονται με άλλους ανθρώπους. Αυτό είναι σημαντικό γιατί η καλή ψυχική υγεία βοηθά τους εφήβους να είναι πιο ευτυχισμένοι και να αντιμετωπίζουν καλύτερα τις προκλήσεις της ζωής. Ωστόσο, δεν γνωρίζουμε όλες τις λεπτομέρειες της έρευνας.",
+        "simpleText": "Τίτλος: Πώς ο σκύλος στο σπίτι βοηθάει την ψυχική υγεία των εφήβων\n\nΜια νέα έρευνα δείχνει ότι οι σκύλοι στο σπίτι έχουν θετική επίδραση στη ψυχική υγεία των εφήβων. Δηλαδή, η παρουσία ενός σκύλου μπορεί να διορθώσει το μικροβίωμα τους. Το μικροβίωμα είναι το σύνολο των μικροβίων που ζουν στο σώμα μας. Όταν είναι υγιές, μπορεί να βοηθήσει στην κοινωνικότητα και στη γενική ευεξία.\n\nΑυτό είναι σημαντικό γιατί οι έφηβοι αντιμετωπίζουν πολλές προκλήσεις, όπως το άγχος και οι σχέσεις με τους άλλους. Ο σκύλος μπορεί να προσφέρει αγάπη και παρέα, κάτι που μπορεί να κάνει τους εφήβους πιο ευτυχισμένους. Αυτό σημαίνει ότι οι οικογενειακοί σκύλοι δεν είναι μόνο φίλοι, αλλά και σύμμαχοι στην ψυχική υγεία.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30215-pos-o-skylos-sto-spiti-veltionei-tin-psixiki-ygeia-ton-efivon-meso-mikroviomatos/",
         "sourceDomains": [
@@ -856,7 +818,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η έρευνα δείχνει θετικές επιδράσεις των σκύλων στην ψυχική υγεία των εφήβων, προσφέροντας ευτυχία και ενίσχυση της κοινωνικότητας.",
+        "categoryReason": "Η έρευνα δείχνει ότι οι σκύλοι βελτιώνουν την ψυχική υγεία των εφήβων, κάτι που προάγει τη θετική και χαρούμενη διάθεση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -866,7 +828,7 @@
         "id": "acf79d494b0b",
         "title": "Το Λιμενικό Σώμα δίπλα στα παιδιά με το Make-A-Wish, με πράξεις κοινωνικής προσφοράς",
         "simpleTitle": "Το Λιμενικό Σώμα δίπλα στα παιδιά με το Make-A-Wish, με πράξεις κοινωνικής προσφοράς",
-        "simpleText": "Το Λιμενικό Σώμα υποστηρίζει τα παιδιά μέσω του Make-A-Wish\n\nΤο Λιμενικό Σώμα συμμετείχε σε μια ξεχωριστή εκδήλωση για παιδιά που βρίσκονται στο Ογκολογικό Νοσοκομείο Παίδων ΜΗΤΕΡΑ. Η εκδήλωση οργανώθηκε από το Make-A-Wish Ελλάδος με σκοπό να προσφέρει χαρά και ελπίδα σε αυτά τα παιδιά. Η δράση αυτή πραγματοποιήθηκε κατά την περίοδο των Χριστουγέννων και δημιούργησε μια ζεστή και ευχάριστη ατμόσφαιρα εν μέσω των δύσκολων καταστάσεων που βιώνουν τα παιδιά και οι οικογένειές τους. Είναι σημαντικό γιατί δείχνει την αλληλεγγύη και την κοινωνική ευθύνη που αναλαμβάνουν θεσμικοί φορείς για τη στήριξη των πιο αδύναμων.",
+        "simpleText": "Το Λιμενικό Σώμα στηρίζει παιδιά μέσω του Make-A-Wish\n\nΣυγκίνηση και αλληλεγγύη δείχνει το Λιμενικό Σώμα. Σε συνεργασία με τον οργανισμό Make-A-Wish Ελλάδας, διοργάνωσε μια χριστουγεννιάτικη δράση. Στην εκδήλωση αυτή, στόχος ήταν να προσφερθούν χαμόγελα και ελπίδα σε παιδιά που νοσηλεύονται στο Ογκολογικό Νοσοκομείο Παίδων ΜΗΤΕΡΑ.\n\nΗ πρωτοβουλία αυτή δημιουργεί μια γιορτινή ατμόσφαιρα και δείχνει πώς μπορούμε να στηρίξουμε όσους έχουν ανάγκη. Είναι σημαντικό να θυμόμαστε ότι η βοήθεια σε αυτούς τους μικρούς ήρωες είναι πάντα απαραίτητη. Αυτές οι δράσεις συμβάλλουν στην ψυχολογία και την ευημερία των παιδιών.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30609-limeniko-soma-make-a-wish-koinoniki-prosfora-paidia/",
         "sourceDomains": [
@@ -879,7 +841,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η εκδήλωση του Λιμενικού Σώματος για τα παιδιά στο Ογκολογικό Νοσοκομείο Παίδων με την υποστήριξη του Make-A-Wish αποσκοπεί στο να προσφέρει χαρά και ελπίδα, κάτι που συνάδει με την έννοια των θετικών και χαρούμενων ιστοριών.",
+        "categoryReason": "Η είδηση αφορά μια θετική και συγκινητική πρωτοβουλία του Λιμενικού Σώματος σε συνεργασία με το Make-A-Wish για την υποστήριξη παιδιών που νοσηλεύονται, δημιουργώντας μια γιορτινή και αισιόδοξη ατμόσφαιρα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -888,60 +850,94 @@
     ],
     "sports": [
       {
-        "id": "b20337f13472",
-        "title": "Ο Τσιτσιπάς νίκησε τον Μοτσιζούκι και έκανε το 2-0 για την Ελλάδα",
-        "simpleTitle": "Ο Τσιτσιπάς νίκησε τον Μοτσιζούκι και έκανε το 2-0 για την Ελλάδα",
-        "simpleText": "Ο Στέφανος Τσιτσιπάς κέρδισε τον Σιντάρο Μοτσιζούκι με 2-0 σετ. Αυτό συνέβη στο United Cup, μια σημαντική διοργάνωση τένις. Με αυτή τη νίκη, η ελληνική ομάδα έχει πλέον δύο νίκες στην αναμέτρησή της με την Ιαπωνία. Είναι σημαντικό γιατί η επιτυχία του Τσιτσιπά βοηθά την Εθνική ομάδα να προχωρήσει στη διοργάνωση.",
+        "id": "d85759621c76",
+        "title": "Ολυμπιακός: Αποθέωση για τους ερυθρόλευκους στο ΣΕΦ",
+        "simpleTitle": "Ολυμπιακός: Αποθέωση για τους ερυθρόλευκους στο ΣΕΦ",
+        "simpleText": "Τίτλος: Μαζική υποστήριξη στον Ολυμπιακό στο ΣΕΦ\n\nΣτο Στάδιο Ειρήνης και Φιλίας (ΣΕΦ), εκατοντάδες οπαδοί του Ολυμπιακού συγκεντρώθηκαν για να γιορτάσουν τη νίκη της ομάδας τους εναντίον του Παναθηναϊκού. Το γεγονός αυτό συνέβη πρόσφατα και είναι σημαντικό γιατί δείχνει την αφοσίωση και την αγάπη των φιλάθλων για την ομάδα τους. Η νίκη αυτή είναι σημαντική για την ψυχολογία της ομάδας και δημιουργεί θετική ατμόσφαιρα για τον Ολυμπιακό.",
         "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/01/02/sports/o-tsitsipas-nikise-ton-motsizouki-kai-ekane-to-2-0-gia-tin-ellada/",
+        "sourceUrl": "https://www.tovima.gr/2026/01/03/sports/olympiakos-apotheosi-gia-tous-erythroleykous-sto-sef/",
         "sourceDomains": [
           "tovima.gr"
         ],
         "sources": [
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/02/sports/o-tsitsipas-nikise-ton-motsizouki-kai-ekane-to-2-0-gia-tin-ellada/"
+            "url": "https://www.tovima.gr/2026/01/03/sports/olympiakos-apotheosi-gia-tous-erythroleykous-sto-sef/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη νίκη του Τσιτσιπά σε αγώνα τένις, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τις επιδόσεις της Εθνικής ομάδας. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρεται σε αγώνα ποδοσφαίρου και την υποστήριξη της ομάδας Ολυμπιακός από τους οπαδούς της, κάτι που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gfb023bb54cb0ef930c7767a94329fd1ddd4b95a6b4cd0dd756311d46b8d017709601ca13ed7108537a195bb83f1d3ba1c03bc4da38b2da1d5694587dc8acdaca_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-02T13:18:07.000Z"
+        "publishedAt": "2026-01-02T22:34:51.000Z"
       },
       {
-        "id": "d49a5b7da01f",
-        "title": "Ολυμπιακός – ΟΦΗ: Το τελετουργικό του Super Cup",
-        "simpleTitle": "Ολυμπιακός – ΟΦΗ: Το τελετουργικό του Super Cup",
-        "simpleText": "Ολυμπιακός και ΟΦΗ θα αγωνιστούν για το Super Cup. Ο αγώνας θα γίνει στις 3 Ιανουαρίου, στις 5 το απόγευμα. Η Ελληνική Ποδοσφαιρική Ομοσπονδία, γνωστή ως ΕΠΟ, ανακοίνωσε λεπτομέρειες για το τελετουργικό που θα συμβεί πριν και κατά τη διάρκεια του αγώνα. Το Super Cup είναι ένας σημαντικός αγώνας στην ελληνική ποδοσφαιρική σκηνή, γιατί συγκεντρώνει δύο από τις καλύτερες ομάδες της χώρας. Είναι σημαντικό γιατί προσφέρει την ευκαιρία στους παίκτες να κερδίσουν έναν τίτλο και στους φιλάθλους να δουν έναν ωραίο αγώνα. Τα τελετουργικά περιλαμβάνουν ειδικές εμφανίσεις και εορτασμούς, αλλά δεν έχουν ανακοινωθεί όλες οι λεπτομέρειες.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/01/02/sports/olympiakos-ofi-to-teletourgiko-tou-super-cup/",
+        "id": "f557852df2b9",
+        "title": "Η βαθμολογία της Euroleague μετά τη νίκη που πέτυχε ο Ολυμπιακός επί του Παναθηναϊκού",
+        "simpleTitle": "Η βαθμολογία της Euroleague μετά τη νίκη που πέτυχε ο Ολυμπιακός επί του Παναθηναϊκού",
+        "simpleText": "Ο Ολυμπιακός νίκησε τον Παναθηναϊκό με σκορ 87-82 σε αγώνα για την Euroleague. Το παιχνίδι έγινε στο ΟΑΚΑ στις 2 Ιανουαρίου 2026. Αυτή ήταν η 10η συνεχόμενη νίκη του Ολυμπιακού απέναντι στον Παναθηναϊκό. Με αυτή τη νίκη, ο Ολυμπιακός βελτίωσε το ρεκόρ του σε 11 νίκες και 7 ήττες και παραμένει σε καλή θέση για την τετράδα και την εξάδα της βαθμολογίας. Αντίθετα, ο Παναθηναϊκός έπεσε στο 12-7.\n\nΑυτή η νίκη είναι σημαντική, καθώς επηρεάζει τη συνολική πορεία των ομάδων στη διοργάνωση. Οι δύο ομάδες αποτελούν παραδοσιακούς αντιπάλους στο ελληνικό μπάσκετ, και η νίκη του Ολυμπιακού ενισχύει τη θέση του στην κατάταξη.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/01/02/sports/i-vathmologia-tis-euroleague-meta-ti-niki-pou-petyxe-o-olympiakos-epi-tou-panathinaikou/",
         "sourceDomains": [
-          "tovima.gr"
+          "tanea.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/02/sports/olympiakos-ofi-to-teletourgiko-tou-super-cup/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/02/sports/i-vathmologia-tis-euroleague-meta-ti-niki-pou-petyxe-o-olympiakos-epi-tou-panathinaikou/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/athlhtika/article/4043183/euroleague-o-olimpiakos-perase-me-niki-apo-tin-edra-tou-panathinaikou.html"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου μεταξύ δύο ομάδων για το Super Cup, γεγονός που σχετίζεται άμεσα με τον τομέα του αθλητισμού. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρεται σε αγώνα μπάσκετ μεταξύ του Ολυμπιακού και του Παναθηναϊκού, επισημαίνοντας τις επιδόσεις και τη βαθμολογία των ομάδων στην Euroleague.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g1678c397dd390117d5dcd048f8d188d2208eeb3dc90ce97086f871e73066d421eaa3c5ba01b7c34ed2063696d7919d180b2c891538008d01cb53f0db05e8c046_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g80656ffb80d81389a94eadeb654f1e7f28028f95362c78a93f911671407690d2f7d5489d2712af8ee3001a140f4f9efc3a64ef4722926da9cc14a078511d9ac0_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-01-02T13:13:14.000Z"
+        "publishedAt": "2026-01-02T21:52:07.000Z"
       }
     ],
     "screen": [],
-    "culture": [],
+    "culture": [
+      {
+        "id": "4f7284cfb6c6",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 3 Ιανουαρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 3 Ιανουαρίου",
+        "simpleText": "Σήμερα, 3 Ιανουαρίου, η εκκλησία τιμά την Οσία Γενεβιέβη από το Παρίσι. Αυτή η ημέρα είναι σημαντική για όσους έχουν τα ονόματα Γενοβέφα και Γενεβιέβη, καθώς γιορτάζουν.\n\nΗ Αγία Γενεβιέβη γεννήθηκε περίπου το 419 μ.Χ. στη Ναντέρ, κοντά στο Παρίσι. Από μικρή ήθελε να αφιερωθεί στον Θεό και, σε ηλικία 15 ετών, έγινε μοναχή. Είχε σημαντική επιρροή στην προσευχή και την υποστήριξη των κατοίκων του Παρισιού κατά τη διάρκεια δύσκολων καταστάσεων, όπως επιθέσεις και πολιορκίες.\n\nΣτις αρχές του 5ου αιώνα, κατά την επίθεση των Ούννων υπό τον Αττίλα, η Γενεβιέβη κατάφερε να πείσει τους κατοίκους να μη φύγουν από την πόλη και να προσευχηθούν, κάτι που είχε θετικό αποτέλεσμα. Η αγία πέθανε γύρω στο 502 ή σύμφωνα με τις παραδόσεις το 512. Τα λείψανά της είναι σημαντικά για την ιστορία και την παράδοση της Γαλλίας.\n\nΣήμερα, η ημέρα αφιερωμένη στην Οσία Γενεβιέβη είναι μια ευκαιρία να θυμηθούμε τη ζωή και τα έργα της.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-3-ianouariou-2/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-3-ianouariou-2/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/03/greece/eortologio-poioi-giortazoun-simera-3-ianouariou/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αναφέρεται στη γιορτή της Οσίας Γενεβιέβης και την πολιτιστική και θρησκευτική της σημασία, εστιάζοντας στις παραδόσεις και την ιστορία γύρω από την αγία.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-03T06:04:14.000Z"
+      }
+    ],
     "fun": [
       {
         "id": "b8631b5189ec",
         "title": "Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί: πώς να τα χρησιμοποιείτε σωστά στο μαγείρεμα",
         "simpleTitle": "Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί: πώς να τα χρησιμοποιείτε σωστά στο μαγείρεμα",
-        "simpleText": "Τίτλος: Πώς να χρησιμοποιείτε σωστά τη λαδόκολλα, το αλουμινόχαρτο και το κερωμένο χαρτί\n\nΗ λαδόκολλα, το αλουμινόχαρτο και το κερωμένο χαρτί είναι τρία υλικά που υπάρχουν στις περισσότερες κουζίνες. Είναι χρήσιμα για το μαγείρεμα και διευκολύνουν τη διαδικασία.\n\nΚάθε υλικό έχει διαφορετική χρήση. Η λαδόκολλα βοηθάει στο ψήσιμο και κρατάει τα τρόφιμα από το να κολλήσουν. Το αλουμινόχαρτο χρησιμοποιείται για να διατηρεί τη ζέστη των φαγητών και για μαγείρεμα στο φούρνο. Το κερωμένο χαρτί είναι καλό για την αποθήκευση τροφίμων, αλλά δεν πρέπει να χρησιμοποιείται στο ψήσιμο.\n\nΕίναι σημαντικό να γνωρίζουμε πώς να τα χρησιμοποιούμε σωστά. Αυτό όχι μόνο διευκολύνει το μαγείρεμα, αλλά προσφέρει και ασφάλεια στα τρόφιμα και τις συσκευές μας.",
+        "simpleText": "Τίτλος: Χρήσιμα υλικά για μαγείρεμα: Λαδόκολλα, αλουμινόχαρτο και κερωμένο χαρτί\n\nΣτην κουζίνα σας μπορεί να έχετε λαδόκολλα, αλουμινόχαρτο ή κερωμένο χαρτί. Αυτά τα υλικά βοηθούν στο μαγείρεμα και κάνουν τη διαδικασία πιο εύκολη και καθαρή. Κάθε υλικό έχει διαφορετική χρήση και κανόνες που πρέπει να γνωρίζετε για να είστε ασφαλείς.\n\nΗ λαδόκολλα χρησιμοποιείται για να μην κολλούν τα τρόφιμα στο ταψί. Το αλουμινόχαρτο κρατάει τη θερμότητα και προστατεύει το φαγητό από τη φωτιά. Το κερωμένο χαρτί είναι καλό για να αποθηκεύετε τρόφιμα, αλλά δεν πρέπει να το βάζετε στο φούρνο.\n\nΕίναι σημαντικό να γνωρίζετε πότε και πώς να χρησιμοποιείτε αυτά τα υλικά. Έτσι, θα μπορείτε να μαγειρεύετε πιο άνετα και με ασφάλεια.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30441-ladokolla-aloyminoxarto-keromeno-xarti-mageirema/",
         "sourceDomains": [
@@ -954,7 +950,7 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Το άρθρο παρέχει πρακτικές συμβουλές για το μαγείρεμα με καθημερινά υλικά, που μπορούν να κάνουν την κουζίνα πιο ευχάριστη και διασκεδαστική.",
+        "categoryReason": "Το άρθρο παρέχει χρήσιμες και πρακτικές πληροφορίες για την κουζίνα, με στόχο να διευκολύνει τη διαδικασία του μαγειρέματος, γεγονός που το καθιστά ευχάριστο και διασκεδαστικό.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
