@@ -1,79 +1,257 @@
 {
-  "generatedAt": "2026-01-13T15:57:14.673Z",
+  "generatedAt": "2026-01-14T07:52:19.917Z",
   "articles": [
     {
-      "id": "287bf3395064",
-      "title": "Tραμπ σε Ιρανούς: Συνεχίστε τις διαδηλώσεις – Η βοήθεια είναι καθ’ οδόν",
-      "simpleTitle": "Tραμπ σε Ιρανούς: Συνεχίστε τις διαδηλώσεις – Η βοήθεια είναι καθ’ οδόν",
-      "simpleText": "Τίτλος: Μήνυμα Τραμπ προς τους Ιρανών: Συνεχίστε τις διαδηλώσεις – Η βοήθεια έρχεται\n\nΟ Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, έστειλε νέο μήνυμα στους Ιρανούς που διαδηλώνουν κατά του καθεστώτος. Στην ανάρτησή του, τους προέτρεψε να συνεχίσουν τις διαμαρτυρίες και είπε ότι «η βοήθεια είναι καθ’ οδόν». Ο Τραμπ ανήγγειλε ότι ακύρωσε όλες τις επαφές με Ιρανούς αξιωματούχους, μέχρι να σταματήσουν οι δολοφονίες διαδηλωτών.\n\nΗ κατάσταση στο Ιράν είναι πολύ σοβαρή. Περισσότεροι από 2.000 άνθρωποι έχουν πεθάνει τις τελευταίες 48 ώρες κατά τη διάρκεια των διαδηλώσεων. Ο πρόεδρος Τραμπ ανέφερε ότι η βία από το ιρανικό καθεστώς είναι απαράδεκτη και ότι οι υπεύθυνοι θα πληρώσουν.\n\nΟ Οργανισμός Ηνωμένων Εθνών (ΟΗΕ) ανησυχεί για την καταστολή των διαδηλώσεων και ζητά να σταματήσουν οι βίαιες ενέργειες εναντίον αθώων πολιτών. Οι Ιρανοί έχουν το δικαίωμα να διαδηλώνουν ειρηνικά και να εκφράζουν τις απόψεις τους.\n\nΗ κακή κατάσταση για το λαό του Ιράν είναι άμεσος λόγος για τον οποίο η διεθνής κοινότητα παρακολουθεί με ενδιαφέρον το θέμα.",
-      "sourceName": "ERT News, Kathimerini, TA NEA, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/tramp-se-iranous-synexiste-tis-diadiloseis-i-voitheia-einai-kath-odon/",
+      "id": "ec60cc63e772",
+      "title": "Πέθανε ο πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου",
+      "simpleTitle": "Πέθανε ο πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου",
+      "simpleText": "Πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου πέθανε.\n\nΟ Γιώργος Βασιλείου άφησε την τελευταία του πνοή σε ηλικία 94 ετών. Είχε σοβαρό πρόβλημα υγείας. Υπήρξε πρόεδρος της Κύπρου από το 1988 μέχρι το 1993.\n\nΕίναι γνωστός για την προσπάθειά του να εντάξει την Κυπριακή Δημοκρατία στην Ευρωπαϊκή Ένωση. Αυτός ο στόχος είχε μεγάλη σημασία για τη χώρα. Η είδηση του θανάτου του είναι σημαντική γιατί ο Βασιλείου είχε σημαντική συμβολή στην κυπριακή πολιτική και στην ευρωπαϊκή πορεία της Κύπρου.",
+      "sourceName": "Kathimerini, TO BHMA, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/world/564020383/pethane-o-proin-proedros-tis-kyproy-giorgos-vasileioy/",
       "sourceDomains": [
-        "ertnews.gr",
         "kathimerini.gr",
+        "tovima.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564020383/pethane-o-proin-proedros-tis-kyproy-giorgos-vasileioy/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/14/world/pethane-o-giorgos-vasileiou-o-proin-proedros-tis-kyprou/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/apeviwse-o-giwrgos-vasileiou-o-evrwpaistis-prwin-proedros-tis-kyprou-44343292628"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τον θάνατο ενός πρώην προέδρου, ο οποίος είχε σημαντική πολιτική και κοινωνική επιρροή στην Κύπρο και στην ευρωπαϊκή της πορεία, κάτι που την καθιστά σοβαρή και σημαντική.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T07:20:40.000Z"
+    },
+    {
+      "id": "d83ff938d20a",
+      "title": "Grease στο Christmas Theater: το μιούζικαλ που κάνει την Αθήνα να χορεύει",
+      "simpleTitle": "Grease στο Christmas Theater: το μιούζικαλ που κάνει την Αθήνα να χορεύει",
+      "simpleText": "Το μιούζικαλ Grease θα παρουσιαστεί στο Christmas Theater στην Αθήνα. Αυτή είναι μια σημαντική εκδήλωση για την πόλη. Το Grease είναι ένα πολύ δημοφιλές μιούζικαλ, που συνδυάζει χορευτικά νούμερα και το κλίμα της δεκαετίας του '50 με σύγχρονα στοιχεία.\n\nΗ παράσταση θα περιλαμβάνει εντυπωσιακές χορογραφίες, όμορφα κοστούμια και περιγραφές που προκαλούν γέλιο, αλλά και λίγο δράμα. Είναι μια ευκαιρία για τους θεατές να περάσουν ευχάριστα και να ζήσουν μία γιορτινή ατμόσφαιρα.\n\nΗ παράσταση θα είναι διαθέσιμη για το κοινό, αλλά οι λεπτομέρειες σχετικά με τις ημερομηνίες και τα εισιτήρια δεν είναι γνωστές.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/30891-grease-mioyzikal-christmas-theater-athina/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/30891-grease-mioyzikal-christmas-theater-athina/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η είδηση επικεντρώνεται στην παρουσίαση του μιούζικαλ 'Grease', που είναι μια πολιτιστική εκδήλωση με χορευτικά νούμερα και θεατρική παραγωγή.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g688b8d2ce1f4d00761c8241153ae80e7ec06a5ce57ee88c33231798f24e4c1259bcca01d994a57b838baef758c0ee8c11f8a95ef63121b8ba0325118cbeb596d_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T07:18:00.000Z"
+    },
+    {
+      "id": "f907a9d1e3ba",
+      "title": "Ιράν κατά ΗΠΑ: «Αναζητούν πρόσχημα για στρατιωτική επέμβαση»",
+      "simpleTitle": "Ιράν κατά ΗΠΑ: «Αναζητούν πρόσχημα για στρατιωτική επέμβαση»",
+      "simpleText": "Οι ΗΠΑ και το Ιράν βρίσκονται σε ένταση. Η ιρανική κυβέρνηση κατηγορεί την αμερικανική ότι ψάχνει αφορμές για να παρέμβει στρατιωτικά στο Ιράν. Αυτό συμβαίνει σε μια περίοδο όπου οι μαζικές διαδηλώσεις στη χώρα προκαλούν αναστάτωση.\n\nΗ ανακοίνωση της Τεχεράνης ήρθε μετά τη δήλωση του πρώην προεδρικού υποψηφίου Ντόναλντ Τραμπ. Ο Τραμπ προειδοποίησε ότι οι Ηνωμένες Πολιτείες θα απαντήσουν με σφοδρότητα εάν οι διαδηλωτές εκτελούνται.\n\nΗ ιρανική κυβέρνηση τόνισε ότι οι κυρώσεις και οι απειλές από τις ΗΠΑ χρησιμοποιούνται για να δικαιολογήσουν στρατιωτική επέμβαση. Ο μόνιμος εκπρόσωπος του Ιράν στον ΟΗΕ, Αμίρ Σαΐντ Ιραβανί, έστειλε επιστολή διαμαρτυρίας στον ΟΗΕ, εκφράζοντας την ανησυχία του για τις εξελίξεις.\n\nΑυτή η κατάσταση είναι σημαντική, καθώς δείχνει την κλιμάκωση της αντιπαράθεσης μεταξύ των δύο χωρών, σε μια στιγμή που οι διαδηλώσεις στο Ιράν έχουν προκαλέσει μεγάλο αριθμό θανάτων.",
+      "sourceName": "TA NEA, TO BHMA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/14/world/iran-kata-ipa-anazitoyn-prosxima-gia-stratiotiki-epemvasi/",
+      "sourceDomains": [
+        "tanea.gr",
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/14/world/iran-kata-ipa-anazitoyn-prosxima-gia-stratiotiki-epemvasi/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/14/world/iran-katigorei-tis-ipa-oti-anazitoun-prosxima-gia-na-epemvoun-stratiotika/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4050752/to-iran-katigori-tis-ipa-pos-anazitoun-proschima-gia-stratiotiki-epemvasi-i-proidopiisi-tou-trab-se-periptosi-pou-diadilotes-odigithoun-stin-kremala.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές διεθνείς σχέσεις και την κλιμάκωση της έντασης μεταξύ Ιράν και ΗΠΑ, θέματα πολιτικής και ανθρωπίνων δικαιωμάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T07:16:48.000Z"
+    },
+    {
+      "id": "7d57a2f62fe4",
+      "title": "Από το «Είσαι νεκρός;» στο Demumu: Η κινεζική εφαρμογή που φροντίζει όσους ζουν μόνοι",
+      "simpleTitle": "Από το «Είσαι νεκρός;» στο Demumu: Η κινεζική εφαρμογή που φροντίζει όσους ζουν μόνοι",
+      "simpleText": "Η κινεζική εφαρμογή «Είσαι νεκρός;» αλλάζει όνομα και γίνεται «Demumu». Η εφαρμογή αυτή σχεδιάστηκε για άτομα που ζουν μόνα τους. Αν ο χρήστης δεν συνδεθεί για αρκετές ημέρες, στέλνει αυτόματα ειδοποίηση σε κοντινό του πρόσωπο.\n\nΗ αλλαγή ονόματος έγινε λόγω της μεγάλης επιτυχίας της εφαρμογής στην Κίνα, όπου κατέκτησε την πρώτη θέση στο App Store. Η νέα ονομασία «Demumu» θα χρησιμοποιηθεί διεθνώς. Οι προγραμματιστές δήλωσαν ότι στοχεύουν να βοηθήσουν περισσότερους ανθρώπους που ζουν μόνοι, διασφαλίζοντας την ασφάλειά τους.\n\nΜερικοί χρήστες πρότειναν να διατηρηθεί το παλαιό όνομα, ενώ άλλοι εξέφρασαν την υποστήριξή τους για την αλλαγή. Η εφαρμογή έρχεται σε μια εποχή που το ένα πέμπτο των νοικοκυριών στην Κίνα αποτελείται από άτομα που ζουν μόνα.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/14/world/apo-to-eisai-nekros-sto-demumu-i-kineziki-efarmogi-poy-frontizei-osoys-zoyn-monoi/",
+      "sourceDomains": [
         "tanea.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-se-iranous-synexiste-tis-diadiloseis-i-voitheia-einai-kath-odon/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564019192/tramp-gia-iran-i-voitheia-einai-kath-odon-synechiste-na-diadilonete/"
-        },
-        {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-tis-diamartyries-i-voitheia-einai-kath-odon/"
+          "url": "https://www.tanea.gr/2026/01/14/world/apo-to-eisai-nekros-sto-demumu-i-kineziki-efarmogi-poy-frontizei-osoys-zoyn-monoi/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4050341/potami-ematos-sto-iran-stis-antikivernitikes-diadilosis.html"
+          "url": "https://www.news.gr/tech/article/4050731/ise-nekros-i-viral-kineziki-efarmogi-gia-tous-anthropous-pou-zoun-moni-tous-allazi-onoma-meta-tin-epitichia-pou-gnorise.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με σοβαρές πολιτικές και ανθρωπιστικές κρίσεις στο Ιράν, περιλαμβάνοντας την υποστήριξη του Τραμπ στις διαδηλώσεις και τις εκτελέσεις ειρηνικών διαδηλωτών, κάτι που επηρεάζει άμεσα τα ανθρώπινα δικαιώματα και την πολιτική κατάσταση.",
+      "categoryReason": "Η είδηση αφορά μια εφαρμογή που αποσκοπεί στην ασφάλεια ανθρώπων που ζουν μόνοι, αγγίζοντας σοβαρά κοινωνικά ζητήματα όπως η απομόνωση και η ασφάλεια των μοναχικών ατόμων, κάτι που είναι σημαντικό σε κοινωνικό και ψυχολογικό επίπεδο.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://truthsocial.com/@realDonaldTrump/115888317758045915/embed",
-      "publishedAt": "2026-01-13T15:22:42.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T06:54:17.000Z"
     },
     {
-      "id": "e7561fe7e75e",
-      "title": "Διαβατήρια: Αυτά είναι τα πιο ισχυρά του κόσμου για το 2026 – Η θέση της Ελλάδας",
-      "simpleTitle": "Διαβατήρια: Αυτά είναι τα πιο ισχυρά του κόσμου για το 2026 – Η θέση της Ελλάδας",
-      "simpleText": "Τίτλος: Τα πιο ισχυρά διαβατήρια του κόσμου για το 2026 και η θέση της Ελλάδας\n\nΣύμφωνα με μια πρόσφατη έκθεση, το διαβατήριο είναι σημαντικό για την ελεύθερη μετακίνηση από χώρα σε χώρα. Το 2026, η Σιγκαπούρη κατέχει την πρώτη θέση, καθώς οι πολίτες της μπορούν να ταξιδεύουν χωρίς βίζα σε 192 χώρες. Στη δεύτερη θέση είναι η Ιαπωνία και η Νότια Κορέα, με 188 χώρες.\n\nΗ Ελλάδα βρίσκεται στην τέταρτη θέση μαζί με άλλες χώρες, όπως η Ισπανία και η Σουηδία, με πρόσβαση χωρίς βίζα σε 185 προορισμούς. Αυτό δείχνει την καλή θέση της Ελλάδας στον κόσμο των διαβατηρίων.\n\nΑντίθετα, χώρες όπως το Αφγανιστάν, η Συρία και το Ιράκ έχουν πολύ λιγότερες επιλογές για ταξίδια, με πρόσβαση σε μόλις 24 ή 29 προορισμούς.\n\nΗ κατάταξη αυτή δείχνει επίσης τη σταθερότητα και την αξιοπιστία κάθε χώρας. Η καλή θέση της Ελλάδας μπορεί να βοηθήσει τους πολίτες της να ταξιδεύουν πιο εύκολα στο μέλλον.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/01/13/greece/diavatiria-ayta-einai-ta-pio-isxyra-tou-kosmou-gia-to-2026-i-thesi-tis-elladas/",
+      "id": "c26106e9e5f6",
+      "title": "Επίθεση Γεωργιάδη σε Καρυστιανού: «Πείτε ποιους ακριβώς δεν θέλετε να εκθέσετε»",
+      "simpleTitle": "Επίθεση Γεωργιάδη σε Καρυστιανού: «Πείτε ποιους ακριβώς δεν θέλετε να εκθέσετε»",
+      "simpleText": "Ο Άδωνις Γεωργιάδης επιτέθηκε στη Μαρία Καρυστιανού. Αυτή η επίθεση έγινε λόγω όσων είπε στην παραίτησή της από το σύλλογο Συγγενών Θυμάτων των Τεμπών.\n\nΟ Γεωργιάδης ζήτησε από την Καρυστιανού να διευκρινίσει ποιοι δεν θέλουν να εκτεθούν και τι ακριβώς συμβαίνει. Αναφέρθηκε στη σημασία της διαφάνειας, δηλαδή της σαφήνειας και της ειλικρίνειας, λέγοντας ότι πρέπει να γνωρίζουμε την αλήθεια.\n\nΑυτή η συζήτηση είναι σημαντική γιατί αφορά τις συνθήκες που σχετίζονται με τον σύλλογο και τα ζητήματα που έχουν ανακύψει γύρω από το θέμα. Οι δημόσιες δηλώσεις και οι παραιτήσεις από τέτοιες θέσεις συχνά προκαλούν αντιδράσεις και ερωτήματα στην κοινωνία.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2026/01/14/politics/epithesi-georgiadi-se-karystianou-peite-poious-akrivos-den-thelete-na-ekthesete/",
       "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
+        "tovima.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/greece/diavatiria-ayta-einai-ta-pio-isxyra-tou-kosmou-gia-to-2026-i-thesi-tis-elladas/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/14/politics/epithesi-georgiadi-se-karystianou-peite-poious-akrivos-den-thelete-na-ekthesete/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/13/finance/ta-pio-isxyra-diavatiria-tou-kosmou-to-2026-i-thesi-tis-elladas/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4050705/georgiadis-axiotimi-k-karistianou-sto-onoma-tis-diafanias-pou-evangelizeste-pite-mas-epitelous-ti-akrivos-simveni-ke-pious-akrivos-den-thelete-na-ekthesete.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κατάταξη των διαβατηρίων και τις πολιτικές καθώς και διπλωματικές σχέσεις που επηρεάζουν τη διεθνή κινητικότητα, γεγονός που την κατατάσσει σε σοβαρές ειδήσεις.",
+      "categoryReason": "Η είδηση αφορά μια πολιτική διαμάχη που συνδέεται με τη διαφάνεια και τις δημόσιες δηλώσεις σχετικά με σοβαρά κοινωνικά ζητήματα, γεγονός που την καθιστά σοβαρή.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc10b0e1b112c851c7650121af439c1d0cdc98ba123bb0e08993283002cbabbf25cd65d9f5a064f7f66e04327a909b539395492d5fca5395a9ba1f19c8d3fc633_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-13T15:12:47.000Z"
+      "publishedAt": "2026-01-14T06:39:48.000Z"
     },
     {
-      "id": "fa54bdcfcbad",
-      "title": "Τραμπ σε ιρανούς διαδηλωτές: «Συνεχίστε! Η βοήθεια έρχεται» – Απάντηση Μόσχας",
-      "simpleTitle": "Τραμπ σε ιρανούς διαδηλωτές: «Συνεχίστε! Η βοήθεια έρχεται» – Απάντηση Μόσχας",
-      "simpleText": "Ο τίτλος μπορεί να παραφραστεί απλά ως: «Τραμπ λέει στους Ιρανούς διαδηλωτές να συνεχίσουν και ότι θα βοηθήσουν».\n\nΟ πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, ενθάρρυνε τους Ιρανούς διαδηλωτές να συνεχίσουν τις κινητοποιήσεις τους. Τους είπε να καταγράψουν τα ονόματα όσων, όπως είπε, βασανίζουν και σκοτώνουν. Αυτό προκαλεί ανησυχία, καθώς μπορεί να οδηγήσει σε περισσότερη ένταση.\n\nΗ δήλωση του Τραμπ έγινε σε μια περίοδο που οι πολίτες του Ιράν διαμαρτύρονται ενάντια στο καθεστώς τους. Η παρέμβαση του προεδρικού γραφείου ενδέχεται να μεταφέρει μηνύματα στήριξης στους διαδηλωτές και σχετική δέσμευση για βοήθεια.\n\nΗ κατάσταση παραμένει ευαίσθητη και δεν είναι σαφές τι μέλλει γενέσθαι, ή ποιες ακριβώς θα είναι οι επόμενες ενέργειες των ΗΠΑ.",
+      "id": "0e974319f73d",
+      "title": "Κοπέρνικος: Το 2025 ήταν η τρίτη θερμότερη χρονιά στην Ιστορία",
+      "simpleTitle": "Κοπέρνικος: Το 2025 ήταν η τρίτη θερμότερη χρονιά στην Ιστορία",
+      "simpleText": "Τίτλος: Το 2025 ήταν η τρίτη θερμότερη χρονιά\n\nΕίναι γνωστό ότι το 2025 καταγράφηκε ως η τρίτη θερμότερη χρονιά στην ιστορία του πλανήτη. Αυτό αναφέρεται σε ανακοινώσεις του ευρωπαϊκού παρατηρητηρίου Copernicus. Ο μέσος όρος θερμοκρασίας της Γης τα τελευταία τρία χρόνια είναι πλέον πάνω από 1,5° Κελσίου σε σχέση με τα επίπεδα πριν από τη βιομηχανική εποχή, που ήταν από το 1850 έως το 1900.\n\nΑυτό το όριο των 1,5° Κελσίου είναι σημαντικό επειδή αποτελεί στόχο της Συμφωνίας του Παρισιού. Αυτή η συμφωνία προσπάθησε να περιορίσει την άνοδο της θερμοκρασίας και να προστατεύσει το περιβάλλον. Οι επιστήμονες προειδοποιούν ότι η υπέρβαση αυτού του ορίου μπορεί να φέρει πιο έντονες καύσωνες και πιο σφοδρές καταιγίδες.\n\nΗ κατάσταση είναι σοβαρή και απαιτεί προσοχή και δράση από όλες τις χώρες για να αποφευχθούν χειρότερες συνέπειες στο μέλλον.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/life/environment/564020401/kopernikos-to-2025-itan-i-triti-thermoteri-chronia-stin-istoria/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/life/environment/564020401/kopernikos-to-2025-itan-i-triti-thermoteri-chronia-stin-istoria/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/14/science-technology/klimatiko-kampanaki-to-2025-triti-thermoteri-xronia-pano-apo-to-orio-toy-15c/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά κλιματικά ζητήματα και τις συνέπειες της υπερθέρμανσης του πλανήτη, εστιάζοντας σε επιστημονικές ανακοινώσεις σχετικά με το κλίμα και τις προειδοποιήσεις για την κλιματική αλλαγή.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb1c24e1224194e67001d7ea3c794330d1ed25376097f5ea68f613ffb3e8e1f5e16ffb3fdc685a25c4f60245583ab350ca11f8ac4c01916ef10119ed4ca240ffd_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T06:01:16.000Z"
+    },
+    {
+      "id": "61567f860730",
+      "title": "Τραγωδία στην Ταϊλάνδη: Τουλάχιστον 22 νεκροί και 30 τραυματίες από κατάρρευση γερανού πάνω σε τρένο",
+      "simpleTitle": "Τραγωδία στην Ταϊλάνδη: Τουλάχιστον 22 νεκροί και 30 τραυματίες από κατάρρευση γερανού πάνω σε τρένο",
+      "simpleText": "Τίτλος: Γερανός κατέρρευσε πάνω σε τρένο στην Ταϊλάνδη – Τουλάχιστον 22 νεκροί\n\nΣτην Ταϊλάνδη, το πρωί της Τετάρτης, συνέβη σοβαρό ατύχημα όταν γερανός κατέρρευσε και έπεσε πάνω σε επιβατικό τρένο. Το ατύχημα σημειώθηκε στην περιοχή Σίκιο, περίπου 230 χιλιόμετρα βορειοανατολικά της πρωτεύουσας, Μπανγκόκ.\n\nΣύμφωνα με τις αρχές, τουλάχιστον 22 άνθρωποι έχασαν τη ζωή τους και πάνω από 30 τραυματίστηκαν. Το τρένο εκτελούσε δρομολόγιο από την Μπανγκόκ προς την επαρχία Ουμπόν Ρατσάτανι. Ο γερανός συμμετείχε σε έργα κατασκευής σιδηροδρόμου υψηλής ταχύτητας όταν κατέρρευσε τη στιγμή που το τρένο περνούσε, προκαλώντας εκτροχιασμό και φωτιά.\n\nΟι διασώσεις συνεχίζονται και οι αρχές ερευνούν τα αίτια της κατάρρευσης του γερανού. Είναι σημαντικό να επισημάνουμε ότι στην Ταϊλάνδη, τέτοια ατυχήματα συμβαίνουν συχνά, κυρίως λόγω των κανόνων ασφάλειας που δεν τηρούνται σωστά.",
+      "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-tailandi-toulaxiston-22-nekroi-kai-30-traymaties-apo-katarreysi-geranou-pano-se-treno/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr",
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-tailandi-toulaxiston-22-nekroi-kai-30-traymaties-apo-katarreysi-geranou-pano-se-treno/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564020359/tailandi-geranos-katerreyse-pano-se-treno-toylachiston-22-nekroi/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/14/world/tailandi-toylaxiston-22-nekroi-apo-sidirodromiko-dystyxima-meta-tin-katarreysi-geranoy/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/14/world/tragodia-stin-tailandi-geranos-epese-se-treno-toulaxiston-19-nekroi/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4050641/sidirodromiko-distichima-stin-tailandi-meta-apo-katarrefsi-geranou-22-i-nekri.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή tragédie που έλαβε χώρα στην Ταϊλάνδη με τουλάχιστον 22 θανάτους και πολλούς τραυματίες λόγω ενός βιομηχανικού ατυχήματος.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260114-SYNDESEIS-tailandi.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260114-SYNDESEIS-tailandi.jpg",
+      "publishedAt": "2026-01-14T05:43:26.000Z"
+    },
+    {
+      "id": "228001046272",
+      "title": "Καιρός: Γενικά αίθριος με άνοδο της θερμοκρασίας – Πότε επιστρέφουν οι βροχές",
+      "simpleTitle": "Καιρός: Γενικά αίθριος με άνοδο της θερμοκρασίας – Πότε επιστρέφουν οι βροχές",
+      "simpleText": "Ο καιρός είναι στην Ελλάδα γενικά καθαρός σήμερα, Τετάρτη 14 Ιανουαρίου 2026. Η θερμοκρασία θα φτάσει μέχρι τους 17 βαθμούς Κελσίου, με ορισμένες περιοχές να έχουν περισσότερες νεφώσεις. Το πρωί, θα υπάρχει παγετός σε κάποιες περιοχές, κυρίως στα ηπειρωτικά.\n\nΟι άνεμοι θα πνέουν από τα δυτικά, με ένταση 3 έως 5 μποφόρ. Στα νότια, το πρωί οι άνεμοι μπορεί να φτάσουν τους 6 μποφόρ. Σήμερα, η ορατότητα είναι περιορισμένη, ειδικά στα δυτικά, λόγω ομίχλης.\n\nΑπό αύριο, Πέμπτη 15 Ιανουαρίου, οι θερμοκρασίες θα συνεχίσουν να ανεβαίνουν και μπορεί να φτάσουν τους 18 βαθμούς στα νότια. Μέχρι το Σάββατο, όμως, ο καιρός αναμένεται να αλλάξει, με πιθανότητα βροχών, κυρίως στο Ιόνιο και την Κρήτη.\n\nΑυτές οι αλλαγές στον καιρό είναι σημαντικές, καθώς μπορεί να επηρεάσουν τις δραστηριότητες και την καθημερινότητα των ανθρώπων.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/society/564020389/kairos-genika-aithrios-me-anodo-tis-thermokrasias-pote-epistrefoyn-oi-vroches/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564020389/kairos-genika-aithrios-me-anodo-tis-thermokrasias-pote-epistrefoyn-oi-vroches/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/14/greece/kairos-genika-aithrios-simera-pagetos-to-proi-anodos-tis-thermokrasias/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την πρόγνωση του καιρού, περιλαμβάνοντας πληροφορίες για τη θερμοκρασία, τους ανέμους και τις πιθανές βροχές, η οποία είναι σημαντική για τις καθημερινές δραστηριότητες των ανθρώπων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-14T05:33:27.000Z"
+    },
+    {
+      "id": "c73ca448100b",
+      "title": "Μαρία Καρυστιανού: Παραιτείται από το Δ.Σ. του Συλλόγου Συγγενών Θυμάτων των Τεμπών",
+      "simpleTitle": "Μαρία Καρυστιανού: Παραιτείται από το Δ.Σ. του Συλλόγου Συγγενών Θυμάτων των Τεμπών",
+      "simpleText": "Η Μαρία Καρυστιανού ανακοινώνει την παραίτησή της από το Διοικητικό Συμβούλιο του Συλλόγου Συγγενών Θυμάτων των Τεμπών. Η παραίτηση αυτή έγινε γνωστή μέσω μιας ανάρτησης, στην οποία αναφέρει ότι επικρατεί διχασμός μέσα στον Σύλλογο.\n\nΗ κατάσταση στο Σύλλογο έχει γίνει δύσκολη, καθώς η Καρυστιανού καταγγέλλει άλλα μέλη για παρατυπίες. Το ακριβές περιεχόμενο αυτών των παρατυπιών δεν έχει διευκρινιστεί, ούτε έχει αναφερθεί πώς αυτές σχετίζονται με τις πολιτικές της φιλοδοξίες.\n\nΑυτή η εξέλιξη είναι σημαντική, γιατί ο Σύλλογος έχει παίξει βασικό ρόλο στο κίνημα που προήλθε από την τραγωδία στα Τέμπη. Η αποχώρηση της Καρυστιανού μπορεί να επηρεάσει τις δράσεις του Συλλόγου στο μέλλον.",
       "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-i-voitheia-erxetai/",
+      "sourceUrl": "https://www.tovima.gr/2026/01/13/society/maria-karystianou-paraiteitai-apo-ton-syllogo-syggenon-thymaton-ton-tempon/",
       "sourceDomains": [
         "tovima.gr",
         "protagon.gr"
@@ -81,200 +259,27 @@
       "sources": [
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-i-voitheia-erxetai/"
+          "url": "https://www.tovima.gr/2026/01/13/society/maria-karystianou-paraiteitai-apo-ton-syllogo-syggenon-thymaton-ton-tempon/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/trab-se-iranous-synexiste-tis-diadilwseis-erxetai-voitheia-44343292389"
+          "url": "https://www.protagon.gr/epikairotita/maria-karystianou-apoxwrei-kataggellontas-apo-to-ds-tou-syllogou-thymatwn-tebwn-44343292618"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά πολιτικά ζητήματα, όπως οι διαδηλώσεις κατά του ιρανικού καθεστώτος και η παρέμβαση του Τραμπ, που έχει σημαντικές κοινωνικές και γεωπολιτικές επιπτώσεις.",
+      "categoryReason": "Η παραίτηση της Μαρίας Καρυστιανού από το Δ.Σ. του Συλλόγου Συγγενών Θυμάτων των Τεμπών αφορά σοβαρά ζητήματα του Συλλόγου και καταγγελίες για παρατυπίες, συνδέεται με κοινωνικά ζητήματα και έχει πολιτικές προεκτάσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-13T15:08:23.000Z"
+      "publishedAt": "2026-01-14T05:31:21.000Z"
     },
     {
-      "id": "78db69bc2302",
-      "title": "Πρωθυπουργός Γροιλανδίας: Παραμένουμε με τη Δανία, «όχι» στις ΗΠΑ",
-      "simpleTitle": "Πρωθυπουργός Γροιλανδίας: Παραμένουμε με τη Δανία, «όχι» στις ΗΠΑ",
-      "simpleText": "Ο Πρωθυπουργός της Γροιλανδίας, Γενς-Φρέντερικ Νίλσεν, δήλωσε ότι η χώρα του επιλέγει να παραμείνει κοντά στη Δανία και όχι στις Ηνωμένες Πολιτείες. Αυτή η δήλωση έγινε σε συνέντευξη τύπου την ημέρα της επίσκεψής του στην Κοπεγχάγη.\n\nΟ Νίλσεν τόνισε ότι η Γροιλανδία δεν θέλει να ανήκει στις ΗΠΑ ή να είναι υπό τον έλεγχό τους. Αναφέρθηκε μάλιστα στις προσπάθειες του πρόεδρου Τραμπ να αποκτήσει το νησί, κάτι που η κυβέρνηση της Γροιλανδίας απορρίπτει. Ο Πρωθυπουργός επεσήμανε ότι βρίσκονται σε μια γεωπολιτική κρίση και επιβεβαίωσε τη δέσμευση της Γροιλανδίας προς τη Δανία.\n\nΗ δήλωση αυτή είναι σημαντική γιατί δείχνει τις πολιτικές προτιμήσεις της Γροιλανδίας σε μια περίοδο αυξανόμενων πιέσεων και εντάσεων.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564019144/prothypoyrgos-groilandias-dilaegoyme-ti-dania-ochi-tis-ipa/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564019144/prothypoyrgos-groilandias-dilaegoyme-ti-dania-ochi-tis-ipa/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/world/prothypoyrgos-groilandias-epilegoyme-ti-dania-enanti-ton-ipa/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά πολιτική απόφαση της Γροιλανδίας σχετικά με τη σχέση της με τη Δανία και τις ΗΠΑ, σε ένα πλαίσιο γεωπολιτικής κρίσης, υποδεικνύοντας σοβαρές διεθνείς σχέσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-13T15:07:32.000Z"
-    },
-    {
-      "id": "307899c174e1",
-      "title": "Φον ντερ Λάιεν: Αμεσα κυρώσεις κατά του Ιράν, τρομακτικός ο αριθμός των θυμάτων",
-      "simpleTitle": "Φον ντερ Λάιεν: Αμεσα κυρώσεις κατά του Ιράν, τρομακτικός ο αριθμός των θυμάτων",
-      "simpleText": "Η πρόεδρος της Ευρωπαϊκής Επιτροπής, Ούρσουλα φον ντερ Λάιεν, ανακοίνωσε ότι η Ευρωπαϊκή Ένωση θα επιβάλει άμεσες κυρώσεις κατά του Ιράν. Ο αριθμός των θυμάτων λόγω της βίας και της καταστολής των ελευθεριών στη χώρα είναι τρομακτικός.\n\nΗ φον ντερ Λάιεν καταδίκασε αυτή την υπερβολική βία και τον περιορισμό της ελευθερίας των πολιτών. Επισήμανε ότι οι κυρώσεις θα στραφούν εναντίον όσων είναι υπεύθυνοι για την καταστολή. Αυτή η κίνηση δείχνει την ανησυχία της Ευρωπαϊκής Ένωσης για την κατάσταση στο Ιράν και την ανάγκη να προστατευθούν τα ανθρώπινα δικαιώματα.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/world/564019129/fon-nter-laien-amesa-kyroseis-kata-toy-iran-tromaktikos-o-arithmos-ton-thymaton/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564019129/fon-nter-laien-amesa-kyroseis-kata-toy-iran-tromaktikos-o-arithmos-ton-thymaton/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/fon-nter-laien-tromaktikos-o-arithmos-twn-thymatwn-sto-iran-nees-kyrwseis-apo-ee-44343292374"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η δήλωση της Ούρσουλας φον ντερ Λάιεν αναφέρεται σε σοβαρές κοινωνικές και πολιτικές κρίσεις, όπως η βία και οι παραβιάσεις των ανθρωπίνων δικαιωμάτων στο Ιράν, και επισημαίνει την απόφαση της ΕΕ να επιβάλει κυρώσεις, γεγονός που συνδέεται με μεγάλα διεθνή ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-13T15:07:26.000Z"
-    },
-    {
-      "id": "a779822262be",
-      "title": "Λάρισα: Αγρότες του μπλόκου της Νίκαιας απέκλεισαν την παλαιά εθνική οδό",
-      "simpleTitle": "Λάρισα: Αγρότες του μπλόκου της Νίκαιας απέκλεισαν την παλαιά εθνική οδό",
-      "simpleText": "Οι αγρότες από το μπλόκο της Νίκαιας στη Λάρισα διακόπτουν την κυκλοφορία στην παλαιά εθνική οδό. Το γεγονός συνέβη σήμερα, από τις 3 έως τις 6 το απόγευμα, στο ύψος του Πλατυκάμπου. Οι αγρότες πραγματοποιούν αυτή τη δράση για να ενισχύσουν τις κινητοποιήσεις τους. Είναι σημαντικό, γιατί δείχνει τις ανησυχίες τους για θέματα που αφορούν τον αγροτικό τομέα. Δεν υπάρχουν πληροφορίες για το τι θα συμβεί στη συνέχεια.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564019159/larisa-agrotes-toy-mplokoy-tis-nikaias-apekleisan-tin-palaia-ethniki-odo/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564019159/larisa-agrotes-toy-mplokoy-tis-nikaias-apekleisan-tin-palaia-ethniki-odo/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4050333/apeklisan-gia-tris-ores-tin-palea-ethniki-odo-i-agrotes-tou-blokou-tis-nikeas.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις κινητοποιήσεις αγροτών, που είναι σοβαρό κοινωνικό ζήτημα που σχετίζεται με τον αγροτικό τομέα και την πολιτική.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-13T15:03:56.000Z"
-    },
-    {
-      "id": "7e1a6ec628ba",
-      "title": "Κοζάνη: Κυκλοφοριακές ρυθμίσεις στην Εγνατία Οδό",
-      "simpleTitle": "Κοζάνη: Κυκλοφοριακές ρυθμίσεις στην Εγνατία Οδό",
-      "simpleText": "**Απλό Κείμενο για Κυκλοφοριακές Ρυθμίσεις στην Κοζάνη**\n\nΣτην περιοχή της Κοζάνης, έχουν γίνει κάποιες αλλαγές στην κυκλοφορία. Η Αστυνομία της Δυτικής Μακεδονίας ανακοίνωσε ότι επιτρέπεται ξανά η κυκλοφορία των φορτηγών που ζυγίζουν πάνω από 3,5 τόνους στην Εθνική Οδό Κοζάνης-Ιωαννίνων. Αυτό σημαίνει ότι τα μεγάλα φορτηγά μπορούν να κινούνται από τον Α/Κ Καλαμιάς μέχρι τον Α/Κ Μικροκάστρου.\n\nΩστόσο, δεν επιτρέπεται ακόμη η κυκλοφορία στην Εγνατία Οδό από τον Α/Κ Καλαμιάς έως τον Α/Κ Δυτικής Σιάτιστας. Οι οδηγοί πρέπει να χρησιμοποιούν εναλλακτικές διαδρομές.\n\nΓια τους οδηγούς που πηγαίνουν από Θεσσαλονίκη προς Ιωάννινα, πρέπει να εκτρέπονται στην Ε.Ο. Κοζάνης-Ιωαννίνων και να συνεχίζουν μέσω του κάθετου άξονα Α-29 για να επιστρέψουν στην Εγνατία Οδό. Αντίστοιχα, οι οδηγοί που έρχονται από Ιωάννινα προς Θεσσαλονίκη θα ακολουθούν παρόμοια διαδρομή.\n\nΑυτές οι ρυθμίσεις είναι σημαντικές για την ομαλή ροή της κυκλοφορίας στην περιοχή.",
-      "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2026/01/13/greece/kozani-kykloforiakes-rythmiseis-stin-egnatia-odo/",
-      "sourceDomains": [
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/greece/kozani-kykloforiakes-rythmiseis-stin-egnatia-odo/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4050319/kikloforiakes-rithmisis-stin-egnatia-odo.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε κυκλοφοριακές ρυθμίσεις που αφορούν την ασφάλεια και τη ροή της κυκλοφορίας στην περιοχή της Κοζάνης, κάτι που εμπίπτει σε σοβαρά ζητήματα υποδομών και δημόσιας ασφάλειας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-13T14:26:04.000Z"
-    },
-    {
-      "id": "5bb2ff163a50",
-      "title": "Νότια Κορέα: Θανατική ποινή η εισήγηση της εισαγγελίας για τον πρώην πρόεδρο Γιουν Σουκ Γέολ",
-      "simpleTitle": "Νότια Κορέα: Θανατική ποινή η εισήγηση της εισαγγελίας για τον πρώην πρόεδρο Γιουν Σουκ Γέολ",
-      "simpleText": "Τίτλος: Θανατική ποινή για τον πρώην πρόεδρο Γιουν Σουκ Γέολ στη Νότια Κορέα\n\nΗ εισαγγελία στη Νότια Κορέα προτείνει θανατική ποινή για τον πρώην πρόεδρο Γιουν Σουκ Γέολ. Αυτό συμβαίνει λόγω κατηγοριών που σχετίζονται με εξέγερση, η οποία θεωρείται σοβαρό έγκλημα στη χώρα.\n\nΗ Νότια Κορέα έχει νόμους που προβλέπουν τη θανατική ποινή για τέτοιες περιπτώσεις. Ωστόσο, δεν έχουν γίνει εκτελέσεις στην χώρα εδώ και πολλές δεκαετίες. Η περίπτωση του Γιουν Σουκ Γέολ είναι σημαντική καθώς φέρνει ξανά στη συζήτηση το θέμα της θανατικής ποινής και της ποινικής δικαιοσύνης στη Νότια Κορέα.\n\nΠρος το παρόν, οι λεπτομέρειες της υπόθεσης και οι εξελίξεις δεν είναι όλες γνωστές.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564019120/notia-korea-thanatiki-poini-i-eisigisi-tis-eisaggelias-gia-ton-proin-proedro-gioyn-soyk-geol/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564019120/notia-korea-thanatiki-poini-i-eisigisi-tis-eisaggelias-gia-ton-proin-proedro-gioyn-soyk-geol/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/13/world/thanatiki-poini-gia-ton-proin-proedro-tis-notias-koreas-gioun-souk-geol-zitoun-eisaggeleis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές νομικές συνέπειες για τον πρώην πρόεδρο της Νότιας Κορέας και θίγει ζητήματα ποινικής δικαιοσύνης και ανθρώπινων δικαιωμάτων, γεγονός που την καθιστά σοβαρή.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g5e91acf41127b01d35144c38e3ee876db1b782b51cbe4d87cbdd817e962e281416d6b9cb843fa7a2e0df8495aff7cdd27d0ba34edfba9f53b112598f606a6e0d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-13T14:12:45.000Z"
-    },
-    {
-      "id": "67a37ab91c11",
-      "title": "Μητσοτάκης σε αγρότες: Να εξετάσουμε τι περιθώρια βελτίωσης υπάρχουν",
-      "simpleTitle": "Μητσοτάκης σε αγρότες: Να εξετάσουμε τι περιθώρια βελτίωσης υπάρχουν",
-      "simpleText": "Τίτλος: Μητσοτάκης σε αγρότες: Να δούμε πώς μπορούμε να βελτιωθούμε\n\nΟ Πρωθυπουργός Κυριάκος Μητσοτάκης συναντήθηκε με εκπροσώπους των αγροτών στο Μέγαρο Μαξίμου. Η συνάντηση έγινε με σκοπό να συζητηθούν τα προβλήματα του πρωτογενούς τομέα, δηλαδή των αγροτικών δραστηριοτήτων στη χώρα. Ο Πρωθυπουργός τόνισε ότι είναι σημαντικό να εξετάσουν όλοι μαζί πώς μπορούν να βελτιωθούν οι λύσεις που έχουν προταθεί.\n\nΕπίσης, ανέφερε πως στους διαλόγους συμμετέχουν μόνο οι άνθρωποι που ενδιαφέρονται να συμμετάσχουν, αφήνοντας υπονοούμενα για εκείνους που δεν συμμετείχαν στη συζήτηση. Ο Μητσοτάκης επισήμανε την ανάγκη για μια πιο ουσιαστική συζήτηση που θα εξετάσει όχι μόνο άμεσα ζητήματα, αλλά και το μέλλον του αγροτικού τομέα.\n\nΕίναι σημαντικό γιατί αφορά πολλούς ανθρώπους που εργάζονται στον τομέα της γεωργίας και επηρεάζει την καθημερινότητά τους. Στην συνάντηση συμμετείχαν και υπουργοί της κυβέρνησης που σχετίζονται με την αγροτική ανάπτυξη. Ωστόσο, δεν υπάρχουν περισσότερες λεπτομέρειες για τις προτάσεις που κατατέθηκαν.",
-      "sourceName": "Kathimerini, TA NEA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564019105/mitsotakis-se-agrotes-na-exetasoyme-ti-perithoria-veltiosis-yparchoyn/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564019105/mitsotakis-se-agrotes-na-exetasoyme-ti-perithoria-veltiosis-yparchoyn/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/politics/mitsotakis-se-agrotes-na-doume-ti-perithoria-veltiosis-yparxoun-tis-ekselikseis-diamorfonoun-oi-parontes-kai-oxi-oi-apontes/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4050311/mitsotakis-stous-agrotes-tis-exelixis-tis-diamorfonoun-i-parontes-ke-ochi-i-apontes.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη συνάντηση του Πρωθυπουργού με αγρότες και τη συζήτηση σοβαρών ζητημάτων που αφορούν τον πρωτογενή τομέα της χώρας, με ζητήματα που επηρεάζουν την οικονομία και την καθημερινότητα πολλών ανθρώπων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dfnietaxhkft",
-      "publishedAt": "2026-01-13T14:08:06.000Z"
-    },
-    {
-      "id": "ddd5276c15d4",
-      "title": "Ουκρανία: Τέσσερις νεκροί από ρωσικά πλήγματα – Διακοπές ηλεκτροδότησης εν μέσω χαμηλών θερμοκρασιών",
-      "simpleTitle": "Ουκρανία: Τέσσερις νεκροί από ρωσικά πλήγματα – Διακοπές ηλεκτροδότησης εν μέσω χαμηλών θερμοκρασιών",
-      "simpleText": "**Απλό θέμα: Πλήγματα στη Ουκρανία με θύματα και διακοπές ηλεκτρικού ρεύματος**\n\nΤις τελευταίες ημέρες, η Ρωσία πραγματοποίησε επιθέσεις σε πολλές πόλεις της Ουκρανίας. Οι επιθέσεις έγιναν τη νύχτα και περιλάμβαναν πυραύλους και μη επανδρωμένα αεροσκάφη, γνωστά ως drones. Από αυτές τις επιθέσεις, τουλάχιστον τέσσερις άνθρωποι έχασαν τη ζωή τους και πολλοί άλλοι τραυματίστηκαν.\n\nΗ Ουκρανία αντιμετωπίζει πολύ χαμηλές θερμοκρασίες, περίπου -13 βαθμούς Κελσίου, γεγονός που καθιστά τις διακοπές ρεύματος και θέρμανσης επικίνδυνες για τους πολίτες. Ο πρόεδρος της Ουκρανίας, Βολοντίμιρ Ζελένσκι, δήλωσε ότι οι επιθέσεις στοχεύουν σε βασικές δομές ενέργειας, προκαλώντας σοβαρές ζημιές.\n\nΠολλές περιοχές, όπως το Κίεβο, η Οδησσός και ο Χάρκοβος, έχουν πληγεί. Οι υπηρεσίες ενέργειας προσπαθούν να αποκαταστήσουν τη λειτουργία του ηλεκτρικού ρεύματος, αλλά οι επιθέσεις συνεχίζονται. Οι Ουκρανοί αξιωματούχοι προειδοποιούν ότι αυτός ο χειμώνας μπορεί να είναι ο πιο δύσκολος λόγω των συνθηκών.\n\nΑυτή η κατάσταση είναι σημαντική γιατί δείχνει την επίδραση του πολέμου στους πολίτες και τις υποδομές. Η στήριξη προς την Ουκρανία είναι κρίσιμη σε αυτές τις δύσκολες στιγμές.",
+      "id": "0a9fe513383a",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 14 Ιανουαρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 14 Ιανουαρίου",
+      "simpleText": "Σήμερα, 14 Ιανουαρίου, σύμφωνα με το εορτολόγιο, γιορτάζει η Αγία Νίνα. Αυτή είναι μια γιορτή που γιορτάζουν οι άνθρωποι που έχουν το όνομα Νίνα.\n\nΗ Αγία Νίνα γεννήθηκε στην Καππαδοκία, περιοχή στην Τουρκία, και ήταν σημαντική για την ιστορία της Γεωργίας. Ο πατέρας της ήταν στρατιωτικός και η μητέρα της διακόνισσα σε ναό. Η Αγία Νίνα ήθελε να κηρύξει το Ευαγγέλιο του Χριστού και πήγε στην Ιβηρία (σημερινή Γεωργία) γύρω στον 3ο αιώνα.\n\nΣτην Ιβηρία, η Αγία Νίνα βοήθησε να γνωρίσουν οι άνθρωποι τον Χριστό και ίδρυσε έναν ναό. Η ζωή και οι πράξεις της την κατέστησαν σημαντική μορφή στην χριστιανική πίστη. Το σώμα της, λέγεται, ότι παρέμεινε άφθαρτο μετά τον θάνατο της.\n\nΑυτή η γιορτή έχει σημασία για πολλούς ανθρώπους, καθώς συνδέει την πίστη με την ιστορία.",
       "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/oukrania-tesseris-nekroi-apo-rosika-pligmata-diakopes-ilektrodotisis-en-meso-xamilon-thermokrasion/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-14-ianouariou-2/",
       "sourceDomains": [
         "ertnews.gr",
         "tanea.gr"
@@ -282,53 +287,71 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/oukrania-tesseris-nekroi-apo-rosika-pligmata-diakopes-ilektrodotisis-en-meso-xamilon-thermokrasion/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-14-ianouariou-2/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/world/oykrania-toylaxistin-tesseris-nekroi-apo-rosika-pligmata-diakopes-se-ilektrodotisi-kai-the/"
+          "url": "https://www.tanea.gr/2026/01/14/greece/eortologio-poioi-giortazoun-simera-14-ianouariou/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές ανθρωπιστικές κρίσεις και επιπτώσεις από ρωσικά πλήγματα στην Ουκρανία, περιλαμβάνοντας θύματα και διακοπές ηλεκτροδότησης σε επικίνδυνες καιρικές συνθήκες.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αναφέρεται στην εορτή της Αγίας Νίνας και την πολιτιστική σημασία της γιορτής, συνδέοντάς την με την ιστορία και την πίστη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-13T13:36:57.000Z"
+      "publishedAt": "2026-01-14T05:05:20.000Z"
     },
     {
-      "id": "df0fd1051c70",
-      "title": "Επίδομα Παιδιού: Πότε λήγει η προθεσμία υποβολής αιτήσεων για το Α21",
-      "simpleTitle": "Επίδομα Παιδιού: Πότε λήγει η προθεσμία υποβολής αιτήσεων για το Α21",
-      "simpleText": "Τίτλος: Προθεσμία για το Επίδομα Παιδιού\n\nΗ προθεσμία για την υποβολή αιτήσεων για το Επίδομα Παιδιού (Α21) λήγει στις 15 Ιανουαρίου. Οι γονείς που ενδιαφέρονται πρέπει να ελέγξουν την κατάσταση της αίτησής τους. Εάν χρειάζονται διορθώσεις, πρέπει να τις κάνουν πριν από την ημερομηνία αυτή. Μετά την 15η Ιανουαρίου, δεν θα είναι δυνατή η υποβολή ή η αλλαγή αιτήσεων. Είναι σημαντικό για τις οικογένειες να προγραμματίσουν εγκαίρως τις ενέργειές τους, καθώς το επίδομα αυτό βοηθά οικονομικά τις οικογένειες με παιδιά.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/economy/564019051/epidoma-paidioy-pote-ligei-i-prothesmia-ypovolis-aitiseon-gia-to-a21/",
+      "id": "278f9ceae9cb",
+      "title": "Άννα Βίσση: Η συλλεκτική Rainbow Collection γιορτάστηκε στα Public με ένα ξεχωριστό Meet & Greet",
+      "simpleTitle": "Άννα Βίσση: Η συλλεκτική Rainbow Collection γιορτάστηκε στα Public με ένα ξεχωριστό Meet & Greet",
+      "simpleText": "Η Άννα Βίσση παρουσίασε τη συλλεκτική σειρά βινυλίων «Rainbow Collection» σε εκδήλωση που έγινε στα Public. Η εκδήλωση συνέβη στις 12 Ιανουαρίου 2025, στο κατάστημα της Αθήνας, στο Σύνταγμα.\n\nΠολλοί θαυμαστές έδωσαν το παρόν και είχαν την ευκαιρία να την γνωρίσουν από κοντά. Η βραδιά ήταν γεμάτη συναίσθημα και μουσική. Αυτή η εκδήλωση είναι σημαντική γιατί γιορτάζει την καριέρα της Άννας Βίσση και τη σύνδεσή της με το κοινό.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/30887-anna-vissi-rainbow-collection-public/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/564019051/epidoma-paidioy-pote-ligei-i-prothesmia-ypovolis-aitiseon-gia-to-a21/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/oikonomia/article/4050303/ligi-stis-15-1-i-prothesmia-gia-tin-ipovoli-etiseon-gia-to-a21-epidoma-pediou.html"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/30887-anna-vissi-rainbow-collection-public/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την προθεσμία υποβολής αιτήσεων για το Επίδομα Παιδιού, ένα σημαντικό κοινωνικό ζήτημα που σχετίζεται με την οικονομική στήριξη οικογενειών.",
+      "category": "culture",
+      "categoryReason": "Η εκδήλωση αφορά την παρουσίαση μιας συλλεκτικής σειράς βινυλίων από την Άννα Βίσση και περιλαμβάνει μουσική και πολιτιστικές στιγμές, γεγονός που την κατατάσσει στην κατηγορία του πολιτισμού.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g81b8c54eeffffedfbfad849fb58946f31c7ea708d58743d47ac430b72d7cc9cf182793c4c3c427da214e4ff7f66921735fed4b803db6a804278eafe98ce48e34_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-01-13T13:20:58.000Z"
+      "publishedAt": "2026-01-13T18:32:00.000Z"
+    },
+    {
+      "id": "19457b028660",
+      "title": "Ζάμπρας και Πασπάτης ανεβαίνουν μαζί στη σκηνή για stand up comedy χωρίς φίλτρα",
+      "simpleTitle": "Ζάμπρας και Πασπάτης ανεβαίνουν μαζί στη σκηνή για stand up comedy χωρίς φίλτρα",
+      "simpleText": "Δύο κωμικοί παρουσιάζουν νέα παράσταση\n\nΟ Θωμάς Ζάμπρας και ο Ανδρέας Πασπάτης αποφάσισαν να συνεργαστούν για μία νέα παράσταση stand up comedy. Η παράσταση θα περιλαμβάνει υλικό που οι ίδιοι δεν γνωρίζουν αν θα είναι αστείο. Αυτό κάνει την εμπειρία πιο αυθεντική και ενδιαφέρουσα.\n\nΗ εκδήλωση θα γίνει σε μία σκηνή όπου το κοινό θα συμμετέχει σε ένα πείραμα γέλιου. Οι κωμικοί ελπίζουν να προσφέρουν μία ξεχωριστή βραδιά, γεμάτη εκπλήξεις. Αυτό είναι σημαντικό γιατί οι θεατές θα έχουν την ευκαιρία να δουν κάτι καινούριο και διαφορετικό.\n\nΗ ημερομηνία και ο χώρος της παράστασης δεν έχουν ανακοινωθεί μέχρι στιγμής.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/30890-zampra-paspatis-stand-up-comedy-arch-club/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/30890-zampra-paspatis-stand-up-comedy-arch-club/"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η είδηση αφορά μια κωμική παράσταση με αβέβαιο υλικό και διαδραστική συμμετοχή του κοινού, που προάγει την διασκέδαση και την ψυχαγωγία.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gbfdce8844ec2e45bb64ee34dee780dbda7356e4f72506d1a7b5e3feab7753833fce3e445699694118b251539519ac2dd388fcc4ef655d20b366212e374309ccc_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-13T17:18:46.000Z"
     },
     {
       "id": "16ad30618239",
       "title": "Οι 7 υψηλότερες κορυφές του κόσμου: Η απόλυτη πρόκληση της ορειβασίας",
       "simpleTitle": "Οι 7 υψηλότερες κορυφές του κόσμου: Η απόλυτη πρόκληση της ορειβασίας",
-      "simpleText": "Τίτλος: Οι 7 υψηλότερες κορυφές του κόσμου: Μια μεγάλη πρόκληση για ορειβάτες\n\nΗ είδηση αναφέρεται στις 7 πληρέστερες κορυφές που υπάρχουν σε κάθε ήπειρο και θεωρούνται στόχοι για πολλούς ορειβάτες στον κόσμο. Αυτές οι κορυφές είναι πολύ ψηλές και απαιτούν σωματική αντοχή, ψυχική δύναμη και κατάλληλη προετοιμασία.\n\nΤο Όρος Έβερεστ, που είναι η ψηλότερη κορυφή, βρίσκεται στην Ασία και απαιτεί εβδομάδες ορειβασίας. Εδώ οι ορειβάτες αντιμετωπίζουν έλλειψη οξυγόνου και κινδύνους όπως οι χιονοστιβάδες. Το Aconcagua στην Αργεντινή είναι το ψηλότερο βουνό εκτός Ασίας, αλλά οι αντίξοες καιρικές συνθήκες το καθιστούν επικίνδυνο.\n\nΤο Denali στην Αλάσκα είναι δύσκολο και οι ορειβάτες πρέπει να είναι πλήρως αυτόνομοι. Το Κιλιμάντζαρο στην Αφρική είναι δημοφιλές, αλλά η γρήγορη άνοδος μπορεί να προκαλέσει ασθένεια. Το Όρος Έλμπρους στη Ρωσία και το Όρος Βίνσον στην Ανταρκτική έχουν επίσης τις δικές τους προκλήσεις.\n\nΗ ανάβαση σε αυτές τις κορυφές είναι σημαντική γιατί απαιτεί προσήλωση, επιμονή και καλή προετοιμασία. Οι ορειβάτες πρέπει να είναι προσεκτικοί και ενημερωμένοι για τους κινδύνους που τους περιμένουν.",
+      "simpleText": "**Απλοποιημένος τίτλος: Οι 7 πιο ψηλές κορυφές του κόσμου και οι προκλήσεις τους**\n\nΟι 7 πιο ψηλές κορυφές του κόσμου είναι μεγάλοι στόχοι για τους ορειβάτες. Αυτές οι κορυφές βρίσκονται σε κάθε ήπειρο και η ανάβασή τους είναι πολύ δύσκολη. Απαιτούν καλή φυσική κατάσταση, ψυχική αντοχή και εμπειρία σε δύσκολες καιρικές συνθήκες.\n\nΗ πρώτη και πιο γνωστή κορυφή είναι το Όρος Έβερεστ, που βρίσκεται στα Ιμαλάια, Ανάμεσα στο Νεπάλ και το Θιβέτ. Είναι ψηλότερη από 8.000 μέτρα. Η ανάβαση διαρκεί 6 έως 9 εβδομάδες και έχει πολλές δυσκολίες, όπως η λεγόμενη «ζώνη θανάτου», όπου το οξυγόνο είναι λιγότερο και οι ορειβάτες δυσκολεύονται να αναπνεύσουν.\n\nΗ δεύτερη κορυφή είναι το Aconcagua στην Αργεντινή, που είναι σχεδόν 7.000 μέτρα ψηλή. Αν και κάποιοι το θεωρούν εύκολο, οι πολύ χαμηλές θερμοκρασίες και οι δυνατοί άνεμοι κάνουν την ανάβαση δύσκολη.\n\nΗ τρίτη είναι το Denali στην Αλάσκα, που για πολλούς είναι η πιο απαιτητική από τις 7 κορυφές. Το υψόμετρο είναι μεγάλο και οι συνθήκες είναι πολύ κρύες και δύσκολες.\n\nΤο Κιλιμάντζαρο στην Αφρική είναι διαφορετικό. Είναι προσβάσιμο σε αρχάριους, αλλά οι γρήγορες αλλαγές στο υψόμετρο μπορούν να προκαλέσουν προβλήματα.\n\nΤο Όρος Έλμπρους στη Ρωσία είναι η υψηλότερη κορυφή στην Ευρώπη, ενώ το Όρος Βίνσον στην Ανταρκτική είναι πολύ απομονωμένο και έχει πολύ χαμηλές θερμοκρασίες.\n\nΑυτές οι κορυφές είναι σημαντικές γιατί αποτελούν προκλήσεις για τους ορειβάτες σε όλο τον κόσμο. Κάθε χρόνο, πολλοί προσπαθούν να τις κατακτήσουν, αλλά οι κίνδυνοι είναι μεγάλοι.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30860-7-summits-oi-efta-ipsiloteres-korifes/",
       "sourceDomains": [
@@ -340,8 +363,8 @@
           "url": "https://thehappynews.gr/30860-7-summits-oi-efta-ipsiloteres-korifes/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με τις άκρως επικίνδυνες ορειβασίες στις 7 υψηλότερες κορυφές του κόσμου, επισημαίνοντας κινδύνους και απαιτήσεις, που την καθιστούν σοβαρή.",
+      "category": "sports",
+      "categoryReason": "Το άρθρο αναφέρεται στις 7 υψηλότερες κορυφές του κόσμου, εστιάζοντας στις προκλήσεις που αντιμετωπίζουν οι ορειβάτες κατά την ανάβασή τους, κάτι που συνδέεται άμεσα με τον αθλητισμό και την ορειβασία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -351,7 +374,7 @@
       "id": "1be590dce560",
       "title": "Μαρκ Ράφαλο: Σκληρή πολιτική τοποθέτηση στις Χρυσες Σφαίρες πριν την τελετή",
       "simpleTitle": "Μαρκ Ράφαλο: Σκληρή πολιτική τοποθέτηση στις Χρυσες Σφαίρες πριν την τελετή",
-      "simpleText": "Ο Μαρκ Ράφαλο εξέφρασε σκληρές απόψεις πριν από την τελετή των Χρυσών Σφαιρών. Στο κόκκινο χαλί, ο διάσημος ηθοποιός μίλησε για θέματα που τον ανησυχούν πολύ στις Ηνωμένες Πολιτείες. Είπε ότι είναι σημαντικό να μιλάμε για αυτά τα προβλήματα και να μην τα αγνοούμε. Οι δηλώσεις του προκάλεσαν πολλές αντιδράσεις. Είναι σημαντικό γιατί δείχνει ότι οι καλλιτέχνες μπορούν να χρησιμοποιήσουν τη δημόσια πλατφόρμα τους για να αναδείξουν σοβαρά ζητήματα.",
+      "simpleText": "Τίτλος: Μαρκ Ράφαλο: Δυνατό μήνυμα πριν τις Χρυσές Σφαίρες\n\nΟ ηθοποιός Μαρκ Ράφαλο στην εκδήλωση των Χρυσών Σφαιρών, εξέφρασε την πολιτική του θέση πριν την τελετή. Μίλησε για πράγματα που τον ανησυχούν στην Αμερική. Η δήλωσή του προκάλεσε αντιδράσεις. Είπε ότι είναι σημαντικό να μιλάμε ανοιχτά για αυτά τα θέματα. Ο Ράφαλο ήθελε να δείξει ότι οι άνθρωποι δεν πρέπει να τα αγνοούν. Αυτή η στάση του είναι σημαντική, γιατί καλεί για συζήτηση γύρω από σοβαρά ζητήματα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30850-mark-rafaelo-xryses-sfaires-tramp-diloseis/",
       "sourceDomains": [
@@ -364,7 +387,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η δήλωση του Μαρκ Ράφαλο επικεντρώνεται σε σοβαρά κοινωνικά και πολιτικά ζητήματα, υπογραμμίζοντας την ανάγκη να μην αγνοούνται αυτά τα θέματα, γεγονός που τονίζει τη σοβαρότητα της τοποθέτησής του.",
+      "categoryReason": "Η δήλωση του Μαρκ Ράφαλο αφορά σοβαρά πολιτικά και κοινωνικά ζητήματα στην Αμερική, που προκαλούν ανησυχία και απαιτούν δημόσιο διάλογο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -374,7 +397,7 @@
       "id": "7b4814dada23",
       "title": "Ασφάλιστρα ενός δισεκατομμυρίου για ένα έργο τέχνης χιλίων ετών",
       "simpleTitle": "Ασφάλιστρα ενός δισεκατομμυρίου για ένα έργο τέχνης χιλίων ετών",
-      "simpleText": "Τίτλος: Ασφάλιστρα ενός δισεκατομμυρίου ευρώ για ιστορικό έργο τέχνης\n\nΜία σπουδαία ταπισερί, που είναι 1.000 ετών, ετοιμάζεται να ταξιδέψει από τη Νορμανδία στο Λονδίνο. Αυτή η ταπισερί ονομάζεται Μπαγιέ και είναι περίπου 70 μέτρα μακριά. Απεικονίζει τη Νορμανδική κατάκτηση της Αγγλίας τον 11ο αιώνα.\n\nΘεωρείται πολύ εύθραυστη και για αυτό, τα ασφάλιστρα για τη μετακίνησή της φτάνουν το ένα δισεκατομμύριο ευρώ. Οι ειδικοί ανησυχούν για την κατάσταση του έργου κατά τη διάρκεια του ταξιδιού, γι' αυτό και έχουν πάρει όλες τις απαραίτητες προφυλάξεις. Αυτή η μελέτη και φροντίδα για το έργο τέχνης είναι σημαντική, καθώς πρόκειται για ένα μοναδικό κομμάτι της ιστορίας και της τέχνης.",
+      "simpleText": "Τίτλος: Ένα έργο τέχνης χιλίων ετών ασφαλίζεται για ένα δισεκατομμύριο ευρώ\n\nΜια ιστορική ταπισερί από τη Νορμανδία ετοιμάζεται να ταξιδέψει στο Λονδίνο. Αυτή η ταπισερί ονομάζεται Μπαγιέ και είναι περίπου 1.000 ετών. Έχει μήκος σχεδόν 70 μέτρων και απεικονίζει τη Νορμανδική κατάκτηση της Αγγλίας, που έγινε τον 11ο αιώνα.\n\nΗ ταπισερί φυλάσσεται στο Μουσείο Ταπισερί Μπαγιέ και είναι πολύ εύθραυστη. Για αυτό το λόγο, η μεταφορά της θα απαιτήσει ασφάλιστρα που φτάνουν το ένα δισεκατομμύριο ευρώ. Αυτό το γεγονός είναι σημαντικό γιατί δείχνει την αξία και την προστασία που απαιτούν τέτοια μοναδικά έργα τέχνης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30786-asfalistria-disekatommyrio-ergo-texnis-tapiseri-mpaie/",
       "sourceDomains": [
@@ -387,7 +410,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά ένα ιστορικό και καλλιτεχνικό έργο τέχνης, την ταπισερί του Μπαγιέ, και τονίζει τη σημασία της τέχνης και της πολιτιστικής κληρονομιάς.",
+      "categoryReason": "Η είδηση αφορά ένα ιστορικό έργο τέχνης, την ταπισερί του Μπαγιέ, που είναι σημαντική για την πολιτιστική κληρονομιά και τη μεταφορά του σε εκθεσιακό χώρο, καθιστώντας την πιο σχετική με πολιτιστικά θέματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -397,7 +420,7 @@
       "id": "86a45bbf1bec",
       "title": "Πώς να δημιουργήσεις ένα σπίτι που στηρίζει την ψυχική σου υγεία",
       "simpleTitle": "Πώς να δημιουργήσεις ένα σπίτι που στηρίζει την ψυχική σου υγεία",
-      "simpleText": "Τίτλος: Πώς να φτιάξεις ένα σπίτι που βοηθά την ψυχική σου υγεία\n\nΣε ένα πρόσφατο άρθρο, τονίζεται η σημασία ενός καθαρού και ήρεμου χώρου για την ψυχική μας υγεία. Έχει παρατηρηθεί ότι η ακαταστασία μπορεί να προκαλέσει άγχος και να δυσκολέψει τη χαλάρωση και τη συγκέντρωση.\n\nΓια να δημιουργήσεις ένα ευχάριστο και υποστηρικτικό περιβάλλον, είναι καλό να ξεκινήσεις με μικρές αλλαγές. Μπορείς να απομακρύνεις αντικείμενα που δεν χρησιμοποιείς ή δεν είναι σημαντικά για σένα. Όταν ο χώρος γύρω σου έχει μόνο πράγματα που αγαπάς και χρειάζεσαι, τότε η ατμόσφαιρα γίνεται πιο θετική και ευχάριστη.\n\nΑυτές οι πρακτικές μπορούν να βελτιώσουν την ψυχική σου κατάσταση και να σε βοηθήσουν να νιώθεις καλύτερα.",
+      "simpleText": "Δημιουργία ενός Υγιούς Σπιτικού\n\nΣε μία πρόσφατη συζήτηση, αναφέρθηκε πώς μπορείς να φτιάξεις ένα σπίτι που βοηθά στην ψυχική σου υγεία. Είναι σημαντικό να έχεις ένα καθαρό και ήρεμο περιβάλλον, γιατί οι έρευνες δείχνουν ότι η ακαταστασία μπορεί να αυξήσει το άγχος και να δυσκολέψει τη χαλάρωση και τη συγκέντρωση.\n\nΓια να το επιτύχεις αυτό, μπορείς να αρχίσεις με μικρές αλλαγές. Απομάκρυνε αντικείμενα που δεν χρησιμοποιείς, δεν χρειάζεσαι ή δεν σου αρέσουν πια. Όταν ο χώρος γύρω σου περιέχει μόνο ό,τι έχει σημασία για εσένα, νιώθεις πιο ήρεμος και ευχάριστα.\n\nΑυτές οι αλλαγές είναι σημαντικές γιατί μπορούν να βελτιώσουν την καθημερινότητά σου και την ψυχολογία σου. Ένα καθαρό και καλά οργανωμένο σπίτι μπορεί να συμβάλει στην καλύτερη διάθεση και ευημερία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30710-pos-na-dimiourgiseis-ena-mindful-spiti-pou-stirizei-tin-psixiki-sou-ygeia/",
       "sourceDomains": [
@@ -409,8 +432,8 @@
           "url": "https://thehappynews.gr/30710-pos-na-dimiourgiseis-ena-mindful-spiti-pou-stirizei-tin-psixiki-sou-ygeia/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Το άρθρο προτείνει πρακτικές για τη βελτίωση της ψυχικής υγείας μέσω της οργάνωσης του σπιτιού, προάγοντας θετικά συναισθήματα και ευεξία.",
+      "category": "serious",
+      "categoryReason": "Η είδηση ασχολείται με τη σχέση ανάμεσα στο σπίτι και την ψυχική υγεία, εξετάζοντας σοβαρά θέματα όπως το άγχος και την ευημερία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -420,7 +443,7 @@
       "id": "6dcb754a407d",
       "title": "Μπανάνες: πώς να μείνουν φρέσκες για περισσότερες μέρες",
       "simpleTitle": "Μπανάνες: πώς να μείνουν φρέσκες για περισσότερες μέρες",
-      "simpleText": "Τίτλος: Πώς να κρατήσουμε τις μπανάνες φρέσκες\n\nΟι μπανάνες είναι δημοφιλή φρούτα. Είναι νόστιμες και υγιεινές, αλλά ωριμάζουν γρήγορα. Συχνά, μπορεί να τις βρούμε μαλακές και καφέ σε λίγες μέρες.\n\nΥπάρχουν όμως τρόποι για να τις κρατήσουμε φρέσκες για περισσότερο χρόνο. Αυτοί οι τρόποι είναι απλοί και χρήσιμοι. Είναι σημαντικό να γνωρίζουμε πώς να διατηρούμε τις μπανάνες, ώστε να μην τις πετάμε. Αυτό μας βοηθά να επωφελούμαστε από την ποιότητά τους.",
+      "simpleText": "Τίτλος: Πώς να κρατήσουμε τις μπανάνες φρέσκιες για περισσότερο καιρό\n\nΟι μπανάνες είναι δημοφιλή και νόστιμα φρούτα. Είναι οικονομικά και γεμάτα θρεπτικά συστατικά, αλλά ωριμάζουν γρήγορα. Όταν ωριμάσουν, μπορεί να γίνουν μαλακές και σκούρες. Αυτό συμβαίνει συχνά και πολλοί το έχουν παρατηρήσει.\n\nΕυτυχώς, υπάρχουν κάποιες εύκολες μέθοδοι για να διατηρήσουμε τις μπανάνες φρέσκες για περισσότερες μέρες. Αυτοί οι τρόποι μπορούν να βοηθήσουν όλους όσους θέλουν να απολαμβάνουν τις μπανάνες τους χωρίς να χάνονται γρήγορα.\n\nΗ ενημέρωση αυτή είναι χρήσιμη για κάθε οικογένεια που αγοράζει μπανάνες και θέλει να τις διατηρεί σε καλή κατάσταση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30711-bananes-pos-na-meinoun-freskes-perissotero/",
       "sourceDomains": [
@@ -433,7 +456,7 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Η είδηση αφορά πρακτικές πληροφορίες για το πώς να διατηρήσουμε τις μπανάνες φρέσκες, γεγονός που συνδέεται με την καθημερινή ζωή και τη διασκέδαση της μαγειρικής. Επομένως, είναι πιο κατάλληλο να καταταχθεί στην κατηγορία του fun.",
+      "categoryReason": "Η είδηση αφορά πρακτικές συμβουλές για τη συντήρηση των μπανάνα, που είναι χρήσιμες καθημερινά και προσθέτουν μια ευχάριστη διάσταση στην καθημερινότητα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -443,7 +466,7 @@
       "id": "de88815deb87",
       "title": "Καραλής και Τζένγκο κορυφαίοι αθλητές του 2025 στον ελληνικό στίβο",
       "simpleTitle": "Καραλής και Τζένγκο κορυφαίοι αθλητές του 2025 στον ελληνικό στίβο",
-      "simpleText": "Τίτλος: Καραλής και Τζένγκο είναι οι καλύτεροι αθλητές του 2025 στον ελληνικό στίβο.\n\nΤο 2025 είναι μια σημαντική χρονιά για τον ελληνικό στίβο. Δύο αθλητές, ο Εμμανουήλ Καραλής και η Ελίνα Τζένγκο, αναδείχθηκαν κορυφαίοι της χρονιάς. Αυτή η διάκριση προήλθε από ψηφοφορία του ΣΕΓΑΣ, που είναι η ομοσπονδία στίβου στην Ελλάδα.\n\nΟ Καραλής και η Τζένγκο είχαν εξαιρετικές επιδόσεις φέτος. Κατάφεραν να σημειώσουν πολλές διακρίσεις και ρεκόρ, κάτι που δείχνει την πρόοδο του ελληνικού στίβου σε διεθνές επίπεδο. Αυτή η αναγνώριση είναι σημαντική γιατί προβάλλει τη δουλειά και τις επιτυχίες των αθλητών στην Ελλάδα και στο εξωτερικό.",
+      "simpleText": "Σημαντική Είδηση για τον Στίβο στην Ελλάδα\n\nΤο 2025 είναι μια πολύ καλή χρονιά για τον ελληνικό στίβο. Δύο αθλητές, ο Εμμανουήλ Καραλής και η Ελίνα Τζένγκο, αναδείχθηκαν κορυφαίοι αθλητές. Αυτό έγινε μέσω ψηφοφορίας του ΣΕΓΑΣ, που είναι ο φορέας που ειδικεύεται στον στίβο στην Ελλάδα.\n\nΟ Καραλής και η Τζένγκο κέρδισαν τον τίτλο για πρώτη φορά στις κατηγορίες ανδρών και γυναικών αντίστοιχα. Η χρονιά αυτή ήταν γεμάτη επιτυχίες για αυτούς, με ρεκόρ και διακρίσεις. Αυτό το γεγονός δείχνει τη συνεχή πρόοδο του ελληνικού στίβου στον παγκόσμιο αθλητισμό.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30757-karalis-kai-tzengko-koryfaioi-athlites-2025/",
       "sourceDomains": [
@@ -456,9 +479,9 @@
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά την αναγνώριση δύο αθλητών στον ελληνικό στίβο, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τις διακρίσεις τους.",
+      "categoryReason": "Η είδηση αναφέρεται σε αθλητές που διακρίθηκαν στον ελληνικό στίβο και αφορά τους τίτλους που κέρδισαν, καθιστώντας την κυρίως αθλητική.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g273b4e8f617c4922acc7c60015519f7cc96ba04a3bfe9410c7f4884b17e245100b32487f50f00411e0c046eeea93e0a907966d9e3c7af156c4034a697a91be4c_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gd0b0cc8a258e5b2888b5486b84cc64c9e4dd4743b1b42637ff6ea4e2a90cf7366a242f6a423e2afdfd44742d121a6bd1e98b0ce34e5c95220d8d192e31f5bc35_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-08T11:54:55.000Z"
     },
@@ -466,7 +489,7 @@
       "id": "eb55f1fd26ea",
       "title": "Η ανασκαφή της Αρχαίας Τενέας αποκαλύπτει έναν μοναδικό χώρο μυστηριακής ίασης",
       "simpleTitle": "Η ανασκαφή της Αρχαίας Τενέας αποκαλύπτει έναν μοναδικό χώρο μυστηριακής ίασης",
-      "simpleText": "Τίτλος: Ανακαλύψεις στην Αρχαία Τενέα για τη θεραπεία\n\nΗ ανασκαφή στην Αρχαία Τενέα αποκάλυψε πρόσφατα έναν σημαντικό χώρο που σχετίζεται με τη θεραπεία. Η διαδικασία ολοκληρώθηκε τον Οκτώβριο του 2025.\n\nΣε αυτή την ανασκαφή βρέθηκαν πολλά ενδιαφέροντα αντικείμενα που μας δίνουν πληροφορίες για τη ζωή των ανθρώπων εκείνης της εποχής. Ο χώρος γύρω από ένα Ταφικό Μνημείο έχει χρησιμοποιηθεί από την αρχαϊκή έως την ρωμαϊκή περίοδο. Στο κέντρο, υπάρχει ένα ορθογώνιο κτίριο κάτω από τη γη και γύρω του υπάρχει λιθόστρωτο πλάτωμα.\n\nΟ χώρος είναι οργανωμένος και περιβάλλεται από παλιές οδούς και άλλα κτίρια. Αυτές οι ανακαλύψεις είναι σημαντικές γιατί μας βοηθούν να κατανοήσουμε καλύτερα τις θρησκευτικές και θεραπευτικές πρακτικές των αρχαίων ανθρώπων.",
+      "simpleText": "Ανασκαφή στην Αρχαία Τενέα αποκαλύπτει χώρο θεραπείας\n\nΗ ανασκαφή στην Αρχαία Τενέα ολοκληρώθηκε τον Οκτώβριο του 2025. Βρέθηκαν σημαντικά ευρήματα που δείχνουν πώς οι αρχαίοι άνθρωποι ζούσαν και θεραπεύονταν.\n\nΣτην περιοχή γύρω από ένα Ταφικό Μνημείο βρέθηκε ένα μεγάλο κτίριο που χρησιμοποιούνταν από την αρχαϊκή εποχή μέχρι τη ρωμαϊκή. Στο κέντρο αυτού του χώρου υπάρχει ένα υπόγειο κτίριο και γύρω του ένα λιθόστρωτο πλάτωμα.\n\nΟ χώρος είναι οργανωμένος, με δρόμους και άλλα κτίρια, και φαίνεται να ήταν σημαντικό μέρος για θρησκευτικές τελετές και θεραπεία. Αυτή η ανακάλυψη μας βοηθά να κατανοήσουμε καλύτερα τη ζωή και τις πεποιθήσεις των αρχαίων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30703-anakafi-archaia-tenea-mystiriaki-iasi/",
       "sourceDomains": [
@@ -479,363 +502,239 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η ανασκαφή της Αρχαίας Τενέας αφορά την ανακάλυψη αρχαίων χώρων που σχετίζονται με τη θεραπεία και τις θρησκευτικές πρακτικές, τα οποία είναι σημαντικά για την πολιτιστική και ιστορική κληρονομιά.",
+      "categoryReason": "Η ανακάλυψη της Αρχαίας Τενέας σχετίζεται με την πολιτιστική και θρησκευτική ζωή των αρχαίων, προσφέροντας ενδιαφέροντα στοιχεία για το πώς λειτουργούσαν οι χώροι θεραπείας και τελετών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-01-08T07:21:00.000Z"
-    },
-    {
-      "id": "714fb3918602",
-      "title": "Το πρόωρο μωρό που έγινε θαύμα και γύρισε σπίτι με την οικογένειά του",
-      "simpleTitle": "Το πρόωρο μωρό που έγινε θαύμα και γύρισε σπίτι με την οικογένειά του",
-      "simpleText": "Τίτλος: Ένα πρόωρο μωρό γύρισε σπίτι με την οικογένειά του\n\nΈνα αγοράκι, ο Γκάμπριελ, γεννήθηκε πρόωρα, ζυγίζοντας μόλις 17 γραμμάρια. Το χεράκι του ήταν μικρότερο από ένα δακτυλικό αποτύπωμα ενός ενήλικα. Μετά από σχεδόν έναν χρόνο νοσηλείας, το μωρό κατάφερε να επιστρέψει στο σπίτι του με την οικογένειά του.\n\nΗ ιστορία του Γκάμπριελ δείχνει ότι ακόμα και σε δύσκολες στιγμές, η ελπίδα είναι σημαντική. Για τους γονείς του, οι καθημερινές στιγμές, όπως μια αγκαλιά ή ένας περίπατος, έχουν ιδιαίτερη αξία. Ό,τι φαίνεται φυσιολογικό για άλλους, για αυτούς είναι ένα όνειρο που έγινε πραγματικότητα.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/30727-prooro-moro-egine-thauma-oikogeneia/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/30727-prooro-moro-egine-thauma-oikogeneia/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η ιστορία αφορά ένα πρόωρο μωρό που κατάφερε να επιστρέψει σπίτι του μετά από σημαντική νοσηλεία, προσφέροντας μήνυμα ελπίδας και χαράς στην οικογένεια και στην κοινότητα. Είναι ένα θετικό και συγκινητικό γεγονός.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-07T16:15:33.000Z"
-    },
-    {
-      "id": "8570c1b9022c",
-      "title": "Το Κογκρέσο μπλοκάρει τις περικοπές Trump και εγκρίνει μεγαλύτερο προϋπολογισμό στη NASA",
-      "simpleTitle": "Το Κογκρέσο μπλοκάρει τις περικοπές Trump και εγκρίνει μεγαλύτερο προϋπολογισμό στη NASA",
-      "simpleText": "Η NASA θα λάβει περισσότερα χρήματα, καθώς το Κογκρέσο των ΗΠΑ δεν αποδέχτηκε τις περικοπές του προϋπολογισμού που είχε προτείνει ο Πρόεδρος Trump. Αντί να μειωθεί η χρηματοδότηση, οι νομοθέτες αποφάσισαν να στηρίξουν τη διαστημική επιστήμη και την έρευνα.\n\nΤο νέο σχέδιο προϋπολογισμού για το 2026 προτείνει 24,4 δισεκατομμύρια δολάρια για τη NASA. Αυτό είναι πολύ περισσότερα από τα 18,8 δισεκατομμύρια δολάρια που ζητούσε η κυβέρνηση Trump. Αυτή η απόφαση είναι σημαντική για την ανάπτυξη της διαστημικής έρευνας στις ΗΠΑ.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/30691-kongresso-aporriptei-perikopes-nasa-afxisi-proypologismou/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/30691-kongresso-aporriptei-perikopes-nasa-afxisi-proypologismou/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απόφαση του Κογκρέσου σχετικά με τον προϋπολογισμό της NASA και τις πολιτικές επιπτώσεις της, γεγονός που σχετίζεται με σοβαρά ζητήματα πολιτικής και οικονομίας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g919964713ef1df596ca4e83fccf6054306787be02e0e82ec619ba9055cd8f7a41bc3145cb72ad85e4cdef6f9137056ed410b00290840d83eadcbd30178ff1ef1_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-07T11:08:17.000Z"
-    },
-    {
-      "id": "13a60f7731cc",
-      "title": "Αλτσχάιμερ: νέα έρευνα δείχνει ότι η πλήρης αποκατάσταση του εγκεφάλου μπορεί να είναι εφικτή",
-      "simpleTitle": "Αλτσχάιμερ: νέα έρευνα δείχνει ότι η πλήρης αποκατάσταση του εγκεφάλου μπορεί να είναι εφικτή",
-      "simpleText": "Τίτλος: Επιστήμονες δείχνουν ότι ο εγκέφαλος μπορεί να ανακάμψει από το Αλτσχάιμερ\n\nΜια νέα έρευνα προσφέρει ελπίδα για την νόσο Αλτσχάιμερ. Μέχρι τώρα, οι επιστήμονες πίστευαν ότι η ασθένεια είναι μη αναστρέψιμη. Στόχος τους ήταν κυρίως να επιβραδύνουν την εξέλιξή της. Όμως, τώρα ερευνητές από το Case Western Reserve University και άλλα ιδρύματα εξετάζουν αν ο εγκέφαλος μπορεί να ανακάμψει, και μάλιστα σε προχωρημένα στάδια της ασθένειας.\n\nΗ μελέτη έγινε σε ζώα και τα αποτελέσματα δείχνουν ότι η αποκατάσταση του εγκεφάλου είναι εφικτή. Αυτό είναι σημαντικό, διότι αν οι ανθρώπινοι εγκέφαλοι μπορέσουν να ανακτήσουν τη λειτουργία τους, μπορεί να αλλάξει ριζικά η προσέγγιση στη θεραπεία της νόσου.\n\nΑυτή η έρευνα είναι ελπιδοφόρα και μπορεί να ανοίξει νέους δρόμους στην κατανόηση και θεραπεία του Αλτσχάιμερ.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/30693-altschaimer-nea-erevna/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/30693-altschaimer-nea-erevna/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια νέα ιατρική έρευνα που διερευνά τη δυνατότητα αποκατάστασης του εγκεφάλου από τη νόσο Αλτσχάιμερ, ένα σοβαρό και σημαντικό θέμα στον τομέα της υγείας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-07T04:42:00.000Z"
-    },
-    {
-      "id": "d041a7f8212d",
-      "title": "UEFA Champions League: Η αναμέτρηση Ολυμπιακός – Λεβερκούζεν την Τρίτη ζωντανά στο Mega",
-      "simpleTitle": "UEFA Champions League: Η αναμέτρηση Ολυμπιακός – Λεβερκούζεν την Τρίτη ζωντανά στο Mega",
-      "simpleText": "Τίτλος: Ολυμπιακός και Λεβερκούζεν παίζουν την Τρίτη στο MEGA\n\nΤην Τρίτη, 20 Ιανουαρίου, ο Ολυμπιακός θα παίξει με τη Λεβερκούζεν. Ο αγώνας θα γίνει στο στάδιο \"Γ. Καραϊσκάκης\" και είναι σημαντικός για την πρόκριση στο UEFA Champions League. Ο αγώνας ξεκινάει στις 22:00 και θα μεταδοθεί ζωντανά από το MEGA.\n\nΟι παίκτες του Ολυμπιακού, μετά τη νίκη τους σε προηγούμενο παιχνίδι, θέλουν να κερδίσουν ξανά για να είναι πιο κοντά στην πρόκριση στην επόμενη φάση. Η Λεβερκούζεν, από την άλλη, δεν έχει πάει καλά στους προηγούμενους αγώνες και προσπαθεί να βελτιώσει τη θέση της στη βαθμολογία.\n\nΠριν τον αγώνα, θα υπάρχει εκπομπή στις 21:00 για να προετοιμαστεί το κοινό και να δοθούν πληροφορίες. Μετά τον αγώνα, θα ακολουθήσει συζήτηση και ανάλυση των γεγονότων.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/01/13/media/uefa-champions-league-i-anametrisi-olympiakos-leverkouzen-tin-triti-zontana-sto-mega/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/13/media/uefa-champions-league-i-anametrisi-olympiakos-leverkouzen-tin-triti-zontana-sto-mega/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου του UEFA Champions League, με αναφορές σε ομάδες και αποτελέσματα. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gf68df639ee67a61e8bed5334a8665d28587507c22b1323d4bce56226a3fbcd23ef82a2537845158c92442bf1f4759b0c25faf664c1a83061aff066acd1d42232_1280.jpg",
-      "videoUrl": "https://www.youtube.com/embed/ejjwWhffis0?si=VrNq0s3ftAbPCTLI",
-      "publishedAt": "2026-01-13T14:47:11.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "287bf3395064",
-        "title": "Tραμπ σε Ιρανούς: Συνεχίστε τις διαδηλώσεις – Η βοήθεια είναι καθ’ οδόν",
-        "simpleTitle": "Tραμπ σε Ιρανούς: Συνεχίστε τις διαδηλώσεις – Η βοήθεια είναι καθ’ οδόν",
-        "simpleText": "Τίτλος: Μήνυμα Τραμπ προς τους Ιρανών: Συνεχίστε τις διαδηλώσεις – Η βοήθεια έρχεται\n\nΟ Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, έστειλε νέο μήνυμα στους Ιρανούς που διαδηλώνουν κατά του καθεστώτος. Στην ανάρτησή του, τους προέτρεψε να συνεχίσουν τις διαμαρτυρίες και είπε ότι «η βοήθεια είναι καθ’ οδόν». Ο Τραμπ ανήγγειλε ότι ακύρωσε όλες τις επαφές με Ιρανούς αξιωματούχους, μέχρι να σταματήσουν οι δολοφονίες διαδηλωτών.\n\nΗ κατάσταση στο Ιράν είναι πολύ σοβαρή. Περισσότεροι από 2.000 άνθρωποι έχουν πεθάνει τις τελευταίες 48 ώρες κατά τη διάρκεια των διαδηλώσεων. Ο πρόεδρος Τραμπ ανέφερε ότι η βία από το ιρανικό καθεστώς είναι απαράδεκτη και ότι οι υπεύθυνοι θα πληρώσουν.\n\nΟ Οργανισμός Ηνωμένων Εθνών (ΟΗΕ) ανησυχεί για την καταστολή των διαδηλώσεων και ζητά να σταματήσουν οι βίαιες ενέργειες εναντίον αθώων πολιτών. Οι Ιρανοί έχουν το δικαίωμα να διαδηλώνουν ειρηνικά και να εκφράζουν τις απόψεις τους.\n\nΗ κακή κατάσταση για το λαό του Ιράν είναι άμεσος λόγος για τον οποίο η διεθνής κοινότητα παρακολουθεί με ενδιαφέρον το θέμα.",
-        "sourceName": "ERT News, Kathimerini, TA NEA, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/tramp-se-iranous-synexiste-tis-diadiloseis-i-voitheia-einai-kath-odon/",
+        "id": "ec60cc63e772",
+        "title": "Πέθανε ο πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου",
+        "simpleTitle": "Πέθανε ο πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου",
+        "simpleText": "Πρώην πρόεδρος της Κύπρου Γιώργος Βασιλείου πέθανε.\n\nΟ Γιώργος Βασιλείου άφησε την τελευταία του πνοή σε ηλικία 94 ετών. Είχε σοβαρό πρόβλημα υγείας. Υπήρξε πρόεδρος της Κύπρου από το 1988 μέχρι το 1993.\n\nΕίναι γνωστός για την προσπάθειά του να εντάξει την Κυπριακή Δημοκρατία στην Ευρωπαϊκή Ένωση. Αυτός ο στόχος είχε μεγάλη σημασία για τη χώρα. Η είδηση του θανάτου του είναι σημαντική γιατί ο Βασιλείου είχε σημαντική συμβολή στην κυπριακή πολιτική και στην ευρωπαϊκή πορεία της Κύπρου.",
+        "sourceName": "Kathimerini, TO BHMA, Protagon",
+        "sourceUrl": "https://www.kathimerini.gr/world/564020383/pethane-o-proin-proedros-tis-kyproy-giorgos-vasileioy/",
         "sourceDomains": [
-          "ertnews.gr",
           "kathimerini.gr",
-          "tanea.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-se-iranous-synexiste-tis-diadiloseis-i-voitheia-einai-kath-odon/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564019192/tramp-gia-iran-i-voitheia-einai-kath-odon-synechiste-na-diadilonete/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-tis-diamartyries-i-voitheia-einai-kath-odon/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4050341/potami-ematos-sto-iran-stis-antikivernitikes-diadilosis.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση ασχολείται με σοβαρές πολιτικές και ανθρωπιστικές κρίσεις στο Ιράν, περιλαμβάνοντας την υποστήριξη του Τραμπ στις διαδηλώσεις και τις εκτελέσεις ειρηνικών διαδηλωτών, κάτι που επηρεάζει άμεσα τα ανθρώπινα δικαιώματα και την πολιτική κατάσταση.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://truthsocial.com/@realDonaldTrump/115888317758045915/embed",
-        "publishedAt": "2026-01-13T15:22:42.000Z"
-      },
-      {
-        "id": "e7561fe7e75e",
-        "title": "Διαβατήρια: Αυτά είναι τα πιο ισχυρά του κόσμου για το 2026 – Η θέση της Ελλάδας",
-        "simpleTitle": "Διαβατήρια: Αυτά είναι τα πιο ισχυρά του κόσμου για το 2026 – Η θέση της Ελλάδας",
-        "simpleText": "Τίτλος: Τα πιο ισχυρά διαβατήρια του κόσμου για το 2026 και η θέση της Ελλάδας\n\nΣύμφωνα με μια πρόσφατη έκθεση, το διαβατήριο είναι σημαντικό για την ελεύθερη μετακίνηση από χώρα σε χώρα. Το 2026, η Σιγκαπούρη κατέχει την πρώτη θέση, καθώς οι πολίτες της μπορούν να ταξιδεύουν χωρίς βίζα σε 192 χώρες. Στη δεύτερη θέση είναι η Ιαπωνία και η Νότια Κορέα, με 188 χώρες.\n\nΗ Ελλάδα βρίσκεται στην τέταρτη θέση μαζί με άλλες χώρες, όπως η Ισπανία και η Σουηδία, με πρόσβαση χωρίς βίζα σε 185 προορισμούς. Αυτό δείχνει την καλή θέση της Ελλάδας στον κόσμο των διαβατηρίων.\n\nΑντίθετα, χώρες όπως το Αφγανιστάν, η Συρία και το Ιράκ έχουν πολύ λιγότερες επιλογές για ταξίδια, με πρόσβαση σε μόλις 24 ή 29 προορισμούς.\n\nΗ κατάταξη αυτή δείχνει επίσης τη σταθερότητα και την αξιοπιστία κάθε χώρας. Η καλή θέση της Ελλάδας μπορεί να βοηθήσει τους πολίτες της να ταξιδεύουν πιο εύκολα στο μέλλον.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/01/13/greece/diavatiria-ayta-einai-ta-pio-isxyra-tou-kosmou-gia-to-2026-i-thesi-tis-elladas/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/13/greece/diavatiria-ayta-einai-ta-pio-isxyra-tou-kosmou-gia-to-2026-i-thesi-tis-elladas/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/13/finance/ta-pio-isxyra-diavatiria-tou-kosmou-to-2026-i-thesi-tis-elladas/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την κατάταξη των διαβατηρίων και τις πολιτικές καθώς και διπλωματικές σχέσεις που επηρεάζουν τη διεθνή κινητικότητα, γεγονός που την κατατάσσει σε σοβαρές ειδήσεις.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gc10b0e1b112c851c7650121af439c1d0cdc98ba123bb0e08993283002cbabbf25cd65d9f5a064f7f66e04327a909b539395492d5fca5395a9ba1f19c8d3fc633_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-13T15:12:47.000Z"
-      },
-      {
-        "id": "fa54bdcfcbad",
-        "title": "Τραμπ σε ιρανούς διαδηλωτές: «Συνεχίστε! Η βοήθεια έρχεται» – Απάντηση Μόσχας",
-        "simpleTitle": "Τραμπ σε ιρανούς διαδηλωτές: «Συνεχίστε! Η βοήθεια έρχεται» – Απάντηση Μόσχας",
-        "simpleText": "Ο τίτλος μπορεί να παραφραστεί απλά ως: «Τραμπ λέει στους Ιρανούς διαδηλωτές να συνεχίσουν και ότι θα βοηθήσουν».\n\nΟ πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, ενθάρρυνε τους Ιρανούς διαδηλωτές να συνεχίσουν τις κινητοποιήσεις τους. Τους είπε να καταγράψουν τα ονόματα όσων, όπως είπε, βασανίζουν και σκοτώνουν. Αυτό προκαλεί ανησυχία, καθώς μπορεί να οδηγήσει σε περισσότερη ένταση.\n\nΗ δήλωση του Τραμπ έγινε σε μια περίοδο που οι πολίτες του Ιράν διαμαρτύρονται ενάντια στο καθεστώς τους. Η παρέμβαση του προεδρικού γραφείου ενδέχεται να μεταφέρει μηνύματα στήριξης στους διαδηλωτές και σχετική δέσμευση για βοήθεια.\n\nΗ κατάσταση παραμένει ευαίσθητη και δεν είναι σαφές τι μέλλει γενέσθαι, ή ποιες ακριβώς θα είναι οι επόμενες ενέργειες των ΗΠΑ.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-i-voitheia-erxetai/",
-        "sourceDomains": [
           "tovima.gr",
           "protagon.gr"
         ],
         "sources": [
           {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564020383/pethane-o-proin-proedros-tis-kyproy-giorgos-vasileioy/"
+          },
+          {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/13/world/tramp-se-iranous-diadilotes-synexiste-i-voitheia-erxetai/"
+            "url": "https://www.tovima.gr/2026/01/14/world/pethane-o-giorgos-vasileiou-o-proin-proedros-tis-kyprou/"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/trab-se-iranous-synexiste-tis-diadilwseis-erxetai-voitheia-44343292389"
+            "url": "https://www.protagon.gr/epikairotita/apeviwse-o-giwrgos-vasileiou-o-evrwpaistis-prwin-proedros-tis-kyprou-44343292628"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρά πολιτικά ζητήματα, όπως οι διαδηλώσεις κατά του ιρανικού καθεστώτος και η παρέμβαση του Τραμπ, που έχει σημαντικές κοινωνικές και γεωπολιτικές επιπτώσεις.",
+        "categoryReason": "Η είδηση αφορά τον θάνατο ενός πρώην προέδρου, ο οποίος είχε σημαντική πολιτική και κοινωνική επιρροή στην Κύπρο και στην ευρωπαϊκή της πορεία, κάτι που την καθιστά σοβαρή και σημαντική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-13T15:08:23.000Z"
+        "publishedAt": "2026-01-14T07:20:40.000Z"
       },
       {
-        "id": "78db69bc2302",
-        "title": "Πρωθυπουργός Γροιλανδίας: Παραμένουμε με τη Δανία, «όχι» στις ΗΠΑ",
-        "simpleTitle": "Πρωθυπουργός Γροιλανδίας: Παραμένουμε με τη Δανία, «όχι» στις ΗΠΑ",
-        "simpleText": "Ο Πρωθυπουργός της Γροιλανδίας, Γενς-Φρέντερικ Νίλσεν, δήλωσε ότι η χώρα του επιλέγει να παραμείνει κοντά στη Δανία και όχι στις Ηνωμένες Πολιτείες. Αυτή η δήλωση έγινε σε συνέντευξη τύπου την ημέρα της επίσκεψής του στην Κοπεγχάγη.\n\nΟ Νίλσεν τόνισε ότι η Γροιλανδία δεν θέλει να ανήκει στις ΗΠΑ ή να είναι υπό τον έλεγχό τους. Αναφέρθηκε μάλιστα στις προσπάθειες του πρόεδρου Τραμπ να αποκτήσει το νησί, κάτι που η κυβέρνηση της Γροιλανδίας απορρίπτει. Ο Πρωθυπουργός επεσήμανε ότι βρίσκονται σε μια γεωπολιτική κρίση και επιβεβαίωσε τη δέσμευση της Γροιλανδίας προς τη Δανία.\n\nΗ δήλωση αυτή είναι σημαντική γιατί δείχνει τις πολιτικές προτιμήσεις της Γροιλανδίας σε μια περίοδο αυξανόμενων πιέσεων και εντάσεων.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/world/564019144/prothypoyrgos-groilandias-dilaegoyme-ti-dania-ochi-tis-ipa/",
+        "id": "f907a9d1e3ba",
+        "title": "Ιράν κατά ΗΠΑ: «Αναζητούν πρόσχημα για στρατιωτική επέμβαση»",
+        "simpleTitle": "Ιράν κατά ΗΠΑ: «Αναζητούν πρόσχημα για στρατιωτική επέμβαση»",
+        "simpleText": "Οι ΗΠΑ και το Ιράν βρίσκονται σε ένταση. Η ιρανική κυβέρνηση κατηγορεί την αμερικανική ότι ψάχνει αφορμές για να παρέμβει στρατιωτικά στο Ιράν. Αυτό συμβαίνει σε μια περίοδο όπου οι μαζικές διαδηλώσεις στη χώρα προκαλούν αναστάτωση.\n\nΗ ανακοίνωση της Τεχεράνης ήρθε μετά τη δήλωση του πρώην προεδρικού υποψηφίου Ντόναλντ Τραμπ. Ο Τραμπ προειδοποίησε ότι οι Ηνωμένες Πολιτείες θα απαντήσουν με σφοδρότητα εάν οι διαδηλωτές εκτελούνται.\n\nΗ ιρανική κυβέρνηση τόνισε ότι οι κυρώσεις και οι απειλές από τις ΗΠΑ χρησιμοποιούνται για να δικαιολογήσουν στρατιωτική επέμβαση. Ο μόνιμος εκπρόσωπος του Ιράν στον ΟΗΕ, Αμίρ Σαΐντ Ιραβανί, έστειλε επιστολή διαμαρτυρίας στον ΟΗΕ, εκφράζοντας την ανησυχία του για τις εξελίξεις.\n\nΑυτή η κατάσταση είναι σημαντική, καθώς δείχνει την κλιμάκωση της αντιπαράθεσης μεταξύ των δύο χωρών, σε μια στιγμή που οι διαδηλώσεις στο Ιράν έχουν προκαλέσει μεγάλο αριθμό θανάτων.",
+        "sourceName": "TA NEA, TO BHMA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/01/14/world/iran-kata-ipa-anazitoyn-prosxima-gia-stratiotiki-epemvasi/",
         "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564019144/prothypoyrgos-groilandias-dilaegoyme-ti-dania-ochi-tis-ipa/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/13/world/prothypoyrgos-groilandias-epilegoyme-ti-dania-enanti-ton-ipa/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά πολιτική απόφαση της Γροιλανδίας σχετικά με τη σχέση της με τη Δανία και τις ΗΠΑ, σε ένα πλαίσιο γεωπολιτικής κρίσης, υποδεικνύοντας σοβαρές διεθνείς σχέσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-13T15:07:32.000Z"
-      },
-      {
-        "id": "307899c174e1",
-        "title": "Φον ντερ Λάιεν: Αμεσα κυρώσεις κατά του Ιράν, τρομακτικός ο αριθμός των θυμάτων",
-        "simpleTitle": "Φον ντερ Λάιεν: Αμεσα κυρώσεις κατά του Ιράν, τρομακτικός ο αριθμός των θυμάτων",
-        "simpleText": "Η πρόεδρος της Ευρωπαϊκής Επιτροπής, Ούρσουλα φον ντερ Λάιεν, ανακοίνωσε ότι η Ευρωπαϊκή Ένωση θα επιβάλει άμεσες κυρώσεις κατά του Ιράν. Ο αριθμός των θυμάτων λόγω της βίας και της καταστολής των ελευθεριών στη χώρα είναι τρομακτικός.\n\nΗ φον ντερ Λάιεν καταδίκασε αυτή την υπερβολική βία και τον περιορισμό της ελευθερίας των πολιτών. Επισήμανε ότι οι κυρώσεις θα στραφούν εναντίον όσων είναι υπεύθυνοι για την καταστολή. Αυτή η κίνηση δείχνει την ανησυχία της Ευρωπαϊκής Ένωσης για την κατάσταση στο Ιράν και την ανάγκη να προστατευθούν τα ανθρώπινα δικαιώματα.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/world/564019129/fon-nter-laien-amesa-kyroseis-kata-toy-iran-tromaktikos-o-arithmos-ton-thymaton/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564019129/fon-nter-laien-amesa-kyroseis-kata-toy-iran-tromaktikos-o-arithmos-ton-thymaton/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/fon-nter-laien-tromaktikos-o-arithmos-twn-thymatwn-sto-iran-nees-kyrwseis-apo-ee-44343292374"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η δήλωση της Ούρσουλας φον ντερ Λάιεν αναφέρεται σε σοβαρές κοινωνικές και πολιτικές κρίσεις, όπως η βία και οι παραβιάσεις των ανθρωπίνων δικαιωμάτων στο Ιράν, και επισημαίνει την απόφαση της ΕΕ να επιβάλει κυρώσεις, γεγονός που συνδέεται με μεγάλα διεθνή ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-13T15:07:26.000Z"
-      },
-      {
-        "id": "a779822262be",
-        "title": "Λάρισα: Αγρότες του μπλόκου της Νίκαιας απέκλεισαν την παλαιά εθνική οδό",
-        "simpleTitle": "Λάρισα: Αγρότες του μπλόκου της Νίκαιας απέκλεισαν την παλαιά εθνική οδό",
-        "simpleText": "Οι αγρότες από το μπλόκο της Νίκαιας στη Λάρισα διακόπτουν την κυκλοφορία στην παλαιά εθνική οδό. Το γεγονός συνέβη σήμερα, από τις 3 έως τις 6 το απόγευμα, στο ύψος του Πλατυκάμπου. Οι αγρότες πραγματοποιούν αυτή τη δράση για να ενισχύσουν τις κινητοποιήσεις τους. Είναι σημαντικό, γιατί δείχνει τις ανησυχίες τους για θέματα που αφορούν τον αγροτικό τομέα. Δεν υπάρχουν πληροφορίες για το τι θα συμβεί στη συνέχεια.",
-        "sourceName": "Kathimerini, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/society/564019159/larisa-agrotes-toy-mplokoy-tis-nikaias-apekleisan-tin-palaia-ethniki-odo/",
-        "sourceDomains": [
-          "kathimerini.gr",
+          "tanea.gr",
+          "tovima.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564019159/larisa-agrotes-toy-mplokoy-tis-nikaias-apekleisan-tin-palaia-ethniki-odo/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/14/world/iran-kata-ipa-anazitoyn-prosxima-gia-stratiotiki-epemvasi/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/01/14/world/iran-katigorei-tis-ipa-oti-anazitoun-prosxima-gia-na-epemvoun-stratiotika/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4050333/apeklisan-gia-tris-ores-tin-palea-ethniki-odo-i-agrotes-tou-blokou-tis-nikeas.html"
+            "url": "https://www.news.gr/kosmos/article/4050752/to-iran-katigori-tis-ipa-pos-anazitoun-proschima-gia-stratiotiki-epemvasi-i-proidopiisi-tou-trab-se-periptosi-pou-diadilotes-odigithoun-stin-kremala.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις κινητοποιήσεις αγροτών, που είναι σοβαρό κοινωνικό ζήτημα που σχετίζεται με τον αγροτικό τομέα και την πολιτική.",
+        "categoryReason": "Η είδηση αφορά σοβαρές διεθνείς σχέσεις και την κλιμάκωση της έντασης μεταξύ Ιράν και ΗΠΑ, θέματα πολιτικής και ανθρωπίνων δικαιωμάτων.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-13T15:03:56.000Z"
-      }
-    ],
-    "happy": [
-      {
-        "id": "86a45bbf1bec",
-        "title": "Πώς να δημιουργήσεις ένα σπίτι που στηρίζει την ψυχική σου υγεία",
-        "simpleTitle": "Πώς να δημιουργήσεις ένα σπίτι που στηρίζει την ψυχική σου υγεία",
-        "simpleText": "Τίτλος: Πώς να φτιάξεις ένα σπίτι που βοηθά την ψυχική σου υγεία\n\nΣε ένα πρόσφατο άρθρο, τονίζεται η σημασία ενός καθαρού και ήρεμου χώρου για την ψυχική μας υγεία. Έχει παρατηρηθεί ότι η ακαταστασία μπορεί να προκαλέσει άγχος και να δυσκολέψει τη χαλάρωση και τη συγκέντρωση.\n\nΓια να δημιουργήσεις ένα ευχάριστο και υποστηρικτικό περιβάλλον, είναι καλό να ξεκινήσεις με μικρές αλλαγές. Μπορείς να απομακρύνεις αντικείμενα που δεν χρησιμοποιείς ή δεν είναι σημαντικά για σένα. Όταν ο χώρος γύρω σου έχει μόνο πράγματα που αγαπάς και χρειάζεσαι, τότε η ατμόσφαιρα γίνεται πιο θετική και ευχάριστη.\n\nΑυτές οι πρακτικές μπορούν να βελτιώσουν την ψυχική σου κατάσταση και να σε βοηθήσουν να νιώθεις καλύτερα.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/30710-pos-na-dimiourgiseis-ena-mindful-spiti-pou-stirizei-tin-psixiki-sou-ygeia/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/30710-pos-na-dimiourgiseis-ena-mindful-spiti-pou-stirizei-tin-psixiki-sou-ygeia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Το άρθρο προτείνει πρακτικές για τη βελτίωση της ψυχικής υγείας μέσω της οργάνωσης του σπιτιού, προάγοντας θετικά συναισθήματα και ευεξία.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-10T10:59:00.000Z"
+        "publishedAt": "2026-01-14T07:16:48.000Z"
       },
       {
-        "id": "714fb3918602",
-        "title": "Το πρόωρο μωρό που έγινε θαύμα και γύρισε σπίτι με την οικογένειά του",
-        "simpleTitle": "Το πρόωρο μωρό που έγινε θαύμα και γύρισε σπίτι με την οικογένειά του",
-        "simpleText": "Τίτλος: Ένα πρόωρο μωρό γύρισε σπίτι με την οικογένειά του\n\nΈνα αγοράκι, ο Γκάμπριελ, γεννήθηκε πρόωρα, ζυγίζοντας μόλις 17 γραμμάρια. Το χεράκι του ήταν μικρότερο από ένα δακτυλικό αποτύπωμα ενός ενήλικα. Μετά από σχεδόν έναν χρόνο νοσηλείας, το μωρό κατάφερε να επιστρέψει στο σπίτι του με την οικογένειά του.\n\nΗ ιστορία του Γκάμπριελ δείχνει ότι ακόμα και σε δύσκολες στιγμές, η ελπίδα είναι σημαντική. Για τους γονείς του, οι καθημερινές στιγμές, όπως μια αγκαλιά ή ένας περίπατος, έχουν ιδιαίτερη αξία. Ό,τι φαίνεται φυσιολογικό για άλλους, για αυτούς είναι ένα όνειρο που έγινε πραγματικότητα.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/30727-prooro-moro-egine-thauma-oikogeneia/",
+        "id": "7d57a2f62fe4",
+        "title": "Από το «Είσαι νεκρός;» στο Demumu: Η κινεζική εφαρμογή που φροντίζει όσους ζουν μόνοι",
+        "simpleTitle": "Από το «Είσαι νεκρός;» στο Demumu: Η κινεζική εφαρμογή που φροντίζει όσους ζουν μόνοι",
+        "simpleText": "Η κινεζική εφαρμογή «Είσαι νεκρός;» αλλάζει όνομα και γίνεται «Demumu». Η εφαρμογή αυτή σχεδιάστηκε για άτομα που ζουν μόνα τους. Αν ο χρήστης δεν συνδεθεί για αρκετές ημέρες, στέλνει αυτόματα ειδοποίηση σε κοντινό του πρόσωπο.\n\nΗ αλλαγή ονόματος έγινε λόγω της μεγάλης επιτυχίας της εφαρμογής στην Κίνα, όπου κατέκτησε την πρώτη θέση στο App Store. Η νέα ονομασία «Demumu» θα χρησιμοποιηθεί διεθνώς. Οι προγραμματιστές δήλωσαν ότι στοχεύουν να βοηθήσουν περισσότερους ανθρώπους που ζουν μόνοι, διασφαλίζοντας την ασφάλειά τους.\n\nΜερικοί χρήστες πρότειναν να διατηρηθεί το παλαιό όνομα, ενώ άλλοι εξέφρασαν την υποστήριξή τους για την αλλαγή. Η εφαρμογή έρχεται σε μια εποχή που το ένα πέμπτο των νοικοκυριών στην Κίνα αποτελείται από άτομα που ζουν μόνα.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/01/14/world/apo-to-eisai-nekros-sto-demumu-i-kineziki-efarmogi-poy-frontizei-osoys-zoyn-monoi/",
         "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/30727-prooro-moro-egine-thauma-oikogeneia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η ιστορία αφορά ένα πρόωρο μωρό που κατάφερε να επιστρέψει σπίτι του μετά από σημαντική νοσηλεία, προσφέροντας μήνυμα ελπίδας και χαράς στην οικογένεια και στην κοινότητα. Είναι ένα θετικό και συγκινητικό γεγονός.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-07T16:15:33.000Z"
-      }
-    ],
-    "sports": [
-      {
-        "id": "d041a7f8212d",
-        "title": "UEFA Champions League: Η αναμέτρηση Ολυμπιακός – Λεβερκούζεν την Τρίτη ζωντανά στο Mega",
-        "simpleTitle": "UEFA Champions League: Η αναμέτρηση Ολυμπιακός – Λεβερκούζεν την Τρίτη ζωντανά στο Mega",
-        "simpleText": "Τίτλος: Ολυμπιακός και Λεβερκούζεν παίζουν την Τρίτη στο MEGA\n\nΤην Τρίτη, 20 Ιανουαρίου, ο Ολυμπιακός θα παίξει με τη Λεβερκούζεν. Ο αγώνας θα γίνει στο στάδιο \"Γ. Καραϊσκάκης\" και είναι σημαντικός για την πρόκριση στο UEFA Champions League. Ο αγώνας ξεκινάει στις 22:00 και θα μεταδοθεί ζωντανά από το MEGA.\n\nΟι παίκτες του Ολυμπιακού, μετά τη νίκη τους σε προηγούμενο παιχνίδι, θέλουν να κερδίσουν ξανά για να είναι πιο κοντά στην πρόκριση στην επόμενη φάση. Η Λεβερκούζεν, από την άλλη, δεν έχει πάει καλά στους προηγούμενους αγώνες και προσπαθεί να βελτιώσει τη θέση της στη βαθμολογία.\n\nΠριν τον αγώνα, θα υπάρχει εκπομπή στις 21:00 για να προετοιμαστεί το κοινό και να δοθούν πληροφορίες. Μετά τον αγώνα, θα ακολουθήσει συζήτηση και ανάλυση των γεγονότων.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/01/13/media/uefa-champions-league-i-anametrisi-olympiakos-leverkouzen-tin-triti-zontana-sto-mega/",
-        "sourceDomains": [
-          "tanea.gr"
+          "tanea.gr",
+          "news.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/13/media/uefa-champions-league-i-anametrisi-olympiakos-leverkouzen-tin-triti-zontana-sto-mega/"
+            "url": "https://www.tanea.gr/2026/01/14/world/apo-to-eisai-nekros-sto-demumu-i-kineziki-efarmogi-poy-frontizei-osoys-zoyn-monoi/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/tech/article/4050731/ise-nekros-i-viral-kineziki-efarmogi-gia-tous-anthropous-pou-zoun-moni-tous-allazi-onoma-meta-tin-epitichia-pou-gnorise.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια εφαρμογή που αποσκοπεί στην ασφάλεια ανθρώπων που ζουν μόνοι, αγγίζοντας σοβαρά κοινωνικά ζητήματα όπως η απομόνωση και η ασφάλεια των μοναχικών ατόμων, κάτι που είναι σημαντικό σε κοινωνικό και ψυχολογικό επίπεδο.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-14T06:54:17.000Z"
+      },
+      {
+        "id": "c26106e9e5f6",
+        "title": "Επίθεση Γεωργιάδη σε Καρυστιανού: «Πείτε ποιους ακριβώς δεν θέλετε να εκθέσετε»",
+        "simpleTitle": "Επίθεση Γεωργιάδη σε Καρυστιανού: «Πείτε ποιους ακριβώς δεν θέλετε να εκθέσετε»",
+        "simpleText": "Ο Άδωνις Γεωργιάδης επιτέθηκε στη Μαρία Καρυστιανού. Αυτή η επίθεση έγινε λόγω όσων είπε στην παραίτησή της από το σύλλογο Συγγενών Θυμάτων των Τεμπών.\n\nΟ Γεωργιάδης ζήτησε από την Καρυστιανού να διευκρινίσει ποιοι δεν θέλουν να εκτεθούν και τι ακριβώς συμβαίνει. Αναφέρθηκε στη σημασία της διαφάνειας, δηλαδή της σαφήνειας και της ειλικρίνειας, λέγοντας ότι πρέπει να γνωρίζουμε την αλήθεια.\n\nΑυτή η συζήτηση είναι σημαντική γιατί αφορά τις συνθήκες που σχετίζονται με τον σύλλογο και τα ζητήματα που έχουν ανακύψει γύρω από το θέμα. Οι δημόσιες δηλώσεις και οι παραιτήσεις από τέτοιες θέσεις συχνά προκαλούν αντιδράσεις και ερωτήματα στην κοινωνία.",
+        "sourceName": "TO BHMA, News.gr",
+        "sourceUrl": "https://www.tovima.gr/2026/01/14/politics/epithesi-georgiadi-se-karystianou-peite-poious-akrivos-den-thelete-na-ekthesete/",
+        "sourceDomains": [
+          "tovima.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/01/14/politics/epithesi-georgiadi-se-karystianou-peite-poious-akrivos-den-thelete-na-ekthesete/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4050705/georgiadis-axiotimi-k-karistianou-sto-onoma-tis-diafanias-pou-evangelizeste-pite-mas-epitelous-ti-akrivos-simveni-ke-pious-akrivos-den-thelete-na-ekthesete.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια πολιτική διαμάχη που συνδέεται με τη διαφάνεια και τις δημόσιες δηλώσεις σχετικά με σοβαρά κοινωνικά ζητήματα, γεγονός που την καθιστά σοβαρή.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-14T06:39:48.000Z"
+      },
+      {
+        "id": "0e974319f73d",
+        "title": "Κοπέρνικος: Το 2025 ήταν η τρίτη θερμότερη χρονιά στην Ιστορία",
+        "simpleTitle": "Κοπέρνικος: Το 2025 ήταν η τρίτη θερμότερη χρονιά στην Ιστορία",
+        "simpleText": "Τίτλος: Το 2025 ήταν η τρίτη θερμότερη χρονιά\n\nΕίναι γνωστό ότι το 2025 καταγράφηκε ως η τρίτη θερμότερη χρονιά στην ιστορία του πλανήτη. Αυτό αναφέρεται σε ανακοινώσεις του ευρωπαϊκού παρατηρητηρίου Copernicus. Ο μέσος όρος θερμοκρασίας της Γης τα τελευταία τρία χρόνια είναι πλέον πάνω από 1,5° Κελσίου σε σχέση με τα επίπεδα πριν από τη βιομηχανική εποχή, που ήταν από το 1850 έως το 1900.\n\nΑυτό το όριο των 1,5° Κελσίου είναι σημαντικό επειδή αποτελεί στόχο της Συμφωνίας του Παρισιού. Αυτή η συμφωνία προσπάθησε να περιορίσει την άνοδο της θερμοκρασίας και να προστατεύσει το περιβάλλον. Οι επιστήμονες προειδοποιούν ότι η υπέρβαση αυτού του ορίου μπορεί να φέρει πιο έντονες καύσωνες και πιο σφοδρές καταιγίδες.\n\nΗ κατάσταση είναι σοβαρή και απαιτεί προσοχή και δράση από όλες τις χώρες για να αποφευχθούν χειρότερες συνέπειες στο μέλλον.",
+        "sourceName": "Kathimerini, TA NEA",
+        "sourceUrl": "https://www.kathimerini.gr/life/environment/564020401/kopernikos-to-2025-itan-i-triti-thermoteri-chronia-stin-istoria/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/life/environment/564020401/kopernikos-to-2025-itan-i-triti-thermoteri-chronia-stin-istoria/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/14/science-technology/klimatiko-kampanaki-to-2025-triti-thermoteri-xronia-pano-apo-to-orio-toy-15c/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρά κλιματικά ζητήματα και τις συνέπειες της υπερθέρμανσης του πλανήτη, εστιάζοντας σε επιστημονικές ανακοινώσεις σχετικά με το κλίμα και τις προειδοποιήσεις για την κλιματική αλλαγή.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gb1c24e1224194e67001d7ea3c794330d1ed25376097f5ea68f613ffb3e8e1f5e16ffb3fdc685a25c4f60245583ab350ca11f8ac4c01916ef10119ed4ca240ffd_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-14T06:01:16.000Z"
+      },
+      {
+        "id": "61567f860730",
+        "title": "Τραγωδία στην Ταϊλάνδη: Τουλάχιστον 22 νεκροί και 30 τραυματίες από κατάρρευση γερανού πάνω σε τρένο",
+        "simpleTitle": "Τραγωδία στην Ταϊλάνδη: Τουλάχιστον 22 νεκροί και 30 τραυματίες από κατάρρευση γερανού πάνω σε τρένο",
+        "simpleText": "Τίτλος: Γερανός κατέρρευσε πάνω σε τρένο στην Ταϊλάνδη – Τουλάχιστον 22 νεκροί\n\nΣτην Ταϊλάνδη, το πρωί της Τετάρτης, συνέβη σοβαρό ατύχημα όταν γερανός κατέρρευσε και έπεσε πάνω σε επιβατικό τρένο. Το ατύχημα σημειώθηκε στην περιοχή Σίκιο, περίπου 230 χιλιόμετρα βορειοανατολικά της πρωτεύουσας, Μπανγκόκ.\n\nΣύμφωνα με τις αρχές, τουλάχιστον 22 άνθρωποι έχασαν τη ζωή τους και πάνω από 30 τραυματίστηκαν. Το τρένο εκτελούσε δρομολόγιο από την Μπανγκόκ προς την επαρχία Ουμπόν Ρατσάτανι. Ο γερανός συμμετείχε σε έργα κατασκευής σιδηροδρόμου υψηλής ταχύτητας όταν κατέρρευσε τη στιγμή που το τρένο περνούσε, προκαλώντας εκτροχιασμό και φωτιά.\n\nΟι διασώσεις συνεχίζονται και οι αρχές ερευνούν τα αίτια της κατάρρευσης του γερανού. Είναι σημαντικό να επισημάνουμε ότι στην Ταϊλάνδη, τέτοια ατυχήματα συμβαίνουν συχνά, κυρίως λόγω των κανόνων ασφάλειας που δεν τηρούνται σωστά.",
+        "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-tailandi-toulaxiston-22-nekroi-kai-30-traymaties-apo-katarreysi-geranou-pano-se-treno/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr",
+          "tovima.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/tragodia-stin-tailandi-toulaxiston-22-nekroi-kai-30-traymaties-apo-katarreysi-geranou-pano-se-treno/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564020359/tailandi-geranos-katerreyse-pano-se-treno-toylachiston-22-nekroi/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/14/world/tailandi-toylaxiston-22-nekroi-apo-sidirodromiko-dystyxima-meta-tin-katarreysi-geranoy/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/01/14/world/tragodia-stin-tailandi-geranos-epese-se-treno-toulaxiston-19-nekroi/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4050641/sidirodromiko-distichima-stin-tailandi-meta-apo-katarrefsi-geranou-22-i-nekri.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια σοβαρή tragédie που έλαβε χώρα στην Ταϊλάνδη με τουλάχιστον 22 θανάτους και πολλούς τραυματίες λόγω ενός βιομηχανικού ατυχήματος.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260114-SYNDESEIS-tailandi.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260114-SYNDESEIS-tailandi.jpg",
+        "publishedAt": "2026-01-14T05:43:26.000Z"
+      }
+    ],
+    "happy": [],
+    "sports": [
+      {
+        "id": "16ad30618239",
+        "title": "Οι 7 υψηλότερες κορυφές του κόσμου: Η απόλυτη πρόκληση της ορειβασίας",
+        "simpleTitle": "Οι 7 υψηλότερες κορυφές του κόσμου: Η απόλυτη πρόκληση της ορειβασίας",
+        "simpleText": "**Απλοποιημένος τίτλος: Οι 7 πιο ψηλές κορυφές του κόσμου και οι προκλήσεις τους**\n\nΟι 7 πιο ψηλές κορυφές του κόσμου είναι μεγάλοι στόχοι για τους ορειβάτες. Αυτές οι κορυφές βρίσκονται σε κάθε ήπειρο και η ανάβασή τους είναι πολύ δύσκολη. Απαιτούν καλή φυσική κατάσταση, ψυχική αντοχή και εμπειρία σε δύσκολες καιρικές συνθήκες.\n\nΗ πρώτη και πιο γνωστή κορυφή είναι το Όρος Έβερεστ, που βρίσκεται στα Ιμαλάια, Ανάμεσα στο Νεπάλ και το Θιβέτ. Είναι ψηλότερη από 8.000 μέτρα. Η ανάβαση διαρκεί 6 έως 9 εβδομάδες και έχει πολλές δυσκολίες, όπως η λεγόμενη «ζώνη θανάτου», όπου το οξυγόνο είναι λιγότερο και οι ορειβάτες δυσκολεύονται να αναπνεύσουν.\n\nΗ δεύτερη κορυφή είναι το Aconcagua στην Αργεντινή, που είναι σχεδόν 7.000 μέτρα ψηλή. Αν και κάποιοι το θεωρούν εύκολο, οι πολύ χαμηλές θερμοκρασίες και οι δυνατοί άνεμοι κάνουν την ανάβαση δύσκολη.\n\nΗ τρίτη είναι το Denali στην Αλάσκα, που για πολλούς είναι η πιο απαιτητική από τις 7 κορυφές. Το υψόμετρο είναι μεγάλο και οι συνθήκες είναι πολύ κρύες και δύσκολες.\n\nΤο Κιλιμάντζαρο στην Αφρική είναι διαφορετικό. Είναι προσβάσιμο σε αρχάριους, αλλά οι γρήγορες αλλαγές στο υψόμετρο μπορούν να προκαλέσουν προβλήματα.\n\nΤο Όρος Έλμπρους στη Ρωσία είναι η υψηλότερη κορυφή στην Ευρώπη, ενώ το Όρος Βίνσον στην Ανταρκτική είναι πολύ απομονωμένο και έχει πολύ χαμηλές θερμοκρασίες.\n\nΑυτές οι κορυφές είναι σημαντικές γιατί αποτελούν προκλήσεις για τους ορειβάτες σε όλο τον κόσμο. Κάθε χρόνο, πολλοί προσπαθούν να τις κατακτήσουν, αλλά οι κίνδυνοι είναι μεγάλοι.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30860-7-summits-oi-efta-ipsiloteres-korifes/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30860-7-summits-oi-efta-ipsiloteres-korifes/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου του UEFA Champions League, με αναφορές σε ομάδες και αποτελέσματα. | rss_backfill",
+        "categoryReason": "Το άρθρο αναφέρεται στις 7 υψηλότερες κορυφές του κόσμου, εστιάζοντας στις προκλήσεις που αντιμετωπίζουν οι ορειβάτες κατά την ανάβασή τους, κάτι που συνδέεται άμεσα με τον αθλητισμό και την ορειβασία.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gf68df639ee67a61e8bed5334a8665d28587507c22b1323d4bce56226a3fbcd23ef82a2537845158c92442bf1f4759b0c25faf664c1a83061aff066acd1d42232_1280.jpg",
-        "videoUrl": "https://www.youtube.com/embed/ejjwWhffis0?si=VrNq0s3ftAbPCTLI",
-        "publishedAt": "2026-01-13T14:47:11.000Z"
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-13T07:02:00.000Z"
       },
       {
         "id": "de88815deb87",
         "title": "Καραλής και Τζένγκο κορυφαίοι αθλητές του 2025 στον ελληνικό στίβο",
         "simpleTitle": "Καραλής και Τζένγκο κορυφαίοι αθλητές του 2025 στον ελληνικό στίβο",
-        "simpleText": "Τίτλος: Καραλής και Τζένγκο είναι οι καλύτεροι αθλητές του 2025 στον ελληνικό στίβο.\n\nΤο 2025 είναι μια σημαντική χρονιά για τον ελληνικό στίβο. Δύο αθλητές, ο Εμμανουήλ Καραλής και η Ελίνα Τζένγκο, αναδείχθηκαν κορυφαίοι της χρονιάς. Αυτή η διάκριση προήλθε από ψηφοφορία του ΣΕΓΑΣ, που είναι η ομοσπονδία στίβου στην Ελλάδα.\n\nΟ Καραλής και η Τζένγκο είχαν εξαιρετικές επιδόσεις φέτος. Κατάφεραν να σημειώσουν πολλές διακρίσεις και ρεκόρ, κάτι που δείχνει την πρόοδο του ελληνικού στίβου σε διεθνές επίπεδο. Αυτή η αναγνώριση είναι σημαντική γιατί προβάλλει τη δουλειά και τις επιτυχίες των αθλητών στην Ελλάδα και στο εξωτερικό.",
+        "simpleText": "Σημαντική Είδηση για τον Στίβο στην Ελλάδα\n\nΤο 2025 είναι μια πολύ καλή χρονιά για τον ελληνικό στίβο. Δύο αθλητές, ο Εμμανουήλ Καραλής και η Ελίνα Τζένγκο, αναδείχθηκαν κορυφαίοι αθλητές. Αυτό έγινε μέσω ψηφοφορίας του ΣΕΓΑΣ, που είναι ο φορέας που ειδικεύεται στον στίβο στην Ελλάδα.\n\nΟ Καραλής και η Τζένγκο κέρδισαν τον τίτλο για πρώτη φορά στις κατηγορίες ανδρών και γυναικών αντίστοιχα. Η χρονιά αυτή ήταν γεμάτη επιτυχίες για αυτούς, με ρεκόρ και διακρίσεις. Αυτό το γεγονός δείχνει τη συνεχή πρόοδο του ελληνικού στίβου στον παγκόσμιο αθλητισμό.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30757-karalis-kai-tzengko-koryfaioi-athlites-2025/",
         "sourceDomains": [
@@ -848,9 +747,9 @@
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά την αναγνώριση δύο αθλητών στον ελληνικό στίβο, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τις διακρίσεις τους.",
+        "categoryReason": "Η είδηση αναφέρεται σε αθλητές που διακρίθηκαν στον ελληνικό στίβο και αφορά τους τίτλους που κέρδισαν, καθιστώντας την κυρίως αθλητική.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g273b4e8f617c4922acc7c60015519f7cc96ba04a3bfe9410c7f4884b17e245100b32487f50f00411e0c046eeea93e0a907966d9e3c7af156c4034a697a91be4c_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gd0b0cc8a258e5b2888b5486b84cc64c9e4dd4743b1b42637ff6ea4e2a90cf7366a242f6a423e2afdfd44742d121a6bd1e98b0ce34e5c95220d8d192e31f5bc35_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-01-08T11:54:55.000Z"
       }
@@ -858,10 +757,84 @@
     "screen": [],
     "culture": [
       {
+        "id": "d83ff938d20a",
+        "title": "Grease στο Christmas Theater: το μιούζικαλ που κάνει την Αθήνα να χορεύει",
+        "simpleTitle": "Grease στο Christmas Theater: το μιούζικαλ που κάνει την Αθήνα να χορεύει",
+        "simpleText": "Το μιούζικαλ Grease θα παρουσιαστεί στο Christmas Theater στην Αθήνα. Αυτή είναι μια σημαντική εκδήλωση για την πόλη. Το Grease είναι ένα πολύ δημοφιλές μιούζικαλ, που συνδυάζει χορευτικά νούμερα και το κλίμα της δεκαετίας του '50 με σύγχρονα στοιχεία.\n\nΗ παράσταση θα περιλαμβάνει εντυπωσιακές χορογραφίες, όμορφα κοστούμια και περιγραφές που προκαλούν γέλιο, αλλά και λίγο δράμα. Είναι μια ευκαιρία για τους θεατές να περάσουν ευχάριστα και να ζήσουν μία γιορτινή ατμόσφαιρα.\n\nΗ παράσταση θα είναι διαθέσιμη για το κοινό, αλλά οι λεπτομέρειες σχετικά με τις ημερομηνίες και τα εισιτήρια δεν είναι γνωστές.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30891-grease-mioyzikal-christmas-theater-athina/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30891-grease-mioyzikal-christmas-theater-athina/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση επικεντρώνεται στην παρουσίαση του μιούζικαλ 'Grease', που είναι μια πολιτιστική εκδήλωση με χορευτικά νούμερα και θεατρική παραγωγή.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g688b8d2ce1f4d00761c8241153ae80e7ec06a5ce57ee88c33231798f24e4c1259bcca01d994a57b838baef758c0ee8c11f8a95ef63121b8ba0325118cbeb596d_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-14T07:18:00.000Z"
+      },
+      {
+        "id": "0a9fe513383a",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 14 Ιανουαρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 14 Ιανουαρίου",
+        "simpleText": "Σήμερα, 14 Ιανουαρίου, σύμφωνα με το εορτολόγιο, γιορτάζει η Αγία Νίνα. Αυτή είναι μια γιορτή που γιορτάζουν οι άνθρωποι που έχουν το όνομα Νίνα.\n\nΗ Αγία Νίνα γεννήθηκε στην Καππαδοκία, περιοχή στην Τουρκία, και ήταν σημαντική για την ιστορία της Γεωργίας. Ο πατέρας της ήταν στρατιωτικός και η μητέρα της διακόνισσα σε ναό. Η Αγία Νίνα ήθελε να κηρύξει το Ευαγγέλιο του Χριστού και πήγε στην Ιβηρία (σημερινή Γεωργία) γύρω στον 3ο αιώνα.\n\nΣτην Ιβηρία, η Αγία Νίνα βοήθησε να γνωρίσουν οι άνθρωποι τον Χριστό και ίδρυσε έναν ναό. Η ζωή και οι πράξεις της την κατέστησαν σημαντική μορφή στην χριστιανική πίστη. Το σώμα της, λέγεται, ότι παρέμεινε άφθαρτο μετά τον θάνατο της.\n\nΑυτή η γιορτή έχει σημασία για πολλούς ανθρώπους, καθώς συνδέει την πίστη με την ιστορία.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-14-ianouariou-2/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-14-ianouariou-2/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/14/greece/eortologio-poioi-giortazoun-simera-14-ianouariou/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αναφέρεται στην εορτή της Αγίας Νίνας και την πολιτιστική σημασία της γιορτής, συνδέοντάς την με την ιστορία και την πίστη.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-14T05:05:20.000Z"
+      },
+      {
+        "id": "278f9ceae9cb",
+        "title": "Άννα Βίσση: Η συλλεκτική Rainbow Collection γιορτάστηκε στα Public με ένα ξεχωριστό Meet & Greet",
+        "simpleTitle": "Άννα Βίσση: Η συλλεκτική Rainbow Collection γιορτάστηκε στα Public με ένα ξεχωριστό Meet & Greet",
+        "simpleText": "Η Άννα Βίσση παρουσίασε τη συλλεκτική σειρά βινυλίων «Rainbow Collection» σε εκδήλωση που έγινε στα Public. Η εκδήλωση συνέβη στις 12 Ιανουαρίου 2025, στο κατάστημα της Αθήνας, στο Σύνταγμα.\n\nΠολλοί θαυμαστές έδωσαν το παρόν και είχαν την ευκαιρία να την γνωρίσουν από κοντά. Η βραδιά ήταν γεμάτη συναίσθημα και μουσική. Αυτή η εκδήλωση είναι σημαντική γιατί γιορτάζει την καριέρα της Άννας Βίσση και τη σύνδεσή της με το κοινό.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30887-anna-vissi-rainbow-collection-public/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30887-anna-vissi-rainbow-collection-public/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η εκδήλωση αφορά την παρουσίαση μιας συλλεκτικής σειράς βινυλίων από την Άννα Βίσση και περιλαμβάνει μουσική και πολιτιστικές στιγμές, γεγονός που την κατατάσσει στην κατηγορία του πολιτισμού.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g81b8c54eeffffedfbfad849fb58946f31c7ea708d58743d47ac430b72d7cc9cf182793c4c3c427da214e4ff7f66921735fed4b803db6a804278eafe98ce48e34_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-13T18:32:00.000Z"
+      },
+      {
         "id": "7b4814dada23",
         "title": "Ασφάλιστρα ενός δισεκατομμυρίου για ένα έργο τέχνης χιλίων ετών",
         "simpleTitle": "Ασφάλιστρα ενός δισεκατομμυρίου για ένα έργο τέχνης χιλίων ετών",
-        "simpleText": "Τίτλος: Ασφάλιστρα ενός δισεκατομμυρίου ευρώ για ιστορικό έργο τέχνης\n\nΜία σπουδαία ταπισερί, που είναι 1.000 ετών, ετοιμάζεται να ταξιδέψει από τη Νορμανδία στο Λονδίνο. Αυτή η ταπισερί ονομάζεται Μπαγιέ και είναι περίπου 70 μέτρα μακριά. Απεικονίζει τη Νορμανδική κατάκτηση της Αγγλίας τον 11ο αιώνα.\n\nΘεωρείται πολύ εύθραυστη και για αυτό, τα ασφάλιστρα για τη μετακίνησή της φτάνουν το ένα δισεκατομμύριο ευρώ. Οι ειδικοί ανησυχούν για την κατάσταση του έργου κατά τη διάρκεια του ταξιδιού, γι' αυτό και έχουν πάρει όλες τις απαραίτητες προφυλάξεις. Αυτή η μελέτη και φροντίδα για το έργο τέχνης είναι σημαντική, καθώς πρόκειται για ένα μοναδικό κομμάτι της ιστορίας και της τέχνης.",
+        "simpleText": "Τίτλος: Ένα έργο τέχνης χιλίων ετών ασφαλίζεται για ένα δισεκατομμύριο ευρώ\n\nΜια ιστορική ταπισερί από τη Νορμανδία ετοιμάζεται να ταξιδέψει στο Λονδίνο. Αυτή η ταπισερί ονομάζεται Μπαγιέ και είναι περίπου 1.000 ετών. Έχει μήκος σχεδόν 70 μέτρων και απεικονίζει τη Νορμανδική κατάκτηση της Αγγλίας, που έγινε τον 11ο αιώνα.\n\nΗ ταπισερί φυλάσσεται στο Μουσείο Ταπισερί Μπαγιέ και είναι πολύ εύθραυστη. Για αυτό το λόγο, η μεταφορά της θα απαιτήσει ασφάλιστρα που φτάνουν το ένα δισεκατομμύριο ευρώ. Αυτό το γεγονός είναι σημαντικό γιατί δείχνει την αξία και την προστασία που απαιτούν τέτοια μοναδικά έργα τέχνης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30786-asfalistria-disekatommyrio-ergo-texnis-tapiseri-mpaie/",
         "sourceDomains": [
@@ -874,7 +847,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά ένα ιστορικό και καλλιτεχνικό έργο τέχνης, την ταπισερί του Μπαγιέ, και τονίζει τη σημασία της τέχνης και της πολιτιστικής κληρονομιάς.",
+        "categoryReason": "Η είδηση αφορά ένα ιστορικό έργο τέχνης, την ταπισερί του Μπαγιέ, που είναι σημαντική για την πολιτιστική κληρονομιά και τη μεταφορά του σε εκθεσιακό χώρο, καθιστώντας την πιο σχετική με πολιτιστικά θέματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -884,7 +857,7 @@
         "id": "eb55f1fd26ea",
         "title": "Η ανασκαφή της Αρχαίας Τενέας αποκαλύπτει έναν μοναδικό χώρο μυστηριακής ίασης",
         "simpleTitle": "Η ανασκαφή της Αρχαίας Τενέας αποκαλύπτει έναν μοναδικό χώρο μυστηριακής ίασης",
-        "simpleText": "Τίτλος: Ανακαλύψεις στην Αρχαία Τενέα για τη θεραπεία\n\nΗ ανασκαφή στην Αρχαία Τενέα αποκάλυψε πρόσφατα έναν σημαντικό χώρο που σχετίζεται με τη θεραπεία. Η διαδικασία ολοκληρώθηκε τον Οκτώβριο του 2025.\n\nΣε αυτή την ανασκαφή βρέθηκαν πολλά ενδιαφέροντα αντικείμενα που μας δίνουν πληροφορίες για τη ζωή των ανθρώπων εκείνης της εποχής. Ο χώρος γύρω από ένα Ταφικό Μνημείο έχει χρησιμοποιηθεί από την αρχαϊκή έως την ρωμαϊκή περίοδο. Στο κέντρο, υπάρχει ένα ορθογώνιο κτίριο κάτω από τη γη και γύρω του υπάρχει λιθόστρωτο πλάτωμα.\n\nΟ χώρος είναι οργανωμένος και περιβάλλεται από παλιές οδούς και άλλα κτίρια. Αυτές οι ανακαλύψεις είναι σημαντικές γιατί μας βοηθούν να κατανοήσουμε καλύτερα τις θρησκευτικές και θεραπευτικές πρακτικές των αρχαίων ανθρώπων.",
+        "simpleText": "Ανασκαφή στην Αρχαία Τενέα αποκαλύπτει χώρο θεραπείας\n\nΗ ανασκαφή στην Αρχαία Τενέα ολοκληρώθηκε τον Οκτώβριο του 2025. Βρέθηκαν σημαντικά ευρήματα που δείχνουν πώς οι αρχαίοι άνθρωποι ζούσαν και θεραπεύονταν.\n\nΣτην περιοχή γύρω από ένα Ταφικό Μνημείο βρέθηκε ένα μεγάλο κτίριο που χρησιμοποιούνταν από την αρχαϊκή εποχή μέχρι τη ρωμαϊκή. Στο κέντρο αυτού του χώρου υπάρχει ένα υπόγειο κτίριο και γύρω του ένα λιθόστρωτο πλάτωμα.\n\nΟ χώρος είναι οργανωμένος, με δρόμους και άλλα κτίρια, και φαίνεται να ήταν σημαντικό μέρος για θρησκευτικές τελετές και θεραπεία. Αυτή η ανακάλυψη μας βοηθά να κατανοήσουμε καλύτερα τη ζωή και τις πεποιθήσεις των αρχαίων.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30703-anakafi-archaia-tenea-mystiriaki-iasi/",
         "sourceDomains": [
@@ -897,7 +870,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η ανασκαφή της Αρχαίας Τενέας αφορά την ανακάλυψη αρχαίων χώρων που σχετίζονται με τη θεραπεία και τις θρησκευτικές πρακτικές, τα οποία είναι σημαντικά για την πολιτιστική και ιστορική κληρονομιά.",
+        "categoryReason": "Η ανακάλυψη της Αρχαίας Τενέας σχετίζεται με την πολιτιστική και θρησκευτική ζωή των αρχαίων, προσφέροντας ενδιαφέροντα στοιχεία για το πώς λειτουργούσαν οι χώροι θεραπείας και τελετών.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -906,10 +879,33 @@
     ],
     "fun": [
       {
+        "id": "19457b028660",
+        "title": "Ζάμπρας και Πασπάτης ανεβαίνουν μαζί στη σκηνή για stand up comedy χωρίς φίλτρα",
+        "simpleTitle": "Ζάμπρας και Πασπάτης ανεβαίνουν μαζί στη σκηνή για stand up comedy χωρίς φίλτρα",
+        "simpleText": "Δύο κωμικοί παρουσιάζουν νέα παράσταση\n\nΟ Θωμάς Ζάμπρας και ο Ανδρέας Πασπάτης αποφάσισαν να συνεργαστούν για μία νέα παράσταση stand up comedy. Η παράσταση θα περιλαμβάνει υλικό που οι ίδιοι δεν γνωρίζουν αν θα είναι αστείο. Αυτό κάνει την εμπειρία πιο αυθεντική και ενδιαφέρουσα.\n\nΗ εκδήλωση θα γίνει σε μία σκηνή όπου το κοινό θα συμμετέχει σε ένα πείραμα γέλιου. Οι κωμικοί ελπίζουν να προσφέρουν μία ξεχωριστή βραδιά, γεμάτη εκπλήξεις. Αυτό είναι σημαντικό γιατί οι θεατές θα έχουν την ευκαιρία να δουν κάτι καινούριο και διαφορετικό.\n\nΗ ημερομηνία και ο χώρος της παράστασης δεν έχουν ανακοινωθεί μέχρι στιγμής.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/30890-zampra-paspatis-stand-up-comedy-arch-club/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/30890-zampra-paspatis-stand-up-comedy-arch-club/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η είδηση αφορά μια κωμική παράσταση με αβέβαιο υλικό και διαδραστική συμμετοχή του κοινού, που προάγει την διασκέδαση και την ψυχαγωγία.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gbfdce8844ec2e45bb64ee34dee780dbda7356e4f72506d1a7b5e3feab7753833fce3e445699694118b251539519ac2dd388fcc4ef655d20b366212e374309ccc_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-13T17:18:46.000Z"
+      },
+      {
         "id": "6dcb754a407d",
         "title": "Μπανάνες: πώς να μείνουν φρέσκες για περισσότερες μέρες",
         "simpleTitle": "Μπανάνες: πώς να μείνουν φρέσκες για περισσότερες μέρες",
-        "simpleText": "Τίτλος: Πώς να κρατήσουμε τις μπανάνες φρέσκες\n\nΟι μπανάνες είναι δημοφιλή φρούτα. Είναι νόστιμες και υγιεινές, αλλά ωριμάζουν γρήγορα. Συχνά, μπορεί να τις βρούμε μαλακές και καφέ σε λίγες μέρες.\n\nΥπάρχουν όμως τρόποι για να τις κρατήσουμε φρέσκες για περισσότερο χρόνο. Αυτοί οι τρόποι είναι απλοί και χρήσιμοι. Είναι σημαντικό να γνωρίζουμε πώς να διατηρούμε τις μπανάνες, ώστε να μην τις πετάμε. Αυτό μας βοηθά να επωφελούμαστε από την ποιότητά τους.",
+        "simpleText": "Τίτλος: Πώς να κρατήσουμε τις μπανάνες φρέσκιες για περισσότερο καιρό\n\nΟι μπανάνες είναι δημοφιλή και νόστιμα φρούτα. Είναι οικονομικά και γεμάτα θρεπτικά συστατικά, αλλά ωριμάζουν γρήγορα. Όταν ωριμάσουν, μπορεί να γίνουν μαλακές και σκούρες. Αυτό συμβαίνει συχνά και πολλοί το έχουν παρατηρήσει.\n\nΕυτυχώς, υπάρχουν κάποιες εύκολες μέθοδοι για να διατηρήσουμε τις μπανάνες φρέσκες για περισσότερες μέρες. Αυτοί οι τρόποι μπορούν να βοηθήσουν όλους όσους θέλουν να απολαμβάνουν τις μπανάνες τους χωρίς να χάνονται γρήγορα.\n\nΗ ενημέρωση αυτή είναι χρήσιμη για κάθε οικογένεια που αγοράζει μπανάνες και θέλει να τις διατηρεί σε καλή κατάσταση.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30711-bananes-pos-na-meinoun-freskes-perissotero/",
         "sourceDomains": [
@@ -922,7 +918,7 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά πρακτικές πληροφορίες για το πώς να διατηρήσουμε τις μπανάνες φρέσκες, γεγονός που συνδέεται με την καθημερινή ζωή και τη διασκέδαση της μαγειρικής. Επομένως, είναι πιο κατάλληλο να καταταχθεί στην κατηγορία του fun.",
+        "categoryReason": "Η είδηση αφορά πρακτικές συμβουλές για τη συντήρηση των μπανάνα, που είναι χρήσιμες καθημερινά και προσθέτουν μια ευχάριστη διάσταση στην καθημερινότητα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
