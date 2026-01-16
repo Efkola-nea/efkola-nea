@@ -44,7 +44,7 @@ jobs:
           aws s3 sync "${{ inputs.site_dir }}" "s3://${{ secrets.S3_BUCKET }}/" \
             --delete \
             --exclude ".git/*" --exclude ".github/*" --exclude "README*" --exclude "**/*.map" \
-            --cache-control "public,max-age=31536000,immutable"
+            --cache-control "no-cache,no-store,must-revalidate"
 
           aws s3 sync "${{ inputs.site_dir }}" "s3://${{ secrets.S3_BUCKET }}/" \
             --exclude "*" \
