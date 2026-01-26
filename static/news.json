@@ -1,181 +1,191 @@
 {
-  "generatedAt": "2026-01-25T15:44:01.313Z",
+  "generatedAt": "2026-01-26T07:53:44.299Z",
   "articles": [
     {
-      "id": "2fc1febac686",
-      "title": "Εβδομάδα αυξήσεων για 1 εκατ. εργαζόμενους στον ιδιωτικό τομέα",
-      "simpleTitle": "Εβδομάδα αυξήσεων για 1 εκατ. εργαζόμενους στον ιδιωτικό τομέα",
-      "simpleText": "Τίτλος: Αυξήσεις για 1 εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα\n\nΠρογραμματίζονται αυξήσεις για περίπου 1 εκατομμύριο εργαζόμενους που δουλεύουν στον ιδιωτικό τομέα. Οι αλλαγές αυτές αφορούν τις κλίμακες φορολόγησης. Αυτό σημαίνει ότι οι φόροι που πληρώνουν οι εργαζόμενοι θα αλλάξουν, κάνοντάς τους πιο ευνοϊκούς. Οι αυξήσεις θα εφαρμοστούν πλήρως μέσα στην εβδομάδα.\n\nΑυτή η εξέλιξη είναι σημαντική, καθώς μπορεί να επηρεάσει το εισόδημα πολλών ανθρώπων. Παρά τις αυξήσεις, δεν υπάρχουν περισσότερες λεπτομέρειες για το πώς θα εφαρμοστούν αυτές οι αλλαγές. Είναι άγνωστο πότε ακριβώς θα ξεκινήσουν οι νέες κλίμακες φορολόγησης.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/01/25/finance/evdomada-ayksiseon-gia-1-ekat-ergazomenos-ston-idiotiko-tomea/",
-      "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/25/finance/evdomada-ayksiseon-gia-1-ekat-ergazomenos-ston-idiotiko-tomea/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/oikonomia/article/4059263/erchete-evdomada-afxiseon-gia-ena-ekatommirio-ergazomenous-ston-idiotiko-tomea.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σημαντικές οικονομικές αλλαγές που επιδρούν στους εργαζόμενους στον ιδιωτικό τομέα και την φορολογία τους, καθιστώντας την σοβαρή λόγω της επίδρασής της στα εισοδήματα και την οικονομία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-25T15:00:35.000Z"
-    },
-    {
-      "id": "569045e24e42",
-      "title": "Θεσσαλονίκη: Πτώση 75χρονου από μπαλκόνι 4ου ορόφου",
-      "simpleTitle": "Θεσσαλονίκη: Πτώση 75χρονου από μπαλκόνι 4ου ορόφου",
-      "simpleText": "Στην Θεσσαλονίκη, ένα 75χρονος άνδρας έπεσε από το μπαλκόνι του τέταρτου ορόφου. Το περιστατικό συνέβη στην περιοχή Τούμπα, γύρω στη 1.15 το μεσημέρι. Ο άνδρας διακομίστηκε άμεσα στο Ιπποκράτειο Νοσοκομείο, έχοντας τραυματιστεί σοβαρά. Η αστυνομία ερευνά πώς συνέβη η πτώση. Είναι σημαντικό να κατανοήσουμε τις συνθήκες, ώστε να αποφεύγονται παρόμοια ατυχήματα στο μέλλον.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ptosi-75xronou-apo-mpalkoni-4ou-orofou/",
+      "id": "61a1dd3f5bc9",
+      "title": "Έγκλημα στη Γλυφάδα: Στον εισαγγελέα ο 46χρονος πατροκτόνος – Συγκλονίζουν οι μαρτυρίες των αυτοπτών μαρτύρων",
+      "simpleTitle": "Έγκλημα στη Γλυφάδα: Στον εισαγγελέα ο 46χρονος πατροκτόνος – Συγκλονίζουν οι μαρτυρίες των αυτοπτών μαρτύρων",
+      "simpleText": "Στην Γλυφάδα, ένας 46χρονος άντρας κατηγορείται ότι σκότωσε τον 80χρονο πατέρα του. Το έγκλημα συνέβη το πρωί της Κυριακής, 25 Ιουνίου. Ο δράστης είχε προηγούμενη καταδίκη για τη δολοφονία της μητέρας του πριν από χρόνια.\n\nΣύμφωνα με μάρτυρες, λίγο πριν τη δολοφονία, ο πατέρας ετοιμαζόταν να πάει στην εκκλησία. Ο γιος τον μαχαίρωσε και μετά τον έβαλε στο πορτμπαγκάζ του αυτοκινήτου τους. Κάποιες πληροφορίες αναφέρουν ότι είχε βάλει εκκλησιαστική μουσική για να καλύψει τις κραυγές του πατέρα του.\n\nΟ 46χρονος είχε αποφυλακιστεί μετά από τέσσερα χρόνια φυλάκισης και αντιμετώπιζε ψυχιατρικά προβλήματα. Πολλοί αναρωτιούνται πώς κατάφερε να αποφυλακιστεί παρά την επικίνδυνη συμπεριφορά του. Η ΕΛΑΣ ερευνά τις συνθήκες που οδήγησαν στην αποφυλάκισή του.\n\nΟ δράστης θα παρουσιαστεί στον εισαγγελέα για να αντιμετωπίσει τις κατηγορίες.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/egklima-sti-glyfada-ston-eisaggelea-o-46xronos-patroktonos-sygklonizoun-oi-martyries-ton-aytopton-martyron/",
       "sourceDomains": [
         "ertnews.gr",
-        "news.gr"
+        "kathimerini.gr",
+        "tanea.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki-ptosi-75xronou-apo-mpalkoni-4ou-orofou/"
+          "url": "https://www.ertnews.gr/roi-idiseon/egklima-sti-glyfada-ston-eisaggelea-o-46xronos-patroktonos-sygklonizoun-oi-martyries-ton-aytopton-martyron/"
         },
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4059491/ptosi-75chronou-apo-balkoni-4ou-orofou-stin-thessaloniki.html"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564041773/egklima-sti-glyfada-ston-eisaggelea-o-46chronos-patroktonos-oi-martyries-gia-ti-dolofonia-kai-i-skia-tis-apofylakisis/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/greece/egklima-sti-glyfada-ston-eisaggelea-odigeitai-simera-o-46xronos-patroktonos/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρει ένα σοβαρό ατύχημα με pτώση ενός ηλικιωμένου, που έχει σοβαρές συνέπειες και σχετίζεται με ζητήματα ασφάλειας.",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό έγκλημα, με υψηλά κοινωνικά και νομικά ζητήματα, όπως η δολοφονία και οι ψυχιατρικές καταστάσεις του δράστη.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g555bcd160bd0f44962e0661fb03f3d9380a3f82702b0db3cab93c9650962b255fd39fd2853b8b07188164d101c408b9215d0a69b4fca82a661044a2c9f84edf2_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-25T14:57:07.000Z"
+      "imageUrl": "https://pixabay.com/get/gb183dcf6e463583e0d2099ce9e0253d5107ecc25b06adb78054f549e7eee84185ee4ff73315394041537fb4819f3bb52fb37a9a804ed9db435bd9f228ced1b7d_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SYNDESEIS-DARSINOS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SYNDESEIS-DARSINOS.jpg",
+      "publishedAt": "2026-01-26T07:33:21.000Z"
     },
     {
-      "id": "cd2586548931",
-      "title": "Η Θεσσαλονίκη τιμά την Ημέρα Μνήμης των Ελλήνων Εβραίων μαρτύρων και ηρώων του Ολοκαυτώματος",
-      "simpleTitle": "Η Θεσσαλονίκη τιμά την Ημέρα Μνήμης των Ελλήνων Εβραίων μαρτύρων και ηρώων του Ολοκαυτώματος",
-      "simpleText": "Η Θεσσαλονίκη τιμά τους Έλληνες Εβραίους που υπήρξαν θύματα του Ολοκαυτώματος\n\nΤην Κυριακή, στην Πλατεία Ελευθερίας στη Θεσσαλονίκη, πραγματοποιήθηκε εκδήλωση για να τιμηθούν οι Έλληνες Εβραίοι μάρτυρες και ήρωες του Ολοκαυτώματος. Στην εκδήλωση συμμετείχαν ομιλητές που ανέφεραν τη σημασία του σεβασμού και της ιστορικής μνήμης. Ο δήμαρχος της πόλης, Στέλιος Αγγελούδης, ανακοίνωσε ότι η πόλη είναι έτοιμη να ξεκινήσει τις εργασίες για τη δημιουργία ενός Πάρκου Μνήμης στην πλατεία. Αυτό αναμένεται να ολοκληρωθεί σύντομα, καθώς έχουν αρθεί νομικά εμπόδια.\n\nΗ εκδήλωση περιλάμβανε κατάθεση στεφάνων στο Μνημείο Ολοκαυτώματος και αναφορές στο υπό κατασκευή Μουσείο Ολοκαυτώματος. Ο πρόεδρος της Ισραηλιτικής Κοινότητας Θεσσαλονίκης τόνισε την ανάγκη για έργα μνήμης, καθώς και την αύξηση του αντισημιτισμού στην Ευρώπη και την Ελλάδα. Αυτό το γεγονός είναι σημαντικό, γιατί προωθεί την αναγνώριση της ιστορίας και την ενίσχυση της κοινωνικής συνοχής.",
-      "sourceName": "ERT News, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/video/i-thessaloniki-tima-tin-imera-mnimis-ton-ellinon-evraion-martyron-kai-iroon-tou-olokaytomatos/",
+      "id": "b4962349fa4a",
+      "title": "Τραγωδία στα Τρίκαλα: Νεκρές τέσσερις εργαζόμενες από τη φωτιά στη «Βιολάντα» – Αγνοείται μία ακόμα",
+      "simpleTitle": "Τραγωδία στα Τρίκαλα: Νεκρές τέσσερις εργαζόμενες από τη φωτιά στη «Βιολάντα» – Αγνοείται μία ακόμα",
+      "simpleText": "Τίτλος: Τραγωδία στα Τρίκαλα: Φωτιά στο εργοστάσιο «Βιολάντα» – Τέσσερις γυναίκες νεκρές\n\nΜια σοβαρή φωτιά ξέσπασε το πρωί σε ένα εργοστάσιο τροφίμων, τη «Βιολάντα», στα Τρίκαλα. Η πυρκαγιά άρχισε λίγο μετά τις 4 το πρωί και προκάλεσε έκρηξη, που οδήγησε στην κατάρρευση μέρους της σκεπής. Στο εργοστάσιο εκείνη τη στιγμή εργαζόντουσαν 12 άτομα. Από αυτά, τέσσερις γυναίκες βρέθηκαν νεκρές, ενώ μία ακόμη αγνοείται. Οι σοροί τους ήταν σοβαρά κατεστραμμένες.\n\nΑνάμεσα στους άλλους εργαζόμενους, οκτώ άτομα κατάφεραν να βγουν και μεταφέρθηκαν σε νοσοκομεία με αναπνευστικά προβλήματα και ελαφρά τραύματα. Οι πυροσβέστες προσπάθησαν να σβήσουν την φωτιά και να αποτρέψουν την εξάπλωσή της σε άλλα κτίρια.\n\nΣτο σημείο της καταστροφής βρέθηκαν πολλές δυνάμεις, καθώς η κατάσταση ήταν πολύ δύσκολη. Οι αιτίες της φωτιάς διερευνώνται, και οι αρχές συνεχίζουν τις προσπάθειες για τον εντοπισμό της αγνοούμενης εργαζόμενης.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/tragodia-sta-trikala-nekres-tesseris-ergazomenes-agnoeitai-mia-akoma/",
       "sourceDomains": [
-        "ertnews.gr",
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/greece/tragodia-sta-trikala-nekres-tesseris-ergazomenes-agnoeitai-mia-akoma/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/26/society/trikala-megali-fotia-se-mpiskotoviomixania-anafores-gia-traymaties-kai-agnooumenous/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή και τραγική κατάσταση που προήλθε από φωτιά σε εργοστάσιο, με θανάτους και τραυματισμούς, που συνιστά σοβαρό κοινωνικό ζήτημα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g094ac1d0f9950ec6804e7e4352b5c30037fa32c2e6bd6a16f6eb412750a3911b1c34dd1799d59fb9199078e4119dd63fa0c6039ceb808fd86e57e4ee0dd7da1a_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.jpg",
+      "publishedAt": "2026-01-26T07:09:24.000Z"
+    },
+    {
+      "id": "98b48e61442b",
+      "title": "Μακελειό με τουλάχιστον 11 νεκρούς στο Μεξικό: Ένοπλοι άνοιξαν πυρ σε γήπεδο ποδοσφαίρου",
+      "simpleTitle": "Μακελειό με τουλάχιστον 11 νεκρούς στο Μεξικό: Ένοπλοι άνοιξαν πυρ σε γήπεδο ποδοσφαίρου",
+      "simpleText": "Στην πόλη Σαλαμάνκα, στη πολιτεία Γουαναχουάτο του Μεξικού, έγινε μια φονική επίθεση κατά τη διάρκεια ενός ποδοσφαιρικού αγώνα. Ενόπλοι άνοιξαν πυρ στο γήπεδο, με αποτέλεσμα να πεθάνουν τουλάχιστον 11 άνθρωποι και να τραυματιστούν 12. Από τους νεκρούς, οι 10 άφησαν την τελευταία τους πνοή στη σκηνή, ενώ ένας άλλος απέθανε αργότερα στο νοσοκομείο.\n\nΗ επίθεση φέρει την υπογραφή συμμοριών του οργανωμένου εγκλήματος, οι οποίες δραστηριοποιούνται στην περιοχή. Οι τοπικές αρχές έχουν ξεκινήσει επιχείρηση για να εντοπίσουν τους δράστες. Σημειώνεται ότι λίγες ώρες πριν την επίθεση, είχαν βρεθεί σάκοι με ανθρώπινα λείψανα στην περιοχή, γεγονός που εντείνει την ανησυχία για τη βία και την εγκληματικότητα.\n\nΗ Γουαναχουάτο είναι γνωστή για τη βιομηχανία και τον τουρισμό της, αλλά και για τις συγκρούσεις μεταξύ συμμοριών που αγωνίζονται για τον έλεγχο της διακίνησης ναρκωτικών και καυσίμων. Αυτή η κατάσταση δημιουργεί σοβαρά προβλήματα για τους κατοίκους και την ασφάλεια στην περιοχή.",
+      "sourceName": "TA NEA, News.gr, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2026/01/26/world/makeleio-me-toylaxiston-11-nekroys-sto-meksiko-enoploi-anoiksan-pyr-se-gipedo-podosfairoy/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/video/i-thessaloniki-tima-tin-imera-mnimis-ton-ellinon-evraion-martyron-kai-iroon-tou-olokaytomatos/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/world/makeleio-me-toylaxiston-11-nekroys-sto-meksiko-enoploi-anoiksan-pyr-se-gipedo-podosfairoy/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4059563/tromos-sto-mexiko-enopli-anixan-pir-se-gipedo-podosferou-11-nekri.html"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/i-thessaloniki-timise-tin-imera-mnimis-twn-ellinwn-evraiwn-martyrwn-kai-irwwn-tou-olokaftwmatos-44343300143"
+          "url": "https://www.protagon.gr/epikairotita/makeleio-se-gipedo-podosfairou-sto-meksiko-11-nekroi-se-epithesi-symmorias-44343300236"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η εκδήλωση τιμής και μνήμης για τους Έλληνες Εβραίους θύματα του Ολοκαυτώματος αναδεικνύει σοβαρά ζητήματα ιστορικής ευθύνης και κοινωνικής συνοχής, καθώς και την ανάγκη για αντίσταση ενάντια στον αντισημιτισμό, γεγονότα που σχετίζονται με μεγάλα κοινωνικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfa90fb3ae85ce12b93929803b6f9bec07175bc557fcef1ca080bf4297bed8c81eb840b57be1d7f0a1568df705f13494ff16386ac2658aa6d40529fa336509b2d_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/01/25-13-01-evraioi.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2026/01/25-13-01-evraioi_2.jpg",
-      "publishedAt": "2026-01-25T14:35:59.000Z"
-    },
-    {
-      "id": "d576cfbc2ec1",
-      "title": "Πεσκόφ: Η Μόσχα δεν θα συζητήσει ποτέ με την Κάλας",
-      "simpleTitle": "Πεσκόφ: Η Μόσχα δεν θα συζητήσει ποτέ με την Κάλας",
-      "simpleText": "Τίτλος: Η Ρωσία δεν θέλει να μιλήσει με την Κάγια Κάλας\n\nΟ εκπρόσωπος της Ρωσίας, Ντμίτρι Πεσκόφ, δήλωσε ότι η Μόσχα δεν θα συζητήσει ποτέ με την Κάγια Κάλας, η οποία είναι υπεύθυνη για την εξωτερική πολιτική της Ευρωπαϊκής Ένωσης. Αυτό σημαίνει ότι η Ρωσία δεν θέλει να κάνει διάλογο μαζί της, περιμένοντας να αποχωρήσει από την θέση της.\n\nΟ Πεσκόφ εξέφρασε επίσης ανησυχίες σχετικά με τα σχέδια των Ηνωμένων Πολιτειών για ένα σύστημα προστασίας από πυραύλους, γνωστό ως Χρυσός Θόλος. Ανέφερε ότι οι ρωσικές δυνάμεις παρακολουθούν αυτά τα σχέδια, ειδικά σε σχέση με τη Γροιλανδία.\n\nΑυτό το θέμα είναι σημαντικό διότι δείχνει την τρέχουσα κατάσταση στις σχέσεις μεταξύ Ρωσίας και Δύσης.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/peskof-i-mosxa-den-tha-syzitisei-pote-me-tin-kalas/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/peskof-i-mosxa-den-tha-syzitisei-pote-me-tin-kalas/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4059436/peskof-i-rosia-den-tha-sizitisi-pote-me-tin-kalas-tis-ee.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρει τη δήλωση του εκπροσώπου της Ρωσίας σχετικά με την απόρριψη διαλόγου με την Κάγια Κάλας και τις ανησυχίες για τις στρατηγικές σχεδιάσεις των ΗΠΑ, τα οποία είναι σοβαρά πολιτικά και διεθνή θέματα.",
+      "categoryReason": "Η είδηση αφορά μια φονική επίθεση με πολλούς θανάτους και τραυματισμούς, γεγονός που σχετίζεται με σοβαρά κοινωνικά θέματα όπως η βία και το οργανωμένο έγκλημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-25T14:02:01.000Z"
+      "publishedAt": "2026-01-26T07:07:13.000Z"
     },
     {
-      "id": "dc517ac18691",
-      "title": "Πάτρα: Χωρίς τις αισθήσεις του ανασύρθηκε άνδρας μετά από κατάσβεση φωτιάς σε οικία",
-      "simpleTitle": "Πάτρα: Χωρίς τις αισθήσεις του ανασύρθηκε άνδρας μετά από κατάσβεση φωτιάς σε οικία",
-      "simpleText": "Στην Πάτρα, ένας 75χρονος άνδρας βρέθηκε χωρίς τις αισθήσεις του μέσα από το σπίτι του, μετά από φωτιά που ξέσπασε στην περιοχή Καστελόκαμπος. Η φωτιά φαίνεται να ξεκίνησε από την κουζίνα, όπου οι ερευνητές βρήκαν τα «μάτια» της κουζίνας ανοιχτά. Υπάρχουν μαρτυρίες για μία έκρηξη που έγινε από γκαζάκια που είχε ο ιδιοκτήτης.\n\nΟι πυροσβέστες έφτασαν γρήγορα στο σημείο με 12 άντρες και 5 οχήματα για να σβήσουν τη φωτιά. Δυστυχώς, ήταν αργά για τον άνδρα που βρέθηκε στο εσωτερικό του σπιτιού. Αυτή η είδηση είναι σημαντική διότι δείχνει τους κινδύνους που μπορεί να προκληθούν από φωτιά και από ατυχήματα στην κουζίνα.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/patra-xoris-tis-aisthiseis-tou-anasyrthike-andras-meta-apo-katasvesi-fotias-se-oikia/",
+      "id": "35b8e0711b7e",
+      "title": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Ανασύρθηκαν τρεις σοροί γυναικών – Αγνοούνται άλλες δύο εργαζόμενες",
+      "simpleTitle": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Ανασύρθηκαν τρεις σοροί γυναικών – Αγνοούνται άλλες δύο εργαζόμενες",
+      "simpleText": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Τρεις γυναίκες βρέθηκαν νεκρές, δύο ακόμα αγνοούνται\n\nΣτο εργοστάσιο «Βιολάντα» στην περιοχή των Τρικάλων, ξέσπασε μεγάλη φωτιά. Αυτό συνέβη κατά τη διάρκεια της λειτουργίας του εργοστασίου, όταν ακούστηκε ισχυρή έκρηξη. Μετά από αυτήν, τρεις σοροί γυναικών βρέθηκαν μέσα στο κτίριο και οι έρευνες συνεχίζονται για να εντοπιστούν οι άλλες δύο εργαζόμενες που λείπουν.\n\nΣτο εργοστάσιο βρίσκονταν 13 άτομα, από τα οποία οι 8 κατάφεραν να απομακρυνθούν. Οι περισσότεροι μεταφέρθηκαν στο νοσοκομείο με εγκαύματα και αναπνευστικά προβλήματα. Στην περιοχή έσπευσαν πολλές πυροσβεστικές δυνάμεις για να σβήσουν την φωτιά και να αποτρέψουν την επέκτασή της σε διπλανά κτίρια.\n\nΤο αίτιο της φωτιάς διερευνάται από την Πυροσβεστική. Η κατάσταση παραμένει κρίσιμη και η επιχείρηση κατάσβεσης συνεχίζεται.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/fotia-se-ergostasio-sta-trikala-anasyrthikan-treis-soroi-gynaikon-agnoountai-alles-dyo/",
       "sourceDomains": [
-        "ertnews.gr",
+        "tanea.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/patra-xoris-tis-aisthiseis-tou-anasyrthike-andras-meta-apo-katasvesi-fotias-se-oikia/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/greece/fotia-se-ergostasio-sta-trikala-anasyrthikan-treis-soroi-gynaikon-agnoountai-alles-dyo/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4059481/andras-entopisthike-choris-tis-esthisis-tou-meta-apo-fotia-se-spiti-stin-patra.html"
+          "url": "https://www.news.gr/ellada/article/4059685/tragodia-apo-ti-megali-fotia-pou-xespase-stin-biskotoviomichania-violanta-sta-trikala-vrethikan-tris-apanthrakomenes-sori-agnoounte-akomi-dio-ergazomenes.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο ενός άνδρα μετά από φωτιά σε οικία, μια σοβαρή και tragική κατάσταση που υπογραμμίζει τους κινδύνους από φωτιές και ατυχήματα.",
+      "categoryReason": "Η είδηση αφορά μια τραγωδία με φωτιά σε εργοστάσιο, όπου τρεις γυναίκες βρέθηκαν νεκρές και άλλες δύο αγνοούνται, γεγονός που συνιστά σοβαρό κοινωνικό και ανθρωπιστικό ζήτημα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gb7955974b9eaf5f853e0acf092d45e0b7b58911117772957d7b7d3f3d586ea5e07f203721336afac1470708b73d3ed272aad598c89c5ce6cf1b5743d7793c414_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20262401-DT15-PATRA-FOTIA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20262401-DT15-PATRA-FOTIA.jpg",
-      "publishedAt": "2026-01-25T13:58:46.000Z"
+      "imageUrl": "https://pixabay.com/get/ge42ab14ba3a0dec960cf363b317a8baf2ef5da75975a5d07e58bee19ee715abc7feff5058d7e353bda13c4191ebbeb4b826b9e20012206fdee306610c0d74375_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.jpg",
+      "publishedAt": "2026-01-26T07:03:29.000Z"
     },
     {
-      "id": "3e98aaa28480",
-      "title": "Σύρος: Σορός γυναίκας ανασύρθηκε από το λιμάνι της Ερμούπολης",
-      "simpleTitle": "Σύρος: Σορός γυναίκας ανασύρθηκε από το λιμάνι της Ερμούπολης",
-      "simpleText": "Μια γυναίκα βρέθηκε νεκρή στο λιμάνι της Ερμούπολης, Σύρου. Η σορός της εντοπίστηκε σήμερα, λίγο μετά τις 1 το μεσημέρι, από περαστικούς. Αυτοί ενημέρωσαν τις αρχές, και το Λιμενικό έφτασε γρήγορα στο σημείο. Η σορός ανασύρθηκε με την βοήθεια ιδιωτικού σκάφους και μεταφέρθηκε σε νοσοκομείο της Σύρου με ασθενοφόρο.\n\nΠρος το παρόν, δεν γνωρίζουμε ποια είναι η γυναίκα ούτε πώς πέθανε. Η αστυνομία ερευνά την υπόθεση και η σορός θα μεταφερθεί στον Πειραιά για να γίνουν εξετάσεις. Αυτή η διαδικασία, που ονομάζεται νεκροψία - νεκροτομή, θα βοηθήσει να διαλευκανθούν οι συνθήκες του θανάτου.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/syros-soros-gynaikas-anasyrthike-apo-to-limani-tis-ermoupolis/",
+      "id": "64ea361886d2",
+      "title": "Ιαπωνία: Υποχωρεί η δημοτικότητα της πρωθυπουργού Τακαΐτσι ενόψει των πρόωρων εκλογών",
+      "simpleTitle": "Ιαπωνία: Υποχωρεί η δημοτικότητα της πρωθυπουργού Τακαΐτσι ενόψει των πρόωρων εκλογών",
+      "simpleText": "Τίτλος: Ιαπωνία: Μειώθηκε η δημοτικότητα της πρωθυπουργού Τακαΐτσι πριν τις εκλογές\n\nΗ δημοτικότητα της πρωθυπουργού της Ιαπωνίας, Σανάε Τακαΐτσι, μειώνεται ενόψει των πρόωρων εκλογών που θα γίνουν στις 8 Φεβρουαρίου. Σύμφωνα με δημοσκοπήσεις, το ποσοστό αποδοχής της έχει πέσει από 75% τον Δεκέμβριο στο 67%.\n\nΟι εκλογές έρχονται μετά από σημαντικές υποσχέσεις της Τακαΐτσι για φορολογικές ελαφρύνσεις, με σκοπό να βοηθήσει τους πολίτες που ανησυχούν για τον πληθωρισμό. Ωστόσο, οι ψηφοφόροι εκφράζουν αμφιβολίες για την αποτελεσματικότητα αυτών των μέτρων.\n\nΗ Σανάε Τακαΐτσι είναι η πρώτη γυναίκα πρωθυπουργός στην ιστορία της Ιαπωνίας και πρόσφατα διέλυσε την κάτω Βουλή για να ενισχύσει τη νέα κυβερνητική της συμμαχία. Σήμερα θα συμμετάσχει σε τηλεοπτική συζήτηση με άλλους πολιτικούς αρχηγούς.\n\nΗ μείωση της δημοτικότητας έχει δημιουργήσει ανησυχίες στις χρηματαγορές, καθώς υπάρχει έλλειψη σαφών στοιχείων για τη χρηματοδότηση των υποσχέσεών της. Ο δημόσιος χρέος της Ιαπωνίας φτάνει το 230% του ΑΕΠ, γεγονός που αναδεικνύει τις προκλήσεις που αντιμετωπίζει η κυβέρνηση.\n\nΗ κατάσταση είναι σημαντική καθώς μπορεί να επηρεάσει τις εκλογές και τη στήριξη της πρωθυπουργού από τους πολίτες.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/iaponia-ypoxorei-i-dimotikotita-tis-prothypourgou-takaitsi-enopsei-ton-prooron-eklogon/",
       "sourceDomains": [
         "ertnews.gr",
-        "kathimerini.gr"
+        "tanea.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/syros-soros-gynaikas-anasyrthike-apo-to-limani-tis-ermoupolis/"
+          "url": "https://www.ertnews.gr/eidiseis/diethni/iaponia-ypoxorei-i-dimotikotita-tis-prothypourgou-takaitsi-enopsei-ton-prooron-eklogon/"
         },
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564041368/syros-soros-gynaikas-entopistike-sto-limani-tis-ermoypolis/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/world/iaponia-ypoxorei-i-dimotikotita-tis-takaitsi-neyrikotita-stis-agores/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο μιας γυναίκας και την έρευνα των αρχών για τις συνθήκες του θανάτου της, γεγονός που συνιστά σοβαρή και ανησυχητική κατάσταση.",
+      "categoryReason": "Η είδηση αφορά τη μείωση της δημοτικότητας της πρωθυπουργού της Ιαπωνίας Σανάε Τακαΐτσι ενόψει των πρόωρων εκλογών, θέμα που σχετίζεται με πολιτικές και οικονομικές ανησυχίες, όπως ο πληθωρισμός και οι φορολογικές ελαφρύνσεις. Οι δημοσκοπήσεις και οι επιπτώσεις στις χρηματαγορές καταδεικνύουν σοβαρές κοινωνικές και πολιτικές προκλήσεις.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20282401-DT15-SYROS.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20282401-DT15-SYROS.jpg",
-      "publishedAt": "2026-01-25T13:10:00.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T07:01:00.000Z"
     },
     {
-      "id": "ea8de727d85b",
-      "title": "Ισραήλ: Συνεδριάζει το συμβούλιο ασφαλείας για το άνοιγμα του περάσματος στη Ράφα",
-      "simpleTitle": "Ισραήλ: Συνεδριάζει το συμβούλιο ασφαλείας για το άνοιγμα του περάσματος στη Ράφα",
-      "simpleText": "Τίτλος: Ισραήλ: Συνεδριάζει για το άνοιγμα του περάσματος στη Ράφα\n\nΤο συμβούλιο ασφαλείας του Ισραήλ συνεδριάζει για να αποφασίσει αν θα ανοίξει το πέρασμα στη Ράφα. Αυτό το πέρασμα βρίσκεται κοντά στη νότια πόλη της Ράφα και συνδέει τη Γάζα με την Αίγυπτο. Είναι κλειστό σχεδόν ένα χρόνο, παρά την εκεχειρία που έχει ισχύσει από τον Οκτώβριο του περασμένου έτους.\n\nΗ πιθανότητα ανοίγματος του περάσματος εξαρτάται από την παράδοση των λειψάνων του τελευταίου ομήρου από την Χαμάς. Η απόφαση αυτή είναι σημαντική, καθώς θα μπορούσε να επηρεάσει την πρόσβαση και τις συνθήκες ζωής των ανθρώπων που ζουν στη Γάζα.",
+      "id": "237e4ec2d282",
+      "title": "Μεγάλη πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα: Τρεις εργάτριες ανασύρθηκαν νεκρές και δύο ακόμα αγνοούνται (VIDEO)",
+      "simpleTitle": "Μεγάλη πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα: Τρεις εργάτριες ανασύρθηκαν νεκρές και δύο ακόμα αγνοούνται (VIDEO)",
+      "simpleText": "Πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα\n\nΣτα Τρίκαλα, έγινε μεγάλη φωτιά σε εργοστάσιο μπισκότων που ονομάζεται «Βιολάντα». Η φωτιά ξεκίνησε τις πρώτες ώρες της ημέρας και συνοδευόταν από μια έκρηξη. Τρεις εργάτριες βρέθηκαν νεκρές, ενώ δύο ακόμα είναι αγνοούμενες.\n\nΣύμφωνα με τις πληροφορίες, πέντε εργάτριες βρίσκονταν σε κτίριο του εργοστασίου, το οποίο κατέρρευσε λόγω της φωτιάς. Από τους 13 εργαζόμενους, οκτώ υπέστησαν ελαφρείς τραυματισμούς. Στο σημείο έσπευσαν 13 πυροσβεστικά οχήματα και 40 πυροσβέστες για να κατασβέσουν τη φωτιά.\n\nΑυτό το γεγονός είναι σημαντικό, καθώς δείχνει τους κινδύνους που υπάρχουν στους χώρους εργασίας.",
+      "sourceName": "902.gr – Επιλεγμένα, Protagon",
+      "sourceUrl": "https://www.902.gr/eidisi/koinonia/412573/megali-oyrkagia-se-ergostasio-mpiskoton-sta-trikala-treis-ergatries",
+      "sourceDomains": [
+        "902.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "902.gr – Επιλεγμένα",
+          "url": "https://www.902.gr/eidisi/koinonia/412573/megali-oyrkagia-se-ergostasio-mpiskoton-sta-trikala-treis-ergatries"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/megali-pyrkagia-se-viomixania-biskotwn-sta-trikala-pente-agnooumenes-44343300230"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το γεγονός της πυρκαγιάς με θύματα και αγνοούμενους αναδεικνύει σοβαρά ζητήματα ασφάλειας στους χώρους εργασίας και έχει σημαντικό κοινωνικό αντίκτυπο.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g140ee2bda0bad9ec96a4aefcd44a6acc0a5fe67b63ebb42f8fa09cb186856177c2ad64d6c60189ac5a36d600f527cca5703ecd464cf35f3d82a59d127e680b2e_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T06:55:01.000Z"
+    },
+    {
+      "id": "b1d8bdea5a25",
+      "title": "Συνεδριάζει το υπουργικό συμβούλιο – Τι θα συζητηθεί",
+      "simpleTitle": "Συνεδριάζει το υπουργικό συμβούλιο – Τι θα συζητηθεί",
+      "simpleText": "Τίτλος: Συνεδριάζει το υπουργικό συμβούλιο\n\nΤο υπουργικό συμβούλιο, που είναι η ομάδα των υπουργών της κυβέρνησης, θα έχει συνεδρίαση στο Μέγαρο Μαξίμου. Στη συνεδρίαση αυτή, θα συζητηθούν σημαντικά θέματα για τη χώρα.\n\nΈνα από τα κύρια θέματα είναι ένα νομοσχέδιο που σκοπό έχει να κάνει το κράτος πιο φιλικό προς τους πολίτες. Αυτό σημαίνει ότι η κυβέρνηση θέλει να διευκολύνει τις αλληλεπιδράσεις των πολιτών με τις δημόσιες υπηρεσίες. Ουσιαστικά, στοχεύει να βελτιώσει την εξυπηρέτηση και την επικοινωνία με τους πολίτες.\n\nΔεν είναι γνωστά τα υπόλοιπα θέματα που θα συζητηθούν. Η συνεδρίαση είναι σημαντική, γιατί οι αποφάσεις που θα ληφθούν μπορεί να επηρεάσουν τη ζωή των πολιτών.",
       "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/world/564041356/israil-synedriazei-to-symvoylio-asfaleias-gia-to-anoigma-toy-perasmatos-sti-rafa/",
+      "sourceUrl": "https://www.kathimerini.gr/politics/564041614/synedriazei-to-ypoyrgiko-symvoylio-ti-tha-syzitithei-4/",
       "sourceDomains": [
         "kathimerini.gr",
         "news.gr"
@@ -183,25 +193,244 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564041356/israil-synedriazei-to-symvoylio-asfaleias-gia-to-anoigma-toy-perasmatos-sti-rafa/"
+          "url": "https://www.kathimerini.gr/politics/564041614/synedriazei-to-ypoyrgiko-symvoylio-ti-tha-syzitithei-4/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4059396/to-israil-apofasizi-gia-to-anigma-tou-perasmatos-tis-rafa-stin-gaza.html"
+          "url": "https://www.news.gr/politikh/article/4059635/sinedriazi-ipo-ton-mitsotaki-to-ipourgiko-simvoulio-sto-maximou.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή πολιτική κατάσταση που επηρεάζει την πρόσβαση στη Γάζα και σχετίζεται με ζητήματα ανθρωπιστικά και ασφαλείας.",
+      "categoryReason": "Η συνεδρίαση του υπουργικού συμβουλίου αφορά σοβαρά ζητήματα που σχετίζονται με τη δημόσια διοίκηση και την κυβερνητική πολιτική, επηρεάζοντας την καθημερινή ζωή των πολιτών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-25T13:06:56.000Z"
+      "publishedAt": "2026-01-26T06:25:16.000Z"
+    },
+    {
+      "id": "b1f6d9fe83a7",
+      "title": "Ινδονησία: Τουλάχιστον 17 νεκροί από την κατολίσθηση στην Μπαντούνγκ",
+      "simpleTitle": "Ινδονησία: Τουλάχιστον 17 νεκροί από την κατολίσθηση στην Μπαντούνγκ",
+      "simpleText": "Στη Μπαντούνγκ της Ινδονησίας, τουλάχιστον 17 άνθρωποι έχουν χάσει τη ζωή τους από μια μεγάλη κατολίσθηση. Το περιστατικό συνέβη το Σάββατο γύρω στις 2:30 το πρωί, τοπική ώρα. Η κατολίσθηση σημειώθηκε μετά από έντονες βροχοπτώσεις που δημιούργησαν τεράστια ποσά λάσπης και βράχων, καταστρέφοντας σπίτια σε δύο χωριά, περίπου 25 χιλιόμετρα δυτικά της Μπαντούνγκ.\n\nΠερίπου 80 κάτοικοι θεωρούνται αγνοούμενοι. Στην έρευνα και διάσωση συμμετέχουν περίπου 2.000 άτομα, συμπεριλαμβανομένων στρατιωτικών και εθελοντών. Ωστόσο, υπάρχει ανησυχία για νέες κατολισθήσεις λόγω της αστάθειας του εδάφους και των συνεχών βροχών.\n\nΗ Ινδονησία έχει συχνές καταστροφές κατά την περίοδο των βροχών, που διαρκεί από τον Οκτώβριο έως τον Μάρτιο, με προηγούμενα περιστατικά να έχουν προκαλέσει σοβαρές ζημιές και απώλειες ζωών.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564041740/indonisia-toylachiston-17-nekroi-apo-tin-katolisthisi-stin-mpantoyngk/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564041740/indonisia-toylachiston-17-nekroi-apo-tin-katolisthisi-stin-mpantoyngk/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/world/indonisia-stoys-17-oi-nekroi-apo-tin-katolisthisi-konta-sti-mpantoyngk/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό περιστατικό με ανθρώπινες απώλειες και καταστροφές λόγω κατολίσθησης στην Ινδονησία, άμεσα σχετιζόμενο με την αστάθεια του εδάφους και τις φυσικές καταστροφές.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T06:21:15.000Z"
+    },
+    {
+      "id": "785217cf84ea",
+      "title": "Γάζα: Το Ισραήλ αναγγέλλει πως θα προχωρήσει σε «περιορισμένο ξανάνοιγμα» της συνοριακής διέλευσης στη Ράφα ",
+      "simpleTitle": "Γάζα: Το Ισραήλ αναγγέλλει πως θα προχωρήσει σε «περιορισμένο ξανάνοιγμα» της συνοριακής διέλευσης στη Ράφα ",
+      "simpleText": "Το Ισραήλ ανακοίνωσε ότι θα ανοίξει ξανά τη συνοριακή διέλευση στη Ράφα. Αυτό θα γίνει με περιορισμούς και μόνο για πεζούς. Η διέλευση είναι σημαντική, καθώς επιτρέπει την είσοδο ανθρωπιστικής βοήθειας στη Λωρίδα της Γάζας.\n\nΗ απόφαση αυτή συνδέεται με τη συμφωνία κατάπαυσης του πυρός που ξεκίνησε στις 10 Οκτωβρίου. Η διαδικασία θα ελέγχεται πλήρως από τις ισραηλινές αρχές.\n\nΗ οικογένεια ενός στρατιώτη, που βρίσκεται ακόμα αιχμάλωτος, έχει ζητήσει να μην προχωρήσει το άνοιγμα της διέλευσης μέχρι να επιστραφεί το λείψανό του. Οι Ηνωμένες Πολιτείες ασκούν πιέσεις στο Ισραήλ να ανοίξει τη Ράφα, χωρίς να περιμένει την επιστροφή του στρατιώτη.\n\nΑυτή η απόφαση είναι σημαντική, γιατί μπορεί να βοηθήσει ανθρώπους που χρειάζονται βοήθεια στη Γάζα και έχει προγραμματιστεί να γίνει κάποια στιγμή στο μέλλον. Ωστόσο, οι αναταραχές στην περιοχή συνεχίζουν να προκαλούν ανησυχία.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/gaza-to-israil-anaggellei-pos-tha-proxorisei-se-periorismeno-ksananoigma-tis-synoriakis-dieleysis-sti-rafa/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/gaza-to-israil-anaggellei-pos-tha-proxorisei-se-periorismeno-ksananoigma-tis-synoriakis-dieleysis-sti-rafa/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564041653/gaza-to-israil-anaggellei-periorismeno-xananoigma-tis-synoriakis-dieleysis-sti-rafa/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4059621/to-israil-tha-prochorisi-se-periorismeno-xananigma-tis-sinoriakis-dielefsis-sti-rafa.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την ανακοίνωση του Ισραήλ για το άνοιγμα της συνοριακής διέλευσης στη Ράφα, σε σχέση με ανθρωπιστική βοήθεια και την πολιτική κατάσταση στην περιοχή, γεγονός που συνδέεται με σοβαρά κοινωνικά και πολιτικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T06:11:06.000Z"
+    },
+    {
+      "id": "5d5c4a4fc695",
+      "title": "ΗΠΑ: Συντριβή ιδιωτικού τζετ με οκτώ επιβαίνοντες",
+      "simpleTitle": "ΗΠΑ: Συντριβή ιδιωτικού τζετ με οκτώ επιβαίνοντες",
+      "simpleText": "Τίτλος: Συντριβή ιδιωτικού τζετ στις Ηνωμένες Πολιτείες\n\nΣτις Ηνωμένες Πολιτείες, συνέβη μια σοβαρή συντριβή ενός ιδιωτικού τζετ. Το αεροσκάφος είχε οκτώ επιβάτες. Η συντριβή έγινε στο αεροδρόμιο του Μπάνγκορ, στην πολιτεία Μέιν.\n\nΚατά τη διάρκεια της απογείωσης, το τζετ τυλίχτηκε στις φλόγες και κατέληξε σε πύρινη σφαίρα. Αυτή τη στιγμή, οι αρχές διεξάγουν έρευνες για να καταλάβουν τι συνέβη. Το αεροδρόμιο έχει κλείσει για λόγους ασφαλείας. Αναμένονται επίσημες ανακοινώσεις σχετικά με την τύχη των επιβατών.\n\nΑυτό το γεγονός είναι σημαντικό, καθώς μπορεί να επηρεάσει πολλές οικογένειες και την ασφάλεια των πτήσεων.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2026/01/26/world/ipa-syntrivi-idiotikou-tzet-me-okto-epivainontes/",
+      "sourceDomains": [
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/26/world/ipa-syntrivi-idiotikou-tzet-me-okto-epivainontes/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4059596/sintrivi-idiotikou-aeroskafous-me-okto-epivenontes-se-aerodromio-tis-politias-mein.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρή συντριβή ιδιωτικού τζετ με οκτώ επιβάτες, με έρευνες σε εξέλιξη και δυνατότητα άμεσου αντίκτυπου στην ασφάλεια των πτήσεων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T05:59:25.000Z"
+    },
+    {
+      "id": "095f3f2c92f5",
+      "title": "Ο χρυσός έσπασε το φράγμα των 5.000 δολαρίων για πρώτη φορά στην Ιστορία",
+      "simpleTitle": "Ο χρυσός έσπασε το φράγμα των 5.000 δολαρίων για πρώτη φορά στην Ιστορία",
+      "simpleText": "Ο χρυσός ξεπέρασε για πρώτη φορά το όριο των 5.000 δολαρίων ανά ουγγιά. Αυτό συνέβη χθες, την Κυριακή. Ο χρυσός θεωρείται μία ασφαλής επένδυση σε δύσκολες οικονομικές καταστάσεις. Η τιμή του έχει ανέβει λόγω αβεβαιότητας που προκαλεί η πολιτική του Αμερικανού προέδρου Ντόναλντ Τραμπ. Ειδικότερα, η πολιτική αυτή επηρεάζει την οικονομία και το δολάριο. Αυτή η αλλαγή είναι σημαντική, καθώς δείχνει πώς οι άνθρωποι επενδύουν σε καλλίτερες, πιο σταθερές επιλογές όταν υπάρχει αστάθεια.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/economy/international/564041659/o-chrysos-espase-to-fragma-ton-5-000-dolarion-gia-proti-fora-stin-istoria/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/economy/international/564041659/o-chrysos-espase-to-fragma-ton-5-000-dolarion-gia-proti-fora-stin-istoria/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/oikonomia/article/4059580/gia-proti-fora-stin-istoria-o-chrisos-espase-to-fragma-ton-5-000-dolarion.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη σημαντική αύξηση της τιμής του χρυσού, που έχει σοβαρές επιπτώσεις στην οικονομία και την πολιτική, καθώς επηρεάζει επενδυτικές στρατηγικές και αντικατοπτρίζει τη χρηματοοικονομική αβεβαιότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T05:46:26.000Z"
+    },
+    {
+      "id": "b50d5afeb4a3",
+      "title": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
+      "simpleTitle": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
+      "simpleText": "Τίτλος: Άνδρας σκαρφάλωσε σε ψηλό κτίριο χωρίς ασφάλεια\n\nΈνας άνδρας σκαρφάλωσε σε έναν πολύ ψηλό ουρανοξύστη, το Taipei 101, στην Ταϊβάν. Ο άνδρας ονομάζεται Alex Honnold. Το Taipei 101 έχει 101 ορόφους και είναι 508 μέτρα ψηλό. Είναι φτιαγμένο από γυαλί, ατσάλι και σκυρόδεμα και μοιάζει με μπαμπού. Ο Honnold ανέβηκε χωρίς καμία ασφάλεια, κάτι που είναι επικίνδυνο. Έκανε αυτή την πράξη μπροστά σε πολλούς θεατές, οι οποίοι τον παρακολουθούσαν με θαυμασμό. Το γεγονός είναι σημαντικό γιατί δείχνει την αντοχή και την τόλμη των ανθρώπων, αλλά ταυτόχρονα εγείρει ερωτήματα για την ασφάλεια και τους κινδύνους τέτοιων ενεργειών.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια επικίνδυνη πράξη που εγείρει σοβαρά ζητήματα ασφάλειας και κινδύνων για τη ζωή.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T05:41:00.000Z"
+    },
+    {
+      "id": "7d65e6990a28",
+      "title": "Απαγορευτικό απόπλου: Ακυρώσεις δρομολογίων από το λιμάνι του Πειραιά",
+      "simpleTitle": "Απαγορευτικό απόπλου: Ακυρώσεις δρομολογίων από το λιμάνι του Πειραιά",
+      "simpleText": "Τίτλος: Πρόβλημα απόπλου πλοίων από το λιμάνι του Πειραιά\n\nΣε μια σημαντική εξέλιξη, πολλά πλοία δεν θα μπορέσουν να αναχωρήσουν από το λιμάνι του Πειραιά. Αυτό συμβαίνει λόγω των θυελλωδών ανέμων που αναμένονται στο Αιγαίο. Οι άνεμοι αυτοί είναι πολύ δυνατοί και δεν επιτρέπουν στα πλοία να ταξιδέψουν με ασφάλεια.\n\nΗ κατάσταση αυτή σημαίνει ότι αρκετά δρομολόγια δεν θα πραγματοποιηθούν. Οι επιβάτες που σχεδίαζαν να ταξιδέψουν μπορεί να χρειαστεί να αλλάξουν τα σχέδιά τους. Αυτή η ανακοίνωση είναι σημαντική, καθώς επηρεάζει πολλές μετακινήσεις ανθρώπων και αγαθών. Για την ώρα, οι πληροφορίες σχετικά με τα συγκεκριμένα πλοία που δεν θα αναχωρήσουν είναι περιορισμένες.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/society/564041647/apagoreytiko-apoploy-akyroseis-dromologion-apo-to-limani-toy-peiraia/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564041647/apagoreytiko-apoploy-akyroseis-dromologion-apo-to-limani-toy-peiraia/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/26/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/apagoreytiko-apoplou-poia-ploia-den-anaxoroun-apo-to-limani-tou-peiraia/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα που σχετίζονται με τις αερομεταφορές και την ασφάλεια των επιβατών λόγω θυελλωδών ανέμων, κάτι που επηρεάζει τις μετακινήσεις και την οικονομία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-26T05:25:19.000Z"
+    },
+    {
+      "id": "15c3ea20fb15",
+      "title": "Μεγάλη πυρκαγιά σε εργοστάσιο τροφίμων στα Τρίκαλα – Στο νοσοκομείο 8 εργαζόμενοι, αγνοούνται 5",
+      "simpleTitle": "Μεγάλη πυρκαγιά σε εργοστάσιο τροφίμων στα Τρίκαλα – Στο νοσοκομείο 8 εργαζόμενοι, αγνοούνται 5",
+      "simpleText": "Τίτλος: Μεγάλη φωτιά σε εργοστάσιο τροφίμων στα Τρίκαλα – 8 εργαζόμενοι στο νοσοκομείο, αγνοούνται 5\n\nΣτα Τρίκαλα, ένα εργοστάσιο τροφίμων υπέστη μεγάλη φωτιά το πρωί της Τρίτης. Η φωτιά ξεκίνησε κάτω από αδιευκρίνιστες συνθήκες ενώ το εργοστάσιο «Βιολάντα» λειτουργούσε κανονικά. Υπήρξε μια ισχυρή έκρηξη που προκάλεσε πανικό και ζημιές στο κτίριο.\n\nΣτο εργοστάσιο εργάζονταν 13 άτομα. Οκτώ εργαζόμενοι πρόλαβαν να φύγουν αλλά τραυματίστηκαν και μεταφέρθηκαν στο νοσοκομείο με εγκαύματα και δυσκολίες στην αναπνοή. Ανάμεσά τους, τρεις μεταφέρθηκαν με ασθενοφόρο και δύο με αυτοκίνητα.\n\nΔυστυχώς, πέντε γυναίκες παραμένουν αγνοούμενες και πιστεύεται ότι είναι εγκλωβισμένες στο εργοστάσιο. Η πυροσβεστική έχει στείλει πολλές δυνάμεις στην περιοχή για να σβήσει τη φωτιά και να τις βρει. Αυτή τη στιγμή, 40 πυροσβέστες επιχειρούν στο σημείο με 13 οχήματα.\n\nΗ κατάσταση είναι δύσκολη λόγω της φωτιάς και των εύφλεκτων υλικών στο εργοστάσιο. Οι αρχές ερευνούν τι προκάλεσε την έκρηξη και την πυρκαγιά. Στην περιοχή είναι παρόντες οι ιδιοκτήτες του εργοστασίου και τοπικοί αξιωματούχοι.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/megali-pyrkagia-se-ergostasio-trofimon-sta-trikala-sto-nosokomeio-8-ergazomenoi-agnoountai-5/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/greece/megali-pyrkagia-se-ergostasio-trofimon-sta-trikala-sto-nosokomeio-8-ergazomenoi-agnoountai-5/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4059524/megali-pirkagia-se-ergostasio-trofimon-sta-trikala-agnoounte-pente-atoma.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η πυρκαγιά σε εργοστάσιο τροφίμων με τραυματισμούς και αγνοούμενους εργαζόμενους είναι σοβαρό γεγονός που αφορά την ασφάλεια και τη δημόσια υγεία.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb03b24610d8bc2f7979f70cf855a87aec2c1bb463ca43dc5b618dba7d328b85de1f4535baf88d12627b784215727b6d505f8fcef15056fa0d5a68accfc3cb963_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/GsIQMKyeAcE",
+      "publishedAt": "2026-01-26T05:16:39.000Z"
+    },
+    {
+      "id": "64e2113f1e46",
+      "title": "Ζουν φάλαινες στα ελληνικά νερά; Ποια είδη συναντάμε και γιατί βρίσκονται εδώ",
+      "simpleTitle": "Ζουν φάλαινες στα ελληνικά νερά; Ποια είδη συναντάμε και γιατί βρίσκονται εδώ",
+      "simpleText": "Σύντομη περίληψη είδησης:\n\nΜια φάλαινα εθεάθη πρόσφατα στον Παγασητικό κόλπο, και αυτό προκάλεσε ενδιαφέρον για το αν ζουν φάλαινες στα ελληνικά νερά. Είναι σπάνιο και όμορφο θέαμα να βλέπεις φάλαινες στη θάλασσα. Ορισμένοι αναρωτιούνται ποια είδη φαλαινών μπορούμε να βρούμε στη χώρα μας και γιατί αυτές οι θαλάσσιες ζωές επιλέγουν να βρίσκονται εδώ. Η παρατήρηση φαλαινών είναι σημαντική, καθώς αναδεικνύει τη βιοποικιλότητα των ελληνικών θαλασσών. Δεν είναι γνωστά περισσότερα στοιχεία για τις φάλαινες που ζουν εδώ.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31248-zoun-falaines-sta-ellinika-nera/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31248-zoun-falaines-sta-ellinika-nera/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την παρατήρηση φαλαινών και τη βιοποικιλότητα, που είναι σοβαρά θέματα σχετικά με το περιβάλλον και τη θαλάσσια ζωή στην Ελλάδα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-25T17:03:22.000Z"
     },
     {
       "id": "22a275a89e02",
       "title": "Τι είναι το φαινόμενο Μαντέλα;",
       "simpleTitle": "Τι είναι το φαινόμενο Μαντέλα;",
-      "simpleText": "Τίτλος: Τι είναι το φαινόμενο Μαντέλα;\n\nΤο φαινόμενο Μαντέλα είναι μια ενδιαφέρουσα εμπειρία που βιώνουν πολλοί άνθρωποι. Αφορά την κατάσταση όπου πολλές άτομα θυμούνται το ίδιο γεγονός, αλλά με λάθος τρόπο. Για παράδειγμα, μπορεί να θυμούνται κάτι που στην πραγματικότητα δεν συνέβη ποτέ.\n\nΑυτό το φαινόμενο δεν σημαίνει ότι οι άνθρωποι λένε ψέματα ή ότι φαντάζονται. Αντίθετα, αφορά τον τρόπο που λειτουργεί η μνήμη μας. Μερικές φορές, οι αναμνήσεις μας μπορεί να μπλέκονται ή να επηρεάζονται από άλλες πηγές.\n\nΤο όνομα του φαινομένου προέρχεται από τον Νέλσον Μαντέλα, έναν φημισμένο ηγέτη από την Νότια Αφρική. Πολλοί άνθρωποι πίστευαν ότι είχε πεθάνει στις φυλακές τη δεκαετία του 1980, αν και αυτό δεν ήταν αλήθεια. Αυτό το παράδειγμα δείχνει πώς το φαινόμενο Μαντέλα μπορεί να συμβαίνει σε πολλές περιπτώσεις και έχει ενδιαφέρον για την κατανόηση της ανθρώπινης μνήμης.",
+      "simpleText": "Τίτλος: Τι είναι το φαινόμενο Μαντέλα;\n\nΤο φαινόμενο Μαντέλα είναι κάτι που συμβαίνει συχνά στους ανθρώπους. Περιγράφει την κατάσταση όπου πολλές άτομα θυμούνται το ίδιο γεγονός λάθος. Αυτό μπορεί να αφορά παραδείγματα, φράσεις ή εικόνες. Παρά το γεγονός ότι υπάρχουν στοιχεία που δείχνουν ότι η ανάμνηση είναι λανθασμένη, οι άνθρωποι εξακολουθούν να πιστεύουν ότι έχουν δίκιο.\n\nΑυτό το φαινόμενο δεν σχετίζεται με ψέματα ή με φαντασία, αλλά είναι αποτέλεσμα του τρόπου που λειτουργεί η μνήμη μας. Δηλαδή, η ανθρώπινη μνήμη μπορεί μερικές φορές να δημιουργεί λανθασμένες αναμνήσεις, που φαίνονται αληθινές. Αυτό το φαινόμενο είναι σημαντικό γιατί μας δείχνει πόσο εύκολα μπορεί να επηρεαστεί η μνήμη μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31068-mandela-effect-ti-einai/",
       "sourceDomains": [
@@ -213,46 +442,18 @@
           "url": "https://thehappynews.gr/31068-mandela-effect-ti-einai/"
         }
       ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αναφέρεται σε ένα ενδιαφέρον φαινόμενο που σχετίζεται με την ανθρώπινη μνήμη και την αντίληψη, στοιχεία που αξίζουν πολιτιστική εξέταση.",
+      "category": "serious",
+      "categoryReason": "Το φαινόμενο Μαντέλα σχετίζεται με την ψυχολογία και τη λειτουργία της μνήμης, που είναι σοβαρό θέμα ανάλυσης και κατανόησης της ανθρώπινης συμπεριφοράς.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-01-25T12:33:00.000Z"
     },
     {
-      "id": "e5a866256c35",
-      "title": "Χειμερινές εκπτώσεις: Ανοικτά τα καταστήματα σήμερα Κυριακή",
-      "simpleTitle": "Χειμερινές εκπτώσεις: Ανοικτά τα καταστήματα σήμερα Κυριακή",
-      "simpleText": "Τίτλος: Εκπτώσεις: Ανοιχτά καταστήματα σήμερα Κυριακή\n\nΣήμερα, Κυριακή 25 Ιανουαρίου, τα εμπορικά καταστήματα θα είναι ανοιχτά λόγω της δεύτερης Κυριακής των χειμερινών εκπτώσεων. Οι καταναλωτές μπορούν να εκμεταλλευτούν αυτές τις προσφορές από τις 11:00 το πρωί έως τις 6:00 το απόγευμα.\n\nΤα μεγάλα εμπορικά κέντρα και τα πολυκαταστήματα μπορεί να είναι ανοιχτά και περισσότερες ώρες. Είναι σημαντικό να αναφέρουμε ότι η απόφαση για το αν θα λειτουργήσει κάθε κατάστημα την Κυριακή είναι προαιρετική. Αυτές οι εκπτώσεις είναι ευκαιρία για τους πελάτες να βρουν προϊόντα σε χαμηλότερες τιμές.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564041260/cheimerines-ekptoseis-anoikta-ta-katastimata-simera-kyriaki/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564041260/cheimerines-ekptoseis-anoikta-ta-katastimata-simera-kyriaki/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/25/society/kyriaki-me-anoixta-katastimata-kai-ekptoseis/"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αφορά τις χειμερινές εκπτώσεις και την ευκαιρία για ψώνια, η οποία προσφέρει ευχάριστη διάθεση και διασκέδαση στους καταναλωτές.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-25T07:09:38.000Z"
-    },
-    {
       "id": "d1f39e7c6b3a",
       "title": "Η Γαλλία απαγόρευσε τα «αιώνια χημικά» σε καλλυντικά και ρούχα",
       "simpleTitle": "Η Γαλλία απαγόρευσε τα «αιώνια χημικά» σε καλλυντικά και ρούχα",
-      "simpleText": "Η Γαλλία σταμάτησε τη χρήση «αιώνιων χημικών» σε καλλυντικά και ρούχα. Αυτά τα χημικά, που ονομάζονται PFAS, χρησιμοποιούνται για να κάνουν τα προϊόντα ανθεκτικά στο νερό και στους λεκέδες. Η απόφαση πάρθηκε για να προστατευθεί η δημόσια υγεία και το περιβάλλον. Η χρήση αυτών των χημικών είναι επικίνδυνη, καθώς δεν αποικοδομούνται εύκολα στη φύση και μπορεί να βλάψουν ανθρώπους και οικοσυστήματα. Αυτή η κίνηση δείχνει ότι η Γαλλία θέλει να προωθήσει πιο ασφαλείς επιλογές για τους πολίτες.",
+      "simpleText": "Τίτλος: Η Γαλλία απαγόρευσε κάποια χημικά σε καλλυντικά και ρούχα\n\nΗ Γαλλία πήρε μια σοβαρή απόφαση για την υγεία των ανθρώπων και του περιβάλλοντος. Από τώρα, απαγορεύει τη χρήση ορισμένων χημικών, που ονομάζονται «αιώνια χημικά», σε καλλυντικά και ρούχα.\n\nΑυτά τα χημικά, γνωστά και ως PFAS, έχουν χρησιμοποιηθεί εδώ και πολλές δεκαετίες. Δίνουν αντοχή στα ρούχα από το νερό και τους λεκέδες. Ωστόσο, δεν διασπώνται εύκολα στο περιβάλλον και μπορεί να είναι επικίνδυνα για την υγεία μας και τα οικοσυστήματα γύρω μας.\n\nΑυτή η απόφαση είναι σημαντική, γιατί δείχνει ότι η Γαλλία θέλει να βρει πιο ασφαλείς επιλογές για τους καταναλωτές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30650-gallia-apagorefsi-aionia-ximika-kallyntika/",
       "sourceDomains": [
@@ -265,7 +466,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα δημόσιας υγείας και περιβάλλοντος, λόγω της απαγόρευσης επικίνδυνων χημικών ουσιών στη Γαλλία.",
+      "categoryReason": "Η είδηση αφορά την απαγόρευση επικίνδυνων χημικών ουσιών στην Γαλλία, με στόχο την προστασία της δημόσιας υγείας και του περιβάλλοντος, γεγονός που την κατατάσσει ως σοβαρή είδηση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -275,7 +476,7 @@
       "id": "abf2bb8d4486",
       "title": "Κινέζα αθλήτρια χορεύει το «Αστερομάτα» και ενώνει πολιτισμούς στο καλλιτεχνικό πατινάζ",
       "simpleTitle": "Κινέζα αθλήτρια χορεύει το «Αστερομάτα» και ενώνει πολιτισμούς στο καλλιτεχνικό πατινάζ",
-      "simpleText": "Μια νεαρή αθλήτρια από την Κίνα, η Xiangyi An, εντυπωσίασε το κοινό στο καλλιτεχνικό πατινάζ. Χόρεψε στο «Αστερομάτα», ένα γνωστό κομμάτι, και αυτό δημιούργησε μια όμορφη σύνδεση πολιτισμών.\n\nΤο γεγονός έγινε πρόσφατα, και η 19χρονη αθλήτρια παρουσίασε τη χορογραφία της με μεγάλη κομψότητα και εκφραστικότητα. Παρόλο που έπεσε στην αρχή της εκτέλεσης, κατάφερε να μαγέψει το κοινό με την απόδοσή της. Αυτή η στιγμή δείχνει πως η μουσική μπορεί να ενώνει ανθρώπους, ανεξαρτήτως γλώσσας ή εθνικότητας. Είναι σημαντικό γιατί υπογραμμίζει τη δύναμη του αθλητισμού και της τέχνης να προάγουν την κατανόηση μεταξύ διαφορετικών πολιτισμών.",
+      "simpleText": "Μία 19χρονη αθλήτρια από την Κίνα, η Xiangyi An, εντυπωσίασε το κοινό στο καλλιτεχνικό πατινάζ, χορεύοντας με τη μουσική του «Αστερομάτα». Η εκδήλωση έγινε πρόσφατα και η αθλήτρια έδειξε πώς η μουσική μπορεί να ενώνει ανθρώπους από διαφορετικές χώρες.\n\nΚατά την παρουσίαση, η Xiangyi An χόρεψε με κομψότητα και εκφραστικότητα, παρά την πτώση που είχε στην αρχή. Αυτή η στιγμή δημιούργησε μια όμορφη σύνθεση αθλητισμού και τέχνης, δείχνοντας ότι η τέχνη μπορεί να ξεπερνά γλώσσες και πολιτισμούς. Είναι σημαντικό γιατί μας θυμίζει τη δύναμη της μουσικής να φέρνει κοντά τους ανθρώπους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31190-kineziki-athlitria-xorevei-asteromata-kallitexniko-patinaz/",
       "sourceDomains": [
@@ -288,7 +489,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά ένα πολιτιστικό γεγονός που συνδυάζει το καλλιτεχνικό πατινάζ με τη μουσική, προάγοντας τη σύνδεση μεταξύ διαφορετικών πολιτισμών.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια πολιτιστική εκδήλωση στο καλλιτεχνικό πατινάζ, που συνδυάζει μουσική και τέχνη, αναδεικνύοντας τη δύναμη της πολιτιστικής σύνδεσης μέσα από τη μουσική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -298,7 +499,7 @@
       "id": "3d4540e517de",
       "title": "Βιοδιασπώμενο πλαστικό από μπαμπού: Η ανθεκτική εναλλακτική που μπορεί να αλλάξει τη βιομηχανία",
       "simpleTitle": "Βιοδιασπώμενο πλαστικό από μπαμπού: Η ανθεκτική εναλλακτική που μπορεί να αλλάξει τη βιομηχανία",
-      "simpleText": "Τίτλος: Νέο βιοδιασπώμενο πλαστικό από μπαμπού\n\nΜια νέα ανακάλυψη για το περιβάλλον έχει γίνει από Κινέζους ερευνητές. Δημιούργησαν ένα βιοδιασπώμενο πλαστικό από μπαμπού. Αυτό το υλικό μπορεί να αντικαταστήσει τα παραδοσιακά πλαστικά που φτιάχνονται από πετρέλαιο.\n\nΤο νέο πλαστικό είναι πιο ανθεκτικό και έχει καλύτερη θερμική συμπεριφορά. Αυτό σημαίνει ότι αντέχει σε υψηλές θερμοκρασίες. Επίσης, ειναι πιο φιλικό προς το περιβάλλον.\n\nΈνα σημαντικό σημείο είναι ότι αυτό το υλικό αποσυντίθεται στο έδαφος σε περίπου 50 ημέρες. Δεν αφήνει υπολείμματα, όπως μικροσκοπικά κομμάτια πλαστικού ή τοξικές ουσίες. Αυτή η ανακάλυψη είναι ένα σημαντικό βήμα για μια πιο βιώσιμη χρήση των υλικών και μπορεί να επηρεάσει θετικά τη βιομηχανία.",
+      "simpleText": "Τίτλος: Νέο βιοδιασπώμενο πλαστικό από μπαμπού\n\nΜια νέα ανακάλυψη από Κινέζους ερευνητές έχει να κάνει με ένα πλαστικό φτιαγμένο από μπαμπού. Αυτό το υλικό μπορεί να αντικαταστήσει τα παραδοσιακά πλαστικά, που φτιάχνονται από πετρέλαιο.\n\nΤο νέο πλαστικό είναι πιο ανθεκτικό και έχει καλύτερη συμπεριφορά για το περιβάλλον. Ένα σημαντικό χαρακτηριστικό του είναι ότι μπορεί να αποσυντεθεί πλήρως στο έδαφος μέσα σε περίπου 50 ημέρες. Αυτό σημαίνει ότι δεν αφήνει πίσω του μικροπλαστικά ή τοξικές ουσίες, που βλάπτουν τη φύση.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί βοηθά στη μείωση των απορριμμάτων και προωθεί πιο βιώσιμες πρακτικές στη χρήση υλικών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30770-viadiaspomeno-plastiko-babou/",
       "sourceDomains": [
@@ -311,7 +512,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική περιβαλλοντική ανακάλυψη που μπορεί να έχει σοβαρές επιπτώσεις στη βιομηχανία και στην καταπολέμηση της ρύπανσης από πλαστικά.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική επιστημονική ανακάλυψη που σχετίζεται με την περιβαλλοντική βιωσιμότητα και την αντιμετώπιση των απορριμμάτων από πλαστικά, γεγονός που την καθιστά σοβαρή και σχετική με κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -321,7 +522,7 @@
       "id": "bc7c12537f06",
       "title": "Απαγόρευση διαφημίσεων junk food: Ένα σημαντικό βήμα κατά της παιδικής παχυσαρκίας",
       "simpleTitle": "Απαγόρευση διαφημίσεων junk food: Ένα σημαντικό βήμα κατά της παιδικής παχυσαρκίας",
-      "simpleText": "Νέα απαγόρευση για διαφημίσεις junk food στο Ηνωμένο Βασίλειο\n\nΜια νέα απαγόρευση εισήχθη στο Ηνωμένο Βασίλειο για τις διαφημίσεις τροφίμων που θεωρούνται junk food, δηλαδή ανθυγιεινά τρόφιμα. Στόχος είναι να προστατευτούν τα παιδιά και να μειωθεί η παιδική παχυσαρκία.\n\nΑυτοί οι νέοι κανόνες περιορίζουν τις διαφημίσεις τροφίμων με υψηλά λιπαρά, αλάτι και ζάχαρη. Οι διαφημίσεις αυτές δεν θα επιτρέπονται πλέον στην τηλεόραση και στο διαδίκτυο. Η απόφαση αυτή έρχεται λόγω ανησυχιών για την υγεία των παιδιών, καθώς παρατηρούνται υψηλά ποσοστά παχυσαρκίας.\n\nΗ απαγόρευση είναι σημαντική γιατί στοχεύει να μειώσει την επιρροή που έχουν αυτές οι διαφημίσεις στις διατροφικές επιλογές των παιδιών και των οικογενειών τους.",
+      "simpleText": "Μια νέα απαγόρευση αφορά τις διαφημίσεις προϊόντων junk food στο Ηνωμένο Βασίλειο. Αυτοί οι κανόνες ξεκίνησαν πρόσφατα και έχουν σκοπό να προστατεύσουν τα παιδιά και να μειώσουν την παιδική παχυσαρκία.\n\nΗ απαγόρευση περιορίζει τις διαφημίσεις τροφίμων που περιέχουν πολλά λιπαρά, αλάτι και ζάχαρη. Αυτές οι διαφημίσεις δεν θα προβάλλονται πια στην τηλεόραση ή στο διαδίκτυο. Η απόφαση αυτή ανταγωνίζεται τα προβλήματα υγείας που έχουν προκύψει για τα παιδιά και ελπίζει να μειώσει την επιρροή των διαφημίσεων στις διατροφικές επιλογές των οικογενειών.\n\nΑυτή η κίνηση είναι σημαντική γιατί βοηθά στην προώθηση υγιεινών συνηθειών στα παιδιά.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30794-apagoreysi-junk-food-diafimiseon-gia-tin-paidiki-paxysarkia/",
       "sourceDomains": [
@@ -334,9 +535,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την υγεία και την παιδική παχυσαρκία, ένα σοβαρό κοινωνικό ζήτημα που επηρεάζει την ευημερία των παιδιών.",
+      "categoryReason": "Η απαγόρευση διαφημίσεων junk food στοχεύει στη μείωση της παιδικής παχυσαρκίας και την προώθηση υγιεινών συνηθειών, κάνοντάς την σοβαρή είδηση που αφορά την υγεία και την ευημερία των παιδιών.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gbcef4321ffd2b8095b06b742940a1caa6696b43ba49f42b58b74a9081dae3269d0d4fea43fc12015fead77485621799ea6544db95f15b2cbc966fd8cbbe643ed_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g2fa7337c1ee3b8d3ec7a384ac851303e187241298bc7b4b33b354ac4306bbfd16ac599b39914bf78ec131ac9ddfa104af187ea1738b405d59f85f6acabfd5897_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-23T06:41:00.000Z"
     },
@@ -344,7 +545,7 @@
       "id": "8bfe00a30112",
       "title": "Καρκίνος μαστού: Απλή εξέταση αίματος δείχνει ποια θεραπεία μπορεί να αποδώσει καλύτερα",
       "simpleTitle": "Καρκίνος μαστού: Απλή εξέταση αίματος δείχνει ποια θεραπεία μπορεί να αποδώσει καλύτερα",
-      "simpleText": "Τίτλος: Νέα εξέταση αίματος προβλέπει καλύτερη θεραπεία για καρκίνο μαστού\n\nΜια νέα εξέταση αίματος μπορεί να αλλάξει τον τρόπο που θεραπεύεται ο καρκίνος του μαστού. Αυτή η εξέταση βοηθά τους γιατρούς να καταλάβουν νωρίς ποια θεραπεία θα λειτουργήσει καλύτερα για κάθε ασθενή.\n\nΗ διαδικασία βασίζεται στη μελέτη του γενετικού υλικού του όγκου, που βρίσκεται στο αίμα. Αυτό σημαίνει ότι οι γιατροί μπορούν να δουν αν μια θεραπεία θα είναι αποτελεσματική πριν καν την αρχίσουν. Επίσης, μερικές φορές, μπορούν να δουν τις πιθανότητες επιτυχίας και λίγες εβδομάδες μετά την έναρξη της θεραπείας.\n\nΑυτό είναι σημαντικό γιατί μπορεί να αποτρέψει τις άσκοπες θεραπείες. Έτσι, οι ασθενείς κερδίζουν χρόνο και παρακολουθούν πιο στοχευμένες και αποτελεσματικές αγωγές.",
+      "simpleText": "Τίτλος: Απλή εξέταση αίματος βοηθά στην επιλογή θεραπείας για καρκίνο μαστού\n\nΜια νέα εξέταση αίματος μπορεί να αλλάξει την αντιμετώπιση του καρκίνου του μαστού. Αυτή η εξέταση χρησιμοποιεί γενετικό υλικό από τον όγκο που υπάρχει στο αίμα. Μέσω αυτής, οι γιατροί μπορούν να καταλάβουν νωρίς ποια θεραπεία είναι καλύτερη για τους ασθενείς.\n\nΗ εξέταση μπορεί να δείξει πώς θα ανταποκριθεί ο ασθενής στη θεραπεία πριν ξεκινήσει ή λίγες εβδομάδες μετά την αρχή της. Αυτό σημαίνει ότι οι ασθενείς δεν θα χρειάζεται να κάνουν θεραπείες που δεν θα τους ωφελήσουν, και έτσι θα μπορέσουν να κερδίσουν πολύτιμο χρόνο.\n\nΑυτή η πληροφορία είναι σημαντική γιατί μπορεί να οδηγήσει σε πιο αποτελεσματικές και στοχευμένες θεραπείες. Ακόμα, μπορεί να προσφέρει ελπίδα σε πολλούς ανθρώπους που αντιμετωπίζουν αυτή τη δύσκολη ασθένεια.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31109-karkinos-mastou-apli-exetasi-aimatos-provlepei-therapeia/",
       "sourceDomains": [
@@ -357,7 +558,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια ιατρική εξέλιξη που έχει σοβαρές επιπτώσεις στη θεραπεία του καρκίνου του μαστού, άρα ανήκει στην κατηγορία των σοβαρών θεμάτων.",
+      "categoryReason": "Η είδηση εστιάζει σε μια νέα ιατρική εξέταση που έχει σοβαρές επιπτώσεις στην αντιμετώπιση του καρκίνου του μαστού και άρα αφορά σημαντικά ζητήματα υγείας και ιατρικής καινοτομίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -367,7 +568,7 @@
       "id": "292422df6e6f",
       "title": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
       "simpleTitle": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
-      "simpleText": "Τίτλος: Οικογενειακοί Περίπατοι: Διαδραστικές ξεναγήσεις στο Ίδρυμα Γουλανδρή\n\nΤο Ίδρυμα Γουλανδρή προσφέρει μια νέα δραστηριότητα που ονομάζεται \"Family Walks\". Αυτό είναι ένα πρόγραμμα που προσκαλεί οικογένειες με παιδιά άνω των 5 ετών να γνωρίσουν τη σύγχρονη τέχνη. Οι ξεναγήσεις είναι διαδραστικές, που σημαίνει ότι οι συμμετέχοντες μπορούν να συμμετάσχουν ενεργά και να εξερευνήσουν την τέχνη μέσα από παιχνίδια και παρατήρηση.\n\nΗ εμπειρία αυτή βοηθά τις οικογένειες να δημιουργήσουν κοινές αναμνήσεις. Είναι σημαντικό γιατί ενθαρρύνει τη συμμετοχή και τη συνεργασία, κάνοντάς τους να αισθάνονται πιο κοντά. Οι οικογενειακοί περίπατοι σκοπεύουν να κάνουν την επίσκεψη στο μουσείο μια ευχάριστη και ζωντανή εμπειρία για όλους.",
+      "simpleText": "Διασκεδαστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή\n\nΤο Ίδρυμα Γουλανδρή προσφέρει ένα νέο πρόγραμμα με τίτλο \"Family Walks\". Οι οικογένειες με παιδιά άνω των 5 ετών μπορούν να συμμετάσχουν σε περιπάτους που συνδυάζουν την μοντέρνα και σύγχρονη τέχνη με διαδραστικές δραστηριότητες. Οι ξεναγήσεις έχουν σκοπό να ενθαρρύνουν τη συμμετοχή, την παρατήρηση και τη δημιουργία αναμνήσεων. Μέσα από παιχνίδι και φαντασία, οι επισκέπτες μπορούν να ζήσουν μια μοναδική εμπειρία στο μουσείο. Αυτές οι ξεναγήσεις είναι σημαντικές γιατί δημιουργούν ευκαιρίες για οικογενειακή σύνδεση και μάθηση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/",
       "sourceDomains": [
@@ -379,10 +580,10 @@
           "url": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Η δραστηριότητα 'Family Walks' προσφέρει μια θετική και ευχάριστη εμπειρία για οικογένειες, προάγοντας τη συμμετοχή και τη δημιουργία κοινών αναμνήσεων, κάτι που φτιάχνει τη διάθεση.",
+      "category": "fun",
+      "categoryReason": "Η εκδήλωση αφορά διασκεδαστικές και διαδραστικές οικογενειακές ξεναγήσεις, ενθαρρύνοντας την οικογενειακή σύνδεση και τη χαρά μέσα από το παιχνίδι και την τέχνη.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g654730db8e090c2e58dc2a2f852795937093e14cdd9bf9f921330dc3a0be4da2f7aa185034e837485aa1555d71008439fd18d2f9a0a0172cf900d92d39e50a0e_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g294740d2bb01fc5d7c2e885c607d9e62a5a49f928debfc7295a6311dc2b352e2c9b980d8a5e584d44a161e6917efc74b4c2cbfdb656f9b0c101f4e8487872dae_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-22T09:43:00.000Z"
     },
@@ -390,7 +591,7 @@
       "id": "9e89cd6accf2",
       "title": "Νεφερτίτη: Μια τεράστια ανακάλυψη που μπορεί να αλλάξει την ιστορία της αρχαίας Αιγύπτου",
       "simpleTitle": "Νεφερτίτη: Μια τεράστια ανακάλυψη που μπορεί να αλλάξει την ιστορία της αρχαίας Αιγύπτου",
-      "simpleText": "Τίτλος: Εξελίξεις γύρω από τον τάφο της βασίλισσας Νεφερτίτης\n\nΜια σημαντική ανακάλυψη μπορεί να γίνει σύντομα στην Αίγυπτο. Ο γνωστός επιστήμονας Ζάχι Χαουάς, ο οποίος είναι ειδικός στην αρχαία Αίγυπτο, πιστεύει ότι πλησιάζει στην εύρεση του χαμένου τάφου της βασίλισσας Νεφερτίτης. Αυτή η βασίλισσα είναι πολύ γνωστή και σημαντική στην ιστορία της Αιγύπτου.\n\nΗ ανακάλυψη του τάφου της Νεφερτίτης μπορεί να βοηθήσει τους ιστορικούς να κατανοήσουν καλύτερα το ρόλο της στη βασιλική οικογένεια και στην εξουσία της εποχής εκείνης. Αυτό το γεγονός είναι σημαντικό, καθώς θα μπορούσε να λύσει ένα από τα μεγαλύτερα μυστήρια της αρχαίας Αιγύπτου. Μέχρι στιγμής, δεν υπάρχουν άλλες πληροφορίες για το πότε και πού ακριβώς θα γίνει αυτή η ανακάλυψη.",
+      "simpleText": "Μια μεγάλη ανακάλυψη αφορά τη βασίλισσα Νεφερτίτη της αρχαίας Αιγύπτου. Ο γνωστός επιστήμονας Ζάχι Χαουάς πιστεύει ότι πλησιάζει στον εντοπισμό του χαμένου τάφου της.\n\nΗ Νεφερτίτη ήταν μια σημαντική φιγούρα της αρχαίας Αιγύπτου, και η εύρεση του τάφου της θα μπορούσε να μας δώσει νέες πληροφορίες για τη ζωή της και για την ιστορία της χώρας. Αυτή η ανακάλυψη είναι σημαντική, γιατί μπορεί να λύσει ένα από τα μεγάλα μυστήρια της αιγυπτιακής ιστορίας. Μέχρι στιγμής, δεν υπάρχουν λεπτομέρειες για το πού ακριβώς είναι ο τάφος ή πότε θα γίνει η ανακάλυψη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31156-nefertiti-terastia-anakalypsi-arxaia-aigyptos/",
       "sourceDomains": [
@@ -403,332 +604,250 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική αρχαιολογική ανακάλυψη που μπορεί να αλλάξει την κατανόηση της ιστορίας της αρχαίας Αιγύπτου, γεγονός που την καθιστά σοβαρή και σημαντική.",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή και σημαντική αρχαιολογική ανακάλυψη που μπορεί να αλλάξει την κατανόησή μας για την ιστορία της αρχαίας Αιγύπτου.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-01-22T06:20:00.000Z"
     },
     {
-      "id": "949de9acc32d",
-      "title": "Γιατί όταν χιονίζει σηκώνουμε τους υαλοκαθαριστήρες; Πρέπει να το κάνουμε τελικά;",
-      "simpleTitle": "Γιατί όταν χιονίζει σηκώνουμε τους υαλοκαθαριστήρες; Πρέπει να το κάνουμε τελικά;",
-      "simpleText": "Όταν χιονίζει, πολλοί οδηγοί σηκώνουν τους υαλοκαθαριστήρες του αυτοκινήτου τους. Είναι μια συνήθεια που έχει περάσει από γενιά σε γενιά. Ωστόσο, δεν είναι σαφές αν αυτή η κίνηση είναι πραγματικά χρήσιμη ή αν προκαλεί περισσότερα προβλήματα.\n\nΗ συνήθεια αυτή ξεκίνησε για να προστατεύσει τους υαλοκαθαριστήρες από το χιόνι και να διευκολύνει την ορατότητα. Όμως, υπάρχουν και απόψεις που λένε ότι μπορεί να είναι καλύτερα να τους αφήνουμε κανονικά, καθώς το σήκωμα τους μπορεί να προκαλέσει ζημιά.\n\nΗ κατάσταση αυτή είναι σημαντική για τους οδηγούς, καθώς επηρεάζει την ασφάλεια στο δρόμο και την καλή λειτουργία του αυτοκινήτου. Αξιολογώντας την κατάσταση, οι οδηγοί πρέπει να σκεφτούν αν θα συνεχίσουν να ακολουθούν αυτή τη συνήθεια ή όχι.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31151-giati-sto-xioni-sikonoume-yalokatharistires/",
+      "id": "9375b08f89de",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 26 Ιανουαρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 26 Ιανουαρίου",
+      "simpleText": "Σήμερα, 26 Ιανουαρίου, γιορτάζεται η μνήμη του Οσίου Ξενοφώντος. Τα άτομα που ονομάζονται Ξενοφών, Ξενοφώντας, Φώντας και άλλα παρόμοια ονόματα γιορτάζουν σήμερα.\n\nΟ Όσιος Ξενοφών έζησε στην Κωνσταντινούπολη, σε μια εποχή που οι αυτοκράτορες Ιουστίνος και Ιουστινιανός κυβερνούσαν, γύρω από τον 6ο αιώνα. Ήταν πλούσιος και είχε μεγάλη πίστη στο Θεό. Είχε δύο γιους, τον Αρκάδιο και τον Ιωάννη. Όταν τα παιδιά του ολοκλήρωσαν τις σπουδές τους, τους έστειλε στη Βηρυτό για να σπουδάσουν νομική. Ένα πλοίο, όμως, στο οποίο ταξίδευαν, ναυάγησε. Ευτυχώς, διασώθηκαν και πήγαν στα Ιεροσόλυμα, όπου έγιναν μοναχοί.\n\nΗ οικογένεια του Ξενοφώντος ζούσε σεμνά και ακολούθησε τον μοναχικό βίο. Είχαν μεγάλη αρετή και βοήθησαν πολλούς ανθρώπους. Έτσι, έζησαν μια ζωή γεμάτη πίστη και αγαθές πράξεις.\n\nΑυτός ο εορτασμός είναι σημαντικός γιατί τιμά μια οικογένεια που έζησε με αξίες και πίστη.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/eortologio-poioi-giortazoun-simera-26-ianouariou/",
       "sourceDomains": [
-        "thehappynews.gr"
+        "tanea.gr"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31151-giati-sto-xioni-sikonoume-yalokatharistires/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση εξετάζει μια πρακτική που σχετίζεται με την ασφάλεια οδήγησης και τη λειτουργία των αυτοκινήτων σε συνθήκες χιονόπτωσης, ένα σοβαρό θέμα με άμεσες συνέπειες για την οδική ασφάλεια.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-21T16:50:25.000Z"
-    },
-    {
-      "id": "fa1c42f0cbfa",
-      "title": "Αυξημένη επισκεψιμότητα και έσοδα στα μουσεία της χώρας",
-      "simpleTitle": "Αυξημένη επισκεψιμότητα και έσοδα στα μουσεία της χώρας",
-      "simpleText": "Οι επισκέψεις και τα έσοδα στα μουσεία της Ελλάδας αυξάνονται. Αυτό είναι καλό νέο για τον πολιτισμό. Παρά μερικές μικρές αλλαγές στον αριθμό των επισκεπτών, τα έσοδα και η συμμετοχή ανθρώπων που επισκέπτονται μουσεία με ελεύθερη είσοδο είναι ενθαρρυντικά.\n\nΤα μουσεία παραμένουν δημοφιλή και προσελκύουν το ενδιαφέρον του κόσμου. Αυτό δείχνει ότι συνεχίζουν να είναι σημαντικοί χώροι μάθησης και πολιτισμού.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31112-ayxisi-episkepsimotitas-mouseia-stin-ellada/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31112-ayxisi-episkepsimotitas-mouseia-stin-ellada/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αναφέρεται στην αυξημένη επισκεψιμότητα και τα έσοδα στα μουσεία της Ελλάδας, επισημαίνοντας τη σημασία τους ως χώρους πολιτισμού και μάθησης.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-21T14:03:00.000Z"
-    },
-    {
-      "id": "a1e2226c1b4d",
-      "title": "Μαθητής Γυμνασίου, ετών 93",
-      "simpleTitle": "Μαθητής Γυμνασίου, ετών 93",
-      "simpleText": "Τίτλος: Μαθητής Γυμνασίου 93 ετών\n\nΟ κύριος Κώστας Εξερτζόγλου είναι ένας 93χρονος άνδρας που αποφάσισε να επιστρέψει στο σχολείο. Έχει ολοκληρώσει το δημοτικό σχολείο, αλλά τώρα θέλει να μάθει περισσότερα, πολλά χρόνια μετά την αρχική του εκπαίδευση.\n\nΗ ιστορία του είναι σημαντική γιατί δείχνει ότι η εκπαίδευση δεν έχει ηλικία. Αγωνίζεται όχι μόνο για τη δική του γνώση, αλλά και για να εμπνεύσει άλλους. Θέλει να στείλει ένα μήνυμα: να μην μένουμε αδρανείς, αλλά να μαθαίνουμε συνεχώς.\n\nΤο γεγονός αυτό συμβαίνει σε μία εποχή που η εκπαίδευση και η γνώση είναι πολύτιμα για όλες τις ηλικίες.",
-      "sourceName": "Kathimerini",
-      "sourceUrl": "https://www.kathimerini.gr/visual/video/564033676/mathitis-gymnasioy-eton-93/",
-      "sourceDomains": [
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/visual/video/564033676/mathitis-gymnasioy-eton-93/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/26/greece/eortologio-poioi-giortazoun-simera-26-ianouariou/"
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία του 93χρονου μαθητή που επιστρέφει στο σχολείο είναι θετική και εμπνευστική, δείχνοντας ότι η εκπαίδευση δεν έχει ηλικία και προάγει τη συνεχή μάθηση. | rss_backfill",
+      "categoryReason": "Η είδηση σχετίζεται με τον εορτασμό του Οσίου Ξενοφώντος και τη γιορτή των προσώπων που φέρουν το όνομά του, που συνοδεύεται από θετικά συναισθήματα και εορταστική διάθεση. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-25T10:30:00.000Z"
+      "publishedAt": "2026-01-26T05:05:22.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "2fc1febac686",
-        "title": "Εβδομάδα αυξήσεων για 1 εκατ. εργαζόμενους στον ιδιωτικό τομέα",
-        "simpleTitle": "Εβδομάδα αυξήσεων για 1 εκατ. εργαζόμενους στον ιδιωτικό τομέα",
-        "simpleText": "Τίτλος: Αυξήσεις για 1 εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα\n\nΠρογραμματίζονται αυξήσεις για περίπου 1 εκατομμύριο εργαζόμενους που δουλεύουν στον ιδιωτικό τομέα. Οι αλλαγές αυτές αφορούν τις κλίμακες φορολόγησης. Αυτό σημαίνει ότι οι φόροι που πληρώνουν οι εργαζόμενοι θα αλλάξουν, κάνοντάς τους πιο ευνοϊκούς. Οι αυξήσεις θα εφαρμοστούν πλήρως μέσα στην εβδομάδα.\n\nΑυτή η εξέλιξη είναι σημαντική, καθώς μπορεί να επηρεάσει το εισόδημα πολλών ανθρώπων. Παρά τις αυξήσεις, δεν υπάρχουν περισσότερες λεπτομέρειες για το πώς θα εφαρμοστούν αυτές οι αλλαγές. Είναι άγνωστο πότε ακριβώς θα ξεκινήσουν οι νέες κλίμακες φορολόγησης.",
-        "sourceName": "TO BHMA, News.gr",
-        "sourceUrl": "https://www.tovima.gr/2026/01/25/finance/evdomada-ayksiseon-gia-1-ekat-ergazomenos-ston-idiotiko-tomea/",
-        "sourceDomains": [
-          "tovima.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/25/finance/evdomada-ayksiseon-gia-1-ekat-ergazomenos-ston-idiotiko-tomea/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/oikonomia/article/4059263/erchete-evdomada-afxiseon-gia-ena-ekatommirio-ergazomenous-ston-idiotiko-tomea.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σημαντικές οικονομικές αλλαγές που επιδρούν στους εργαζόμενους στον ιδιωτικό τομέα και την φορολογία τους, καθιστώντας την σοβαρή λόγω της επίδρασής της στα εισοδήματα και την οικονομία.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-25T15:00:35.000Z"
-      },
-      {
-        "id": "569045e24e42",
-        "title": "Θεσσαλονίκη: Πτώση 75χρονου από μπαλκόνι 4ου ορόφου",
-        "simpleTitle": "Θεσσαλονίκη: Πτώση 75χρονου από μπαλκόνι 4ου ορόφου",
-        "simpleText": "Στην Θεσσαλονίκη, ένα 75χρονος άνδρας έπεσε από το μπαλκόνι του τέταρτου ορόφου. Το περιστατικό συνέβη στην περιοχή Τούμπα, γύρω στη 1.15 το μεσημέρι. Ο άνδρας διακομίστηκε άμεσα στο Ιπποκράτειο Νοσοκομείο, έχοντας τραυματιστεί σοβαρά. Η αστυνομία ερευνά πώς συνέβη η πτώση. Είναι σημαντικό να κατανοήσουμε τις συνθήκες, ώστε να αποφεύγονται παρόμοια ατυχήματα στο μέλλον.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ptosi-75xronou-apo-mpalkoni-4ou-orofou/",
+        "id": "61a1dd3f5bc9",
+        "title": "Έγκλημα στη Γλυφάδα: Στον εισαγγελέα ο 46χρονος πατροκτόνος – Συγκλονίζουν οι μαρτυρίες των αυτοπτών μαρτύρων",
+        "simpleTitle": "Έγκλημα στη Γλυφάδα: Στον εισαγγελέα ο 46χρονος πατροκτόνος – Συγκλονίζουν οι μαρτυρίες των αυτοπτών μαρτύρων",
+        "simpleText": "Στην Γλυφάδα, ένας 46χρονος άντρας κατηγορείται ότι σκότωσε τον 80χρονο πατέρα του. Το έγκλημα συνέβη το πρωί της Κυριακής, 25 Ιουνίου. Ο δράστης είχε προηγούμενη καταδίκη για τη δολοφονία της μητέρας του πριν από χρόνια.\n\nΣύμφωνα με μάρτυρες, λίγο πριν τη δολοφονία, ο πατέρας ετοιμαζόταν να πάει στην εκκλησία. Ο γιος τον μαχαίρωσε και μετά τον έβαλε στο πορτμπαγκάζ του αυτοκινήτου τους. Κάποιες πληροφορίες αναφέρουν ότι είχε βάλει εκκλησιαστική μουσική για να καλύψει τις κραυγές του πατέρα του.\n\nΟ 46χρονος είχε αποφυλακιστεί μετά από τέσσερα χρόνια φυλάκισης και αντιμετώπιζε ψυχιατρικά προβλήματα. Πολλοί αναρωτιούνται πώς κατάφερε να αποφυλακιστεί παρά την επικίνδυνη συμπεριφορά του. Η ΕΛΑΣ ερευνά τις συνθήκες που οδήγησαν στην αποφυλάκισή του.\n\nΟ δράστης θα παρουσιαστεί στον εισαγγελέα για να αντιμετωπίσει τις κατηγορίες.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/egklima-sti-glyfada-ston-eisaggelea-o-46xronos-patroktonos-sygklonizoun-oi-martyries-ton-aytopton-martyron/",
         "sourceDomains": [
           "ertnews.gr",
-          "news.gr"
+          "kathimerini.gr",
+          "tanea.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki-ptosi-75xronou-apo-mpalkoni-4ou-orofou/"
+            "url": "https://www.ertnews.gr/roi-idiseon/egklima-sti-glyfada-ston-eisaggelea-o-46xronos-patroktonos-sygklonizoun-oi-martyries-ton-aytopton-martyron/"
           },
           {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4059491/ptosi-75chronou-apo-balkoni-4ou-orofou-stin-thessaloniki.html"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564041773/egklima-sti-glyfada-ston-eisaggelea-o-46chronos-patroktonos-oi-martyries-gia-ti-dolofonia-kai-i-skia-tis-apofylakisis/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/greece/egklima-sti-glyfada-ston-eisaggelea-odigeitai-simera-o-46xronos-patroktonos/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρει ένα σοβαρό ατύχημα με pτώση ενός ηλικιωμένου, που έχει σοβαρές συνέπειες και σχετίζεται με ζητήματα ασφάλειας.",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό έγκλημα, με υψηλά κοινωνικά και νομικά ζητήματα, όπως η δολοφονία και οι ψυχιατρικές καταστάσεις του δράστη.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g555bcd160bd0f44962e0661fb03f3d9380a3f82702b0db3cab93c9650962b255fd39fd2853b8b07188164d101c408b9215d0a69b4fca82a661044a2c9f84edf2_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-25T14:57:07.000Z"
+        "imageUrl": "https://pixabay.com/get/gb183dcf6e463583e0d2099ce9e0253d5107ecc25b06adb78054f549e7eee84185ee4ff73315394041537fb4819f3bb52fb37a9a804ed9db435bd9f228ced1b7d_1280.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SYNDESEIS-DARSINOS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SYNDESEIS-DARSINOS.jpg",
+        "publishedAt": "2026-01-26T07:33:21.000Z"
       },
       {
-        "id": "cd2586548931",
-        "title": "Η Θεσσαλονίκη τιμά την Ημέρα Μνήμης των Ελλήνων Εβραίων μαρτύρων και ηρώων του Ολοκαυτώματος",
-        "simpleTitle": "Η Θεσσαλονίκη τιμά την Ημέρα Μνήμης των Ελλήνων Εβραίων μαρτύρων και ηρώων του Ολοκαυτώματος",
-        "simpleText": "Η Θεσσαλονίκη τιμά τους Έλληνες Εβραίους που υπήρξαν θύματα του Ολοκαυτώματος\n\nΤην Κυριακή, στην Πλατεία Ελευθερίας στη Θεσσαλονίκη, πραγματοποιήθηκε εκδήλωση για να τιμηθούν οι Έλληνες Εβραίοι μάρτυρες και ήρωες του Ολοκαυτώματος. Στην εκδήλωση συμμετείχαν ομιλητές που ανέφεραν τη σημασία του σεβασμού και της ιστορικής μνήμης. Ο δήμαρχος της πόλης, Στέλιος Αγγελούδης, ανακοίνωσε ότι η πόλη είναι έτοιμη να ξεκινήσει τις εργασίες για τη δημιουργία ενός Πάρκου Μνήμης στην πλατεία. Αυτό αναμένεται να ολοκληρωθεί σύντομα, καθώς έχουν αρθεί νομικά εμπόδια.\n\nΗ εκδήλωση περιλάμβανε κατάθεση στεφάνων στο Μνημείο Ολοκαυτώματος και αναφορές στο υπό κατασκευή Μουσείο Ολοκαυτώματος. Ο πρόεδρος της Ισραηλιτικής Κοινότητας Θεσσαλονίκης τόνισε την ανάγκη για έργα μνήμης, καθώς και την αύξηση του αντισημιτισμού στην Ευρώπη και την Ελλάδα. Αυτό το γεγονός είναι σημαντικό, γιατί προωθεί την αναγνώριση της ιστορίας και την ενίσχυση της κοινωνικής συνοχής.",
-        "sourceName": "ERT News, Protagon",
-        "sourceUrl": "https://www.ertnews.gr/video/i-thessaloniki-tima-tin-imera-mnimis-ton-ellinon-evraion-martyron-kai-iroon-tou-olokaytomatos/",
+        "id": "b4962349fa4a",
+        "title": "Τραγωδία στα Τρίκαλα: Νεκρές τέσσερις εργαζόμενες από τη φωτιά στη «Βιολάντα» – Αγνοείται μία ακόμα",
+        "simpleTitle": "Τραγωδία στα Τρίκαλα: Νεκρές τέσσερις εργαζόμενες από τη φωτιά στη «Βιολάντα» – Αγνοείται μία ακόμα",
+        "simpleText": "Τίτλος: Τραγωδία στα Τρίκαλα: Φωτιά στο εργοστάσιο «Βιολάντα» – Τέσσερις γυναίκες νεκρές\n\nΜια σοβαρή φωτιά ξέσπασε το πρωί σε ένα εργοστάσιο τροφίμων, τη «Βιολάντα», στα Τρίκαλα. Η πυρκαγιά άρχισε λίγο μετά τις 4 το πρωί και προκάλεσε έκρηξη, που οδήγησε στην κατάρρευση μέρους της σκεπής. Στο εργοστάσιο εκείνη τη στιγμή εργαζόντουσαν 12 άτομα. Από αυτά, τέσσερις γυναίκες βρέθηκαν νεκρές, ενώ μία ακόμη αγνοείται. Οι σοροί τους ήταν σοβαρά κατεστραμμένες.\n\nΑνάμεσα στους άλλους εργαζόμενους, οκτώ άτομα κατάφεραν να βγουν και μεταφέρθηκαν σε νοσοκομεία με αναπνευστικά προβλήματα και ελαφρά τραύματα. Οι πυροσβέστες προσπάθησαν να σβήσουν την φωτιά και να αποτρέψουν την εξάπλωσή της σε άλλα κτίρια.\n\nΣτο σημείο της καταστροφής βρέθηκαν πολλές δυνάμεις, καθώς η κατάσταση ήταν πολύ δύσκολη. Οι αιτίες της φωτιάς διερευνώνται, και οι αρχές συνεχίζουν τις προσπάθειες για τον εντοπισμό της αγνοούμενης εργαζόμενης.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/tragodia-sta-trikala-nekres-tesseris-ergazomenes-agnoeitai-mia-akoma/",
         "sourceDomains": [
-          "ertnews.gr",
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/greece/tragodia-sta-trikala-nekres-tesseris-ergazomenes-agnoeitai-mia-akoma/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/01/26/society/trikala-megali-fotia-se-mpiskotoviomixania-anafores-gia-traymaties-kai-agnooumenous/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια σοβαρή και τραγική κατάσταση που προήλθε από φωτιά σε εργοστάσιο, με θανάτους και τραυματισμούς, που συνιστά σοβαρό κοινωνικό ζήτημα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g094ac1d0f9950ec6804e7e4352b5c30037fa32c2e6bd6a16f6eb412750a3911b1c34dd1799d59fb9199078e4119dd63fa0c6039ceb808fd86e57e4ee0dd7da1a_1280.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.jpg",
+        "publishedAt": "2026-01-26T07:09:24.000Z"
+      },
+      {
+        "id": "98b48e61442b",
+        "title": "Μακελειό με τουλάχιστον 11 νεκρούς στο Μεξικό: Ένοπλοι άνοιξαν πυρ σε γήπεδο ποδοσφαίρου",
+        "simpleTitle": "Μακελειό με τουλάχιστον 11 νεκρούς στο Μεξικό: Ένοπλοι άνοιξαν πυρ σε γήπεδο ποδοσφαίρου",
+        "simpleText": "Στην πόλη Σαλαμάνκα, στη πολιτεία Γουαναχουάτο του Μεξικού, έγινε μια φονική επίθεση κατά τη διάρκεια ενός ποδοσφαιρικού αγώνα. Ενόπλοι άνοιξαν πυρ στο γήπεδο, με αποτέλεσμα να πεθάνουν τουλάχιστον 11 άνθρωποι και να τραυματιστούν 12. Από τους νεκρούς, οι 10 άφησαν την τελευταία τους πνοή στη σκηνή, ενώ ένας άλλος απέθανε αργότερα στο νοσοκομείο.\n\nΗ επίθεση φέρει την υπογραφή συμμοριών του οργανωμένου εγκλήματος, οι οποίες δραστηριοποιούνται στην περιοχή. Οι τοπικές αρχές έχουν ξεκινήσει επιχείρηση για να εντοπίσουν τους δράστες. Σημειώνεται ότι λίγες ώρες πριν την επίθεση, είχαν βρεθεί σάκοι με ανθρώπινα λείψανα στην περιοχή, γεγονός που εντείνει την ανησυχία για τη βία και την εγκληματικότητα.\n\nΗ Γουαναχουάτο είναι γνωστή για τη βιομηχανία και τον τουρισμό της, αλλά και για τις συγκρούσεις μεταξύ συμμοριών που αγωνίζονται για τον έλεγχο της διακίνησης ναρκωτικών και καυσίμων. Αυτή η κατάσταση δημιουργεί σοβαρά προβλήματα για τους κατοίκους και την ασφάλεια στην περιοχή.",
+        "sourceName": "TA NEA, News.gr, Protagon",
+        "sourceUrl": "https://www.tanea.gr/2026/01/26/world/makeleio-me-toylaxiston-11-nekroys-sto-meksiko-enoploi-anoiksan-pyr-se-gipedo-podosfairoy/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr",
           "protagon.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/video/i-thessaloniki-tima-tin-imera-mnimis-ton-ellinon-evraion-martyron-kai-iroon-tou-olokaytomatos/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/world/makeleio-me-toylaxiston-11-nekroys-sto-meksiko-enoploi-anoiksan-pyr-se-gipedo-podosfairoy/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4059563/tromos-sto-mexiko-enopli-anixan-pir-se-gipedo-podosferou-11-nekri.html"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/i-thessaloniki-timise-tin-imera-mnimis-twn-ellinwn-evraiwn-martyrwn-kai-irwwn-tou-olokaftwmatos-44343300143"
+            "url": "https://www.protagon.gr/epikairotita/makeleio-se-gipedo-podosfairou-sto-meksiko-11-nekroi-se-epithesi-symmorias-44343300236"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η εκδήλωση τιμής και μνήμης για τους Έλληνες Εβραίους θύματα του Ολοκαυτώματος αναδεικνύει σοβαρά ζητήματα ιστορικής ευθύνης και κοινωνικής συνοχής, καθώς και την ανάγκη για αντίσταση ενάντια στον αντισημιτισμό, γεγονότα που σχετίζονται με μεγάλα κοινωνικά ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gfa90fb3ae85ce12b93929803b6f9bec07175bc557fcef1ca080bf4297bed8c81eb840b57be1d7f0a1568df705f13494ff16386ac2658aa6d40529fa336509b2d_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/01/25-13-01-evraioi.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2026/01/25-13-01-evraioi_2.jpg",
-        "publishedAt": "2026-01-25T14:35:59.000Z"
-      },
-      {
-        "id": "d576cfbc2ec1",
-        "title": "Πεσκόφ: Η Μόσχα δεν θα συζητήσει ποτέ με την Κάλας",
-        "simpleTitle": "Πεσκόφ: Η Μόσχα δεν θα συζητήσει ποτέ με την Κάλας",
-        "simpleText": "Τίτλος: Η Ρωσία δεν θέλει να μιλήσει με την Κάγια Κάλας\n\nΟ εκπρόσωπος της Ρωσίας, Ντμίτρι Πεσκόφ, δήλωσε ότι η Μόσχα δεν θα συζητήσει ποτέ με την Κάγια Κάλας, η οποία είναι υπεύθυνη για την εξωτερική πολιτική της Ευρωπαϊκής Ένωσης. Αυτό σημαίνει ότι η Ρωσία δεν θέλει να κάνει διάλογο μαζί της, περιμένοντας να αποχωρήσει από την θέση της.\n\nΟ Πεσκόφ εξέφρασε επίσης ανησυχίες σχετικά με τα σχέδια των Ηνωμένων Πολιτειών για ένα σύστημα προστασίας από πυραύλους, γνωστό ως Χρυσός Θόλος. Ανέφερε ότι οι ρωσικές δυνάμεις παρακολουθούν αυτά τα σχέδια, ειδικά σε σχέση με τη Γροιλανδία.\n\nΑυτό το θέμα είναι σημαντικό διότι δείχνει την τρέχουσα κατάσταση στις σχέσεις μεταξύ Ρωσίας και Δύσης.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/peskof-i-mosxa-den-tha-syzitisei-pote-me-tin-kalas/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/peskof-i-mosxa-den-tha-syzitisei-pote-me-tin-kalas/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4059436/peskof-i-rosia-den-tha-sizitisi-pote-me-tin-kalas-tis-ee.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρει τη δήλωση του εκπροσώπου της Ρωσίας σχετικά με την απόρριψη διαλόγου με την Κάγια Κάλας και τις ανησυχίες για τις στρατηγικές σχεδιάσεις των ΗΠΑ, τα οποία είναι σοβαρά πολιτικά και διεθνή θέματα.",
+        "categoryReason": "Η είδηση αφορά μια φονική επίθεση με πολλούς θανάτους και τραυματισμούς, γεγονός που σχετίζεται με σοβαρά κοινωνικά θέματα όπως η βία και το οργανωμένο έγκλημα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-25T14:02:01.000Z"
+        "publishedAt": "2026-01-26T07:07:13.000Z"
       },
       {
-        "id": "dc517ac18691",
-        "title": "Πάτρα: Χωρίς τις αισθήσεις του ανασύρθηκε άνδρας μετά από κατάσβεση φωτιάς σε οικία",
-        "simpleTitle": "Πάτρα: Χωρίς τις αισθήσεις του ανασύρθηκε άνδρας μετά από κατάσβεση φωτιάς σε οικία",
-        "simpleText": "Στην Πάτρα, ένας 75χρονος άνδρας βρέθηκε χωρίς τις αισθήσεις του μέσα από το σπίτι του, μετά από φωτιά που ξέσπασε στην περιοχή Καστελόκαμπος. Η φωτιά φαίνεται να ξεκίνησε από την κουζίνα, όπου οι ερευνητές βρήκαν τα «μάτια» της κουζίνας ανοιχτά. Υπάρχουν μαρτυρίες για μία έκρηξη που έγινε από γκαζάκια που είχε ο ιδιοκτήτης.\n\nΟι πυροσβέστες έφτασαν γρήγορα στο σημείο με 12 άντρες και 5 οχήματα για να σβήσουν τη φωτιά. Δυστυχώς, ήταν αργά για τον άνδρα που βρέθηκε στο εσωτερικό του σπιτιού. Αυτή η είδηση είναι σημαντική διότι δείχνει τους κινδύνους που μπορεί να προκληθούν από φωτιά και από ατυχήματα στην κουζίνα.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/patra-xoris-tis-aisthiseis-tou-anasyrthike-andras-meta-apo-katasvesi-fotias-se-oikia/",
+        "id": "35b8e0711b7e",
+        "title": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Ανασύρθηκαν τρεις σοροί γυναικών – Αγνοούνται άλλες δύο εργαζόμενες",
+        "simpleTitle": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Ανασύρθηκαν τρεις σοροί γυναικών – Αγνοούνται άλλες δύο εργαζόμενες",
+        "simpleText": "Φωτιά σε εργοστάσιο στα Τρίκαλα: Τρεις γυναίκες βρέθηκαν νεκρές, δύο ακόμα αγνοούνται\n\nΣτο εργοστάσιο «Βιολάντα» στην περιοχή των Τρικάλων, ξέσπασε μεγάλη φωτιά. Αυτό συνέβη κατά τη διάρκεια της λειτουργίας του εργοστασίου, όταν ακούστηκε ισχυρή έκρηξη. Μετά από αυτήν, τρεις σοροί γυναικών βρέθηκαν μέσα στο κτίριο και οι έρευνες συνεχίζονται για να εντοπιστούν οι άλλες δύο εργαζόμενες που λείπουν.\n\nΣτο εργοστάσιο βρίσκονταν 13 άτομα, από τα οποία οι 8 κατάφεραν να απομακρυνθούν. Οι περισσότεροι μεταφέρθηκαν στο νοσοκομείο με εγκαύματα και αναπνευστικά προβλήματα. Στην περιοχή έσπευσαν πολλές πυροσβεστικές δυνάμεις για να σβήσουν την φωτιά και να αποτρέψουν την επέκτασή της σε διπλανά κτίρια.\n\nΤο αίτιο της φωτιάς διερευνάται από την Πυροσβεστική. Η κατάσταση παραμένει κρίσιμη και η επιχείρηση κατάσβεσης συνεχίζεται.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/fotia-se-ergostasio-sta-trikala-anasyrthikan-treis-soroi-gynaikon-agnoountai-alles-dyo/",
         "sourceDomains": [
-          "ertnews.gr",
+          "tanea.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/patra-xoris-tis-aisthiseis-tou-anasyrthike-andras-meta-apo-katasvesi-fotias-se-oikia/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/greece/fotia-se-ergostasio-sta-trikala-anasyrthikan-treis-soroi-gynaikon-agnoountai-alles-dyo/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4059481/andras-entopisthike-choris-tis-esthisis-tou-meta-apo-fotia-se-spiti-stin-patra.html"
+            "url": "https://www.news.gr/ellada/article/4059685/tragodia-apo-ti-megali-fotia-pou-xespase-stin-biskotoviomichania-violanta-sta-trikala-vrethikan-tris-apanthrakomenes-sori-agnoounte-akomi-dio-ergazomenes.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον θάνατο ενός άνδρα μετά από φωτιά σε οικία, μια σοβαρή και tragική κατάσταση που υπογραμμίζει τους κινδύνους από φωτιές και ατυχήματα.",
+        "categoryReason": "Η είδηση αφορά μια τραγωδία με φωτιά σε εργοστάσιο, όπου τρεις γυναίκες βρέθηκαν νεκρές και άλλες δύο αγνοούνται, γεγονός που συνιστά σοβαρό κοινωνικό και ανθρωπιστικό ζήτημα.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gb7955974b9eaf5f853e0acf092d45e0b7b58911117772957d7b7d3f3d586ea5e07f203721336afac1470708b73d3ed272aad598c89c5ce6cf1b5743d7793c414_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20262401-DT15-PATRA-FOTIA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20262401-DT15-PATRA-FOTIA.jpg",
-        "publishedAt": "2026-01-25T13:58:46.000Z"
+        "imageUrl": "https://pixabay.com/get/ge42ab14ba3a0dec960cf363b317a8baf2ef5da75975a5d07e58bee19ee715abc7feff5058d7e353bda13c4191ebbeb4b826b9e20012206fdee306610c0d74375_1280.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260126-SUNDESEIS-TRK-THEOXAROULI-3NEKRES.jpg",
+        "publishedAt": "2026-01-26T07:03:29.000Z"
       },
       {
-        "id": "3e98aaa28480",
-        "title": "Σύρος: Σορός γυναίκας ανασύρθηκε από το λιμάνι της Ερμούπολης",
-        "simpleTitle": "Σύρος: Σορός γυναίκας ανασύρθηκε από το λιμάνι της Ερμούπολης",
-        "simpleText": "Μια γυναίκα βρέθηκε νεκρή στο λιμάνι της Ερμούπολης, Σύρου. Η σορός της εντοπίστηκε σήμερα, λίγο μετά τις 1 το μεσημέρι, από περαστικούς. Αυτοί ενημέρωσαν τις αρχές, και το Λιμενικό έφτασε γρήγορα στο σημείο. Η σορός ανασύρθηκε με την βοήθεια ιδιωτικού σκάφους και μεταφέρθηκε σε νοσοκομείο της Σύρου με ασθενοφόρο.\n\nΠρος το παρόν, δεν γνωρίζουμε ποια είναι η γυναίκα ούτε πώς πέθανε. Η αστυνομία ερευνά την υπόθεση και η σορός θα μεταφερθεί στον Πειραιά για να γίνουν εξετάσεις. Αυτή η διαδικασία, που ονομάζεται νεκροψία - νεκροτομή, θα βοηθήσει να διαλευκανθούν οι συνθήκες του θανάτου.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/syros-soros-gynaikas-anasyrthike-apo-to-limani-tis-ermoupolis/",
+        "id": "64ea361886d2",
+        "title": "Ιαπωνία: Υποχωρεί η δημοτικότητα της πρωθυπουργού Τακαΐτσι ενόψει των πρόωρων εκλογών",
+        "simpleTitle": "Ιαπωνία: Υποχωρεί η δημοτικότητα της πρωθυπουργού Τακαΐτσι ενόψει των πρόωρων εκλογών",
+        "simpleText": "Τίτλος: Ιαπωνία: Μειώθηκε η δημοτικότητα της πρωθυπουργού Τακαΐτσι πριν τις εκλογές\n\nΗ δημοτικότητα της πρωθυπουργού της Ιαπωνίας, Σανάε Τακαΐτσι, μειώνεται ενόψει των πρόωρων εκλογών που θα γίνουν στις 8 Φεβρουαρίου. Σύμφωνα με δημοσκοπήσεις, το ποσοστό αποδοχής της έχει πέσει από 75% τον Δεκέμβριο στο 67%.\n\nΟι εκλογές έρχονται μετά από σημαντικές υποσχέσεις της Τακαΐτσι για φορολογικές ελαφρύνσεις, με σκοπό να βοηθήσει τους πολίτες που ανησυχούν για τον πληθωρισμό. Ωστόσο, οι ψηφοφόροι εκφράζουν αμφιβολίες για την αποτελεσματικότητα αυτών των μέτρων.\n\nΗ Σανάε Τακαΐτσι είναι η πρώτη γυναίκα πρωθυπουργός στην ιστορία της Ιαπωνίας και πρόσφατα διέλυσε την κάτω Βουλή για να ενισχύσει τη νέα κυβερνητική της συμμαχία. Σήμερα θα συμμετάσχει σε τηλεοπτική συζήτηση με άλλους πολιτικούς αρχηγούς.\n\nΗ μείωση της δημοτικότητας έχει δημιουργήσει ανησυχίες στις χρηματαγορές, καθώς υπάρχει έλλειψη σαφών στοιχείων για τη χρηματοδότηση των υποσχέσεών της. Ο δημόσιος χρέος της Ιαπωνίας φτάνει το 230% του ΑΕΠ, γεγονός που αναδεικνύει τις προκλήσεις που αντιμετωπίζει η κυβέρνηση.\n\nΗ κατάσταση είναι σημαντική καθώς μπορεί να επηρεάσει τις εκλογές και τη στήριξη της πρωθυπουργού από τους πολίτες.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/iaponia-ypoxorei-i-dimotikotita-tis-prothypourgou-takaitsi-enopsei-ton-prooron-eklogon/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/syros-soros-gynaikas-anasyrthike-apo-to-limani-tis-ermoupolis/"
+            "url": "https://www.ertnews.gr/eidiseis/diethni/iaponia-ypoxorei-i-dimotikotita-tis-prothypourgou-takaitsi-enopsei-ton-prooron-eklogon/"
           },
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564041368/syros-soros-gynaikas-entopistike-sto-limani-tis-ermoypolis/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/world/iaponia-ypoxorei-i-dimotikotita-tis-takaitsi-neyrikotita-stis-agores/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον θάνατο μιας γυναίκας και την έρευνα των αρχών για τις συνθήκες του θανάτου της, γεγονός που συνιστά σοβαρή και ανησυχητική κατάσταση.",
+        "categoryReason": "Η είδηση αφορά τη μείωση της δημοτικότητας της πρωθυπουργού της Ιαπωνίας Σανάε Τακαΐτσι ενόψει των πρόωρων εκλογών, θέμα που σχετίζεται με πολιτικές και οικονομικές ανησυχίες, όπως ο πληθωρισμός και οι φορολογικές ελαφρύνσεις. Οι δημοσκοπήσεις και οι επιπτώσεις στις χρηματαγορές καταδεικνύουν σοβαρές κοινωνικές και πολιτικές προκλήσεις.",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20282401-DT15-SYROS.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20282401-DT15-SYROS.jpg",
-        "publishedAt": "2026-01-25T13:10:00.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-01-26T07:01:00.000Z"
+      },
+      {
+        "id": "237e4ec2d282",
+        "title": "Μεγάλη πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα: Τρεις εργάτριες ανασύρθηκαν νεκρές και δύο ακόμα αγνοούνται (VIDEO)",
+        "simpleTitle": "Μεγάλη πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα: Τρεις εργάτριες ανασύρθηκαν νεκρές και δύο ακόμα αγνοούνται (VIDEO)",
+        "simpleText": "Πυρκαγιά σε εργοστάσιο μπισκότων στα Τρίκαλα\n\nΣτα Τρίκαλα, έγινε μεγάλη φωτιά σε εργοστάσιο μπισκότων που ονομάζεται «Βιολάντα». Η φωτιά ξεκίνησε τις πρώτες ώρες της ημέρας και συνοδευόταν από μια έκρηξη. Τρεις εργάτριες βρέθηκαν νεκρές, ενώ δύο ακόμα είναι αγνοούμενες.\n\nΣύμφωνα με τις πληροφορίες, πέντε εργάτριες βρίσκονταν σε κτίριο του εργοστασίου, το οποίο κατέρρευσε λόγω της φωτιάς. Από τους 13 εργαζόμενους, οκτώ υπέστησαν ελαφρείς τραυματισμούς. Στο σημείο έσπευσαν 13 πυροσβεστικά οχήματα και 40 πυροσβέστες για να κατασβέσουν τη φωτιά.\n\nΑυτό το γεγονός είναι σημαντικό, καθώς δείχνει τους κινδύνους που υπάρχουν στους χώρους εργασίας.",
+        "sourceName": "902.gr – Επιλεγμένα, Protagon",
+        "sourceUrl": "https://www.902.gr/eidisi/koinonia/412573/megali-oyrkagia-se-ergostasio-mpiskoton-sta-trikala-treis-ergatries",
+        "sourceDomains": [
+          "902.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "902.gr – Επιλεγμένα",
+            "url": "https://www.902.gr/eidisi/koinonia/412573/megali-oyrkagia-se-ergostasio-mpiskoton-sta-trikala-treis-ergatries"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/megali-pyrkagia-se-viomixania-biskotwn-sta-trikala-pente-agnooumenes-44343300230"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το γεγονός της πυρκαγιάς με θύματα και αγνοούμενους αναδεικνύει σοβαρά ζητήματα ασφάλειας στους χώρους εργασίας και έχει σημαντικό κοινωνικό αντίκτυπο.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g140ee2bda0bad9ec96a4aefcd44a6acc0a5fe67b63ebb42f8fa09cb186856177c2ad64d6c60189ac5a36d600f527cca5703ecd464cf35f3d82a59d127e680b2e_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-26T06:55:01.000Z"
       }
     ],
     "happy": [
       {
-        "id": "a1e2226c1b4d",
-        "title": "Μαθητής Γυμνασίου, ετών 93",
-        "simpleTitle": "Μαθητής Γυμνασίου, ετών 93",
-        "simpleText": "Τίτλος: Μαθητής Γυμνασίου 93 ετών\n\nΟ κύριος Κώστας Εξερτζόγλου είναι ένας 93χρονος άνδρας που αποφάσισε να επιστρέψει στο σχολείο. Έχει ολοκληρώσει το δημοτικό σχολείο, αλλά τώρα θέλει να μάθει περισσότερα, πολλά χρόνια μετά την αρχική του εκπαίδευση.\n\nΗ ιστορία του είναι σημαντική γιατί δείχνει ότι η εκπαίδευση δεν έχει ηλικία. Αγωνίζεται όχι μόνο για τη δική του γνώση, αλλά και για να εμπνεύσει άλλους. Θέλει να στείλει ένα μήνυμα: να μην μένουμε αδρανείς, αλλά να μαθαίνουμε συνεχώς.\n\nΤο γεγονός αυτό συμβαίνει σε μία εποχή που η εκπαίδευση και η γνώση είναι πολύτιμα για όλες τις ηλικίες.",
-        "sourceName": "Kathimerini",
-        "sourceUrl": "https://www.kathimerini.gr/visual/video/564033676/mathitis-gymnasioy-eton-93/",
+        "id": "9375b08f89de",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 26 Ιανουαρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 26 Ιανουαρίου",
+        "simpleText": "Σήμερα, 26 Ιανουαρίου, γιορτάζεται η μνήμη του Οσίου Ξενοφώντος. Τα άτομα που ονομάζονται Ξενοφών, Ξενοφώντας, Φώντας και άλλα παρόμοια ονόματα γιορτάζουν σήμερα.\n\nΟ Όσιος Ξενοφών έζησε στην Κωνσταντινούπολη, σε μια εποχή που οι αυτοκράτορες Ιουστίνος και Ιουστινιανός κυβερνούσαν, γύρω από τον 6ο αιώνα. Ήταν πλούσιος και είχε μεγάλη πίστη στο Θεό. Είχε δύο γιους, τον Αρκάδιο και τον Ιωάννη. Όταν τα παιδιά του ολοκλήρωσαν τις σπουδές τους, τους έστειλε στη Βηρυτό για να σπουδάσουν νομική. Ένα πλοίο, όμως, στο οποίο ταξίδευαν, ναυάγησε. Ευτυχώς, διασώθηκαν και πήγαν στα Ιεροσόλυμα, όπου έγιναν μοναχοί.\n\nΗ οικογένεια του Ξενοφώντος ζούσε σεμνά και ακολούθησε τον μοναχικό βίο. Είχαν μεγάλη αρετή και βοήθησαν πολλούς ανθρώπους. Έτσι, έζησαν μια ζωή γεμάτη πίστη και αγαθές πράξεις.\n\nΑυτός ο εορτασμός είναι σημαντικός γιατί τιμά μια οικογένεια που έζησε με αξίες και πίστη.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/01/26/greece/eortologio-poioi-giortazoun-simera-26-ianouariou/",
         "sourceDomains": [
-          "kathimerini.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/visual/video/564033676/mathitis-gymnasioy-eton-93/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/26/greece/eortologio-poioi-giortazoun-simera-26-ianouariou/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία του 93χρονου μαθητή που επιστρέφει στο σχολείο είναι θετική και εμπνευστική, δείχνοντας ότι η εκπαίδευση δεν έχει ηλικία και προάγει τη συνεχή μάθηση. | rss_backfill",
+        "categoryReason": "Η είδηση σχετίζεται με τον εορτασμό του Οσίου Ξενοφώντος και τη γιορτή των προσώπων που φέρουν το όνομά του, που συνοδεύεται από θετικά συναισθήματα και εορταστική διάθεση. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-25T10:30:00.000Z"
-      },
-      {
-        "id": "292422df6e6f",
-        "title": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
-        "simpleTitle": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
-        "simpleText": "Τίτλος: Οικογενειακοί Περίπατοι: Διαδραστικές ξεναγήσεις στο Ίδρυμα Γουλανδρή\n\nΤο Ίδρυμα Γουλανδρή προσφέρει μια νέα δραστηριότητα που ονομάζεται \"Family Walks\". Αυτό είναι ένα πρόγραμμα που προσκαλεί οικογένειες με παιδιά άνω των 5 ετών να γνωρίσουν τη σύγχρονη τέχνη. Οι ξεναγήσεις είναι διαδραστικές, που σημαίνει ότι οι συμμετέχοντες μπορούν να συμμετάσχουν ενεργά και να εξερευνήσουν την τέχνη μέσα από παιχνίδια και παρατήρηση.\n\nΗ εμπειρία αυτή βοηθά τις οικογένειες να δημιουργήσουν κοινές αναμνήσεις. Είναι σημαντικό γιατί ενθαρρύνει τη συμμετοχή και τη συνεργασία, κάνοντάς τους να αισθάνονται πιο κοντά. Οι οικογενειακοί περίπατοι σκοπεύουν να κάνουν την επίσκεψη στο μουσείο μια ευχάριστη και ζωντανή εμπειρία για όλους.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η δραστηριότητα 'Family Walks' προσφέρει μια θετική και ευχάριστη εμπειρία για οικογένειες, προάγοντας τη συμμετοχή και τη δημιουργία κοινών αναμνήσεων, κάτι που φτιάχνει τη διάθεση.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g654730db8e090c2e58dc2a2f852795937093e14cdd9bf9f921330dc3a0be4da2f7aa185034e837485aa1555d71008439fd18d2f9a0a0172cf900d92d39e50a0e_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-22T09:43:00.000Z"
+        "publishedAt": "2026-01-26T05:05:22.000Z"
       }
     ],
     "sports": [],
     "screen": [],
     "culture": [
       {
-        "id": "22a275a89e02",
-        "title": "Τι είναι το φαινόμενο Μαντέλα;",
-        "simpleTitle": "Τι είναι το φαινόμενο Μαντέλα;",
-        "simpleText": "Τίτλος: Τι είναι το φαινόμενο Μαντέλα;\n\nΤο φαινόμενο Μαντέλα είναι μια ενδιαφέρουσα εμπειρία που βιώνουν πολλοί άνθρωποι. Αφορά την κατάσταση όπου πολλές άτομα θυμούνται το ίδιο γεγονός, αλλά με λάθος τρόπο. Για παράδειγμα, μπορεί να θυμούνται κάτι που στην πραγματικότητα δεν συνέβη ποτέ.\n\nΑυτό το φαινόμενο δεν σημαίνει ότι οι άνθρωποι λένε ψέματα ή ότι φαντάζονται. Αντίθετα, αφορά τον τρόπο που λειτουργεί η μνήμη μας. Μερικές φορές, οι αναμνήσεις μας μπορεί να μπλέκονται ή να επηρεάζονται από άλλες πηγές.\n\nΤο όνομα του φαινομένου προέρχεται από τον Νέλσον Μαντέλα, έναν φημισμένο ηγέτη από την Νότια Αφρική. Πολλοί άνθρωποι πίστευαν ότι είχε πεθάνει στις φυλακές τη δεκαετία του 1980, αν και αυτό δεν ήταν αλήθεια. Αυτό το παράδειγμα δείχνει πώς το φαινόμενο Μαντέλα μπορεί να συμβαίνει σε πολλές περιπτώσεις και έχει ενδιαφέρον για την κατανόηση της ανθρώπινης μνήμης.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31068-mandela-effect-ti-einai/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31068-mandela-effect-ti-einai/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αναφέρεται σε ένα ενδιαφέρον φαινόμενο που σχετίζεται με την ανθρώπινη μνήμη και την αντίληψη, στοιχεία που αξίζουν πολιτιστική εξέταση.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-25T12:33:00.000Z"
-      },
-      {
         "id": "abf2bb8d4486",
         "title": "Κινέζα αθλήτρια χορεύει το «Αστερομάτα» και ενώνει πολιτισμούς στο καλλιτεχνικό πατινάζ",
         "simpleTitle": "Κινέζα αθλήτρια χορεύει το «Αστερομάτα» και ενώνει πολιτισμούς στο καλλιτεχνικό πατινάζ",
-        "simpleText": "Μια νεαρή αθλήτρια από την Κίνα, η Xiangyi An, εντυπωσίασε το κοινό στο καλλιτεχνικό πατινάζ. Χόρεψε στο «Αστερομάτα», ένα γνωστό κομμάτι, και αυτό δημιούργησε μια όμορφη σύνδεση πολιτισμών.\n\nΤο γεγονός έγινε πρόσφατα, και η 19χρονη αθλήτρια παρουσίασε τη χορογραφία της με μεγάλη κομψότητα και εκφραστικότητα. Παρόλο που έπεσε στην αρχή της εκτέλεσης, κατάφερε να μαγέψει το κοινό με την απόδοσή της. Αυτή η στιγμή δείχνει πως η μουσική μπορεί να ενώνει ανθρώπους, ανεξαρτήτως γλώσσας ή εθνικότητας. Είναι σημαντικό γιατί υπογραμμίζει τη δύναμη του αθλητισμού και της τέχνης να προάγουν την κατανόηση μεταξύ διαφορετικών πολιτισμών.",
+        "simpleText": "Μία 19χρονη αθλήτρια από την Κίνα, η Xiangyi An, εντυπωσίασε το κοινό στο καλλιτεχνικό πατινάζ, χορεύοντας με τη μουσική του «Αστερομάτα». Η εκδήλωση έγινε πρόσφατα και η αθλήτρια έδειξε πώς η μουσική μπορεί να ενώνει ανθρώπους από διαφορετικές χώρες.\n\nΚατά την παρουσίαση, η Xiangyi An χόρεψε με κομψότητα και εκφραστικότητα, παρά την πτώση που είχε στην αρχή. Αυτή η στιγμή δημιούργησε μια όμορφη σύνθεση αθλητισμού και τέχνης, δείχνοντας ότι η τέχνη μπορεί να ξεπερνά γλώσσες και πολιτισμούς. Είναι σημαντικό γιατί μας θυμίζει τη δύναμη της μουσικής να φέρνει κοντά τους ανθρώπους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31190-kineziki-athlitria-xorevei-asteromata-kallitexniko-patinaz/",
         "sourceDomains": [
@@ -741,64 +860,36 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά ένα πολιτιστικό γεγονός που συνδυάζει το καλλιτεχνικό πατινάζ με τη μουσική, προάγοντας τη σύνδεση μεταξύ διαφορετικών πολιτισμών.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια πολιτιστική εκδήλωση στο καλλιτεχνικό πατινάζ, που συνδυάζει μουσική και τέχνη, αναδεικνύοντας τη δύναμη της πολιτιστικής σύνδεσης μέσα από τη μουσική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-01-24T04:23:00.000Z"
-      },
+      }
+    ],
+    "fun": [
       {
-        "id": "fa1c42f0cbfa",
-        "title": "Αυξημένη επισκεψιμότητα και έσοδα στα μουσεία της χώρας",
-        "simpleTitle": "Αυξημένη επισκεψιμότητα και έσοδα στα μουσεία της χώρας",
-        "simpleText": "Οι επισκέψεις και τα έσοδα στα μουσεία της Ελλάδας αυξάνονται. Αυτό είναι καλό νέο για τον πολιτισμό. Παρά μερικές μικρές αλλαγές στον αριθμό των επισκεπτών, τα έσοδα και η συμμετοχή ανθρώπων που επισκέπτονται μουσεία με ελεύθερη είσοδο είναι ενθαρρυντικά.\n\nΤα μουσεία παραμένουν δημοφιλή και προσελκύουν το ενδιαφέρον του κόσμου. Αυτό δείχνει ότι συνεχίζουν να είναι σημαντικοί χώροι μάθησης και πολιτισμού.",
+        "id": "292422df6e6f",
+        "title": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
+        "simpleTitle": "Family Walks: Διαδραστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή",
+        "simpleText": "Διασκεδαστικές οικογενειακές ξεναγήσεις στο Ίδρυμα Γουλανδρή\n\nΤο Ίδρυμα Γουλανδρή προσφέρει ένα νέο πρόγραμμα με τίτλο \"Family Walks\". Οι οικογένειες με παιδιά άνω των 5 ετών μπορούν να συμμετάσχουν σε περιπάτους που συνδυάζουν την μοντέρνα και σύγχρονη τέχνη με διαδραστικές δραστηριότητες. Οι ξεναγήσεις έχουν σκοπό να ενθαρρύνουν τη συμμετοχή, την παρατήρηση και τη δημιουργία αναμνήσεων. Μέσα από παιχνίδι και φαντασία, οι επισκέπτες μπορούν να ζήσουν μια μοναδική εμπειρία στο μουσείο. Αυτές οι ξεναγήσεις είναι σημαντικές γιατί δημιουργούν ευκαιρίες για οικογενειακή σύνδεση και μάθηση.",
         "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31112-ayxisi-episkepsimotitas-mouseia-stin-ellada/",
+        "sourceUrl": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/",
         "sourceDomains": [
           "thehappynews.gr"
         ],
         "sources": [
           {
             "title": "The Happy News",
-            "url": "https://thehappynews.gr/31112-ayxisi-episkepsimotitas-mouseia-stin-ellada/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αναφέρεται στην αυξημένη επισκεψιμότητα και τα έσοδα στα μουσεία της Ελλάδας, επισημαίνοντας τη σημασία τους ως χώρους πολιτισμού και μάθησης.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-21T14:03:00.000Z"
-      }
-    ],
-    "fun": [
-      {
-        "id": "e5a866256c35",
-        "title": "Χειμερινές εκπτώσεις: Ανοικτά τα καταστήματα σήμερα Κυριακή",
-        "simpleTitle": "Χειμερινές εκπτώσεις: Ανοικτά τα καταστήματα σήμερα Κυριακή",
-        "simpleText": "Τίτλος: Εκπτώσεις: Ανοιχτά καταστήματα σήμερα Κυριακή\n\nΣήμερα, Κυριακή 25 Ιανουαρίου, τα εμπορικά καταστήματα θα είναι ανοιχτά λόγω της δεύτερης Κυριακής των χειμερινών εκπτώσεων. Οι καταναλωτές μπορούν να εκμεταλλευτούν αυτές τις προσφορές από τις 11:00 το πρωί έως τις 6:00 το απόγευμα.\n\nΤα μεγάλα εμπορικά κέντρα και τα πολυκαταστήματα μπορεί να είναι ανοιχτά και περισσότερες ώρες. Είναι σημαντικό να αναφέρουμε ότι η απόφαση για το αν θα λειτουργήσει κάθε κατάστημα την Κυριακή είναι προαιρετική. Αυτές οι εκπτώσεις είναι ευκαιρία για τους πελάτες να βρουν προϊόντα σε χαμηλότερες τιμές.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564041260/cheimerines-ekptoseis-anoikta-ta-katastimata-simera-kyriaki/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564041260/cheimerines-ekptoseis-anoikta-ta-katastimata-simera-kyriaki/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/25/society/kyriaki-me-anoixta-katastimata-kai-ekptoseis/"
+            "url": "https://thehappynews.gr/31122-family-walks-diadrastikes-oikogeneiakes-xenagiseis-sto-idryma-goulandri/"
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά τις χειμερινές εκπτώσεις και την ευκαιρία για ψώνια, η οποία προσφέρει ευχάριστη διάθεση και διασκέδαση στους καταναλωτές.",
+        "categoryReason": "Η εκδήλωση αφορά διασκεδαστικές και διαδραστικές οικογενειακές ξεναγήσεις, ενθαρρύνοντας την οικογενειακή σύνδεση και τη χαρά μέσα από το παιχνίδι και την τέχνη.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/g294740d2bb01fc5d7c2e885c607d9e62a5a49f928debfc7295a6311dc2b352e2c9b980d8a5e584d44a161e6917efc74b4c2cbfdb656f9b0c101f4e8487872dae_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-01-25T07:09:38.000Z"
+        "publishedAt": "2026-01-22T09:43:00.000Z"
       }
     ]
   }
