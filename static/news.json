@@ -1,13 +1,97 @@
 {
-  "generatedAt": "2026-01-28T16:01:39.866Z",
+  "generatedAt": "2026-01-29T08:05:50.454Z",
   "articles": [
     {
-      "id": "7ea3247a4613",
-      "title": "Εισαγγελική έρευνα στη Deutsche Bank για τον Αμπράμοβιτς",
-      "simpleTitle": "Εισαγγελική έρευνα στη Deutsche Bank για τον Αμπράμοβιτς",
-      "simpleText": "Τίτλος: Έρευνα στη Deutsche Bank για τον Ρώσο Αμπράμοβιτς\n\nΗ Deutsche Bank, μία μεγάλη τράπεζα που εδρεύει στη Γερμανία, βρίσκεται στο επίκεντρο μιας εισαγγελικής έρευνας. Η έρευνα ξεκίνησε σήμερα, με τους εισαγγελείς να κάνουν έφοδο στα γραφεία της τράπεζας στη Φρανκφούρτη και το Βερολίνο.\n\nΗ έρευνα αφορά πιθανό ξέπλυμα χρημάτων και σχετίζεται με τον Ρώσο δισεκατομμυριούχο Ρόμαν Αμπράμοβιτς. Από τον Μάρτιο του 2022, ο Αμπράμοβιτς είναι στη λίστα κυρώσεων της Ευρωπαϊκής Ένωσης λόγω του πολέμου στην Ουκρανία. Η τράπεζα φέρεται να καθυστέρησε να αναφέρει ύποπτες δραστηριότητες που αφορούν τις επιχειρήσεις του.\n\nΗ Deutsche Bank έχει προηγούμενα με ανάλογες υποθέσεις και άλλες φορές έχει πληρώσει πρόστιμα. Σήμερα, οι μετοχές της τράπεζας έπεσαν 3%, αμέσως πριν από την ανακοίνωση σημαντικών κερδών. Η τράπεζα δήλωσε ότι συνεργάζεται πλήρως με τις αρχές και ότι η κατάσταση είναι ευαίσθητη.",
-      "sourceName": "ERT News, ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/kosmosoikonomia/eisaggeliki-ereyna-sti-deutsche-bank-gia-ton-ampramovits/",
+      "id": "8137306081d9",
+      "title": "Θεσσαλονίκη: Πυρκαγιά σε μάντρα αυτοκινήτων – Ζημιές σε δύο οχήματα",
+      "simpleTitle": "Θεσσαλονίκη: Πυρκαγιά σε μάντρα αυτοκινήτων – Ζημιές σε δύο οχήματα",
+      "simpleText": "Στην περιοχή του Εύοσμου στη Θεσσαλονίκη, ξέσπασε φωτιά σε μάντρα αυτοκινήτων τα ξημερώματα της Πέμπτης, στις 2:15. Η φωτιά προκάλεσε μεγάλες ζημιές σε δύο αυτοκίνητα, τα οποία κάηκαν σχεδόν ολοσχερώς.\n\nΟι πυροσβέστες έφτασαν γρήγορα στον χώρο, αφού υπήρχε μεγάλη ανάγκη να σβήσουν τη φωτιά. Στο σημείο εργάστηκαν έξι πυροσβέστες με δύο πυροσβεστικά οχήματα. Ευτυχώς, κατάφεραν να ελέγξουν τη φωτιά πριν επεκταθεί και σε άλλα αυτοκίνητα που βρίσκονταν κοντά.\n\nΟι αιτίες που προκάλεσαν τη φωτιά δεν είναι ακόμη γνωστές και η Πυροσβεστική Υπηρεσία διερευνά το περιστατικό. Αυτή η φωτιά ήταν σημαντική γιατί θα μπορούσε να προκαλέσει περισσότερες ζημιές αν δεν intervened έγκαιρα η πυροσβεστική.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-pyrkagia-se-mantra-aytokiniton-zimies-se-dyo-oximata/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-pyrkagia-se-mantra-aytokiniton-zimies-se-dyo-oximata/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/29/greece/thessaloniki-fotia-se-mantra-aytokiniton-ston-eyosmo-zimies-se-dyo-oximata-video/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά πυρκαγιά σε μάντρα αυτοκινήτων, που έχει σοβαρές συνέπειες και περιλαμβάνει θέματα ασφάλειας και άλλων κινδύνων.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g816cc5ce825c44865fc2cd678bd8ff5408650090d71bf11245c90313a3741c7cc175510dfafccbe4986ee6bd4240ad5b895a0d62e5de3ff36d5f4c0b24e1a729_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-SYNDESEIS-XRISTARA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-SYNDESEIS-XRISTARA.jpg",
+      "publishedAt": "2026-01-29T07:33:57.000Z"
+    },
+    {
+      "id": "da902f1b1b1f",
+      "title": "Ακυρώσεις δρομολογίων πλοίων λόγω ισχυρών ανέμων – Αναλυτικά ποια δεν θα πραγματοποιηθούν",
+      "simpleTitle": "Ακυρώσεις δρομολογίων πλοίων λόγω ισχυρών ανέμων – Αναλυτικά ποια δεν θα πραγματοποιηθούν",
+      "simpleText": "**Τίτλος:** Ακυρώσεις πλοίων λόγω δυνατών ανέμων\n\nΣήμερα, Πέμπτη,  υπάρχει πρόβλημα με τα πλοία στα λιμάνια γιατί φυσούν δυνατοί άνεμοι. Από το λιμάνι του Πειραιά, οι επιβάτες μπορούν να πάνε στον Αργοσαρωνικό, αλλά τα ταχύπλοα πλοία δεν εκτελούνται. Τα κανονικά πλοία, όμως, ταξιδεύουν όπως συνήθως το πρωί.\n\nΣτη Ραφήνα, το πρωινό πλοίο για τις Κυκλάδες αναχωρεί κανονικά, αλλά το πλοίο για το Μαρμάρι δεν θα φύγει. Από το Λαύριο, το δρομολόγιο προς Τζιά είναι επίσης ακυρωμένο. Οι άνεμοι δυσκολεύουν τα ταξίδια και είναι σημαντικό για την ασφάλεια των επιβατών.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/akyroseis-dromologion-ploion-logo-isxyron-anemon-analytika-poia-den-tha-pragmatopoiithoun/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/akyroseis-dromologion-ploion-logo-isxyron-anemon-analytika-poia-den-tha-pragmatopoiithoun/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564048964/akyroseis-dromologion-ploion-logo-ischyron-anemon-ti-ischyei/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές επιπτώσεις που προκαλούνται από δυσμενείς καιρικές συνθήκες, επηρεάζοντας την ασφάλεια των επιβατών και τη λειτουργία των ακτοπλοϊκών δρομολογίων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599v1im60l3jnu&#038;playlistId=v-dg0upqq9nm29",
+      "publishedAt": "2026-01-29T07:23:33.000Z"
+    },
+    {
+      "id": "e5ea20b58c1f",
+      "title": "Δυστύχημα φιλάθλων ΠΑΟΚ: Απογειώθηκε πριν από λίγο η πτήση του ΕΚΑΒ από Ελευσίνα για να επαναπατρίσει τους δύο τραυματίες",
+      "simpleTitle": "Δυστύχημα φιλάθλων ΠΑΟΚ: Απογειώθηκε πριν από λίγο η πτήση του ΕΚΑΒ από Ελευσίνα για να επαναπατρίσει τους δύο τραυματίες",
+      "simpleText": "Τίτλος: Αεροπλάνο του ΕΚΑΒ πηγαίνει να φέρει τους τραυματίες φιλάθλους του ΠΑΟΚ\n\nΠριν από λίγο, ένα αεροπλάνο του ΕΚΑΒ απογειώθηκε από το αεροδρόμιο της Ελευσίνας στην Ελλάδα. Πηγαίνει στη Ρουμανία για να πάρει δύο φιλάθλους του ΠΑΟΚ οι οποίοι τραυματίστηκαν σε ένα σοβαρό ατύχημα. Οι τραυματίες θα επιστρέψουν στη Θεσσαλονίκη και θα νοσηλευτούν στο νοσοκομείο Παπαγεωργίου.\n\nΥπάρχει και τρίτος τραυματίας, ο οποίος είναι σε πιο σοβαρή κατάσταση. Έχει υποβληθεί σε χειρουργική επέμβαση και θα παραμείνει προσωρινά στη Ρουμανία για θεραπεία. Το ατύχημα έχει προκαλέσει μεγάλα συναισθήματα στη χώρα, καθώς επηρεάζει πολλές οικογένειες και φίλους των παιδιών που ενεπλάκησαν.\n\nΟι οπαδοί και οι συγγενείς των θυμάτων σχεδιάζουν να κάνουν μια πορεία στην Τούμπα, το γήπεδο του ΠΑΟΚ, για να τιμήσουν τη μνήμη των αδικοχαμένων. Ο Οικουμενικός Πατριάρχης Βαρθολομαίος επισκέφθηκε το γήπεδο και άφησε λουλούδια στη μνήμη τους, εκφράζοντας τη λύπη του για την τραγωδία. Υπογράμμισε πόσο δύσκολες είναι τέτοιες στιγμές και πόσο πονεμένες είναι οι οικογένειες των θυμάτων.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-apogeiothike-prin-apo-ligo-i-ptisi-tou-ekav-apo-eleysina-gia-na-epanapatrisei-tous-dyo-traymaties/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-apogeiothike-prin-apo-ligo-i-ptisi-tou-ekav-apo-eleysina-gia-na-epanapatrisei-tous-dyo-traymaties/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/29/greece/dystyxima-sti-roumania-apogeiothike-i-ptisi-tou-ekav-apo-eleysina-gia-na-paralavei-tous-traymaties/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα με τραυματισμούς φιλάθλων και την επαναπατρίση τους, γεγονός που τη συνδέει με θέματα υγείας και κοινωνικής ευαισθησίας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-DT0900-PAPAGEORGIOU.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-DT0900-PAPAGEORGIOU.jpg",
+      "publishedAt": "2026-01-29T07:14:58.000Z"
+    },
+    {
+      "id": "faaddd6aa1d0",
+      "title": "ΗΠΑ: Αυτοκίνητο έπεσε στην είσοδο συναγωγής στη Νέα Υόρκη – Δεν υπάρχουν τραυματίες",
+      "simpleTitle": "ΗΠΑ: Αυτοκίνητο έπεσε στην είσοδο συναγωγής στη Νέα Υόρκη – Δεν υπάρχουν τραυματίες",
+      "simpleText": "Αυτοκίνητο χτύπησε την είσοδο μιας συναγωγής στη Νέα Υόρκη\n\nΧθες, Τετάρτη 28 Ιανουαρίου, ένα αυτοκίνητο έπεσε στην είσοδο της έδρας του εβραϊκού θρησκευτικού κινήματος Χαμπάντ Λουμπάβιτς, που βρίσκεται στο Μπρούκλιν. Δεν υπήρξαν τραυματισμοί, ενώ ο οδηγός συνελήφθη από την αστυνομία.\n\nΟ δήμαρχος της Νέας Υόρκης, Ζόραν Μαμντάνι, περιέγραψε το περιστατικό ως «φρικτό» και «βαθιά ανησυχητικό». Η αστυνομία ερευνά το γεγονός ως πιθανό έγκλημα μίσους, κάτι που σημαίνει ότι μπορεί να έγινε λόγω μίσους προς τους εβραίους.\n\nΟ οδηγός φέρεται να έριξε το αυτοκίνητό του επανειλημμένα πάνω στο κτίριο. Το αυτοκίνητο ήταν γκρι Honda και είχε πινακίδες από την πολιτεία του Νιου Τζέρσεϊ.\n\nΗ επικεφαλής της αστυνομίας, Τζέσικα Τις, επεσήμανε ότι μέσα στο αυτοκίνητο δεν βρέθηκαν εκρηκτικά, γεγονός που προκάλεσε ανακούφιση. Αυτή η ενέργεια έχει προκαλέσει ανησυχία στην κοινότητα και οι αρχές έχουν ενισχύσει τα μέτρα ασφαλείας γύρω από χώρους λατρείας.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-yparxoun-traymaties/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr",
@@ -16,290 +100,304 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/oikonomia/kosmosoikonomia/eisaggeliki-ereyna-sti-deutsche-bank-gia-ton-ampramovits/"
-        },
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ereyna-gia-kseplyma-mayrou-xrimatos-sti-deutsche-bank-sto-mikroskopio-oi-synallages-me-ampramovits/"
+          "url": "https://www.ertnews.gr/eidiseis/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-yparxoun-traymaties/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564047410/germania-ereyna-gia-xeplyma-mayroy-chrimatos-stin-deutsche-bank/"
+          "url": "https://www.kathimerini.gr/world/564048934/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-anaferthikan-traymatismoi/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/28/world/germania-ereyna-gia-kseplyma-mayroy-xrimatos-stin-deutsche-bank/"
+          "url": "https://www.tanea.gr/2026/01/29/world/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρή ποινική έρευνα για ξέπλυμα χρημάτων που σχετίζεται με τη Deutsche Bank και τον Ρώσο δισεκατομμυριούχο Ρόμαν Αμπράμοβιτς, καθώς και πολιτικές κυρώσεις της ΕΕ, γεγονός που δείχνει τη σοβαρότητα των κοινωνικών και οικονομικών ζητημάτων που ανακύπτουν.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g20b344785b3d5f1dca53030756b3d862a1ba2d34a8d67b19304d4136cf4d230c69bdaed9b06bd784de9b27145308da9c07fe37a69b161a90d0b9884b42704d23_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-28T15:18:33.000Z"
-    },
-    {
-      "id": "720d91ec44fc",
-      "title": "Δυστύχημα στη Ρουμανία: «Θρηνώ τους φίλους μου, ήμασταν σαν αδέρφια» – Η μαρτυρία επιζώντα",
-      "simpleTitle": "Δυστύχημα στη Ρουμανία: «Θρηνώ τους φίλους μου, ήμασταν σαν αδέρφια» – Η μαρτυρία επιζώντα",
-      "simpleText": "Δυστύχημα στη Ρουμανία: Ενας επιζών θρηνεί τους φίλους του\n\nΣτη Ρουμανία, συνέβη ένα σοβαρό τροχαίο ατύχημα. Τρία άτομα επιβίωσαν, αλλά επτά άνθρωποι έχασαν τη ζωή τους. Ένας από τους επιζώντες είπε ότι δεν οδηγούσε και ότι είναι καλά, αλλά νιώθει πολύ θλιμμένος για τους φίλους του που σκοτώθηκαν. Όλοι ήρθαν σε σύγκρουση κατά τη διάρκεια του ατυχήματος. Οι άλλοι δύο επιζώντες είναι στο νοσοκομείο. Είναι σημαντικό να θυμόμαστε τους χαμένους και να υποστηρίξουμε τους τραυματίες σε αυτή τη δύσκολη στιγμή.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564047563/dystychima-sti-roymania-thrino-toys-filoys-moy-imastan-san-aderfia-i-martyria-epizonta/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564047563/dystychima-sti-roymania-thrino-toys-filoys-moy-imastan-san-aderfia-i-martyria-epizonta/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/society/paok-thrino-tous-filous-mou-imastan-san-aderfia-ti-anaferei-epizon-tou-dystyximatos/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Το άρθρο αναφέρεται σε ένα σοβαρό τροχαίο δυστύχημα με ανθρώπινες απώλειες, που αποτελεί σημαντικό κοινωνικό ζήτημα.",
+      "categoryReason": "Το περιστατικό αφορά βία κατά μιας συναγωγής και ενδέχεται να σχετίζεται με εγκλήματα μίσους, γεγονός που το καθιστά σοβαρό ζήτημα κοινωνικής ασφάλειας και δικαιωμάτων.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-28T15:11:51.000Z"
+      "publishedAt": "2026-01-29T07:11:10.000Z"
     },
     {
-      "id": "ee40e3eaac70",
-      "title": "Δυστύχημα στη Ρουμανία: Την Πέμπτη η αεροδιακομιδή των τραυματιών στην Ελλάδα",
-      "simpleTitle": "Δυστύχημα στη Ρουμανία: Την Πέμπτη η αεροδιακομιδή των τραυματιών στην Ελλάδα",
-      "simpleText": "Τίτλος: Την Πέμπτη θα έρθουν στην Ελλάδα οι τραυματίες οπαδοί του ΠΑΟΚ από τη Ρουμανία\n\nΤην Πέμπτη, τρεις οπαδοί του ΠΑΟΚ θα μεταφερθούν στην Ελλάδα με αεροπλάνο του υπουργείου Υγείας. Οι τρεις τραυματίες νοσηλεύονται σε νοσοκομείο της Ρουμανίας μετά από ένα σοβαρό τροχαίο που είχε ως αποτέλεσμα επτά άνθρωποι να χάσουν τη ζωή τους.\n\nΟι τραυματίες είναι 20 και 28 ετών. Ένας από αυτούς έχει σοβαρούς τραυματισμούς, ενώ οι άλλοι δύο έχουν κάταγμα και μικρές αιμορραγίες.\n\nΟ ένας επιζών είπε ότι θυμάται όλα όσα συνέβησαν και αναφέρθηκε στη θλίψη του για τους φίλους του που σκοτώθηκαν. Εξέφρασε την ανάγκη του να είναι κοντά τους και να τους στηρίξει.\n\nΑυτή η αεροδιακομιδή είναι σημαντική, καθώς οι τραυματίες θα λάβουν την απαραίτητη φροντίδα στην Ελλάδα.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/01/28/greece/dystyxima-sti-roumania-tin-pempti-i-aerodiakomidi-ton-traymation-stin-ellada/",
+      "id": "3ae311520040",
+      "title": "ΗΠΑ: Ο Μπρους Σπρίνγκστιν αποτίει φόρο τιμής στα θύματα στη Μινεάπολη με νέο τραγούδι του [βίντεο]",
+      "simpleTitle": "ΗΠΑ: Ο Μπρους Σπρίνγκστιν αποτίει φόρο τιμής στα θύματα στη Μινεάπολη με νέο τραγούδι του [βίντεο]",
+      "simpleText": "Ο Μπρους Σπρίνγκστιν, ένας πολύ γνωστός μουσικός στην Αμερική, κυκλοφόρησε ένα νέο τραγούδι. Το τραγούδι έχει τίτλο «Streets of Minneapolis» και είναι αφιερωμένο σε ανθρώπους που έχουν χάσει τη ζωή τους στη Μινεάπολη, μια πόλη στις Ηνωμένες Πολιτείες.\n\nΑυτό το τραγούδι έχει σημασία γιατί ο Σπρίνγκστιν συχνά μιλάει για τα προβλήματα στην κοινωνία και τις αδικίες που συμβαίνουν. Με τη μουσική του, προσπαθεί να θυμίσει σε όλους μας τα δύσκολα θέματα που αντιμετωπίζουν κάποιοι άνθρωποι. Είναι μια προσπάθεια να δείξει τη συμπαράστασή του προς τα θύματα και τις οικογένειές τους.\n\nΔεν γνωρίζουμε περισσότερες λεπτομέρειες σχετικά με το τραγούδι ή πότε ακριβώς κυκλοφόρησε. Ωστόσο, η δουλειά του Σπρίνγκστιν έχει πάντα θίξει θέματα που επηρεάζουν την καθημερινή ζωή πολλών ανθρώπων.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/world/564048868/ipa-o-mproys-springkstin-apotiei-foro-timis-sta-thymata-sti-mineapoli-me-neo-tragoydi-toy-vinteo/",
       "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
+        "kathimerini.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/28/greece/dystyxima-sti-roumania-tin-pempti-i-aerodiakomidi-ton-traymation-stin-ellada/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564048868/ipa-o-mproys-springkstin-apotiei-foro-timis-sta-thymata-sti-mineapoli-me-neo-tragoydi-toy-vinteo/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/society/paok-tin-pempti-i-aerodiakomidi-ton-traymation-apo-ti-roumania/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4062687/o-brous-springkstin-apotini-foro-timis-sta-thimata-sti-mineapoli-me-neo-tragoudi-tou-streets-of-minneapolis.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό τροχαίο δυστύχημα με θανάτους και τραυματίες, που σχετίζεται με θέματα υγείας και ασφάλειας.",
+      "categoryReason": "Το νέο τραγούδι του Μπρους Σπρίνγκστιν αφορά τα θύματα της βίας και κοινωνικών αδικιών, αγγίζοντας σοβαρά θέματα που σχετίζονται με την κοινωνία και προβλήματα δικαιωμάτων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gca71241640bf637e13fa5bd53edea29fee01a22005774f13cd0c33eebe6a4c8c8c1bee104bbfec9ba83542905020b267157a8e1e040d437b09751292d55343a9_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-28T15:10:34.000Z"
+      "publishedAt": "2026-01-29T06:50:48.000Z"
     },
     {
-      "id": "ee908fd8aeec",
-      "title": "Αύριο το πρωί η αεροδιακομιδή των τριών τραυματιών, οπαδών του ΠΑΟΚ από τη Ρουμανία",
-      "simpleTitle": "Αύριο το πρωί η αεροδιακομιδή των τριών τραυματιών, οπαδών του ΠΑΟΚ από τη Ρουμανία",
-      "simpleText": "Τίτλος: Αύριο το πρωί θα μεταφερθούν τρεις τραυματίες οπαδοί του ΠΑΟΚ από τη Ρουμανία\n\nΤην Πέμπτη 29 Ιανουαρίου, το πρωί, θα γίνει η αεροδιακομιδή τριών τραυματιών από τη Ρουμανία στην Ελλάδα. Οι τραυματίες είναι δύο νεαροί, 20 χρόνων, και ένας 28χρονος. Ο υπουργός Υγείας Άδωνις Γεωργιάδης ανακοίνωσε πως ένα ειδικά διαμορφωμένο αεροσκάφος του υπουργείου Υγείας θα αναχωρήσει από την αεροπορική βάση της Ελευσίνας.\n\nΟι τρεις άνδρες είναι οπαδοί του ΠΑΟΚ και τραυματίστηκαν σε ένα σοβαρό τροχαίο ατύχημα στη Ρουμανία. Μετά τη μεταφορά τους, θα νοσηλευτούν στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη. Αυτή η μεταφορά είναι σημαντική διότι θα εξασφαλίσει ότι οι τραυματίες θα λάβουν την κατάλληλη ιατρική φροντίδα όσο το δυνατόν πιο γρήγορα.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ayrio-to-proi-i-aerodiakomidi-ton-trion-traymation-opadon-tou-paok-apo-ti-roumania/",
+      "id": "252d0374a021",
+      "title": "Δυστύχημα φιλάθλων ΠΑΟΚ: Επαναπατρίζονται σήμερα οι επτά σοροί και δύο τραυματίες – Ποια τα επικρατέστερα σενάρια για τα αίτια",
+      "simpleTitle": "Δυστύχημα φιλάθλων ΠΑΟΚ: Επαναπατρίζονται σήμερα οι επτά σοροί και δύο τραυματίες – Ποια τα επικρατέστερα σενάρια για τα αίτια",
+      "simpleText": "Σήμερα, στη Θεσσαλονίκη, επιστρέφουν οι σοροί επτά φιλάθλων του ΠΑΟΚ που tragically έχασαν τη ζωή τους σε ένα δυστύχημα στη Ρουμανία. Μαζί τους επιστρέφουν και δύο από τους τρεις τραυματίες, οι οποίοι είναι σε καλύτερη κατάσταση. Ο τρίτος τραυματίας, ωστόσο, χρειάστηκε να υποβληθεί σε χειρουργείο και θα παραμείνει στη Ρουμανία για τη θεραπεία του.\n\nΗ μεταφορά θα γίνει με ειδικά αεροπλάνα από τη Πολεμική Αεροπορία και το ΕΚΑΒ. Οι φίλοι και οι συγγενείς των θυμάτων θα συνόδευσουν τις σορούς με πορεία, εκφράζοντας τον πόνο τους.\n\nΟ Οικουμενικός Πατριάρχης Βαρθολομαίος τίμησε τη μνήμη των θυμάτων, αφήνοντας λουλούδια στο γήπεδο της Τούμπας και απευθύνει λόγια παρηγοριάς στις οικογένειές τους. Οι αιτίες του δυστυχήματος δεν είναι ακόμα γνωστές και οι αρμόδιοι ψάχνουν να βρουν τι πήγε στραβά.\n\nΤο γεγονός αυτό έχει συγκλονίσει την τοπική κοινωνία και όλη τη Βόρεια Ελλάδα, προκαλώντας μεγάλη θλίψη.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-poia-ta-epikratestera-senaria-gia-ta-aitia/",
       "sourceDomains": [
         "ertnews.gr",
-        "news.gr"
+        "tanea.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ayrio-to-proi-i-aerodiakomidi-ton-trion-traymation-opadon-tou-paok-apo-ti-roumania/"
+          "url": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-poia-ta-epikratestera-senaria-gia-ta-aitia/"
         },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/athlhtika/article/4062334/avrio-i-aerodiakomidi-ton-trion-travmation-opadon-tou-paok-apo-ti-roumania.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την αεροδιακομιδή τριών τραυματιών από σοβαρό τροχαίο ατύχημα, που σχετίζεται με ζητήματα υγείας και ασφάλειας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/01/ertnews-20260128161130-aac-h264-microsoft-1080-5000kbps.mp4",
-      "publishedAt": "2026-01-28T15:09:37.000Z"
-    },
-    {
-      "id": "73ca41bcac1d",
-      "title": "Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού ανάγκη για βελτίωση",
-      "simpleTitle": "Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού ανάγκη για βελτίωση",
-      "simpleText": "Τίτλος: Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού χρειάζεται βελτίωση\n\nΟ Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης (ΟΟΣΑ) δημοσίευσε μελέτη για την εκπαίδευση στην Ελλάδα. Αυτή δημοσιεύτηκε στις 28 Ιανουαρίου 2026. Η μελέτη σημειώνει ότι η Ελλάδα έχει κάνει σημαντικές αλλαγές στο εκπαιδευτικό σύστημα. Έχει εισάγει αξιολόγηση των σχολικών μονάδων και έχει ενισχύσει τον ρόλο των εκπαιδευτικών με νέες ευθύνες.\n\nΑνάμεσα στα θετικά σημεία αναφέρονται οι επενδύσεις στην ψηφιακή εκπαίδευση, η υποχρεωτική προσχολική εκπαίδευση από την ηλικία των 4 ετών και η επικαιροποίηση των μαθημάτων με έμφαση στην κριτική σκέψη. Επίσης, η διδασκαλία ξένων γλωσσών φαίνεται να συμβάλλει στην ανάπτυξη δεξιοτήτων των μαθητών.\n\nΩστόσο, υπάρχουν και αδυναμίες. Οι επιδόσεις των μαθητών στα μαθηματικά και στην κατανόηση κειμένου είναι χαμηλές, σύμφωνα με εξετάσεις του 2022. Υπάρχουν κοινωνικές και γεωγραφικές ανισότητες που επηρεάζουν τα αποτελέσματα. Η μελέτη προτείνει την ενίσχυση της αυτονομίας των σχολείων και την καλύτερη προσαρμογή τους στις τοπικές ανάγκες.\n\nΗ αναφορά του ΟΟΣΑ είναι σημαντική γιατί δείχνει την πρόοδο και τις προκλήσεις στο ελληνικό εκπαιδευτικό σύστημα, με στόχο τη βελτίωση της ποιότητας και της ισότητας στην εκπαίδευση.",
-      "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2026/01/28/greece/education/meleti-oosa-gia-tin-ekpaideysi-stin-ellada-poy-vlepei-proodo-kai-poy-anagki-gia-veltiosi/",
-      "sourceDomains": [
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/28/greece/education/meleti-oosa-gia-tin-ekpaideysi-stin-ellada-poy-vlepei-proodo-kai-poy-anagki-gia-veltiosi/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4062319/dimosiopiithike-i-meleti-tou-oosa-gia-tin-ekpedefsi-stin-ellada-pou-vlepi-proodo-ke-pou-anagki-gia-peretero-veltiosi.html"
+          "url": "https://www.tanea.gr/2026/01/29/greece/dystyxima-sti-roumania-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-opadoi-tou-paok-ta-epikratestera-senaria-gia-ta-aitia/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η μελέτη του ΟΟΣΑ για την εκπαίδευση στην Ελλάδα αναλύει σοβαρά θέματα σχετικά με την πρόοδο και τις αδυναμίες του εκπαιδευτικού συστήματος, εστιάζοντας σε ζητήματα πολιτικής και κοινωνικής ισότητας.",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό και τραγικό δυστύχημα που είχε ως αποτέλεσμα τον θάνατο επτά φιλάθλων και έχει μεγάλο κοινωνικό αντίκτυπο, προκαλώντας θλίψη και προβληματισμό στην κοινωνία.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4e5dbecddc5bfb8473293c70f8c562f8536a8dd1f33f838e6b528d0fa3ff1802cfcbe61ced1c160a082707a94e7919dc8fb40579ab8b4d75ce0bc315aaea1632_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-28T14:51:31.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-SYNDESEIS-TROXAIO3.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-SYNDESEIS-TROXAIO3.jpg",
+      "publishedAt": "2026-01-29T06:41:11.000Z"
     },
     {
-      "id": "06ebe817ed1c",
-      "title": "Γερμανία: Έρευνα στην Deutsche Bank – Υποψίες ότι «ξέπλενε» χρήμα του Αμπράμοβιτς",
-      "simpleTitle": "Γερμανία: Έρευνα στην Deutsche Bank – Υποψίες ότι «ξέπλενε» χρήμα του Αμπράμοβιτς",
-      "simpleText": "Η Deutsche Bank υπόκειται σε έρευνα στη Γερμανία για πιθανή συμμετοχή σε ξέπλυμα χρημάτων που σχετίζονται με τον Ρώσο ολιγάρχη Ρομάν Αμπράμοβιτς. Η Ομοσπονδιακή Υπηρεσία Κατά του Εγκλήματος (BKA) έκανε εφόδους στα γραφεία της τράπεζας σε Φρανκφούρτη και Βερολίνο.\n\nΗ έρευνα ξεκίνησε επειδή η γερμανική Εισαγγελία Οικονομικού Εγκλήματος είχε αμφιβολίες σχετικά με μια καθυστερημένη αναφορά της τράπεζας για τη δραστηριότητα του Αμπράμοβιτς. Αυτό είναι σημαντικό, γιατί αναδεικνύει πιθανές παρανομίες στον τραπεζικό τομέα και τη διαχείριση χρημάτων που μπορεί να προέρχονται από εγκληματικές δραστηριότητες. Τα αποτελέσματα της έρευνας δεν είναι ακόμη γνωστά.",
-      "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2026/01/28/world/germania-ereyna-stin-deutsche-bank-ypopsies-oti-kseplene-xrima-tou-ampramovits/",
+      "id": "67a03f957fd5",
+      "title": "Μεξικό: Τρεις συλλήψεις για την αιματηρή επίθεση με έντεκα νεκρούς σε ποδοσφαιρικό αγώνα",
+      "simpleTitle": "Μεξικό: Τρεις συλλήψεις για την αιματηρή επίθεση με έντεκα νεκρούς σε ποδοσφαιρικό αγώνα",
+      "simpleText": "Τρεις άνθρωποι συνελήφθησαν για μια πολύ σοβαρή επίθεση που έγινε σε ποδοσφαιρικό αγώνα στο Μεξικό. Η επίθεση συνέβη την Κυριακή σε ένα γήπεδο κοντά στην πόλη Σαλαμάνκα, στην πολιτεία Γκουαναχουάτο. Σε αυτήν την επίθεση, 11 άνθρωποι έχασαν τη ζωή τους και τουλάχιστον 12 άλλοι τραυματίστηκαν.\n\nΚατά τη διάρκεια του αγώνα, ένοπλοι μπήκαν στο γήπεδο όπου υπήρχαν πολλές οικογένειες. Οι περισσότερες θανάσιμες περιπτώσεις αφορούσαν φύλακες ασφαλείας του γηπέδου, οι οποίοι δεν είχαν όπλα. Οι αρχές πιστεύουν ότι οι φύλακες στοχοποιήθηκαν επειδή εργάζονταν για μια εταιρεία που συνδέεται με ένα μεγάλο εγκληματικό καρτέλ.\n\nΗ κατάσταση στο Γκουαναχουάτο είναι πολύ επικίνδυνη, καθώς υπάρχουν πολλές συγκρούσεις ανάμεσα σε διάφορες εγκληματικές οργανώσεις. Οι συλλήψεις έγιναν μετά από συντονισμένες ενέργειες της αστυνομίας, όμως δεν έχουν δοθεί περισσότερες λεπτομέρειες για τους υπόπτους.\n\nΑυτή η επίθεση δείχνει τη σοβαρότητα της βίας που αντιμετωπίζει το Μεξικό και τη δυσκολία να διατηρηθεί η ασφάλεια για τους πολίτες.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/meksiko-treis-syllipseis-gia-tin-aimatiri-epithesi-me-enteka-nekrous-se-podosfairiko-agona/",
       "sourceDomains": [
-        "tovima.gr",
-        "protagon.gr"
+        "ertnews.gr",
+        "tanea.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/world/germania-ereyna-stin-deutsche-bank-ypopsies-oti-kseplene-xrima-tou-ampramovits/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/meksiko-treis-syllipseis-gia-tin-aimatiri-epithesi-me-enteka-nekrous-se-podosfairiko-agona/"
         },
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/germania-erevnoun-ti-sxesi-tou-abramovits-me-tin-deutsche-bank-44343302223"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/29/world/meksiko-synelifthisan-tria-atoma-gia-tin-aimatiri-epithesi-enoplon-se-podosfairiko-agona/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές νομικές και οικονομικές υποθέσεις, συμπεριλαμβανομένων κατηγοριών για ξέπλυμα χρημάτων και ερευνών από κρατικές αρχές, που επηρεάζουν τον τραπεζικό τομέα και συνδέονται με εγκληματικές δραστηριότητες.",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή ένοπλη επίθεση με 11 νεκρούς και αναφέρεται στην παραβατικότητα και τη βία που συνδέονται με το οργανωμένο έγκλημα, που είναι μεγάλα κοινωνικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ga1f2e948ca481326be1047dfc8f8590f317cd0f58bcf08bae6df30cc36ab8df89d6d2117a7c33447246bdf49f9e5297e6740b0bc29695a6e19f2ce31919a4e15_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-28T14:31:48.000Z"
+      "publishedAt": "2026-01-29T06:25:47.000Z"
     },
     {
-      "id": "dcccd547b306",
-      "title": "Θεσσαλονίκη: Οι ιστολογικές θα ρίξουν «φως» στην αιτία θανάτου του τριών μηνών βρέφους",
-      "simpleTitle": "Θεσσαλονίκη: Οι ιστολογικές θα ρίξουν «φως» στην αιτία θανάτου του τριών μηνών βρέφους",
-      "simpleText": "Σύντομη περίληψη είδησης:\n\nΘεσσαλονίκη: Θεωρείται πως οι εξετάσεις θα αποκαλύψουν γιατί πέθανε ένα βρέφος τριών μηνών.\n\nΤο βρέφος μεταφέρθηκε στο Ιπποκράτειο Νοσοκομείο από τους γονείς του, χθες το πρωί, χωρίς να έχει τις αισθήσεις του. Οι γιατροί δήλωσαν τον θάνατό του και αμέσως ξεκίνησε η ιατροδικαστική έρευνα. Οι γονείς αφέθηκαν ελεύθεροι με απόφαση του εισαγγελέα, καθώς άρχισε προκαταρκτική έρευνα για να βρεθούν τα ακριβή αίτια και οι συνθήκες του θανάτου. Είναι σημαντικό να γίνουν αυτές οι εξετάσεις για να κατανοηθεί τι έχει συμβεί.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564047440/thessaloniki-oi-istologikes-tha-rixoyn-fos-stin-aitia-thanatoy-toy-trion-minon-vrefoys/",
+      "id": "db75f7fa385a",
+      "title": "ΗΠΑ: Εκτελέστηκε στο Τέξας θανατοποινίτης για διπλό φόνο – Η πρώτη εκτέλεση του 2026",
+      "simpleTitle": "ΗΠΑ: Εκτελέστηκε στο Τέξας θανατοποινίτης για διπλό φόνο – Η πρώτη εκτέλεση του 2026",
+      "simpleText": "Τίτλος: ΗΠΑ: Εκτέλεση θανατοποινίτη στο Τέξας\n\nΣύνοψη:\nΧθες, στο Τέξας, εκτελέστηκε ένας άνδρας που είχε καταδικαστεί σε θάνατο. Ο άνδρας λέγεται Τσαρλς Βίκτορ Τόμσον και είναι 55 ετών. Εκτελέστηκε με θανατηφόρα ένεση στην φυλακή του Χάντσβιλ. Η εκτέλεση αυτή είναι η πρώτη που πραγματοποιείται φέτος στις Ηνωμένες Πολιτείες.\n\nΟ Τόμσον είχε καταδικαστεί για τον φόνο της πρώην φίλης του και του νέου της φίλου το 1998. Το θύμα, Ντάρεν Κιθ Κέιν, σκοτώθηκε άμεσα από πυροβολισμό, ενώ η πρώην σύντροφός του, Ντενίζ Χέισλιπ, πέθανε μία εβδομάδα μετά στο νοσοκομείο.\n\nΗ εκτέλεση του Τόμσον είναι σημαντική γιατί δείχνει πώς οι ποινές θανάτου συνεχίζουν να εφαρμόζονται σε ορισμένες πολιτείες των ΗΠΑ. Στον τόπο αυτό, την τελευταία χρονιά, είχαν γίνει πολλές εκτελέσεις, περισσότερες από ότι σε προηγούμενα χρόνια. Σε 23 πολιτείες δεν υπάρχει πια η θανατική ποινή.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ipa-ektelestike-sto-teksas-thanatopoinitis-gia-diplo-fono-i-proti-ektelesi-tou-2026/",
       "sourceDomains": [
+        "ertnews.gr",
         "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-ektelestike-sto-teksas-thanatopoinitis-gia-diplo-fono-i-proti-ektelesi-tou-2026/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564048907/ipa-ektelesi-thanatopoiniti-me-thanatifora-enesi-sto-texas-i-proti-toy-2026/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/29/world/proti-ektelesi-thanatopoiniti-stis-ipa-gia-to-2026-pragmatopoiithike-sto-teksas/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την εκτέλεση θανατοποινίτη, η οποία είναι ένα σοβαρό και σημαντικό κοινωνικό και νομικό ζήτημα που επηρεάζει τη δημόσια πολιτική και τα ανθρώπινα δικαιώματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-29T06:22:36.000Z"
+    },
+    {
+      "id": "7c24e95268bf",
+      "title": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
+      "simpleTitle": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
+      "simpleText": "Ο Mesfin Yana είναι ένας άντρας από ένα φτωχό χωριό στην Αιθιοπία. Γεννήθηκε πριν από 41 χρόνια. Στο χωριό του δεν υπήρχε νερό και οι υποδομές ήταν πολύ φτωχές. Όταν ήταν μικρός, αρρώστησε. Μια απλή αρρώστια συνέβαλε στον ρευματικό πυρετό, ο οποίος επηρέασε την καρδιά του και τον έκανε να κινδυνεύει. Ένας γιατρός τον βοήθησε και του έσωσε τη ζωή.\n\nΠερίπου 20 χρόνια μετά, ο Mesfin συνάντησε ξανά τον γιατρό αυτόν. Τώρα, συνεργάζονται και κάνουν χειρουργεία μαζί στην Αιθιοπία. Αυτή η συνεργασία έχει σκοπό να βοηθήσει άλλους ανθρώπους που χρειάζονται ιατρική φροντίδα. Η ιστορία τους δείχνει πόσο σημαντική είναι η καλοσύνη και πώς μπορεί να αλλάξει ζωές.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ιστορία προβάλλει μια θετική αφήγηση σχετικά με την καλοσύνη και τη βοήθεια, καθώς ο Mesfin και ο γιατρός του συνεργάζονται για να σώσουν άλλες ζωές, δείχνοντας πώς μια ανιδιοτελής πράξη μπορεί να έχει μακροχρόνιο αντίκτυπο.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-29T06:14:00.000Z"
+    },
+    {
+      "id": "1daea79ed563",
+      "title": "Χωρίς ίχνη κακοποίησης το 7 ημερών βρέφος που έχασε τη ζωή του – Τι απαντούν οι γονείς για τη μεταφορά του αρχικά σε κτηνιατρείο",
+      "simpleTitle": "Χωρίς ίχνη κακοποίησης το 7 ημερών βρέφος που έχασε τη ζωή του – Τι απαντούν οι γονείς για τη μεταφορά του αρχικά σε κτηνιατρείο",
+      "simpleText": "Ένα μωρό μόλις 7 ημερών πέθανε τις πρώτες ώρες της Τετάρτης. Το μωρό μεταφέρθηκε αρχικά σε κτηνιατρείο από τον πατέρα του και τη θεία του, καθώς ήταν κοντά στο σπίτι τους στην Καλλιθέα. Εκεί, οι κτηνίατροι είδαν ότι το μωρό δεν είχε σφυγμό και αμέσως το μετέφεραν με ασθενοφόρο στο Νοσοκομείο Παίδων «Αγία Σοφία».\n\nΣτο νοσοκομείο, οι γιατροί προσπάθησαν να το επαναφέρουν στη ζωή για 40 λεπτά, αλλά δεν τα κατάφεραν. Μια έρευνα ξεκινά για να βρουν τους λόγους του θανάτου με τη διαδικασία της νεκροψίας, που είναι μια ιατρική εξέταση του σώματος. Μέχρι τώρα, δεν έχει βρεθεί κανένα σημάδι κακοποίησης ή τραυματισμού στο μωρό. Ωστόσο, φαίνεται ότι είχε σοβαρά καρδιολογικά προβλήματα.\n\nΟι γονείς δήλωσαν ότι πανικοβλήθηκαν όταν είδαν ότι το μωρό δεν είχε σφυγμό και για αυτό πήγαν στο πιο κοντινό μέρος για βοήθεια. Η κατάσταση είναι πολύ σοβαρή και οι απαντήσεις θα έρθουν με τα αποτελέσματα της νεκροψίας.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/xoris-ixni-kakopoiisis-to-7-imeron-vrefos-pou-exase-ti-zoi-tou-ti-apantoun-oi-goneis-gia-ti-metafora-tou-arxika-se-ktiniatreio/",
+      "sourceDomains": [
+        "ertnews.gr",
         "tovima.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564047440/thessaloniki-oi-istologikes-tha-rixoyn-fos-stin-aitia-thanatoy-toy-trion-minon-vrefoys/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/xoris-ixni-kakopoiisis-to-7-imeron-vrefos-pou-exase-ti-zoi-tou-ti-apantoun-oi-goneis-gia-ti-metafora-tou-arxika-se-ktiniatreio/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/society/thessaloniki-oi-istologikes-tha-deiksoun-ta-aitia-thanatou-tou-3-minon-vrefous/"
+          "url": "https://www.tovima.gr/2026/01/29/society/xoris-ixni-kakopoiisis-to-vrefos-ton-7-imeron-pou-pethane/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο ενός βρέφους και την ιατροδικαστική έρευνα που προγραμματίστηκε για να καθορίσει τα αίτια αυτού του σοβαρού γεγονότος, γεγονός που την κατατάσσει σε σοβαρές ειδήσεις.",
+      "categoryReason": "Η είδηση αφορά τον θάνατο ενός μωρού μόλις 7 ημερών, που προκαλεί σοβαρή ανησυχία και θλίψη. Περιλαμβάνει θέματα υγείας, έρευνα και οικογενειακή ευθύνη.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfce3f2afc8941e9db2c11f7ae7d9c362b7763cff7ee1ac44ad48488985b59f84c95737d92af3d9a9b90413a691ed80692e6c6fafd0d241478e165c3caed2050e_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-28T14:18:32.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-SYNDESEIS-VREFOS.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-SYNDESEIS-VREFOS.jpg",
+      "publishedAt": "2026-01-29T05:57:37.000Z"
     },
     {
-      "id": "dbb147dcc952",
-      "title": "Πυροσβεστική για το εργοστάσιο «Βιολάντα»: Πολύμηνη διαρροή – Υψηλές συγκεντρώσεις προπανίου",
-      "simpleTitle": "Πυροσβεστική για το εργοστάσιο «Βιολάντα»: Πολύμηνη διαρροή – Υψηλές συγκεντρώσεις προπανίου",
-      "simpleText": "Τίτλος: Προβλήματα στο εργοστάσιο «Βιολάντα» – Μακροχρόνια διαρροή προπανίου\n\nΜια σοβαρή κατάσταση συνέβη στο εργοστάσιο «Βιολάντα». Υπήρξε διαρροή προπανίου, ενός αερίου που μπορεί να είναι επικίνδυνο, τουλάχιστον για πολλούς μήνες. Η διαρροή αυτή προχώρησε κάτω από τη γη, περίπου 25 μέτρα μακριά από την αρχική της θέση και στάθηκε σε ένα υπόγειο χώρο.\n\nΗ κατάσταση έγινε πιο επικίνδυνη όταν το αέριο συνάντησε ηλεκτρικό εξοπλισμό στο εργοστάσιο και προκλήθηκε έκρηξη. Μετά την έκρηξη, οι αρχές προχώρησαν σε έρευνα και βρήκαν σωλήνες προπανίου που είχαν τρυπήματα. Η έκρηξη ήταν πολύ σοβαρή και είχε σοβαρές συνέπειες.\n\nΣημαντική είναι η αναγνώριση του κινδύνου που προέρχεται από τέτοιες διαρροές. Οι αρμόδιοι φορείς συνεχίζουν να ερευνούν την κατάσταση στο εργοστάσιο «Βιολάντα». Δεν έχουν γίνει γνωστοί όλοι οι λεπτομέρειες σχετικά με το πώς και γιατί συνέβη αυτή η διαρροή.",
-      "sourceName": "Kathimerini, News.gr, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/society/564047341/live-i-ektakti-enimerosi-tis-pyrosvestikis-gia-tin-pyrkagia-sto-ergostasio-violanta/",
+      "id": "0891111ba0fe",
+      "title": "Champions League: Με Λεβερκούζεν ή Αταλάντα ο Ολυμπιακός στον δρόμο για τους «16»",
+      "simpleTitle": "Champions League: Με Λεβερκούζεν ή Αταλάντα ο Ολυμπιακός στον δρόμο για τους «16»",
+      "simpleText": "Ο Ολυμπιακός θα παίξει με μια από δύο ομάδες, τη Λεβερκούζεν ή την Αταλάντα, για να μπορέσει να μπει στους «16» του Champions League. Αυτή η φάση είναι πολύ σημαντική, γιατί οι καλύτερες ομάδες της Ευρώπης αγωνίζονται για να συνεχίσουν τη διοργάνωση.\n\nΑυτή η είδηση προέρχεται από μια πρόσφατη νίκη του Ολυμπιακού. Η ομάδα πήγε στο Αμστερνταμ και κέρδισε τον Αγιαξ με σκορ 2-1. Αυτή η νίκη τους βοήθησε να πάρουν θέση στη 18η θέση της βαθμολογίας στην αρχή της διοργάνωσης. Τώρα, μπορούν να ονειρεύονται να πάνε πιο μακριά στο τουρνουά.\n\nΗ αναμέτρηση με τη Λεβερκούζεν ή την Αταλάντα είναι κρίσιμη. Αν τα καταφέρει ο Ολυμπιακός, θα προχωρήσει στην επόμενη φάση. Αυτό είναι σημαντικό για την ομάδα, τους φιλάθλους και για το ελληνικό ποδόσφαιρο γενικότερα.",
+      "sourceName": "News.gr, Protagon",
+      "sourceUrl": "https://www.news.gr/athlhtika/article/4062618/champions-league-me-leverkouzen-i-atalanta-o-olimpiakos-ston-dromo-gia-tous-16.html",
       "sourceDomains": [
-        "kathimerini.gr",
         "news.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564047341/live-i-ektakti-enimerosi-tis-pyrosvestikis-gia-tin-pyrkagia-sto-ergostasio-violanta/"
-        },
-        {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4062298/pirosvestiki-gia-tin-ekrixi-sto-ergostasio-tis-violanta-polimini-diarroi-sto-edafos-me-ipsiles-sigkentrosis-propaniou.html"
+          "url": "https://www.news.gr/athlhtika/article/4062618/champions-league-me-leverkouzen-i-atalanta-o-olimpiakos-ston-dromo-gia-tous-16.html"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/pyrosvestiki-apo-polymini-diarroi-propaniou-i-foniki-ekriksi-sti-violanta-44343302176"
+          "url": "https://www.protagon.gr/epikairotita/me-leverkouzen-i-atalanta-o-olybiakos-stin-epomeni-fasi-tou-champions-league-44343302453"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρή κατάσταση με διαρροή προπανίου στο εργοστάσιο «Βιολάντα», που προκάλεσε έκρηξη, κάτι που σχετίζεται με σημαντικά ζητήματα ασφάλειας και δημόσιας υγείας.",
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά τον Ολυμπιακό, μια αθλητική ομάδα, και την πορεία της στο Champions League, που είναι σημαντική για την κατηγορία των σπορ.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g8ea7ec7c1b63a097db9319864ba8d8404dad67b48d5b8b8c2d416ddf22692080f3fdfd8e955d0cbdf9f26f75e73c8e88f672dfae747d16775b7785cc493dee3f_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-01-29T05:56:57.000Z"
+    },
+    {
+      "id": "26c8f834e330",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 29 Ιανουαρίου",
+      "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 29 Ιανουαρίου",
+      "simpleText": "Σήμερα, 29 Ιανουαρίου, γιορτάζει ο Άγιος Βαρσιμαίος. Είναι μια σημαντική ημέρα για όσους φέρουν τα ονόματα: Βαρσιμαίος, Βαρσάμης, Βαρσαμία, Βαρσάμω, Βαλσάμω και Βαλσαμία.\n\nΟ Άγιος Βαρσιμαίος ήταν ιερομάρτυρας, δηλαδή ένας άνθρωπος που πίστευε πολύ και υπέφερε για την πίστη του. Εδώ και πολλά χρόνια, δίδαξε και βάπτισε τον Άγιο Σάρβηλο και την αδελφή του, την Αγία Βεβαία. Ο ηγεμόνας Λυσίας ανακάλυψε ότι ο Άγιος Βαρσιμαίος έλεγε την πίστη του δημόσια. Αυτό του κόστισε πολύ, καθώς ο ηγεμόνας διέταξε να τον χτυπήσουν και να τον φυλακίσουν.\n\nΜετά από ένα διάστημα, οι διωγμοί σταμάτησαν, και ο Άγιος ελευθερώθηκε. Επέστρεψε στην Εκκλησία, ευλογώντας τον Θεό. Τελικά, έζησε μια καλή ζωή και πέθανε ειρηνικά το 114 μ.Χ.\n\nΑυτή η γιορτή είναι σημαντική γιατί τιμά την πίστη και την αντοχή του Αγίου Βαρσιμαίου, αλλά και όλους όσους γιορτάζουν σήμερα.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-29-ianouariou-2/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-29-ianouariou-2/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/01/29/greece/eortologio-poioi-giortazoun-simera-29-ianouariou/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά την εορτή του Αγίου Βαρσιμαίου, που σχετίζεται με θρησκευτικές παραδόσεις και ιστορία, στοιχεία που ανήκουν στον πολιτιστικό τομέα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-28T14:14:52.000Z"
+      "publishedAt": "2026-01-29T05:05:44.000Z"
     },
     {
-      "id": "6a8a9f7137d1",
-      "title": "Προ των πυλών η κακοκαιρία Kristin: Πού θα χτυπήσουν καταιγίδες και ισχυρές βροχές – Τι θα γίνει στην Αττική",
-      "simpleTitle": "Προ των πυλών η κακοκαιρία Kristin: Πού θα χτυπήσουν καταιγίδες και ισχυρές βροχές – Τι θα γίνει στην Αττική",
-      "simpleText": "Νέα κακοκαιρία πλησιάζει: Έρχονται βροχές και καταιγίδες\n\nΜια νέα κακοκαιρία, ονόματι Kristin, αναμένεται να πλήξει την Ελλάδα την Πέμπτη, 29 Ιανουαρίου. Η Εθνική Μετεωρολογική Υπηρεσία εξέδωσε ειδική προειδοποίηση για έντονα καιρικά φαινόμενα.\n\nΗ κακοκαιρία θα επηρεάσει κυρίως τη δυτική Ελλάδα και τα νησιά του ανατολικού Αιγαίου. Προβλέπονται ισχυρές βροχές και καταιγίδες, καθώς και πιθανές τοπικές χαλάζι. Ο μετεωρολόγος Γιώργος Τσατραφύλλιας προειδοποιεί ότι ο καιρός θα αλλάξει από το πρωί της Πέμπτης.\n\nΣυγκεκριμένα, οι περιοχές που θα επηρεαστούν πιο έντονα είναι τα νησιά του Ιονίου, η Ήπειρος, δυτική και κεντρική Στερεά, δυτική Πελοπόννησος, Θράκη και νησιά του βορείου και ανατολικού Αιγαίου. Στην Αττική, αναμένονται φαινόμενα κατά τις μεσημβρινές ώρες.\n\nΕίναι σημαντικό να είμαστε προσεκτικοί και να παρακολουθούμε τις εξελίξεις του καιρού για την ασφάλειά μας.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/01/28/greece/pro-ton-pylon-i-kakokairia-kristin-pou-tha-xtypisoun-kataigides-kai-isxyres-vroxes-ti-tha-ginei-stin-attiki/",
+      "id": "ffa1cf898f00",
+      "title": "Βενεζουέλα: Η Ροντρίγκες καλεί την Ματσάδο μείνει στην Ουάσινγκτον",
+      "simpleTitle": "Βενεζουέλα: Η Ροντρίγκες καλεί την Ματσάδο μείνει στην Ουάσινγκτον",
+      "simpleText": "Η Ροντρίγκες καλεί τη Ματσάδο να μην επιστρέψει στη Βενεζουέλα\n\nΗ Ντέλσι Ροντρίγκες είναι η προσωρινή πρόεδρος της Βενεζουέλας. Πρόσφατα έκανε μια δήλωση στην Ουάσινγκτον. Ζήτησε από την Μαρία Κορίνα Ματσάδο, ηγέτιδα της αντιπολίτευσης, να μείνει εκεί και να μην επιστρέψει στη Βενεζουέλα. Η Ματσάδο έχει κερδίσει το βραβείο Νόμπελ Ειρήνης το 2025.\n\nΣτην ομιλία της, η Ροντρίγκες είπε ότι θέλει να έρθουν στη Βενεζουέλα μόνο εκείνοι που αγαπούν πραγματικά τη χώρα. Καταδίκασε τις πράξεις εκείνων που επιδιώκουν να βλάψουν τον λαό της Βενεζουέλας. Η Ματσάδο είχε προηγουμένως υποστηρίξει μια στρατιωτική επιχείρηση κατά του προεδρου Νικολάς Μαδούρο, γεγονός που καθιστά τη θέση της αμφιλεγόμενη.\n\nΑυτή η κατάσταση είναι σημαντική γιατί δείχνει τις πολιτικές εντάσεις στη Βενεζουέλα, που προκαλούν ανησυχία στην περιοχή και στον κόσμο.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/venezouela-i-rontrigkes-kalei-tin-matsado-meinei-stin-ouasingkton/",
       "sourceDomains": [
-        "tanea.gr",
+        "ertnews.gr",
         "tovima.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/28/greece/pro-ton-pylon-i-kakokairia-kristin-pou-tha-xtypisoun-kataigides-kai-isxyres-vroxes-ti-tha-ginei-stin-attiki/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/venezouela-i-rontrigkes-kalei-tin-matsado-meinei-stin-ouasingkton/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/society/kakokairia-kristin-ektakto-deltio-tis-emy-gia-isxyres-vroxes-kai-kataigides/"
+          "url": "https://www.tovima.gr/2026/01/29/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/venezouela-rontrigkes-zita-apo-matsado-na-meinei-stis-ipa/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές καιρικές συνθήκες και προειδοποιήσεις για καταιγίδες και βροχές, που επηρεάζουν την ασφάλεια και τις καθημερινές δραστηριότητες του πληθυσμού.",
+      "categoryReason": "Η είδηση αφορά πολιτικές εντάσεις στη Βενεζουέλα και την κατάσταση της αντιπολίτευσης, που είναι σοβαρά ζητήματα σχετικά με την πολιτική και την ασφάλεια της χώρας.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfa5341b1fccd59f8aefaa8b4ea90f94219f35fa4f4fc59342bf49319ad204e3c3053feaae4be0b60ea6686dc783c706b9c3288bca8e558e47597ba85dccc51de_1280.jpg",
-      "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgiorgos.tsatrafyllias%2Fposts%2Fpfbid024tThsgSAXzjxozgdqBEt2YrbuHGCt9JN9xsZHndMve5iEdRNRwJS5KmqNCa5aCpql&amp;show_text=true&amp;width=500",
-      "publishedAt": "2026-01-28T13:45:41.000Z"
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-01-29T04:54:26.000Z"
     },
     {
-      "id": "32e8a8a33bb1",
-      "title": "Χαλκιδική: Σύγκρουση λεωφορείου ΚΤΕΛ που μετέφερε μαθητές με βαν",
-      "simpleTitle": "Χαλκιδική: Σύγκρουση λεωφορείου ΚΤΕΛ που μετέφερε μαθητές με βαν",
-      "simpleText": "Τίτλος: Λεωφορείο με μαθητές συγκρούστηκε με βαν στη Χαλκιδική\n\nΣτη Χαλκιδική, συνέβη μια σύγκρουση ανάμεσα σε ένα λεωφορείο του ΚΤΕΛ, που μετέφερε μαθητές, και ένα βαν. Το ατύχημα έγινε πρόσφατα και έχει ως αποτέλεσμα τρεις τραυματίες. Είναι σημαντικό να σημειωθεί ότι οι μαθητές, οι οποίοι βρίσκονταν στο λεωφορείο, είναι όλοι ασφαλείς και δεν έχουν τραυματιστεί.\n\nΗ ασφάλεια των μαθητών είναι πάντα προτεραιότητα και στις περιπτώσεις ατυχημάτων, όπως αυτή, η κατάσταση εξετάζεται προσεκτικά από τις αρχές. Τα αίτια της σύγκρουσης δεν είναι ακόμα γνωστά.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/01/28/society/xalkidiki-sygkrousi-leoforeiou-ktel-pou-metefere-mathites-me-van/",
+      "id": "0084972830ff",
+      "title": "Γιατί ο Τζέιμς Κάμερον άφησε τις ΗΠΑ και επέλεξε τη Νέα Ζηλανδία",
+      "simpleTitle": "Γιατί ο Τζέιμς Κάμερον άφησε τις ΗΠΑ και επέλεξε τη Νέα Ζηλανδία",
+      "simpleText": "Ο Τζέιμς Κάμερον, γνωστός σκηνοθέτης, αποφάσισε να φύγει από τις Ηνωμένες Πολιτείες και να ζήσει μόνιμα στη Νέα Ζηλανδία. Αυτή η απόφαση έγινε γιατί ήθελε να φροντίσει την ψυχική του υγεία.\n\nΟ Κάμερον αισθάνθηκε απογοητευμένος από την κατάσταση στην Αμερική, ειδικά την περίοδο όταν ήταν πρόεδρος ο Ντόναλντ Τραμπ. Χαρακτήρισε αυτή την περίοδο πολύ δύσκολη, όπως να βλέπεις ένα ατύχημα που συμβαίνει ξανά και ξανά.\n\nΗ επιλογή του να μετακομίσει στη Νέα Ζηλανδία δείχνει ότι θέλει να βρει έναν πιο ήρεμο και θετικό τρόπο ζωής. Αυτό είναι σημαντικό γιατί οι καλλιτέχνες συχνά χρειάζονται ένα περιβάλλον που τους βοηθά να είναι δημιουργικοί και ευτυχισμένοι.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31193-giati-o-james-cameron-metakomise-sti-nea-zilandia/",
       "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/society/xalkidiki-sygkrousi-leoforeiou-ktel-pou-metefere-mathites-me-van/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4062238/leoforio-pou-metefere-mathites-sigkroustike-me-van-sti-chalkidiki.html"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31193-giati-o-james-cameron-metakomise-sti-nea-zilandia/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά έναν σοβαρό τροχαίο ατύχημα που συνέβη με τραυματισμούς και σχετίζεται με την ασφάλεια μαθητών.",
+      "category": "happy",
+      "categoryReason": "Η απόφαση του Τζέιμς Κάμερον να μετακομίσει στη Νέα Ζηλανδία για την ψυχική του υγεία αποτυπώνει μια θετική αλλαγή στη ζωή του και την επιθυμία του για έναν πιο ήρεμο τρόπο ζωής.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ge924bd43a1d443d8459ed0a5dff01de459ae642bcb212d3b15dabbb48447bde354abc3da0370637ea384dd5137456da7872a0ac3ed45b1d0e9d6d93b2b549b3c_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-01-28T12:49:17.000Z"
+      "publishedAt": "2026-01-28T18:22:00.000Z"
     },
     {
       "id": "d25034d63b2a",
       "title": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
       "simpleTitle": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
-      "simpleText": "Μια αγελάδα από την Αυστρία αλλάζει όσα πιστεύαμε για την ευφυΐα των ζώων. Η Βερόνικα είναι μια ηλικιωμένη αγελάδα που έχει καταγραφεί επιστημονικά να χρησιμοποιεί εργαλεία. Αυτό συμβαίνει στην καθημερινότητά της, όχι σε κάποιο εργαστήριο. Ζει σε ένα αγρόκτημα, όπου την θεωρούν μέλος της οικογένειας και όχι απλά παραγωγικό ζώο. Η ανακάλυψη αυτή μας δείχνει ότι τα ζώα μπορεί να είναι πιο έξυπνα από ό,τι νομίζαμε μέχρι τώρα.",
+      "simpleText": "Μία αγελάδα στη Αυστρία, που ονομάζεται Βερόνικα, έχει γίνει διάσημη γιατί απέδειξε ότι τα ζώα μπορούν να είναι πιο έξυπνα από ό,τι νομίζαμε. Είναι μία ηλικιωμένη καφέ αγελάδα που ζει σε ένα αγρόκτημα μαζί με ανθρώπους. Εκεί, η Βερόνικα χρησιμοποιεί εργαλεία με τρόπο που δείχνει ότι καταλαβαίνει πώς να τα χειρίζεται.\n\nΑυτό δεν συνέβη σε κάποιο επιστημονικό εργαστήριο αλλά στην καθημερινότητά της, όπου δεν είναι μόνο ένα ζώο που παράγει γάλα, αλλά είναι μέλος της οικογένειας που την φροντίζει.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί αλλάζει την αντίληψή μας για την ευφυΐα των ζώων. Μάθαμε ότι τα ζώα μπορούν να είναι πιο ικανά από ό,τι πιστεύαμε μέχρι τώρα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/",
       "sourceDomains": [
@@ -312,7 +410,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία της αγελάδας Βερόνικα αναδεικνύει την επιτυχία και την εκπληκτική νοημοσύνη των ζώων, προσφέροντας μια θετική και ελπιδοφόρα προοπτική που αλλάζει τη στάση μας απέναντι σε αυτά.",
+      "categoryReason": "Η ιστορία της Βερόνικας, της αγελάδας που αποδεικνύει τη νοημοσύνη των ζώων, είναι θετική και ανατρεπτική, προάγοντας την ιδέα ότι τα ζώα μπορούν να είναι πιο έξυπνα απ' ό,τι νομίζουμε.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -322,7 +420,7 @@
       "id": "68afe33c093e",
       "title": "Επιστήμονες “εκτύπωσαν” ιστό ήπατος από ανθρώπινα κύτταρα δίνοντας πολύτιμο χρόνο στον ασθενή",
       "simpleTitle": "Επιστήμονες “εκτύπωσαν” ιστό ήπατος από ανθρώπινα κύτταρα δίνοντας πολύτιμο χρόνο στον ασθενή",
-      "simpleText": "Επιστήμονες δημιούργησαν ιστό ήπατος από ανθρώπινα κύτταρα.\n\nΜια ερευνητική ομάδα από τις Ηνωμένες Πολιτείες εργάζεται για να φτιάξει όργανα σε εργαστήριο. Αυτό γίνεται μέσω μιας διαδικασίας που ονομάζεται βιοεκτύπωση. Οι επιστήμονες του Πανεπιστημίου Carnegie Mellon έλαβαν μεγάλη χρηματοδότηση για αυτό το έργο. Το πρόγραμμα ονομάζεται LIVE.\n\nΟ σκοπός τους είναι να δημιουργήσουν ένα ειδικό επίθεμα ήπατος. Αυτό το επίθεμα μπορεί να πάρει προσωρινά κάποιες δουλειές από το φυσικό ήπαρ. Έτσι, το φυσικό ήπαρ θα έχει χρόνο να θεραπευτεί.\n\nΑυτή η ανακάλυψη είναι σημαντική, γιατί κάθε χρόνο πολλές χιλιάδες άνθρωποι περιμένουν για μεταμόσχευση ήπατος. Υπάρχει μεγάλη ανάγκη για περισσότερα όργανα, και η δημιουργία τους στο εργαστήριο μπορεί να βοηθήσει.",
+      "simpleText": "Επιστήμονες φτιάχνουν τεχνητό συκώτι\n\nΜια ομάδα επιστημόνων από την Αμερική βρήκε έναν νέο τρόπο για να βοηθήσει ανθρώπους που περιμένουν μεταμόσχευση συκωτιού. Κάθε χρόνο, πολλοί άνθρωποι χρειάζονται νέα όργανα, αλλά δεν υπάρχουν αρκετοί δότες.\n\nΟι επιστήμονες από το Πανεπιστήμιο Carnegie Mellon εργάζονται πάνω σε ένα πρόγραμμα που ονομάζεται LIVE. Έχουν λάβει 28,5 εκατομμύρια δολάρια για να δημιουργήσουν ένα ειδικό υλικό από ανθρώπινα κύτταρα. Αυτό το υλικό μπορεί να εκτυπωθεί στρώμα-στρώμα, όπως γίνεται με τις τρισδιάστατες εκτυπώσεις.\n\nΤο ενδιαφέρον είναι ότι αυτό το τεχνητό συκώτι μπορεί να βοηθάει τον ασθενή μέχρι να μπορέσει το φυσικό του συκώτι να επανέλθει. Αυτό σημαίνει ότι οι άνθρωποι έχουν περισσότερο χρόνο για να θεραπευτούν πριν χρειαστούν μια μεταμόσχευση.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί μπορεί να σώσει ζωές και να δώσει ελπίδα σε πολλούς ασθενείς.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31205-viotypomeno-sykoti-metamosxefsi-anthropina-kytara/",
       "sourceDomains": [
@@ -335,7 +433,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σημαντική επιστημονική ανακάλυψη που σχετίζεται με τη δημόσια υγεία και τη μεταμόσχευση οργάνων, επηρεάζοντας πολλές ζωές.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική ιατρική ανακάλυψη που έχει άμεσες επιπτώσεις στην υγεία και στη ζωή των ασθενών που περιμένουν μεταμόσχευση ήπατος, συνδέοντας την επιστήμη με σοβαρά κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -345,7 +443,7 @@
       "id": "29e8bd2720d6",
       "title": "Τι συμβαίνει πραγματικά αν βουρτσίσουμε τα δόντια μας με το αδύναμο χέρι μας;",
       "simpleTitle": "Τι συμβαίνει πραγματικά αν βουρτσίσουμε τα δόντια μας με το αδύναμο χέρι μας;",
-      "simpleText": "Τίτλος: Τι συμβαίνει αν βουρτσίσουμε τα δόντια μας με το χέρι που δεν χρησιμοποιούμε συνήθως;\n\nΜια απλή αλλαγή μπορεί να έχει ενδιαφέροντα αποτελέσματα. Αν βουρτσίσουμε τα δόντια μας με το χέρι που δεν είναι το κυρίως μας χέρι, αυτό μπορεί να βάλει τον εγκέφαλό μας σε μια διαφορετική διαδικασία σκέψης. Νευροεπιστήμονες και ψυχολόγοι έχουν εξετάσει αυτή τη συνήθεια και αναφέρουν ότι ο εγκέφαλος δεν λειτουργεί πια με τον αυτόματο τρόπο.\n\nΑυτή η μικρή πρόκληση βοηθάει το μυαλό να ενεργοποιηθεί και να γίνει πιο σε εγρήγορση. Είναι σημαντικό να γνωρίζουμε ότι τέτοιες αλλαγές στη ρουτίνα μας μπορεί να βοηθήσουν στη βελτίωση της νοητικής λειτουργίας και στην ενίσχυση της ικανότητας του εγκεφάλου μας. Ωστόσο, δεν φαίνεται να υπάρχουν άλλες λεπτομέρειες σχετικά με τα οφέλη ή τις επιπτώσεις αυτής της συνήθειας.",
+      "simpleText": "Τίτλος: Τι συμβαίνει αν βουρτσίσουμε τα δόντια μας με το χέρι που δεν χρησιμοποιούμε;\n\nΠρόσφατα, έγινε μια έρευνα για το πώς επηρεάζει το βούρτσισμα των δοντιών μας με το χέρι που δεν είναι το δυνατό μας. Συνήθως, οι περισσότεροι από εμάς χρησιμοποιούμε το ίδιο χέρι κάθε φορά. Όμως, όταν δοκιμάσουμε να βουρτσίσουμε με το άλλο χέρι, αυτό μπορεί να μας βοηθήσει να αναγκάσουμε τον εγκέφαλό μας να σκεφτεί διαφορετικά.\n\nΟι επιστήμονες που μελετούν τον εγκέφαλο, όπως οι νευροεπιστήμονες και οι ψυχολόγοι, ενδιαφέρονται για αυτή τη διαδικασία. Η αλλαγή μπορεί να βοηθήσει στο να κρατήσουμε τον εγκέφαλό μας σε καλή κατάσταση και να μην μένει απλώς \"σε αυτόματο πιλότο\". Δηλαδή, αναγκάζουμε τον εγκέφαλο να δουλέψει περισσότερο.\n\nΑυτή η έρευνα είναι σημαντική, γιατί μας δείχνει τρόπους να βελτιώσουμε τη σκέψη μας και την ενδυνάμωση του εγκεφάλου μας με καθημερινές δραστηριότητες, όπως το βούρτσισμα των δοντιών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31310-vourtsisma-adinamo-xeri-ti-simvainei/",
       "sourceDomains": [
@@ -357,8 +455,8 @@
           "url": "https://thehappynews.gr/31310-vourtsisma-adinamo-xeri-ti-simvainei/"
         }
       ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αναφέρεται σε μια απλή και διασκεδαστική δραστηριότητα που μπορεί να έχει ενδιαφέροντα αποτελέσματα, προάγοντας τη διασκέδαση και την περιέργεια του αναγνώστη.",
+      "category": "serious",
+      "categoryReason": "Η έρευνα ασχολείται με την επίδραση του βούρτσισματος δοντιών στον εγκέφαλο, που συνδέεται με τις επιστήμες της ψυχολογίας και της νευροεπιστήμης, άρα αφορά σοβαρά ζητήματα υγείας και εγκεφαλικής λειτουργίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -368,7 +466,7 @@
       "id": "05533fe0b5eb",
       "title": "Το Αμστερνταμ εξετάζει απαγόρευση για τα υπερμεγέθη ηλεκτρικά ποδήλατα στο κέντρο",
       "simpleTitle": "Το Αμστερνταμ εξετάζει απαγόρευση για τα υπερμεγέθη ηλεκτρικά ποδήλατα στο κέντρο",
-      "simpleText": "Το Αμστερνταμ σκέφτεται να απαγορεύσει τα μεγάλα ηλεκτρικά ποδήλατα στο κέντρο της πόλης. Αυτή η ιδέα προέρχεται από τους τοπικούς αξιωματούχους, καθώς υπάρχει ανησυχία για την ασφάλεια στους δρόμους.\n\nΤο πρόβλημα είναι ότι κάποια από αυτά τα ποδήλατα μπορούν να πηγαίνουν πολύ γρήγορα, έως και 60 χιλιόμετρα την ώρα. Αυτό είναι επικίνδυνο, ειδικά σε στενά δρομάκια και γεμάτους ποδηλατόδρομους. Θέλουν να μειώσουν τα ατυχήματα που έχουν αυξηθεί τον τελευταίο καιρό.\n\nΗ απόφαση δεν έχει παρθεί ακόμη, αλλά είναι σημαντική για την ασφάλεια των ανθρώπων που χρησιμοποιούν τα ποδήλατα στην πόλη.",
+      "simpleText": "Το Αμστερνταμ σκέφτεται να απαγορέψει τα μεγάλα ηλεκτρικά ποδήλατα στο κέντρο της πόλης. Αυτή η απόφαση έρχεται μετά από πολλά ατυχήματα που συνέβησαν λόγω της γρήγορης οδήγησης.\n\nΗ πόλη είναι γνωστή για τα ποδήλατά της. Οι αρχές ανησυχούν γιατί μερικά από τα ηλεκτρικά ποδήλατα μπορούν να πηγαίνουν πολύ γρήγορα, μέχρι 60 χιλιόμετρα την ώρα. Αυτό είναι επικίνδυνο, ειδικά σε στενά δρομάκια και busy ποδηλατόδρομους.\n\nΗ απαγόρευση έχει στόχο να κάνει τους δρόμους πιο ασφαλείς για όλους. Η απόφαση αυτή είναι σημαντική γιατί βοηθάει τους πολίτες και τους επισκέπτες να έχουν μια πιο ασφαλή εμπειρία στην πόλη. Ακόμα δεν έχουν ληφθεί τελικές αποφάσεις, αλλά οι συζητήσεις συνεχίζονται.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31195-amsterdam-apagorefsi-ilektrika-podilata/",
       "sourceDomains": [
@@ -381,7 +479,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ασφάλεια στους δρόμους του Αμστερνταμ και τις προτάσεις των τοπικών αρχών για την απαγόρευση των υπερμεγεθών ηλεκτρικών ποδηλάτων λόγω του αυξημένου κινδύνου ατυχημάτων, που είναι σοβαρό κοινωνικό ζήτημα.",
+      "categoryReason": "Η είδηση αφορά την εξέταση απαγόρευσης των υπερμεγεθών ηλεκτρικών ποδηλάτων στο Αμστερνταμ, επικεντρώνεται σε θέματα ασφάλειας και δημόσιας πολιτικής, τα οποία είναι σοβαρά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -391,7 +489,7 @@
       "id": "9ea00fe6aeb5",
       "title": "Μια οικογένεια δωρίζει το χωράφι της στην πόλη και το μετατρέπει σε κοινό οπωρώνα",
       "simpleTitle": "Μια οικογένεια δωρίζει το χωράφι της στην πόλη και το μετατρέπει σε κοινό οπωρώνα",
-      "simpleText": "Μία οικογένεια αποφάσισε να δωρίσει το χωράφι της στην πόλη και να το μετατρέψει σε κοινό οπωρώνα. Το χωράφι ήταν κληρονομιά και είχε συνδεθεί με αναμνήσεις από το παρελθόν. Κανείς δεν το χρησιμοποιούσε πια και δεν είχε νόημα να κρατιέται. Οι οικογένεια Éprinchard σκέφτηκε ότι είναι καλύτερο να το προσφέρει σε όλους, έτσι ώστε να δημιουργηθεί ένας χώρος που μπορεί να ωφελήσει την τοπική κοινότητα. Αυτή η απόφαση είναι σημαντική γιατί δείχνει πώς κάτι που δεν χρησιμοποιείται πια μπορεί να μετατραπεί σε χώρο για όλους τους κατοίκους.",
+      "simpleText": "Μια οικογένεια αποφάσισε να δωρίσει το χωράφι της στην πόλη για να γίνει κοινός οπωρώνας. Το χωράφι ήταν ξεχασμένο για πολλά χρόνια. Κανείς δεν το φρόντιζε ούτε το χρησιμοποιούσε. Η οικογένεια Éprinchard σκέφτηκε ότι το χωράφι μπορεί να είναι πιο χρήσιμο αν προσφέρει καρπούς σε όλους.\n\nΑυτή η απόφαση είναι σημαντική. Ο κοινός οπωρώνας θα δώσει τη δυνατότητα στους ανθρώπους να μαζεύουν φρούτα και λαχανικά, να περνούν χρόνο στη φύση και να μοιράζονται όμορφες στιγμές. Είναι μια ευκαιρία να δημιουργηθεί κάτι καλό για την κοινότητα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31214-oikogeneia-dorizei-xorafi-stin-poli-gia-koinotiko-oporona/",
       "sourceDomains": [
@@ -404,7 +502,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά μια θετική και ενθουσιαστική απόφαση που ωφελεί την τοπική κοινότητα, δημιουργώντας έναν κοινό οπωρώνα από ένα χωράφι που δεν χρησιμοποιούνταν πια.",
+      "categoryReason": "Η είδηση αφορά μια θετική και χαρούμενη πρωτοβουλία της οικογένειας να δωρίσει το χωράφι τους για το κοινό καλό, δημιουργώντας έναν οπωρώνα που θα ωφελήσει την τοπική κοινότητα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -414,7 +512,7 @@
       "id": "b4236cbc3dc8",
       "title": "Αρχαιολογική ανακάλυψη στην Κίνα αποκαλύπτει έναν ξανθό «ξένο» σε τάφο της δυναστείας Τανγκ",
       "simpleTitle": "Αρχαιολογική ανακάλυψη στην Κίνα αποκαλύπτει έναν ξανθό «ξένο» σε τάφο της δυναστείας Τανγκ",
-      "simpleText": "Τίτλος: Ανακάλυψη τάφου στην Κίνα εντυπωσιάζει με ξανθό άνδρα\n\nΜια ενδιαφέρουσα αρχαιολογική ανακάλυψη έγινε στην Κίνα. Βρήκαν έναν όμορφα διακοσμημένο τάφο που μας δίνει πληροφορίες για την καθημερινή ζωή της δυναστείας Τανγκ. Ο τάφος περιέχει την εικόνα ενός ξανθού άνδρα, κάτι που προκαλεί την περιέργεια.\n\nΗ ανακάλυψη έγινε το 2018, όταν γίνονταν έργα σε ένα δρόμο στην πόλη της επαρχίας Σανσί. Αν και οι αρχαιολόγοι γνώριζαν τον τάφο, οι λεπτομέρειες έγιναν γνωστές μόλις πρόσφατα. Αυτή η ανακάλυψη είναι σημαντική γιατί δείχνει την πολιτισμική ποικιλία εκείνης της εποχής.",
+      "simpleText": "Στην Κίνα, έγινε μια σημαντική ανακάλυψη. Οι αρχαιολόγοι βρήκαν έναν πανέμορφα διακοσμημένο τάφο από τη δυναστεία Τανγκ, που υπήρξε περίπου 1.300 χρόνια πριν. Ο τάφος βρέθηκε το 2018, όταν κάποιοι εργάζονταν για να φτιάξουν ένα δρόμο κοντά σε ένα λόφο στην πρωτεύουσα της επαρχίας Σανσί.\n\nΜέσα στον τάφο, οι επιστήμονες βρήκαν τοιχογραφίες που δείχνουν καθημερινές σκηνές από τη ζωή τότε. Ένα από τα πιο περίεργα στοιχεία είναι η εικόνα ενός ξανθού άνδρα. Αυτό είναι σπάνιο, γιατί οι άνθρωποι εκείνη την εποχή στην Κίνα συνήθως δεν είχαν ξανθά μαλλιά.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί μας δίνει πληροφορίες για το πώς ζούσαν οι άνθρωποι τη δεδομένη εποχή και δείχνει ότι είχαν επαφές με ανθρώπους από άλλες χώρες. Οι λεπτομέρειες για τον τάφο είχαν κρατηθεί κρυφές μέχρι τώρα, αλλά τώρα οι επιστήμονες τις μοιράζονται με όλους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31262-archaiologiki-anakalypsi-kina-xanthos-taphos-tang/",
       "sourceDomains": [
@@ -427,7 +525,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που προσφέρει πληροφορίες για την πολιτιστική και κοινωνική ζωή της δυναστείας Τανγκ, επομένως εντάσσεται καλύτερα στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική αρχαιολογική ανακάλυψη που αποκαλύπτει πληροφορίες για την καθημερινή ζωή κατά τη διάρκεια της δυναστείας Τανγκ, κάτι που σχετίζεται με την ιστορία και τον πολιτισμό.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -437,7 +535,7 @@
       "id": "b2fb8ae14cf8",
       "title": "Ένα 10χρονο παιδί μαζεύει 1600 βιβλία για να αλλάξει ζωές",
       "simpleTitle": "Ένα 10χρονο παιδί μαζεύει 1600 βιβλία για να αλλάξει ζωές",
-      "simpleText": "Μια 10χρονη, η Aarvi Vakharia, μαζεύει 1600 βιβλία για να αλλάξει τις ζωές άλλων παιδιών. Για αυτήν, το διάβασμα είναι πολύ σημαντικό. Της αρέσει να μαθαίνει και να ονειρεύεται μέσα από τα βιβλία.\n\nΗ Aarvi προέρχεται από μια οικογένεια που αγαπά τα βιβλία. Οι γονείς της είναι εθελοντές σε έναν οργανισμό που δίνει βιβλία σε παιδιά που δεν έχουν πρόσβαση στη γνώση. Αυτό την ενέπνευσε να κάνει κάτι καλό για άλλα παιδιά. Η προσπάθειά της δείχνει πώς τα βιβλία μπορούν να προσφέρουν ελπίδα και ευκαιρίες. Είναι σημαντικό γιατί ενθαρρύνει και άλλους να βοηθούν.",
+      "simpleText": "Ένα 10χρονο κορίτσι, η Aarvi Vakharia, μαζεύει βιβλία για να βοηθήσει άλλα παιδιά. Αυτή τη στιγμή, έχει συγκεντρώσει 1600 βιβλία. Για την Aarvi, το διάβασμα είναι πολύ σημαντικό. Χρησιμοποιεί τα βιβλία για να μαθαίνει και να ονειρεύεται.\n\nΗ Aarvi ζει σε μια οικογένεια που αγαπά τα βιβλία. Οι γονείς της είναι εθελοντές σε έναν οργανισμό. Οι εθελοντές βοηθούν παιδιά που δεν έχουν πρόσβαση σε πολλά βιβλία. Αυτό επηρεάζει την Aarvi και την κάνει να θέλει να προσφέρει και εκείνη.\n\nΗ προσπάθειά της είναι σημαντική γιατί τα βιβλία μπορούν να αλλάξουν τις ζωές των παιδιών. Μέσω των βιβλίων, τα παιδιά μπορούν να μάθουν νέα πράγματα και να ταξιδέψουν σε διαφορετικούς κόσμους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31219-ena-10xrono-paidi-apodeiknyei-oti-ta-vivlia-mporoun-na-allaxoun-zoes/",
       "sourceDomains": [
@@ -450,9 +548,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία της Aarvi Vakharia είναι θετική και εμπνευσμένη, καθώς δείχνει πώς ένα 10χρονο παιδί μπορεί να αλλάξει ζωές με την αγάπη του για τα βιβλία και την επιθυμία του να βοηθήσει τους άλλους. Αυτή η πρωτοβουλία ενθαρρύνει τη φιλαναγνωσία και τη συνεισφορά στην κοινωνία, προάγοντας ένα χαρούμενο μήνυμα.",
+      "categoryReason": "Η ιστορία του 10χρονου κοριτσιού που μαζεύει βιβλία για να βοηθήσει άλλα παιδιά είναι θετική και εμπνέει, δείχνοντας τη δύναμη της προσφοράς και της αγάπης για το διάβασμα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gba5f80ec65feddc647f7d041638ec9b8e5cc04ee500943f87da4babff9f7cad42042b6f10afbbe2f76ddef7bfcdfcc78a233ea576c95b6d3b20f724cf7d37e18_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g0dc73b5adb6266737a03a14a0773b7fc6e4d746416994c3e1a60ec35bbb27f777bf38f7ab89315e0c42572ebcbdafe012900d81113a42d77630cb6f810905b6d_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-26T09:16:00.000Z"
     },
@@ -460,7 +558,7 @@
       "id": "b50d5afeb4a3",
       "title": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
       "simpleTitle": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
-      "simpleText": "Ένας άνδρας σκαρφάλωσε έναν πολύ ψηλό ουρανοξύστη, το Taipei 101, στην Ταϊβάν. Ονομάζεται Alex Honnold και είναι γνωστός για τις τολμηρές του πράξεις. Το Taipei 101 είναι 508 μέτρα ψηλό και έχει 101 ορόφους.\n\nΑυτό που είναι σημαντικό είναι ότι σκαρφάλωσε το κτίριο χωρίς κανένα μέτρο ασφαλείας. Αυτό δημιούργησε μεγάλη αγωνία και θαυμασμό σε πολλούς που τον παρακολουθούσαν. Οι πράξεις του δείχνουν ότι τα ανθρώπινα όρια συχνά εξαρτώνται από την επιλογή και την απόφαση του καθενός.",
+      "simpleText": "Ένας άνδρας από τις Ηνωμένες Πολιτείες, ο Alex Honnold, έκανε κάτι πολύ επικίνδυνο. Σκαρφάλωσε έναν πολύ ψηλό ουρανοξύστη, το Taipei 101, στην Ταϊβάν. Ο ουρανοξύστης έχει 101 ορόφους και είναι 508 μέτρα ψηλός. Κατασκευάζεται από υλικά όπως ατσάλι, γυαλί και σκυρόδεμα.\n\nΑυτό που τον έκανε να ξεχωρίζει είναι ότι δεν χρησιμοποίησε κανένα μέτρο ασφαλείας. Σκαρφάλωσε χωρίς σχοινιά ή ασπίδες. Πολλοί άνθρωποι παρακολουθούσαν και κρατούσαν την ανάσα τους, βλέποντας τον να ανεβαίνει. Αυτό που έκανε ο Honnold δείχνει ότι μερικές φορές οι άνθρωποι μπορούν να ξεπεράσουν τα όριά τους, αν και είναι πολύ επικίνδυνο. Αυτή η πράξη έχει προκαλέσει πολλές συζητήσεις για την ασφάλεια και τους κινδύνους που αναλαμβάνει κανείς.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/",
       "sourceDomains": [
@@ -472,115 +570,130 @@
           "url": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/"
         }
       ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αναφέρεται σε μια τολμηρή και εντυπωσιακή πράξη του Alex Honnold, η οποία, ενώ έχει στοιχεία θαυμασμού και ανατροπής, συνδέεται περισσότερο με τη διασκέδαση και τον ενθουσιασμό από τη θέαση μιας παράτολμης σκαρφαλωτής και όχι με σοβαρά θέματα.",
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε μια πολύ επικίνδυνη πράξη που θέτει ζητήματα ασφάλειας και κινδύνων, καθιστώντας την σοβαρή και συζητημένη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-01-26T05:41:00.000Z"
     },
     {
-      "id": "64e2113f1e46",
-      "title": "Ζουν φάλαινες στα ελληνικά νερά; Ποια είδη συναντάμε και γιατί βρίσκονται εδώ",
-      "simpleTitle": "Ζουν φάλαινες στα ελληνικά νερά; Ποια είδη συναντάμε και γιατί βρίσκονται εδώ",
-      "simpleText": "Περίληψη: Φάλαινες στις ελληνικές θάλασσες\n\nΜια φάλαινα είδε πρόσφατα κάποιος στον Παγασητικό κόλπο. Αυτό προκάλεσε ενδιαφέρον για το αν υπάρχουν φάλαινες στην Ελλάδα. Οι φάλαινες είναι μεγάλα θαλάσσια ζώα. Στις ελληνικές θάλασσες μπορεί να συναντήσουμε αρκετά είδη. Είναι σημαντικό να γνωρίζουμε αν ζουν εδώ, γιατί οι φάλαινες είναι μέρος του θαλάσσιου οικοσυστήματος.\n\nΕίναι σπάνιο να δούμε φάλαινες κοντά στις ελληνικές ακτές, αλλά μερικά είδη μπορεί να επισκέπτονται αυτά τα νερά. Οι φάλαινες χρειάζονται καθαρά και υγιή νερά για να επιβιώσουν. Οι άνθρωποι πρέπει να προσέχουν το περιβάλλον, ώστε αυτά τα όμορφα ζώα να μπορούν να ζουν και στο μέλλον.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31248-zoun-falaines-sta-ellinika-nera/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31248-zoun-falaines-sta-ellinika-nera/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την παρουσία φαλαινών στις ελληνικές θάλασσες και τη σημασία τους για το οικοσύστημα, γεγονός που συνδέεται με σοβαρά θέματα σχετικά με το περιβάλλον και την προστασία του.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-25T17:03:22.000Z"
-    },
-    {
-      "id": "22a275a89e02",
-      "title": "Τι είναι το φαινόμενο Μαντέλα;",
-      "simpleTitle": "Τι είναι το φαινόμενο Μαντέλα;",
-      "simpleText": "Τίτλος: Τι είναι το φαινόμενο Μαντέλα;\n\nΤο φαινόμενο Μαντέλα είναι μια ενδιαφέρουσα κατάσταση που συμβαίνει όταν πολλές άνθρωποι θυμούνται το ίδιο λάθος γεγονός. Αυτό σημαίνει ότι πολλοί πιστεύουν ότι κάτι συνέβη με έναν συγκεκριμένο τρόπο, ενώ στην πραγματικότητα είναι διαφορετικά. Αυτό δεν είναι αποτέλεσμα ψεμάτων ή φαντασίας. Είναι μια φυσική συμπεριφορά της ανθρώπινης μνήμης.\n\nΤο όνομα του φαινομένου προέρχεται από τον Νέλσον Μαντέλα, τον Νοτιοαφρικανό ηγέτη, τον οποίο πολλοί πίστευαν ότι είχε πεθάνει στη φυλακή τη δεκαετία του 1980. Ωστόσο, ο Μαντέλα απελευθερώθηκε και ζούσε για πολλά χρόνια μετά. Το φαινόμενο αυτό δείχνει πώς μπορεί η μνήμη να παίζει παιχνίδια με τον κόσμο μας. Είναι σημαντικό, γιατί μας βοηθά να κατανοήσουμε καλύτερα τη φύση της μνήμης και τις λανθασμένες παραδοχές που μπορεί να έχουμε.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31068-mandela-effect-ti-einai/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31068-mandela-effect-ti-einai/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Το φαινόμενο Μαντέλα αφορά τη φύση της ανθρώπινης μνήμης και τις παρανοήσεις που μπορεί να έχουν οι άνθρωποι σχετικά με γεγονότα, γεγονός που έχει σημαντική επίδραση στη γνώση και την κατανόηση των ιστορικών γεγονότων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-25T12:33:00.000Z"
-    },
-    {
-      "id": "4a3cfc6c5296",
-      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Σημαιοφόρος ο Αλέξανδρος Γκιννής",
-      "simpleTitle": "Χειμερινοί Ολυμπιακοί Αγώνες: Σημαιοφόρος ο Αλέξανδρος Γκιννής",
-      "simpleText": "Η Ελλάδα θα συμμετάσχει στους Χειμερινούς Ολυμπιακούς Αγώνες με πέντε αθλητές. Ο Αλέξανδρος Γκιννής θα είναι ο σημαιοφόρος της ελληνικής ομάδας, που σημαίνει ότι θα κρατήσει τη σημαία της χώρας στην τελετή έναρξης. Αυτό είναι σημαντικό γιατί δείχνει υπερηφάνεια και στήριξη για τους αθλητές. Οι Χειμερινοί Ολυμπιακοί Αγώνες θα διεξαχθούν σε μια συγκεκριμένη ημερομηνία και τοποθεσία που δεν έχουν γνωστοποιηθεί ακόμη.",
+      "id": "eb6add2c377d",
+      "title": "Ο αλύγιστος Ολυμπιακός συνεχίζει να ονειρεύεται στο Champions League",
+      "simpleTitle": "Ο αλύγιστος Ολυμπιακός συνεχίζει να ονειρεύεται στο Champions League",
+      "simpleText": "Ο τίτλος μας λέει ότι ο Ολυμπιακός, μια γνωστή ελληνική ποδοσφαιρική ομάδα, συνεχίζει να έχει όνειρα στο Champions League. Αυτό είναι ένα πολύ σημαντικό τουρνουά ποδοσφαίρου, όπου συμμετέχουν οι καλύτερες ομάδες από όλη την Ευρώπη.\n\nΣύμφωνα με την είδηση, ο Ολυμπιακός πέρασε δύσκολες στιγμές. Συγκεκριμένα, κατά τη διάρκεια μίας φάσης του τουρνουά, φαινόταν ότι η ομάδα μπορεί να αποκλειστεί, δηλαδή να μην έχει συνέχεια στο Champions League. Ωστόσο, ο προπονητής Μεντιλίμπαρ και οι παίκτες του έδειξαν μεγάλη δύναμη και κατάφεραν να ξεπεράσουν τις δυσκολίες.\n\nΑυτή η επιτυχία είναι σημαντική, γιατί δείχνει την αποφασιστικότητα και την ικανότητα της ομάδας να αντιμετωπίζει προκλήσεις. Οι φίλαθλοι του Ολυμπιακού ελπίζουν ότι η ομάδα θα συνεχίσει να τα πηγαίνει καλά και θα έχει καλή πορεία στο τουρνουά.",
       "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/01/28/sports/xeimerinoi-olympiakoi-agones-simaioforos-o-aleksandros-gkinnis/",
+      "sourceUrl": "https://www.tovima.gr/2026/01/29/sports/o-alygistos-olympiakos-synexizei-na-oneireyetai-sto-champions-league/",
       "sourceDomains": [
         "tovima.gr"
       ],
       "sources": [
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/28/sports/xeimerinoi-olympiakoi-agones-simaioforos-o-aleksandros-gkinnis/"
+          "url": "https://www.tovima.gr/2026/01/29/sports/o-alygistos-olympiakos-synexizei-na-oneireyetai-sto-champions-league/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη συμμετοχή της Ελλάδας στους Χειμερινούς Ολυμπιακούς Αγώνες και τον διορισμό του Αλέξανδρου Γκιννή ως σημαιοφόρου, γεγονός που σχετίζεται άμεσα με τα αθλητικά δρώμενα. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρεται στην πορεία της ποδοσφαιρικής ομάδας Ολυμπιακός στο Champions League, που είναι θέμα αθλητικών διοργανώσεων και αγώνων. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g7330cfa9624aee548a7e0b41a952d4077ab547ba15c3ed85fe59aa565f5d42acf6ac46c7ad1a6b896d99971a5e5d341f541a13f68db59f722d593fdc47c40e33_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-01-28T13:39:51.000Z"
-    },
-    {
-      "id": "ce977dd4aa94",
-      "title": "Αθλήτρια στο FORMULA KITE στοχεύει στο ψηλότερο βάθρο",
-      "simpleTitle": "Αθλήτρια στο FORMULA KITE στοχεύει στο ψηλότερο βάθρο",
-      "simpleText": "Μία νεαρή αθλήτρια της ιστιοπλοΐας στο Formula Kite, η Αργυρώ Κρότση από την Πάτρα, στοχεύει σε μεγάλες επιτυχίες. Είναι μόλις 16 ετών και έχει ήδη κερδίσει την 6η θέση στο Παγκόσμιο Πρωτάθλημα Νέων, που πραγματοποιήθηκε στην Πορτογαλία από τις 12 έως τις 20 Δεκεμβρίου 2025.\n\nΗ Αργυρώ άρχισε να ασχολείται με το άθλημα σε ηλικία 13 ετών και έχει μεγάλο πάθος γι’ αυτό. Αναφέρει ότι της αρέσει να «πετάει» πάνω στα κύματα και ενθαρρύνει τους άλλους να το δοκιμάσουν. Δηλώνει ότι στηρίζεται πολύ από την οικογένειά της, αλλά θα ήθελε περισσότερη υποστήριξη από τις επίσημες αρχές.\n\nΣτον αγώνα στην Πορτογαλία συμμετείχαν πάνω από 400 αθλητές από 70 χώρες, ηλικίας 12 έως 18 ετών. Η παρουσία της Αργυρούς εντυπωσίασε και υπάρχουν προσδοκίες ότι θα διακριθεί και στους Ολυμπιακούς Αγώνες του 2028 στο Λος Άντζελες.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/ert3/athlitria-sto-formula-kite-stoxeyei-sto-psilotero-vathro/",
-      "sourceDomains": [
-        "ertnews.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/athlitria-sto-formula-kite-stoxeyei-sto-psilotero-vathro/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά μια νεαρή αθλήτρια του Formula Kite, εστιάζει στις επιδόσεις της σε διεθνείς αγώνες και τους στόχους της για το μέλλον, που συνδέονται με τον αθλητισμό. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gad8313c969ac4aad36ddb2bc00ceff11c58fdb98924c569a341df61bfbabc8de9c878c524f9b2f38b5c25dc26e9b7e49026e0ec4a2da8ce6a588ab27e1268144_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/01/28-12-16-formula-kite.mp4&bgimg=https://www.ertnews.gr/wp-content/uploads/2026/01/28-12-16-formula-kite_2.jpg",
-      "publishedAt": "2026-01-28T14:07:34.000Z"
+      "publishedAt": "2026-01-29T06:13:26.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "7ea3247a4613",
-        "title": "Εισαγγελική έρευνα στη Deutsche Bank για τον Αμπράμοβιτς",
-        "simpleTitle": "Εισαγγελική έρευνα στη Deutsche Bank για τον Αμπράμοβιτς",
-        "simpleText": "Τίτλος: Έρευνα στη Deutsche Bank για τον Ρώσο Αμπράμοβιτς\n\nΗ Deutsche Bank, μία μεγάλη τράπεζα που εδρεύει στη Γερμανία, βρίσκεται στο επίκεντρο μιας εισαγγελικής έρευνας. Η έρευνα ξεκίνησε σήμερα, με τους εισαγγελείς να κάνουν έφοδο στα γραφεία της τράπεζας στη Φρανκφούρτη και το Βερολίνο.\n\nΗ έρευνα αφορά πιθανό ξέπλυμα χρημάτων και σχετίζεται με τον Ρώσο δισεκατομμυριούχο Ρόμαν Αμπράμοβιτς. Από τον Μάρτιο του 2022, ο Αμπράμοβιτς είναι στη λίστα κυρώσεων της Ευρωπαϊκής Ένωσης λόγω του πολέμου στην Ουκρανία. Η τράπεζα φέρεται να καθυστέρησε να αναφέρει ύποπτες δραστηριότητες που αφορούν τις επιχειρήσεις του.\n\nΗ Deutsche Bank έχει προηγούμενα με ανάλογες υποθέσεις και άλλες φορές έχει πληρώσει πρόστιμα. Σήμερα, οι μετοχές της τράπεζας έπεσαν 3%, αμέσως πριν από την ανακοίνωση σημαντικών κερδών. Η τράπεζα δήλωσε ότι συνεργάζεται πλήρως με τις αρχές και ότι η κατάσταση είναι ευαίσθητη.",
-        "sourceName": "ERT News, ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/kosmosoikonomia/eisaggeliki-ereyna-sti-deutsche-bank-gia-ton-ampramovits/",
+        "id": "8137306081d9",
+        "title": "Θεσσαλονίκη: Πυρκαγιά σε μάντρα αυτοκινήτων – Ζημιές σε δύο οχήματα",
+        "simpleTitle": "Θεσσαλονίκη: Πυρκαγιά σε μάντρα αυτοκινήτων – Ζημιές σε δύο οχήματα",
+        "simpleText": "Στην περιοχή του Εύοσμου στη Θεσσαλονίκη, ξέσπασε φωτιά σε μάντρα αυτοκινήτων τα ξημερώματα της Πέμπτης, στις 2:15. Η φωτιά προκάλεσε μεγάλες ζημιές σε δύο αυτοκίνητα, τα οποία κάηκαν σχεδόν ολοσχερώς.\n\nΟι πυροσβέστες έφτασαν γρήγορα στον χώρο, αφού υπήρχε μεγάλη ανάγκη να σβήσουν τη φωτιά. Στο σημείο εργάστηκαν έξι πυροσβέστες με δύο πυροσβεστικά οχήματα. Ευτυχώς, κατάφεραν να ελέγξουν τη φωτιά πριν επεκταθεί και σε άλλα αυτοκίνητα που βρίσκονταν κοντά.\n\nΟι αιτίες που προκάλεσαν τη φωτιά δεν είναι ακόμη γνωστές και η Πυροσβεστική Υπηρεσία διερευνά το περιστατικό. Αυτή η φωτιά ήταν σημαντική γιατί θα μπορούσε να προκαλέσει περισσότερες ζημιές αν δεν intervened έγκαιρα η πυροσβεστική.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-pyrkagia-se-mantra-aytokiniton-zimies-se-dyo-oximata/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-pyrkagia-se-mantra-aytokiniton-zimies-se-dyo-oximata/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/29/greece/thessaloniki-fotia-se-mantra-aytokiniton-ston-eyosmo-zimies-se-dyo-oximata-video/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά πυρκαγιά σε μάντρα αυτοκινήτων, που έχει σοβαρές συνέπειες και περιλαμβάνει θέματα ασφάλειας και άλλων κινδύνων.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g816cc5ce825c44865fc2cd678bd8ff5408650090d71bf11245c90313a3741c7cc175510dfafccbe4986ee6bd4240ad5b895a0d62e5de3ff36d5f4c0b24e1a729_1280.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-SYNDESEIS-XRISTARA.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-SYNDESEIS-XRISTARA.jpg",
+        "publishedAt": "2026-01-29T07:33:57.000Z"
+      },
+      {
+        "id": "da902f1b1b1f",
+        "title": "Ακυρώσεις δρομολογίων πλοίων λόγω ισχυρών ανέμων – Αναλυτικά ποια δεν θα πραγματοποιηθούν",
+        "simpleTitle": "Ακυρώσεις δρομολογίων πλοίων λόγω ισχυρών ανέμων – Αναλυτικά ποια δεν θα πραγματοποιηθούν",
+        "simpleText": "**Τίτλος:** Ακυρώσεις πλοίων λόγω δυνατών ανέμων\n\nΣήμερα, Πέμπτη,  υπάρχει πρόβλημα με τα πλοία στα λιμάνια γιατί φυσούν δυνατοί άνεμοι. Από το λιμάνι του Πειραιά, οι επιβάτες μπορούν να πάνε στον Αργοσαρωνικό, αλλά τα ταχύπλοα πλοία δεν εκτελούνται. Τα κανονικά πλοία, όμως, ταξιδεύουν όπως συνήθως το πρωί.\n\nΣτη Ραφήνα, το πρωινό πλοίο για τις Κυκλάδες αναχωρεί κανονικά, αλλά το πλοίο για το Μαρμάρι δεν θα φύγει. Από το Λαύριο, το δρομολόγιο προς Τζιά είναι επίσης ακυρωμένο. Οι άνεμοι δυσκολεύουν τα ταξίδια και είναι σημαντικό για την ασφάλεια των επιβατών.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/akyroseis-dromologion-ploion-logo-isxyron-anemon-analytika-poia-den-tha-pragmatopoiithoun/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/akyroseis-dromologion-ploion-logo-isxyron-anemon-analytika-poia-den-tha-pragmatopoiithoun/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564048964/akyroseis-dromologion-ploion-logo-ischyron-anemon-ti-ischyei/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρές επιπτώσεις που προκαλούνται από δυσμενείς καιρικές συνθήκες, επηρεάζοντας την ασφάλεια των επιβατών και τη λειτουργία των ακτοπλοϊκών δρομολογίων.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599v1im60l3jnu&#038;playlistId=v-dg0upqq9nm29",
+        "publishedAt": "2026-01-29T07:23:33.000Z"
+      },
+      {
+        "id": "e5ea20b58c1f",
+        "title": "Δυστύχημα φιλάθλων ΠΑΟΚ: Απογειώθηκε πριν από λίγο η πτήση του ΕΚΑΒ από Ελευσίνα για να επαναπατρίσει τους δύο τραυματίες",
+        "simpleTitle": "Δυστύχημα φιλάθλων ΠΑΟΚ: Απογειώθηκε πριν από λίγο η πτήση του ΕΚΑΒ από Ελευσίνα για να επαναπατρίσει τους δύο τραυματίες",
+        "simpleText": "Τίτλος: Αεροπλάνο του ΕΚΑΒ πηγαίνει να φέρει τους τραυματίες φιλάθλους του ΠΑΟΚ\n\nΠριν από λίγο, ένα αεροπλάνο του ΕΚΑΒ απογειώθηκε από το αεροδρόμιο της Ελευσίνας στην Ελλάδα. Πηγαίνει στη Ρουμανία για να πάρει δύο φιλάθλους του ΠΑΟΚ οι οποίοι τραυματίστηκαν σε ένα σοβαρό ατύχημα. Οι τραυματίες θα επιστρέψουν στη Θεσσαλονίκη και θα νοσηλευτούν στο νοσοκομείο Παπαγεωργίου.\n\nΥπάρχει και τρίτος τραυματίας, ο οποίος είναι σε πιο σοβαρή κατάσταση. Έχει υποβληθεί σε χειρουργική επέμβαση και θα παραμείνει προσωρινά στη Ρουμανία για θεραπεία. Το ατύχημα έχει προκαλέσει μεγάλα συναισθήματα στη χώρα, καθώς επηρεάζει πολλές οικογένειες και φίλους των παιδιών που ενεπλάκησαν.\n\nΟι οπαδοί και οι συγγενείς των θυμάτων σχεδιάζουν να κάνουν μια πορεία στην Τούμπα, το γήπεδο του ΠΑΟΚ, για να τιμήσουν τη μνήμη των αδικοχαμένων. Ο Οικουμενικός Πατριάρχης Βαρθολομαίος επισκέφθηκε το γήπεδο και άφησε λουλούδια στη μνήμη τους, εκφράζοντας τη λύπη του για την τραγωδία. Υπογράμμισε πόσο δύσκολες είναι τέτοιες στιγμές και πόσο πονεμένες είναι οι οικογένειες των θυμάτων.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-apogeiothike-prin-apo-ligo-i-ptisi-tou-ekav-apo-eleysina-gia-na-epanapatrisei-tous-dyo-traymaties/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-apogeiothike-prin-apo-ligo-i-ptisi-tou-ekav-apo-eleysina-gia-na-epanapatrisei-tous-dyo-traymaties/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/29/greece/dystyxima-sti-roumania-apogeiothike-i-ptisi-tou-ekav-apo-eleysina-gia-na-paralavei-tous-traymaties/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα με τραυματισμούς φιλάθλων και την επαναπατρίση τους, γεγονός που τη συνδέει με θέματα υγείας και κοινωνικής ευαισθησίας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-DT0900-PAPAGEORGIOU.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-DT0900-PAPAGEORGIOU.jpg",
+        "publishedAt": "2026-01-29T07:14:58.000Z"
+      },
+      {
+        "id": "faaddd6aa1d0",
+        "title": "ΗΠΑ: Αυτοκίνητο έπεσε στην είσοδο συναγωγής στη Νέα Υόρκη – Δεν υπάρχουν τραυματίες",
+        "simpleTitle": "ΗΠΑ: Αυτοκίνητο έπεσε στην είσοδο συναγωγής στη Νέα Υόρκη – Δεν υπάρχουν τραυματίες",
+        "simpleText": "Αυτοκίνητο χτύπησε την είσοδο μιας συναγωγής στη Νέα Υόρκη\n\nΧθες, Τετάρτη 28 Ιανουαρίου, ένα αυτοκίνητο έπεσε στην είσοδο της έδρας του εβραϊκού θρησκευτικού κινήματος Χαμπάντ Λουμπάβιτς, που βρίσκεται στο Μπρούκλιν. Δεν υπήρξαν τραυματισμοί, ενώ ο οδηγός συνελήφθη από την αστυνομία.\n\nΟ δήμαρχος της Νέας Υόρκης, Ζόραν Μαμντάνι, περιέγραψε το περιστατικό ως «φρικτό» και «βαθιά ανησυχητικό». Η αστυνομία ερευνά το γεγονός ως πιθανό έγκλημα μίσους, κάτι που σημαίνει ότι μπορεί να έγινε λόγω μίσους προς τους εβραίους.\n\nΟ οδηγός φέρεται να έριξε το αυτοκίνητό του επανειλημμένα πάνω στο κτίριο. Το αυτοκίνητο ήταν γκρι Honda και είχε πινακίδες από την πολιτεία του Νιου Τζέρσεϊ.\n\nΗ επικεφαλής της αστυνομίας, Τζέσικα Τις, επεσήμανε ότι μέσα στο αυτοκίνητο δεν βρέθηκαν εκρηκτικά, γεγονός που προκάλεσε ανακούφιση. Αυτή η ενέργεια έχει προκαλέσει ανησυχία στην κοινότητα και οι αρχές έχουν ενισχύσει τα μέτρα ασφαλείας γύρω από χώρους λατρείας.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-yparxoun-traymaties/",
         "sourceDomains": [
           "ertnews.gr",
           "kathimerini.gr",
@@ -589,175 +702,133 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/oikonomia/kosmosoikonomia/eisaggeliki-ereyna-sti-deutsche-bank-gia-ton-ampramovits/"
-          },
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ereyna-gia-kseplyma-mayrou-xrimatos-sti-deutsche-bank-sto-mikroskopio-oi-synallages-me-ampramovits/"
+            "url": "https://www.ertnews.gr/eidiseis/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-yparxoun-traymaties/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564047410/germania-ereyna-gia-xeplyma-mayroy-chrimatos-stin-deutsche-bank/"
+            "url": "https://www.kathimerini.gr/world/564048934/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki-den-anaferthikan-traymatismoi/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/28/world/germania-ereyna-gia-kseplyma-mayroy-xrimatos-stin-deutsche-bank/"
+            "url": "https://www.tanea.gr/2026/01/29/world/ipa-aytokinito-epese-stin-eisodo-synagogis-sti-nea-yorki/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρή ποινική έρευνα για ξέπλυμα χρημάτων που σχετίζεται με τη Deutsche Bank και τον Ρώσο δισεκατομμυριούχο Ρόμαν Αμπράμοβιτς, καθώς και πολιτικές κυρώσεις της ΕΕ, γεγονός που δείχνει τη σοβαρότητα των κοινωνικών και οικονομικών ζητημάτων που ανακύπτουν.",
+        "categoryReason": "Το περιστατικό αφορά βία κατά μιας συναγωγής και ενδέχεται να σχετίζεται με εγκλήματα μίσους, γεγονός που το καθιστά σοβαρό ζήτημα κοινωνικής ασφάλειας και δικαιωμάτων.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g20b344785b3d5f1dca53030756b3d862a1ba2d34a8d67b19304d4136cf4d230c69bdaed9b06bd784de9b27145308da9c07fe37a69b161a90d0b9884b42704d23_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-28T15:18:33.000Z"
+        "publishedAt": "2026-01-29T07:11:10.000Z"
       },
       {
-        "id": "720d91ec44fc",
-        "title": "Δυστύχημα στη Ρουμανία: «Θρηνώ τους φίλους μου, ήμασταν σαν αδέρφια» – Η μαρτυρία επιζώντα",
-        "simpleTitle": "Δυστύχημα στη Ρουμανία: «Θρηνώ τους φίλους μου, ήμασταν σαν αδέρφια» – Η μαρτυρία επιζώντα",
-        "simpleText": "Δυστύχημα στη Ρουμανία: Ενας επιζών θρηνεί τους φίλους του\n\nΣτη Ρουμανία, συνέβη ένα σοβαρό τροχαίο ατύχημα. Τρία άτομα επιβίωσαν, αλλά επτά άνθρωποι έχασαν τη ζωή τους. Ένας από τους επιζώντες είπε ότι δεν οδηγούσε και ότι είναι καλά, αλλά νιώθει πολύ θλιμμένος για τους φίλους του που σκοτώθηκαν. Όλοι ήρθαν σε σύγκρουση κατά τη διάρκεια του ατυχήματος. Οι άλλοι δύο επιζώντες είναι στο νοσοκομείο. Είναι σημαντικό να θυμόμαστε τους χαμένους και να υποστηρίξουμε τους τραυματίες σε αυτή τη δύσκολη στιγμή.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564047563/dystychima-sti-roymania-thrino-toys-filoys-moy-imastan-san-aderfia-i-martyria-epizonta/",
+        "id": "3ae311520040",
+        "title": "ΗΠΑ: Ο Μπρους Σπρίνγκστιν αποτίει φόρο τιμής στα θύματα στη Μινεάπολη με νέο τραγούδι του [βίντεο]",
+        "simpleTitle": "ΗΠΑ: Ο Μπρους Σπρίνγκστιν αποτίει φόρο τιμής στα θύματα στη Μινεάπολη με νέο τραγούδι του [βίντεο]",
+        "simpleText": "Ο Μπρους Σπρίνγκστιν, ένας πολύ γνωστός μουσικός στην Αμερική, κυκλοφόρησε ένα νέο τραγούδι. Το τραγούδι έχει τίτλο «Streets of Minneapolis» και είναι αφιερωμένο σε ανθρώπους που έχουν χάσει τη ζωή τους στη Μινεάπολη, μια πόλη στις Ηνωμένες Πολιτείες.\n\nΑυτό το τραγούδι έχει σημασία γιατί ο Σπρίνγκστιν συχνά μιλάει για τα προβλήματα στην κοινωνία και τις αδικίες που συμβαίνουν. Με τη μουσική του, προσπαθεί να θυμίσει σε όλους μας τα δύσκολα θέματα που αντιμετωπίζουν κάποιοι άνθρωποι. Είναι μια προσπάθεια να δείξει τη συμπαράστασή του προς τα θύματα και τις οικογένειές τους.\n\nΔεν γνωρίζουμε περισσότερες λεπτομέρειες σχετικά με το τραγούδι ή πότε ακριβώς κυκλοφόρησε. Ωστόσο, η δουλειά του Σπρίνγκστιν έχει πάντα θίξει θέματα που επηρεάζουν την καθημερινή ζωή πολλών ανθρώπων.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/world/564048868/ipa-o-mproys-springkstin-apotiei-foro-timis-sta-thymata-sti-mineapoli-me-neo-tragoydi-toy-vinteo/",
         "sourceDomains": [
           "kathimerini.gr",
-          "tovima.gr"
+          "news.gr"
         ],
         "sources": [
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564047563/dystychima-sti-roymania-thrino-toys-filoys-moy-imastan-san-aderfia-i-martyria-epizonta/"
+            "url": "https://www.kathimerini.gr/world/564048868/ipa-o-mproys-springkstin-apotiei-foro-timis-sta-thymata-sti-mineapoli-me-neo-tragoydi-toy-vinteo/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/28/society/paok-thrino-tous-filous-mou-imastan-san-aderfia-ti-anaferei-epizon-tou-dystyximatos/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4062687/o-brous-springkstin-apotini-foro-timis-sta-thimata-sti-mineapoli-me-neo-tragoudi-tou-streets-of-minneapolis.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Το άρθρο αναφέρεται σε ένα σοβαρό τροχαίο δυστύχημα με ανθρώπινες απώλειες, που αποτελεί σημαντικό κοινωνικό ζήτημα.",
+        "categoryReason": "Το νέο τραγούδι του Μπρους Σπρίνγκστιν αφορά τα θύματα της βίας και κοινωνικών αδικιών, αγγίζοντας σοβαρά θέματα που σχετίζονται με την κοινωνία και προβλήματα δικαιωμάτων.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-28T15:11:51.000Z"
+        "publishedAt": "2026-01-29T06:50:48.000Z"
       },
       {
-        "id": "ee40e3eaac70",
-        "title": "Δυστύχημα στη Ρουμανία: Την Πέμπτη η αεροδιακομιδή των τραυματιών στην Ελλάδα",
-        "simpleTitle": "Δυστύχημα στη Ρουμανία: Την Πέμπτη η αεροδιακομιδή των τραυματιών στην Ελλάδα",
-        "simpleText": "Τίτλος: Την Πέμπτη θα έρθουν στην Ελλάδα οι τραυματίες οπαδοί του ΠΑΟΚ από τη Ρουμανία\n\nΤην Πέμπτη, τρεις οπαδοί του ΠΑΟΚ θα μεταφερθούν στην Ελλάδα με αεροπλάνο του υπουργείου Υγείας. Οι τρεις τραυματίες νοσηλεύονται σε νοσοκομείο της Ρουμανίας μετά από ένα σοβαρό τροχαίο που είχε ως αποτέλεσμα επτά άνθρωποι να χάσουν τη ζωή τους.\n\nΟι τραυματίες είναι 20 και 28 ετών. Ένας από αυτούς έχει σοβαρούς τραυματισμούς, ενώ οι άλλοι δύο έχουν κάταγμα και μικρές αιμορραγίες.\n\nΟ ένας επιζών είπε ότι θυμάται όλα όσα συνέβησαν και αναφέρθηκε στη θλίψη του για τους φίλους του που σκοτώθηκαν. Εξέφρασε την ανάγκη του να είναι κοντά τους και να τους στηρίξει.\n\nΑυτή η αεροδιακομιδή είναι σημαντική, καθώς οι τραυματίες θα λάβουν την απαραίτητη φροντίδα στην Ελλάδα.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/01/28/greece/dystyxima-sti-roumania-tin-pempti-i-aerodiakomidi-ton-traymation-stin-ellada/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/28/greece/dystyxima-sti-roumania-tin-pempti-i-aerodiakomidi-ton-traymation-stin-ellada/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/28/society/paok-tin-pempti-i-aerodiakomidi-ton-traymation-apo-ti-roumania/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρό τροχαίο δυστύχημα με θανάτους και τραυματίες, που σχετίζεται με θέματα υγείας και ασφάλειας.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gca71241640bf637e13fa5bd53edea29fee01a22005774f13cd0c33eebe6a4c8c8c1bee104bbfec9ba83542905020b267157a8e1e040d437b09751292d55343a9_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-28T15:10:34.000Z"
-      },
-      {
-        "id": "ee908fd8aeec",
-        "title": "Αύριο το πρωί η αεροδιακομιδή των τριών τραυματιών, οπαδών του ΠΑΟΚ από τη Ρουμανία",
-        "simpleTitle": "Αύριο το πρωί η αεροδιακομιδή των τριών τραυματιών, οπαδών του ΠΑΟΚ από τη Ρουμανία",
-        "simpleText": "Τίτλος: Αύριο το πρωί θα μεταφερθούν τρεις τραυματίες οπαδοί του ΠΑΟΚ από τη Ρουμανία\n\nΤην Πέμπτη 29 Ιανουαρίου, το πρωί, θα γίνει η αεροδιακομιδή τριών τραυματιών από τη Ρουμανία στην Ελλάδα. Οι τραυματίες είναι δύο νεαροί, 20 χρόνων, και ένας 28χρονος. Ο υπουργός Υγείας Άδωνις Γεωργιάδης ανακοίνωσε πως ένα ειδικά διαμορφωμένο αεροσκάφος του υπουργείου Υγείας θα αναχωρήσει από την αεροπορική βάση της Ελευσίνας.\n\nΟι τρεις άνδρες είναι οπαδοί του ΠΑΟΚ και τραυματίστηκαν σε ένα σοβαρό τροχαίο ατύχημα στη Ρουμανία. Μετά τη μεταφορά τους, θα νοσηλευτούν στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη. Αυτή η μεταφορά είναι σημαντική διότι θα εξασφαλίσει ότι οι τραυματίες θα λάβουν την κατάλληλη ιατρική φροντίδα όσο το δυνατόν πιο γρήγορα.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ayrio-to-proi-i-aerodiakomidi-ton-trion-traymation-opadon-tou-paok-apo-ti-roumania/",
+        "id": "252d0374a021",
+        "title": "Δυστύχημα φιλάθλων ΠΑΟΚ: Επαναπατρίζονται σήμερα οι επτά σοροί και δύο τραυματίες – Ποια τα επικρατέστερα σενάρια για τα αίτια",
+        "simpleTitle": "Δυστύχημα φιλάθλων ΠΑΟΚ: Επαναπατρίζονται σήμερα οι επτά σοροί και δύο τραυματίες – Ποια τα επικρατέστερα σενάρια για τα αίτια",
+        "simpleText": "Σήμερα, στη Θεσσαλονίκη, επιστρέφουν οι σοροί επτά φιλάθλων του ΠΑΟΚ που tragically έχασαν τη ζωή τους σε ένα δυστύχημα στη Ρουμανία. Μαζί τους επιστρέφουν και δύο από τους τρεις τραυματίες, οι οποίοι είναι σε καλύτερη κατάσταση. Ο τρίτος τραυματίας, ωστόσο, χρειάστηκε να υποβληθεί σε χειρουργείο και θα παραμείνει στη Ρουμανία για τη θεραπεία του.\n\nΗ μεταφορά θα γίνει με ειδικά αεροπλάνα από τη Πολεμική Αεροπορία και το ΕΚΑΒ. Οι φίλοι και οι συγγενείς των θυμάτων θα συνόδευσουν τις σορούς με πορεία, εκφράζοντας τον πόνο τους.\n\nΟ Οικουμενικός Πατριάρχης Βαρθολομαίος τίμησε τη μνήμη των θυμάτων, αφήνοντας λουλούδια στο γήπεδο της Τούμπας και απευθύνει λόγια παρηγοριάς στις οικογένειές τους. Οι αιτίες του δυστυχήματος δεν είναι ακόμα γνωστές και οι αρμόδιοι ψάχνουν να βρουν τι πήγε στραβά.\n\nΤο γεγονός αυτό έχει συγκλονίσει την τοπική κοινωνία και όλη τη Βόρεια Ελλάδα, προκαλώντας μεγάλη θλίψη.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-poia-ta-epikratestera-senaria-gia-ta-aitia/",
         "sourceDomains": [
           "ertnews.gr",
-          "news.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ayrio-to-proi-i-aerodiakomidi-ton-trion-traymation-opadon-tou-paok-apo-ti-roumania/"
+            "url": "https://www.ertnews.gr/roi-idiseon/dystyxima-filathlon-paok-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-poia-ta-epikratestera-senaria-gia-ta-aitia/"
           },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/athlhtika/article/4062334/avrio-i-aerodiakomidi-ton-trion-travmation-opadon-tou-paok-apo-ti-roumania.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την αεροδιακομιδή τριών τραυματιών από σοβαρό τροχαίο ατύχημα, που σχετίζεται με ζητήματα υγείας και ασφάλειας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/01/ertnews-20260128161130-aac-h264-microsoft-1080-5000kbps.mp4",
-        "publishedAt": "2026-01-28T15:09:37.000Z"
-      },
-      {
-        "id": "73ca41bcac1d",
-        "title": "Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού ανάγκη για βελτίωση",
-        "simpleTitle": "Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού ανάγκη για βελτίωση",
-        "simpleText": "Τίτλος: Μελέτη ΟΟΣΑ για την Εκπαίδευση στην Ελλάδα: Πού «βλέπει» πρόοδο και πού χρειάζεται βελτίωση\n\nΟ Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης (ΟΟΣΑ) δημοσίευσε μελέτη για την εκπαίδευση στην Ελλάδα. Αυτή δημοσιεύτηκε στις 28 Ιανουαρίου 2026. Η μελέτη σημειώνει ότι η Ελλάδα έχει κάνει σημαντικές αλλαγές στο εκπαιδευτικό σύστημα. Έχει εισάγει αξιολόγηση των σχολικών μονάδων και έχει ενισχύσει τον ρόλο των εκπαιδευτικών με νέες ευθύνες.\n\nΑνάμεσα στα θετικά σημεία αναφέρονται οι επενδύσεις στην ψηφιακή εκπαίδευση, η υποχρεωτική προσχολική εκπαίδευση από την ηλικία των 4 ετών και η επικαιροποίηση των μαθημάτων με έμφαση στην κριτική σκέψη. Επίσης, η διδασκαλία ξένων γλωσσών φαίνεται να συμβάλλει στην ανάπτυξη δεξιοτήτων των μαθητών.\n\nΩστόσο, υπάρχουν και αδυναμίες. Οι επιδόσεις των μαθητών στα μαθηματικά και στην κατανόηση κειμένου είναι χαμηλές, σύμφωνα με εξετάσεις του 2022. Υπάρχουν κοινωνικές και γεωγραφικές ανισότητες που επηρεάζουν τα αποτελέσματα. Η μελέτη προτείνει την ενίσχυση της αυτονομίας των σχολείων και την καλύτερη προσαρμογή τους στις τοπικές ανάγκες.\n\nΗ αναφορά του ΟΟΣΑ είναι σημαντική γιατί δείχνει την πρόοδο και τις προκλήσεις στο ελληνικό εκπαιδευτικό σύστημα, με στόχο τη βελτίωση της ποιότητας και της ισότητας στην εκπαίδευση.",
-        "sourceName": "TA NEA, News.gr",
-        "sourceUrl": "https://www.tanea.gr/2026/01/28/greece/education/meleti-oosa-gia-tin-ekpaideysi-stin-ellada-poy-vlepei-proodo-kai-poy-anagki-gia-veltiosi/",
-        "sourceDomains": [
-          "tanea.gr",
-          "news.gr"
-        ],
-        "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/28/greece/education/meleti-oosa-gia-tin-ekpaideysi-stin-ellada-poy-vlepei-proodo-kai-poy-anagki-gia-veltiosi/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4062319/dimosiopiithike-i-meleti-tou-oosa-gia-tin-ekpedefsi-stin-ellada-pou-vlepi-proodo-ke-pou-anagki-gia-peretero-veltiosi.html"
+            "url": "https://www.tanea.gr/2026/01/29/greece/dystyxima-sti-roumania-epanapatrizontai-simera-oi-epta-soroi-kai-dyo-traymaties-opadoi-tou-paok-ta-epikratestera-senaria-gia-ta-aitia/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η μελέτη του ΟΟΣΑ για την εκπαίδευση στην Ελλάδα αναλύει σοβαρά θέματα σχετικά με την πρόοδο και τις αδυναμίες του εκπαιδευτικού συστήματος, εστιάζοντας σε ζητήματα πολιτικής και κοινωνικής ισότητας.",
+        "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό και τραγικό δυστύχημα που είχε ως αποτέλεσμα τον θάνατο επτά φιλάθλων και έχει μεγάλο κοινωνικό αντίκτυπο, προκαλώντας θλίψη και προβληματισμό στην κοινωνία.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4e5dbecddc5bfb8473293c70f8c562f8536a8dd1f33f838e6b528d0fa3ff1802cfcbe61ced1c160a082707a94e7919dc8fb40579ab8b4d75ce0bc315aaea1632_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-28T14:51:31.000Z"
-      },
-      {
-        "id": "06ebe817ed1c",
-        "title": "Γερμανία: Έρευνα στην Deutsche Bank – Υποψίες ότι «ξέπλενε» χρήμα του Αμπράμοβιτς",
-        "simpleTitle": "Γερμανία: Έρευνα στην Deutsche Bank – Υποψίες ότι «ξέπλενε» χρήμα του Αμπράμοβιτς",
-        "simpleText": "Η Deutsche Bank υπόκειται σε έρευνα στη Γερμανία για πιθανή συμμετοχή σε ξέπλυμα χρημάτων που σχετίζονται με τον Ρώσο ολιγάρχη Ρομάν Αμπράμοβιτς. Η Ομοσπονδιακή Υπηρεσία Κατά του Εγκλήματος (BKA) έκανε εφόδους στα γραφεία της τράπεζας σε Φρανκφούρτη και Βερολίνο.\n\nΗ έρευνα ξεκίνησε επειδή η γερμανική Εισαγγελία Οικονομικού Εγκλήματος είχε αμφιβολίες σχετικά με μια καθυστερημένη αναφορά της τράπεζας για τη δραστηριότητα του Αμπράμοβιτς. Αυτό είναι σημαντικό, γιατί αναδεικνύει πιθανές παρανομίες στον τραπεζικό τομέα και τη διαχείριση χρημάτων που μπορεί να προέρχονται από εγκληματικές δραστηριότητες. Τα αποτελέσματα της έρευνας δεν είναι ακόμη γνωστά.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2026/01/28/world/germania-ereyna-stin-deutsche-bank-ypopsies-oti-kseplene-xrima-tou-ampramovits/",
-        "sourceDomains": [
-          "tovima.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/28/world/germania-ereyna-stin-deutsche-bank-ypopsies-oti-kseplene-xrima-tou-ampramovits/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/germania-erevnoun-ti-sxesi-tou-abramovits-me-tin-deutsche-bank-44343302223"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές νομικές και οικονομικές υποθέσεις, συμπεριλαμβανομένων κατηγοριών για ξέπλυμα χρημάτων και ερευνών από κρατικές αρχές, που επηρεάζουν τον τραπεζικό τομέα και συνδέονται με εγκληματικές δραστηριότητες.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ga1f2e948ca481326be1047dfc8f8590f317cd0f58bcf08bae6df30cc36ab8df89d6d2117a7c33447246bdf49f9e5297e6740b0bc29695a6e19f2ce31919a4e15_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-28T14:31:48.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/01/20260129-SYNDESEIS-TROXAIO3.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2601/20260129-SYNDESEIS-TROXAIO3.jpg",
+        "publishedAt": "2026-01-29T06:41:11.000Z"
       }
     ],
     "happy": [
       {
+        "id": "7c24e95268bf",
+        "title": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
+        "simpleTitle": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
+        "simpleText": "Ο Mesfin Yana είναι ένας άντρας από ένα φτωχό χωριό στην Αιθιοπία. Γεννήθηκε πριν από 41 χρόνια. Στο χωριό του δεν υπήρχε νερό και οι υποδομές ήταν πολύ φτωχές. Όταν ήταν μικρός, αρρώστησε. Μια απλή αρρώστια συνέβαλε στον ρευματικό πυρετό, ο οποίος επηρέασε την καρδιά του και τον έκανε να κινδυνεύει. Ένας γιατρός τον βοήθησε και του έσωσε τη ζωή.\n\nΠερίπου 20 χρόνια μετά, ο Mesfin συνάντησε ξανά τον γιατρό αυτόν. Τώρα, συνεργάζονται και κάνουν χειρουργεία μαζί στην Αιθιοπία. Αυτή η συνεργασία έχει σκοπό να βοηθήσει άλλους ανθρώπους που χρειάζονται ιατρική φροντίδα. Η ιστορία τους δείχνει πόσο σημαντική είναι η καλοσύνη και πώς μπορεί να αλλάξει ζωές.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η ιστορία προβάλλει μια θετική αφήγηση σχετικά με την καλοσύνη και τη βοήθεια, καθώς ο Mesfin και ο γιατρός του συνεργάζονται για να σώσουν άλλες ζωές, δείχνοντας πώς μια ανιδιοτελής πράξη μπορεί να έχει μακροχρόνιο αντίκτυπο.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-29T06:14:00.000Z"
+      },
+      {
+        "id": "0084972830ff",
+        "title": "Γιατί ο Τζέιμς Κάμερον άφησε τις ΗΠΑ και επέλεξε τη Νέα Ζηλανδία",
+        "simpleTitle": "Γιατί ο Τζέιμς Κάμερον άφησε τις ΗΠΑ και επέλεξε τη Νέα Ζηλανδία",
+        "simpleText": "Ο Τζέιμς Κάμερον, γνωστός σκηνοθέτης, αποφάσισε να φύγει από τις Ηνωμένες Πολιτείες και να ζήσει μόνιμα στη Νέα Ζηλανδία. Αυτή η απόφαση έγινε γιατί ήθελε να φροντίσει την ψυχική του υγεία.\n\nΟ Κάμερον αισθάνθηκε απογοητευμένος από την κατάσταση στην Αμερική, ειδικά την περίοδο όταν ήταν πρόεδρος ο Ντόναλντ Τραμπ. Χαρακτήρισε αυτή την περίοδο πολύ δύσκολη, όπως να βλέπεις ένα ατύχημα που συμβαίνει ξανά και ξανά.\n\nΗ επιλογή του να μετακομίσει στη Νέα Ζηλανδία δείχνει ότι θέλει να βρει έναν πιο ήρεμο και θετικό τρόπο ζωής. Αυτό είναι σημαντικό γιατί οι καλλιτέχνες συχνά χρειάζονται ένα περιβάλλον που τους βοηθά να είναι δημιουργικοί και ευτυχισμένοι.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31193-giati-o-james-cameron-metakomise-sti-nea-zilandia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31193-giati-o-james-cameron-metakomise-sti-nea-zilandia/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η απόφαση του Τζέιμς Κάμερον να μετακομίσει στη Νέα Ζηλανδία για την ψυχική του υγεία αποτυπώνει μια θετική αλλαγή στη ζωή του και την επιθυμία του για έναν πιο ήρεμο τρόπο ζωής.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-28T18:22:00.000Z"
+      },
+      {
         "id": "d25034d63b2a",
         "title": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
         "simpleTitle": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
-        "simpleText": "Μια αγελάδα από την Αυστρία αλλάζει όσα πιστεύαμε για την ευφυΐα των ζώων. Η Βερόνικα είναι μια ηλικιωμένη αγελάδα που έχει καταγραφεί επιστημονικά να χρησιμοποιεί εργαλεία. Αυτό συμβαίνει στην καθημερινότητά της, όχι σε κάποιο εργαστήριο. Ζει σε ένα αγρόκτημα, όπου την θεωρούν μέλος της οικογένειας και όχι απλά παραγωγικό ζώο. Η ανακάλυψη αυτή μας δείχνει ότι τα ζώα μπορεί να είναι πιο έξυπνα από ό,τι νομίζαμε μέχρι τώρα.",
+        "simpleText": "Μία αγελάδα στη Αυστρία, που ονομάζεται Βερόνικα, έχει γίνει διάσημη γιατί απέδειξε ότι τα ζώα μπορούν να είναι πιο έξυπνα από ό,τι νομίζαμε. Είναι μία ηλικιωμένη καφέ αγελάδα που ζει σε ένα αγρόκτημα μαζί με ανθρώπους. Εκεί, η Βερόνικα χρησιμοποιεί εργαλεία με τρόπο που δείχνει ότι καταλαβαίνει πώς να τα χειρίζεται.\n\nΑυτό δεν συνέβη σε κάποιο επιστημονικό εργαστήριο αλλά στην καθημερινότητά της, όπου δεν είναι μόνο ένα ζώο που παράγει γάλα, αλλά είναι μέλος της οικογένειας που την φροντίζει.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί αλλάζει την αντίληψή μας για την ευφυΐα των ζώων. Μάθαμε ότι τα ζώα μπορούν να είναι πιο ικανά από ό,τι πιστεύαμε μέχρι τώρα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/",
         "sourceDomains": [
@@ -770,7 +841,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία της αγελάδας Βερόνικα αναδεικνύει την επιτυχία και την εκπληκτική νοημοσύνη των ζώων, προσφέροντας μια θετική και ελπιδοφόρα προοπτική που αλλάζει τη στάση μας απέναντι σε αυτά.",
+        "categoryReason": "Η ιστορία της Βερόνικας, της αγελάδας που αποδεικνύει τη νοημοσύνη των ζώων, είναι θετική και ανατρεπτική, προάγοντας την ιδέα ότι τα ζώα μπορούν να είναι πιο έξυπνα απ' ό,τι νομίζουμε.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -780,7 +851,7 @@
         "id": "9ea00fe6aeb5",
         "title": "Μια οικογένεια δωρίζει το χωράφι της στην πόλη και το μετατρέπει σε κοινό οπωρώνα",
         "simpleTitle": "Μια οικογένεια δωρίζει το χωράφι της στην πόλη και το μετατρέπει σε κοινό οπωρώνα",
-        "simpleText": "Μία οικογένεια αποφάσισε να δωρίσει το χωράφι της στην πόλη και να το μετατρέψει σε κοινό οπωρώνα. Το χωράφι ήταν κληρονομιά και είχε συνδεθεί με αναμνήσεις από το παρελθόν. Κανείς δεν το χρησιμοποιούσε πια και δεν είχε νόημα να κρατιέται. Οι οικογένεια Éprinchard σκέφτηκε ότι είναι καλύτερο να το προσφέρει σε όλους, έτσι ώστε να δημιουργηθεί ένας χώρος που μπορεί να ωφελήσει την τοπική κοινότητα. Αυτή η απόφαση είναι σημαντική γιατί δείχνει πώς κάτι που δεν χρησιμοποιείται πια μπορεί να μετατραπεί σε χώρο για όλους τους κατοίκους.",
+        "simpleText": "Μια οικογένεια αποφάσισε να δωρίσει το χωράφι της στην πόλη για να γίνει κοινός οπωρώνας. Το χωράφι ήταν ξεχασμένο για πολλά χρόνια. Κανείς δεν το φρόντιζε ούτε το χρησιμοποιούσε. Η οικογένεια Éprinchard σκέφτηκε ότι το χωράφι μπορεί να είναι πιο χρήσιμο αν προσφέρει καρπούς σε όλους.\n\nΑυτή η απόφαση είναι σημαντική. Ο κοινός οπωρώνας θα δώσει τη δυνατότητα στους ανθρώπους να μαζεύουν φρούτα και λαχανικά, να περνούν χρόνο στη φύση και να μοιράζονται όμορφες στιγμές. Είναι μια ευκαιρία να δημιουργηθεί κάτι καλό για την κοινότητα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31214-oikogeneia-dorizei-xorafi-stin-poli-gia-koinotiko-oporona/",
         "sourceDomains": [
@@ -793,7 +864,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά μια θετική και ενθουσιαστική απόφαση που ωφελεί την τοπική κοινότητα, δημιουργώντας έναν κοινό οπωρώνα από ένα χωράφι που δεν χρησιμοποιούνταν πια.",
+        "categoryReason": "Η είδηση αφορά μια θετική και χαρούμενη πρωτοβουλία της οικογένειας να δωρίσει το χωράφι τους για το κοινό καλό, δημιουργώντας έναν οπωρώνα που θα ωφελήσει την τοπική κοινότητα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -803,7 +874,7 @@
         "id": "b2fb8ae14cf8",
         "title": "Ένα 10χρονο παιδί μαζεύει 1600 βιβλία για να αλλάξει ζωές",
         "simpleTitle": "Ένα 10χρονο παιδί μαζεύει 1600 βιβλία για να αλλάξει ζωές",
-        "simpleText": "Μια 10χρονη, η Aarvi Vakharia, μαζεύει 1600 βιβλία για να αλλάξει τις ζωές άλλων παιδιών. Για αυτήν, το διάβασμα είναι πολύ σημαντικό. Της αρέσει να μαθαίνει και να ονειρεύεται μέσα από τα βιβλία.\n\nΗ Aarvi προέρχεται από μια οικογένεια που αγαπά τα βιβλία. Οι γονείς της είναι εθελοντές σε έναν οργανισμό που δίνει βιβλία σε παιδιά που δεν έχουν πρόσβαση στη γνώση. Αυτό την ενέπνευσε να κάνει κάτι καλό για άλλα παιδιά. Η προσπάθειά της δείχνει πώς τα βιβλία μπορούν να προσφέρουν ελπίδα και ευκαιρίες. Είναι σημαντικό γιατί ενθαρρύνει και άλλους να βοηθούν.",
+        "simpleText": "Ένα 10χρονο κορίτσι, η Aarvi Vakharia, μαζεύει βιβλία για να βοηθήσει άλλα παιδιά. Αυτή τη στιγμή, έχει συγκεντρώσει 1600 βιβλία. Για την Aarvi, το διάβασμα είναι πολύ σημαντικό. Χρησιμοποιεί τα βιβλία για να μαθαίνει και να ονειρεύεται.\n\nΗ Aarvi ζει σε μια οικογένεια που αγαπά τα βιβλία. Οι γονείς της είναι εθελοντές σε έναν οργανισμό. Οι εθελοντές βοηθούν παιδιά που δεν έχουν πρόσβαση σε πολλά βιβλία. Αυτό επηρεάζει την Aarvi και την κάνει να θέλει να προσφέρει και εκείνη.\n\nΗ προσπάθειά της είναι σημαντική γιατί τα βιβλία μπορούν να αλλάξουν τις ζωές των παιδιών. Μέσω των βιβλίων, τα παιδιά μπορούν να μάθουν νέα πράγματα και να ταξιδέψουν σε διαφορετικούς κόσμους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31219-ena-10xrono-paidi-apodeiknyei-oti-ta-vivlia-mporoun-na-allaxoun-zoes/",
         "sourceDomains": [
@@ -816,68 +887,101 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία της Aarvi Vakharia είναι θετική και εμπνευσμένη, καθώς δείχνει πώς ένα 10χρονο παιδί μπορεί να αλλάξει ζωές με την αγάπη του για τα βιβλία και την επιθυμία του να βοηθήσει τους άλλους. Αυτή η πρωτοβουλία ενθαρρύνει τη φιλαναγνωσία και τη συνεισφορά στην κοινωνία, προάγοντας ένα χαρούμενο μήνυμα.",
+        "categoryReason": "Η ιστορία του 10χρονου κοριτσιού που μαζεύει βιβλία για να βοηθήσει άλλα παιδιά είναι θετική και εμπνέει, δείχνοντας τη δύναμη της προσφοράς και της αγάπης για το διάβασμα.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gba5f80ec65feddc647f7d041638ec9b8e5cc04ee500943f87da4babff9f7cad42042b6f10afbbe2f76ddef7bfcdfcc78a233ea576c95b6d3b20f724cf7d37e18_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g0dc73b5adb6266737a03a14a0773b7fc6e4d746416994c3e1a60ec35bbb27f777bf38f7ab89315e0c42572ebcbdafe012900d81113a42d77630cb6f810905b6d_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-01-26T09:16:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "ce977dd4aa94",
-        "title": "Αθλήτρια στο FORMULA KITE στοχεύει στο ψηλότερο βάθρο",
-        "simpleTitle": "Αθλήτρια στο FORMULA KITE στοχεύει στο ψηλότερο βάθρο",
-        "simpleText": "Μία νεαρή αθλήτρια της ιστιοπλοΐας στο Formula Kite, η Αργυρώ Κρότση από την Πάτρα, στοχεύει σε μεγάλες επιτυχίες. Είναι μόλις 16 ετών και έχει ήδη κερδίσει την 6η θέση στο Παγκόσμιο Πρωτάθλημα Νέων, που πραγματοποιήθηκε στην Πορτογαλία από τις 12 έως τις 20 Δεκεμβρίου 2025.\n\nΗ Αργυρώ άρχισε να ασχολείται με το άθλημα σε ηλικία 13 ετών και έχει μεγάλο πάθος γι’ αυτό. Αναφέρει ότι της αρέσει να «πετάει» πάνω στα κύματα και ενθαρρύνει τους άλλους να το δοκιμάσουν. Δηλώνει ότι στηρίζεται πολύ από την οικογένειά της, αλλά θα ήθελε περισσότερη υποστήριξη από τις επίσημες αρχές.\n\nΣτον αγώνα στην Πορτογαλία συμμετείχαν πάνω από 400 αθλητές από 70 χώρες, ηλικίας 12 έως 18 ετών. Η παρουσία της Αργυρούς εντυπωσίασε και υπάρχουν προσδοκίες ότι θα διακριθεί και στους Ολυμπιακούς Αγώνες του 2028 στο Λος Άντζελες.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/ert3/athlitria-sto-formula-kite-stoxeyei-sto-psilotero-vathro/",
-        "sourceDomains": [
-          "ertnews.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/athlitria-sto-formula-kite-stoxeyei-sto-psilotero-vathro/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά μια νεαρή αθλήτρια του Formula Kite, εστιάζει στις επιδόσεις της σε διεθνείς αγώνες και τους στόχους της για το μέλλον, που συνδέονται με τον αθλητισμό. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gad8313c969ac4aad36ddb2bc00ceff11c58fdb98924c569a341df61bfbabc8de9c878c524f9b2f38b5c25dc26e9b7e49026e0ec4a2da8ce6a588ab27e1268144_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/01/28-12-16-formula-kite.mp4&bgimg=https://www.ertnews.gr/wp-content/uploads/2026/01/28-12-16-formula-kite_2.jpg",
-        "publishedAt": "2026-01-28T14:07:34.000Z"
-      },
-      {
-        "id": "4a3cfc6c5296",
-        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Σημαιοφόρος ο Αλέξανδρος Γκιννής",
-        "simpleTitle": "Χειμερινοί Ολυμπιακοί Αγώνες: Σημαιοφόρος ο Αλέξανδρος Γκιννής",
-        "simpleText": "Η Ελλάδα θα συμμετάσχει στους Χειμερινούς Ολυμπιακούς Αγώνες με πέντε αθλητές. Ο Αλέξανδρος Γκιννής θα είναι ο σημαιοφόρος της ελληνικής ομάδας, που σημαίνει ότι θα κρατήσει τη σημαία της χώρας στην τελετή έναρξης. Αυτό είναι σημαντικό γιατί δείχνει υπερηφάνεια και στήριξη για τους αθλητές. Οι Χειμερινοί Ολυμπιακοί Αγώνες θα διεξαχθούν σε μια συγκεκριμένη ημερομηνία και τοποθεσία που δεν έχουν γνωστοποιηθεί ακόμη.",
+        "id": "eb6add2c377d",
+        "title": "Ο αλύγιστος Ολυμπιακός συνεχίζει να ονειρεύεται στο Champions League",
+        "simpleTitle": "Ο αλύγιστος Ολυμπιακός συνεχίζει να ονειρεύεται στο Champions League",
+        "simpleText": "Ο τίτλος μας λέει ότι ο Ολυμπιακός, μια γνωστή ελληνική ποδοσφαιρική ομάδα, συνεχίζει να έχει όνειρα στο Champions League. Αυτό είναι ένα πολύ σημαντικό τουρνουά ποδοσφαίρου, όπου συμμετέχουν οι καλύτερες ομάδες από όλη την Ευρώπη.\n\nΣύμφωνα με την είδηση, ο Ολυμπιακός πέρασε δύσκολες στιγμές. Συγκεκριμένα, κατά τη διάρκεια μίας φάσης του τουρνουά, φαινόταν ότι η ομάδα μπορεί να αποκλειστεί, δηλαδή να μην έχει συνέχεια στο Champions League. Ωστόσο, ο προπονητής Μεντιλίμπαρ και οι παίκτες του έδειξαν μεγάλη δύναμη και κατάφεραν να ξεπεράσουν τις δυσκολίες.\n\nΑυτή η επιτυχία είναι σημαντική, γιατί δείχνει την αποφασιστικότητα και την ικανότητα της ομάδας να αντιμετωπίζει προκλήσεις. Οι φίλαθλοι του Ολυμπιακού ελπίζουν ότι η ομάδα θα συνεχίσει να τα πηγαίνει καλά και θα έχει καλή πορεία στο τουρνουά.",
         "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/01/28/sports/xeimerinoi-olympiakoi-agones-simaioforos-o-aleksandros-gkinnis/",
+        "sourceUrl": "https://www.tovima.gr/2026/01/29/sports/o-alygistos-olympiakos-synexizei-na-oneireyetai-sto-champions-league/",
         "sourceDomains": [
           "tovima.gr"
         ],
         "sources": [
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/28/sports/xeimerinoi-olympiakoi-agones-simaioforos-o-aleksandros-gkinnis/"
+            "url": "https://www.tovima.gr/2026/01/29/sports/o-alygistos-olympiakos-synexizei-na-oneireyetai-sto-champions-league/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη συμμετοχή της Ελλάδας στους Χειμερινούς Ολυμπιακούς Αγώνες και τον διορισμό του Αλέξανδρου Γκιννή ως σημαιοφόρου, γεγονός που σχετίζεται άμεσα με τα αθλητικά δρώμενα. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρεται στην πορεία της ποδοσφαιρικής ομάδας Ολυμπιακός στο Champions League, που είναι θέμα αθλητικών διοργανώσεων και αγώνων. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/g7330cfa9624aee548a7e0b41a952d4077ab547ba15c3ed85fe59aa565f5d42acf6ac46c7ad1a6b896d99971a5e5d341f541a13f68db59f722d593fdc47c40e33_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-01-28T13:39:51.000Z"
+        "publishedAt": "2026-01-29T06:13:26.000Z"
+      },
+      {
+        "id": "0891111ba0fe",
+        "title": "Champions League: Με Λεβερκούζεν ή Αταλάντα ο Ολυμπιακός στον δρόμο για τους «16»",
+        "simpleTitle": "Champions League: Με Λεβερκούζεν ή Αταλάντα ο Ολυμπιακός στον δρόμο για τους «16»",
+        "simpleText": "Ο Ολυμπιακός θα παίξει με μια από δύο ομάδες, τη Λεβερκούζεν ή την Αταλάντα, για να μπορέσει να μπει στους «16» του Champions League. Αυτή η φάση είναι πολύ σημαντική, γιατί οι καλύτερες ομάδες της Ευρώπης αγωνίζονται για να συνεχίσουν τη διοργάνωση.\n\nΑυτή η είδηση προέρχεται από μια πρόσφατη νίκη του Ολυμπιακού. Η ομάδα πήγε στο Αμστερνταμ και κέρδισε τον Αγιαξ με σκορ 2-1. Αυτή η νίκη τους βοήθησε να πάρουν θέση στη 18η θέση της βαθμολογίας στην αρχή της διοργάνωσης. Τώρα, μπορούν να ονειρεύονται να πάνε πιο μακριά στο τουρνουά.\n\nΗ αναμέτρηση με τη Λεβερκούζεν ή την Αταλάντα είναι κρίσιμη. Αν τα καταφέρει ο Ολυμπιακός, θα προχωρήσει στην επόμενη φάση. Αυτό είναι σημαντικό για την ομάδα, τους φιλάθλους και για το ελληνικό ποδόσφαιρο γενικότερα.",
+        "sourceName": "News.gr, Protagon",
+        "sourceUrl": "https://www.news.gr/athlhtika/article/4062618/champions-league-me-leverkouzen-i-atalanta-o-olimpiakos-ston-dromo-gia-tous-16.html",
+        "sourceDomains": [
+          "news.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/athlhtika/article/4062618/champions-league-me-leverkouzen-i-atalanta-o-olimpiakos-ston-dromo-gia-tous-16.html"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/me-leverkouzen-i-atalanta-o-olybiakos-stin-epomeni-fasi-tou-champions-league-44343302453"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αφορά τον Ολυμπιακό, μια αθλητική ομάδα, και την πορεία της στο Champions League, που είναι σημαντική για την κατηγορία των σπορ.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g8ea7ec7c1b63a097db9319864ba8d8404dad67b48d5b8b8c2d416ddf22692080f3fdfd8e955d0cbdf9f26f75e73c8e88f672dfae747d16775b7785cc493dee3f_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-29T05:56:57.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
+        "id": "26c8f834e330",
+        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 29 Ιανουαρίου",
+        "simpleTitle": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 29 Ιανουαρίου",
+        "simpleText": "Σήμερα, 29 Ιανουαρίου, γιορτάζει ο Άγιος Βαρσιμαίος. Είναι μια σημαντική ημέρα για όσους φέρουν τα ονόματα: Βαρσιμαίος, Βαρσάμης, Βαρσαμία, Βαρσάμω, Βαλσάμω και Βαλσαμία.\n\nΟ Άγιος Βαρσιμαίος ήταν ιερομάρτυρας, δηλαδή ένας άνθρωπος που πίστευε πολύ και υπέφερε για την πίστη του. Εδώ και πολλά χρόνια, δίδαξε και βάπτισε τον Άγιο Σάρβηλο και την αδελφή του, την Αγία Βεβαία. Ο ηγεμόνας Λυσίας ανακάλυψε ότι ο Άγιος Βαρσιμαίος έλεγε την πίστη του δημόσια. Αυτό του κόστισε πολύ, καθώς ο ηγεμόνας διέταξε να τον χτυπήσουν και να τον φυλακίσουν.\n\nΜετά από ένα διάστημα, οι διωγμοί σταμάτησαν, και ο Άγιος ελευθερώθηκε. Επέστρεψε στην Εκκλησία, ευλογώντας τον Θεό. Τελικά, έζησε μια καλή ζωή και πέθανε ειρηνικά το 114 μ.Χ.\n\nΑυτή η γιορτή είναι σημαντική γιατί τιμά την πίστη και την αντοχή του Αγίου Βαρσιμαίου, αλλά και όλους όσους γιορτάζουν σήμερα.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-29-ianouariou-2/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-29-ianouariou-2/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/01/29/greece/eortologio-poioi-giortazoun-simera-29-ianouariou/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά την εορτή του Αγίου Βαρσιμαίου, που σχετίζεται με θρησκευτικές παραδόσεις και ιστορία, στοιχεία που ανήκουν στον πολιτιστικό τομέα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-29T05:05:44.000Z"
+      },
+      {
         "id": "b4236cbc3dc8",
         "title": "Αρχαιολογική ανακάλυψη στην Κίνα αποκαλύπτει έναν ξανθό «ξένο» σε τάφο της δυναστείας Τανγκ",
         "simpleTitle": "Αρχαιολογική ανακάλυψη στην Κίνα αποκαλύπτει έναν ξανθό «ξένο» σε τάφο της δυναστείας Τανγκ",
-        "simpleText": "Τίτλος: Ανακάλυψη τάφου στην Κίνα εντυπωσιάζει με ξανθό άνδρα\n\nΜια ενδιαφέρουσα αρχαιολογική ανακάλυψη έγινε στην Κίνα. Βρήκαν έναν όμορφα διακοσμημένο τάφο που μας δίνει πληροφορίες για την καθημερινή ζωή της δυναστείας Τανγκ. Ο τάφος περιέχει την εικόνα ενός ξανθού άνδρα, κάτι που προκαλεί την περιέργεια.\n\nΗ ανακάλυψη έγινε το 2018, όταν γίνονταν έργα σε ένα δρόμο στην πόλη της επαρχίας Σανσί. Αν και οι αρχαιολόγοι γνώριζαν τον τάφο, οι λεπτομέρειες έγιναν γνωστές μόλις πρόσφατα. Αυτή η ανακάλυψη είναι σημαντική γιατί δείχνει την πολιτισμική ποικιλία εκείνης της εποχής.",
+        "simpleText": "Στην Κίνα, έγινε μια σημαντική ανακάλυψη. Οι αρχαιολόγοι βρήκαν έναν πανέμορφα διακοσμημένο τάφο από τη δυναστεία Τανγκ, που υπήρξε περίπου 1.300 χρόνια πριν. Ο τάφος βρέθηκε το 2018, όταν κάποιοι εργάζονταν για να φτιάξουν ένα δρόμο κοντά σε ένα λόφο στην πρωτεύουσα της επαρχίας Σανσί.\n\nΜέσα στον τάφο, οι επιστήμονες βρήκαν τοιχογραφίες που δείχνουν καθημερινές σκηνές από τη ζωή τότε. Ένα από τα πιο περίεργα στοιχεία είναι η εικόνα ενός ξανθού άνδρα. Αυτό είναι σπάνιο, γιατί οι άνθρωποι εκείνη την εποχή στην Κίνα συνήθως δεν είχαν ξανθά μαλλιά.\n\nΑυτή η ανακάλυψη είναι σημαντική γιατί μας δίνει πληροφορίες για το πώς ζούσαν οι άνθρωποι τη δεδομένη εποχή και δείχνει ότι είχαν επαφές με ανθρώπους από άλλες χώρες. Οι λεπτομέρειες για τον τάφο είχαν κρατηθεί κρυφές μέχρι τώρα, αλλά τώρα οι επιστήμονες τις μοιράζονται με όλους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31262-archaiologiki-anakalypsi-kina-xanthos-taphos-tang/",
         "sourceDomains": [
@@ -890,60 +994,13 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια αρχαιολογική ανακάλυψη που προσφέρει πληροφορίες για την πολιτιστική και κοινωνική ζωή της δυναστείας Τανγκ, επομένως εντάσσεται καλύτερα στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Η είδηση αφορά μια σημαντική αρχαιολογική ανακάλυψη που αποκαλύπτει πληροφορίες για την καθημερινή ζωή κατά τη διάρκεια της δυναστείας Τανγκ, κάτι που σχετίζεται με την ιστορία και τον πολιτισμό.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-01-26T13:22:00.000Z"
       }
     ],
-    "fun": [
-      {
-        "id": "29e8bd2720d6",
-        "title": "Τι συμβαίνει πραγματικά αν βουρτσίσουμε τα δόντια μας με το αδύναμο χέρι μας;",
-        "simpleTitle": "Τι συμβαίνει πραγματικά αν βουρτσίσουμε τα δόντια μας με το αδύναμο χέρι μας;",
-        "simpleText": "Τίτλος: Τι συμβαίνει αν βουρτσίσουμε τα δόντια μας με το χέρι που δεν χρησιμοποιούμε συνήθως;\n\nΜια απλή αλλαγή μπορεί να έχει ενδιαφέροντα αποτελέσματα. Αν βουρτσίσουμε τα δόντια μας με το χέρι που δεν είναι το κυρίως μας χέρι, αυτό μπορεί να βάλει τον εγκέφαλό μας σε μια διαφορετική διαδικασία σκέψης. Νευροεπιστήμονες και ψυχολόγοι έχουν εξετάσει αυτή τη συνήθεια και αναφέρουν ότι ο εγκέφαλος δεν λειτουργεί πια με τον αυτόματο τρόπο.\n\nΑυτή η μικρή πρόκληση βοηθάει το μυαλό να ενεργοποιηθεί και να γίνει πιο σε εγρήγορση. Είναι σημαντικό να γνωρίζουμε ότι τέτοιες αλλαγές στη ρουτίνα μας μπορεί να βοηθήσουν στη βελτίωση της νοητικής λειτουργίας και στην ενίσχυση της ικανότητας του εγκεφάλου μας. Ωστόσο, δεν φαίνεται να υπάρχουν άλλες λεπτομέρειες σχετικά με τα οφέλη ή τις επιπτώσεις αυτής της συνήθειας.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31310-vourtsisma-adinamo-xeri-ti-simvainei/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31310-vourtsisma-adinamo-xeri-ti-simvainei/"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση αναφέρεται σε μια απλή και διασκεδαστική δραστηριότητα που μπορεί να έχει ενδιαφέροντα αποτελέσματα, προάγοντας τη διασκέδαση και την περιέργεια του αναγνώστη.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-27T14:55:39.000Z"
-      },
-      {
-        "id": "b50d5afeb4a3",
-        "title": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
-        "simpleTitle": "Παράτολμος άνδρας σκαρφάλωσε ουρανοξύστη 101 ορόφων",
-        "simpleText": "Ένας άνδρας σκαρφάλωσε έναν πολύ ψηλό ουρανοξύστη, το Taipei 101, στην Ταϊβάν. Ονομάζεται Alex Honnold και είναι γνωστός για τις τολμηρές του πράξεις. Το Taipei 101 είναι 508 μέτρα ψηλό και έχει 101 ορόφους.\n\nΑυτό που είναι σημαντικό είναι ότι σκαρφάλωσε το κτίριο χωρίς κανένα μέτρο ασφαλείας. Αυτό δημιούργησε μεγάλη αγωνία και θαυμασμό σε πολλούς που τον παρακολουθούσαν. Οι πράξεις του δείχνουν ότι τα ανθρώπινα όρια συχνά εξαρτώνται από την επιλογή και την απόφαση του καθενός.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31267-andras-paratolmo-skarfalose-ouranoxisti-taipei-101/"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση αναφέρεται σε μια τολμηρή και εντυπωσιακή πράξη του Alex Honnold, η οποία, ενώ έχει στοιχεία θαυμασμού και ανατροπής, συνδέεται περισσότερο με τη διασκέδαση και τον ενθουσιασμό από τη θέαση μιας παράτολμης σκαρφαλωτής και όχι με σοβαρά θέματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-26T05:41:00.000Z"
-      }
-    ]
+    "fun": []
   }
 }
