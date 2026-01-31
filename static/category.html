@@ -411,18 +411,13 @@
 
       async function init() {
         try {
-          if (category === "all") {
-            const newsData = await loadJson("./news.json");
-            const all = Array.isArray(newsData.articles) ? newsData.articles : [];
-            // Grid 2 στήλες, χωρίς πηγές, χωρίς κείμενο preview
-            renderNewsArticles(all, { layout: "grid", showText: false });
-          } else {
-            const newsData = await loadJson("./news.json");
-            const byCategory = newsData.articlesByCategory || {};
-            const articles = byCategory[category] || [];
-            // Λίστα όπως πριν, αλλά χωρίς εμφάνιση πηγών (κρατάμε ημερομηνία/ώρα)
-            renderNewsArticles(articles, { layout: "list", showText: true });
-          }
+          const newsData = await loadJson("./news.json");
+          const all = Array.isArray(newsData.articles) ? newsData.articles : [];
+          const byCategory = newsData.articlesByCategory || {};
+          const articles = category === "all" ? all : byCategory[category] || [];
+
+          // Όλες οι κατηγορίες: grid με εικόνα + τίτλο (χωρίς preview κειμένου)
+          renderNewsArticles(articles, { layout: "grid", showText: false });
         } catch (err) {
           console.error(err);
           document.getElementById("content").innerHTML =
