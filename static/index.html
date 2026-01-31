@@ -69,46 +69,6 @@
       color: var(--text-main);
     }
 
-    /* ===== Weather widget ===== */
-    .weather-card {
-      border-radius: 18px;
-      border: 1px solid var(--card-border);
-      background: var(--card-bg);
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.28);
-      color: var(--text-main);
-    }
-
-    /* Το widget είναι clickable -> χεράκι */
-    #weather-widget {
-      cursor: pointer;
-    }
-
-    .weather-icon {
-      font-size: 2.6rem;
-      line-height: 1;
-    }
-
-    .weather-title {
-      font-size: 1.1rem;
-      font-weight: 700;
-      margin-bottom: 0.15rem;
-    }
-
-    .weather-text-main {
-      font-size: 1rem;
-    }
-
-    .weather-text-sub {
-      font-size: 0.95rem;
-      color: var(--text-muted);
-      margin-top: 0.15rem;
-    }
-
-    .weather-location {
-      font-size: 0.9rem;
-      color: var(--text-muted);
-    }
-
     /* ===== Πλέγμα κατηγοριών ===== */
     .category-grid {
       display: grid;
@@ -218,72 +178,6 @@
       }
     }
 
-    /* ===== Modal καιρού ===== */
-    .weather-modal {
-      position: fixed;
-      inset: 0;
-      display: none;
-      z-index: 1050;
-    }
-
-    .weather-modal.is-visible {
-      display: block;
-    }
-
-    .weather-modal-backdrop {
-      position: absolute;
-      inset: 0;
-      background: rgba(15, 23, 42, 0.6);
-    }
-
-    .weather-modal-content {
-      position: relative;
-      max-width: 420px;
-      margin: 10vh auto;
-      background: #0f172a;
-      color: #e5e7eb;
-      padding: 1.5rem 1.5rem 1.25rem;
-      border-radius: 1rem;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
-    }
-
-    .weather-modal-title {
-      font-size: 1.1rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .weather-modal-body p {
-      margin: 0.25rem 0;
-    }
-
-    .weather-modal-close {
-      position: absolute;
-      top: 0.5rem;
-      right: 0.75rem;
-      background: transparent;
-      border: none;
-      color: #9ca3af;
-      cursor: pointer;
-      font-size: 1rem;
-    }
-
-    .weather-modal-list {
-      padding-left: 1.2rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .weather-modal-bullet-label {
-      font-weight: 600;
-      margin-right: 0.25rem;
-    }
-
-    .weather-modal-bullet-series {
-      letter-spacing: 0.1em;
-    }
-
-    .weather-modal-extra p {
-      font-size: 0.9rem;
-    }
   </style>
 </head>
 <body>
@@ -301,30 +195,6 @@
 
   <!-- Περιεχόμενο -->
   <main class="container mb-5">
-
-    <!-- 🔆 WEATHER WIDGET -->
-    <section class="mb-4">
-      <div id="weather-widget" class="card weather-card">
-        <div class="card-body">
-          <div class="d-flex justify-content-between align-items-start mb-2">
-            <!-- Εικονίδιο πάνω αριστερά -->
-            <div id="weather-icon" class="weather-icon">⛅</div>
-            <!-- Τοποθεσία πάνω δεξιά -->
-            <div id="weather-location" class="weather-location text-end">
-              📍 Φόρτωση τοποθεσίας…
-            </div>
-          </div>
-          <div class="flex-grow-1">
-            <div class="weather-title">Ο καιρός σήμερα στην περιοχή σου</div>
-            <div id="weather-text" class="weather-text-main">
-              Φορτώνω τον καιρό…
-            </div>
-            <div id="weather-subtext" class="weather-text-sub"></div>
-            <div id="weather-advice" class="weather-text-sub"></div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- ΜΕΝΟΥ ΚΑΤΗΓΟΡΙΩΝ -->
     <section class="mb-4 text-center">
@@ -502,30 +372,7 @@
     </div>
   </footer>
 
-  <!-- Modal καιρού -->
-  <div id="weather-modal" class="weather-modal">
-    <div class="weather-modal-backdrop"></div>
-    <div class="weather-modal-content">
-      <button
-        type="button"
-        class="weather-modal-close"
-        data-weather-modal-close
-        aria-label="Κλείσιμο"
-      >
-        ✖
-      </button>
-      <h2 id="weather-modal-title" class="weather-modal-title">
-        Καιρός σήμερα
-      </h2>
-      <div id="weather-modal-body" class="weather-modal-body">
-        <!-- Το JS γεμίζει εδώ την πρόγνωση -->
-      </div>
-    </div>
-  </div>
-
   <!-- JS αρχεία -->
-  <script src="weather-modal.js"></script>
-  <script src="weather-widget.js"></script>
   <script>
     function setupSiteTitleReload() {
       const titleEl = document.querySelector(".site-title");
@@ -539,12 +386,6 @@
 
     document.addEventListener("DOMContentLoaded", () => {
       setupSiteTitleReload();
-      if (window.initWeatherModal) {
-        window.initWeatherModal();
-      }
-      if (window.initWeatherWidget) {
-        window.initWeatherWidget();
-      }
     });
   </script>
 </body>
