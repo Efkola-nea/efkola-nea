@@ -11,6 +11,13 @@ import {
   extractHostname,
 } from "./llm/textUtils.js";
 
+if (process.env.ENABLE_DIGESTS !== "true") {
+  console.log(
+    "ℹ️ Τα serious digests είναι απενεργοποιημένα. Χρησιμοποίησε το news.json ανά κατηγορία."
+  );
+  process.exit(0);
+}
+
 // Paths
 const NEWS_PATH = new URL("./static/news.json", import.meta.url);
 const SERIOUS_DIGEST_PATH = new URL("./serious-digest.json", import.meta.url);
@@ -453,4 +460,3 @@ main().catch((err) => {
   console.error("❌ Σφάλμα στο generate-serious-digest:", err);
   process.exit(1);
 });
-

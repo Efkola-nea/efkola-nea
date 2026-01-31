@@ -283,7 +283,6 @@
     const pageParams = new URLSearchParams(window.location.search);
     const sourceParam = pageParams.get("source") || "news";
     const idParam = pageParams.get("id");
-    const topicParam = pageParams.get("topic");
     const categoryParam = pageParams.get("category");
 
     function escapeHtml(str) {
@@ -412,34 +411,6 @@
     }
 
     /* ---------- Background helpers ---------- */
-
-    // σοβαρές (digest) ανά topic
-    function seriousBackgroundForTopic(topic) {
-      switch (topic) {
-        case "politics_economy":
-          return "images/serious/politics.png";
-        case "social":
-          return "images/serious/social.png";
-        case "world":
-          return "images/serious/world.png";
-        default:
-          return null;
-      }
-    }
-
-    function setSeriousBackground(topic) {
-      const bgEl = document.getElementById("article-bg");
-      if (!bgEl) return;
-      const url = seriousBackgroundForTopic(topic);
-      if (!url) {
-        bgEl.style.display = "none";
-        bgEl.style.backgroundImage = "";
-        return;
-      }
-      bgEl.style.backgroundImage = "url('" + url + "')";
-      bgEl.style.display = "block";
-    }
-
     // lifestyle & απλές κατηγορίες ανά category
     function lifestyleBackgroundForCategory(category) {
       switch (category) {
@@ -790,222 +761,6 @@
       }
     }
 
-    async function loadSeriousArticle({
-      idParam,
-      topicParam,
-      titleEl,
-      bodyEl,
-      sourceEl,
-      imageWrapper,
-      imageEl,
-      listenBtn,
-    }) {
-      try {
-        const digestRes = await fetch("serious-digest.json?cachebust=" + Date.now());
-        if (!digestRes.ok) {
-          throw new Error("HTTP " + digestRes.status);
-        }
-        const digestData = await digestRes.json();
-        const digestArticles = Array.isArray(digestData.articles) ? digestData.articles : [];
-
-        if (!digestArticles.length) {
-          titleEl.textContent = "Δεν βρέθηκαν σοβαρές ειδήσεις";
-          bodyEl.textContent =
-            "Δεν υπάρχει διαθέσιμο άρθρο σοβαρής επικαιρότητας αυτή τη στιγμή.";
-          listenBtn.disabled = true;
-          setArticleImage(imageWrapper, imageEl, null, "");
-          return;
-        }
-
-        let article = null;
-
-        if (idParam) {
-          article = digestArticles.find((a) => String(a.id) === String(idParam));
-        }
-        if (!article && topicParam) {
-          article = digestArticles.find((a) => a.topic === topicParam);
-        }
-        if (!article) {
-          article = digestArticles[0];
-        }
-
-        const displayTitle = article.title || "Σοβαρή είδηση";
-        const cleaned = cleanMarkdown(article.simpleText || "");
-
-        // background ανά topic (serious digest)
-        if (article.topic) {
-          setSeriousBackground(article.topic);
-        }
-
-        titleEl.textContent = displayTitle;
-        bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
-
-        // ✅ Εικόνα για serious digest:
-        // 1) αν το serious-digest έχει imageUrl (Pixabay) το δείχνουμε
-        // 2) αλλιώς fallback στο news.json με mainArticleId (Pixabay)
-        let chosenImageUrl = isPixabayUrl(article.imageUrl) ? article.imageUrl : null;
-
-        const digestHasSources = Array.isArray(article.sources)
-          ? article.sources.length > 0
-          : false;
-
-        if (digestHasSources) {
-          renderSourcesSection(sourceEl, article, null);
-        } else if (article.mainArticleId) {
-          try {
-            const newsRes = await fetch("news.json?cachebust=" + Date.now());
-            if (newsRes.ok) {
-              const newsData = await newsRes.json();
-              const allNews = Array.isArray(newsData.articles) ? newsData.articles : [];
-              const mainSourceArticle = allNews.find(
-                (a) => String(a.id) === String(article.mainArticleId)
-              );
-
-              if (mainSourceArticle) {
-                renderSourcesSection(sourceEl, mainSourceArticle, null);
-
-                if (!chosenImageUrl && isPixabayUrl(mainSourceArticle.imageUrl)) {
-                  chosenImageUrl = mainSourceArticle.imageUrl;
-                }
-              } else {
-                renderSourcesSection(
-                  sourceEl,
-                  { sources: [] },
-                  "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
-                );
-              }
-            } else {
-              renderSourcesSection(
-                sourceEl,
-                { sources: [] },
-                "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
-              );
-            }
-          } catch (e) {
-            console.error("Σφάλμα φόρτωσης news.json για τις πηγές:", e);
-            renderSourcesSection(
-              sourceEl,
-              { sources: [] },
-              "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
-            );
-          }
-        } else {
-          renderSourcesSection(
-            sourceEl,
-            { sources: [] },
-            "Βασισμένο σε πολλές ελληνικές ειδησεογραφικές πηγές."
-          );
-        }
-
-        setArticleImage(imageWrapper, imageEl, chosenImageUrl, displayTitle);
-
-        document.title = displayTitle + " - Εύκολα Νέα";
-        setupTtsButton(listenBtn, displayTitle, cleaned);
-      } catch (err) {
-        console.error(err);
-        titleEl.textContent = "Προέκυψε σφάλμα";
-        bodyEl.textContent =
-          "Δεν μπόρεσα να φορτώσω το άρθρο σοβαρής επικαιρότητας: " + err.message;
-        listenBtn.disabled = true;
-        setArticleImage(imageWrapper, imageEl, null, "");
-      }
-    }
-
-    // ✅ Φόρτωση lifestyle άρθρου από lifestyle.json
-    async function loadLifestyleArticle({
-      categoryParam,
-      titleEl,
-      bodyEl,
-      sourceEl,
-      imageWrapper,
-      imageEl,
-      listenBtn,
-    }) {
-      if (!categoryParam) {
-        titleEl.textContent = "Δεν βρέθηκε η κατηγορία";
-        bodyEl.textContent =
-          "Λείπει η πληροφορία για το είδος της lifestyle κατηγορίας.";
-        listenBtn.disabled = true;
-        setArticleImage(imageWrapper, imageEl, null, "");
-        return;
-      }
-
-      // background ανά lifestyle κατηγορία
-      setLifestyleBackground(categoryParam);
-
-      try {
-        const res = await fetch("lifestyle.json?cachebust=" + Date.now());
-        if (!res.ok) {
-          throw new Error("HTTP " + res.status);
-        }
-
-        const data = await res.json();
-        const list = Array.isArray(data.articles) ? data.articles : [];
-
-        if (!list.length) {
-          titleEl.textContent = "Δεν βρέθηκαν lifestyle ειδήσεις";
-          bodyEl.textContent = "Δεν υπάρχει διαθέσιμο lifestyle άρθρο αυτή τη στιγμή.";
-          listenBtn.disabled = true;
-          setArticleImage(imageWrapper, imageEl, null, "");
-          return;
-        }
-
-        // 🔍 Βρίσκουμε ΜΟΝΟ το άρθρο για τη συγκεκριμένη κατηγορία
-        let article = list.find((a) => a.category === categoryParam);
-
-        if (!article) {
-          titleEl.textContent = "Δεν βρέθηκε άρθρο για αυτή την κατηγορία";
-          bodyEl.textContent = "Σήμερα δεν υπάρχει lifestyle άρθρο για αυτή την κατηγορία.";
-          listenBtn.disabled = true;
-          sourceEl.innerHTML = "";
-          setArticleImage(imageWrapper, imageEl, null, "");
-          return;
-        }
-
-        const displayTitle = article.title || "Ενημέρωση σε απλά λόγια";
-        const cleaned = cleanMarkdown(article.simpleText || "");
-
-        titleEl.textContent = displayTitle;
-        bodyEl.innerHTML = cleaned.replace(/\n/g, "<br/>");
-
-        renderSourcesSection(sourceEl, article, null);
-
-        // ✅ Εικόνα για lifestyle:
-        // 1) αν το lifestyle.json έχει imageUrl (Pixabay) το δείχνουμε
-        // 2) αλλιώς (αν υπάρχει mainArticleId) fallback στο news.json
-        let chosenImageUrl = isPixabayUrl(article.imageUrl) ? article.imageUrl : null;
-
-        if (!chosenImageUrl && article.mainArticleId) {
-          try {
-            const newsRes = await fetch("news.json?cachebust=" + Date.now());
-            if (newsRes.ok) {
-              const newsData = await newsRes.json();
-              const allNews = Array.isArray(newsData.articles) ? newsData.articles : [];
-              const mainSourceArticle = allNews.find(
-                (a) => String(a.id) === String(article.mainArticleId)
-              );
-              if (mainSourceArticle && isPixabayUrl(mainSourceArticle.imageUrl)) {
-                chosenImageUrl = mainSourceArticle.imageUrl;
-              }
-            }
-          } catch (e) {
-            console.error("Σφάλμα φόρτωσης news.json για image fallback (lifestyle):", e);
-          }
-        }
-
-        setArticleImage(imageWrapper, imageEl, chosenImageUrl, displayTitle);
-
-        document.title = displayTitle + " - Εύκολα Νέα";
-        setupTtsButton(listenBtn, displayTitle, cleaned);
-      } catch (err) {
-        console.error("Σφάλμα φόρτωσης lifestyle.json:", err);
-        titleEl.textContent = "Προέκυψε σφάλμα";
-        bodyEl.textContent = "Δεν μπόρεσα να φορτώσω το lifestyle άρθρο: " + err.message;
-        listenBtn.disabled = true;
-        setArticleImage(imageWrapper, imageEl, null, "");
-      }
-    }
-
     async function loadArticle() {
       const titleEl = document.getElementById("article-title");
       const bodyEl = document.getElementById("article-body");
@@ -1017,26 +772,57 @@
       const listenBtn = document.getElementById("listen-btn");
 
       if (sourceParam === "serious") {
-        await loadSeriousArticle({
-          idParam,
-          topicParam,
-          titleEl,
-          bodyEl,
-          sourceEl,
-          imageWrapper,
-          imageEl,
-          listenBtn,
-        });
+        if (idParam) {
+          await loadNewsArticle({
+            idParam,
+            titleEl,
+            bodyEl,
+            sourceEl,
+            imageWrapper,
+            imageEl,
+            videoWrapper,
+            videoContainer,
+            listenBtn,
+          });
+        } else {
+          await loadNewsCategoryArticle({
+            categoryKey: "serious",
+            titleEl,
+            bodyEl,
+            sourceEl,
+            imageWrapper,
+            imageEl,
+            videoWrapper,
+            videoContainer,
+            listenBtn,
+          });
+        }
       } else if (sourceParam === "lifestyle") {
-        await loadLifestyleArticle({
-          categoryParam,
-          titleEl,
-          bodyEl,
-          sourceEl,
-          imageWrapper,
-          imageEl,
-          listenBtn,
-        });
+        if (idParam) {
+          await loadNewsArticle({
+            idParam,
+            titleEl,
+            bodyEl,
+            sourceEl,
+            imageWrapper,
+            imageEl,
+            videoWrapper,
+            videoContainer,
+            listenBtn,
+          });
+        } else {
+          await loadNewsCategoryArticle({
+            categoryKey: categoryParam,
+            titleEl,
+            bodyEl,
+            sourceEl,
+            imageWrapper,
+            imageEl,
+            videoWrapper,
+            videoContainer,
+            listenBtn,
+          });
+        }
       } else if (sourceParam && sourceParam !== "news" && !idParam) {
         await loadNewsCategoryArticle({
           categoryKey: sourceParam,
@@ -1064,12 +850,14 @@
       }
     }
 
-    function setupBackLink(source) {
+    function setupBackLink(source, category) {
       const backLink = document.querySelector(".back-link");
       if (!backLink) return;
 
-      if (source === "serious") {
-        backLink.href = "category.html?category=serious";
+      if (category) {
+        backLink.href = "category.html?category=" + encodeURIComponent(category);
+      } else if (source && source !== "news") {
+        backLink.href = "category.html?category=" + encodeURIComponent(source);
       } else {
         backLink.href = "index.html";
       }
@@ -1087,11 +875,9 @@
 
     document.addEventListener("DOMContentLoaded", () => {
       setupSiteTitleReload();
-      setupBackLink(sourceParam);
+      setupBackLink(sourceParam, categoryParam);
       loadArticle();
     });
   </script>
 </body>
 </html>
-
-

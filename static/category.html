@@ -278,25 +278,6 @@
     <script>
       const params = new URLSearchParams(window.location.search);
       const category = params.get("category") || "serious";
-
-      const SERIOUS_TOPIC_META = {
-        politics_economy: {
-          label: "Πολιτική & Οικονομία",
-          description: "Τι γίνεται στην κυβέρνηση, στη βουλή και στην οικονομία.",
-          image: "images/serious/politics.png",
-        },
-        social: {
-          label: "Κοινωνία",
-          description: "Θέματα που αφορούν την καθημερινή ζωή και τους ανθρώπους.",
-          image: "images/serious/social.png",
-        },
-        world: {
-          label: "Κόσμος",
-          description: "Σημαντικά γεγονότα από άλλες χώρες.",
-          image: "images/serious/world.png",
-        },
-      };
-
       const pageTitleMap = {
         serious: "Σοβαρές ειδήσεις",
         happy: "Χαρούμενες ειδήσεις",
@@ -417,93 +398,6 @@
         }
       }
 
-      async function renderSeriousCategories() {
-        const container = document.getElementById("content");
-        container.innerHTML = "";
-
-        try {
-          const data = await loadJson("./serious-digest.json");
-          const digestArticles = Array.isArray(data.articles) ? data.articles : [];
-
-          if (!digestArticles.length) {
-            container.innerHTML =
-              "<p>Δεν υπάρχουν διαθέσιμα άρθρα σοβαρής επικαιρότητας αυτή τη στιγμή.</p>";
-            return;
-          }
-
-          const byTopic = {};
-          for (const a of digestArticles) {
-            if (a.topic) {
-              byTopic[a.topic] = a;
-            }
-          }
-
-          const topicsInOrder = ["politics_economy", "social", "world"];
-
-          const grid = document.createElement("div");
-          grid.className = "category-grid";
-
-          for (const topic of topicsInOrder) {
-            const digest = byTopic[topic];
-            if (!digest) continue;
-
-            const meta = SERIOUS_TOPIC_META[topic] || {
-              label: digest.topicLabel || "Σοβαρή είδηση",
-              description: "",
-              image: "",
-            };
-
-            const tile = document.createElement("article");
-            tile.className = "category-tile";
-
-            const link = document.createElement("a");
-            link.className = "category-tile-link";
-            link.href = "article.html?source=serious&topic=" + encodeURIComponent(topic);
-
-            const thumbWrapper = document.createElement("div");
-            thumbWrapper.className = "category-thumbnail-wrapper";
-
-            if (meta.image) {
-              const img = document.createElement("img");
-              img.src = meta.image;
-              img.alt = meta.label;
-              img.className = "category-thumbnail";
-              thumbWrapper.appendChild(img);
-            }
-
-            const bodyDiv = document.createElement("div");
-            bodyDiv.className = "category-tile-body";
-
-            const titleEl = document.createElement("div");
-            titleEl.className = "category-tile-title";
-            titleEl.textContent = meta.label;
-
-            const subtitleEl = document.createElement("div");
-            subtitleEl.className = "category-tile-subtitle";
-            subtitleEl.textContent = meta.description || "";
-
-            bodyDiv.appendChild(titleEl);
-            bodyDiv.appendChild(subtitleEl);
-
-            link.appendChild(thumbWrapper);
-            link.appendChild(bodyDiv);
-            tile.appendChild(link);
-            grid.appendChild(tile);
-          }
-
-          if (!grid.hasChildNodes()) {
-            container.innerHTML =
-              "<p>Δεν βρέθηκαν άρθρα σοβαρής επικαιρότητας αυτή τη στιγμή.</p>";
-          } else {
-            container.appendChild(grid);
-          }
-        } catch (err) {
-          console.error("Σφάλμα φόρτωσης serious-digest.json:", err);
-          container.innerHTML =
-            "<p>Προέκυψε πρόβλημα στην φόρτωση των σοβαρών ειδήσεων.</p>";
-        }
-      }
-
       // ===== main init =====
       function setupSiteTitleReload() {
         const titleEl = document.querySelector(".site-title");
@@ -522,8 +416,6 @@
             const all = Array.isArray(newsData.articles) ? newsData.articles : [];
             // Grid 2 στήλες, χωρίς πηγές, χωρίς κείμενο preview
             renderNewsArticles(all, { layout: "grid", showText: false });
-          } else if (category === "serious") {
-            await renderSeriousCategories();
           } else {
             const newsData = await loadJson("./news.json");
             const byCategory = newsData.articlesByCategory || {};
@@ -545,4 +437,3 @@
     </script>
   </body>
 </html>
-

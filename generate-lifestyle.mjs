@@ -9,6 +9,13 @@ import {
   extractHostname,
 } from "./llm/textUtils.js";
 
+if (process.env.ENABLE_DIGESTS !== "true") {
+  console.log(
+    "ℹ️ Τα lifestyle digests είναι απενεργοποιημένα. Χρησιμοποίησε το news.json ανά κατηγορία."
+  );
+  process.exit(0);
+}
+
 // Κατηγορίες που θα αντιμετωπίζονται ως lifestyle
 const LIFESTYLE_CATEGORIES = ["sports", "screen", "culture", "fun"];
 
@@ -350,4 +357,3 @@ main().catch((err) => {
   console.error("❌ Σφάλμα στο generate-lifestyle:", err);
   process.exit(1);
 });
-
