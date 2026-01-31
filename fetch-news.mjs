@@ -431,7 +431,7 @@ async function simplifyAndClassifyText(topicGroup) {
   const baseTitle = topicGroup.title || articles[0]?.title || "Είδηση";
   const primarySourceUrl = articles[0]?.sourceUrl;
 
-  const simplifiedText = await simplifyNewsArticle({
+  const { text: simplifiedText, title: simplifiedTitle } = await simplifyNewsArticle({
     title: baseTitle,
     rawText: combinedRawText,
     sourceUrl: primarySourceUrl,
@@ -439,7 +439,7 @@ async function simplifyAndClassifyText(topicGroup) {
 
   const { category, reason } = await classifyNewsArticle({
     title: baseTitle,
-    simpleText: simplifiedText,
+    simpleText: simplifiedText || "",
     rawText: combinedRawText,
   });
 
@@ -461,7 +461,7 @@ async function simplifyAndClassifyText(topicGroup) {
 
   return {
     simplifiedText,
-    simplifiedTitle: baseTitle,
+    simplifiedTitle: simplifiedTitle || baseTitle,
     rawCategory: category,
     normalizedCategory: finalCategory,
     categoryReason,
@@ -980,4 +980,3 @@ run().catch((err) => {
   console.error(err);
   process.exit(1);
 });
-
