@@ -1,125 +1,13 @@
 {
-  "generatedAt": "2026-02-01T07:58:08.789Z",
+  "generatedAt": "2026-02-01T15:50:39.670Z",
   "articles": [
     {
-      "id": "a138b402b7d6",
-      "title": "Καιρός: Ισχυρές βροχές και καταιγίδες σε εξέλιξη – Στο επίκεντρο Θεσσαλία, Πελοπόννησος και Αιγαίο – Πρόγνωση από την Α. Τυράσκη",
-      "simpleTitle": "Καταιγίδες και βροχές στην Ελλάδα",
-      "simpleText": "Ισχυρές βροχές και καταιγίδες πλήττουν πολλές περιοχές στην Ελλάδα. Τα φαινόμενα ξεκίνησαν από τη νύχτα και επηρεάζουν κυρίως την Θεσσαλία, την Πελοπόννησο και τα νησιά του Αιγαίου. Ιδιαίτερη προσοχή χρειάζεται σε περιοχές όπως η Μαγνησία και η Λάρισα, όπου αναμένονται πολλές βροχές και χιονοπτώσεις στα βουνά.\n\nΟ καιρός θα παραμείνει άσχημος και το απόγευμα θα είναι πιο έντονες οι καταιγίδες. Συνιστάται προσοχή στις περιοχές που είναι σε κόκκινο συναγερμό, καθώς υπάρχει κίνδυνος πλημμυρών. Οι βροχές θα συνεχιστούν και τις επόμενες ημέρες, αλλά θα εξασθενίσουν σιγά-σιγά.",
-      "sourceName": "ERT News, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-isxyres-vroxes-kai-kataigides-se-ekseliksi-sto-epikentro-thessalia-peloponnisos-kai-aigaio-prognosi-apo-tin-a-tyraski/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/kairos-isxyres-vroxes-kai-kataigides-se-ekseliksi-sto-epikentro-thessalia-peloponnisos-kai-aigaio-prognosi-apo-tin-a-tyraski/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/01/society/kairos-se-ekseliksi-i-kakokairia-isxyres-vroxes-kai-kataigides/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά καιρικά φαινόμενα που έχουν σοβαρές επιπτώσεις στην ασφάλεια των περιοχών της Ελλάδας, όπως πλημμύρες και χιονοπτώσεις.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc5ae1d95149b4428dc1d09a54dc37621ee14b00aa97b349849981073d9d001581866216884735204896a95c552df923a1c3633dcce0d07e06489d1aef8e17b51_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260201-sk-KAIROS-TYRASKI.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260201-sk-KAIROS-TYRASKI.jpg",
-      "publishedAt": "2026-02-01T07:18:12.000Z"
-    },
-    {
-      "id": "b4caff1c2f42",
-      "title": "Σε εξέλιξη η κακοκαιρία – Μηνύματα από το «112» και «Red Code» σε πολλές περιοχές της χώρας",
-      "simpleTitle": "Κακοκαιρία με ισχυρές βροχές και προειδοποιήσεις",
-      "simpleText": "Η κακοκαιρία συνεχίζεται και οι μετεωρολόγοι περιμένουν δυνατές βροχές και καταιγίδες. Αυτό συμβαίνει σε πολλές περιοχές της Ελλάδας, όπως στην Αττική. Οι βροχές μπορεί να διαρκέσουν αρκετές ώρες. Υπάρχει κίνδυνος για πλημμύρες, δηλαδή για πολύ νερό που μπορεί να δημιουργήσει προβλήματα. Οι αρχές έχουν στείλει μηνύματα μέσω του «112» για να προειδοποιήσουν τους πολίτες. Είναι σημαντικό να είμαστε προσεκτικοί και να ακολουθούμε τις οδηγίες ασφαλείας. Δεν ξέρουμε ακόμα πότε θα σταματήσει η κακοκαιρία.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564054799/se-exelixi-i-kakokairia-minymata-apo-to-112-kai-red-code-se-polles-perioches-tis-choras/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564054799/se-exelixi-i-kakokairia-minymata-apo-to-112-kai-red-code-se-polles-perioches-tis-choras/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/01/31/society/se-ekseliksi-i-kakokairia-minymata-apo-to-112-kai-kokkinos-synagermos-se-polles-perioxes-tis-xoras/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κακοκαιρία, τις προειδοποιήσεις των αρχών και τον κίνδυνο πλημμυρών, γεγονότα που σχετίζονται με σοβαρά ζητήματα υγείας και ασφάλειας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4d46b25d140aa12a22a767a4bd0d60f9fc9da6c6d014b35e10e73ed3f9b02d44ebcb5bfbcf1e5c8551550bda80a4a89a65dd56f5b37ce574c5496a1faff8c37d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-01T05:29:48.000Z"
-    },
-    {
-      "id": "e860a931d3e0",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν την 1η Φεβρουαρίου",
-      "simpleTitle": "Γιορτές 1η Φεβρουαρίου",
-      "simpleText": "Στην Κυριακή 1 Φεβρουαρίου γιορτάζουν αρκετοί Άγιοι. Η Ορθόδοξη Εκκλησία θυμάται τον Τελώνη και τον Φαρισαίο. Γίνεται επίσης γιορτή για τον Άγιο Τρύφωνα και τη Φιλικητάτη. Οι άνθρωποι που έχουν αυτά τα ονόματα, όπως Τρύφων και Φιλικήτα, γιορτάζουν την ημέρα αυτή. Αυτή η γιορτή σημαίνει χαρά για τους εορτάζοντες και τους φίλους τους. Είναι καλή ιδέα να τους ευχηθούν όλοι και να περάσουν όμορφα μαζί.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-tin-1i-fevrouariou/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-tin-1i-fevrouariou/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/01/greece/poioi-giortazoun-simera-1-fevrouariou/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αφορά εορτές και χαρές για όσους γιορτάζουν, δημιουργώντας μια θετική ατμόσφαιρα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-01T05:28:25.000Z"
-    },
-    {
-      "id": "5c5082f60250",
-      "title": "Ο Τραμπ ισχυρίζεται ότι οι ΗΠΑ βρίσκονται σε συνομιλίες με το Ιράν",
-      "simpleTitle": "Ο Τραμπ λέει ότι μιλάμε με το Ιράν",
-      "simpleText": "Ο Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, ανακοίνωσε ότι το Ιράν βρίσκεται σε διαπραγματεύσεις με την Αμερική. Αυτό συνέβη το Σάββατο, ενώ υπήρχε προειδοποίηση από τον αρχηγό του ιρανικού στρατού για πιθανές επιθέσεις. Ο Τραμπ δεν έδωσε λεπτομέρειες, αλλά τόνισε ότι το Ιράν μάς μιλάει. Ταυτόχρονα, οι Ηνωμένες Πολιτείες έχουν στείλει πολλά πολεμικά πλοία στη Μέση Ανατολή, γιατί ανησυχούν για την κατάσταση.\n\nΗ ανακοίνωση αυτή είναι σημαντική, γιατί δείχνει ότι μπορεί να υπάρξει διάλογος και ηρεμία ανάμεσα στις χώρες. Δεν ξέρουμε ακόμα τι θα συμβεί ή ποιες ακριβώς είναι οι συζητήσεις.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-isxyrizetai-oti-oi-ipa-vriskontai-se-synomilies-me-to-iran/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-isxyrizetai-oti-oi-ipa-vriskontai-se-synomilies-me-to-iran/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564054781/tramp-vriskomaste-se-synomilies-me-to-iran/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε διπλωματικές συνομιλίες και στρατιωτικά ζητήματα μεταξύ ΗΠΑ και Ιράν, γεγονός που έχει σοβαρές πολιτικές προεκτάσεις και επιπτώσεις στην ασφάλεια.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-31T21:56:00.000Z"
-    },
-    {
-      "id": "142ff7ff7e70",
-      "title": "Σε κλοιό κακοκαιρίας η χώρα – Ηχησε το 112, ποιες περιοχές βρίσκονται στο «κόκκινο»",
-      "simpleTitle": "Κακοκαιρία πλήττει τη χώρα – Προειδοποιήσεις για επικίνδυνες καιρικές συνθήκες",
-      "simpleText": "Η χώρα μας αντιμετωπίζει κακοκαιρία με δυνατές βροχές και καταιγίδες. Αυτές οι καιρικές συνθήκες θα συνοδεύονται από ισχυρούς ανέμους, που μπορεί να φτάσουν μέχρι 9 μποφόρ. Οι περιοχές που περιλαμβάνονται στις προειδοποιήσεις είναι η Μακεδονία, η Θεσσαλία και η Πελοπόννησος. Είναι πολύ σημαντικό να προσέχουν οι άνθρωποι, γιατί μπορεί να υπάρχουν και τοπικές χαλαζοπτώσεις. Αν χρειαστεί, καλό είναι να μένουμε σε ασφαλή μέρη και να ακούμε τις οδηγίες από τις αρχές για την ασφάλειά μας.",
+      "id": "f26116b4a08b",
+      "title": "Επίθεση Μασκ στον Νόλαν για τις επιλογές στο καστ της «Οδύσσειας»",
+      "simpleTitle": "Μάχη Λόγων Μασκ και Νόλαν για την «Οδύσσεια»",
+      "simpleText": "Ο δισεκατομμυριώτης Ίλον Μάσκ σχολίασε αρνητικά τις επιλογές του σκηνοθέτη Κρίστοφερ Νόλαν για την ταινία «Οδύσσεια». Είπε ότι ο Νόλαν έχει χάσει την ακεραιότητά του. Ο Μάσκ αναφέρθηκε συγκεκριμένα στην επιλογή της ηθοποιού για τον ρόλο της Ελένης, που τον ενόχλησε. Αυτό δημιουργεί συζητήσεις για το ποιοι άνθρωποι επιλέγονται για ρόλους στις ταινίες. Είναι σημαντικό να ακούμε διάφορες απόψεις, γιατί επηρεάζουν τη δουλειά των καλλιτεχνών. Δεν υπάρχουν άλλες λεπτομέρειες για την αντίδραση του Νόλαν.",
       "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/society/564054772/se-kloio-kakokairias-i-chora-ichise-to-112-poies-perioches-vriskontai-sto-kokkino/",
+      "sourceUrl": "https://www.kathimerini.gr/world/564054958/epithesi-mask-ston-nolan-gia-tis-epiloges-sto-kast-tis-odysseias/",
       "sourceDomains": [
         "kathimerini.gr",
         "protagon.gr"
@@ -127,25 +15,315 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564054772/se-kloio-kakokairias-i-chora-ichise-to-112-poies-perioches-vriskontai-sto-kokkino/"
+          "url": "https://www.kathimerini.gr/world/564054958/epithesi-mask-ston-nolan-gia-tis-epiloges-sto-kast-tis-odysseias/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/neo-kyma-kakokairias-poies-perioxes-bainoun-se-kokkino-synagermo-44343304023"
+          "url": "https://www.protagon.gr/epikairotita/o-mask-kai-kritikos-kinimatografou-ta-evale-me-ton-nolan-gia-to-kast-tis-odysseias-44343304244"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η είδηση σχετίζεται με τις αντιδράσεις του Ίλον Μάσκ σε επιλογές του σκηνοθέτη Κρίστοφερ Νόλαν για την ταινία «Οδύσσεια», που αφορά την κινηματογράφηση και το καστ της ταινίας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T15:15:43.000Z"
+    },
+    {
+      "id": "2fde1f7d4d48",
+      "title": "Σε 41 ανήλθε ο αριθμός των νεκρών από την πυρκαγιά σε μπαρ στο Κραν-Μοντανά",
+      "simpleTitle": "Αυξήθηκαν οι νεκροί από την πυρκαγιά σε μπαρ στο Κραν-Μοντανά",
+      "simpleText": "Στο Κραν-Μοντανά, μία τραγωδία έχει κοστίσει τη ζωή σε 41 ανθρώπους από μια πυρκαγιά σε μπαρ. Η φωτιά ξέσπασε τη νύχτα της Πρωτοχρονιάς και οι τελευταίοι νεκροί είναι νέοι, ηλικίας από 14 έως 39 ετών. Ανάμεσα στους νεκρούς είναι 23 Ελβετοί και 18 ξένοι από διάφορες χώρες. Αυτό είναι σημαντικό θέμα γιατί αποκαλύπτονται σοβαρές ελλείψεις στην ασφάλεια.\n\nΗ έρευνα συνεχίζεται για να διαπιστωθεί πώς προκλήθηκε η φωτιά και αν τηρήθηκαν οι κανόνες ασφαλείας. Δύο υπεύθυνοι της κοινότητας ερευνώνται διότι δεν έκαναν ελέγχους για πυρκαγιά από το 2019. Αυτή η κατάσταση δείχνει την ανάγκη για καλύτερους κανόνες ασφαλείας στα δημόσια κτίρια.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/se-41-anilthe-o-arithmos-ton-nekron-apo-tin-pyrkagia-se-mpar-sto-kran-montana/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/se-41-anilthe-o-arithmos-ton-nekron-apo-tin-pyrkagia-se-mpar-sto-kran-montana/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4065256/tragodia-sto-kran-montana-o-arithmos-ton-nekron-apo-tin-pirkagia-se-bar-anilthe-se-41.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές συνθήκες κακοκαιρίας που επηρεάζουν τη χώρα, περιλαμβάνοντας προειδοποιήσεις για επικίνδυνα καιρικά φαινόμενα και την ανάγκη για προστασία των πολιτών.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή τραγωδία με πολλούς θανάτους και ζητήματα ασφαλείας, που προκύπτουν από μια πυρκαγιά σε μπαρ.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g8b17b1506ee07db8271566769deaf6c8370b7fa449ffc10237182c8322f1ddf9431c1e4b28ad6c6b45296618ac1125ba2b27ba5a89d339ba2821a30650f90cb1_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g16626e79f8d97fa794db16c3a25f19c21683a1469bbf69575a1f7b8de69a0fdaf307f2e0d3eb80e87fee51111a02b9aeb710f4aa4463588af7cfc8e43b0ba3f4_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-01-31T21:24:29.000Z"
+      "publishedAt": "2026-02-01T15:09:01.000Z"
+    },
+    {
+      "id": "6b7abda498dc",
+      "title": "Ο Νίκος Δένδιας στα αποκαλυπτήρια του ανδριάντα του Καποδίστρια στην Αργυρούπολη",
+      "simpleTitle": "Αποκαλυπτήρια ανδριάντα του Καποδίστρια",
+      "simpleText": "Στην Αργυρούπολη έγινε η αποκαλυπτήρια του ανδριάντα του Ιωάννη Καποδίστρια, του πρώτου Κυβερνήτη της Ελλάδας. Στην εκδήλωση, ο υπουργός Εθνικής Άμυνας, Νίκος Δένδιας, μίλησε για τη σημασία των θεσμών, που προώθησε ο Καποδίστριας. Ανέφερε ότι χρειάζεται να εμπνευστούμε από τον Καποδίστρια και να ξαναχτίσουμε την εμπιστοσύνη στους θεσμούς της χώρας μας. Ο υπουργός υπογράμμισε ότι η ιστορία μας είναι σημαντική και πρέπει να την θυμόμαστε, ειδικά οι νέοι. Η εκδήλωση αυτή είναι σημαντική γιατί μας θυμίζει τις θυσίες και τη δουλειά του Καποδίστρια για την Ελλάδα.",
+      "sourceName": "TA NEA, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2026/02/01/politics/o-nikos-dendias-sta-apokalyptiria-tou-andrianta-tou-kapodistria-stin-argyroupoli/",
+      "sourceDomains": [
+        "tanea.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/01/politics/o-nikos-dendias-sta-apokalyptiria-tou-andrianta-tou-kapodistria-stin-argyroupoli/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/o-dendias-sta-apokalyptiria-adrianta-tou-kapodistria-44343304239"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τα αποκαλυπτήρια του ανδριάντα του Ιωάννη Καποδίστρια και την ομιλία του υπουργού Εθνικής Άμυνας Νίκου Δένδια, που εστιάζει στη σημασία των θεσμών και της ιστορίας για την Ελλάδα, θέματα άμεσης πολιτικής και κοινωνικής σημασίας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T14:47:15.000Z"
+    },
+    {
+      "id": "13f7acf3f24d",
+      "title": "Κατερίνη: Ληστεία με λεία κοσμήματα αξίας 300.000 ευρώ ",
+      "simpleTitle": "Ληστεία κοσμημάτων στην Κατερίνη",
+      "simpleText": "Στην Κατερίνη, ένας 54χρονος πωλητής κοσμημάτων έπεσε θύμα ληστείας. Οι ληστές άρπαξαν το αυτοκίνητό του, το οποίο είχε κοσμήματα αξίας περίπου 300.000 ευρώ. Ο άντρας σταμάτησε σε ένα βενζινάδικο για να ελέγξει τα λάστιχα του αυτοκινήτου του. Την ώρα που τον πλησίασαν, ο ένας ληστής μπήκε στο αυτοκίνητό του και έφυγε. Προσπάθησε να το σταματήσει, αλλά τραυματίστηκε όταν χτύπησε σε άλλο αυτοκίνητο. Μετά τη ληστεία, το αυτοκίνητό του βρέθηκε καμένο κοντά στην πόλη. Οι αστυνομικοί ερευνούν την υπόθεση για να βρουν τους δράστες.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/ert3/katerini-listeia-me-leia-kosmimata-aksias-300-000-eyro/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/ert3/katerini-listeia-me-leia-kosmimata-aksias-300-000-eyro/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564054991/listeia-me-leia-kosmimata-axias-300-000-eyro-stin-katerini/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4065214/listia-me-lia-kosmimata-axias-chiliadon-evro-stin-katerini.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή περίπτωση ληστείας με σωματική βλάβη και μεγάλο χρηματικό ποσό σε κοσμήματα, γεγονός που θίγει ζητήματα εγκληματικότητας και ασφάλειας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T14:39:14.000Z"
+    },
+    {
+      "id": "3ac9aff80d5e",
+      "title": "Ν. Δένδιας: Παρακαταθήκη του Ιωάννη Καποδίστρια η ανάγκη να έχει στέρεους και δυνατούς θεσμούς η πατρίδα μας",
+      "simpleTitle": "Δένδιας: Σημασία των ισχυρών θεσμών για την Ελλάδα",
+      "simpleText": "Ο υπουργός Εθνικής Άμυνας, Νίκος Δένδιας, εκπροσώπησε τον πρωθυπουργό στην εκδήλωση για τον ανδριάντα του Ιωάννη Καποδίστρια. Αυτή η τελετή έγινε στην Αργυρούπολη. Ο Δένδιας τόνισε ότι είναι σημαντικό η Ελλάδα να έχει στέρεους και δυνατούς θεσμούς. Ο Καποδίστριας, ως πρώτος κυβερνήτης της χώρας, άφησε πίσω του μια σημαντική παρακαταθήκη. Το μήνυμα αυτό είναι πολύ σημαντικό για το μέλλον της πατρίδας μας.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/politics/564054982/n-dendias-parakatathiki-toy-ioanni-kapodistria-i-anagki-na-echei-stereoys-kai-dynatoys-thesmoys-i-patrida-mas/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/politics/564054982/n-dendias-parakatathiki-toy-ioanni-kapodistria-i-anagki-na-echei-stereoys-kai-dynatoys-thesmoys-i-patrida-mas/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4065186/dendias-parakatathiki-tou-ioanni-kapodistria-i-anagki-na-echi-stereous-ke-dinatous-thesmous-i-patrida-mas.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την ομιλία του υπουργού Εθνικής Άμυνας για τη σημασία των θεσμών στην Ελλάδα και την παρακαταθήκη του Ιωάννη Καποδίστρια, που σχετίζεται με σοβαρά ζητήματα της πολιτικής και της ιστορίας της χώρας.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g5d292f3531151a8acd44ce4114ad1f0cc1492ffa203024ee549cf48c787579a25166de98b2c2e1c0c67f4fcbc17823eeac9db953ef7cd4484bda23886861732c_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T14:15:16.000Z"
+    },
+    {
+      "id": "69fed1986a14",
+      "title": "Τουρκία: 16 νεκροί και 30 τραυματίες σε δύο τροχαία δυστυχήματα",
+      "simpleTitle": "Δύο τροχαία στην Τουρκία με 16 νεκρούς",
+      "simpleText": "Στην Τουρκία, συνέβησαν δύο τροχαία ατυχήματα σήμερα το πρωί. Ένα λεωφορείο, που είχε 34 επιβάτες, ανετράπη στην Αττάλεια και εννέα άνθρωποι σκοτώθηκαν. Ο οδηγός του λεωφορείου δεν κατάφερε να σωθεί, παρά τις προσπάθειες. Στο δεύτερο ατύχημα στο Μπουρντούρ, επτά ακόμα άνθρωποι έχασαν τη ζωή τους. Συνολικά, 16 άτομα έχουν χάσει τη ζωή τους και 30 είναι τραυματίες.\n\nΗ κακή κατάσταση του δρόμου λόγω βροχής και ομίχλης προκάλεσε τα ατυχήματα. Είναι σημαντικό να οδηγούμε προσεκτικά σε δύσκολες καιρικές συνθήκες. Πολλοί άνθρωποι επηρεάζονται από αυτά τα ατυχήματα, καθώς η Αττάλεια είναι δημοφιλής τουριστικός προορισμός. Δεν έχει ανακοινωθεί αν υπάρχουν ξένοι πολίτες ανάμεσα στους τραυματίες.",
+      "sourceName": "Kathimerini, TA NEA, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564054976/toyrkia-16-nekroi-kai-30-traymaties-se-dyo-trochaia-dystychimata/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564054976/toyrkia-16-nekroi-kai-30-traymaties-se-dyo-trochaia-dystychimata/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/01/world/aneipoti-tragodia-stin-toyrkia-dekaeksi-nekroi-kai-30-traymaties-se-dyo-troxaia-dystyximat/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/01/world/tourkia-dekaeksi-nekroi-se-dyo-troxaia-stin-attaleia/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε δύο σοβαρά τροχαία δυστυχήματα στην Τουρκία με 16 θύματα και 30 τραυματίες, γεγονός που εγείρει σοβαρά ζητήματα ασφαλείας και δημόσιας υγείας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.youtube.com/embed/q_uKg0VpQiM?feature=oembed",
+      "publishedAt": "2026-02-01T14:13:23.000Z"
+    },
+    {
+      "id": "b3574a158885",
+      "title": "Σταθερά τα τιμολόγια της ΔΕΗ τον Φεβρουάριο, μείωση στα κυμαινόμενα",
+      "simpleTitle": "Σταθερές τιμές για τη ΔΕΗ τον Φεβρουάριο",
+      "simpleText": "Τον Φεβρουάριο, οι τιμές της ΔΕΗ θα παραμείνουν σταθερές. Αυτό σημαίνει ότι οι άνθρωποι δεν θα δουν αλλαγές στις βασικές χρεώσεις. Οι τιμές στο πράσινο τιμολόγιο παραμένουν οι ίδιες στα 0,125 ευρώ ανά κιλοβατώρα. Επιπλέον, οι κυμαινόμενες τιμές είναι περίπου 10% χαμηλότερες σε σχέση με πέρυσι. Αυτό είναι καλό νέο για τους καταναλωτές, γιατί πληρώνουν λιγότερα για το ρεύμα τους. Δεν έχουν ανακοινωθεί άλλες αλλαγές ή νέες πληροφορίες για το μέλλον.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/economy/564054952/stathera-ta-timologia-tis-dei-ton-fevroyario-meiosi-sta-kymainomena/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/economy/564054952/stathera-ta-timologia-tis-dei-ton-fevroyario-meiosi-sta-kymainomena/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/oikonomia/article/4065132/stathera-ta-timologia-tis-dei-gia-ton-fevrouario-miosi-sta-kimenomena.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την σταθερότητα και τις αλλαγές στα τιμολόγια ηλεκτρικής ενέργειας, η οποία είναι σημαντική για οικονομικά και κοινωνικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T13:24:00.000Z"
+    },
+    {
+      "id": "58d469cf650b",
+      "title": "Ιταλία: Μετά τα επεισόδια στο Τορίνο, η κυβέρνηση Μελόνι εξετάζει νέα δέσμη μέτρων για τη δημόσια τάξη",
+      "simpleTitle": "Ιταλία: Νέα μέτρα για την ασφάλεια μετά τις συγκρούσεις στο Τορίνο**",
+      "simpleText": "Στην Ιταλία, η κυβέρνηση σκέφτεται να πάρει νέα μέτρα για την δημόσια ασφάλεια. Αυτό συμβαίνει μετά από σοβαρές συγκρούσεις στο Τορίνο, όπου πολλοί πολίτες συμμετείχαν σε διαδήλωση. Οι διαμαρτυρίες αφορούσαν την εκκένωση ενός πολιτιστικού κέντρου και έγιναν την 1η Φεβρουαρίου. Υπήρξαν 103 τραυματίες, ανάμεσά τους και 24 αστυνομικοί.\n\nΗ πρωθυπουργός Τζόρτζια Μελόνι επισκέφθηκε τους τραυματίες αστυνομικούς στο νοσοκομείο και εξέφρασε τη στήριξή της. Είπε πως οι δράστες των επεισοδίων δεν είναι διαδηλωτές, αλλά εγκληματίες. Η κυβέρνηση θέλει να σκεφτεί πώς να ενισχύσει την ασφάλεια των πολιτών.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/italia-meta-ta-epeisodia-sto-torino-i-kyvernisi-meloni-eksetazei-nea-desmi-metron-gia-ti-dimosia-taksi/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/italia-meta-ta-epeisodia-sto-torino-i-kyvernisi-meloni-eksetazei-nea-desmi-metron-gia-ti-dimosia-taksi/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564054934/italia-h-kyvernisi-exetazei-metra-gia-ti-dimosia-taxi-me-fonto-tis-sygkroyseis-sto-torino/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση έχει σοβαρό χαρακτήρα επειδή αναφέρεται σε επεισόδια βίας και κυβερνητικά μέτρα που αφορούν την δημόσια ασφάλεια στην Ιταλία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T13:05:33.000Z"
+    },
+    {
+      "id": "cf848c5930fb",
+      "title": "Κακοκαιρία: Σοβαρά προβλήματα στη Λάρισα – Υπερχείλισαν χείμαρροι, «ποτάμια» οι δρόμοι",
+      "simpleTitle": "Κακοκαιρία στη Λάρισα με σοβαρές ζημιές",
+      "simpleText": "Στη Λάρισα, η κακοκαιρία έφερε πολλές βροχές και δυνατούς ανέμους. Αυτό συνέβη από τις πρώτες ώρες της ημέρας. Οι χείμαρροι υπερχείλισαν, δηλαδή γέμισαν πολύ νερό. Οι δρόμοι σε κάποιες περιοχές έγιναν «ποτάμια», δυσκολεύοντας την κίνηση των αυτοκινήτων. Επίσης, πολλές αγροτικές εκτάσεις στο Δήμο Αγιάς πλημμύρισαν. Αυτό είναι σοβαρό, γιατί μπορεί να προκαλέσει προβλήματα στις καλλιέργειες και την καθημερινότητα των κατοίκων. Οι πολίτες πρέπει να είναι προσεκτικοί στους δρόμους και να αποφεύγουν τις πλη flooded μέρες.",
+      "sourceName": "Kathimerini, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/society/564054946/kakokairia-sovara-provlimata-sti-larisa-ypercheilisan-cheimarroi-potamia-oi-dromoi/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564054946/kakokairia-sovara-provlimata-sti-larisa-ypercheilisan-cheimarroi-potamia-oi-dromoi/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/kakokairia-sovara-provlimata-sti-larisa-plimmyrise-o-agiokabos-44343304192"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά προβλήματα που προκάλεσε η κακοκαιρία στη Λάρισα, όπως υπερχείλιση χείμαρρων και πλημμύρες, κάτι που επηρεάζει την καθημερινότητα και τις καλλιέργειες των κατοίκων.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gc24b8f621826acbeedaae8923ec08fd8c1651055e989113c2d7ef18011e6bb91475af1357c0b79341b544c9f8f4c5d6b013942926795ad64da21c1ba9754ef97_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T12:58:02.000Z"
+    },
+    {
+      "id": "8c22816606c2",
+      "title": "Τουρκία: Τροχαίο δυστύχημα με λεωφορείο στην Αττάλεια – Εννέα νεκροί, 25 τραυματίες",
+      "simpleTitle": "Τροχαίο δυστύχημα με λεωφορείο στην Τουρκία",
+      "simpleText": "Στην Αττάλεια, μία δημοφιλή πόλη της Τουρκίας, έγινε ένα σοβαρό τροχαίο. Το λεωφορείο ανατράπηκε το πρωί της Κυριακής, με αποτέλεσμα να χάσουν τη ζωή τους οκτώ άνθρωποι και να τραυματιστούν 26 άλλοι. Οι τραυματίες μεταφέρθηκαν στα κοντινά νοσοκομεία για να λάβουν βοήθεια. Αυτή η είδηση είναι πολύ λυπηρή και επηρεάζει τις οικογένειες των θυμάτων. Δεν ξέρουμε ακόμα αν υπήρχαν ξένοι πολίτες στη μεταφορά. Είναι σημαντικό να είμαστε προσεκτικοί στους δρόμους.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564054892/toyrkia-trochaio-dystychima-me-leoforeio-stin-attaleia-okto-nekroi-kai-26-traymaties/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564054892/toyrkia-trochaio-dystychima-me-leoforeio-stin-attaleia-okto-nekroi-kai-26-traymaties/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/01/world/attaleia-polynekro-troxaio-me-leoforeio-8-nekroi-26-traymaties/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα με ανθρώπινες απώλειες και τραυματισμούς, γεγονός που σχετίζεται με σοβαρά κοινωνικά και ανθρωπιστικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g048e4696a46dc77ce1cc348255c7362b08d585966cb13091f42f97aa99e0e67585e022645834f5a9230883ad2daf72df9287a3576011a2a746563ec6da16fce4_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T10:43:26.000Z"
+    },
+    {
+      "id": "1a1b883af8a0",
+      "title": "Επανεκλογή Κουτσούμπα και νέα Κεντρική Επιτροπή: Ολοκληρώθηκε το 22ο Συνέδριο του ΚΚΕ",
+      "simpleTitle": "Νέες εκλογές στο ΚΚΕ και εκλογή νέας Επιτροπής",
+      "simpleText": "Το 22ο Συνέδριο του ΚΚΕ ολοκληρώθηκε πρόσφατα και εκλέχθηκε ξανά ο Δημήτρης Κουτσούμπας ως γενικός γραμματέας. Επίσης, δημιουργήθηκε νέα Κεντρική Επιτροπή που θα βοηθήσει στο κόμμα. Η εκλογή αυτή ήταν σημαντική γιατί ορίζει ποιοι θα αποφασίζουν για τα θέματα που αφορούν το ΚΚΕ. Οι συμμετέχοντες συζήτησαν τις θέσεις του κόμματος για την κυβέρνηση και την Ευρωπαϊκή Ένωση. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες σχετικά με τις αποφάσεις που πάρθηκαν. Η νέα επιτροπή έχει ευθύνες και στόχους για το μέλλον του κόμματος.",
+      "sourceName": "TO BHMA, 902.gr – Επιλεγμένα",
+      "sourceUrl": "https://www.tovima.gr/2026/01/31/politics/epaneklogi-koutsoumpa-kai-nea-kentriki-epitropi-oloklirothike-to-22o-synedrio-tou-kke/",
+      "sourceDomains": [
+        "tovima.gr",
+        "902.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/01/31/politics/epaneklogi-koutsoumpa-kai-nea-kentriki-epitropi-oloklirothike-to-22o-synedrio-tou-kke/"
+        },
+        {
+          "title": "902.gr – Επιλεγμένα",
+          "url": "https://www.902.gr/eidisi/politiki/413045/h-nea-kentriki-epitropi-kai-i-keoe-poy-eklehtikan-sto-22o-synedrio-toy-kke"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τις πολιτικές εξελίξεις και την επανεκλογή του γενικού γραμματέα του ΚΚΕ, καθώς και τη δημιουργία νέας Κεντρικής Επιτροπής, γεγονότα που συνδέονται με σοβαρά κοινωνικοπολιτικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-01T10:13:45.000Z"
     },
     {
       "id": "7e6a4deec222",
       "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-      "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας είναι η καλύτερη στον κόσμο το 2025",
-      "simpleText": "Μια εντυπωσιακή τοιχογραφία στη Καλαμάτα αναδείχθηκε ως η καλύτερη στον κόσμο για το 2025. Το έργο είναι εμπνευσμένο από τη Μαρία Κάλλας και δημιουργήθηκε από τον καλλιτέχνη KLE. Η διάκριση αυτή δείχνει ότι η σύγχρονη τέχνη του δρόμου μπορεί να συγκινεί σε όλο τον κόσμο. Οι άνθρωποι από διάφορες χώρες ψήφισαν γι’ αυτή την τοιχογραφία, δείχνοντας την αγάπη τους. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας, που την φιλοξενεί.",
+      "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι πρώτη στον κόσμο για το 2025",
+      "simpleText": "Στην Καλαμάτα, μια τοιχογραφία που αποτυπώνει τη Μαρία Κάλλας έχει ανακηρυχθεί η καλύτερη το 2025. Το έργο αυτό δημιούργησε ο καλλιτέχνης KLE και βρίσκεται σε έναν κεντρικό δρόμο. Η τοιχογραφία ξεχωρίζει ανάμεσα σε πολλές άλλες στον κόσμο και αγγίζει τις καρδιές των ανθρώπων. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας. Αποδεικνύει ότι η σύγχρονη ελληνική τέχνη μπορεί να κάνει θόρυβο διεθνώς και να συγκινεί πολύ κόσμο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
       "sourceDomains": [
@@ -158,7 +336,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αναφέρεται στη διακρίση μιας τοιχογραφίας που συνδέεται με την τέχνη και πολιτισμό, αποτελώντας φόρο τιμής στη Μαρία Κάλλας, και αναδεικνύει τον καλλιτεχνικό θησαυρό της Καλαμάτας.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική πολιτιστική διάκριση για την τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα, η οποία αναγνωρίζεται διεθνώς ως η καλύτερη για το 2025, αναδεικνύοντας τη σύγχρονη ελληνική τέχνη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -167,8 +345,8 @@
     {
       "id": "d496dd4ae0c1",
       "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
-      "simpleTitle": "Το νεφέλωμα Helix και το τέλος ενός άστρου",
-      "simpleText": "Το νεφέλωμα Helix είναι ένα πολύ όμορφο κομμάτι του ουρανού που μοιάζει με μάτι. Βρίσκεται 655 έτη φωτός μακριά από εμάς και δείχνει πώς ένα άστρο φθάνει στο τέλος της ζωής του. Όταν άστρα, σαν τον ήλιο μας, τελειώνουν τη ζωή τους, αποβάλλουν τμήματα του δέρματος τους στο διάστημα. Αυτό το φαινόμενο είναι σπάνιο και είναι μοναδικό να το βλέπουμε τόσο κοντά. Η φωτογράφιση του από το διαστημικό τηλεσκόπιο James Webb μας δείχνει την ομορφιά αυτού του σωστού φυσικού θαύματος. Είναι σημαντικό γιατί μας βοηθά να κατανοήσουμε καλύτερα τον κόσμο των άστρων.",
+      "simpleTitle": "Το νεφέλωμα Helix και ο τελευταίος παλμός ενός άστρου",
+      "simpleText": "Το νεφέλωμα Helix είναι ένα όμορφο και διάσημο φαινόμενο στον ουρανό. Μοιάζει με ένα μεγάλο μάτι και βρίσκεται 655 έτη φωτός από τη Γη. Αυτή η μοναδική εικόνα μας επιτρέπει να δούμε κάτι που συμβαίνει πολύ σπάνια, όταν ένα άστρο, όπως ο Ήλιος, πλησιάζει στο τέλος της ζωής του. Το άστρο χάνει τα εξωτερικά του στρώματα και έτσι δημιουργούνται αυτά τα μαγευτικά νεφελώματα. Είναι μια ευκαιρία για εμάς να κατανοήσουμε καλύτερα το Σύμπαν και την εξέλιξη των άστρων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
       "sourceDomains": [
@@ -181,17 +359,17 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά το νεφέλωμα Helix και τη φωτογράφηση του από το διαστημικό τηλεσκόπιο James Webb, εστιάζοντας στην ομορφιά και σημασία του στο πλαίσιο των αστρονομικών και κοσμικών παρατηρήσεων, που ανήκει στην πολιτιστική κατηγορία.",
+      "categoryReason": "Η είδηση σχετικά με το νεφέλωμα Helix και τη φωτογράφηση του από το James Webb εστιάζει στην ομορφιά και την επιστημονική σημασία του φαινομένου αυτού, το οποίο εντάσσεται στον πολιτισμό της αστρονομίας και της τέχνης.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g3bd5db4804f5a8b6d0e29e6315bd0078688799663c6b0dcf8dd5de4a156bc55d48cc752433ac00e1a7c235f9daed6694b29c90241f96cf789979f6eb220de3ff_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g18e44d505cf823b7b0c242be2ba7dd2324cd431629fe8d2a41bcfd5825c5af605ce3556130ec2cefed2f55252efe62b257d38087aca0919ec153df86ad490a50_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-31T11:36:00.000Z"
     },
     {
       "id": "28f3d8c9b81e",
       "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-      "simpleTitle": "Κρακοβία: Η καθαρότερη πόλη του κόσμου το 2025",
-      "simpleText": "Η Κρακοβία, μία πόλη στην Πολωνία, αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό έγινε χάρη στις υπέροχες υπηρεσίες καθαριότητας που προσφέρει στους κατοίκους και τους επισκέπτες της. Η Κρακοβία έχει πολλές τουριστικές ομορφιές και πολύ καλή φροντίδα για το περιβάλλον.\n\nΈχει ψηφιστεί από πολλές χιλιάδες ανθρώπους σε μια έρευνα. Ξεπέρασε άλλες γνωστές πόλεις, όπως η Σιγκαπούρη. Αυτό είναι πολύ σημαντικό, γιατί δείχνει ότι η πόλη προσπαθεί για το καλύτερο, κάνοντάς την ένα όμορφο μέρος για επίσκεψη. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες ακόμα.",
+      "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη του κόσμου για το 2025",
+      "simpleText": "Η Κρακοβία, μια πόλη στην Πολωνία, ανακηρύχθηκε η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό γίνεται επειδή φροντίζει πολύ για την καθαριότητά της. Η πόλη έχει ιστορία και ομορφιά και προσελκύει πολλούς επισκέπτες. Σύμφωνα με μια έρευνα, η Κρακοβία έχει το 98,5% των θετικών κριτικών για την καθαριότητα. Ξεπέρασε άλλες μεγάλες πόλεις, όπως η Σιγκαπούρη και κάποιες στην Ιαπωνία. Αυτό είναι σημαντικό, γιατί δείχνει πώς μπορεί μια πόλη να είναι όμορφη και καθαρή ταυτόχρονα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
       "sourceDomains": [
@@ -204,17 +382,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά την αναγνώριση της Κρακοβίας ως την καθαρότερη πόλη στον κόσμο, γεγονός που προάγει θετικά συναισθήματα και αναδεικνύει τις προσπάθειες για τη βελτίωση της ποιότητας ζωής στην πόλη.",
+      "categoryReason": "Η είδηση αναφέρεται στην Κρακοβία που αναδείχθηκε ως η καθαρότερη πόλη στον κόσμο για το 2025, κάτι που είναι θετικό και ευχάριστο για την πόλη και τους κατοίκους της.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g387ac0cc24333862e93e5cb0810b002bc9309940ab8bc1dd825e1fa5fbdd5dcbe3f4e1ffdf534aec927d356a2cc4aa7334e5aca25fd38e54a46c2cca897ad757_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g92f0239b5449b974f68b10cb8edbc68232a3a6b5cc156d1041251bb6c920c523c9e4d5cd3142395f29df206b24860f9c086390589d4c64b394766e7870771c6b_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-30T15:36:00.000Z"
     },
     {
       "id": "58cb42ed167f",
       "title": "Η ηθική της πληροφορίας στα ΜΜΕ μπροστά στην ανθρώπινη απώλεια",
-      "simpleTitle": "Η ηθική της πληροφορίας στα ΜΜΕ",
-      "simpleText": "Πρόσφατα συνέβη ένα σοβαρό ατύχημα στη Ρουμανία, όπου επτά νέοι άνθρωποι έχασαν τη ζωή τους. Η είδηση αυτή διαδόθηκε πολύ γρήγορα, αλλά φαίνεται ότι πολλές φορές οι ειδήσεις χάνουν την ανθρώπινη πλευρά. Αντί να φέρνουν εικόνες από πραγματικά γεγονότα, γίνονται απλώς πληροφορίες προς κατανάλωση. Αυτό δείχνει πώς οι ειδήσεις συχνά γίνονται προϊόντα και όχι κοινωνικά αγαθά. Είναι σημαντικό να φροντίζουμε να μην χάνουμε την ενσυναίσθηση και την ευαισθησία όταν μιλάμε για ανθρώπινες απώλειες.",
+      "simpleTitle": "Η ενημέρωση για ανθρώπινα δράματα",
+      "simpleText": "Πρόσφατα έγινε ένα σοβαρό δυστύχημα στη Ρουμανία. Σε αυτό έχασαν τη ζωή τους επτά νέοι άνθρωποι. Η είδηση αυτή διαδόθηκε πολύ γρήγορα, αλλά φαίνεται ότι οι άνθρωποι που την διαχειρίζονται δεν σκέφτονται την επίδραση που έχει στον κόσμο. Πολλοί πιστεύουν ότι η ενημέρωση δεν βλέπει πια την ανθρώπινη ζωή όπως πριν, αλλά την αντιμετωπίζει σαν απλό περιεχόμενο για κατανάλωση. Αυτό είναι λυπηρό, γιατί η είδηση θα έπρεπε να μας ενώνει και όχι να μας απομακρύνει από τη συμπόνια. Δεν ξέρουμε ακόμα πώς θα αλλάξει η κατάσταση αυτή στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31355-ithiki-tis-pliroforias-anthropini-axioprepia-mme/",
       "sourceDomains": [
@@ -227,7 +405,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα με ανθρωπιστικές επιπτώσεις και εξετάζει την ηθική διάσταση της πληροφορίας στα ΜΜΕ, αναδεικνύοντας κοινωνικά ζητήματα σχετικά με την ενσυναίσθηση και την ανθρώπινη απώλεια.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό δυστύχημα που έθεσε σε συζήτηση την ηθική της πληροφορίας στα ΜΜΕ και τονίζει την ανάγκη για ενσυναίσθηση αντί της κατανάλωσης ειδήσεων.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -236,8 +414,8 @@
     {
       "id": "7ce1d3a75788",
       "title": "Η καλοσύνη που σερβίρεται καθημερινά: Ένας ηλικιωμένος, ένας σεφ και ένα εστιατόριο έγιναν οικογένεια",
-      "simpleTitle": "Καθημερινά γεύματα με αγάπη: Η ιστορία ενός ηλικιωμένου και ενός σεφ",
-      "simpleText": "Ο Τσάρλι Χικς είναι 78 χρονών και κάθε μέρα πηγαίνει στο ίδιο εστιατόριο στη Φλόριντα. Για δέκα χρόνια, παραγγέλνει πάντα το ίδιο φαγητό, γκούμπο με λίγο ρύζι. Γι’ αυτόν, το εστιατόριο είναι σαν το σπίτι του. Εκεί τον γνωρίζουν πολύ καλά και νιώθει άνετα. Ο Τσάρλι δεν πηγαίνει μόνο για το φαγητό, αλλά και για την παρέα που έχει με τους ανθρώπους εκεί. Είναι ωραίο να έχουμε τέτοιες σχέσεις, γιατί η καλοσύνη και η φιλία κάνουν όλους πιο ευτυχισμένους.",
+      "simpleTitle": "Ένας ηλικιωμένος και ένας σεφ γίνονται καλοί φίλοι",
+      "simpleText": "Ο Τσάρλι Χικς είναι 78 χρονών και πηγαίνει κάθε μέρα στο αγαπημένο του εστιατόριο στην Φλόριντα. Για δέκα χρόνια, παραγγέλνει πάντα το ίδιο πιάτο, γκούμπο με ρύζι. Για τον Τσάρλι, το εστιατόριο είναι πολύ σημαντικό. Είναι ένα μέρος που νιώθει άνετα και σαν στο σπίτι του. Εδώ τον γνωρίζουν όλοι και τον προσέχουν.\n\nΗ καθημερινή του αυτή ρουτίνα τον κάνει χαρούμενο. Αυτή η καλή σχέση με τον σεφ και το εστιατόριο δείχνει πόσο σημαντική είναι η καλοσύνη στην ζωή μας. Αυτό το μικρό καθημερινό γεγονός δείχνει πώς μπορεί να δημιουργηθούν όμορφες φιλίες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/",
       "sourceDomains": [
@@ -250,7 +428,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία αναδεικνύει τη σημασία της ευγένειας και της φιλίας σε μια καθημερινή ρουτίνα, προβάλλοντας θετικά συναισθήματα και ανθρώπινες σχέσεις.",
+      "categoryReason": "Η είδηση αναδεικνύει μια θετική ιστορία καλοσύνης και σχέσεων, όπου η καθημερινότητα ενός ηλικιωμένου συνδέεται με τις ανθρώπινες σχέσεις σε ένα εστιατόριο, προσφέροντας χαρά και ζεστασιά.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -259,8 +437,8 @@
     {
       "id": "cf35becb2785",
       "title": "Τι είναι ο κιρκάδιος ρυθμός και πώς επηρεάζει την καθημερινότητά μας",
-      "simpleTitle": "Ο ρόλος του κιρκάδιου ρυθμού στη ζωή μας",
-      "simpleText": "Ο κιρκάδιος ρυθμός είναι ο εσωτερικός μας ρολόι που βοηθά το σώμα μας να λειτουργεί σωστά. Αυτός ο ρυθμός επηρεάζει την ενέργεια και την διάθεσή μας κάθε μέρα. Καταλαβαίνουμε πώς μπορούμε να έχουμε καλύτερη καθημερινότητα αν γνωρίζουμε πώς δουλεύει. Η καλή κατανόηση του κιρκάδιου ρυθμού μπορεί να μας βοηθήσει να νιώθουμε πιο ήρεμοι και γεμάτοι ζωή. Δεν ξέρουμε ακόμα πολλές λεπτομέρειες για το πώς να τον ρυθμίσουμε, αλλά είναι σημαντικό να προσέχουμε τις συνήθειές μας, όπως τον ύπνο και τη διατροφή μας.",
+      "simpleTitle": "Ο κιρκάδιος ρυθμός και η επίδρασή του στη ζωή μας",
+      "simpleText": "Ο κιρκάδιος ρυθμός είναι ο φυσικός μηχανισμός που ρυθμίζει πότε κοιμόμαστε και πότε είμαστε ξύπνιοι. Αυτός ο ρυθμός μας βοηθά να έχουμε περισσότερη ενέργεια και καλύτερη διάθεση. Όταν καταλαβαίνουμε πώς λειτουργεί το σώμα μας σε σχέση με το περιβάλλον, μπορούμε να ζούμε πιο υγιεινά. Ο κιρκάδιος ρυθμός επηρεάζει την καθημερινότητά μας, γιατί επηρεάζει την ποιότητα του ύπνου και τη διάθεσή μας. Είναι σημαντικό να προσέχουμε τις συνήθειές μας, ώστε να βοηθήσουμε το σώμα μας να λειτουργεί καλύτερα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31327-kirkadios-rithmos/",
       "sourceDomains": [
@@ -273,7 +451,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον κιρκάδιο ρυθμό, μια σοβαρή επιστημονική έννοια που σχετίζεται με τη λειτουργία του σώματος, την ευεξία και τη διάθεση, επομένως ανήκει στην κατηγορία των σοβαρών ειδήσεων.",
+      "categoryReason": "Το άρθρο εξετάζει τον κιρκάδιο ρυθμό, ένα σημαντικό βιολογικό φαινόμενο που επηρεάζει την υγεία και την ευημερία μας, κάτι που το κατατάσσει σε σοβαρές ειδήσεις σχετικά με την υγεία και τη ζωή μας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -282,8 +460,8 @@
     {
       "id": "b78c6611c5c4",
       "title": "Οι επιστήμονες μετατρέπουν τους σεισμούς σε ανιχνευτές διαστημικών σκουπιδιών",
-      "simpleTitle": "Σεισμοί βοηθούν να βρίσκουμε διαστημικά σκουπίδια",
-      "simpleText": "Οι επιστήμονες εργάζονται ώστε τα όργανα που ανιχνεύουν σεισμούς να βοηθήσουν και στον εντοπισμό διαστημικών σκουπιδιών. Αυτά τα σκουπίδια επιστρέφουν στη Γη και κινούνται πολύ γρήγορα. Μια νέα μελέτη δείχνει ότι τα σεισμικά όργανα μπορούν να ακούσουν ήχους όταν τα αντικείμενα περνούν μέσα από την ατμόσφαιρα. Είναι σημαντικό να γνωρίζουμε πού υπάρχουν αυτά τα σκουπίδια, καθώς η κυκλοφορία γύρω από τη Γη μεγαλώνει. Οι νέες αυτές γνώσεις θα μας βοηθήσουν να έχουμε καλύτερη επίβλεψη του διαστήματος. Δεν έχει ανακοινωθεί αν η μέθοδος αυτή θα χρησιμοποιηθεί σύντομα.",
+      "simpleTitle": "Οι σεισμοί βοηθούν να βρούμε σκουπίδια στο διάστημα",
+      "simpleText": "Επιστήμονες ανακάλυψαν ότι τα όργανα που μετρούν σεισμούς μπορούν να χρησιμοποιηθούν για να βρουν διαστημικά σκουπίδια. Αυτά τα σκουπίδια είναι μεγάλα αντικείμενα που κινούνται γρήγορα και επιστρέφουν στη Γη. Όταν αυτά τα αντικείμενα περνούν από την ατμόσφαιρα, δημιουργούν ήχους που τα σεισμολογικά όργανα μπορούν να «ακούσουν». Αυτή η νέα μέθοδος είναι πολύ σημαντική, γιατί βοηθάει στη παρακολούθηση του χώρου γύρω από τη Γη, όπου υπάρχουν όλο και περισσότερα σκουπίδια. Η παρακολούθηση αυτών των σκουπιδιών είναι απαραίτητη για την ασφάλεια των δορυφόρων και των διαστημικών αποστολών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31207-oi-epistimones-metatrepoun-tous-seismous-se-anixneutes-diastimikon-skoupidion/",
       "sourceDomains": [
@@ -296,17 +474,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια επιστημονική ανακάλυψη που συνδέει τη σεισμολογία με τη διαστημική τεχνολογία, επισημαίνοντας μια σοβαρή προοπτική για την παρακολούθηση διαστημικών σκουπιδιών, που είναι ένα σοβαρό περιβαλλοντικό και τεχνολογικό ζήτημα.",
+      "categoryReason": "Η ανακάλυψη αυτή σχετίζεται με σοβαρά ζητήματα όπως η ασφάλεια της διαστημικής κυκλοφορίας και η διαχείριση των διαστημικών σκουπιδιών, που είναι σημαντικά για τη διατήρηση της ασφάλειας των δορυφόρων και των διαστημικών αποστολών.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4ad903e27ff2d13e4cb7e04eef919abfffb33b17c64a53f9d9d25064e308698a45a168075bfeef82c72cf922093b24365091a99c056ec6264fe01b876172ad31_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g61925fb1906957d472740d33e560479a6dcbabc685377ddca044790c35a07a2c66bfb7a29deae8829d6b2a0d976312d4ac4bfd83b3403154591f2d252aa65cc1_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-29T11:31:00.000Z"
     },
     {
       "id": "7c24e95268bf",
       "title": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
-      "simpleTitle": "Γιατρός και ασθενής συνεργάζονται για καλό σκοπό στην Αιθιοπία",
-      "simpleText": "Η ιστορία του Μεσφίν Γιανά δείχνει πόσο σημαντική είναι η καλοσύνη. Όταν ήταν μικρός, αρρώστησε και η κατάσταση του έγινε σοβαρή. Ένας γιατρός τον βοήθησε και του έσωσε τη ζωή. Σήμερα, πολλά χρόνια αργότερα, ο Μεσφίν και ο γιατρός του συνεργάζονται σε χειρουργεία στην Αιθιοπία. Αυτό που κάνουν είναι πολύ ωραίο και βοηθάει άλλους ανθρώπους που χρειάζονται βοήθεια. Είναι μια καλή στιγμή για να δείξουν ότι η συνεργασία μπορεί να αλλάξει ζωές.",
+      "simpleTitle": "Γιατρός και πρώην ασθενής συνεργάζονται για καλό σκοπό στην Αιθιοπία",
+      "simpleText": "Ο Mesfin Yana είναι μια ιστορία αγάπης και καλοσύνης. Γεννήθηκε πριν από 41 χρόνια σε ένα φτωχό χωριό στην Αιθιοπία, χωρίς νερό και υποδομές. Όταν ήταν μικρός, μια αρρώστια του δημιούργησε σοβαρό πρόβλημα στην καρδιά του, αλλά ένας γιατρός του έσωσε τη ζωή. Εδώ και χρόνια, συνεχιζουν να χειρουργούν μαζί, προσφέροντας βοήθεια σε άλλους ανθρώπους που την χρειάζονται. Η συνεργασία τους δείχνει πώς η καλοσύνη μπορεί να αλλάξει πολλές ζωές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/",
       "sourceDomains": [
@@ -319,7 +497,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία αναδεικνύει την καλοσύνη και τη συνεργασία που αλλάζει ζωές, προσφέροντας ελπίδα και βοήθεια σε άλλους, κάτι που δημιουργεί μια θετική και χαρούμενη ατμόσφαιρα.",
+      "categoryReason": "Η ιστορία του Mesfin Yana είναι γεμάτη καλοσύνη και αναδεικνύει την επίδραση της συνεργασίας και της ανιδιοτελούς βοήθειας, προσφέροντας έμπνευση και ελπίδα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -329,7 +507,7 @@
       "id": "0084972830ff",
       "title": "Γιατί ο Τζέιμς Κάμερον άφησε τις ΗΠΑ και επέλεξε τη Νέα Ζηλανδία",
       "simpleTitle": "Ο Τζέιμς Κάμερον μετακόμισε στη Νέα Ζηλανδία",
-      "simpleText": "Ο Τζέιμς Κάμερον, διάσημος σκηνοθέτης, αποφάσισε να αφήσει τις Ηνωμένες Πολιτείες και να ζήσει μόνιμα στη Νέα Ζηλανδία. Επέλεξε αυτή τη χώρα γιατί ήθελε να νιώθει καλύτερα ψυχολογικά. Ένιωσε δυσαρέσκεια με την πολιτική κατάσταση στις ΗΠΑ, ειδικά την περίοδο του Ντόναλντ Τραμπ. Αναφέρει ότι ένιωθε σαν να παρακολουθεί συνέχεια ένα ατύχημα που επαναλαμβάνεται. Είναι σημαντικό να βρει κανείς τις καλύτερες συνθήκες για να νιώθει πιο ήρεμος και ευτυχισμένος.",
+      "simpleText": "Ο Τζέιμς Κάμερον, ο γνωστός σκηνοθέτης, αποφάσισε να αφήσει τις Ηνωμένες Πολιτείες και να ζήσει μόνιμα στη Νέα Ζηλανδία. Έκανε αυτή την επιλογή για να προσέξει την ψυχική του υγεία. Ο Κάμερον είπε ότι η κατάσταση στην Αμερική τον απογοήτευσε πολύ, ειδικά την περίοδο που κυβέρνησε ο Ντόναλντ Τραμπ. Δήλωσε πως ένιωθε σαν να βλέπει συνεχώς ένα ατύχημα να επαναλαμβάνεται. Το ταξίδι του στη Νέα Ζηλανδία είναι σημαντικό για εκείνον, καθώς θέλει να βρει ηρεμία και καλύτερη ποιότητα ζωής.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31193-giati-o-james-cameron-metakomise-sti-nea-zilandia/",
       "sourceDomains": [
@@ -342,7 +520,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρούς λόγους που οδηγούν τον Τζέιμς Κάμερον να αλλάξει χώρα διαμονής, εστιάζοντας στην πολιτική κατάσταση και την ψυχική υγεία.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρούς λόγους που οδήγησαν τον Τζέιμς Κάμερον στην απόφαση να μετακομίσει για λόγους ψυχικής υγείας, συνδεδεμένες με την πολιτική κατάσταση στις ΗΠΑ.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -351,8 +529,8 @@
     {
       "id": "d25034d63b2a",
       "title": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
-      "simpleTitle": "Μια αγελάδα αλλάζει την εικόνα για τη νοημοσύνη των ζώων",
-      "simpleText": "Μια αγελάδα από την Αυστρία κάνει πολλούς να σκέφτονται διαφορετικά για τη νοημοσύνη των ζώων. Η Βερόνικα, μια καφέ αγελάδα, είναι η πρώτη που έχει καταγραφεί να χρησιμοποιεί εργαλεία με έξυπνο και χρήσιμο τρόπο. Αυτό έγινε στην καθημερινότητά της, σε ένα αγρόκτημα, όπου ζει σαν μέλος της οικογένειας. Αυτή η ανακάλυψη δείχνει ότι τα ζώα μπορούν να είναι πιο έξυπνα από ό,τι νομίζαμε μέχρι τώρα. Είναι σημαντικό, γιατί μας βοηθά να κατανοήσουμε καλύτερα πώς σκέφτονται και αντιδρούν τα ζώα γύρω μας.",
+      "simpleTitle": "Μια αγελάδα που δείχνει πόσο έξυπνα είναι τα ζώα",
+      "simpleText": "Μια αγελάδα στην Αυστρία, που ονομάζεται Βερόνικα, μας δείχνει ότι τα ζώα έχουν περισσότερη νοημοσύνη από ό,τι νομίζουμε. Είναι η πρώτη αγελάδα στον κόσμο που καταγράφηκε να χρησιμοποιεί εργαλεία με έξυπνο τρόπο. Αυτό συνέβη όχι σε ένα εργαστήριο, αλλά στην καθημερινή της ζωή σε ένα αγρόκτημα, όπου ζει σαν μέλος της οικογένειας. Αυτή η ανακάλυψη είναι σημαντική γιατί μπορεί να μας κάνει να σκεφτούμε διαφορετικά για τις ικανότητες των ζώων γύρω μας. Δεν γνωρίζουμε ακόμα πώς θα επηρεάσει αυτό την άποψή μας για τα ζώα στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/",
       "sourceDomains": [
@@ -364,18 +542,41 @@
           "url": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αναφέρει μια θετική και ενθαρρυντική ανακάλυψη σχετικά με τη νοημοσύνη των ζώων, την οποία αντιπροσωπεύει η αγελάδα Βερόνικα, προκαλώντας χαρά και αλλαγή στην αντίληψη του κοινού.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αναφέρεται στην ευφυΐα και τη νοημοσύνη των ζώων, προάγοντας έναν πολιτισμικό διάλογο γύρω από τη σχέση ανθρώπων και ζώων, που σχετίζεται με τον πολιτισμό και την ηθική αντίληψη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-01-28T11:45:00.000Z"
     },
     {
+      "id": "d7c412d242c8",
+      "title": "Live streaming: Δείτε τον αγώνα Άρης-Παναθηναϊκός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Ζωντανά ο αγώνας Άρης-Παναθηναϊκός",
+      "simpleText": "Σήμερα στις 16:00 παίζει ο αγώνας μπάσκετ Άρης και Παναθηναϊκός. Είναι μέρος της 17ης αγωνιστικής της Basket League στην Ελλάδα. Ο αγώνας θα μεταδοθεί ζωντανά από την ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον παρακολουθήσετε online μέσω του ERTFLIX. Είναι μια καλή ευκαιρία να δείτε δύο μεγάλες ομάδες να αγωνίζονται. Αν ενδιαφέρεστε, ετοιμαστείτε να το δείτε!",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aris-panathinaikos-gia-tin-basket-league-16-00-ert2-spor/",
+      "sourceDomains": [
+        "ertnews.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aris-panathinaikos-gia-tin-basket-league-16-00-ert2-spor/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ μεταξύ δύο μεγάλων ομάδων της Ελλάδας και σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb3f3749cd75ec95a5b61c0f9e31f3462fa2502e4f15988361681dd5598d9f8ada70e1dd8f0b69ba0ea04d90ad5d097a26a8a8c60379f8ae0d627a47f4087d47c_1280.jpg",
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&amp;autostart=true",
+      "publishedAt": "2026-02-01T13:45:00.000Z"
+    },
+    {
       "id": "c4528d11ccad",
       "title": "Ο Ολυμπιακός συνεχίζει αήττητος στην Basket League με νίκη επί του Περιστερίου",
-      "simpleTitle": "Ο Ολυμπιακός νίκησε ξανά στην Basket League",
-      "simpleText": "Ο Ολυμπιακός κέρδισε το Περιστέρι και παραμένει αήττητος στην Basket League. Αυτό σημαίνει ότι είναι πολύ κοντά να γίνει πρώτος στην κανονική περίοδο. Η ομάδα δείχνει ότι έχει καλή σταθερότητα και ότι μπορεί να παίξει καλά, ακόμα και όταν λείπουν σημαντικοί παίκτες. Αυτή η νίκη είναι σημαντική γιατί δείχνει την δύναμη και την ικανότητα της ομάδας. Οι φίλοι της ομάδας είναι χαρούμενοι και ελπίζουν για περισσότερες νίκες στο μέλλον.",
+      "simpleTitle": "Ο Ολυμπιακός νίκησε πάλι στην Basket League",
+      "simpleText": "Ο Ολυμπιακός κέρδισε το Περιστέρι και συνεχίζει να είναι αήττητος στην Basket League. Αυτή είναι μια πολύ σημαντική νίκη για την ομάδα. Έγινε πρόσφατα και δείχνει πόσο καλοί είναι. Ο Ολυμπιακός αποδεικνύει ότι μπορεί να παίζει καλά, ακόμα και όταν λείπουν κάποιοι βασικοί παίκτες. Η νίκη αυτή τους βοηθά να είναι μπροστά για να κερδίσουν την κανονική περίοδο της διοργάνωσης. Αυτό είναι σημαντικό για τους φιλάθλους και την ομάδα.",
       "sourceName": "TO BHMA",
       "sourceUrl": "https://www.tovima.gr/2026/01/31/sports/o-olympiakos-synexizei-aittitos-stin-basket-league-me-niki-epi-tou-peristeriou/",
       "sourceDomains": [
@@ -388,231 +589,200 @@
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη νίκη του Ολυμπιακού στην Basket League, που είναι αμιγώς αθλητική και σχετίζεται με πρωταθλήματα και ομάδες. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τη νίκη του Ολυμπιακού στην Basket League, που είναι κεντρικό θέμα στον αθλητισμό και σχετίζεται με το πρωτάθλημα του μπάσκετ. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ga014327bb29e8d01425295a58491cf01662ce404b31771c98066c650f1720c4f41f1116431c90aea52dc72812344f8c83718b6ec0601f39080ea2265eec8b7f9_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g832ff72e32a762ac235b5d4318fc116adfc515533a3b1d229fb112e3d4ab3bd951a7928661750906abdaca5cf36724ab4195b620edc0b929c69e38be53683a36_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-31T17:42:46.000Z"
-    },
-    {
-      "id": "fa129dc5874e",
-      "title": "Άγριο επεισόδιο μεταξύ παικτών στο Τσέλσι-Γουέστ Χαμ – Ο Μαυροπάνος χαστούκισε τον Πάλμερ (video)",
-      "simpleTitle": "Επεισόδιο στο Τσέλσι-Γουέστ Χαμ",
-      "simpleText": "Στον αγώνα Τσέλσι και Γουέστ Χαμ, η Τσέλσι νίκησε με 3-2. Στο τέλος του αγώνα, υπήρξε ένταση μεταξύ των παικτών. Ο Κουκουρέγια προσπάθησε να σταματήσει τον Τραορέ και αυτός τον έσπρωξε στο έδαφος. Στη συνέχεια, άλλοι παίκτες μπλέκονται και δημιουργείται σύρραξη. Ο Μαυροπάνος είχε μια λογομαχία με τον Πάλμερ, ο οποίος του επιτέθηκε. Μετά από λίγα λεπτά, η κατάσταση ηρέμησε και ο αγώνας ολοκληρώθηκε κανονικά. Αυτό το επεισόδιο δείχνει πόσο έντονα μπορεί να είναι τα συναισθήματα στο ποδόσφαιρο.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/01/31/sports/agrio-epeisodio-metaksy-paikton-sto-tselsi-goyest-xam-o-mayropanos-xastoykise-ton-palmer-v/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/01/31/sports/agrio-epeisodio-metaksy-paikton-sto-tselsi-goyest-xam-o-mayropanos-xastoykise-ton-palmer-v/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου, περιγράφει ένταση και επεισόδια μεταξύ παικτών, κάτι που είναι άμεσα συνδεδεμένο με τον χώρο των σπορ. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-31T21:58:36.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "a138b402b7d6",
-        "title": "Καιρός: Ισχυρές βροχές και καταιγίδες σε εξέλιξη – Στο επίκεντρο Θεσσαλία, Πελοπόννησος και Αιγαίο – Πρόγνωση από την Α. Τυράσκη",
-        "simpleTitle": "Καταιγίδες και βροχές στην Ελλάδα",
-        "simpleText": "Ισχυρές βροχές και καταιγίδες πλήττουν πολλές περιοχές στην Ελλάδα. Τα φαινόμενα ξεκίνησαν από τη νύχτα και επηρεάζουν κυρίως την Θεσσαλία, την Πελοπόννησο και τα νησιά του Αιγαίου. Ιδιαίτερη προσοχή χρειάζεται σε περιοχές όπως η Μαγνησία και η Λάρισα, όπου αναμένονται πολλές βροχές και χιονοπτώσεις στα βουνά.\n\nΟ καιρός θα παραμείνει άσχημος και το απόγευμα θα είναι πιο έντονες οι καταιγίδες. Συνιστάται προσοχή στις περιοχές που είναι σε κόκκινο συναγερμό, καθώς υπάρχει κίνδυνος πλημμυρών. Οι βροχές θα συνεχιστούν και τις επόμενες ημέρες, αλλά θα εξασθενίσουν σιγά-σιγά.",
-        "sourceName": "ERT News, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-isxyres-vroxes-kai-kataigides-se-ekseliksi-sto-epikentro-thessalia-peloponnisos-kai-aigaio-prognosi-apo-tin-a-tyraski/",
+        "id": "2fde1f7d4d48",
+        "title": "Σε 41 ανήλθε ο αριθμός των νεκρών από την πυρκαγιά σε μπαρ στο Κραν-Μοντανά",
+        "simpleTitle": "Αυξήθηκαν οι νεκροί από την πυρκαγιά σε μπαρ στο Κραν-Μοντανά",
+        "simpleText": "Στο Κραν-Μοντανά, μία τραγωδία έχει κοστίσει τη ζωή σε 41 ανθρώπους από μια πυρκαγιά σε μπαρ. Η φωτιά ξέσπασε τη νύχτα της Πρωτοχρονιάς και οι τελευταίοι νεκροί είναι νέοι, ηλικίας από 14 έως 39 ετών. Ανάμεσα στους νεκρούς είναι 23 Ελβετοί και 18 ξένοι από διάφορες χώρες. Αυτό είναι σημαντικό θέμα γιατί αποκαλύπτονται σοβαρές ελλείψεις στην ασφάλεια.\n\nΗ έρευνα συνεχίζεται για να διαπιστωθεί πώς προκλήθηκε η φωτιά και αν τηρήθηκαν οι κανόνες ασφαλείας. Δύο υπεύθυνοι της κοινότητας ερευνώνται διότι δεν έκαναν ελέγχους για πυρκαγιά από το 2019. Αυτή η κατάσταση δείχνει την ανάγκη για καλύτερους κανόνες ασφαλείας στα δημόσια κτίρια.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/se-41-anilthe-o-arithmos-ton-nekron-apo-tin-pyrkagia-se-mpar-sto-kran-montana/",
         "sourceDomains": [
           "ertnews.gr",
-          "tovima.gr"
+          "news.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/kairos-isxyres-vroxes-kai-kataigides-se-ekseliksi-sto-epikentro-thessalia-peloponnisos-kai-aigaio-prognosi-apo-tin-a-tyraski/"
+            "url": "https://www.ertnews.gr/eidiseis/diethni/se-41-anilthe-o-arithmos-ton-nekron-apo-tin-pyrkagia-se-mpar-sto-kran-montana/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/01/society/kairos-se-ekseliksi-i-kakokairia-isxyres-vroxes-kai-kataigides/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4065256/tragodia-sto-kran-montana-o-arithmos-ton-nekron-apo-tin-pirkagia-se-bar-anilthe-se-41.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρά καιρικά φαινόμενα που έχουν σοβαρές επιπτώσεις στην ασφάλεια των περιοχών της Ελλάδας, όπως πλημμύρες και χιονοπτώσεις.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή τραγωδία με πολλούς θανάτους και ζητήματα ασφαλείας, που προκύπτουν από μια πυρκαγιά σε μπαρ.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gc5ae1d95149b4428dc1d09a54dc37621ee14b00aa97b349849981073d9d001581866216884735204896a95c552df923a1c3633dcce0d07e06489d1aef8e17b51_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260201-sk-KAIROS-TYRASKI.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260201-sk-KAIROS-TYRASKI.jpg",
-        "publishedAt": "2026-02-01T07:18:12.000Z"
-      },
-      {
-        "id": "b4caff1c2f42",
-        "title": "Σε εξέλιξη η κακοκαιρία – Μηνύματα από το «112» και «Red Code» σε πολλές περιοχές της χώρας",
-        "simpleTitle": "Κακοκαιρία με ισχυρές βροχές και προειδοποιήσεις",
-        "simpleText": "Η κακοκαιρία συνεχίζεται και οι μετεωρολόγοι περιμένουν δυνατές βροχές και καταιγίδες. Αυτό συμβαίνει σε πολλές περιοχές της Ελλάδας, όπως στην Αττική. Οι βροχές μπορεί να διαρκέσουν αρκετές ώρες. Υπάρχει κίνδυνος για πλημμύρες, δηλαδή για πολύ νερό που μπορεί να δημιουργήσει προβλήματα. Οι αρχές έχουν στείλει μηνύματα μέσω του «112» για να προειδοποιήσουν τους πολίτες. Είναι σημαντικό να είμαστε προσεκτικοί και να ακολουθούμε τις οδηγίες ασφαλείας. Δεν ξέρουμε ακόμα πότε θα σταματήσει η κακοκαιρία.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564054799/se-exelixi-i-kakokairia-minymata-apo-to-112-kai-red-code-se-polles-perioches-tis-choras/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564054799/se-exelixi-i-kakokairia-minymata-apo-to-112-kai-red-code-se-polles-perioches-tis-choras/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/01/31/society/se-ekseliksi-i-kakokairia-minymata-apo-to-112-kai-kokkinos-synagermos-se-polles-perioxes-tis-xoras/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την κακοκαιρία, τις προειδοποιήσεις των αρχών και τον κίνδυνο πλημμυρών, γεγονότα που σχετίζονται με σοβαρά ζητήματα υγείας και ασφάλειας.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4d46b25d140aa12a22a767a4bd0d60f9fc9da6c6d014b35e10e73ed3f9b02d44ebcb5bfbcf1e5c8551550bda80a4a89a65dd56f5b37ce574c5496a1faff8c37d_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g16626e79f8d97fa794db16c3a25f19c21683a1469bbf69575a1f7b8de69a0fdaf307f2e0d3eb80e87fee51111a02b9aeb710f4aa4463588af7cfc8e43b0ba3f4_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-02-01T05:29:48.000Z"
+        "publishedAt": "2026-02-01T15:09:01.000Z"
       },
       {
-        "id": "5c5082f60250",
-        "title": "Ο Τραμπ ισχυρίζεται ότι οι ΗΠΑ βρίσκονται σε συνομιλίες με το Ιράν",
-        "simpleTitle": "Ο Τραμπ λέει ότι μιλάμε με το Ιράν",
-        "simpleText": "Ο Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, ανακοίνωσε ότι το Ιράν βρίσκεται σε διαπραγματεύσεις με την Αμερική. Αυτό συνέβη το Σάββατο, ενώ υπήρχε προειδοποίηση από τον αρχηγό του ιρανικού στρατού για πιθανές επιθέσεις. Ο Τραμπ δεν έδωσε λεπτομέρειες, αλλά τόνισε ότι το Ιράν μάς μιλάει. Ταυτόχρονα, οι Ηνωμένες Πολιτείες έχουν στείλει πολλά πολεμικά πλοία στη Μέση Ανατολή, γιατί ανησυχούν για την κατάσταση.\n\nΗ ανακοίνωση αυτή είναι σημαντική, γιατί δείχνει ότι μπορεί να υπάρξει διάλογος και ηρεμία ανάμεσα στις χώρες. Δεν ξέρουμε ακόμα τι θα συμβεί ή ποιες ακριβώς είναι οι συζητήσεις.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-isxyrizetai-oti-oi-ipa-vriskontai-se-synomilies-me-to-iran/",
+        "id": "6b7abda498dc",
+        "title": "Ο Νίκος Δένδιας στα αποκαλυπτήρια του ανδριάντα του Καποδίστρια στην Αργυρούπολη",
+        "simpleTitle": "Αποκαλυπτήρια ανδριάντα του Καποδίστρια",
+        "simpleText": "Στην Αργυρούπολη έγινε η αποκαλυπτήρια του ανδριάντα του Ιωάννη Καποδίστρια, του πρώτου Κυβερνήτη της Ελλάδας. Στην εκδήλωση, ο υπουργός Εθνικής Άμυνας, Νίκος Δένδιας, μίλησε για τη σημασία των θεσμών, που προώθησε ο Καποδίστριας. Ανέφερε ότι χρειάζεται να εμπνευστούμε από τον Καποδίστρια και να ξαναχτίσουμε την εμπιστοσύνη στους θεσμούς της χώρας μας. Ο υπουργός υπογράμμισε ότι η ιστορία μας είναι σημαντική και πρέπει να την θυμόμαστε, ειδικά οι νέοι. Η εκδήλωση αυτή είναι σημαντική γιατί μας θυμίζει τις θυσίες και τη δουλειά του Καποδίστρια για την Ελλάδα.",
+        "sourceName": "TA NEA, Protagon",
+        "sourceUrl": "https://www.tanea.gr/2026/02/01/politics/o-nikos-dendias-sta-apokalyptiria-tou-andrianta-tou-kapodistria-stin-argyroupoli/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-isxyrizetai-oti-oi-ipa-vriskontai-se-synomilies-me-to-iran/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564054781/tramp-vriskomaste-se-synomilies-me-to-iran/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε διπλωματικές συνομιλίες και στρατιωτικά ζητήματα μεταξύ ΗΠΑ και Ιράν, γεγονός που έχει σοβαρές πολιτικές προεκτάσεις και επιπτώσεις στην ασφάλεια.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-31T21:56:00.000Z"
-      },
-      {
-        "id": "142ff7ff7e70",
-        "title": "Σε κλοιό κακοκαιρίας η χώρα – Ηχησε το 112, ποιες περιοχές βρίσκονται στο «κόκκινο»",
-        "simpleTitle": "Κακοκαιρία πλήττει τη χώρα – Προειδοποιήσεις για επικίνδυνες καιρικές συνθήκες",
-        "simpleText": "Η χώρα μας αντιμετωπίζει κακοκαιρία με δυνατές βροχές και καταιγίδες. Αυτές οι καιρικές συνθήκες θα συνοδεύονται από ισχυρούς ανέμους, που μπορεί να φτάσουν μέχρι 9 μποφόρ. Οι περιοχές που περιλαμβάνονται στις προειδοποιήσεις είναι η Μακεδονία, η Θεσσαλία και η Πελοπόννησος. Είναι πολύ σημαντικό να προσέχουν οι άνθρωποι, γιατί μπορεί να υπάρχουν και τοπικές χαλαζοπτώσεις. Αν χρειαστεί, καλό είναι να μένουμε σε ασφαλή μέρη και να ακούμε τις οδηγίες από τις αρχές για την ασφάλειά μας.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/society/564054772/se-kloio-kakokairias-i-chora-ichise-to-112-poies-perioches-vriskontai-sto-kokkino/",
-        "sourceDomains": [
-          "kathimerini.gr",
+          "tanea.gr",
           "protagon.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564054772/se-kloio-kakokairias-i-chora-ichise-to-112-poies-perioches-vriskontai-sto-kokkino/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/01/politics/o-nikos-dendias-sta-apokalyptiria-tou-andrianta-tou-kapodistria-stin-argyroupoli/"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/neo-kyma-kakokairias-poies-perioxes-bainoun-se-kokkino-synagermo-44343304023"
+            "url": "https://www.protagon.gr/epikairotita/o-dendias-sta-apokalyptiria-adrianta-tou-kapodistria-44343304239"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές συνθήκες κακοκαιρίας που επηρεάζουν τη χώρα, περιλαμβάνοντας προειδοποιήσεις για επικίνδυνα καιρικά φαινόμενα και την ανάγκη για προστασία των πολιτών.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g8b17b1506ee07db8271566769deaf6c8370b7fa449ffc10237182c8322f1ddf9431c1e4b28ad6c6b45296618ac1125ba2b27ba5a89d339ba2821a30650f90cb1_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-31T21:24:29.000Z"
-      },
-      {
-        "id": "58cb42ed167f",
-        "title": "Η ηθική της πληροφορίας στα ΜΜΕ μπροστά στην ανθρώπινη απώλεια",
-        "simpleTitle": "Η ηθική της πληροφορίας στα ΜΜΕ",
-        "simpleText": "Πρόσφατα συνέβη ένα σοβαρό ατύχημα στη Ρουμανία, όπου επτά νέοι άνθρωποι έχασαν τη ζωή τους. Η είδηση αυτή διαδόθηκε πολύ γρήγορα, αλλά φαίνεται ότι πολλές φορές οι ειδήσεις χάνουν την ανθρώπινη πλευρά. Αντί να φέρνουν εικόνες από πραγματικά γεγονότα, γίνονται απλώς πληροφορίες προς κατανάλωση. Αυτό δείχνει πώς οι ειδήσεις συχνά γίνονται προϊόντα και όχι κοινωνικά αγαθά. Είναι σημαντικό να φροντίζουμε να μην χάνουμε την ενσυναίσθηση και την ευαισθησία όταν μιλάμε για ανθρώπινες απώλειες.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31355-ithiki-tis-pliroforias-anthropini-axioprepia-mme/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31355-ithiki-tis-pliroforias-anthropini-axioprepia-mme/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα με ανθρωπιστικές επιπτώσεις και εξετάζει την ηθική διάσταση της πληροφορίας στα ΜΜΕ, αναδεικνύοντας κοινωνικά ζητήματα σχετικά με την ενσυναίσθηση και την ανθρώπινη απώλεια.",
+        "categoryReason": "Η είδηση αφορά τα αποκαλυπτήρια του ανδριάντα του Ιωάννη Καποδίστρια και την ομιλία του υπουργού Εθνικής Άμυνας Νίκου Δένδια, που εστιάζει στη σημασία των θεσμών και της ιστορίας για την Ελλάδα, θέματα άμεσης πολιτικής και κοινωνικής σημασίας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-01-30T12:46:59.000Z"
+        "publishedAt": "2026-02-01T14:47:15.000Z"
       },
       {
-        "id": "cf35becb2785",
-        "title": "Τι είναι ο κιρκάδιος ρυθμός και πώς επηρεάζει την καθημερινότητά μας",
-        "simpleTitle": "Ο ρόλος του κιρκάδιου ρυθμού στη ζωή μας",
-        "simpleText": "Ο κιρκάδιος ρυθμός είναι ο εσωτερικός μας ρολόι που βοηθά το σώμα μας να λειτουργεί σωστά. Αυτός ο ρυθμός επηρεάζει την ενέργεια και την διάθεσή μας κάθε μέρα. Καταλαβαίνουμε πώς μπορούμε να έχουμε καλύτερη καθημερινότητα αν γνωρίζουμε πώς δουλεύει. Η καλή κατανόηση του κιρκάδιου ρυθμού μπορεί να μας βοηθήσει να νιώθουμε πιο ήρεμοι και γεμάτοι ζωή. Δεν ξέρουμε ακόμα πολλές λεπτομέρειες για το πώς να τον ρυθμίσουμε, αλλά είναι σημαντικό να προσέχουμε τις συνήθειές μας, όπως τον ύπνο και τη διατροφή μας.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31327-kirkadios-rithmos/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31327-kirkadios-rithmos/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον κιρκάδιο ρυθμό, μια σοβαρή επιστημονική έννοια που σχετίζεται με τη λειτουργία του σώματος, την ευεξία και τη διάθεση, επομένως ανήκει στην κατηγορία των σοβαρών ειδήσεων.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-29T15:54:21.000Z"
-      }
-    ],
-    "happy": [
-      {
-        "id": "e860a931d3e0",
-        "title": "Εορτολόγιο: Ποιοι γιορτάζουν την 1η Φεβρουαρίου",
-        "simpleTitle": "Γιορτές 1η Φεβρουαρίου",
-        "simpleText": "Στην Κυριακή 1 Φεβρουαρίου γιορτάζουν αρκετοί Άγιοι. Η Ορθόδοξη Εκκλησία θυμάται τον Τελώνη και τον Φαρισαίο. Γίνεται επίσης γιορτή για τον Άγιο Τρύφωνα και τη Φιλικητάτη. Οι άνθρωποι που έχουν αυτά τα ονόματα, όπως Τρύφων και Φιλικήτα, γιορτάζουν την ημέρα αυτή. Αυτή η γιορτή σημαίνει χαρά για τους εορτάζοντες και τους φίλους τους. Είναι καλή ιδέα να τους ευχηθούν όλοι και να περάσουν όμορφα μαζί.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-tin-1i-fevrouariou/",
+        "id": "13f7acf3f24d",
+        "title": "Κατερίνη: Ληστεία με λεία κοσμήματα αξίας 300.000 ευρώ ",
+        "simpleTitle": "Ληστεία κοσμημάτων στην Κατερίνη",
+        "simpleText": "Στην Κατερίνη, ένας 54χρονος πωλητής κοσμημάτων έπεσε θύμα ληστείας. Οι ληστές άρπαξαν το αυτοκίνητό του, το οποίο είχε κοσμήματα αξίας περίπου 300.000 ευρώ. Ο άντρας σταμάτησε σε ένα βενζινάδικο για να ελέγξει τα λάστιχα του αυτοκινήτου του. Την ώρα που τον πλησίασαν, ο ένας ληστής μπήκε στο αυτοκίνητό του και έφυγε. Προσπάθησε να το σταματήσει, αλλά τραυματίστηκε όταν χτύπησε σε άλλο αυτοκίνητο. Μετά τη ληστεία, το αυτοκίνητό του βρέθηκε καμένο κοντά στην πόλη. Οι αστυνομικοί ερευνούν την υπόθεση για να βρουν τους δράστες.",
+        "sourceName": "ERT News, Kathimerini, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/ert3/katerini-listeia-me-leia-kosmimata-aksias-300-000-eyro/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "kathimerini.gr",
+          "news.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-tin-1i-fevrouariou/"
+            "url": "https://www.ertnews.gr/ert3/katerini-listeia-me-leia-kosmimata-aksias-300-000-eyro/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/01/greece/poioi-giortazoun-simera-1-fevrouariou/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564054991/listeia-me-leia-kosmimata-axias-300-000-eyro-stin-katerini/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4065214/listia-me-lia-kosmimata-axias-chiliadon-evro-stin-katerini.html"
           }
         ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αφορά εορτές και χαρές για όσους γιορτάζουν, δημιουργώντας μια θετική ατμόσφαιρα.",
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά μια σοβαρή περίπτωση ληστείας με σωματική βλάβη και μεγάλο χρηματικό ποσό σε κοσμήματα, γεγονός που θίγει ζητήματα εγκληματικότητας και ασφάλειας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-01T05:28:25.000Z"
+        "publishedAt": "2026-02-01T14:39:14.000Z"
       },
+      {
+        "id": "3ac9aff80d5e",
+        "title": "Ν. Δένδιας: Παρακαταθήκη του Ιωάννη Καποδίστρια η ανάγκη να έχει στέρεους και δυνατούς θεσμούς η πατρίδα μας",
+        "simpleTitle": "Δένδιας: Σημασία των ισχυρών θεσμών για την Ελλάδα",
+        "simpleText": "Ο υπουργός Εθνικής Άμυνας, Νίκος Δένδιας, εκπροσώπησε τον πρωθυπουργό στην εκδήλωση για τον ανδριάντα του Ιωάννη Καποδίστρια. Αυτή η τελετή έγινε στην Αργυρούπολη. Ο Δένδιας τόνισε ότι είναι σημαντικό η Ελλάδα να έχει στέρεους και δυνατούς θεσμούς. Ο Καποδίστριας, ως πρώτος κυβερνήτης της χώρας, άφησε πίσω του μια σημαντική παρακαταθήκη. Το μήνυμα αυτό είναι πολύ σημαντικό για το μέλλον της πατρίδας μας.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/politics/564054982/n-dendias-parakatathiki-toy-ioanni-kapodistria-i-anagki-na-echei-stereoys-kai-dynatoys-thesmoys-i-patrida-mas/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/politics/564054982/n-dendias-parakatathiki-toy-ioanni-kapodistria-i-anagki-na-echei-stereoys-kai-dynatoys-thesmoys-i-patrida-mas/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4065186/dendias-parakatathiki-tou-ioanni-kapodistria-i-anagki-na-echi-stereous-ke-dinatous-thesmous-i-patrida-mas.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την ομιλία του υπουργού Εθνικής Άμυνας για τη σημασία των θεσμών στην Ελλάδα και την παρακαταθήκη του Ιωάννη Καποδίστρια, που σχετίζεται με σοβαρά ζητήματα της πολιτικής και της ιστορίας της χώρας.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g5d292f3531151a8acd44ce4114ad1f0cc1492ffa203024ee549cf48c787579a25166de98b2c2e1c0c67f4fcbc17823eeac9db953ef7cd4484bda23886861732c_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-01T14:15:16.000Z"
+      },
+      {
+        "id": "69fed1986a14",
+        "title": "Τουρκία: 16 νεκροί και 30 τραυματίες σε δύο τροχαία δυστυχήματα",
+        "simpleTitle": "Δύο τροχαία στην Τουρκία με 16 νεκρούς",
+        "simpleText": "Στην Τουρκία, συνέβησαν δύο τροχαία ατυχήματα σήμερα το πρωί. Ένα λεωφορείο, που είχε 34 επιβάτες, ανετράπη στην Αττάλεια και εννέα άνθρωποι σκοτώθηκαν. Ο οδηγός του λεωφορείου δεν κατάφερε να σωθεί, παρά τις προσπάθειες. Στο δεύτερο ατύχημα στο Μπουρντούρ, επτά ακόμα άνθρωποι έχασαν τη ζωή τους. Συνολικά, 16 άτομα έχουν χάσει τη ζωή τους και 30 είναι τραυματίες.\n\nΗ κακή κατάσταση του δρόμου λόγω βροχής και ομίχλης προκάλεσε τα ατυχήματα. Είναι σημαντικό να οδηγούμε προσεκτικά σε δύσκολες καιρικές συνθήκες. Πολλοί άνθρωποι επηρεάζονται από αυτά τα ατυχήματα, καθώς η Αττάλεια είναι δημοφιλής τουριστικός προορισμός. Δεν έχει ανακοινωθεί αν υπάρχουν ξένοι πολίτες ανάμεσα στους τραυματίες.",
+        "sourceName": "Kathimerini, TA NEA, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564054976/toyrkia-16-nekroi-kai-30-traymaties-se-dyo-trochaia-dystychimata/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564054976/toyrkia-16-nekroi-kai-30-traymaties-se-dyo-trochaia-dystychimata/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/01/world/aneipoti-tragodia-stin-toyrkia-dekaeksi-nekroi-kai-30-traymaties-se-dyo-troxaia-dystyximat/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/01/world/tourkia-dekaeksi-nekroi-se-dyo-troxaia-stin-attaleia/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε δύο σοβαρά τροχαία δυστυχήματα στην Τουρκία με 16 θύματα και 30 τραυματίες, γεγονός που εγείρει σοβαρά ζητήματα ασφαλείας και δημόσιας υγείας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.youtube.com/embed/q_uKg0VpQiM?feature=oembed",
+        "publishedAt": "2026-02-01T14:13:23.000Z"
+      },
+      {
+        "id": "b3574a158885",
+        "title": "Σταθερά τα τιμολόγια της ΔΕΗ τον Φεβρουάριο, μείωση στα κυμαινόμενα",
+        "simpleTitle": "Σταθερές τιμές για τη ΔΕΗ τον Φεβρουάριο",
+        "simpleText": "Τον Φεβρουάριο, οι τιμές της ΔΕΗ θα παραμείνουν σταθερές. Αυτό σημαίνει ότι οι άνθρωποι δεν θα δουν αλλαγές στις βασικές χρεώσεις. Οι τιμές στο πράσινο τιμολόγιο παραμένουν οι ίδιες στα 0,125 ευρώ ανά κιλοβατώρα. Επιπλέον, οι κυμαινόμενες τιμές είναι περίπου 10% χαμηλότερες σε σχέση με πέρυσι. Αυτό είναι καλό νέο για τους καταναλωτές, γιατί πληρώνουν λιγότερα για το ρεύμα τους. Δεν έχουν ανακοινωθεί άλλες αλλαγές ή νέες πληροφορίες για το μέλλον.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/economy/564054952/stathera-ta-timologia-tis-dei-ton-fevroyario-meiosi-sta-kymainomena/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/economy/564054952/stathera-ta-timologia-tis-dei-ton-fevroyario-meiosi-sta-kymainomena/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/oikonomia/article/4065132/stathera-ta-timologia-tis-dei-gia-ton-fevrouario-miosi-sta-kimenomena.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την σταθερότητα και τις αλλαγές στα τιμολόγια ηλεκτρικής ενέργειας, η οποία είναι σημαντική για οικονομικά και κοινωνικά ζητήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-01T13:24:00.000Z"
+      }
+    ],
+    "happy": [
       {
         "id": "28f3d8c9b81e",
         "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-        "simpleTitle": "Κρακοβία: Η καθαρότερη πόλη του κόσμου το 2025",
-        "simpleText": "Η Κρακοβία, μία πόλη στην Πολωνία, αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό έγινε χάρη στις υπέροχες υπηρεσίες καθαριότητας που προσφέρει στους κατοίκους και τους επισκέπτες της. Η Κρακοβία έχει πολλές τουριστικές ομορφιές και πολύ καλή φροντίδα για το περιβάλλον.\n\nΈχει ψηφιστεί από πολλές χιλιάδες ανθρώπους σε μια έρευνα. Ξεπέρασε άλλες γνωστές πόλεις, όπως η Σιγκαπούρη. Αυτό είναι πολύ σημαντικό, γιατί δείχνει ότι η πόλη προσπαθεί για το καλύτερο, κάνοντάς την ένα όμορφο μέρος για επίσκεψη. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες ακόμα.",
+        "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη του κόσμου για το 2025",
+        "simpleText": "Η Κρακοβία, μια πόλη στην Πολωνία, ανακηρύχθηκε η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό γίνεται επειδή φροντίζει πολύ για την καθαριότητά της. Η πόλη έχει ιστορία και ομορφιά και προσελκύει πολλούς επισκέπτες. Σύμφωνα με μια έρευνα, η Κρακοβία έχει το 98,5% των θετικών κριτικών για την καθαριότητα. Ξεπέρασε άλλες μεγάλες πόλεις, όπως η Σιγκαπούρη και κάποιες στην Ιαπωνία. Αυτό είναι σημαντικό, γιατί δείχνει πώς μπορεί μια πόλη να είναι όμορφη και καθαρή ταυτόχρονα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
         "sourceDomains": [
@@ -625,17 +795,17 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά την αναγνώριση της Κρακοβίας ως την καθαρότερη πόλη στον κόσμο, γεγονός που προάγει θετικά συναισθήματα και αναδεικνύει τις προσπάθειες για τη βελτίωση της ποιότητας ζωής στην πόλη.",
+        "categoryReason": "Η είδηση αναφέρεται στην Κρακοβία που αναδείχθηκε ως η καθαρότερη πόλη στον κόσμο για το 2025, κάτι που είναι θετικό και ευχάριστο για την πόλη και τους κατοίκους της.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g387ac0cc24333862e93e5cb0810b002bc9309940ab8bc1dd825e1fa5fbdd5dcbe3f4e1ffdf534aec927d356a2cc4aa7334e5aca25fd38e54a46c2cca897ad757_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g92f0239b5449b974f68b10cb8edbc68232a3a6b5cc156d1041251bb6c920c523c9e4d5cd3142395f29df206b24860f9c086390589d4c64b394766e7870771c6b_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-01-30T15:36:00.000Z"
       },
       {
         "id": "7ce1d3a75788",
         "title": "Η καλοσύνη που σερβίρεται καθημερινά: Ένας ηλικιωμένος, ένας σεφ και ένα εστιατόριο έγιναν οικογένεια",
-        "simpleTitle": "Καθημερινά γεύματα με αγάπη: Η ιστορία ενός ηλικιωμένου και ενός σεφ",
-        "simpleText": "Ο Τσάρλι Χικς είναι 78 χρονών και κάθε μέρα πηγαίνει στο ίδιο εστιατόριο στη Φλόριντα. Για δέκα χρόνια, παραγγέλνει πάντα το ίδιο φαγητό, γκούμπο με λίγο ρύζι. Γι’ αυτόν, το εστιατόριο είναι σαν το σπίτι του. Εκεί τον γνωρίζουν πολύ καλά και νιώθει άνετα. Ο Τσάρλι δεν πηγαίνει μόνο για το φαγητό, αλλά και για την παρέα που έχει με τους ανθρώπους εκεί. Είναι ωραίο να έχουμε τέτοιες σχέσεις, γιατί η καλοσύνη και η φιλία κάνουν όλους πιο ευτυχισμένους.",
+        "simpleTitle": "Ένας ηλικιωμένος και ένας σεφ γίνονται καλοί φίλοι",
+        "simpleText": "Ο Τσάρλι Χικς είναι 78 χρονών και πηγαίνει κάθε μέρα στο αγαπημένο του εστιατόριο στην Φλόριντα. Για δέκα χρόνια, παραγγέλνει πάντα το ίδιο πιάτο, γκούμπο με ρύζι. Για τον Τσάρλι, το εστιατόριο είναι πολύ σημαντικό. Είναι ένα μέρος που νιώθει άνετα και σαν στο σπίτι του. Εδώ τον γνωρίζουν όλοι και τον προσέχουν.\n\nΗ καθημερινή του αυτή ρουτίνα τον κάνει χαρούμενο. Αυτή η καλή σχέση με τον σεφ και το εστιατόριο δείχνει πόσο σημαντική είναι η καλοσύνη στην ζωή μας. Αυτό το μικρό καθημερινό γεγονός δείχνει πώς μπορεί να δημιουργηθούν όμορφες φιλίες.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/",
         "sourceDomains": [
@@ -648,7 +818,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία αναδεικνύει τη σημασία της ευγένειας και της φιλίας σε μια καθημερινή ρουτίνα, προβάλλοντας θετικά συναισθήματα και ανθρώπινες σχέσεις.",
+        "categoryReason": "Η είδηση αναδεικνύει μια θετική ιστορία καλοσύνης και σχέσεων, όπου η καθημερινότητα ενός ηλικιωμένου συνδέεται με τις ανθρώπινες σχέσεις σε ένα εστιατόριο, προσφέροντας χαρά και ζεστασιά.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -657,8 +827,8 @@
       {
         "id": "7c24e95268bf",
         "title": "Ο γιατρός που του έσωσε τη ζωή και χρόνια μετά χειρουργούν μαζί για καλό σκοπό στην Αιθιοπία",
-        "simpleTitle": "Γιατρός και ασθενής συνεργάζονται για καλό σκοπό στην Αιθιοπία",
-        "simpleText": "Η ιστορία του Μεσφίν Γιανά δείχνει πόσο σημαντική είναι η καλοσύνη. Όταν ήταν μικρός, αρρώστησε και η κατάσταση του έγινε σοβαρή. Ένας γιατρός τον βοήθησε και του έσωσε τη ζωή. Σήμερα, πολλά χρόνια αργότερα, ο Μεσφίν και ο γιατρός του συνεργάζονται σε χειρουργεία στην Αιθιοπία. Αυτό που κάνουν είναι πολύ ωραίο και βοηθάει άλλους ανθρώπους που χρειάζονται βοήθεια. Είναι μια καλή στιγμή για να δείξουν ότι η συνεργασία μπορεί να αλλάξει ζωές.",
+        "simpleTitle": "Γιατρός και πρώην ασθενής συνεργάζονται για καλό σκοπό στην Αιθιοπία",
+        "simpleText": "Ο Mesfin Yana είναι μια ιστορία αγάπης και καλοσύνης. Γεννήθηκε πριν από 41 χρόνια σε ένα φτωχό χωριό στην Αιθιοπία, χωρίς νερό και υποδομές. Όταν ήταν μικρός, μια αρρώστια του δημιούργησε σοβαρό πρόβλημα στην καρδιά του, αλλά ένας γιατρός του έσωσε τη ζωή. Εδώ και χρόνια, συνεχιζουν να χειρουργούν μαζί, προσφέροντας βοήθεια σε άλλους ανθρώπους που την χρειάζονται. Η συνεργασία τους δείχνει πώς η καλοσύνη μπορεί να αλλάξει πολλές ζωές.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31063-giatros-pou-tou-esose-ti-zoi-kai-xronia-meta-xeirourgoun-mazi-gia-kalo-skopo-stin-aithiopia/",
         "sourceDomains": [
@@ -671,65 +841,42 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία αναδεικνύει την καλοσύνη και τη συνεργασία που αλλάζει ζωές, προσφέροντας ελπίδα και βοήθεια σε άλλους, κάτι που δημιουργεί μια θετική και χαρούμενη ατμόσφαιρα.",
+        "categoryReason": "Η ιστορία του Mesfin Yana είναι γεμάτη καλοσύνη και αναδεικνύει την επίδραση της συνεργασίας και της ανιδιοτελούς βοήθειας, προσφέροντας έμπνευση και ελπίδα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-01-29T06:14:00.000Z"
-      },
-      {
-        "id": "d25034d63b2a",
-        "title": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
-        "simpleTitle": "Μια αγελάδα αλλάζει την εικόνα για τη νοημοσύνη των ζώων",
-        "simpleText": "Μια αγελάδα από την Αυστρία κάνει πολλούς να σκέφτονται διαφορετικά για τη νοημοσύνη των ζώων. Η Βερόνικα, μια καφέ αγελάδα, είναι η πρώτη που έχει καταγραφεί να χρησιμοποιεί εργαλεία με έξυπνο και χρήσιμο τρόπο. Αυτό έγινε στην καθημερινότητά της, σε ένα αγρόκτημα, όπου ζει σαν μέλος της οικογένειας. Αυτή η ανακάλυψη δείχνει ότι τα ζώα μπορούν να είναι πιο έξυπνα από ό,τι νομίζαμε μέχρι τώρα. Είναι σημαντικό, γιατί μας βοηθά να κατανοήσουμε καλύτερα πώς σκέφτονται και αντιδρούν τα ζώα γύρω μας.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αναφέρει μια θετική και ενθαρρυντική ανακάλυψη σχετικά με τη νοημοσύνη των ζώων, την οποία αντιπροσωπεύει η αγελάδα Βερόνικα, προκαλώντας χαρά και αλλαγή στην αντίληψη του κοινού.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-28T11:45:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "fa129dc5874e",
-        "title": "Άγριο επεισόδιο μεταξύ παικτών στο Τσέλσι-Γουέστ Χαμ – Ο Μαυροπάνος χαστούκισε τον Πάλμερ (video)",
-        "simpleTitle": "Επεισόδιο στο Τσέλσι-Γουέστ Χαμ",
-        "simpleText": "Στον αγώνα Τσέλσι και Γουέστ Χαμ, η Τσέλσι νίκησε με 3-2. Στο τέλος του αγώνα, υπήρξε ένταση μεταξύ των παικτών. Ο Κουκουρέγια προσπάθησε να σταματήσει τον Τραορέ και αυτός τον έσπρωξε στο έδαφος. Στη συνέχεια, άλλοι παίκτες μπλέκονται και δημιουργείται σύρραξη. Ο Μαυροπάνος είχε μια λογομαχία με τον Πάλμερ, ο οποίος του επιτέθηκε. Μετά από λίγα λεπτά, η κατάσταση ηρέμησε και ο αγώνας ολοκληρώθηκε κανονικά. Αυτό το επεισόδιο δείχνει πόσο έντονα μπορεί να είναι τα συναισθήματα στο ποδόσφαιρο.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/01/31/sports/agrio-epeisodio-metaksy-paikton-sto-tselsi-goyest-xam-o-mayropanos-xastoykise-ton-palmer-v/",
+        "id": "d7c412d242c8",
+        "title": "Live streaming: Δείτε τον αγώνα Άρης-Παναθηναϊκός για την Basket League (16:00, ΕΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Ζωντανά ο αγώνας Άρης-Παναθηναϊκός",
+        "simpleText": "Σήμερα στις 16:00 παίζει ο αγώνας μπάσκετ Άρης και Παναθηναϊκός. Είναι μέρος της 17ης αγωνιστικής της Basket League στην Ελλάδα. Ο αγώνας θα μεταδοθεί ζωντανά από την ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον παρακολουθήσετε online μέσω του ERTFLIX. Είναι μια καλή ευκαιρία να δείτε δύο μεγάλες ομάδες να αγωνίζονται. Αν ενδιαφέρεστε, ετοιμαστείτε να το δείτε!",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aris-panathinaikos-gia-tin-basket-league-16-00-ert2-spor/",
         "sourceDomains": [
-          "tanea.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/01/31/sports/agrio-epeisodio-metaksy-paikton-sto-tselsi-goyest-xam-o-mayropanos-xastoykise-ton-palmer-v/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aris-panathinaikos-gia-tin-basket-league-16-00-ert2-spor/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν αγώνα ποδοσφαίρου, περιγράφει ένταση και επεισόδια μεταξύ παικτών, κάτι που είναι άμεσα συνδεδεμένο με τον χώρο των σπορ. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ μεταξύ δύο μεγάλων ομάδων της Ελλάδας και σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-31T21:58:36.000Z"
+        "imageUrl": "https://pixabay.com/get/gb3f3749cd75ec95a5b61c0f9e31f3462fa2502e4f15988361681dd5598d9f8ada70e1dd8f0b69ba0ea04d90ad5d097a26a8a8c60379f8ae0d627a47f4087d47c_1280.jpg",
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&amp;autostart=true",
+        "publishedAt": "2026-02-01T13:45:00.000Z"
       },
       {
         "id": "c4528d11ccad",
         "title": "Ο Ολυμπιακός συνεχίζει αήττητος στην Basket League με νίκη επί του Περιστερίου",
-        "simpleTitle": "Ο Ολυμπιακός νίκησε ξανά στην Basket League",
-        "simpleText": "Ο Ολυμπιακός κέρδισε το Περιστέρι και παραμένει αήττητος στην Basket League. Αυτό σημαίνει ότι είναι πολύ κοντά να γίνει πρώτος στην κανονική περίοδο. Η ομάδα δείχνει ότι έχει καλή σταθερότητα και ότι μπορεί να παίξει καλά, ακόμα και όταν λείπουν σημαντικοί παίκτες. Αυτή η νίκη είναι σημαντική γιατί δείχνει την δύναμη και την ικανότητα της ομάδας. Οι φίλοι της ομάδας είναι χαρούμενοι και ελπίζουν για περισσότερες νίκες στο μέλλον.",
+        "simpleTitle": "Ο Ολυμπιακός νίκησε πάλι στην Basket League",
+        "simpleText": "Ο Ολυμπιακός κέρδισε το Περιστέρι και συνεχίζει να είναι αήττητος στην Basket League. Αυτή είναι μια πολύ σημαντική νίκη για την ομάδα. Έγινε πρόσφατα και δείχνει πόσο καλοί είναι. Ο Ολυμπιακός αποδεικνύει ότι μπορεί να παίζει καλά, ακόμα και όταν λείπουν κάποιοι βασικοί παίκτες. Η νίκη αυτή τους βοηθά να είναι μπροστά για να κερδίσουν την κανονική περίοδο της διοργάνωσης. Αυτό είναι σημαντικό για τους φιλάθλους και την ομάδα.",
         "sourceName": "TO BHMA",
         "sourceUrl": "https://www.tovima.gr/2026/01/31/sports/o-olympiakos-synexizei-aittitos-stin-basket-league-me-niki-epi-tou-peristeriou/",
         "sourceDomains": [
@@ -742,9 +889,9 @@
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη νίκη του Ολυμπιακού στην Basket League, που είναι αμιγώς αθλητική και σχετίζεται με πρωταθλήματα και ομάδες. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τη νίκη του Ολυμπιακού στην Basket League, που είναι κεντρικό θέμα στον αθλητισμό και σχετίζεται με το πρωτάθλημα του μπάσκετ. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ga014327bb29e8d01425295a58491cf01662ce404b31771c98066c650f1720c4f41f1116431c90aea52dc72812344f8c83718b6ec0601f39080ea2265eec8b7f9_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g832ff72e32a762ac235b5d4318fc116adfc515533a3b1d229fb112e3d4ab3bd951a7928661750906abdaca5cf36724ab4195b620edc0b929c69e38be53683a36_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-01-31T17:42:46.000Z"
       }
@@ -754,8 +901,8 @@
       {
         "id": "7e6a4deec222",
         "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-        "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας είναι η καλύτερη στον κόσμο το 2025",
-        "simpleText": "Μια εντυπωσιακή τοιχογραφία στη Καλαμάτα αναδείχθηκε ως η καλύτερη στον κόσμο για το 2025. Το έργο είναι εμπνευσμένο από τη Μαρία Κάλλας και δημιουργήθηκε από τον καλλιτέχνη KLE. Η διάκριση αυτή δείχνει ότι η σύγχρονη τέχνη του δρόμου μπορεί να συγκινεί σε όλο τον κόσμο. Οι άνθρωποι από διάφορες χώρες ψήφισαν γι’ αυτή την τοιχογραφία, δείχνοντας την αγάπη τους. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας, που την φιλοξενεί.",
+        "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι πρώτη στον κόσμο για το 2025",
+        "simpleText": "Στην Καλαμάτα, μια τοιχογραφία που αποτυπώνει τη Μαρία Κάλλας έχει ανακηρυχθεί η καλύτερη το 2025. Το έργο αυτό δημιούργησε ο καλλιτέχνης KLE και βρίσκεται σε έναν κεντρικό δρόμο. Η τοιχογραφία ξεχωρίζει ανάμεσα σε πολλές άλλες στον κόσμο και αγγίζει τις καρδιές των ανθρώπων. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας. Αποδεικνύει ότι η σύγχρονη ελληνική τέχνη μπορεί να κάνει θόρυβο διεθνώς και να συγκινεί πολύ κόσμο.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
         "sourceDomains": [
@@ -768,7 +915,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αναφέρεται στη διακρίση μιας τοιχογραφίας που συνδέεται με την τέχνη και πολιτισμό, αποτελώντας φόρο τιμής στη Μαρία Κάλλας, και αναδεικνύει τον καλλιτεχνικό θησαυρό της Καλαμάτας.",
+        "categoryReason": "Η είδηση αφορά μια σημαντική πολιτιστική διάκριση για την τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα, η οποία αναγνωρίζεται διεθνώς ως η καλύτερη για το 2025, αναδεικνύοντας τη σύγχρονη ελληνική τέχνη.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -777,8 +924,8 @@
       {
         "id": "d496dd4ae0c1",
         "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
-        "simpleTitle": "Το νεφέλωμα Helix και το τέλος ενός άστρου",
-        "simpleText": "Το νεφέλωμα Helix είναι ένα πολύ όμορφο κομμάτι του ουρανού που μοιάζει με μάτι. Βρίσκεται 655 έτη φωτός μακριά από εμάς και δείχνει πώς ένα άστρο φθάνει στο τέλος της ζωής του. Όταν άστρα, σαν τον ήλιο μας, τελειώνουν τη ζωή τους, αποβάλλουν τμήματα του δέρματος τους στο διάστημα. Αυτό το φαινόμενο είναι σπάνιο και είναι μοναδικό να το βλέπουμε τόσο κοντά. Η φωτογράφιση του από το διαστημικό τηλεσκόπιο James Webb μας δείχνει την ομορφιά αυτού του σωστού φυσικού θαύματος. Είναι σημαντικό γιατί μας βοηθά να κατανοήσουμε καλύτερα τον κόσμο των άστρων.",
+        "simpleTitle": "Το νεφέλωμα Helix και ο τελευταίος παλμός ενός άστρου",
+        "simpleText": "Το νεφέλωμα Helix είναι ένα όμορφο και διάσημο φαινόμενο στον ουρανό. Μοιάζει με ένα μεγάλο μάτι και βρίσκεται 655 έτη φωτός από τη Γη. Αυτή η μοναδική εικόνα μας επιτρέπει να δούμε κάτι που συμβαίνει πολύ σπάνια, όταν ένα άστρο, όπως ο Ήλιος, πλησιάζει στο τέλος της ζωής του. Το άστρο χάνει τα εξωτερικά του στρώματα και έτσι δημιουργούνται αυτά τα μαγευτικά νεφελώματα. Είναι μια ευκαιρία για εμάς να κατανοήσουμε καλύτερα το Σύμπαν και την εξέλιξη των άστρων.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
         "sourceDomains": [
@@ -791,13 +938,65 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά το νεφέλωμα Helix και τη φωτογράφηση του από το διαστημικό τηλεσκόπιο James Webb, εστιάζοντας στην ομορφιά και σημασία του στο πλαίσιο των αστρονομικών και κοσμικών παρατηρήσεων, που ανήκει στην πολιτιστική κατηγορία.",
+        "categoryReason": "Η είδηση σχετικά με το νεφέλωμα Helix και τη φωτογράφηση του από το James Webb εστιάζει στην ομορφιά και την επιστημονική σημασία του φαινομένου αυτού, το οποίο εντάσσεται στον πολιτισμό της αστρονομίας και της τέχνης.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g3bd5db4804f5a8b6d0e29e6315bd0078688799663c6b0dcf8dd5de4a156bc55d48cc752433ac00e1a7c235f9daed6694b29c90241f96cf789979f6eb220de3ff_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g18e44d505cf823b7b0c242be2ba7dd2324cd431629fe8d2a41bcfd5825c5af605ce3556130ec2cefed2f55252efe62b257d38087aca0919ec153df86ad490a50_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-01-31T11:36:00.000Z"
+      },
+      {
+        "id": "d25034d63b2a",
+        "title": "Η αγελάδα που αλλάζει όσα ξέραμε για την ευφυΐα και τη νοημοσύνη των ζώων",
+        "simpleTitle": "Μια αγελάδα που δείχνει πόσο έξυπνα είναι τα ζώα",
+        "simpleText": "Μια αγελάδα στην Αυστρία, που ονομάζεται Βερόνικα, μας δείχνει ότι τα ζώα έχουν περισσότερη νοημοσύνη από ό,τι νομίζουμε. Είναι η πρώτη αγελάδα στον κόσμο που καταγράφηκε να χρησιμοποιεί εργαλεία με έξυπνο τρόπο. Αυτό συνέβη όχι σε ένα εργαστήριο, αλλά στην καθημερινή της ζωή σε ένα αγρόκτημα, όπου ζει σαν μέλος της οικογένειας. Αυτή η ανακάλυψη είναι σημαντική γιατί μπορεί να μας κάνει να σκεφτούμε διαφορετικά για τις ικανότητες των ζώων γύρω μας. Δεν γνωρίζουμε ακόμα πώς θα επηρεάσει αυτό την άποψή μας για τα ζώα στο μέλλον.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31164-agelada-eyfyia-noimosyni-ergaleia/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αναφέρεται στην ευφυΐα και τη νοημοσύνη των ζώων, προάγοντας έναν πολιτισμικό διάλογο γύρω από τη σχέση ανθρώπων και ζώων, που σχετίζεται με τον πολιτισμό και την ηθική αντίληψη.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-01-28T11:45:00.000Z"
       }
     ],
-    "fun": []
+    "fun": [
+      {
+        "id": "f26116b4a08b",
+        "title": "Επίθεση Μασκ στον Νόλαν για τις επιλογές στο καστ της «Οδύσσειας»",
+        "simpleTitle": "Μάχη Λόγων Μασκ και Νόλαν για την «Οδύσσεια»",
+        "simpleText": "Ο δισεκατομμυριώτης Ίλον Μάσκ σχολίασε αρνητικά τις επιλογές του σκηνοθέτη Κρίστοφερ Νόλαν για την ταινία «Οδύσσεια». Είπε ότι ο Νόλαν έχει χάσει την ακεραιότητά του. Ο Μάσκ αναφέρθηκε συγκεκριμένα στην επιλογή της ηθοποιού για τον ρόλο της Ελένης, που τον ενόχλησε. Αυτό δημιουργεί συζητήσεις για το ποιοι άνθρωποι επιλέγονται για ρόλους στις ταινίες. Είναι σημαντικό να ακούμε διάφορες απόψεις, γιατί επηρεάζουν τη δουλειά των καλλιτεχνών. Δεν υπάρχουν άλλες λεπτομέρειες για την αντίδραση του Νόλαν.",
+        "sourceName": "Kathimerini, Protagon",
+        "sourceUrl": "https://www.kathimerini.gr/world/564054958/epithesi-mask-ston-nolan-gia-tis-epiloges-sto-kast-tis-odysseias/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564054958/epithesi-mask-ston-nolan-gia-tis-epiloges-sto-kast-tis-odysseias/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/o-mask-kai-kritikos-kinimatografou-ta-evale-me-ton-nolan-gia-to-kast-tis-odysseias-44343304244"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η είδηση σχετίζεται με τις αντιδράσεις του Ίλον Μάσκ σε επιλογές του σκηνοθέτη Κρίστοφερ Νόλαν για την ταινία «Οδύσσεια», που αφορά την κινηματογράφηση και το καστ της ταινίας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-01T15:15:43.000Z"
+      }
+    ]
   }
 }
