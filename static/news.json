@@ -1,97 +1,13 @@
 {
-  "generatedAt": "2026-02-04T16:12:20.684Z",
+  "generatedAt": "2026-02-05T08:08:32.178Z",
   "articles": [
     {
-      "id": "3ae29ec2b50a",
-      "title": "ΑΑΔΕ: Ψηφιακή εφαρμογή για την απαλλαγή από τα τέλη κυκλοφορίας για ΑμεΑ",
-      "simpleTitle": "Νέα εφαρμογή για απαλλαγή από τέλη κυκλοφορίας για ΑμεΑ",
-      "simpleText": "Η Ανεξάρτητη Αρχή Δημοσίων Εσόδων ανακοίνωσε μια νέα ηλεκτρονική εφαρμογή για να διευκολύνει τα Άτομα με Αναπηρία να απαλλαγούν από τα τέλη κυκλοφορίας. Η εφαρμογή θα είναι διαθέσιμη από τις 4 Φεβρουαρίου 2026. Οι χρήστες δεν θα χρειάζεται να προσκομίζουν έγγραφα, καθώς η εφαρμογή θα παίρνει αυτόματα τα στοιχεία από τα Κέντρα Πιστοποίησης Αναπηρίας. Οι ενδιαφερόμενοι θα μπορούν να υποβάλουν αιτήσεις μέσω της εφαρμογής myCAR. Η διαδικασία αυτή είναι σημαντική, επειδή διευκολύνει την πρόσβαση στις απαλλαγές και μειώνει την γραφειοκρατία. Αν έχετε απορίες, μπορείτε να πείτε στο τηλέφωνο 1521 για βοήθεια.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/aade-psifiaki-efarmogi-gia-tin-apallagi-apo-ta-teli-kykloforias-gia-amea/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/aade-psifiaki-efarmogi-gia-tin-apallagi-apo-ta-teli-kykloforias-gia-amea/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/economy/teli-kykloforias-se-isxy-nea-psifiaki-efarmogi-gia-apallagi-poioys-afora/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εφαρμογή μιας ψηφιακής διαδικασίας που διευκολύνει την πρόσβαση Ατόμων με Αναπηρία σε απαλλαγές τελών κυκλοφορίας, ενισχύοντας τη γραφειοκρατική αποδοτικότητα και άρα έχει σοβαρές κοινωνικές και οικονομικές επιπτώσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T15:46:45.000Z"
-    },
-    {
-      "id": "6f430114c560",
-      "title": "Ο «τσάρος των συνόρων» των ΗΠΑ αποσύρει 700 πράκτορες της ICE από τη Μινεσότα",
-      "simpleTitle": "Μείωση πρακτόρων της ICE στη Μινεσότα",
-      "simpleText": "Η κυβέρνηση Τραμπ ανακοίνωσε ότι θα αποσυρθούν 700 πράκτορες της ICE, που είναι οι ομοσπονδιακοί αξιωματικοί μετανάστευσης, από τη Μινεσότα. Αυτή η ανακοίνωση έγινε την Τετάρτη, 4 Φεβρουαρίου, από τον Τομ Χόμαν, που είναι ο επικεφαλής των συνόρων. Μετά από συνεργασία μεταξύ πολιτειακών και τοπικών αρχών, αποφασίστηκε να μειωθούν οι πράκτορες για να υπάρχει περισσότερο ασφάλεια.\n\nΑυτή η αλλαγή επηρεάζει την αστυνομία και την κατάσταση με τους μετανάστες στην περιοχή. Ο Χόμαν είπε ότι είναι σημαντικό να μειωθούν οι αστυνομικοί που βρίσκονται έξω για να κυνηγούν ανθρώπους που δεν έχουν άδεια παραμονής. Δε γνωρίζουμε ακόμα πώς θα επηρεάσει αυτή η απόφαση τη ζωή των ανθρώπων στη Μινεσότα.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/o-tsaros-ton-synoron-ton-ipa-aposyrei-700-praktores-tis-ice-apo-ti-minesota/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/o-tsaros-ton-synoron-ton-ipa-aposyrei-700-praktores-tis-ice-apo-ti-minesota/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564060244/i-dioikisi-tramp-aposyrei-700-praktores-tis-ice-apo-ti-minesota/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απόσυρση ομοσπονδιακών αξιωματικών μετανάστευσης από μια πολιτεία, κάτι που σχετίζεται με θέματα πολιτικής, δημόσιας ασφάλειας και μεταναστευτικής πολιτικής.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T15:08:05.000Z"
-    },
-    {
-      "id": "a4dbfeee3892",
-      "title": "Θ. Πλεύρης: Tο δόγμα είναι φυλακή ή επιστροφή, για όσους εισέρχονται παράνομα στη χώρα",
-      "simpleTitle": "** Νέες κανόνες για τους παράνομους μετανάστες στην Ελλάδα",
-      "simpleText": "** Ο υπουργός Μετανάστευσης Θάνος Πλεύρης μίλησε στη Βουλή για τους παράνομους μετανάστες. Είπε ότι αν κάποιος μπαίνει στη χώρα χωρίς άδεια, δεν έχει δικαίωμα να μείνει. Οι άνθρωποι αυτοί, εάν δεν πάρουν άσυλο, θα επιστρέφουν πίσω. Αυτή η πολιτική στόχο έχει να μειώσει τους μετανάστες που έρχονται παράνομα.\n\nΟ υπουργός ανέφερε επίσης ότι οι νόμιμοι μετανάστες, περίπου 800.000, θα έχουν πιο γρήγορες διαδικασίες για την ανανέωση των αδειών τους. Είναι σημαντικό να γίνεται γρήγορα η διαδικασία αυτή, ώστε όλοι να γνωρίζουν τι πρέπει να κάνουν. Ακόμα, για τα παιδιά και τους ηλικιωμένους, θα υπάρχουν ειδικοί κανόνες για να μείνουν στην Ελλάδα χωρίς να επιβαρύνουν το ασφαλιστικό σύστημα.",
-      "sourceName": "ERT News, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/th-pleyris-to-dogma-einai-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-sti-xora/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/th-pleyris-to-dogma-einai-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-sti-xora/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/plevris-gia-metanasteftiko-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-44343306298"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη μεταναστευτική πολιτική της κυβέρνησης, που περιλαμβάνει σοβαρές αποφάσεις σχετικά με τους παράνομους μετανάστες και τη διαδικασία επιστροφής τους, αναλύοντας παράλληλα τις επιπτώσεις στους νόμιμους μετανάστες. Αυτό το θέμα εμπλέκει ζητήματα όπως τα δικαιώματα και οι πολιτικές επεξεργασίας αιτημάτων ασύλου, που είναι κεντρικά σε σοβαρές κοινωνικές και πολιτικές συζητήσεις.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gf2bb6ebb12d1196d2e74745e6ff9b0d3d94a647a6f44c2c8e663716a748a9d47862442887705a1212feb7e131cdac664bc3c3a613847fd97b00f0a4578b963da_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T14:55:31.000Z"
-    },
-    {
-      "id": "220215112507",
-      "title": "Ιταλία: Αφαιρέθηκε από την εκκλησία το «αγγελάκι» που έμοιαζε με τη Μελόνι",
-      "simpleTitle": "Αφαιρέθηκε το «αγγελάκι» που έμοιαζε με τη Μελόνι στην Ιταλία",
-      "simpleText": "Στην εκκλησία Σαν Λορέντσο ιν Λουτσίνα, στη Ρώμη, αφαιρέθηκε μια τοιχογραφία που απεικόνιζε έναν άγγελο. Αυτό έγινε μετά από αίτημα του Βατικανού και με συμφωνία του ιερέα της εκκλησίας. Ο άγγελος είχε χαρακτηριστικά που θύμιζαν την Ιταλίδα πρωθυπουργό Τζόρτζια Μελόνι, κάτι που προκάλεσε πολλές αντιδράσεις. Πολλοί τουρίστες επισκέφτηκαν την εκκλησία για να δουν την τοιχογραφία πριν αφαιρεθεί. Η Μελόνι δήλωσε ότι δεν μοιάζει με αγγελούδι. Η απόφαση είχε και την προσοχή του ιταλικού υπουργείου Πολιτισμού, που έστειλε ειδικούς για να ελέγξουν το έργο.",
+      "id": "8a30d7400d83",
+      "title": "Αυστραλία: Αντιδράσεις για την επικείμενη επίσκεψη του Ισραηλινού προέδρου – Ζήτουν τη σύλληψή του λόγω Γάζας",
+      "simpleTitle": "Αντιδράσεις στην Αυστραλία για την επίσκεψη του προέδρου του Ισραήλ",
+      "simpleText": "Στην Αυστραλία, υπάρχουν πολλές αντιδράσεις για την επίσκεψη του Ισραηλινού προέδρου Ισαάκ Χέρτζογκ. Αυτή η επίσκεψη θα γίνει τη Δευτέρα και θα διαρκέσει τέσσερις μέρες. Ο Χέρτζογκ θα αποτίσει φόρο τιμής στα θύματα μιας τρομοκρατικής επίθεσης στην παραλία Μπόνταϊ του Σίδνεϊ. Η κυβέρνηση της Αυστραλίας έχει απορρίψει τις εκκλήσεις να συλλάβει τον Χέρτζογκ.\n\nΜερικοί άνθρωποι ζητούν να ανακληθεί η πρόσκληση ή η σύλληψη του Χέρτζογκ, επειδή πιστεύουν ότι έχει ευθύνες για καταστάσεις στη Λωρίδα της Γάζας. Στο Σίδνεϊ θα γίνουν διαδηλώσεις, αλλά οι αρχές έχουν απαγορεύσει συγκεντρώσεις για λόγους ασφαλείας. Οι τοπικές αρχές είναι σε επιφυλακή για τυχόν επεισόδια κατά τη διάρκεια της επίσκεψης.",
       "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564060169/italia-afairethike-apo-tin-ekklisia-to-aggelaki-poy-emoiaze-me-ti-meloni/",
+      "sourceUrl": "https://www.kathimerini.gr/world/564061657/aystralia-antidraseis-gia-tin-epikeimeni-episkepsi-toy-israilinoy-proedroy-zitoyn-ti-syllipsi-toy-logo-gazas/",
       "sourceDomains": [
         "kathimerini.gr",
         "tanea.gr"
@@ -99,55 +15,126 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564060169/italia-afairethike-apo-tin-ekklisia-to-aggelaki-poy-emoiaze-me-ti-meloni/"
+          "url": "https://www.kathimerini.gr/world/564061657/aystralia-antidraseis-gia-tin-epikeimeni-episkepsi-toy-israilinoy-proedroy-zitoyn-ti-syllipsi-toy-logo-gazas/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/world/italia-afairethike-apo-tin-ekklisia-san-lorentso-in-loytsina-tis-romis-i-toixografia-me-to/"
+          "url": "https://www.tanea.gr/2026/02/05/world/entones-antidraseis-stin-aystralia-apo-i-epikeimeni-episkepsi-toy-proedroy-toy-israil-xert/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με την αφαίρεση της τοιχογραφίας από την εκκλησία λόγω πολιτικών παραπομπών και αντιδράσεων, ενδεικτική σοβαρών κοινωνικών ζητημάτων.",
+      "categoryReason": "Η είδηση αφορά πολιτικές αντιδράσεις και ζητήματα ανθρωπίνων δικαιωμάτων, που σχετίζονται με την επικείμενη επίσκεψη του Ισραηλινού προέδρου στην Αυστραλία, μια σοβαρή πολιτική κατάσταση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-04T14:42:31.000Z"
+      "publishedAt": "2026-02-05T07:20:45.000Z"
     },
     {
-      "id": "0af14cf67321",
-      "title": "Βουλή: «Όχι» στην άρση ασυλίας Κουτσούμπα – «Ναι» στην άρση του Δημήτρη Μάντζου",
-      "simpleTitle": "Βουλή: Αρνήθηκαν την άρση ασυλίας Κουτσούμπα, δέχτηκαν του Μάντζου",
-      "simpleText": "Στη Βουλή έγινε μια σημαντική απόφαση. Οι βουλευτές είπαν \"όχι\" στην άρση της ασυλίας του Δημήτρη Κουτσούμπα, του γενικού γραμματέα του ΚΚΕ. Αντίθετα, δέχτηκαν την αίτηση του Δημήτρη Μάντζου για να αρθεί η δική του ασυλία. Αυτό συνέβη εξαιτίας μιας μήνυσης που ελήφθη για τις οικονομικές υποχρεώσεις του ΚΚΕ, αλλά και για θέματα που αφορούν το κόμμα των Σπαρτιατών.\n\nΗ απόφαση αυτή είναι σημαντική γιατί επηρεάζει τους πολιτικούς και την εμπιστοσύνη που έχει ο κόσμος σε αυτούς. Ο κ. Κουτσούμπας υποστηρίζει ότι οι κατηγορίες εις βάρος του έχουν πολιτικά κίνητρα και είναι μέρους ενός σχεδίου. Οι βουλευτές πρέπει να είναι προσεκτικοί και να προσέχουν τη διαφάνεια στην πολιτική τους δράση.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/04/politics/vouli-oxi-stin-arsi-asylias-koutsoumpa-nai-stin-arsi-tou-dimitri-mantzou/",
+      "id": "0cc2912ec4c8",
+      "title": "Ρεκόρ στον Εξωδικαστικό Μηχανισμό τον Ιανουάριο με 773 εκατ. ευρώ στη ρύθμιση οφειλών",
+      "simpleTitle": "Ρεκόρ ρυθμίσεων οφειλών τον Ιανουάριο",
+      "simpleText": "Τον Ιανουάριο του 2026, η ρύθμιση οφειλών μέσω του εξωδικαστικού μηχανισμού έφτασε το ποσό των 773 εκατομμυρίων ευρώ. Αυτό είναι το μεγαλύτερο ποσό που έχει καταγραφεί μέχρι τώρα. Συνολικά, έγιναν 2.554 ρυθμίσεις οφειλών, πράγμα που δείχνει ότι οι πολίτες εμπιστεύονται τη διαδικασία. Ιδιαίτερα σημαντική είναι η συμμετοχή από οικονομικά ευάλωτους οφειλέτες, με 274 ρυθμίσεις να αφορούν αυτούς. Οι 37 από αυτές αφορούν άτομα με αναπηρία. Οι πολίτες μπορούν να ζητήσουν βοήθεια μέσω τηλεφώνου ή βιντεοκλήσης, ώστε να διαχειριστούν τις οφειλές τους καλύτερα.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/rekor-ston-eksodikastiko-mixanismo-ton-ianouario-me-773-ekat-eyro-sti-rythmisi-ofeilon/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/rekor-ston-eksodikastiko-mixanismo-ton-ianouario-me-773-ekat-eyro-sti-rythmisi-ofeilon/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/oikonomia/article/4067624/neo-rekor-me-773-ekat-evro-rithmismenes-ofiles-ston-exodikastiko-michanismo-ton-ianouario.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σημαντικά οικονομικά θέματα, όπως η ρύθμιση οφειλών μέσω του εξωδικαστικού μηχανισμού, η οποία έχει σοβαρές κοινωνικές και οικονομικές επιπτώσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T07:15:12.000Z"
+    },
+    {
+      "id": "9f256ad5ffc1",
+      "title": "Ο κόσμος μπροστά σε «πολύ σοβαρή στιγμή» – Λήξη της συμφωνίας ΗΠΑ-Ρωσίας για τον έλεγχο των πυρηνικών όπλων",
+      "simpleTitle": "Λήξη της συμφωνίας ΗΠΑ-Ρωσίας για πυρηνικά όπλα**",
+      "simpleText": "Η τελευταία συμφωνία ελέγχου πυρηνικών όπλων μεταξύ ΗΠΑ και Ρωσίας έληξε πρόσφατα. Ο Γενικός Γραμματέας του ΟΗΕ, Αντόνιο Γκουτέρες, δήλωσε ότι αυτό είναι μια πολύ σοβαρή στιγμή για την ειρήνη και την ασφάλεια του κόσμου. Ο κίνδυνος χρήσης πυρηνικών όπλων είναι τώρα πιο υψηλός από ποτέ τα τελευταία χρόνια. Η συμφωνία που έληξε ονομαζόταν New START και επιβάλει περιορισμούς στα οπλοστάσια των δύο χωρών. Ο Γκουτέρες κάλεσε τις ΗΠΑ και τη Ρωσία να αρχίσουν άμεσα διαπραγματεύσεις για νέα συμφωνία. Είναι σημαντικό να διατηρήσουμε την ειρήνη και να μειώσουμε τους κινδύνους.",
+      "sourceName": "TA NEA, News.gr, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2026/02/05/world/o-kosmos-mprosta-se-poly-sovari-stigmi-liksi-tis-symfonias-ipa-rosias-gia-ton-elegxo-ton-p/",
       "sourceDomains": [
         "tanea.gr",
-        "tovima.gr"
+        "news.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/politics/vouli-oxi-stin-arsi-asylias-koutsoumpa-nai-stin-arsi-tou-dimitri-mantzou/"
+          "url": "https://www.tanea.gr/2026/02/05/world/o-kosmos-mprosta-se-poly-sovari-stigmi-liksi-tis-symfonias-ipa-rosias-gia-ton-elegxo-ton-p/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/04/politics/i-vouli-psifise-kata-tis-arsis-asylias-tou-koutsoumpa-yper-gia-tou-mantzou/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4067583/oie-sovari-stigmi-gia-tin-pagkosmia-asfalia-i-lixi-tis-simfonias-ipa-rosias-gia-ta-pirinika.html"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/oie-sovari-stigmi-gia-tin-pagkosmia-asfaleia-i-liksi-tis-symfwnias-ipa-rwsias-gia-ta-pyrinika-44343306605"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική πολιτική απόφαση στη Βουλή που έχει επιπτώσεις στην πολιτική σκηνή της χώρας, καθώς σχετίζεται με την ασυλία βουλευτών και ζητήματα διαφάνειας.",
+      "categoryReason": "Η λήξη της συμφωνίας ΗΠΑ-Ρωσίας για τον έλεγχο των πυρηνικών όπλων αποτελεί σοβαρή διεθνή είδηση που σχετίζεται με την ασφάλεια και την ειρήνη παγκοσμίως, όπως τονίζεται από τον Γενικό Γραμματέα του ΟΗΕ.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-04T14:38:58.000Z"
+      "publishedAt": "2026-02-05T07:12:26.000Z"
     },
     {
-      "id": "4282298833d8",
-      "title": "Ειδική αστυνομική επιχείρηση σε οικισμό του Ασπροπύργου, με 9 συλλήψεις – Αποξηλώθηκαν καλώδια για ρευματοκλοπή",
-      "simpleTitle": "Αστυνομική επιχείρηση στον Ασπρόπυργο με 9 συλλήψεις",
-      "simpleText": "Το πρωί της Τρίτης 3 Φεβρουαρίου, έγινε μεγάλη αστυνομική επιχείρηση στον οικισμό του Ασπροπύργου. Ο σκοπός ήταν να σταματήσουν παράνομες δραστηριότητες, όπως η κλοπή ηλεκτρικού ρεύματος. Στην επιχείρηση συμμετείχαν πολλές αστυνομικές ομάδες και ένα drone. Συνελήφθησαν 9 άτομα που κατηγορούνται για κλοπή. Επίσης, αποξηλώθηκαν καλώδια μήκους 1.010 μέτρων που χρησιμοποιούνταν για ρευματοκλοπές. Αυτή η δράση είναι σημαντική για την ασφάλεια και την καλή λειτουργία της περιοχής.",
+      "id": "849e57c35489",
+      "title": "Απαγορευτικό απόπλου και μεγάλες καθυστερήσεις στα δρομολόγια πλοίων λόγω θυελλωδών ανέμων",
+      "simpleTitle": "Απαγόρευση αναχωρήσεων πλοίων λόγω κακών καιρικών συνθηκών",
+      "simpleText": "Αυτή τη στιγμή, πολλά πλοία δεν μπορούν να φύγουν από τα λιμάνια στην Ελλάδα λόγω θυελλωδών ανέμων. Δεν γίνονται δρομολόγια από τη Ραφήνα προς τις Κυκλάδες και από το Λαύριο προς Κέα και Κύθνο. Στο λιμάνι του Πειραιά υπάρχουν μεγάλες καθυστερήσεις, που φτάνουν μέχρι πέντε ώρες. Μέχρι να βελτιωθούν οι καιρικές συνθήκες, οι αναχωρήσεις θα παραμείνουν σταματημένες. Οι λιμενικές αρχές θα δώσουν νέα ενημέρωση πιο αργά, το μεσημέρι. Είναι σημαντικό να αποφεύγονται τα ταξίδια σε αυτές τις συνθήκες για την ασφάλεια όλων.",
+      "sourceName": "ERT News, Kathimerini, TO BHMA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/apagoreytiko-apoplou-kai-megales-kathysteriseis-sta-dromologia-ploion-logo-thyellodon-anemon/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/apagoreytiko-apoplou-kai-megales-kathysteriseis-sta-dromologia-ploion-logo-thyellodon-anemon/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564061627/kakokairia-apagoreytiko-apoploy-kai-kathysteriseis-sta-dromologia-ploion-ti-ischyei/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/05/society/apagoreytiko-apoplou-kai-kathysteriseis-sta-ploia-logo-thyellodon-anemon/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4067641/apagoreftiko-apoplou-logo-thiellodon-anemon-2.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές καταστάσεις που σχετίζονται με τις καιρικές συνθήκες, καθυστερήσεις και απαγορεύσεις στην ακτοπλοΐα, επηρεάζοντας την ασφάλεια και τις μετακινήσεις των επιβατών.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-sundeseis-DARSINOS-APAGOREFTIKO.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-sundeseis-DARSINOS-APAGOREFTIKO.jpg",
+      "publishedAt": "2026-02-05T06:59:07.000Z"
+    },
+    {
+      "id": "b66a234004ee",
+      "title": "Τραγωδία στη Χίο: ΕΔΕ για τις συνθήκες του δυστυχήματος – Στον ανακριτή οδηγείται ο Μαροκινός φερόμενος ως διακινητής",
+      "simpleTitle": "Τραγωδία στη Χίο με 15 θύματα",
+      "simpleText": "Έγινε ένα σοβαρό ατύχημα ανοιχτά της Χίου, όπου 15 άνθρωποι έχασαν τη ζωή τους και 25 άλλοι τραυματίστηκαν. Το ατύχημα συνέβη όταν ένα ταχύπλοο με μετανάστριες συγκρούστηκε με ένα σκάφος του Λιμενικού. Ο Μαροκινός διακινητής του ταχύπλοου έχει συλληφθεί και θα παρουσιαστεί στον ανακριτή. Τώρα, το υπουργείο Ναυτιλίας ερευνά τι ακριβώς συνέβη.\n\nΟι διασώστες προσπαθούν να βρουν επιζώντες στην περιοχή. Μεταξύ των τραυματιών είναι και 10 παιδιά. Είναι πολύ θλιβερό που κάποιοι μάλιστα είχαν έγκυες γυναίκες, οι οποίες δεν κατάφεραν να κρατήσουν τα μωρά τους. Αυτή η τραγωδία δείχνει πόσο επικίνδυνη είναι η μεταναστευτική διαδρομή και πόσο χρειάζεται να προσέχουμε σε τέτοιες καταστάσεις.",
       "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eidiki-astynomiki-epixeirisi-se-oikismo-tou-aspropyrgou-me-9-syllipseis-apoksilothikan-kalodia-gia-reymatoklopi/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/tragodia-sti-xio-ede-gia-tis-synthikes-tou-dystyximatos-ston-anakriti-odigeitai-o-marokinos-feromenos-os-diakinitis/",
       "sourceDomains": [
         "ertnews.gr",
         "tanea.gr"
@@ -155,446 +142,150 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eidiki-astynomiki-epixeirisi-se-oikismo-tou-aspropyrgou-me-9-syllipseis-apoksilothikan-kalodia-gia-reymatoklopi/"
+          "url": "https://www.ertnews.gr/eidiseis/tragodia-sti-xio-ede-gia-tis-synthikes-tou-dystyximatos-ston-anakriti-odigeitai-o-marokinos-feromenos-os-diakinitis/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/greece/epixeirisi-tis-elas-ston-aspropyrgo-apoksilothikan-kalodia-gia-reymatoklopi-mikoys-1-010-m/"
+          "url": "https://www.tanea.gr/2026/02/05/greece/xios-se-ekseliksi-i-ede-ston-anakriti-o-marokinos-feromenos-os-diakinitis/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές κοινωνικές και νομικές θεματικές, όπως η αστυνομική επιχείρηση κατά της παράνομης δραστηριότητας, οι συλλήψεις και οι επιπτώσεις της ρευματοκλοπής.",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό ναυτικό δυστύχημα με ανθρώπινες απώλειες και τραυματισμούς, που απαιτεί έρευνα και αντιμετώπιση των συνθηκών του περιστατικού.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g14f419cbd1694962a5bec1ac9831a7a44bd94b2ea31b3d76a05f15933f29823c235ff8c04261b0d74a8c6e7c13201bfd386f8134f908356f0e4d0d84819bc414_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T14:38:11.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-sundeseis-puliotis-xio.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-sundeseis-puliotis-xio.jpg",
+      "publishedAt": "2026-02-05T06:45:23.000Z"
     },
     {
-      "id": "65600fef353c",
-      "title": "Φρίκη στην Ιταλία: Νεκρή κοπέλα 22 ετών – Μαχαιρώθηκε θανάσιμα από τον αδελφό της",
-      "simpleTitle": "Σοκ στην Ιταλία: Αδελφός σκότωσε την 22χρονη αδελφή του",
-      "simpleText": "Στην Ιταλία, μια κοπέλα 22 ετών, η Ιλένια, δολοφονήθηκε από τον αδελφό της, Τζουζέπε. Το περιστατικό συνέβη στη Νάπολη, όπου η ζωή είναι δύσκολη λόγω προβλημάτων με τα ναρκωτικά και το οργανωμένο έγκλημα. Ο αδελφός μαχαίρωσε την Ιλένια λόγω ενός καυγά για τη μουσική που ήταν πολύ δυνατή.\n\nΜετά την επίθεση, την άφησε μπροστά σε νοσοκομείο και έφυγε. Οι αρχές ερευνούν την υπόθεση με τη βοήθεια βίντεο από κάμερες ασφαλείας. Αυτή η τραγωδία μας υπενθυμίζει πόσο σοβαρό είναι το πρόβλημα της βίας κατά των γυναικών. Δεν έχουμε περισσότερες πληροφορίες για τις ακριβείς αιτίες του καβγά.",
-      "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2026/02/04/world/friki-stin-italia-nekri-kopela-22-eton-maxairothike-thanasima-apo-ton-adelfo-tis/",
+      "id": "20d1eb46213e",
+      "title": "Εκρηκτικούς μηχανισμούς σε αυτοκίνητα φίλων και συγγενών κατηγορείται ότι έβαζε 56χρονη δασκάλα γιόγκα – Δεν της έδιναν δανεικά",
+      "simpleTitle": "Δασκάλα γιόγκα κατηγορείται για εκρηκτικούς μηχανισμούς",
+      "simpleText": "Μια 56χρονη δασκάλα γιόγκα συνελήφθη από την αστυνομία. Κατηγορείται ότι τοποθετούσε εκρηκτικούς μηχανισμούς σε αυτοκίνητα φίλων και συγγενών της, όταν αυτοί δεν της έδιναν οικονομική βοήθεια. Οι βόμβες τοποθετήθηκαν σε τρία αυτοκίνητα σε Νέα Ερυθραία, Μεταμόρφωση και Κηφισιά. Μία από τις εκρήξεις τραυμάτισε έναν οδηγό. Αυτή η γυναίκα είχε απασχολήσει και πριν τις αρχές για παρόμοια περιστατικά. Αυτό το γεγονός σοκάρει, καθώς δείχνει πόσο επικίνδυνες μπορούν να γίνουν οι σχέσεις όταν δεν υπάρχει εμπιστοσύνη.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ekriktikous-mixanismous-se-aytokinita-filon-kai-syggenon-katigoreitai-oti-evaze-56xroni-daskala-giogka-den-tis-edinan-daneika/",
       "sourceDomains": [
-        "tanea.gr",
-        "news.gr"
+        "ertnews.gr",
+        "kathimerini.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/world/friki-stin-italia-nekri-kopela-22-eton-maxairothike-thanasima-apo-ton-adelfo-tis/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ekriktikous-mixanismous-se-aytokinita-filon-kai-syggenon-katigoreitai-oti-evaze-56xroni-daskala-giogka-den-tis-edinan-daneika/"
         },
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4067402/nea-ginekoktonia-stin-napoli-kopela-22-eton-macherothike-thanasima-apo-ton-adelfo-tis.html"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564061609/daskala-giogka-topothetoyse-ekriktikoys-michanismoys-otan-den-tis-edinan-daneika/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή και τραγική περίπτωση δολοφονίας, που αναδεικνύει θέματα βίας κατά των γυναικών και κοινωνικά προβλήματα όπως τα ναρκωτικά και το οργανωμένο έγκλημα.",
+      "categoryReason": "Η είδηση περιλαμβάνει σοβαρές κατηγορίες για εγκλήματα με εκρηκτικούς μηχανισμούς, που προκαλούν κοινωνικούς κινδύνους και αναδεικνύουν θέματα εμπιστοσύνης και βίας στις σχέσεις.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T14:25:36.000Z"
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-syndeseis-stamou-yoga.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-syndeseis-stamou-yoga.jpg",
+      "publishedAt": "2026-02-05T06:43:44.000Z"
     },
     {
-      "id": "a3790907705d",
-      "title": "Γιατί όταν φοράμε ακουστικά στο δρόμο μας καθιστά ευάλωτους",
-      "simpleTitle": "Η χρήση ακουστικών στον δρόμο και οι κίνδυνοι",
-      "simpleText": "Όταν κυκλοφορούμε στην πόλη, πρέπει να προσέχουμε το περιβάλλον γύρω μας. Αν φοράμε ακουστικά και ακούμε μουσική ή κάτι άλλο, μπορεί να μην αντιλαμβανόμαστε κινδύνους. Αυτό μας κάνει πιο ευάλωτους σε απροσδόκητες καταστάσεις. Η ασφάλεια δεν αφορά μόνο τα αυτοκίνητα, αλλά και το πώς φαινόμαστε και αν δείχνουμε προσεκτικοί. Αν δείχνουμε πως δεν προσέχουμε, μπορεί να γίνουμε στόχος από άλλους. Είναι καλό να είμαστε προσεκτικοί ώστε να προστατεύσουμε τον εαυτό μας όταν είμαστε έξω.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση θίγει σοβαρά θέματα ασφάλειας, κυκλοφορίας και κίνδυνων που προκύπτουν από την απομόνωση όταν φοράμε ακουστικά.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T13:30:57.000Z"
-    },
-    {
-      "id": "66260bcb72bf",
-      "title": "Υψηλά ο πληθωρισμός στην Ελλάδα – Τρίτη στην ΕΕ τον Ιανουάριο",
-      "simpleTitle": "Υψηλός πληθωρισμός στην Ελλάδα τον Ιανουάριο",
-      "simpleText": "Στην Ελλάδα, ο πληθωρισμός είναι πολύ υψηλός. Τον Ιανουάριο έφτασε στο 2,8% και η χώρα είναι τρίτη στην Ευρωπαϊκή Ένωση με τα περισσότερα ποσοστά. Αυτό σημαίνει ότι οι τιμές για διάφορα προϊόντα συνεχίζουν να αυξάνονται. Τον Δεκέμβριο, ο πληθωρισμός ήταν 2,9%, αλλά έπεσε λίγο. Είναι σημαντικό να ξέρουμε για τον πληθωρισμό, γιατί οι αυξήσεις στις τιμές επηρεάζουν την καθημερινή ζωή μας και τα οικονομικά μας. Δεν γνωρίζουμε ακόμα αν θα υπάρχει άλλη αλλαγή στους αριθμούς στο μέλλον.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/02/04/finance/ypsila-o-plithorismos-stin-ellada-triti-stin-ee-ton-ianouario/",
-      "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/04/finance/ypsila-o-plithorismos-stin-ellada-triti-stin-ee-ton-ianouario/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/oikonomia/article/4067389/eurostat-sto-17-o-plithorismos-stin-evrozoni-ton-ianouario-sto-28-stin-ellada.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κατάσταση του πληθωρισμού στην Ελλάδα και τις επιπτώσεις του στην οικονομία, θέματα που σχετίζονται με σοβαρά οικονομικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gcb92caa398fce28118405d94f971d93359c6847043883aee8cfd609ec454367092fc6087b286ad60d8c5c954551960c21bdcea602844dc55e0e3fe90ca9e4b44_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T12:55:07.000Z"
-    },
-    {
-      "id": "cbefd434b29a",
-      "title": "Η Ινδονησία απαγορεύει τις βόλτες με ελέφαντες και κάνει ένα ιστορικό βήμα για την ευζωία των ζώων",
-      "simpleTitle": "Απαγόρευση βόλτας με ελέφαντες στην Ινδονησία",
-      "simpleText": "Η Ινδονησία αποφάσισε να σταματήσει τις βόλτες με ελέφαντες. Αυτή η απόφαση είναι σημαντική, γιατί προστατεύει τα ζώα από κακές συνθήκες. Η απαγόρευση ισχύει σε όλα τα μέρη της χώρας, όπως ζωολογικούς κήπους και τουριστικές περιοχές. Τα ελέφαντες είναι έξυπνα και ευαίσθητα ζώα, γι’ αυτό πρέπει να τους σεβόμαστε. Στο παρελθόν, υπήρξαν πολλές καταγγελίες για κακοποίηση κατά την εκπαίδευση και τη μεταφορά τους. Αυτή η αλλαγή μπορεί να βελτιώσει τη ζωή τους και να ενθαρρύνει άλλες χώρες να κάνουν το ίδιο.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31546-indonisia-elefantes-apagorefsi/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31546-indonisia-elefantes-apagorefsi/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η απόφαση της Ινδονησίας να απαγορεύσει τις βόλτες με ελέφαντες αγγίζει σοβαρά ζητήματα ευζωίας ζώων και προστασίας από κακοποίηση, καθιστώντας την είδηση σοβαρή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-03T10:49:00.000Z"
-    },
-    {
-      "id": "40e72ab4e19b",
-      "title": "Ηλεκτροκίνητα περιπολικά στην Τροχαία Πατρών-Πύργου",
-      "simpleTitle": "Νέα ηλεκτροκίνητα περιπολικά στην περιοχή Πατρών-Πύργου",
-      "simpleText": "Στην Ολυμπία Οδό, προστίθενται ηλεκτροκίνητα περιπολικά στην Τροχαία Αυτοκινητοδρόμων. Αυτό έγινε για να βοηθήσει στη μείωση ρύπων και να κάνει τις μετακινήσεις πιο καθαρές. Η πρωτοβουλία αυτή ξεκίνησε με τη συνεργασία του Υπουργείου Προστασίας του Πολίτη, στην Ηλεία. Τα ηλεκτροκίνητα περιπολικά θα αναβαθμίσουν τις υπηρεσίες της Τροχαίας στην περιοχή. Αυτή η αλλαγή είναι σημαντική για το περιβάλλον μας. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για το πότε ακριβώς θα ξεκινήσει η πλήρης λειτουργία τους.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31615-ilektrokinita-peripolika-stin-troxaia-patron-pyrgou/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31615-ilektrokinita-peripolika-stin-troxaia-patron-pyrgou/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εισαγωγή ηλεκτροκίνητων περιπολικών από την Τροχαία, με στόχο τη μείωση ρύπων και τη βελτίωση των υπηρεσιών, γεγονός που σχετίζεται άμεσα με σοβαρά κοινωνικά και περιβαλλοντικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-03T07:30:00.000Z"
-    },
-    {
-      "id": "dff5800c7cbc",
-      "title": "Ουαλία: Εξετάζει νόμο για την τιμωρία πολιτικών που έχουν πει σκόπιμα ψέματα",
-      "simpleTitle": "Νόμος στην Ουαλία για πολιτικούς που λένε ψέματα",
-      "simpleText": "Στην Ουαλία συζητούν για ένα νέο νόμο που θέλει να τιμωρά τους πολιτικούς που λένε ψέματα στις εκλογές. Αυτός ο νόμος έχει στόχο να κάνει τους πολίτες να εμπιστεύονται περισσότερο τη δημοκρατία. Όμως, κάποιοι βουλευτές ανησυχούν ότι αυτό μπορεί να βλάψει την ελευθερία του λόγου, δηλαδή το δικαίωμα να μιλάμε ελεύθερα. Το νομοσχέδιο έχει περάσει το πρώτο βήμα στο κοινοβούλιο, αλλά χρειάζεται αλλαγές για να μπορέσει να εφαρμοστεί σωστά. Αν γίνει νόμος, μπορεί να αλλάξει τον τρόπο που οι πολιτικοί μιλάνε στους πολίτες.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31542-nomos-gia-ta-psemata-politikon-stin-oualia/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31542-nomos-gia-ta-psemata-politikon-stin-oualia/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό πολιτικό ζήτημα που σχετίζεται με τη διαφάνεια και την ελευθερία του λόγου, θέτοντας αμφισβητήσεις για τους πολιτικούς και την εμπιστοσύνη στη δημοκρατία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-02T13:01:43.000Z"
-    },
-    {
-      "id": "7e6a4deec222",
-      "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-      "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η καλύτερη για το 2025",
-      "simpleText": "Μια εντυπωσιακή τοιχογραφία στη Καλαμάτα κέρδισε τον τίτλο της καλύτερης στον κόσμο για το 2025. Το έργο είναι εμπνευσμένο από τη μεγάλη τραγουδίστρια Μαρία Κάλλας και έχει δημιουργηθεί από τον καλλιτέχνη KLE. Η τοιχογραφία αυτή δείχνει τη δύναμη της σύγχρονης ελληνικής τέχνης του δρόμου. Επιπλέον, συγκέντρωσε πολλές ψήφους και αγάπη από τον κόσμο, κάτι που την έκανε να ξεχωρίσει ανάμεσα σε πολλές άλλες καλλιτεχνικές δημιουργίες. Αυτή η διάκριση είναι σημαντική και για την πόλη της Καλαμάτας, που την φιλοξενεί.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αφορά την τοιχογραφία που συνδέεται με την τέχνη, αναδεικνύοντας τον πολιτισμό και την καλλιτεχνική δημιουργία, κυρίως σε σχέση με τη Μαρία Κάλλας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-31T16:36:34.000Z"
-    },
-    {
-      "id": "d496dd4ae0c1",
-      "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
-      "simpleTitle": "Το νεφέλωμα Helix και ο θάνατος ενός άστρου",
-      "simpleText": "Το νεφέλωμα Helix είναι ένα πολύ όμορφο φαινόμενο στον ουρανό. Φαίνεται σαν μάτι και βρίσκεται 655 έτη φωτός μακριά από τη Γη. Αυτή η εικόνα μας δείχνει το τέλος της ζωής ενός άστρου, που είναι λίγο μεγαλύτερο από τον ήλιο μας. Όταν τα άστρα φτάσουν στο τέλος τους, πετάνε τα εξωτερικά τους στρώματα στο διάστημα και δημιουργούν αυτά τα νεφελώματα. Είναι σημαντικό γιατί μας δείχνει τη διαδικασία του θανάτου ενός άστρου, κάτι που συμβαίνει σπάνια και είναι γεμάτο ομορφιά. Αυτό μας βοηθά να καταλάβουμε καλύτερα το σύμπαν γύρω μας.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αναφέρεται σε ένα εντυπωσιακό κοσμικό φαινόμενο, που συνδυάζει τη επιστήμη με την τέχνη της αστρονομίας, προσφέροντας μια πολιτιστική και εκπαιδευτική διάσταση.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g0092f8973757dbcd449640d36b3b2c658e46f489375ec329479d45226fda3e309130fdf430779569aa2312519bfc0ea9679e49ffc251bd6a82aa259a6a941a83_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-31T11:36:00.000Z"
-    },
-    {
-      "id": "28f3d8c9b81e",
-      "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-      "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη στον κόσμο το 2025",
-      "simpleText": "Η Κρακοβία στην Πολωνία είναι η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό δείχνει πως είναι μια πολύ όμορφη και φροντισμένη πόλη, που αρέσει σε πολλούς επισκέπτες. Έχει πολύ ωραία ιστορία και σιγά-σιγά γίνεται δημοφιλής για ταξίδια. Μια ανάλυση έδειξε ότι οι άνθρωποι δίνουν πολλές καλές κριτικές για την καθαριότητα της. Συγκεκριμένα, το ποσοστό θετικών κριτικών φτάνει το 98,5%. Αυτό σημαίνει ότι οι κάτοικοι και οι τουρίστες το εκτιμούν πολύ. Αυτή η αναγνώριση μπορεί να προσελκύσει περισσότερους επισκέπτες στο μέλλον.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αναδεικνύει την Κρακοβία ως την καθαρότερη πόλη στον κόσμο, κάτι που είναι θετικό και χαροποιητικό, υπογραμμίζοντας την όμορφη εικόνα της και την ικανοποίηση των επισκεπτών.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g3cc01a1a0ea31f31d9fd995bcddc0794f62b916325d95bd0fad101f4fd0d9e155c47fde09ae5797973ba054af264f2d19a9ae48e4b3ffcc7924d97bf23e7ec3a_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-30T15:36:00.000Z"
-    },
-    {
-      "id": "58cb42ed167f",
-      "title": "Η ηθική της πληροφορίας στα ΜΜΕ μπροστά στην ανθρώπινη απώλεια",
-      "simpleTitle": "Η ηθική των ειδήσεων και οι ανθρώπινες απώλειες",
-      "simpleText": "Πρόσφατα, έγινε ένα σοβαρό ατύχημα στη Ρουμανία, όπου επτά νέοι άνθρωποι σκοτώθηκαν. Οι ειδήσεις για αυτό το γεγονός διαδόθηκαν πολύ γρήγορα μέσω των ΜΜΕ. Όμως, η ταχύτητα της πληροφορίας φαίνεται να έχει χάσει την ανθρωπιά της. Οι άνθρωποι δεν σκέφτονται πια πόσο δύσκολο είναι για τις οικογένειες των θυμάτων. Οι ειδήσεις γίνονται προϊόντα που καταναλώνουμε γρήγορα, χωρίς να σκεφτόμαστε την αξία τους. Έτσι, είναι σημαντικό να θυμόμαστε ότι πίσω από κάθε είδηση υπάρχουν ανθρώπινες ζωές και συναισθήματα.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31355-ithiki-tis-pliroforias-anthropini-axioprepia-mme/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31355-ithiki-tis-pliroforias-anthropini-axioprepia-mme/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό κοινωνικό ζήτημα σχετικά με την ηθική των ΜΜΕ και την ανθρώπινη απώλεια, αναδεικνύοντας την ανάγκη για ενσυναίσθηση και υπεύθυνη ενημέρωση.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-30T12:46:59.000Z"
-    },
-    {
-      "id": "7ce1d3a75788",
-      "title": "Η καλοσύνη που σερβίρεται καθημερινά: Ένας ηλικιωμένος, ένας σεφ και ένα εστιατόριο έγιναν οικογένεια",
-      "simpleTitle": "Ένας ηλικιωμένος και ο σεφ γίνονται φίλοι",
-      "simpleText": "Ένας 78χρονος άντρας, ο Τσάρλι, πηγαίνει κάθε μέρα στο αγαπημένο του εστιατόριο στην πόλη Πενσακόλα, στη Φλόριντα. Εκεί τρώει πάντα την ίδια παραγγελία: γκούμπο με ρύζι. Για τον Τσάρλι, το εστιατόριο είναι σαν το σπίτι του, γιατί τον ξέρουν όλοι. Αισθάνεται άνετα και χαρούμενος κάθε φορά που πηγαίνει εκεί. Η συνήθεια αυτή του δίνει μεγάλη ευχαρίστηση στην καθημερινότητά του. Η σχέση του με τον σεφ και το εστιατόριο έχει γίνει κάτι παραπάνω από απλώς φαγητό, έχει γίνει φιλία.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η ιστορία του Τσάρλι και της σχέσης του με το εστιατόριο και τον σεφ αναδεικνύει τη καλοσύνη και τη φιλία που σχηματίζεται μέσα από καθημερινές πράξεις, δημιουργώντας μια θετική και χαρούμενη ατμόσφαιρα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-30T07:21:00.000Z"
-    },
-    {
-      "id": "cf35becb2785",
-      "title": "Τι είναι ο κιρκάδιος ρυθμός και πώς επηρεάζει την καθημερινότητά μας",
-      "simpleTitle": "Τι είναι ο κιρκάδιος ρυθμός και πώς μας επηρεάζει",
-      "simpleText": "Ο κιρκάδιος ρυθμός είναι σαν ένα εσωτερικό ρολόι που μας λέει πότε να κοιμόμαστε και πότε να είμαστε ξύπνιοι. Αυτός ο ρυθμός βοηθά το σώμα μας να λειτουργεί σωστά και να έχει ενέργεια. Όταν καταλαβαίνουμε πώς λειτουργεί αυτό το ρολόι, μπορούμε να ζούμε πιο καλά και πιο ήρεμα. Ο κιρκάδιος ρυθμός δεν είναι απλά μια επιστημονική έννοια, αλλά παίζει σημαντικό ρόλο στην καθημερινότητά μας. Όταν οι ώρες ύπνου και ξύπνου είναι τακτικές, νιώθουμε καλύτερα και έχουμε περισσότερη ενέργεια.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31327-kirkadios-rithmos/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31327-kirkadios-rithmos/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Το άρθρο εξετάζει τη λειτουργία του κιρκάδιου ρυθμού και την επιρροή του στην καθημερινότητά μας, εστιάζοντας σε επιστημονικές έννοιες που σχετίζονται με την υγεία και την ευημερία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-01-29T15:54:21.000Z"
-    },
-    {
-      "id": "2f29ecbfa942",
-      "title": "Η ενδεκάδα του Ολυμπιακού για την αναμέτρηση με τον Αστέρα AKTOR",
-      "simpleTitle": "Ολυμπιακός: Η αποστολή για τον αγώνα με τον Αστέρα",
-      "simpleText": "Ο Ολυμπιακός παίζει εκτός έδρας με τον Αστέρα Τρίπολης AKTOR. Αυτός ο αγώνας είναι από την 17η αγωνιστική της Super League και έχει αναβληθεί. Λίγο πριν από το μάτς, η ομάδα ανακοίνωσε ποιοι παίκτες θα αγωνιστούν. Οι παίκτες που επιλέχθηκαν από τον προπονητή Χοσέ Λουίς Μεντιλίμπαρ είναι οι Τζολάκης, Κοστίνια, Ρέτσος, Μπιανκόν, Μπρούνο, Ντάνι Γκαρθία, Έσε, Μασιμέντο, Μάρτινς, Ποντένσε και Ταρέμι. Ο αγώνας είναι σημαντικός για την πορεία της ομάδας στο πρωτάθλημα.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/04/sports/i-endekada-tou-olympiakou-gia-tin-anametrisi-me-ton-astera-aktor/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/04/sports/i-endekada-tou-olympiakou-gia-tin-anametrisi-me-ton-astera-aktor/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά την ανακοίνωση της ενδεκάδας του Ολυμπιακού για έναν αγώνα της Super League, που είναι σχετική με άμεσες αθλητικές δραστηριότητες. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-04T15:49:26.000Z"
-    },
-    {
-      "id": "6391317dbe43",
-      "title": "Live streaming: Δείτε τον αγώνα ΠΑΟΚ-Σπόρτινγκ Λισαβόνας για το FIBA Europe Cup (17:30, ΕΡΤ2 ΣΠΟΡ)",
-      "simpleTitle": "Αγώνας ΠΑΟΚ με Σπόρτινγκ Λισαβόνας",
-      "simpleText": "Σήμερα, στις 17:30, θα γίνει ένας αγώνας μπάσκετ ανάμεσα στον ΠΑΟΚ και την Σπόρτινγκ Λισαβόνας. Ο αγώνας είναι για το FIBA Europe Cup. Μπορείτε να τον παρακολουθήσετε ζωντανά στην τηλεόραση από την ΕΡΤ2 ΣΠΟΡ. Επίσης, θα είναι διαθέσιμος και διαδικτυακά μέσω του ERTFLIX. Αυτός ο αγώνας είναι σημαντικός γιατί αφορά μια μεγάλη διοργάνωση μπάσκετ και οι δύο ομάδες θέλουν να κερδίσουν.",
+      "id": "8e4830935cce",
+      "title": "Θεσσαλονίκη: Κοπή πρωτοχρονιάτικης πίτας στο νοσοκομείο Παπαγεωργίου με τιμητικές βραβεύσεις και μηνύματα αισιοδοξίας",
+      "simpleTitle": "Κοπή πίτας στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη",
+      "simpleText": "Στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη, οι άνθρωποι γιόρτασαν την κοπή της πρωτοχρονιάτικης πίτας στις 3 Φεβρουαρίου 2026. Η εκδήλωση έγινε με άνθρωποι του νοσοκομείου και τους επίσημους προσκεκλημένους να μιλούν για τη σημασία της δουλειάς τους. Ο Υφυπουργός Εσωτερικών έκανε θετικά σχόλια για το προσωπικό, ενώ και οι άλλοι ομιλητές αναγνώρισαν την προσφορά τους. Αναφέρθηκαν επίσης στα σχέδια για τη βελτίωση των υπηρεσιών στο μέλλον. Είναι σημαντικό, γιατί δείχνει ότι η υγειονομική φροντίδα εξελίσσεται για το καλό όλων. Οι παρευρισκόμενοι έμειναν με αισιοδοξία για την επόμενη χρονιά.",
       "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-paok-sportingk-lisavonas-gia-to-fiba-europe-cup-17-30-ert2-spor/",
+      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-kopi-protoxroniatikis-pitas-sto-nosokomeio-papageorgiou-me-timitikes-vraveyseis-kai-minymata-aisiodoksias/",
       "sourceDomains": [
         "ertnews.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-paok-sportingk-lisavonas-gia-to-fiba-europe-cup-17-30-ert2-spor/"
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-kopi-protoxroniatikis-pitas-sto-nosokomeio-papageorgiou-me-timitikes-vraveyseis-kai-minymata-aisiodoksias/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η κοπή της πρωτοχρονιάτικης πίτας στο νοσοκομείο Παπαγεωργίου περιλάμβανε θετικές βραβεύσεις και μηνύματα αισιοδοξίας από τους ομιλητές, που αναγνώρισαν την προσφορά του προσωπικού και τα σχέδια για τη βελτίωση των υπηρεσιών. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g88673370a43d1373514c7482bec39fdfc9e98ab3baa4205afcca1da1d8c87d1904b280e1fdf29246a4a918a2bba6d9fb739a79a4e1bc8233acb8ac59383d2f6c_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T07:15:14.000Z"
+    },
+    {
+      "id": "684c152606f3",
+      "title": "Λευκοί ρινόκεροι βγήκαν για μια βόλτα στο χιονισμένο ζωολογικό πάρκο του Νόξβιλ",
+      "simpleTitle": "Λευκοί ρινόκεροι παίζουν στο χιόνι σε ζωολογικό πάρκο",
+      "simpleText": "Στο Νόξβιλ του Τενεσί, τέσσερις λευκοί ρινόκεροι βγήκαν για λίγο έξω στο χιόνι. Οι ρινόκεροι ονομάζονται Μάιλο, Ρέιντζερ, Γκας και Λίαμ. Αυτή η βόλτα έγινε την Τρίτη 3 Φεβρουαρίου. Εξερεύνησαν το χιονισμένο έδαφος, μιας και το χιόνι είναι σπάνιο για αυτήν την περιοχή. Μετά από λίγη ώρα, επέστρεψαν μέσα για να μην κρυώσουν. Το χιόνι έφερε αλλαγές στον καιρό και επηρέασε αρκετές περιοχές στα νοτιοανατολικά Ηνωμένα Έθνη.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/diethni/leykoi-rinokeroi-vgikan-gia-mia-volta-sto-xionismeno-zoologiko-parko-tou-noksvil/",
+      "sourceDomains": [
+        "ertnews.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/diethni/leykoi-rinokeroi-vgikan-gia-mia-volta-sto-xionismeno-zoologiko-parko-tou-noksvil/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση περιγράφει μια χαρούμενη και ευχάριστη στιγμή, όπου λευκοί ρινόκεροι βγήκαν να εξερευνήσουν το χιόνι, γεγονός που φέρνει χαρά και θετικά συναισθήματα στους επισκέπτες. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-REUTERS-RHINOS.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-REUTERS-RHINOS.jpg",
+      "publishedAt": "2026-02-05T06:31:25.000Z"
+    },
+    {
+      "id": "4d78d6014543",
+      "title": "Παναθηναϊκός-ΠΑΟΚ 0-1: «Aσπρόμαυρο» προβάδισμα με Γιακουμάκη",
+      "simpleTitle": "ΠΑΟΚ νίκησε τον Παναθηναϊκό 0-1",
+      "simpleText": "Ο ΠΑΟΚ κέρδισε τον Παναθηναϊκό με σκορ 0-1. Ο Γιακουμάκης κέρδισε ένα πέναλτι, το οποίο εκτέλεσε και πέτυχε γκολ. Αυτή η νίκη δίνει στον ΠΑΟΚ προβάδισμα για να προχωρήσει στον τελικό. Ο αγώνας έγινε στην έδρα του Παναθηναϊκού. Είναι σημαντική νίκη για τον ΠΑΟΚ, γιατί τον φέρνει πιο κοντά στο στόχο του. Δεν έχουμε πληροφορίες για τους επόμενους αγώνες ή τις επιπτώσεις της ήττας για τον Παναθηναϊκό.",
+      "sourceName": "TO BHMA",
+      "sourceUrl": "https://www.tovima.gr/2026/02/04/sports/panathinaikos-paok-0-1-aspromayro-provadisma-me-giakoumaki/",
+      "sourceDomains": [
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/04/sports/panathinaikos-paok-0-1-aspromayro-provadisma-me-giakoumaki/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν μπάσκετ αγώνα μεταξύ ΠΑΟΚ και Σπόρτινγκ Λισαβόνας, που είναι χαρακτηριστικό γεγονός αθλητικού περιεχομένου. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρεται σε έναν αγώνα ποδοσφαίρου και την νίκη του ΠΑΟΚ απέναντι στον Παναθηναϊκό, οπότε ανήκει στην κατηγορία του αθλητισμού. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g7fba676e39a98f85b10ca1e50620939fa9a3d48fc73315cb59a54987fca34ec85327b903b916d527d4cf10bfcd10a7c1cb04af465d11996f1398be7d8c02840e_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-04T19:33:02.000Z"
+    },
+    {
+      "id": "23a572746ef7",
+      "title": "Το νέο διοικητικό Συμβούλιο του ΕΟΣ Κορίνθου",
+      "simpleTitle": "Νέοι υπεύθυνοι στον ΕΟΣ Κορίνθου",
+      "simpleText": "Ο ΕΟΣ Κορίνθου έχει νέο διοικητικό συμβούλιο. Τα μέλη του συνεδρίασαν και αποφάσισαν ποιοι θα είναι οι υπεύθυνοι. Ο πρόεδρος είναι ο Παναγιώτης Νικολόπουλος. Αντιπρόεδρος είναι ο Νικόλαος Καραχοντζίτης, ενώ γενική γραμματέας είναι η Ιωάννα Πατάπη. Οι άλλοι υπεύθυνοι έχουν ρόλους όπως ταμίας και έφορος αναρρίχησης.\n\nΗ απόφαση ελήφθη με ομοφωνία, που σημαίνει ότι όλοι συμφώνησαν. Η παρουσία του αθλητή Πέτρου Πετρόπουλου δείχνει τη στήριξη των ενεργών αθλητών στην καινούργια διοίκηση. Αυτή η αλλαγή είναι σημαντική για τον σύλλογο και τους αθλητές του.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/to-neo-dioikitiko-symvoulio-tou-eos-korinthou/",
+      "sourceDomains": [
+        "ertnews.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/to-neo-dioikitiko-symvoulio-tou-eos-korinthou/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά τη νέα διοίκηση του ΕΟΣ Κορίνθου, η οποία σχετίζεται άμεσα με τον αθλητισμό και τις δραστηριότητες του συλλόγου. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-      "publishedAt": "2026-02-04T15:15:00.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T06:00:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "3ae29ec2b50a",
-        "title": "ΑΑΔΕ: Ψηφιακή εφαρμογή για την απαλλαγή από τα τέλη κυκλοφορίας για ΑμεΑ",
-        "simpleTitle": "Νέα εφαρμογή για απαλλαγή από τέλη κυκλοφορίας για ΑμεΑ",
-        "simpleText": "Η Ανεξάρτητη Αρχή Δημοσίων Εσόδων ανακοίνωσε μια νέα ηλεκτρονική εφαρμογή για να διευκολύνει τα Άτομα με Αναπηρία να απαλλαγούν από τα τέλη κυκλοφορίας. Η εφαρμογή θα είναι διαθέσιμη από τις 4 Φεβρουαρίου 2026. Οι χρήστες δεν θα χρειάζεται να προσκομίζουν έγγραφα, καθώς η εφαρμογή θα παίρνει αυτόματα τα στοιχεία από τα Κέντρα Πιστοποίησης Αναπηρίας. Οι ενδιαφερόμενοι θα μπορούν να υποβάλουν αιτήσεις μέσω της εφαρμογής myCAR. Η διαδικασία αυτή είναι σημαντική, επειδή διευκολύνει την πρόσβαση στις απαλλαγές και μειώνει την γραφειοκρατία. Αν έχετε απορίες, μπορείτε να πείτε στο τηλέφωνο 1521 για βοήθεια.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/aade-psifiaki-efarmogi-gia-tin-apallagi-apo-ta-teli-kykloforias-gia-amea/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/aade-psifiaki-efarmogi-gia-tin-apallagi-apo-ta-teli-kykloforias-gia-amea/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/04/economy/teli-kykloforias-se-isxy-nea-psifiaki-efarmogi-gia-apallagi-poioys-afora/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την εφαρμογή μιας ψηφιακής διαδικασίας που διευκολύνει την πρόσβαση Ατόμων με Αναπηρία σε απαλλαγές τελών κυκλοφορίας, ενισχύοντας τη γραφειοκρατική αποδοτικότητα και άρα έχει σοβαρές κοινωνικές και οικονομικές επιπτώσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-04T15:46:45.000Z"
-      },
-      {
-        "id": "6f430114c560",
-        "title": "Ο «τσάρος των συνόρων» των ΗΠΑ αποσύρει 700 πράκτορες της ICE από τη Μινεσότα",
-        "simpleTitle": "Μείωση πρακτόρων της ICE στη Μινεσότα",
-        "simpleText": "Η κυβέρνηση Τραμπ ανακοίνωσε ότι θα αποσυρθούν 700 πράκτορες της ICE, που είναι οι ομοσπονδιακοί αξιωματικοί μετανάστευσης, από τη Μινεσότα. Αυτή η ανακοίνωση έγινε την Τετάρτη, 4 Φεβρουαρίου, από τον Τομ Χόμαν, που είναι ο επικεφαλής των συνόρων. Μετά από συνεργασία μεταξύ πολιτειακών και τοπικών αρχών, αποφασίστηκε να μειωθούν οι πράκτορες για να υπάρχει περισσότερο ασφάλεια.\n\nΑυτή η αλλαγή επηρεάζει την αστυνομία και την κατάσταση με τους μετανάστες στην περιοχή. Ο Χόμαν είπε ότι είναι σημαντικό να μειωθούν οι αστυνομικοί που βρίσκονται έξω για να κυνηγούν ανθρώπους που δεν έχουν άδεια παραμονής. Δε γνωρίζουμε ακόμα πώς θα επηρεάσει αυτή η απόφαση τη ζωή των ανθρώπων στη Μινεσότα.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/o-tsaros-ton-synoron-ton-ipa-aposyrei-700-praktores-tis-ice-apo-ti-minesota/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/o-tsaros-ton-synoron-ton-ipa-aposyrei-700-praktores-tis-ice-apo-ti-minesota/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564060244/i-dioikisi-tramp-aposyrei-700-praktores-tis-ice-apo-ti-minesota/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την απόσυρση ομοσπονδιακών αξιωματικών μετανάστευσης από μια πολιτεία, κάτι που σχετίζεται με θέματα πολιτικής, δημόσιας ασφάλειας και μεταναστευτικής πολιτικής.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-04T15:08:05.000Z"
-      },
-      {
-        "id": "a4dbfeee3892",
-        "title": "Θ. Πλεύρης: Tο δόγμα είναι φυλακή ή επιστροφή, για όσους εισέρχονται παράνομα στη χώρα",
-        "simpleTitle": "** Νέες κανόνες για τους παράνομους μετανάστες στην Ελλάδα",
-        "simpleText": "** Ο υπουργός Μετανάστευσης Θάνος Πλεύρης μίλησε στη Βουλή για τους παράνομους μετανάστες. Είπε ότι αν κάποιος μπαίνει στη χώρα χωρίς άδεια, δεν έχει δικαίωμα να μείνει. Οι άνθρωποι αυτοί, εάν δεν πάρουν άσυλο, θα επιστρέφουν πίσω. Αυτή η πολιτική στόχο έχει να μειώσει τους μετανάστες που έρχονται παράνομα.\n\nΟ υπουργός ανέφερε επίσης ότι οι νόμιμοι μετανάστες, περίπου 800.000, θα έχουν πιο γρήγορες διαδικασίες για την ανανέωση των αδειών τους. Είναι σημαντικό να γίνεται γρήγορα η διαδικασία αυτή, ώστε όλοι να γνωρίζουν τι πρέπει να κάνουν. Ακόμα, για τα παιδιά και τους ηλικιωμένους, θα υπάρχουν ειδικοί κανόνες για να μείνουν στην Ελλάδα χωρίς να επιβαρύνουν το ασφαλιστικό σύστημα.",
-        "sourceName": "ERT News, Protagon",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/th-pleyris-to-dogma-einai-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-sti-xora/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/th-pleyris-to-dogma-einai-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-sti-xora/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/plevris-gia-metanasteftiko-fylaki-i-epistrofi-gia-osous-eiserxontai-paranoma-44343306298"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τη μεταναστευτική πολιτική της κυβέρνησης, που περιλαμβάνει σοβαρές αποφάσεις σχετικά με τους παράνομους μετανάστες και τη διαδικασία επιστροφής τους, αναλύοντας παράλληλα τις επιπτώσεις στους νόμιμους μετανάστες. Αυτό το θέμα εμπλέκει ζητήματα όπως τα δικαιώματα και οι πολιτικές επεξεργασίας αιτημάτων ασύλου, που είναι κεντρικά σε σοβαρές κοινωνικές και πολιτικές συζητήσεις.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gf2bb6ebb12d1196d2e74745e6ff9b0d3d94a647a6f44c2c8e663716a748a9d47862442887705a1212feb7e131cdac664bc3c3a613847fd97b00f0a4578b963da_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-04T14:55:31.000Z"
-      },
-      {
-        "id": "220215112507",
-        "title": "Ιταλία: Αφαιρέθηκε από την εκκλησία το «αγγελάκι» που έμοιαζε με τη Μελόνι",
-        "simpleTitle": "Αφαιρέθηκε το «αγγελάκι» που έμοιαζε με τη Μελόνι στην Ιταλία",
-        "simpleText": "Στην εκκλησία Σαν Λορέντσο ιν Λουτσίνα, στη Ρώμη, αφαιρέθηκε μια τοιχογραφία που απεικόνιζε έναν άγγελο. Αυτό έγινε μετά από αίτημα του Βατικανού και με συμφωνία του ιερέα της εκκλησίας. Ο άγγελος είχε χαρακτηριστικά που θύμιζαν την Ιταλίδα πρωθυπουργό Τζόρτζια Μελόνι, κάτι που προκάλεσε πολλές αντιδράσεις. Πολλοί τουρίστες επισκέφτηκαν την εκκλησία για να δουν την τοιχογραφία πριν αφαιρεθεί. Η Μελόνι δήλωσε ότι δεν μοιάζει με αγγελούδι. Η απόφαση είχε και την προσοχή του ιταλικού υπουργείου Πολιτισμού, που έστειλε ειδικούς για να ελέγξουν το έργο.",
+        "id": "8a30d7400d83",
+        "title": "Αυστραλία: Αντιδράσεις για την επικείμενη επίσκεψη του Ισραηλινού προέδρου – Ζήτουν τη σύλληψή του λόγω Γάζας",
+        "simpleTitle": "Αντιδράσεις στην Αυστραλία για την επίσκεψη του προέδρου του Ισραήλ",
+        "simpleText": "Στην Αυστραλία, υπάρχουν πολλές αντιδράσεις για την επίσκεψη του Ισραηλινού προέδρου Ισαάκ Χέρτζογκ. Αυτή η επίσκεψη θα γίνει τη Δευτέρα και θα διαρκέσει τέσσερις μέρες. Ο Χέρτζογκ θα αποτίσει φόρο τιμής στα θύματα μιας τρομοκρατικής επίθεσης στην παραλία Μπόνταϊ του Σίδνεϊ. Η κυβέρνηση της Αυστραλίας έχει απορρίψει τις εκκλήσεις να συλλάβει τον Χέρτζογκ.\n\nΜερικοί άνθρωποι ζητούν να ανακληθεί η πρόσκληση ή η σύλληψη του Χέρτζογκ, επειδή πιστεύουν ότι έχει ευθύνες για καταστάσεις στη Λωρίδα της Γάζας. Στο Σίδνεϊ θα γίνουν διαδηλώσεις, αλλά οι αρχές έχουν απαγορεύσει συγκεντρώσεις για λόγους ασφαλείας. Οι τοπικές αρχές είναι σε επιφυλακή για τυχόν επεισόδια κατά τη διάρκεια της επίσκεψης.",
         "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/world/564060169/italia-afairethike-apo-tin-ekklisia-to-aggelaki-poy-emoiaze-me-ti-meloni/",
+        "sourceUrl": "https://www.kathimerini.gr/world/564061657/aystralia-antidraseis-gia-tin-epikeimeni-episkepsi-toy-israilinoy-proedroy-zitoyn-ti-syllipsi-toy-logo-gazas/",
         "sourceDomains": [
           "kathimerini.gr",
           "tanea.gr"
@@ -602,55 +293,126 @@
         "sources": [
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564060169/italia-afairethike-apo-tin-ekklisia-to-aggelaki-poy-emoiaze-me-ti-meloni/"
+            "url": "https://www.kathimerini.gr/world/564061657/aystralia-antidraseis-gia-tin-epikeimeni-episkepsi-toy-israilinoy-proedroy-zitoyn-ti-syllipsi-toy-logo-gazas/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/04/world/italia-afairethike-apo-tin-ekklisia-san-lorentso-in-loytsina-tis-romis-i-toixografia-me-to/"
+            "url": "https://www.tanea.gr/2026/02/05/world/entones-antidraseis-stin-aystralia-apo-i-epikeimeni-episkepsi-toy-proedroy-toy-israil-xert/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση σχετίζεται με την αφαίρεση της τοιχογραφίας από την εκκλησία λόγω πολιτικών παραπομπών και αντιδράσεων, ενδεικτική σοβαρών κοινωνικών ζητημάτων.",
+        "categoryReason": "Η είδηση αφορά πολιτικές αντιδράσεις και ζητήματα ανθρωπίνων δικαιωμάτων, που σχετίζονται με την επικείμενη επίσκεψη του Ισραηλινού προέδρου στην Αυστραλία, μια σοβαρή πολιτική κατάσταση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-04T14:42:31.000Z"
+        "publishedAt": "2026-02-05T07:20:45.000Z"
       },
       {
-        "id": "0af14cf67321",
-        "title": "Βουλή: «Όχι» στην άρση ασυλίας Κουτσούμπα – «Ναι» στην άρση του Δημήτρη Μάντζου",
-        "simpleTitle": "Βουλή: Αρνήθηκαν την άρση ασυλίας Κουτσούμπα, δέχτηκαν του Μάντζου",
-        "simpleText": "Στη Βουλή έγινε μια σημαντική απόφαση. Οι βουλευτές είπαν \"όχι\" στην άρση της ασυλίας του Δημήτρη Κουτσούμπα, του γενικού γραμματέα του ΚΚΕ. Αντίθετα, δέχτηκαν την αίτηση του Δημήτρη Μάντζου για να αρθεί η δική του ασυλία. Αυτό συνέβη εξαιτίας μιας μήνυσης που ελήφθη για τις οικονομικές υποχρεώσεις του ΚΚΕ, αλλά και για θέματα που αφορούν το κόμμα των Σπαρτιατών.\n\nΗ απόφαση αυτή είναι σημαντική γιατί επηρεάζει τους πολιτικούς και την εμπιστοσύνη που έχει ο κόσμος σε αυτούς. Ο κ. Κουτσούμπας υποστηρίζει ότι οι κατηγορίες εις βάρος του έχουν πολιτικά κίνητρα και είναι μέρους ενός σχεδίου. Οι βουλευτές πρέπει να είναι προσεκτικοί και να προσέχουν τη διαφάνεια στην πολιτική τους δράση.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/04/politics/vouli-oxi-stin-arsi-asylias-koutsoumpa-nai-stin-arsi-tou-dimitri-mantzou/",
+        "id": "0cc2912ec4c8",
+        "title": "Ρεκόρ στον Εξωδικαστικό Μηχανισμό τον Ιανουάριο με 773 εκατ. ευρώ στη ρύθμιση οφειλών",
+        "simpleTitle": "Ρεκόρ ρυθμίσεων οφειλών τον Ιανουάριο",
+        "simpleText": "Τον Ιανουάριο του 2026, η ρύθμιση οφειλών μέσω του εξωδικαστικού μηχανισμού έφτασε το ποσό των 773 εκατομμυρίων ευρώ. Αυτό είναι το μεγαλύτερο ποσό που έχει καταγραφεί μέχρι τώρα. Συνολικά, έγιναν 2.554 ρυθμίσεις οφειλών, πράγμα που δείχνει ότι οι πολίτες εμπιστεύονται τη διαδικασία. Ιδιαίτερα σημαντική είναι η συμμετοχή από οικονομικά ευάλωτους οφειλέτες, με 274 ρυθμίσεις να αφορούν αυτούς. Οι 37 από αυτές αφορούν άτομα με αναπηρία. Οι πολίτες μπορούν να ζητήσουν βοήθεια μέσω τηλεφώνου ή βιντεοκλήσης, ώστε να διαχειριστούν τις οφειλές τους καλύτερα.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/rekor-ston-eksodikastiko-mixanismo-ton-ianouario-me-773-ekat-eyro-sti-rythmisi-ofeilon/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/oikonomia/rekor-ston-eksodikastiko-mixanismo-ton-ianouario-me-773-ekat-eyro-sti-rythmisi-ofeilon/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/oikonomia/article/4067624/neo-rekor-me-773-ekat-evro-rithmismenes-ofiles-ston-exodikastiko-michanismo-ton-ianouario.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σημαντικά οικονομικά θέματα, όπως η ρύθμιση οφειλών μέσω του εξωδικαστικού μηχανισμού, η οποία έχει σοβαρές κοινωνικές και οικονομικές επιπτώσεις.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-05T07:15:12.000Z"
+      },
+      {
+        "id": "9f256ad5ffc1",
+        "title": "Ο κόσμος μπροστά σε «πολύ σοβαρή στιγμή» – Λήξη της συμφωνίας ΗΠΑ-Ρωσίας για τον έλεγχο των πυρηνικών όπλων",
+        "simpleTitle": "Λήξη της συμφωνίας ΗΠΑ-Ρωσίας για πυρηνικά όπλα**",
+        "simpleText": "Η τελευταία συμφωνία ελέγχου πυρηνικών όπλων μεταξύ ΗΠΑ και Ρωσίας έληξε πρόσφατα. Ο Γενικός Γραμματέας του ΟΗΕ, Αντόνιο Γκουτέρες, δήλωσε ότι αυτό είναι μια πολύ σοβαρή στιγμή για την ειρήνη και την ασφάλεια του κόσμου. Ο κίνδυνος χρήσης πυρηνικών όπλων είναι τώρα πιο υψηλός από ποτέ τα τελευταία χρόνια. Η συμφωνία που έληξε ονομαζόταν New START και επιβάλει περιορισμούς στα οπλοστάσια των δύο χωρών. Ο Γκουτέρες κάλεσε τις ΗΠΑ και τη Ρωσία να αρχίσουν άμεσα διαπραγματεύσεις για νέα συμφωνία. Είναι σημαντικό να διατηρήσουμε την ειρήνη και να μειώσουμε τους κινδύνους.",
+        "sourceName": "TA NEA, News.gr, Protagon",
+        "sourceUrl": "https://www.tanea.gr/2026/02/05/world/o-kosmos-mprosta-se-poly-sovari-stigmi-liksi-tis-symfonias-ipa-rosias-gia-ton-elegxo-ton-p/",
         "sourceDomains": [
           "tanea.gr",
-          "tovima.gr"
+          "news.gr",
+          "protagon.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/04/politics/vouli-oxi-stin-arsi-asylias-koutsoumpa-nai-stin-arsi-tou-dimitri-mantzou/"
+            "url": "https://www.tanea.gr/2026/02/05/world/o-kosmos-mprosta-se-poly-sovari-stigmi-liksi-tis-symfonias-ipa-rosias-gia-ton-elegxo-ton-p/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/04/politics/i-vouli-psifise-kata-tis-arsis-asylias-tou-koutsoumpa-yper-gia-tou-mantzou/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4067583/oie-sovari-stigmi-gia-tin-pagkosmia-asfalia-i-lixi-tis-simfonias-ipa-rosias-gia-ta-pirinika.html"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/oie-sovari-stigmi-gia-tin-pagkosmia-asfaleia-i-liksi-tis-symfwnias-ipa-rwsias-gia-ta-pyrinika-44343306605"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σημαντική πολιτική απόφαση στη Βουλή που έχει επιπτώσεις στην πολιτική σκηνή της χώρας, καθώς σχετίζεται με την ασυλία βουλευτών και ζητήματα διαφάνειας.",
+        "categoryReason": "Η λήξη της συμφωνίας ΗΠΑ-Ρωσίας για τον έλεγχο των πυρηνικών όπλων αποτελεί σοβαρή διεθνή είδηση που σχετίζεται με την ασφάλεια και την ειρήνη παγκοσμίως, όπως τονίζεται από τον Γενικό Γραμματέα του ΟΗΕ.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-04T14:38:58.000Z"
+        "publishedAt": "2026-02-05T07:12:26.000Z"
       },
       {
-        "id": "4282298833d8",
-        "title": "Ειδική αστυνομική επιχείρηση σε οικισμό του Ασπροπύργου, με 9 συλλήψεις – Αποξηλώθηκαν καλώδια για ρευματοκλοπή",
-        "simpleTitle": "Αστυνομική επιχείρηση στον Ασπρόπυργο με 9 συλλήψεις",
-        "simpleText": "Το πρωί της Τρίτης 3 Φεβρουαρίου, έγινε μεγάλη αστυνομική επιχείρηση στον οικισμό του Ασπροπύργου. Ο σκοπός ήταν να σταματήσουν παράνομες δραστηριότητες, όπως η κλοπή ηλεκτρικού ρεύματος. Στην επιχείρηση συμμετείχαν πολλές αστυνομικές ομάδες και ένα drone. Συνελήφθησαν 9 άτομα που κατηγορούνται για κλοπή. Επίσης, αποξηλώθηκαν καλώδια μήκους 1.010 μέτρων που χρησιμοποιούνταν για ρευματοκλοπές. Αυτή η δράση είναι σημαντική για την ασφάλεια και την καλή λειτουργία της περιοχής.",
+        "id": "849e57c35489",
+        "title": "Απαγορευτικό απόπλου και μεγάλες καθυστερήσεις στα δρομολόγια πλοίων λόγω θυελλωδών ανέμων",
+        "simpleTitle": "Απαγόρευση αναχωρήσεων πλοίων λόγω κακών καιρικών συνθηκών",
+        "simpleText": "Αυτή τη στιγμή, πολλά πλοία δεν μπορούν να φύγουν από τα λιμάνια στην Ελλάδα λόγω θυελλωδών ανέμων. Δεν γίνονται δρομολόγια από τη Ραφήνα προς τις Κυκλάδες και από το Λαύριο προς Κέα και Κύθνο. Στο λιμάνι του Πειραιά υπάρχουν μεγάλες καθυστερήσεις, που φτάνουν μέχρι πέντε ώρες. Μέχρι να βελτιωθούν οι καιρικές συνθήκες, οι αναχωρήσεις θα παραμείνουν σταματημένες. Οι λιμενικές αρχές θα δώσουν νέα ενημέρωση πιο αργά, το μεσημέρι. Είναι σημαντικό να αποφεύγονται τα ταξίδια σε αυτές τις συνθήκες για την ασφάλεια όλων.",
+        "sourceName": "ERT News, Kathimerini, TO BHMA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/apagoreytiko-apoplou-kai-megales-kathysteriseis-sta-dromologia-ploion-logo-thyellodon-anemon/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tovima.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/apagoreytiko-apoplou-kai-megales-kathysteriseis-sta-dromologia-ploion-logo-thyellodon-anemon/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564061627/kakokairia-apagoreytiko-apoploy-kai-kathysteriseis-sta-dromologia-ploion-ti-ischyei/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/05/society/apagoreytiko-apoplou-kai-kathysteriseis-sta-ploia-logo-thyellodon-anemon/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4067641/apagoreftiko-apoplou-logo-thiellodon-anemon-2.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές καταστάσεις που σχετίζονται με τις καιρικές συνθήκες, καθυστερήσεις και απαγορεύσεις στην ακτοπλοΐα, επηρεάζοντας την ασφάλεια και τις μετακινήσεις των επιβατών.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-sundeseis-DARSINOS-APAGOREFTIKO.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-sundeseis-DARSINOS-APAGOREFTIKO.jpg",
+        "publishedAt": "2026-02-05T06:59:07.000Z"
+      },
+      {
+        "id": "b66a234004ee",
+        "title": "Τραγωδία στη Χίο: ΕΔΕ για τις συνθήκες του δυστυχήματος – Στον ανακριτή οδηγείται ο Μαροκινός φερόμενος ως διακινητής",
+        "simpleTitle": "Τραγωδία στη Χίο με 15 θύματα",
+        "simpleText": "Έγινε ένα σοβαρό ατύχημα ανοιχτά της Χίου, όπου 15 άνθρωποι έχασαν τη ζωή τους και 25 άλλοι τραυματίστηκαν. Το ατύχημα συνέβη όταν ένα ταχύπλοο με μετανάστριες συγκρούστηκε με ένα σκάφος του Λιμενικού. Ο Μαροκινός διακινητής του ταχύπλοου έχει συλληφθεί και θα παρουσιαστεί στον ανακριτή. Τώρα, το υπουργείο Ναυτιλίας ερευνά τι ακριβώς συνέβη.\n\nΟι διασώστες προσπαθούν να βρουν επιζώντες στην περιοχή. Μεταξύ των τραυματιών είναι και 10 παιδιά. Είναι πολύ θλιβερό που κάποιοι μάλιστα είχαν έγκυες γυναίκες, οι οποίες δεν κατάφεραν να κρατήσουν τα μωρά τους. Αυτή η τραγωδία δείχνει πόσο επικίνδυνη είναι η μεταναστευτική διαδρομή και πόσο χρειάζεται να προσέχουμε σε τέτοιες καταστάσεις.",
         "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eidiki-astynomiki-epixeirisi-se-oikismo-tou-aspropyrgou-me-9-syllipseis-apoksilothikan-kalodia-gia-reymatoklopi/",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/tragodia-sti-xio-ede-gia-tis-synthikes-tou-dystyximatos-ston-anakriti-odigeitai-o-marokinos-feromenos-os-diakinitis/",
         "sourceDomains": [
           "ertnews.gr",
           "tanea.gr"
@@ -658,166 +420,147 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/eidiki-astynomiki-epixeirisi-se-oikismo-tou-aspropyrgou-me-9-syllipseis-apoksilothikan-kalodia-gia-reymatoklopi/"
+            "url": "https://www.ertnews.gr/eidiseis/tragodia-sti-xio-ede-gia-tis-synthikes-tou-dystyximatos-ston-anakriti-odigeitai-o-marokinos-feromenos-os-diakinitis/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/04/greece/epixeirisi-tis-elas-ston-aspropyrgo-apoksilothikan-kalodia-gia-reymatoklopi-mikoys-1-010-m/"
+            "url": "https://www.tanea.gr/2026/02/05/greece/xios-se-ekseliksi-i-ede-ston-anakriti-o-marokinos-feromenos-os-diakinitis/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές κοινωνικές και νομικές θεματικές, όπως η αστυνομική επιχείρηση κατά της παράνομης δραστηριότητας, οι συλλήψεις και οι επιπτώσεις της ρευματοκλοπής.",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό ναυτικό δυστύχημα με ανθρώπινες απώλειες και τραυματισμούς, που απαιτεί έρευνα και αντιμετώπιση των συνθηκών του περιστατικού.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g14f419cbd1694962a5bec1ac9831a7a44bd94b2ea31b3d76a05f15933f29823c235ff8c04261b0d74a8c6e7c13201bfd386f8134f908356f0e4d0d84819bc414_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-04T14:38:11.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-sundeseis-puliotis-xio.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-sundeseis-puliotis-xio.jpg",
+        "publishedAt": "2026-02-05T06:45:23.000Z"
+      },
+      {
+        "id": "20d1eb46213e",
+        "title": "Εκρηκτικούς μηχανισμούς σε αυτοκίνητα φίλων και συγγενών κατηγορείται ότι έβαζε 56χρονη δασκάλα γιόγκα – Δεν της έδιναν δανεικά",
+        "simpleTitle": "Δασκάλα γιόγκα κατηγορείται για εκρηκτικούς μηχανισμούς",
+        "simpleText": "Μια 56χρονη δασκάλα γιόγκα συνελήφθη από την αστυνομία. Κατηγορείται ότι τοποθετούσε εκρηκτικούς μηχανισμούς σε αυτοκίνητα φίλων και συγγενών της, όταν αυτοί δεν της έδιναν οικονομική βοήθεια. Οι βόμβες τοποθετήθηκαν σε τρία αυτοκίνητα σε Νέα Ερυθραία, Μεταμόρφωση και Κηφισιά. Μία από τις εκρήξεις τραυμάτισε έναν οδηγό. Αυτή η γυναίκα είχε απασχολήσει και πριν τις αρχές για παρόμοια περιστατικά. Αυτό το γεγονός σοκάρει, καθώς δείχνει πόσο επικίνδυνες μπορούν να γίνουν οι σχέσεις όταν δεν υπάρχει εμπιστοσύνη.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ekriktikous-mixanismous-se-aytokinita-filon-kai-syggenon-katigoreitai-oti-evaze-56xroni-daskala-giogka-den-tis-edinan-daneika/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ekriktikous-mixanismous-se-aytokinita-filon-kai-syggenon-katigoreitai-oti-evaze-56xroni-daskala-giogka-den-tis-edinan-daneika/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564061609/daskala-giogka-topothetoyse-ekriktikoys-michanismoys-otan-den-tis-edinan-daneika/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση περιλαμβάνει σοβαρές κατηγορίες για εγκλήματα με εκρηκτικούς μηχανισμούς, που προκαλούν κοινωνικούς κινδύνους και αναδεικνύουν θέματα εμπιστοσύνης και βίας στις σχέσεις.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-syndeseis-stamou-yoga.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-syndeseis-stamou-yoga.jpg",
+        "publishedAt": "2026-02-05T06:43:44.000Z"
       }
     ],
     "happy": [
       {
-        "id": "28f3d8c9b81e",
-        "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-        "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη στον κόσμο το 2025",
-        "simpleText": "Η Κρακοβία στην Πολωνία είναι η καθαρότερη πόλη στον κόσμο για το 2025. Αυτό δείχνει πως είναι μια πολύ όμορφη και φροντισμένη πόλη, που αρέσει σε πολλούς επισκέπτες. Έχει πολύ ωραία ιστορία και σιγά-σιγά γίνεται δημοφιλής για ταξίδια. Μια ανάλυση έδειξε ότι οι άνθρωποι δίνουν πολλές καλές κριτικές για την καθαριότητα της. Συγκεκριμένα, το ποσοστό θετικών κριτικών φτάνει το 98,5%. Αυτό σημαίνει ότι οι κάτοικοι και οι τουρίστες το εκτιμούν πολύ. Αυτή η αναγνώριση μπορεί να προσελκύσει περισσότερους επισκέπτες στο μέλλον.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αναδεικνύει την Κρακοβία ως την καθαρότερη πόλη στον κόσμο, κάτι που είναι θετικό και χαροποιητικό, υπογραμμίζοντας την όμορφη εικόνα της και την ικανοποίηση των επισκεπτών.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g3cc01a1a0ea31f31d9fd995bcddc0794f62b916325d95bd0fad101f4fd0d9e155c47fde09ae5797973ba054af264f2d19a9ae48e4b3ffcc7924d97bf23e7ec3a_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-30T15:36:00.000Z"
-      },
-      {
-        "id": "7ce1d3a75788",
-        "title": "Η καλοσύνη που σερβίρεται καθημερινά: Ένας ηλικιωμένος, ένας σεφ και ένα εστιατόριο έγιναν οικογένεια",
-        "simpleTitle": "Ένας ηλικιωμένος και ο σεφ γίνονται φίλοι",
-        "simpleText": "Ένας 78χρονος άντρας, ο Τσάρλι, πηγαίνει κάθε μέρα στο αγαπημένο του εστιατόριο στην πόλη Πενσακόλα, στη Φλόριντα. Εκεί τρώει πάντα την ίδια παραγγελία: γκούμπο με ρύζι. Για τον Τσάρλι, το εστιατόριο είναι σαν το σπίτι του, γιατί τον ξέρουν όλοι. Αισθάνεται άνετα και χαρούμενος κάθε φορά που πηγαίνει εκεί. Η συνήθεια αυτή του δίνει μεγάλη ευχαρίστηση στην καθημερινότητά του. Η σχέση του με τον σεφ και το εστιατόριο έχει γίνει κάτι παραπάνω από απλώς φαγητό, έχει γίνει φιλία.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/30793-kalosyni-ilikomenos-estiatorio-sef-gkoumpo-filia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η ιστορία του Τσάρλι και της σχέσης του με το εστιατόριο και τον σεφ αναδεικνύει τη καλοσύνη και τη φιλία που σχηματίζεται μέσα από καθημερινές πράξεις, δημιουργώντας μια θετική και χαρούμενη ατμόσφαιρα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-30T07:21:00.000Z"
-      }
-    ],
-    "sports": [
-      {
-        "id": "2f29ecbfa942",
-        "title": "Η ενδεκάδα του Ολυμπιακού για την αναμέτρηση με τον Αστέρα AKTOR",
-        "simpleTitle": "Ολυμπιακός: Η αποστολή για τον αγώνα με τον Αστέρα",
-        "simpleText": "Ο Ολυμπιακός παίζει εκτός έδρας με τον Αστέρα Τρίπολης AKTOR. Αυτός ο αγώνας είναι από την 17η αγωνιστική της Super League και έχει αναβληθεί. Λίγο πριν από το μάτς, η ομάδα ανακοίνωσε ποιοι παίκτες θα αγωνιστούν. Οι παίκτες που επιλέχθηκαν από τον προπονητή Χοσέ Λουίς Μεντιλίμπαρ είναι οι Τζολάκης, Κοστίνια, Ρέτσος, Μπιανκόν, Μπρούνο, Ντάνι Γκαρθία, Έσε, Μασιμέντο, Μάρτινς, Ποντένσε και Ταρέμι. Ο αγώνας είναι σημαντικός για την πορεία της ομάδας στο πρωτάθλημα.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/04/sports/i-endekada-tou-olympiakou-gia-tin-anametrisi-me-ton-astera-aktor/",
-        "sourceDomains": [
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/04/sports/i-endekada-tou-olympiakou-gia-tin-anametrisi-me-ton-astera-aktor/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά την ανακοίνωση της ενδεκάδας του Ολυμπιακού για έναν αγώνα της Super League, που είναι σχετική με άμεσες αθλητικές δραστηριότητες. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-04T15:49:26.000Z"
-      },
-      {
-        "id": "6391317dbe43",
-        "title": "Live streaming: Δείτε τον αγώνα ΠΑΟΚ-Σπόρτινγκ Λισαβόνας για το FIBA Europe Cup (17:30, ΕΡΤ2 ΣΠΟΡ)",
-        "simpleTitle": "Αγώνας ΠΑΟΚ με Σπόρτινγκ Λισαβόνας",
-        "simpleText": "Σήμερα, στις 17:30, θα γίνει ένας αγώνας μπάσκετ ανάμεσα στον ΠΑΟΚ και την Σπόρτινγκ Λισαβόνας. Ο αγώνας είναι για το FIBA Europe Cup. Μπορείτε να τον παρακολουθήσετε ζωντανά στην τηλεόραση από την ΕΡΤ2 ΣΠΟΡ. Επίσης, θα είναι διαθέσιμος και διαδικτυακά μέσω του ERTFLIX. Αυτός ο αγώνας είναι σημαντικός γιατί αφορά μια μεγάλη διοργάνωση μπάσκετ και οι δύο ομάδες θέλουν να κερδίσουν.",
+        "id": "8e4830935cce",
+        "title": "Θεσσαλονίκη: Κοπή πρωτοχρονιάτικης πίτας στο νοσοκομείο Παπαγεωργίου με τιμητικές βραβεύσεις και μηνύματα αισιοδοξίας",
+        "simpleTitle": "Κοπή πίτας στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη",
+        "simpleText": "Στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη, οι άνθρωποι γιόρτασαν την κοπή της πρωτοχρονιάτικης πίτας στις 3 Φεβρουαρίου 2026. Η εκδήλωση έγινε με άνθρωποι του νοσοκομείου και τους επίσημους προσκεκλημένους να μιλούν για τη σημασία της δουλειάς τους. Ο Υφυπουργός Εσωτερικών έκανε θετικά σχόλια για το προσωπικό, ενώ και οι άλλοι ομιλητές αναγνώρισαν την προσφορά τους. Αναφέρθηκαν επίσης στα σχέδια για τη βελτίωση των υπηρεσιών στο μέλλον. Είναι σημαντικό, γιατί δείχνει ότι η υγειονομική φροντίδα εξελίσσεται για το καλό όλων. Οι παρευρισκόμενοι έμειναν με αισιοδοξία για την επόμενη χρονιά.",
         "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-paok-sportingk-lisavonas-gia-to-fiba-europe-cup-17-30-ert2-spor/",
+        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-kopi-protoxroniatikis-pitas-sto-nosokomeio-papageorgiou-me-timitikes-vraveyseis-kai-minymata-aisiodoksias/",
         "sourceDomains": [
           "ertnews.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-paok-sportingk-lisavonas-gia-to-fiba-europe-cup-17-30-ert2-spor/"
+            "url": "https://www.ertnews.gr/ert3/thessaloniki-kopi-protoxroniatikis-pitas-sto-nosokomeio-papageorgiou-me-timitikes-vraveyseis-kai-minymata-aisiodoksias/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η κοπή της πρωτοχρονιάτικης πίτας στο νοσοκομείο Παπαγεωργίου περιλάμβανε θετικές βραβεύσεις και μηνύματα αισιοδοξίας από τους ομιλητές, που αναγνώρισαν την προσφορά του προσωπικού και τα σχέδια για τη βελτίωση των υπηρεσιών. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g88673370a43d1373514c7482bec39fdfc9e98ab3baa4205afcca1da1d8c87d1904b280e1fdf29246a4a918a2bba6d9fb739a79a4e1bc8233acb8ac59383d2f6c_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-05T07:15:14.000Z"
+      },
+      {
+        "id": "684c152606f3",
+        "title": "Λευκοί ρινόκεροι βγήκαν για μια βόλτα στο χιονισμένο ζωολογικό πάρκο του Νόξβιλ",
+        "simpleTitle": "Λευκοί ρινόκεροι παίζουν στο χιόνι σε ζωολογικό πάρκο",
+        "simpleText": "Στο Νόξβιλ του Τενεσί, τέσσερις λευκοί ρινόκεροι βγήκαν για λίγο έξω στο χιόνι. Οι ρινόκεροι ονομάζονται Μάιλο, Ρέιντζερ, Γκας και Λίαμ. Αυτή η βόλτα έγινε την Τρίτη 3 Φεβρουαρίου. Εξερεύνησαν το χιονισμένο έδαφος, μιας και το χιόνι είναι σπάνιο για αυτήν την περιοχή. Μετά από λίγη ώρα, επέστρεψαν μέσα για να μην κρυώσουν. Το χιόνι έφερε αλλαγές στον καιρό και επηρέασε αρκετές περιοχές στα νοτιοανατολικά Ηνωμένα Έθνη.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/diethni/leykoi-rinokeroi-vgikan-gia-mia-volta-sto-xionismeno-zoologiko-parko-tou-noksvil/",
+        "sourceDomains": [
+          "ertnews.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/diethni/leykoi-rinokeroi-vgikan-gia-mia-volta-sto-xionismeno-zoologiko-parko-tou-noksvil/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση περιγράφει μια χαρούμενη και ευχάριστη στιγμή, όπου λευκοί ρινόκεροι βγήκαν να εξερευνήσουν το χιόνι, γεγονός που φέρνει χαρά και θετικά συναισθήματα στους επισκέπτες. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260205-REUTERS-RHINOS.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260205-REUTERS-RHINOS.jpg",
+        "publishedAt": "2026-02-05T06:31:25.000Z"
+      }
+    ],
+    "sports": [
+      {
+        "id": "23a572746ef7",
+        "title": "Το νέο διοικητικό Συμβούλιο του ΕΟΣ Κορίνθου",
+        "simpleTitle": "Νέοι υπεύθυνοι στον ΕΟΣ Κορίνθου",
+        "simpleText": "Ο ΕΟΣ Κορίνθου έχει νέο διοικητικό συμβούλιο. Τα μέλη του συνεδρίασαν και αποφάσισαν ποιοι θα είναι οι υπεύθυνοι. Ο πρόεδρος είναι ο Παναγιώτης Νικολόπουλος. Αντιπρόεδρος είναι ο Νικόλαος Καραχοντζίτης, ενώ γενική γραμματέας είναι η Ιωάννα Πατάπη. Οι άλλοι υπεύθυνοι έχουν ρόλους όπως ταμίας και έφορος αναρρίχησης.\n\nΗ απόφαση ελήφθη με ομοφωνία, που σημαίνει ότι όλοι συμφώνησαν. Η παρουσία του αθλητή Πέτρου Πετρόπουλου δείχνει τη στήριξη των ενεργών αθλητών στην καινούργια διοίκηση. Αυτή η αλλαγή είναι σημαντική για τον σύλλογο και τους αθλητές του.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/to-neo-dioikitiko-symvoulio-tou-eos-korinthou/",
+        "sourceDomains": [
+          "ertnews.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/to-neo-dioikitiko-symvoulio-tou-eos-korinthou/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν μπάσκετ αγώνα μεταξύ ΠΑΟΚ και Σπόρτινγκ Λισαβόνας, που είναι χαρακτηριστικό γεγονός αθλητικού περιεχομένου. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τη νέα διοίκηση του ΕΟΣ Κορίνθου, η οποία σχετίζεται άμεσα με τον αθλητισμό και τις δραστηριότητες του συλλόγου. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-        "publishedAt": "2026-02-04T15:15:00.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-02-05T06:00:00.000Z"
+      },
+      {
+        "id": "4d78d6014543",
+        "title": "Παναθηναϊκός-ΠΑΟΚ 0-1: «Aσπρόμαυρο» προβάδισμα με Γιακουμάκη",
+        "simpleTitle": "ΠΑΟΚ νίκησε τον Παναθηναϊκό 0-1",
+        "simpleText": "Ο ΠΑΟΚ κέρδισε τον Παναθηναϊκό με σκορ 0-1. Ο Γιακουμάκης κέρδισε ένα πέναλτι, το οποίο εκτέλεσε και πέτυχε γκολ. Αυτή η νίκη δίνει στον ΠΑΟΚ προβάδισμα για να προχωρήσει στον τελικό. Ο αγώνας έγινε στην έδρα του Παναθηναϊκού. Είναι σημαντική νίκη για τον ΠΑΟΚ, γιατί τον φέρνει πιο κοντά στο στόχο του. Δεν έχουμε πληροφορίες για τους επόμενους αγώνες ή τις επιπτώσεις της ήττας για τον Παναθηναϊκό.",
+        "sourceName": "TO BHMA",
+        "sourceUrl": "https://www.tovima.gr/2026/02/04/sports/panathinaikos-paok-0-1-aspromayro-provadisma-me-giakoumaki/",
+        "sourceDomains": [
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/04/sports/panathinaikos-paok-0-1-aspromayro-provadisma-me-giakoumaki/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αναφέρεται σε έναν αγώνα ποδοσφαίρου και την νίκη του ΠΑΟΚ απέναντι στον Παναθηναϊκό, οπότε ανήκει στην κατηγορία του αθλητισμού. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g7fba676e39a98f85b10ca1e50620939fa9a3d48fc73315cb59a54987fca34ec85327b903b916d527d4cf10bfcd10a7c1cb04af465d11996f1398be7d8c02840e_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-04T19:33:02.000Z"
       }
     ],
     "screen": [],
-    "culture": [
-      {
-        "id": "7e6a4deec222",
-        "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-        "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η καλύτερη για το 2025",
-        "simpleText": "Μια εντυπωσιακή τοιχογραφία στη Καλαμάτα κέρδισε τον τίτλο της καλύτερης στον κόσμο για το 2025. Το έργο είναι εμπνευσμένο από τη μεγάλη τραγουδίστρια Μαρία Κάλλας και έχει δημιουργηθεί από τον καλλιτέχνη KLE. Η τοιχογραφία αυτή δείχνει τη δύναμη της σύγχρονης ελληνικής τέχνης του δρόμου. Επιπλέον, συγκέντρωσε πολλές ψήφους και αγάπη από τον κόσμο, κάτι που την έκανε να ξεχωρίσει ανάμεσα σε πολλές άλλες καλλιτεχνικές δημιουργίες. Αυτή η διάκριση είναι σημαντική και για την πόλη της Καλαμάτας, που την φιλοξενεί.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αφορά την τοιχογραφία που συνδέεται με την τέχνη, αναδεικνύοντας τον πολιτισμό και την καλλιτεχνική δημιουργία, κυρίως σε σχέση με τη Μαρία Κάλλας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-01-31T16:36:34.000Z"
-      },
-      {
-        "id": "d496dd4ae0c1",
-        "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
-        "simpleTitle": "Το νεφέλωμα Helix και ο θάνατος ενός άστρου",
-        "simpleText": "Το νεφέλωμα Helix είναι ένα πολύ όμορφο φαινόμενο στον ουρανό. Φαίνεται σαν μάτι και βρίσκεται 655 έτη φωτός μακριά από τη Γη. Αυτή η εικόνα μας δείχνει το τέλος της ζωής ενός άστρου, που είναι λίγο μεγαλύτερο από τον ήλιο μας. Όταν τα άστρα φτάσουν στο τέλος τους, πετάνε τα εξωτερικά τους στρώματα στο διάστημα και δημιουργούν αυτά τα νεφελώματα. Είναι σημαντικό γιατί μας δείχνει τη διαδικασία του θανάτου ενός άστρου, κάτι που συμβαίνει σπάνια και είναι γεμάτο ομορφιά. Αυτό μας βοηθά να καταλάβουμε καλύτερα το σύμπαν γύρω μας.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αναφέρεται σε ένα εντυπωσιακό κοσμικό φαινόμενο, που συνδυάζει τη επιστήμη με την τέχνη της αστρονομίας, προσφέροντας μια πολιτιστική και εκπαιδευτική διάσταση.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g0092f8973757dbcd449640d36b3b2c658e46f489375ec329479d45226fda3e309130fdf430779569aa2312519bfc0ea9679e49ffc251bd6a82aa259a6a941a83_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-31T11:36:00.000Z"
-      }
-    ],
+    "culture": [],
     "fun": []
   }
 }
