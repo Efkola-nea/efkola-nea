@@ -1,252 +1,163 @@
 {
-  "generatedAt": "2026-02-05T16:09:23.389Z",
+  "generatedAt": "2026-02-06T08:06:16.531Z",
   "articles": [
     {
-      "id": "e93163a15ec2",
-      "title": "ΕΟΔΥ: Επτά θάνατοι από Covid-19 και 9 από γρίπη την τελευταία εβδομάδα",
-      "simpleTitle": "Θάνατοι από Covid-19 και γρίπη στην Ελλάδα",
-      "simpleText": "Την τελευταία εβδομάδα, επτά άνθρωποι πέθαναν από Covid-19 και εννέα από γρίπη στην Ελλάδα. Οι πληροφορίες αυτές έρχονται από την εβδομαδιαία έκθεση του ΕΟΔΥ, που αναφέρει ότι η κατάσταση με την Covid-19 παραμένει σταθερή. Η γρίπη όμως δείχνει πτωτική τάση, δηλαδή τα κρούσματα μειώνονται.\n\nΑυτές οι πληροφορίες είναι σημαντικές γιατί μας βοηθούν να κατανοήσουμε τι συμβαίνει με τις ασθένειες. Είναι καλό να είμαστε προσεκτικοί και να ακολουθούμε οδηγίες για την υγεία μας. Για παράδειγμα, καλό είναι να κάνουμε εμβόλιο για τη γρίπη και να προσέχουμε τα συμπτώματα για να προστατευτούμε.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/",
+      "id": "995e4cd263ba",
+      "title": "Ο ΕΟΦ ανακαλεί παρτίδες βρεφικού γάλακτος",
+      "simpleTitle": "Ανακληθέν βρεφικό γάλα από τον ΕΟΦ",
+      "simpleText": "Ο Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ) αποφάσισε να ανακαλέσει κάποιες παρτίδες βρεφικού γάλακτος. Αυτό έγινε μετά από ενημέρωση της εταιρείας Nestlé. Οι παρτίδες αυτές είχαν αρχικά εγκριθεί, αλλά τώρα υπάρχει νέα μέθοδος για τον έλεγχο μίας τοξίνης. Οι παρτίδες που ανακαλούνται είναι το NAN OPTIPRO και το S-26 GOLD. Όποιος έχει αγοράσει αυτά τα προϊόντα, πρέπει να μην τα χρησιμοποιήσει και να τα επιστρέψει στο κατάστημα. Είναι σημαντικό να ακολουθούν όλοι τις οδηγίες της εταιρείας για να αλλάξουν το προϊόν τους.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/06/greece/o-eof-anakalei-partides-vrefikou-galaktos/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564062482/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/05/greece/gripi-kai-covid-19-ksanaxtypoyn-stoys-16-oi-thanatoi-tin-teleytaia-evdomada/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε θανάτους από Covid-19 και γρίπη, σε σοβαρές ιατρικές καταστάσεις και επιδημιολογικές πληροφορίες που αφορούν τη δημόσια υγεία.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g9c005e79e6781b9f1d2634011bfa3cd07a4af37fba8474af1603d1cd162dfa1dce80a85012bf84444ae545e0455c18be65f9958c72a391e7fc325e9fd29c19db_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-05T15:46:45.000Z"
-    },
-    {
-      "id": "5aee4de0e9f6",
-      "title": "Ζελένσκι: Έτοιμη η Ουκρανία να ανταλλάξει drones με πολωνικά μαχητικά",
-      "simpleTitle": "Ουκρανία και Πολωνία συνεργάζονται για στρατιωτικά θέματα",
-      "simpleText": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι ανακοίνωσε ότι η Ουκρανία είναι έτοιμη να ανταλλάξει τα δικά της drones με πολωνικά μαχητικά αεροσκάφη. Αυτό έγινε κατά τη διάρκεια συνέντευξης Τύπου με τον Πολωνό πρωθυπουργό Ντόναλντ Τουσκ στο Κίεβο. Η συνεργασία τους περιλαμβάνει επίσης την ενίσχυση της διασύνδεσης του δικτύου ηλεκτρικής ενέργειας, καθώς το ουκρανικό σύστημα έχει υποστεί ζημιές από ρωσικές επιθέσεις.\n\nΗ Πολωνία προγραμματίζει νέο πακέτο βοήθειας ύψους 200 εκατομμυρίων ζλότι για την Ουκρανία, το οποίο θα περιέχει κυρίως θωρακισμένα οχήματα. Ο Ζελένσκι τόνισε ότι μπορεί να χρειαστεί περισσότερος αντιαεροπορικός εξοπλισμός, που θα συζητηθεί ξανά τη Δευτέρα.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/zelenski-etoimi-i-oukrania-na-antallaksei-drones-me-polonika-maxitika/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/zelenski-etoimi-i-oukrania-na-antallaksei-drones-me-polonika-maxitika/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/05/world/zelenski-i-oykrania-einai-etoimi-antallaksei-drones-me-polonika-maxitika/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές και στρατιωτικές εξελίξεις μεταξύ Ουκρανίας και Πολωνίας, που σχετίζονται με την αμυντική συνεργασία και την ενίσχυση της αεράμυνας στην περιοχή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-05T15:41:24.000Z"
-    },
-    {
-      "id": "fbe03e78b9dc",
-      "title": "Αιτωλοακαρνανία: Νεκρό βρέφος 6 μηνών στο Θέρμο",
-      "simpleTitle": "Θερμό: Νεκρό μωρό 6 μηνών",
-      "simpleText": "Μια οικογένεια στο Θέρμο Αιτωλοακαρνανίας βιώνει μία μεγάλη τραγωδία. Το μωρό τους, που ήταν μόλις 6 μηνών, βρέθηκε το πρωί στην κούνια του χωρίς αισθήσεις. Οι γονείς του το μετέφεραν στο κέντρο υγείας, αλλά οι γιατροί είπαν ότι ήταν ήδη νεκρό. Το μωρό είχε φάει γάλα λίγες ώρες νωρίτερα. Τώρα, το σωματάκι του έχει πάει στο νοσοκομείο της Πάτρας για εξετάσεις. Οι ειδικοί θα προσπαθήσουν να καταλάβουν γιατί έφυγε τόσο νωρίς από τη ζωή. Είναι μια πολύ δύσκολη στιγμή για την οικογένεια.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/aitoloakarnania-nekro-vrefos-6-minon-sto-thermo/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/aitoloakarnania-nekro-vrefos-6-minon-sto-thermo/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564062230/tragodia-stin-aitoloakarnania-nekro-vrefos-6-minon/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο ενός βρέφους μόλις 6 μηνών, γεγονός που συνιστά μια σοβαρή και θλιβερή τραγωδία για την οικογένεια και επηρεάζει σημαντικά τα ανθρώπινα δικαιώματα και την υγεία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-05T15:35:22.000Z"
-    },
-    {
-      "id": "3f31a53aa374",
-      "title": "Ο μηχανισμός των Αντικυθήρων στους Χειμερινούς Oλυμπιακούς Αγώνες στο Μιλάνο",
-      "simpleTitle": "Ο Μηχανισμός των Αντικυθήρων στο Μιλάνο",
-      "simpleText": "Ο μηχανισμός των Αντικυθήρων είναι ο αρχαιότερος υπολογιστής του κόσμου. Χρονολογείται από τον 2ο αιώνα π.Χ. και έχει μεγάλη σημασία, γιατί δείχνει την τεχνολογία που υπήρχε τότε. Αυτή τη στιγμή, υπάρχει μια μεγάλη έκθεση για αυτόν στο Πλανητάριο του Μιλάνου, που άνοιξε πρόσφατα για τους Χειμερινούς Ολυμπιακούς Αγώνες. Οι επισκέπτες που θα βρεθούν εκεί θα μπορούν να δουν πώς λειτουργούσε ο μηχανισμός και τα γρανάζια του, που χρησιμοποιούνταν για αστρονομικούς υπολογισμούς. Αυτή η έκθεση βοηθά στη σύνδεση των πολιτισμών Ελλάδας και Ιταλίας, δείχνοντας την καινοτομία των αρχαίων Ελλήνων.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/ert3/o-mixanismos-ton-antikythiron-stous-xeimerinous-olympiakous-agones-sto-milano/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/o-mixanismos-ton-antikythiron-stous-xeimerinous-olympiakous-agones-sto-milano/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/culture/564062446/stoys-cheimerinoys-olympiakoys-agones-sto-milano-o-michanismos-ton-antikythiron/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η έκθεση για τον μηχανισμό των Αντικυθήρων στο Πλανητάριο του Μιλάνου σχετίζεται άμεσα με πολιτιστικές εκδηλώσεις και την προβολή της αρχαίας ελληνικής τεχνολογίας, σε συνδυασμό με τους Χειμερινούς Ολυμπιακούς Αγώνες.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/02/05-12-22-milano-larda.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2026/02/05-12-22-milano-larda_2.jpg",
-      "publishedAt": "2026-02-05T15:30:49.000Z"
-    },
-    {
-      "id": "37c7bbe348ac",
-      "title": "Στο Σίδνεϋ το 12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ»",
-      "simpleTitle": "Πανεπιστημιακή συνάντηση για την ελληνική γλώσσα στο Σίδνεϊ",
-      "simpleText": "Στο Σίδνεϊ, από 6 έως 11 Σεπτεμβρίου, θα γίνει το 12ο Διεθνές Θερινό Πανεπιστήμιο με τίτλο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ». Αυτή η εκδήλωση είναι σημαντική γιατί θα μιλήσει για τη διδασκαλία της ελληνικής γλώσσας και τον πολιτισμό στην Αυστραλία. Διαφορετικοί δάσκαλοι και ερευνητές από πολλές χώρες θα συμμετέχουν. Οι εργασίες θα γίνουν στο πανεπιστήμιο UNSW και στο αμφιθέατρο Rex Vowels. Είναι πολύ καλό ότι θα χρησιμοποιηθούν νέες τεχνολογίες και θα συμμετέχουν πολλές οργανώσεις. Αυτό βοηθάει στη διατήρηση της ελληνικής γλώσσας και του πολιτισμού στο εξωτερικό.",
-      "sourceName": "ERT News, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/omogeneia/sto-sidney-to-12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/omogeneia/sto-sidney-to-12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/05/culture/i-elliniki-glossa-stin-aystralia-to-12o-diethnes-therino-panepistimio-sto-sidnei/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η εκδήλωση επικεντρώνεται στη γλώσσα και τον πολιτισμό, με στόχο την προώθηση της ελληνικής γλώσσας και πολιτιστικής κληρονομιάς στην Αυστραλία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-05T15:20:48.000Z"
-    },
-    {
-      "id": "e834698f973f",
-      "title": "Κυκλοφοριακές ρυθμίσεις στη Βασιλίσσης Σοφίας στις 7 και 8 Φεβρουαρίου",
-      "simpleTitle": "Ρυθμίσεις κυκλοφορίας στη Βασιλίσσης Σοφίας στις 7 και 8 Φεβρουαρίου",
-      "simpleText": "Στις 7 και 8 Φεβρουαρίου θα γίνουν εργασίες στη λεωφόρο Βασιλίσσης Σοφίας. Η κυκλοφορία των οχημάτων θα σταματήσει σε κάποιες λωρίδες. Το Σάββατο, η δεξιά λωρίδα θα είναι κλειστή από το πρωί μέχρι το απόγευμα. Την Κυριακή, οι διακοπές της κυκλοφορίας θα συνεχιστούν και στην ίδια λωρίδα για λιγότερο χρόνο. Οι οδηγοί πρέπει να είναι προσεκτικοί όταν περνούν από αυτές τις περιοχές. Είναι σημαντικό να ακολουθούν τις πινακίδες που δείχνουν τον σωστό δρόμο. Δεν ξέρουμε ακόμα αν θα αλλάξουν οι ώρες των εργασιών.",
-      "sourceName": "Kathimerini, TA NEA, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564062368/kykloforiakes-rythmiseis-sti-vasilissis-sofias-stis-7-kai-8-fevroyarioy/",
-      "sourceDomains": [
-        "kathimerini.gr",
         "tanea.gr",
-        "tovima.gr"
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564062368/kykloforiakes-rythmiseis-sti-vasilissis-sofias-stis-7-kai-8-fevroyarioy/"
-        },
-        {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/05/greece/vasilissis-sofias-kykloforiakes-rythmiseis-7-kai-8-fevroyarioy-logo-ektelesis-ergasion/"
+          "url": "https://www.tanea.gr/2026/02/06/greece/o-eof-anakalei-partides-vrefikou-galaktos/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/05/society/vasilissis-sofias-kykloforiakes-rythmiseis-to-savvatokyriako/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4068410/o-eof-anakali-partides-vrefikou-galaktos-tis-nestle.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά κυκλοφοριακές ρυθμίσεις λόγω εργασιών, που είναι σοβαρή ενημέρωση σχετική με τη δημόσια ασφάλεια και μεταφορές.",
+      "categoryReason": "Η είδηση αφορά την ανάκληση βρεφικού γάλακτος από τον ΕΟΦ λόγω ενδεχόμενης παρουσίας τοξίνης, η οποία έχει σοβαρές επιπτώσεις για την υγεία των βρεφών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-05T15:14:14.000Z"
+      "publishedAt": "2026-02-06T07:32:22.000Z"
     },
     {
-      "id": "e5dd81c36e6d",
-      "title": "Χανιά: Μια γυναίκα νεκρή και τρείς τραυματίες σε τροχαίο στον ΒΟΑΚ",
-      "simpleTitle": "Τροχαίο στα Χανιά: Μια γυναίκα νεκρή, τρεις τραυματίες",
-      "simpleText": "Σήμερα, ένα σοβαρό τροχαίο συνέβη στον Βόρειο Οδικό Άξονα Κρήτης, κοντά στον κόμβο Γαλατά στα Χανιά. Μια γυναίκα έχασε τη ζωή της και τρία άτομα τραυματίστηκαν. Τρία αυτοκίνητα ενεπλάκησαν στη σύγκρουση, και η γυναίκα βρέθηκε σε σοβαρή κατάσταση. Ασθενοφόρα και η Πυροσβεστική έσπευσαν στο σημείο για να βοηθήσουν. Οι τραυματίες μεταφέρθηκαν στο Νοσοκομείο Χανίων, με τον ένα να χρειάζεται χειρουργείο. Οι Αρχές ερευνούν τα αίτια του ατυχήματος, που είναι πολύ σημαντικά για την ασφάλεια όλων μας. Ήδη υπάρχουν προβλήματα στην κυκλοφορία λόγω αυτού του γεγονότος.",
-      "sourceName": "ERT News, TA NEA, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/xania-mia-gynaika-nekri-kai-treis-traymaties-se-troxaio-ston-voak/",
+      "id": "828a589c3f4e",
+      "title": "Ειρηνικός: 2 νεκροί από πλήγμα των ΗΠΑ σε σκάφος με ναρκωτικά",
+      "simpleTitle": "Δύο άνθρωποι σκοτώθηκαν σε βομβαρδισμό των ΗΠΑ στον Ειρηνικό",
+      "simpleText": "Στον Ειρηνικό ωκεανό, οι Ηνωμένες Πολιτείες βομβάρδισαν ένα ταχύπλοο που φέρεται να σχετίζεται με διακινητές ναρκωτικών. Δύο άνθρωποι έχασαν τη ζωή τους από αυτήν την επίθεση. Αυτή η ενέργεια συμβαίνει σε μία σειρά από πλήγματα που έχουν γίνει από τον Σεπτέμβριο, όπου έχουν σκοτωθεί συνολικά 128 άτομα. Οι ΗΠΑ δεν έχουν δείξει αποδεικτικά στοιχεία για το τι μετέφεραν τα σκάφη. Είναι σημαντικό να γνωρίζουμε τι συμβαίνει στη θάλασσα, καθώς τέτοιες ενέργειες μπορούν να αλλάξουν την ασφάλεια στην περιοχή.",
+      "sourceName": "TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2026/02/06/world/eirinikos-2-nekroi-apo-pligma-ton-ipa-se-skafos-me-narkotika/",
       "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/xania-mia-gynaika-nekri-kai-treis-traymaties-se-troxaio-ston-voak/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/05/greece/sokaristiko-troxaio-me-mia-nekri-kai-treis-traymaties-ston-voak-sta-xania/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/05/society/neo-troxaio-ston-voak-anasyrthike-nekri-mia-gynaika/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο με θανάτους και τραυματισμούς, εστιάζοντας σε σημαντικά ζητήματα ασφάλειας και δημόσιας υγείας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g0d9566fe039fee95ba94d26be1dc481039986f8f3928ccdca5e394df77fb9178f584def8024115beba989e5c5a830f107f9fee677a5d65e1a76e70c268521632_1280.jpg",
-      "videoUrl": "https://www.youtube.com/embed/lom4iJPyNeI",
-      "publishedAt": "2026-02-05T15:05:00.000Z"
-    },
-    {
-      "id": "91b3467baf5a",
-      "title": "Μητσοτάκης κατά την παρουσίαση του προγράμματος «Hellenic Heritage: Ο Πολιτισμός μπορεί να αναδειχθεί κεντρικός αναπτυξιακός πυλώνας",
-      "simpleTitle": "Πολιτισμός και Ανάπτυξη με το Πρόγραμμα Hellenic Heritage",
-      "simpleText": "Ο Πρωθυπουργός παρουσίασε ένα νέο πρόγραμμα που ονομάζεται «Hellenic Heritage». Αυτό το πρόγραμμα στόχο έχει να κάνει τον πολιτισμό σημαντικό μέρος της ανάπτυξης στη χώρα μας. Θα προσφέρει νέες ψηφιακές υπηρεσίες για να βοηθήσει τους επισκέπτες σε περισσότερες από 350 αρχαιολογικές τοποθεσίες, μουσεία και μνημεία. Ο Πρωθυπουργός περιέγραψε αυτό το έργο ως «εμβληματικό», που σημαίνει ότι είναι πολύ σημαντικό. Με την τεχνολογία, θα μπορέσουμε να αναδείξουμε καλύτερα τον ελληνικό πολιτισμό και να κάνουμε τους επισκέπτες να απολαμβάνουν τις εμπειρίες τους. Δεν ξέρουμε ακόμα πότε θα ξεκινήσει το πρόγραμμα.",
-      "sourceName": "News.gr, Protagon",
-      "sourceUrl": "https://www.news.gr/politikh/article/4068109/mitsotakis-kata-tin-parousiasi-tou-programmatos-hellenic-heritage-o-politismos-bori-na-anadichthi-kentrikos-anaptixiakos-pilonas.html",
-      "sourceDomains": [
-        "news.gr",
+        "tovima.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4068109/mitsotakis-kata-tin-parousiasi-tou-programmatos-hellenic-heritage-o-politismos-bori-na-anadichthi-kentrikos-anaptixiakos-pilonas.html"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/06/world/eirinikos-2-nekroi-apo-pligma-ton-ipa-se-skafos-me-narkotika/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/o-prwthypourgos-stin-parousiasi-tou-hellenic-heritage-anaptyksiakos-pylwnas-o-politismos-44343307141"
+          "url": "https://www.protagon.gr/epikairotita/eirinikos-oi-amerikanoi-vomvardisan-ki-allo-skafos-me-narkwtika-dyo-nekroi-44343307461"
         }
       ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αφορά την παρουσίαση ενός προγράμματος που στοχεύει στην ανάδειξη του ελληνικού πολιτισμού μέσω της τεχνολογίας και των ψηφιακών υπηρεσιών, καθιστώντας τον πολιτισμό κεντρικό αναπτυξιακό πυλώνα.",
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές συνθήκες που σχετίζονται με ένοπλες ενέργειες και ανθρωπιστικά ζητήματα, περιλαμβάνοντας θανάτους από βομβαρδισμούς και ταυτόχρονα θέματα ασφάλειας και διακίνησης ναρκωτικών.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g6281faabcd04d007d73f2784e51257e144fdcb3090ea2cf2c8b3edb5cdeb7afacf9d32bc0113ae95ed3b18fa42dda30f4a75c72fed753328cb3447490634104e_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-05T14:59:58.000Z"
+      "publishedAt": "2026-02-06T07:27:34.000Z"
     },
     {
-      "id": "2a6c36418b2b",
-      "title": "Θεσσαλονίκη: Έκρηξη σε διαμέρισμα στην Καλαμαριά – Επί τόπου Πυροσβεστική και ΕΚΑΒ",
-      "simpleTitle": "Έκρηξη σε διαμέρισμα στην Καλαμαριά στη Θεσσαλονίκη",
-      "simpleText": "Σήμερα το απόγευμα, γύρω στις 3:30, έγινε έκρηξη σε διαμέρισμα στην Καλαμαριά της Θεσσαλονίκης. Η έκρηξη συνέβη στην κουζίνα ενός τρίτου ορόφου. Αμέσως, η Πυροσβεστική Υπηρεσία έστειλε 15 πυροσβέστες και 5 οχήματα στον τόπο της έκρηξης. Ευτυχώς, δεν υπάρχουν τραυματίες, αλλά υπήρξε ένα άτομο που χρειάστηκε βοήθεια για αναπνευστικά προβλήματα.\n\nΗ φωτιά που ακολούθησε τέθηκε υπό έλεγχο σύντομα. Υπήρξαν υλικές ζημιές, όπως σπασμένα γυαλιά, αλλά κανείς δεν χτύπησε. Η Πυροσβεστική ερευνά τι προκάλεσε την έκρηξη. Είναι σημαντικό να είμαστε προσεκτικοί και να αναφέρουμε άμεσα τυχόν έκτακτες καταστάσεις.",
+      "id": "0cc2b7640f86",
+      "title": "ΕΕ: Πρόγραμμα συνεργασίας δισεκατομμυρίων ευρώ με τη Βολιβία",
+      "simpleTitle": "Νέο πρόγραμμα συνεργασίας ΕΕ με τη Βολιβία",
+      "simpleText": "Η Ευρωπαϊκή Ένωση ανακοίνωσε ένα μεγάλο πρόγραμμα συνεργασίας με τη Βολιβία. Αυτό έγινε την Πέμπτη στη Λα Πας. Ο διευθυντής της ΕΕ, Πελάγιο Κάστρο, υπογράμμισε ότι αυτό σηματοδοτεί μια «νέα φάση» στη συνεργασία τους. Το πρόγραμμα περιλαμβάνει οικονομική βοήθεια δισεκατομμυρίων ευρώ, που θα βοηθήσει στην προστασία του περιβάλλοντος και στην καταπολέμηση των ναρκωτικών. Κάποια χρήματα θα δαπανηθούν και για τη χρήση ηλιακής ενέργειας. Αυτές οι ενέργειες είναι σημαντικές για τον βολιβιανό λαό και τη συνεργασία με την ΕΕ. Δεν ξέρουμε ακόμα πότε θα ξεκινήσουν τα συγκεκριμένα έργα.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ee-programma-synergasias-disekatommyrion-eyro-me-ti-volivia/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ee-programma-synergasias-disekatommyrion-eyro-me-ti-volivia/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/06/economy/ee-kai-volivia-egkainiazoyn-nea-fasi-synergasias-me-programma-disekatommyrion-eyro/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4068375/i-ee-anakinoni-programma-sinergasias-me-ti-volivia-disekatommirion-evro.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σημαντικό οικονομικό και πολιτικό πρόγραμμα συνεργασίας μεταξύ της Ευρωπαϊκής Ένωσης και της Βολιβίας, που έχει επιπτώσεις στην περιβαλλοντική και οικονομική πολιτική, και σχετίζεται με σοβαρά κοινωνικά και πολιτικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T07:23:51.000Z"
+    },
+    {
+      "id": "0f7e9dd1ddec",
+      "title": "Την ανάκληση παρτίδων βρεφικού γάλακτος της Nestle αποφάσισε ο ΕΟΦ – «Να μη το χρησιμοποιουν», καλεί τους γονείς",
+      "simpleTitle": "Ανάκληση βρεφικού γάλακτος της Nestlé από τον ΕΟΦ",
+      "simpleText": "Ο Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ) ανακοίνωσε ότι ανακαλεί κάποιες παρτίδες βρεφικού γάλακτος από την εταιρεία Nestlé. Αυτό συνέβη λόγω μιας τοξικής ουσίας που μπορεί να προκαλεί εμετούς και διάρροια. Οι παρτίδες που ανακαλούνται είναι οι NAN OPTIPRO 1 και S-26 GOLD. Οι γονείς καλούνται να μην χρησιμοποιούν αυτά τα προϊόντα και να επιστρέψουν ό,τι έχουν αγοράσει στο κατάστημα. Αυτή η απόφαση είναι προληπτική για την προστασία των βρεφών. Είναι σημαντικό να ακολουθούν τις οδηγίες της εταιρείας για την αντικατάσταση των προϊόντων.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/tin-anaklisi-partidon-vrefikou-galaktos-tis-nestle-apofasise-o-eof-na-mi-to-xrisimopoioun-kalei-tous-goneis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/tin-anaklisi-partidon-vrefikou-galaktos-tis-nestle-apofasise-o-eof-na-mi-to-xrisimopoioun-kalei-tous-goneis/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564063841/eof-anaklisi-partidon-vrefikoy-galaktos/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την ανάκληση παρτίδων βρεφικού γάλακτος λόγω της παρουσίασης τοξικής ουσίας που μπορεί να προκαλεί σοβαρές επιπτώσεις στην υγεία των βρεφών, γεγονός που σχετίζεται με ζητήματα υγείας και ασφάλειας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T07:19:23.000Z"
+    },
+    {
+      "id": "a53a410c810c",
+      "title": "Κλειστό παραμένει το αεροδρόμιο Βερολίνου λόγω μαύρου πάγου – Άγνωστο πότε θα επαναληφθούν οι πτήσεις",
+      "simpleTitle": "Κλειστό το αεροδρόμιο Βερολίνου λόγω κακού καιρού",
+      "simpleText": "Το αεροδρόμιο Βερολίνου παραμένει κλειστό από το πρωί της Παρασκευής. Αυτό συμβαίνει γιατί έχει μαύρο πάγο, που είναι πολύ επικίνδυνος για τις πτήσεις. Οι καιρικές συνθήκες είναι κακές, με παγωμένη βροχή που έχει κάνει τις επιφάνειες πολύ ολισθηρές. Οι εργαζόμενοι το προσπαθούν να καθαρίσουν την πίστα, αλλά είναι δύσκολο να πετύχουν.\n\nΔεν ξέρουμε πότε θα ξαναξεκινήσουν οι πτήσεις. Οι επιβάτες πρέπει να επικοινωνούν με τις αεροπορικές εταιρείες τους για πληροφορίες σχετικά με τις πτήσεις τους. Είναι πολύ σημαντικό να μείνουμε ασφαλείς και να μην πάμε στο αεροδρόμιο αν δεν είναι απαραίτητο.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/kleisto-paramenei-to-aerodromio-verolinou-logo-mayrou-pagou-agnosto-pote-tha-epanalifthoun-oi-ptiseis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/kleisto-paramenei-to-aerodromio-verolinou-logo-mayrou-pagou-agnosto-pote-tha-epanalifthoun-oi-ptiseis/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564063799/kleisto-to-aerodromio-toy-verolinoy-tin-paraskeyi-logo-mayroy-pagoy/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/06/world/kleisto-to-aerodromio-toy-verolinoy-logo-mayroy-pagoy-kai-pagomenis-vroxis/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές καιρικές συνθήκες που έχουν επηρεάσει τη λειτουργία του αεροδρομίου, με ενδεχόμενες συνέπειες για την ασφάλεια και τις πτήσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T07:03:09.000Z"
+    },
+    {
+      "id": "b9d481601c11",
+      "title": "Κλειστές δύο λωρίδες στην Αθηνών – Λαμίας λόγω ανατροπής φορτηγού – Ουρές χιλιομέτρων για τους οδηγούς",
+      "simpleTitle": "Κλειστές λωρίδες στην Αθηνών – Λαμίας γιατί ανατράπηκε φορτηγό",
+      "simpleText": "Σήμερα το πρωί, στην Εθνική Οδό Αθηνών – Λαμίας, ένα φορτηγό ανατράπηκε κοντά στον Αυλώνα. Αυτό συνέβη γύρω στις 7:30. Ευτυχώς, δεν υπήρξαν τραυματισμοί. Οι δύο λωρίδες του δρόμου είναι κλειστές και η κυκλοφορία γίνεται μόνο από μία λωρίδα. Αυτό προκάλεσε μεγάλες ουρές και καθυστερήσεις για τους οδηγούς.\n\nΗ Τροχαία είναι στο σημείο για να βοηθήσει. Είναι σημαντικό οι οδηγοί να είναι προσεκτικοί και να περιμένουν υπομονετικά. Δεν ξέρουμε ακόμα πώς συνέβη το ατύχημα. Η κατάσταση αναμένεται να βελτιωθεί όταν αποκατασταθεί η κυκλοφορία.",
       "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ekriksi-se-diamerisma-stin-kalamaria-epi-topou-pyrosvestiki-kai-ekav/",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kleistes-dyo-lorides-stin-athinon-lamias-logo-anatropis-fortigou-oures-xiliometron-gia-tous-odigous/",
       "sourceDomains": [
         "ertnews.gr",
         "tanea.gr"
@@ -254,25 +165,76 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki-ekriksi-se-diamerisma-stin-kalamaria-epi-topou-pyrosvestiki-kai-ekav/"
+          "url": "https://www.ertnews.gr/roi-idiseon/kleistes-dyo-lorides-stin-athinon-lamias-logo-anatropis-fortigou-oures-xiliometron-gia-tous-odigous/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/05/greece/ekriksi-se-diamerisma-stin-kalamaria/"
+          "url": "https://www.tanea.gr/2026/02/06/greece/synagermos-stin-athinon-lamias-logo-anatropis-fortigou-kleistes-dyo-lorides-oures-xiliometron/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια έκρηξη σε διαμέρισμα που προκάλεσε ανησυχία και κινητοποίηση της Πυροσβεστικής Υπηρεσίας, γεγονός που σχετίζεται με σοβαρά ζητήματα ασφάλειας και υγείας.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό τροχαίο ατύχημα που προκαλεί κυκλοφοριακά προβλήματα και καθυστερήσεις, άρα ανήκει στις σοβαρές ειδήσεις.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g0ccc4f7bf1e978b8673752639ca2048d50142b3a0ebf3423c742cb7f39deea386ca0807a44888f85810c17beb28bfea516cd58739ffbc634efad5b450316aff9_1280.jpg",
-      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599z1sklicf1dq&amp;playlistId=v-dg73jsrf4zvd",
-      "publishedAt": "2026-02-05T14:26:00.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260206-SYNDESEIS-STAMOY.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260206-SYNDESEIS-STAMOY.jpg",
+      "publishedAt": "2026-02-06T06:18:09.000Z"
+    },
+    {
+      "id": "6690347f3e33",
+      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 6 Φεβρουάριου",
+      "simpleTitle": "Ποιοι γιορτάζουν σήμερα 6 Φεβρουαρίου",
+      "simpleText": "Σήμερα, 6 Φεβρουαρίου, γιορτάζουμε τον Άγιο Φώτιο τον Μέγα. Τα ονόματα που γιορτάζουν είναι: Φώτιος, Φώτης, Φωτεινός, Φωτεινή, Φαίη και άλλες παραλλαγές αυτών. Ο Άγιος Φώτιος υπήρξε Πατριάρχης Κωνσταντινουπόλεως και θεωρείται σημαντική μορφή της ιστορίας του Βυζαντίου. Είναι γνωστός για τη μόρφωσή του και την προσφορά του στην Εκκλησία. Σήμερα, είναι επίσης Παγκόσμια Ημέρα κατά της Κλειτοριδεκτομής, που σημαίνει ότι ενημερώνουμε τον κόσμο για ένα σοβαρό πρόβλημα. Αν γιορτάζετε, να περάσετε καλά και να προσέχετε την υγεία σας.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-6-fevrouariou-2/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-6-fevrouariou-2/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/06/greece/eortologio-poioi-giortazoun-simera-6-fevrouariou/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την γιορτή του Αγίου Φωτίου, μια σημαντική προσωπικότητα της Βυζαντινής ιστορίας, καθώς και τη μνήμη του που σχετίζεται με σοβαρά θέματα όπως η πολιτική και θρησκευτική ιστορία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T05:13:39.000Z"
+    },
+    {
+      "id": "d87e8454bef7",
+      "title": "Τα ηλεκτρικά οχήματα ξεπερνούν για πρώτη φορά τα βενζινοκίνητα στις πωλήσεις στην Ευρώπη",
+      "simpleTitle": "Σημαντική αύξηση πωλήσεων ηλεκτρικών αυτοκινήτων στην Ευρώπη",
+      "simpleText": "Τον Δεκέμβριο, η Ευρώπη είδε μια μεγάλη αλλαγή στις πωλήσεις αυτοκινήτων. Για πρώτη φορά, τα ηλεκτρικά αυτοκίνητα πωλήθηκαν περισσότερα από τα βενζινοκίνητα. Αυτό δείχνει ότι οι άνθρωποι προτιμούν πλέον τα ηλεκτρικά οχήματα. Αυτή η αλλαγή σηματοδοτεί ότι οι καταναλωτές θέλουν πιο φιλικά προς το περιβάλλον αυτοκίνητα. Υπάρχουν ακόμη συζητήσεις για τα βενζινοκίνητα αυτοκίνητα, αλλά φαίνεται ότι οι Ευρωπαίοι προτιμούν ένα πιο «πράσινο» μέλλον. Δεν ξέρουμε ακόμη πώς θα εξελιχθούν οι πωλήσεις στο μέλλον.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31628-ilektrika-oximata-poliseis-eyropi/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31628-ilektrika-oximata-poliseis-eyropi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σημαντική εξέλιξη στην αυτοκινητοβιομηχανία και τις περιβαλλοντικές τάσεις στην Ευρώπη, επισημαίνοντας τις προτιμήσεις των καταναλωτών και τις συνέπειες για το μέλλον της κινητικότητας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T17:22:00.000Z"
     },
     {
       "id": "dc09633d0e1e",
       "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-      "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς",
-      "simpleText": "Όταν ξυπνάμε νωρίς, η διάθεσή μας μπορεί να είναι καλύτερη. Οι πρώτες ώρες της ημέρας μας βοηθούν να νιώσουμε πιο ήρεμοι και ευτυχισμένοι. Ο επιστημονικός κόσμος λέει ότι ο καλός ύπνος είναι σημαντικός για την ενέργεια και τη συγκέντρωσή μας. Όταν κοιμόμαστε καλά, μπορούμε να κάνουμε τις δουλειές μας πιο εύκολα και ευχάριστα. Η καλή ποιότητα ύπνου μας βοηθά να είμαστε πιο αποτελεσματικοί και να έχουμε καλύτερη διάθεση. Αυτό είναι καλό για όλους μας.",
+      "simpleTitle": "Γιατί είναι καλό να ξυπνάμε νωρίς;",
+      "simpleText": "Ξυπνώντας νωρίς, νιώθουμε καλύτερα και πιο θετικά. Οι πρώτες ώρες της ημέρας έχουν κάτι ξεχωριστό που βοηθά την ψυχική μας διάθεση. Αν έχουμε καλό ύπνο, νιώθουμε περισσότερη ενέργεια και μπορούμε να συγκεντρωνόμαστε καλύτερα. Αυτό σημαίνει ότι η καλή ποιότητα ύπνου είναι σημαντική για την καθημερινή μας ζωή. Όλοι μας πρέπει να προσπαθήσουμε να κοιμόμαστε καλά και να ξυπνάμε νωρίς για να έχουμε καλή διάθεση. Δεν έχουμε πληροφορίες για το πώς μπορούμε να το πετύχουμε αυτό, αλλά είναι καλό να ξέρουμε τα οφέλη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
       "sourceDomains": [
@@ -285,45 +247,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στα θετικά συναισθήματα που βιώνουμε όταν ξυπνάμε νωρίς και πώς ο καλός ύπνος επηρεάζει τη διάθεση και την ενέργεια μας, προάγοντας έτσι μια χαρούμενη και αισιόδοξη προοπτική.",
+      "categoryReason": "Η είδηση επικεντρώνεται στα θετικά συναισθήματα και τα οφέλη που σχετίζονται με το πρωινό ξύπνημα και τον ποιοτικό ύπνο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-05T13:02:00.000Z"
     },
     {
-      "id": "32fd0bad20a1",
-      "title": "Συνελήφθη στέλεχος των Ενόπλων Δυνάμεων για κατασκοπεία, η ανακοίνωση ΓΕΕΘΑ",
-      "simpleTitle": "Στρατιωτικός συνελήφθη για κατασκοπεία",
-      "simpleText": "Ένας στρατιωτικός συνελήφθη γιατί μετέδιδε μυστικές πληροφορίες. Αυτό συνέβη πρόσφατα και είναι σοβαρό γεγονός. Οι πληροφορίες αυτές είναι σημαντικές για την ασφάλεια της χώρας. Ο στρατιωτικός φέρεται ότι έδωσε κρυφά στοιχεία που δεν έπρεπε να αποκαλυφθούν. Οι αρχές το ανακάλυψαν και έκαναν την σύλληψή του. Είναι σημαντικό να προστατεύουμε τη χώρα από τέτοιες ενέργειες. Δεν έχουν δοθεί περισσότερες λεπτομέρειες για την υπόθεση.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/02/05/society/synelifthi-stelexos-ton-enoplon-dynameon-gia-kataskopeia/",
-      "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/05/society/synelifthi-stelexos-ton-enoplon-dynameon-gia-kataskopeia/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4068088/sinelifthi-stelechos-ton-enoplon-dinameon-gia-kataskopia-katigorite-oti-metedide-mistikes-plirofories.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η σύλληψη στρατιωτικού για κατασκοπεία αφορά σοβαρότατα θέματα ασφάλειας και εθνικής ξηράς, γεγονός που καθιστά την είδηση σοβαρή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-05T12:25:00.000Z"
-    },
-    {
       "id": "854cba3d8baa",
       "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
-      "simpleTitle": "Τρίχρονος θαυμαστής του σνούκερ σπάει ρεκόρ",
-      "simpleText": "Ο μικρός Τζουντ Όουενς από το Μάντσεστερ της Αγγλίας, σε μόλις τρία χρόνια, έκανε κάτι πολύ εντυπωσιακό. Κατέκτησε δύο παγκόσμια ρεκόρ Guinness στο σνούκερ, κάτι που δεν έχει ξαναγίνει. Παίρνει μεγάλη προσοχή από όλο τον κόσμο, καθώς δείχνει τι μπορεί να πετύχει ένα τόσο μικρό παιδί. Ο Τζουντ παίζει με ψυχραιμία και πολύ καλή αντίληψη, που δεν έχουν ούτε οι μεγάλοι παίκτες. Είναι σημαντικό γιατί δίνει ελπίδα σε πολλά παιδιά να ακολουθήσουν τα όνειρά τους, ανεξάρτητα από την ηλικία τους.",
+      "simpleTitle": "Τρίχρονος Τζουντ σπάει ρεκόρ στο σνούκερ",
+      "simpleText": "Ο Τζουντ Όουενς είναι ένα μικρό παιδί που κατάφερε κάτι μοναδικό. Σε ηλικία τριών ετών, έσπασε δύο παγκόσμια ρεκόρ στο σνούκερ. Είναι από το Μάντσεστερ της Αγγλίας και εντυπωσίασε όλους με τις ικανότητές του. Παίζει με μεγάλη ψυχραιμία και ακριβώς όπως οι πιο έμπειροι παίκτες. Αυτό δείχνει ότι το ταλέντο μπορεί να υπάρχει από πολύ μικρή ηλικία. Ο θαυμασμός του κόσμου για εκείνον είναι τεράστιος. Δεν ξέρουμε αν θα καταφέρει να σπάσει και άλλα ρεκόρ στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
       "sourceDomains": [
@@ -336,7 +270,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία του τρίχρονου Τζουντ Όουενς που κατέκτησε δύο παγκόσμια ρεκόρ Guinness στο σνούκερ είναι μια θετική και χαρούμενη είδηση, που εμπνέει και δίνει ελπίδα σε άλλα παιδιά.",
+      "categoryReason": "Η είδηση αφορά ένα νεαρό παιδί που πέτυχε κάτι εκπληκτικό, σπάζοντας παγκόσμια ρεκόρ και προκαλώντας θαυμασμό, κάτι που δημιουργεί θετικά συναισθήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -345,8 +279,8 @@
     {
       "id": "2ef17147ea36",
       "title": "Συνεργασία με επίκεντρο τους ασθενείς και την ανθρώπινη αξιοπρέπεια",
-      "simpleTitle": "Συνεργασία για τη στήριξη των ασθενών",
-      "simpleText": "Στα Κεντρικά Γραφεία του Ελληνικού Ερυθρού Σταυρού, έγινε μια σημαντική συνάντηση. Σκοπός της ήταν να στηρίξει τους ασθενείς και τις ευάλωτες ομάδες ανθρώπων. Ο Πρόεδρος του Ε.Ε.Σ., Αντώνιος Αυγερινός, μίλησε με εκπροσώπους της Ένωσης Ασθενών Ελλάδας. Συζήτησαν πώς μπορούν να συνεργαστούν καλύτερα για να βοηθήσουν τους ανθρώπους που έχουν ανάγκη. Στη συνάντηση συμμετείχαν αρκετά μέλη της Ένωσης, συμπεριλαμβανομένων της Προεδρίας και του νομικού συμβούλου. Αυτή η συνεργασία είναι σημαντική γιατί δείχνει ότι όταν συνεργαζόμαστε, μπορούμε να κάνουμε πολλά για το καλό των ανθρώπων.",
+      "simpleTitle": "Συνάντηση για την υποστήριξη των ασθενών",
+      "simpleText": "Στα Κεντρικά Γραφεία του Ελληνικού Ερυθρού Σταυρού, έγινε μια σημαντική συνάντηση με στόχο την υποστήριξη των ασθενών και των ευάλωτων ομάδων. Ο Πρόεδρος του Ε.Ε.Σ., Αντώνιος Αυγερινός, συναντήθηκε με εκπροσώπους της Ένωσης Ασθενών Ελλάδας. Συζήτησαν για τη σημασία της συνεργασίας και πώς μπορούν να βοηθήσουν καλύτερα τους ανθρώπους που έχουν ανάγκη. Στη συνάντηση ήταν παρόντες και άλλοι εκπρόσωποι, όπως η Πρόεδρος της Ένωσης, Μέμη Τσεκούρα. Αυτές οι ενέργειες είναι σημαντικές γιατί δείχνουν πώς μπορούμε να στηρίξουμε ο ένας τον άλλο σε δύσκολες στιγμές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31344-synergasia-gia-tous-astheneis-ellinikos-erythros-stayros/",
       "sourceDomains": [
@@ -359,7 +293,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση επικεντρώνεται σε μια σημαντική συνάντηση που αφορά την υποστήριξη ασθενών και ευάλωτων ομάδων, αναδεικνύοντας σοβαρά κοινωνικά ζητήματα και την ανάγκη συνεργασίας για ανθρωπιστικούς σκοπούς.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική συνάντηση που αφορά την υποστήριξη των ασθενών και των ευάλωτων ομάδων, καλύπτοντας σοβαρά ζητήματα ανθρωπιστικής βοήθειας και συνεργασίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -368,8 +302,8 @@
     {
       "id": "a3790907705d",
       "title": "Γιατί όταν φοράμε ακουστικά στο δρόμο μας καθιστά ευάλωτους",
-      "simpleTitle": "Ακουστικά και κίνδυνοι στο δρόμο",
-      "simpleText": "Όταν φοράμε ακουστικά στο δρόμο, μπορεί να μην προσέχουμε καλά γύρω μας. Η μουσική ή τα podcasts κάνουν τη διαδρομή πιο ευχάριστη, αλλά αυτό μας απομονώνει. Έτσι, μπορεί να φαίνεται ότι δεν προσέχουμε. Αυτό δεν είναι ασφαλές, γιατί μπορεί να γίνουμε στόχος για κακούς ανθρώπους. Είναι σημαντικό να είμαστε πάντα προσεκτικοί και να έχουμε επίγνωση του τι συμβαίνει γύρω μας. Αν περπατάς, καλό είναι να αφαιρείς τα ακουστικά, ώστε να ακούς οτιδήποτε μπορεί να σημάνει κίνδυνο.",
+      "simpleTitle": "Ακρίβεια και κίνδυνοι από ακουστικά στο δρόμο",
+      "simpleText": "Όταν βγαίνουμε έξω και φοράμε ακουστικά, μπορεί να μην ακούμε καλά τι συμβαίνει γύρω μας. Η μουσική μπορεί να μας αρέσει, αλλά τα ακουστικά μας κάνουν λιγότερο προσεκτικούς. Αυτό είναι επικίνδυνο, γιατί δεν καταλαβαίνουμε αν κάποιος πλησιάζει ή αν υπάρχει κίνδυνος. Είναι σημαντικό να είμαστε πάντα σε εγρήγορση, ώστε να μην φαίνονται ως εύκολοι στόχοι για κακόβουλους ανθρώπους. Πρέπει να κινούμαστε με προσοχή και να αφαιρούμε τα ακουστικά όταν διασχίζουμε δρόμους ή περπατάμε σε πολυσύχναστες περιοχές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/",
       "sourceDomains": [
@@ -382,7 +316,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Το άρθρο αναφέρεται σε ζητήματα ασφάλειας και προσοχής στον αστικό χώρο, που είναι σοβαρά κοινωνικά θέματα.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά ζητήματα ασφάλειας και προσοχής που σχετίζονται με την ύπαρξη κινδύνων στον δρόμο, ειδικά όταν τα άτομα φορούν ακουστικά.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -391,8 +325,8 @@
     {
       "id": "cbefd434b29a",
       "title": "Η Ινδονησία απαγορεύει τις βόλτες με ελέφαντες και κάνει ένα ιστορικό βήμα για την ευζωία των ζώων",
-      "simpleTitle": "Η Ινδονησία σταματά τις βόλτες με ελέφαντες",
-      "simpleText": "Η Ινδονησία αποφάσισε να απαγορεύσει τις βόλτες με ελέφαντες. Αυτή η απόφαση σημαίνει ότι δεν θα επιτρέπεται να κάνουν βόλτες οι άνθρωποι πάνω σε αυτά τα ζώα. Η απαγόρευση ισχύει σε όλη τη χώρα και αφορά ζωολογικούς κήπους και τουριστικά μέρη. Αυτή η κίνηση είναι πολύ σημαντική για την προστασία των ζώων. Για πολλά χρόνια, οι ελέφαντες δεν αντιμετωπίζονταν καλά όταν χρησιμοποιούνταν για τουριστική ψυχαγωγία. Πολλές οργανώσεις είχαν δείξει ότι οι ελέφαντες υπέφεραν πολύ. Με αυτή την απόφαση, ελπίζουμε ότι οι ελέφαντες θα έχουν καλύτερη ζωή στο μέλλον.",
+      "simpleTitle": "Ινδονησία: Απαγόρευση βόλτας με ελέφαντες",
+      "simpleText": "Η Ινδονησία αποφάσισε να απαγορεύσει τις βόλτες με ελέφαντες. Αυτή η απόφαση είναι πολύ σημαντική για την ευημερία των ζώων. Η απαγόρευση ισχύει σε όλη τη χώρα και περιλαμβάνει ζωολογικούς κήπους και τουριστικές περιοχές. Πολλές οργανώσεις είχαν δείξει ότι οι βόλτες αυτές προκαλούσαν πόνο και άγχος στους ελέφαντες. Η εκπαίδευση τους γινόταν με σκληρό τρόπο, κάτι που είναι κακό για την υγεία τους. Έτσι, αυτή η απόφαση σηματοδοτεί μια νέα εποχή σεβασμού προς τα ζώα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31546-indonisia-elefantes-apagorefsi/",
       "sourceDomains": [
@@ -405,7 +339,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η απόφαση της Ινδονησίας αφορά την ευζωία των ζώων και την προστασία τους από εκμεταλλευτικές πρακτικές, γεγονός που συνδέεται με σημαντικά κοινωνικά και ηθικά ζητήματα.",
+      "categoryReason": "Η απόφαση της Ινδονησίας να απαγορεύσει τις βόλτες με ελέφαντες αφορά σοβαρά ζητήματα ευζωίας και προστασίας των ζώων, θέτοντας ένα σημαντικό κοινωνικό και ηθικό ζήτημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -414,8 +348,8 @@
     {
       "id": "40e72ab4e19b",
       "title": "Ηλεκτροκίνητα περιπολικά στην Τροχαία Πατρών-Πύργου",
-      "simpleTitle": "Ηλεκτρικά περιπολικά στην Τροχαία Πατρών-Πύργου",
-      "simpleText": "Στην Ολυμπία Οδό, τα ηλεκτροκίνητα περιπολικά εισάγονται στην Τροχαία Αυτοκινητοδρόμων. Αυτό συμβαίνει για να βοηθήσουμε το περιβάλλον και να κάνουμε τις μετακινήσεις πιο βιώσιμες. Η προσπάθεια αυτή γίνεται σε συνεργασία με το Υπουργείο Προστασίας του Πολίτη.\n\nΑυτή η αλλαγή είναι σημαντική γιατί βοηθά στο να έχουμε πιο καθαρές συγκοινωνίες. Επίσης, η αναβάθμιση του στόλου της αστυνομίας κάνει τις οδικές υποδομές πιο σύγχρονες. Δεν έχουμε άλλες λεπτομέρειες για το πότε θα ολοκληρωθεί πλήρως αυτή η αλλαγή.",
+      "simpleTitle": "Ηλεκτρικά αυτοκίνητα της Τροχαίας στην Πατρών-Πύργου",
+      "simpleText": "Στην Ολυμπία Οδό, ξεκινούν να χρησιμοποιούνται ηλεκτροκίνητα περιπολικά για την Τροχαία Αυτοκινητοδρόμων. Αυτό συμβαίνει στον νέο δρόμο Πατρών-Πύργου και είναι μια καλή εξέλιξη για το περιβάλλον. Η νέα αυτή πρωτοβουλία έχει σκοπό να μειώσει τη ρύπανση και να κάνει τη μετακίνηση πιο φιλική προς τη φύση. Η Τροχαία αποκτά έτσι ένα πιο σύγχρονο στόλο στην Ηλεία. Δεν έχουν δοθεί άλλες λεπτομέρειες για το πότε ολοκληρώνεται η αλλαγή αυτή ή για το πλήθος των ηλεκτρικών αυτοκινήτων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31615-ilektrokinita-peripolika-stin-troxaia-patron-pyrgou/",
       "sourceDomains": [
@@ -428,7 +362,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εισαγωγή ηλεκτροκίνητων περιπολικών για τη βελτίωση των οδικών υποδομών και τη μείωση του περιβαλλοντικού αποτυπώματος, θέματα που σχετίζονται με τη βιωσιμότητα και την πολιτική προστασίας.",
+      "categoryReason": "Η είδηση αφορά την εισαγωγή ηλεκτροκίνητων περιπολικών στην Τροχαία για τη μείωση της ρύπανσης και την αναβάθμιση των υποδομών, θέματα που σχετίζονται με το περιβάλλον και τις δημόσιες υπηρεσίες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -437,8 +371,8 @@
     {
       "id": "dff5800c7cbc",
       "title": "Ουαλία: Εξετάζει νόμο για την τιμωρία πολιτικών που έχουν πει σκόπιμα ψέματα",
-      "simpleTitle": "Ουαλία: Νόμος για την τιμωρία ψεμάτων από πολιτικούς",
-      "simpleText": "Στην Ουαλία, γίνεται συζήτηση για ένα νέο νόμο που θα τιμωρεί τους πολιτικούς αν πούνε ψέματα στις εκλογές. Ο στόχος είναι να βοηθήσει τους πολίτες να εμπιστεύονται περισσότερο τη δημοκρατία. Ωστόσο, κάποιοι βουλευτές ανησυχούν ότι αυτό μπορεί να επηρεάσει την ελευθερία του λόγου, δηλαδή το δικαίωμα να λέμε την άποψή μας. Το νομοσχέδιο πέρασε το πρώτο στάδιο στο κοινοβούλιο, αλλά χρειάζεται αλλαγές για να είναι δίκαιο και ασφαλές. Δεν ξέρουμε ακόμα πότε θα ολοκληρωθεί αυτή η διαδικασία.",
+      "simpleTitle": "Νόμος στην Ουαλία για ψέματα πολιτικών",
+      "simpleText": "Στην Ουαλία, συζητείται ένας νέος νόμος που θέλει να σταματήσει τους πολιτικούς από το να λένε ψέματα κατά τις εκλογές. Ο στόχος είναι να γίνει η δημοκρατία πιο αξιόπιστη και να εμπνευστεί εμπιστοσύνη στους πολίτες. Ωστόσο, πολλοί βουλευτές φοβούνται ότι αυτό μπορεί να περιορίσει την ελευθερία του λόγου, δηλαδή το δικαίωμα να εκφράζουμε τις απόψεις μας. Ο νόμος έχει περάσει το πρώτο στάδιο στο κοινοβούλιο, αλλά χρειάζονται αλλαγές για να είναι ασφαλές και δίκαιο. Δεν ξέρουμε ακόμα πότε θα γίνει η τελική απόφαση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31542-nomos-gia-ta-psemata-politikon-stin-oualia/",
       "sourceDomains": [
@@ -451,7 +385,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά νόμο που εξετάζεται στην Ουαλία για την τιμωρία πολιτικών που λένε ψέματα, άμεσο ζήτημα δημοκρατίας και πολιτικών δικαιωμάτων.",
+      "categoryReason": "Η είδηση αφορά ένα προτεινόμενο νομοσχέδιο στην Ουαλία που σχετίζεται με την πολιτική και τις συνέπειες που έχει η παραπληροφόρηση κατά τις εκλογές, το οποίο έχει σοβαρές επιπτώσεις για τη δημοκρατία και την ελευθερία του λόγου.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -460,8 +394,8 @@
     {
       "id": "7e6a4deec222",
       "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-      "simpleTitle": "Η καλύτερη τοιχογραφία του κόσμου είναι στην Καλαμάτα",
-      "simpleText": "Μια εκπληκτική τοιχογραφία που δείχνει τη Μαρία Κάλλας είναι τώρα η καλύτερη στον κόσμο για το 2025. Βρίσκεται σε έναν κεντρικό δρόμο της Καλαμάτας και δείχνει πώς η σύγχρονη τέχνη μπορεί να ενθουσιάσει τους ανθρώπους παντού. Το έργο είναι από τον καλλιτέχνη KLE και ξεχώρισε ανάμεσα σε πολλές δημιουργίες. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας που το φιλοξενεί. Είναι μια ευκαιρία να δείξουμε την ομορφιά της τέχνης μας σε όλο τον κόσμο.",
+      "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η καλύτερη",
+      "simpleText": "Μια τοιχογραφία στην Καλαμάτα, που δείχνει τη Μαρία Κάλλας, είναι η πιο σημαντική στον κόσμο για το 2025. Αυτό το έργο τέχνης, που έκανε ο καλλιτέχνης KLE, έχει προκαλέσει μεγάλη εντύπωση και έχει συγκεντρώσει πολλές ψήφους από τον κόσμο. Είναι ωραίο να βλέπουμε πως η τέχνη του δρόμου από την Ελλάδα μπορεί να είναι τόσο δημοφιλής. Αυτή η διάκριση είναι καλή όχι μόνο για τον καλλιτέχνη, αλλά και για την Καλαμάτα, που υποστηρίζει την τέχνη. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για τελετές ή εκδηλώσεις που θα γίνουν.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
       "sourceDomains": [
@@ -474,7 +408,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια τοιχογραφία που αναδεικνύει τη σημασία της τέχνης και τονίζει τη συμβολή της σύγχρονης ελληνικής τέχνης στην πολιτιστική σκηνή.",
+      "categoryReason": "Η είδηση αφορά την τέχνη και τη διάκριση μιας τοιχογραφίας που επισημαίνει την πολιτιστική κληρονομιά της Μαρία Κάλλας, γι' αυτό εντάσσεται στην κατηγορία του πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -484,7 +418,7 @@
       "id": "d496dd4ae0c1",
       "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
       "simpleTitle": "Το νεφέλωμα Helix και το τέλος ενός άστρου",
-      "simpleText": "Το νεφέλωμα Helix είναι ένα εντυπωσιακό κομμάτι του ουρανού που μοιάζει με μάτι. Είναι πολύ κοντά στη Γη, μόλις 655 έτη φωτός μακριά. Αυτό το νεφέλωμα μας δείχνει τι συμβαίνει όταν άστρα όπως ο Ήλιος φτάνουν στο τέλος της ζωής τους. Καθώς αυτά τα άστρα μεγαλώνουν, αποβάλλουν τα εξωτερικά τους μέρη στο Διάστημα. Αυτό το φαινόμενο διαρκεί λίγο χρόνο, αλλά είναι πολύ όμορφο και σημαντικό για να το παρατηρήσουμε. Μας δίνει μια ευκαιρία να μάθουμε περισσότερα για τα άστρα και τη ζωή τους.",
+      "simpleText": "Το νεφέλωμα Helix είναι ένα όμορφο φαινόμενο στον ουρανό, που μοιάζει με ένα μεγάλο μάτι. Βρίσκεται 655 χρόνια φωτός μακριά από εμάς. Αυτό το νεφέλωμα είναι πολύ σημαντικό, γιατί μας δείχνει πώς πεθαίνουν τα άστρα. Δημιουργείται όταν άστρα όπως ο Ήλιος χάνουν τα εξωτερικά τους στρώματα στο Διάστημα. Έτσι, μπορούμε να παρατηρήσουμε κάτι που συμβαίνει μόνο για λίγο χρόνο σε κοσμική κλίμακα. Αυτό το φαινόμενο είναι γεμάτο ομορφιά και μας βοηθά να κατανοήσουμε καλύτερα το σύμπαν.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
       "sourceDomains": [
@@ -496,130 +430,158 @@
           "url": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη διαδικασία θανάτου των άστρων και την επιστημονική σημασία της παρατήρησης του νεφελώματος Helix, που σχετίζεται με κοσμικά φαινόμενα και τη ζωή των άστρων.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά ένα αστροφυσικό φαινόμενο και την καλλιτεχνική του απεικόνιση, γεγονός που την κατατάσσει στην πολιτιστική κατηγορία.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g2095a387bca433df1bddcb471419d534da1e13ae48edd8b5e77319c90dfb9cb521c516a6879e5cd5a95884c88c3cb6614ec61969831d314dd6c0cb01aa6beee5_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gd2667c33f9729f7b62439d6cc01875a85cceb0e9983ee4863c188d73bd9bd71c92c8ee560aaa8e327377205495b53e3289ff98ac62c27e5d0a2a7586e15fc9fb_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-01-31T11:36:00.000Z"
     },
     {
-      "id": "28f3d8c9b81e",
-      "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-      "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη του κόσμου το 2025",
-      "simpleText": "Η Κρακοβία, μια πόλη στην Πολωνία, κέρδισε τον τίτλο της καθαρότερης πόλης στον κόσμο για το 2025. Αυτό δείχνει πόσο καλή είναι στη φροντίδα των κατοίκων και των επισκεπτών. Η Κρακοβία είναι γνωστή για την όμορφη ιστορία και την αρχιτεκτονική της. Σε σύγκριση με άλλες μεγάλες πόλεις, όπως η Σιγκαπούρη και αυτές στην Ιαπωνία, έλαβε πάρα πολλές καλές κριτικές για την καθαριότητα της. Μάλιστα, συγκέντρωσε ποσοστό 98,5% θετικών σχολίων. Αυτό μπορεί να βοηθήσει στο τουρισμό και να κάνει την πόλη πιο ελκυστική για ταξίδια.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
+      "id": "4295b7d2eb62",
+      "title": "Εναρξη σήμερα των Χειμερινών Ολυμπιακών Αγώνων – Οι ελληνικές συμμετοχές",
+      "simpleTitle": "Αρχίζουν σήμερα οι Χειμερινοί Ολυμπιακοί Αγώνες",
+      "simpleText": "Σήμερα αρχίζουν οι Χειμερινοί Ολυμπιακοί Αγώνες στο Μιλάνο. Ο πρωθυπουργός της Ελλάδας θα πάει στο Μιλάνο για την τελετή έναρξης. Αυτοί οι αγώνες είναι σημαντικοί γιατί συγκεντρώνουν αθλητές από όλο τον κόσμο. Η Ελλάδα θα έχει συμμετοχές σε διάφορα αθλήματα. Θα παρακολουθήσουμε με μεγάλο ενδιαφέρον τις επιδόσεις των αθλητών μας. Ελπίζουμε όλοι να ευχαριστηθούν την αθλητική γιορτή.",
+      "sourceName": "Kathimerini",
+      "sourceUrl": "https://www.kathimerini.gr/athletics/564063742/enarxi-simera-ton-cheimerinon-olympiakon-agonon-oi-ellinikes-symmetoches/",
       "sourceDomains": [
-        "thehappynews.gr"
+        "kathimerini.gr"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η Κρακοβία κέρδισε τον τίτλο της καθαρότερης πόλης στον κόσμο, γεγονός που προάγει τον θετικό χαρακτήρα της και ενισχύει τη φήμη της ως τουριστικός προορισμός.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gf60216c7ba0649709bc62e235f52c5afcb57bc64d8c426681673dabe3f6a160e1f5179a4e9f09478e39da7d3e77daf2b1fd1f1065fcef647647b050e07d034f7_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-01-30T15:36:00.000Z"
-    },
-    {
-      "id": "dbbaa668555e",
-      "title": "Χειμερινοί Ολυμπιακοί Aγώνες 2026: Γιατί τα φετινά μετάλλια αξίζουν περισσότερο από ποτέ",
-      "simpleTitle": "Τα μετάλλια στους Χειμερινούς Ολυμπιακούς Αγώνες 2026 είναι πιο σημαντικά",
-      "simpleText": "Στους Χειμερινούς Ολυμπιακούς Αγώνες του 2026, τα μετάλλια που θα δοθούν θα έχουν μεγάλη αξία. Αυτή η αξία θα είναι περισσότερη από τα μετάλλια που δόθηκαν στους αγώνες το 2024 στο Παρίσι. Αυτό σημαίνει ότι οι αθλητές που θα κερδίσουν φέτος θα είναι πολύ τυχεροί. Οι αγώνες αυτοί είναι σημαντικοί επειδή συνδυάζουν τον αθλητισμό με το πνεύμα του ανταγωνισμού. Μπορεί να δούμε κάτι μοναδικό και εντυπωσιακό στον αθλητισμό. Δεν έχουμε περισσότερες λεπτομέρειες για το πού και πότε θα γίνουν οι αγώνες, αλλά όλοι περιμένουν με ανυπομονησία.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/02/05/sports/xeimerinoi-olympiakoi-agones-2026-giati-ta-fetina-metallia-aksizoun-perissotero-apo-pote/",
-      "sourceDomains": [
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/05/sports/xeimerinoi-olympiakoi-agones-2026-giati-ta-fetina-metallia-aksizoun-perissotero-apo-pote/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/athletics/564063742/enarxi-simera-ton-cheimerinon-olympiakon-agonon-oi-ellinikes-symmetoches/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες 2026, εστιάζοντας στην αξία των μεταλλίων και τον αθλητισμό, που είναι χαρακτηριστικά του αθλητικού τομέα. | rss_backfill",
+      "categoryReason": "Η είδηση αναφέρεται στους Χειμερινούς Ολυμπιακούς Αγώνες και τις συμμετοχές της Ελλάδας, που ανήκουν στον τομέα του αθλητισμού. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g4ef74ca299fcb56c5b571ad595d4e14d8d77d7a982561ebd9ca00bc4c2eea1147124b6d8b60dc74b0346ce5887c68d808169525f528d1a674a63651620ca113f_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-05T11:07:59.000Z"
+      "publishedAt": "2026-02-06T06:07:07.000Z"
+    },
+    {
+      "id": "591589db45d8",
+      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Στο Μιλάνο ο Πρωθυπουργός για τη φαντασμαγορική τελετή έναρξης – Το πλήρες πρόγραμμα της Team Hellas (EΡΤ)",
+      "simpleTitle": "Ο Πρωθυπουργός στο Μιλάνο για τους Χειμερινούς Ολυμπιακούς Αγώνες",
+      "simpleText": "Σήμερα, 6 Φεβρουαρίου, αρχίζουν οι Χειμερινοί Ολυμπιακοί Αγώνες στο Μιλάνο και την Κορτίνα στην Ιταλία. Ο Πρωθυπουργός, Κυριάκος Μητσοτάκης, βρίσκεται εκεί για την τελετή έναρξης. Οι Αγώνες θα διαρκέσουν μέχρι τις 22 Φεβρουαρίου και θα έχουν περισσότερους από 2.900 αθλητές από όλο τον κόσμο. Η Ελλάδα συμμετέχει με πέντε αθλητές σε διάφορα χειμερινά αθλήματα.\n\nΗ δημόσια τηλεόραση ΕΡΤ θα μεταδώσει πολλές από τις κορυφαίες στιγμές των Αγώνων, δίνοντας τη δυνατότητα στο κοινό να παρακολουθήσει τις επιδόσεις των αθλητών. Είναι μια σπουδαία ευκαιρία για την Ελλάδα και τους αθλητές της να δείξουν το ταλέντο τους.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/olympiakoi-agones/xeimerinoi-olympiakoi-agones-sto-milano-o-prothypourgos-gia-ti-fantasmagoriki-teleti-enarksis-to-plires-programma-tis-team-hellas-ert/",
+      "sourceDomains": [
+        "ertnews.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/olympiakoi-agones/xeimerinoi-olympiakoi-agones-sto-milano-o-prothypourgos-gia-ti-fantasmagoriki-teleti-enarksis-to-plires-programma-tis-team-hellas-ert/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες, που είναι ένα σημαντικό αθλητικό γεγονός με συμμετοχή αθλητών από όλο τον κόσμο, καθώς και την παρουσία του Πρωθυπουργού στην τελετή έναρξης. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T06:05:32.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "e93163a15ec2",
-        "title": "ΕΟΔΥ: Επτά θάνατοι από Covid-19 και 9 από γρίπη την τελευταία εβδομάδα",
-        "simpleTitle": "Θάνατοι από Covid-19 και γρίπη στην Ελλάδα",
-        "simpleText": "Την τελευταία εβδομάδα, επτά άνθρωποι πέθαναν από Covid-19 και εννέα από γρίπη στην Ελλάδα. Οι πληροφορίες αυτές έρχονται από την εβδομαδιαία έκθεση του ΕΟΔΥ, που αναφέρει ότι η κατάσταση με την Covid-19 παραμένει σταθερή. Η γρίπη όμως δείχνει πτωτική τάση, δηλαδή τα κρούσματα μειώνονται.\n\nΑυτές οι πληροφορίες είναι σημαντικές γιατί μας βοηθούν να κατανοήσουμε τι συμβαίνει με τις ασθένειες. Είναι καλό να είμαστε προσεκτικοί και να ακολουθούμε οδηγίες για την υγεία μας. Για παράδειγμα, καλό είναι να κάνουμε εμβόλιο για τη γρίπη και να προσέχουμε τα συμπτώματα για να προστατευτούμε.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/",
+        "id": "995e4cd263ba",
+        "title": "Ο ΕΟΦ ανακαλεί παρτίδες βρεφικού γάλακτος",
+        "simpleTitle": "Ανακληθέν βρεφικό γάλα από τον ΕΟΦ",
+        "simpleText": "Ο Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ) αποφάσισε να ανακαλέσει κάποιες παρτίδες βρεφικού γάλακτος. Αυτό έγινε μετά από ενημέρωση της εταιρείας Nestlé. Οι παρτίδες αυτές είχαν αρχικά εγκριθεί, αλλά τώρα υπάρχει νέα μέθοδος για τον έλεγχο μίας τοξίνης. Οι παρτίδες που ανακαλούνται είναι το NAN OPTIPRO και το S-26 GOLD. Όποιος έχει αγοράσει αυτά τα προϊόντα, πρέπει να μην τα χρησιμοποιήσει και να τα επιστρέψει στο κατάστημα. Είναι σημαντικό να ακολουθούν όλοι τις οδηγίες της εταιρείας για να αλλάξουν το προϊόν τους.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/06/greece/o-eof-anakalei-partides-vrefikou-galaktos/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
+          "tanea.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564062482/eody-epta-thanatoi-apo-covid-19-kai-9-apo-gripi-tin-teleytaia-evdomada/"
-          },
-          {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/05/greece/gripi-kai-covid-19-ksanaxtypoyn-stoys-16-oi-thanatoi-tin-teleytaia-evdomada/"
+            "url": "https://www.tanea.gr/2026/02/06/greece/o-eof-anakalei-partides-vrefikou-galaktos/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4068410/o-eof-anakali-partides-vrefikou-galaktos-tis-nestle.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε θανάτους από Covid-19 και γρίπη, σε σοβαρές ιατρικές καταστάσεις και επιδημιολογικές πληροφορίες που αφορούν τη δημόσια υγεία.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g9c005e79e6781b9f1d2634011bfa3cd07a4af37fba8474af1603d1cd162dfa1dce80a85012bf84444ae545e0455c18be65f9958c72a391e7fc325e9fd29c19db_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-05T15:46:45.000Z"
-      },
-      {
-        "id": "5aee4de0e9f6",
-        "title": "Ζελένσκι: Έτοιμη η Ουκρανία να ανταλλάξει drones με πολωνικά μαχητικά",
-        "simpleTitle": "Ουκρανία και Πολωνία συνεργάζονται για στρατιωτικά θέματα",
-        "simpleText": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι ανακοίνωσε ότι η Ουκρανία είναι έτοιμη να ανταλλάξει τα δικά της drones με πολωνικά μαχητικά αεροσκάφη. Αυτό έγινε κατά τη διάρκεια συνέντευξης Τύπου με τον Πολωνό πρωθυπουργό Ντόναλντ Τουσκ στο Κίεβο. Η συνεργασία τους περιλαμβάνει επίσης την ενίσχυση της διασύνδεσης του δικτύου ηλεκτρικής ενέργειας, καθώς το ουκρανικό σύστημα έχει υποστεί ζημιές από ρωσικές επιθέσεις.\n\nΗ Πολωνία προγραμματίζει νέο πακέτο βοήθειας ύψους 200 εκατομμυρίων ζλότι για την Ουκρανία, το οποίο θα περιέχει κυρίως θωρακισμένα οχήματα. Ο Ζελένσκι τόνισε ότι μπορεί να χρειαστεί περισσότερος αντιαεροπορικός εξοπλισμός, που θα συζητηθεί ξανά τη Δευτέρα.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/zelenski-etoimi-i-oukrania-na-antallaksei-drones-me-polonika-maxitika/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/zelenski-etoimi-i-oukrania-na-antallaksei-drones-me-polonika-maxitika/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/05/world/zelenski-i-oykrania-einai-etoimi-antallaksei-drones-me-polonika-maxitika/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές και στρατιωτικές εξελίξεις μεταξύ Ουκρανίας και Πολωνίας, που σχετίζονται με την αμυντική συνεργασία και την ενίσχυση της αεράμυνας στην περιοχή.",
+        "categoryReason": "Η είδηση αφορά την ανάκληση βρεφικού γάλακτος από τον ΕΟΦ λόγω ενδεχόμενης παρουσίας τοξίνης, η οποία έχει σοβαρές επιπτώσεις για την υγεία των βρεφών.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-05T15:41:24.000Z"
+        "publishedAt": "2026-02-06T07:32:22.000Z"
       },
       {
-        "id": "fbe03e78b9dc",
-        "title": "Αιτωλοακαρνανία: Νεκρό βρέφος 6 μηνών στο Θέρμο",
-        "simpleTitle": "Θερμό: Νεκρό μωρό 6 μηνών",
-        "simpleText": "Μια οικογένεια στο Θέρμο Αιτωλοακαρνανίας βιώνει μία μεγάλη τραγωδία. Το μωρό τους, που ήταν μόλις 6 μηνών, βρέθηκε το πρωί στην κούνια του χωρίς αισθήσεις. Οι γονείς του το μετέφεραν στο κέντρο υγείας, αλλά οι γιατροί είπαν ότι ήταν ήδη νεκρό. Το μωρό είχε φάει γάλα λίγες ώρες νωρίτερα. Τώρα, το σωματάκι του έχει πάει στο νοσοκομείο της Πάτρας για εξετάσεις. Οι ειδικοί θα προσπαθήσουν να καταλάβουν γιατί έφυγε τόσο νωρίς από τη ζωή. Είναι μια πολύ δύσκολη στιγμή για την οικογένεια.",
+        "id": "828a589c3f4e",
+        "title": "Ειρηνικός: 2 νεκροί από πλήγμα των ΗΠΑ σε σκάφος με ναρκωτικά",
+        "simpleTitle": "Δύο άνθρωποι σκοτώθηκαν σε βομβαρδισμό των ΗΠΑ στον Ειρηνικό",
+        "simpleText": "Στον Ειρηνικό ωκεανό, οι Ηνωμένες Πολιτείες βομβάρδισαν ένα ταχύπλοο που φέρεται να σχετίζεται με διακινητές ναρκωτικών. Δύο άνθρωποι έχασαν τη ζωή τους από αυτήν την επίθεση. Αυτή η ενέργεια συμβαίνει σε μία σειρά από πλήγματα που έχουν γίνει από τον Σεπτέμβριο, όπου έχουν σκοτωθεί συνολικά 128 άτομα. Οι ΗΠΑ δεν έχουν δείξει αποδεικτικά στοιχεία για το τι μετέφεραν τα σκάφη. Είναι σημαντικό να γνωρίζουμε τι συμβαίνει στη θάλασσα, καθώς τέτοιες ενέργειες μπορούν να αλλάξουν την ασφάλεια στην περιοχή.",
+        "sourceName": "TO BHMA, Protagon",
+        "sourceUrl": "https://www.tovima.gr/2026/02/06/world/eirinikos-2-nekroi-apo-pligma-ton-ipa-se-skafos-me-narkotika/",
+        "sourceDomains": [
+          "tovima.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/06/world/eirinikos-2-nekroi-apo-pligma-ton-ipa-se-skafos-me-narkotika/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/eirinikos-oi-amerikanoi-vomvardisan-ki-allo-skafos-me-narkwtika-dyo-nekroi-44343307461"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές συνθήκες που σχετίζονται με ένοπλες ενέργειες και ανθρωπιστικά ζητήματα, περιλαμβάνοντας θανάτους από βομβαρδισμούς και ταυτόχρονα θέματα ασφάλειας και διακίνησης ναρκωτικών.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-06T07:27:34.000Z"
+      },
+      {
+        "id": "0cc2b7640f86",
+        "title": "ΕΕ: Πρόγραμμα συνεργασίας δισεκατομμυρίων ευρώ με τη Βολιβία",
+        "simpleTitle": "Νέο πρόγραμμα συνεργασίας ΕΕ με τη Βολιβία",
+        "simpleText": "Η Ευρωπαϊκή Ένωση ανακοίνωσε ένα μεγάλο πρόγραμμα συνεργασίας με τη Βολιβία. Αυτό έγινε την Πέμπτη στη Λα Πας. Ο διευθυντής της ΕΕ, Πελάγιο Κάστρο, υπογράμμισε ότι αυτό σηματοδοτεί μια «νέα φάση» στη συνεργασία τους. Το πρόγραμμα περιλαμβάνει οικονομική βοήθεια δισεκατομμυρίων ευρώ, που θα βοηθήσει στην προστασία του περιβάλλοντος και στην καταπολέμηση των ναρκωτικών. Κάποια χρήματα θα δαπανηθούν και για τη χρήση ηλιακής ενέργειας. Αυτές οι ενέργειες είναι σημαντικές για τον βολιβιανό λαό και τη συνεργασία με την ΕΕ. Δεν ξέρουμε ακόμα πότε θα ξεκινήσουν τα συγκεκριμένα έργα.",
+        "sourceName": "ERT News, TA NEA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/ee-programma-synergasias-disekatommyrion-eyro-me-ti-volivia/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/ee-programma-synergasias-disekatommyrion-eyro-me-ti-volivia/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/06/economy/ee-kai-volivia-egkainiazoyn-nea-fasi-synergasias-me-programma-disekatommyrion-eyro/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4068375/i-ee-anakinoni-programma-sinergasias-me-ti-volivia-disekatommirion-evro.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά ένα σημαντικό οικονομικό και πολιτικό πρόγραμμα συνεργασίας μεταξύ της Ευρωπαϊκής Ένωσης και της Βολιβίας, που έχει επιπτώσεις στην περιβαλλοντική και οικονομική πολιτική, και σχετίζεται με σοβαρά κοινωνικά και πολιτικά ζητήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-06T07:23:51.000Z"
+      },
+      {
+        "id": "0f7e9dd1ddec",
+        "title": "Την ανάκληση παρτίδων βρεφικού γάλακτος της Nestle αποφάσισε ο ΕΟΦ – «Να μη το χρησιμοποιουν», καλεί τους γονείς",
+        "simpleTitle": "Ανάκληση βρεφικού γάλακτος της Nestlé από τον ΕΟΦ",
+        "simpleText": "Ο Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ) ανακοίνωσε ότι ανακαλεί κάποιες παρτίδες βρεφικού γάλακτος από την εταιρεία Nestlé. Αυτό συνέβη λόγω μιας τοξικής ουσίας που μπορεί να προκαλεί εμετούς και διάρροια. Οι παρτίδες που ανακαλούνται είναι οι NAN OPTIPRO 1 και S-26 GOLD. Οι γονείς καλούνται να μην χρησιμοποιούν αυτά τα προϊόντα και να επιστρέψουν ό,τι έχουν αγοράσει στο κατάστημα. Αυτή η απόφαση είναι προληπτική για την προστασία των βρεφών. Είναι σημαντικό να ακολουθούν τις οδηγίες της εταιρείας για την αντικατάσταση των προϊόντων.",
         "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/aitoloakarnania-nekro-vrefos-6-minon-sto-thermo/",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/tin-anaklisi-partidon-vrefikou-galaktos-tis-nestle-apofasise-o-eof-na-mi-to-xrisimopoioun-kalei-tous-goneis/",
         "sourceDomains": [
           "ertnews.gr",
           "kathimerini.gr"
@@ -627,93 +589,60 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/aitoloakarnania-nekro-vrefos-6-minon-sto-thermo/"
+            "url": "https://www.ertnews.gr/roi-idiseon/tin-anaklisi-partidon-vrefikou-galaktos-tis-nestle-apofasise-o-eof-na-mi-to-xrisimopoioun-kalei-tous-goneis/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564062230/tragodia-stin-aitoloakarnania-nekro-vrefos-6-minon/"
+            "url": "https://www.kathimerini.gr/society/564063841/eof-anaklisi-partidon-vrefikoy-galaktos/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον θάνατο ενός βρέφους μόλις 6 μηνών, γεγονός που συνιστά μια σοβαρή και θλιβερή τραγωδία για την οικογένεια και επηρεάζει σημαντικά τα ανθρώπινα δικαιώματα και την υγεία.",
+        "categoryReason": "Η είδηση αφορά την ανάκληση παρτίδων βρεφικού γάλακτος λόγω της παρουσίασης τοξικής ουσίας που μπορεί να προκαλεί σοβαρές επιπτώσεις στην υγεία των βρεφών, γεγονός που σχετίζεται με ζητήματα υγείας και ασφάλειας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-05T15:35:22.000Z"
+        "publishedAt": "2026-02-06T07:19:23.000Z"
       },
       {
-        "id": "e834698f973f",
-        "title": "Κυκλοφοριακές ρυθμίσεις στη Βασιλίσσης Σοφίας στις 7 και 8 Φεβρουαρίου",
-        "simpleTitle": "Ρυθμίσεις κυκλοφορίας στη Βασιλίσσης Σοφίας στις 7 και 8 Φεβρουαρίου",
-        "simpleText": "Στις 7 και 8 Φεβρουαρίου θα γίνουν εργασίες στη λεωφόρο Βασιλίσσης Σοφίας. Η κυκλοφορία των οχημάτων θα σταματήσει σε κάποιες λωρίδες. Το Σάββατο, η δεξιά λωρίδα θα είναι κλειστή από το πρωί μέχρι το απόγευμα. Την Κυριακή, οι διακοπές της κυκλοφορίας θα συνεχιστούν και στην ίδια λωρίδα για λιγότερο χρόνο. Οι οδηγοί πρέπει να είναι προσεκτικοί όταν περνούν από αυτές τις περιοχές. Είναι σημαντικό να ακολουθούν τις πινακίδες που δείχνουν τον σωστό δρόμο. Δεν ξέρουμε ακόμα αν θα αλλάξουν οι ώρες των εργασιών.",
-        "sourceName": "Kathimerini, TA NEA, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564062368/kykloforiakes-rythmiseis-sti-vasilissis-sofias-stis-7-kai-8-fevroyarioy/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564062368/kykloforiakes-rythmiseis-sti-vasilissis-sofias-stis-7-kai-8-fevroyarioy/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/05/greece/vasilissis-sofias-kykloforiakes-rythmiseis-7-kai-8-fevroyarioy-logo-ektelesis-ergasion/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/05/society/vasilissis-sofias-kykloforiakes-rythmiseis-to-savvatokyriako/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά κυκλοφοριακές ρυθμίσεις λόγω εργασιών, που είναι σοβαρή ενημέρωση σχετική με τη δημόσια ασφάλεια και μεταφορές.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-05T15:14:14.000Z"
-      },
-      {
-        "id": "e5dd81c36e6d",
-        "title": "Χανιά: Μια γυναίκα νεκρή και τρείς τραυματίες σε τροχαίο στον ΒΟΑΚ",
-        "simpleTitle": "Τροχαίο στα Χανιά: Μια γυναίκα νεκρή, τρεις τραυματίες",
-        "simpleText": "Σήμερα, ένα σοβαρό τροχαίο συνέβη στον Βόρειο Οδικό Άξονα Κρήτης, κοντά στον κόμβο Γαλατά στα Χανιά. Μια γυναίκα έχασε τη ζωή της και τρία άτομα τραυματίστηκαν. Τρία αυτοκίνητα ενεπλάκησαν στη σύγκρουση, και η γυναίκα βρέθηκε σε σοβαρή κατάσταση. Ασθενοφόρα και η Πυροσβεστική έσπευσαν στο σημείο για να βοηθήσουν. Οι τραυματίες μεταφέρθηκαν στο Νοσοκομείο Χανίων, με τον ένα να χρειάζεται χειρουργείο. Οι Αρχές ερευνούν τα αίτια του ατυχήματος, που είναι πολύ σημαντικά για την ασφάλεια όλων μας. Ήδη υπάρχουν προβλήματα στην κυκλοφορία λόγω αυτού του γεγονότος.",
-        "sourceName": "ERT News, TA NEA, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/xania-mia-gynaika-nekri-kai-treis-traymaties-se-troxaio-ston-voak/",
+        "id": "a53a410c810c",
+        "title": "Κλειστό παραμένει το αεροδρόμιο Βερολίνου λόγω μαύρου πάγου – Άγνωστο πότε θα επαναληφθούν οι πτήσεις",
+        "simpleTitle": "Κλειστό το αεροδρόμιο Βερολίνου λόγω κακού καιρού",
+        "simpleText": "Το αεροδρόμιο Βερολίνου παραμένει κλειστό από το πρωί της Παρασκευής. Αυτό συμβαίνει γιατί έχει μαύρο πάγο, που είναι πολύ επικίνδυνος για τις πτήσεις. Οι καιρικές συνθήκες είναι κακές, με παγωμένη βροχή που έχει κάνει τις επιφάνειες πολύ ολισθηρές. Οι εργαζόμενοι το προσπαθούν να καθαρίσουν την πίστα, αλλά είναι δύσκολο να πετύχουν.\n\nΔεν ξέρουμε πότε θα ξαναξεκινήσουν οι πτήσεις. Οι επιβάτες πρέπει να επικοινωνούν με τις αεροπορικές εταιρείες τους για πληροφορίες σχετικά με τις πτήσεις τους. Είναι πολύ σημαντικό να μείνουμε ασφαλείς και να μην πάμε στο αεροδρόμιο αν δεν είναι απαραίτητο.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/kleisto-paramenei-to-aerodromio-verolinou-logo-mayrou-pagou-agnosto-pote-tha-epanalifthoun-oi-ptiseis/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr",
-          "tovima.gr"
+          "kathimerini.gr",
+          "tanea.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/xania-mia-gynaika-nekri-kai-treis-traymaties-se-troxaio-ston-voak/"
+            "url": "https://www.ertnews.gr/eidiseis/ellada/kleisto-paramenei-to-aerodromio-verolinou-logo-mayrou-pagou-agnosto-pote-tha-epanalifthoun-oi-ptiseis/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564063799/kleisto-to-aerodromio-toy-verolinoy-tin-paraskeyi-logo-mayroy-pagoy/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/05/greece/sokaristiko-troxaio-me-mia-nekri-kai-treis-traymaties-ston-voak-sta-xania/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/05/society/neo-troxaio-ston-voak-anasyrthike-nekri-mia-gynaika/"
+            "url": "https://www.tanea.gr/2026/02/06/world/kleisto-to-aerodromio-toy-verolinoy-logo-mayroy-pagoy-kai-pagomenis-vroxis/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο με θανάτους και τραυματισμούς, εστιάζοντας σε σημαντικά ζητήματα ασφάλειας και δημόσιας υγείας.",
+        "categoryReason": "Η είδηση αφορά σοβαρές καιρικές συνθήκες που έχουν επηρεάσει τη λειτουργία του αεροδρομίου, με ενδεχόμενες συνέπειες για την ασφάλεια και τις πτήσεις.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g0d9566fe039fee95ba94d26be1dc481039986f8f3928ccdca5e394df77fb9178f584def8024115beba989e5c5a830f107f9fee677a5d65e1a76e70c268521632_1280.jpg",
-        "videoUrl": "https://www.youtube.com/embed/lom4iJPyNeI",
-        "publishedAt": "2026-02-05T15:05:00.000Z"
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-06T07:03:09.000Z"
       },
       {
-        "id": "2a6c36418b2b",
-        "title": "Θεσσαλονίκη: Έκρηξη σε διαμέρισμα στην Καλαμαριά – Επί τόπου Πυροσβεστική και ΕΚΑΒ",
-        "simpleTitle": "Έκρηξη σε διαμέρισμα στην Καλαμαριά στη Θεσσαλονίκη",
-        "simpleText": "Σήμερα το απόγευμα, γύρω στις 3:30, έγινε έκρηξη σε διαμέρισμα στην Καλαμαριά της Θεσσαλονίκης. Η έκρηξη συνέβη στην κουζίνα ενός τρίτου ορόφου. Αμέσως, η Πυροσβεστική Υπηρεσία έστειλε 15 πυροσβέστες και 5 οχήματα στον τόπο της έκρηξης. Ευτυχώς, δεν υπάρχουν τραυματίες, αλλά υπήρξε ένα άτομο που χρειάστηκε βοήθεια για αναπνευστικά προβλήματα.\n\nΗ φωτιά που ακολούθησε τέθηκε υπό έλεγχο σύντομα. Υπήρξαν υλικές ζημιές, όπως σπασμένα γυαλιά, αλλά κανείς δεν χτύπησε. Η Πυροσβεστική ερευνά τι προκάλεσε την έκρηξη. Είναι σημαντικό να είμαστε προσεκτικοί και να αναφέρουμε άμεσα τυχόν έκτακτες καταστάσεις.",
+        "id": "b9d481601c11",
+        "title": "Κλειστές δύο λωρίδες στην Αθηνών – Λαμίας λόγω ανατροπής φορτηγού – Ουρές χιλιομέτρων για τους οδηγούς",
+        "simpleTitle": "Κλειστές λωρίδες στην Αθηνών – Λαμίας γιατί ανατράπηκε φορτηγό",
+        "simpleText": "Σήμερα το πρωί, στην Εθνική Οδό Αθηνών – Λαμίας, ένα φορτηγό ανατράπηκε κοντά στον Αυλώνα. Αυτό συνέβη γύρω στις 7:30. Ευτυχώς, δεν υπήρξαν τραυματισμοί. Οι δύο λωρίδες του δρόμου είναι κλειστές και η κυκλοφορία γίνεται μόνο από μία λωρίδα. Αυτό προκάλεσε μεγάλες ουρές και καθυστερήσεις για τους οδηγούς.\n\nΗ Τροχαία είναι στο σημείο για να βοηθήσει. Είναι σημαντικό οι οδηγοί να είναι προσεκτικοί και να περιμένουν υπομονετικά. Δεν ξέρουμε ακόμα πώς συνέβη το ατύχημα. Η κατάσταση αναμένεται να βελτιωθεί όταν αποκατασταθεί η κυκλοφορία.",
         "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ekriksi-se-diamerisma-stin-kalamaria-epi-topou-pyrosvestiki-kai-ekav/",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kleistes-dyo-lorides-stin-athinon-lamias-logo-anatropis-fortigou-oures-xiliometron-gia-tous-odigous/",
         "sourceDomains": [
           "ertnews.gr",
           "tanea.gr"
@@ -721,27 +650,27 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki-ekriksi-se-diamerisma-stin-kalamaria-epi-topou-pyrosvestiki-kai-ekav/"
+            "url": "https://www.ertnews.gr/roi-idiseon/kleistes-dyo-lorides-stin-athinon-lamias-logo-anatropis-fortigou-oures-xiliometron-gia-tous-odigous/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/05/greece/ekriksi-se-diamerisma-stin-kalamaria/"
+            "url": "https://www.tanea.gr/2026/02/06/greece/synagermos-stin-athinon-lamias-logo-anatropis-fortigou-kleistes-dyo-lorides-oures-xiliometron/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια έκρηξη σε διαμέρισμα που προκάλεσε ανησυχία και κινητοποίηση της Πυροσβεστικής Υπηρεσίας, γεγονός που σχετίζεται με σοβαρά ζητήματα ασφάλειας και υγείας.",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό τροχαίο ατύχημα που προκαλεί κυκλοφοριακά προβλήματα και καθυστερήσεις, άρα ανήκει στις σοβαρές ειδήσεις.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g0ccc4f7bf1e978b8673752639ca2048d50142b3a0ebf3423c742cb7f39deea386ca0807a44888f85810c17beb28bfea516cd58739ffbc634efad5b450316aff9_1280.jpg",
-        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599z1sklicf1dq&amp;playlistId=v-dg73jsrf4zvd",
-        "publishedAt": "2026-02-05T14:26:00.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260206-SYNDESEIS-STAMOY.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260206-SYNDESEIS-STAMOY.jpg",
+        "publishedAt": "2026-02-06T06:18:09.000Z"
       }
     ],
     "happy": [
       {
         "id": "dc09633d0e1e",
         "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-        "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς",
-        "simpleText": "Όταν ξυπνάμε νωρίς, η διάθεσή μας μπορεί να είναι καλύτερη. Οι πρώτες ώρες της ημέρας μας βοηθούν να νιώσουμε πιο ήρεμοι και ευτυχισμένοι. Ο επιστημονικός κόσμος λέει ότι ο καλός ύπνος είναι σημαντικός για την ενέργεια και τη συγκέντρωσή μας. Όταν κοιμόμαστε καλά, μπορούμε να κάνουμε τις δουλειές μας πιο εύκολα και ευχάριστα. Η καλή ποιότητα ύπνου μας βοηθά να είμαστε πιο αποτελεσματικοί και να έχουμε καλύτερη διάθεση. Αυτό είναι καλό για όλους μας.",
+        "simpleTitle": "Γιατί είναι καλό να ξυπνάμε νωρίς;",
+        "simpleText": "Ξυπνώντας νωρίς, νιώθουμε καλύτερα και πιο θετικά. Οι πρώτες ώρες της ημέρας έχουν κάτι ξεχωριστό που βοηθά την ψυχική μας διάθεση. Αν έχουμε καλό ύπνο, νιώθουμε περισσότερη ενέργεια και μπορούμε να συγκεντρωνόμαστε καλύτερα. Αυτό σημαίνει ότι η καλή ποιότητα ύπνου είναι σημαντική για την καθημερινή μας ζωή. Όλοι μας πρέπει να προσπαθήσουμε να κοιμόμαστε καλά και να ξυπνάμε νωρίς για να έχουμε καλή διάθεση. Δεν έχουμε πληροφορίες για το πώς μπορούμε να το πετύχουμε αυτό, αλλά είναι καλό να ξέρουμε τα οφέλη.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
         "sourceDomains": [
@@ -754,7 +683,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στα θετικά συναισθήματα που βιώνουμε όταν ξυπνάμε νωρίς και πώς ο καλός ύπνος επηρεάζει τη διάθεση και την ενέργεια μας, προάγοντας έτσι μια χαρούμενη και αισιόδοξη προοπτική.",
+        "categoryReason": "Η είδηση επικεντρώνεται στα θετικά συναισθήματα και τα οφέλη που σχετίζονται με το πρωινό ξύπνημα και τον ποιοτικό ύπνο.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -763,8 +692,8 @@
       {
         "id": "854cba3d8baa",
         "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
-        "simpleTitle": "Τρίχρονος θαυμαστής του σνούκερ σπάει ρεκόρ",
-        "simpleText": "Ο μικρός Τζουντ Όουενς από το Μάντσεστερ της Αγγλίας, σε μόλις τρία χρόνια, έκανε κάτι πολύ εντυπωσιακό. Κατέκτησε δύο παγκόσμια ρεκόρ Guinness στο σνούκερ, κάτι που δεν έχει ξαναγίνει. Παίρνει μεγάλη προσοχή από όλο τον κόσμο, καθώς δείχνει τι μπορεί να πετύχει ένα τόσο μικρό παιδί. Ο Τζουντ παίζει με ψυχραιμία και πολύ καλή αντίληψη, που δεν έχουν ούτε οι μεγάλοι παίκτες. Είναι σημαντικό γιατί δίνει ελπίδα σε πολλά παιδιά να ακολουθήσουν τα όνειρά τους, ανεξάρτητα από την ηλικία τους.",
+        "simpleTitle": "Τρίχρονος Τζουντ σπάει ρεκόρ στο σνούκερ",
+        "simpleText": "Ο Τζουντ Όουενς είναι ένα μικρό παιδί που κατάφερε κάτι μοναδικό. Σε ηλικία τριών ετών, έσπασε δύο παγκόσμια ρεκόρ στο σνούκερ. Είναι από το Μάντσεστερ της Αγγλίας και εντυπωσίασε όλους με τις ικανότητές του. Παίζει με μεγάλη ψυχραιμία και ακριβώς όπως οι πιο έμπειροι παίκτες. Αυτό δείχνει ότι το ταλέντο μπορεί να υπάρχει από πολύ μικρή ηλικία. Ο θαυμασμός του κόσμου για εκείνον είναι τεράστιος. Δεν ξέρουμε αν θα καταφέρει να σπάσει και άλλα ρεκόρ στο μέλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
         "sourceDomains": [
@@ -777,152 +706,68 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία του τρίχρονου Τζουντ Όουενς που κατέκτησε δύο παγκόσμια ρεκόρ Guinness στο σνούκερ είναι μια θετική και χαρούμενη είδηση, που εμπνέει και δίνει ελπίδα σε άλλα παιδιά.",
+        "categoryReason": "Η είδηση αφορά ένα νεαρό παιδί που πέτυχε κάτι εκπληκτικό, σπάζοντας παγκόσμια ρεκόρ και προκαλώντας θαυμασμό, κάτι που δημιουργεί θετικά συναισθήματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-05T08:58:00.000Z"
-      },
-      {
-        "id": "28f3d8c9b81e",
-        "title": "Η Κρακοβία αναδείχθηκε η καθαρότερη πόλη στον κόσμο για το 2025",
-        "simpleTitle": "Κρακοβία: Η πιο καθαρή πόλη του κόσμου το 2025",
-        "simpleText": "Η Κρακοβία, μια πόλη στην Πολωνία, κέρδισε τον τίτλο της καθαρότερης πόλης στον κόσμο για το 2025. Αυτό δείχνει πόσο καλή είναι στη φροντίδα των κατοίκων και των επισκεπτών. Η Κρακοβία είναι γνωστή για την όμορφη ιστορία και την αρχιτεκτονική της. Σε σύγκριση με άλλες μεγάλες πόλεις, όπως η Σιγκαπούρη και αυτές στην Ιαπωνία, έλαβε πάρα πολλές καλές κριτικές για την καθαριότητα της. Μάλιστα, συγκέντρωσε ποσοστό 98,5% θετικών σχολίων. Αυτό μπορεί να βοηθήσει στο τουρισμό και να κάνει την πόλη πιο ελκυστική για ταξίδια.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31197-krakovia-katharoteri-poli-ston-kosmo-2025/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η Κρακοβία κέρδισε τον τίτλο της καθαρότερης πόλης στον κόσμο, γεγονός που προάγει τον θετικό χαρακτήρα της και ενισχύει τη φήμη της ως τουριστικός προορισμός.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gf60216c7ba0649709bc62e235f52c5afcb57bc64d8c426681673dabe3f6a160e1f5179a4e9f09478e39da7d3e77daf2b1fd1f1065fcef647647b050e07d034f7_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-01-30T15:36:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "dbbaa668555e",
-        "title": "Χειμερινοί Ολυμπιακοί Aγώνες 2026: Γιατί τα φετινά μετάλλια αξίζουν περισσότερο από ποτέ",
-        "simpleTitle": "Τα μετάλλια στους Χειμερινούς Ολυμπιακούς Αγώνες 2026 είναι πιο σημαντικά",
-        "simpleText": "Στους Χειμερινούς Ολυμπιακούς Αγώνες του 2026, τα μετάλλια που θα δοθούν θα έχουν μεγάλη αξία. Αυτή η αξία θα είναι περισσότερη από τα μετάλλια που δόθηκαν στους αγώνες το 2024 στο Παρίσι. Αυτό σημαίνει ότι οι αθλητές που θα κερδίσουν φέτος θα είναι πολύ τυχεροί. Οι αγώνες αυτοί είναι σημαντικοί επειδή συνδυάζουν τον αθλητισμό με το πνεύμα του ανταγωνισμού. Μπορεί να δούμε κάτι μοναδικό και εντυπωσιακό στον αθλητισμό. Δεν έχουμε περισσότερες λεπτομέρειες για το πού και πότε θα γίνουν οι αγώνες, αλλά όλοι περιμένουν με ανυπομονησία.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/02/05/sports/xeimerinoi-olympiakoi-agones-2026-giati-ta-fetina-metallia-aksizoun-perissotero-apo-pote/",
+        "id": "4295b7d2eb62",
+        "title": "Εναρξη σήμερα των Χειμερινών Ολυμπιακών Αγώνων – Οι ελληνικές συμμετοχές",
+        "simpleTitle": "Αρχίζουν σήμερα οι Χειμερινοί Ολυμπιακοί Αγώνες",
+        "simpleText": "Σήμερα αρχίζουν οι Χειμερινοί Ολυμπιακοί Αγώνες στο Μιλάνο. Ο πρωθυπουργός της Ελλάδας θα πάει στο Μιλάνο για την τελετή έναρξης. Αυτοί οι αγώνες είναι σημαντικοί γιατί συγκεντρώνουν αθλητές από όλο τον κόσμο. Η Ελλάδα θα έχει συμμετοχές σε διάφορα αθλήματα. Θα παρακολουθήσουμε με μεγάλο ενδιαφέρον τις επιδόσεις των αθλητών μας. Ελπίζουμε όλοι να ευχαριστηθούν την αθλητική γιορτή.",
+        "sourceName": "Kathimerini",
+        "sourceUrl": "https://www.kathimerini.gr/athletics/564063742/enarxi-simera-ton-cheimerinon-olympiakon-agonon-oi-ellinikes-symmetoches/",
         "sourceDomains": [
-          "tovima.gr"
+          "kathimerini.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/05/sports/xeimerinoi-olympiakoi-agones-2026-giati-ta-fetina-metallia-aksizoun-perissotero-apo-pote/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/athletics/564063742/enarxi-simera-ton-cheimerinon-olympiakon-agonon-oi-ellinikes-symmetoches/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες 2026, εστιάζοντας στην αξία των μεταλλίων και τον αθλητισμό, που είναι χαρακτηριστικά του αθλητικού τομέα. | rss_backfill",
+        "categoryReason": "Η είδηση αναφέρεται στους Χειμερινούς Ολυμπιακούς Αγώνες και τις συμμετοχές της Ελλάδας, που ανήκουν στον τομέα του αθλητισμού. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g4ef74ca299fcb56c5b571ad595d4e14d8d77d7a982561ebd9ca00bc4c2eea1147124b6d8b60dc74b0346ce5887c68d808169525f528d1a674a63651620ca113f_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-05T11:07:59.000Z"
+        "publishedAt": "2026-02-06T06:07:07.000Z"
+      },
+      {
+        "id": "591589db45d8",
+        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Στο Μιλάνο ο Πρωθυπουργός για τη φαντασμαγορική τελετή έναρξης – Το πλήρες πρόγραμμα της Team Hellas (EΡΤ)",
+        "simpleTitle": "Ο Πρωθυπουργός στο Μιλάνο για τους Χειμερινούς Ολυμπιακούς Αγώνες",
+        "simpleText": "Σήμερα, 6 Φεβρουαρίου, αρχίζουν οι Χειμερινοί Ολυμπιακοί Αγώνες στο Μιλάνο και την Κορτίνα στην Ιταλία. Ο Πρωθυπουργός, Κυριάκος Μητσοτάκης, βρίσκεται εκεί για την τελετή έναρξης. Οι Αγώνες θα διαρκέσουν μέχρι τις 22 Φεβρουαρίου και θα έχουν περισσότερους από 2.900 αθλητές από όλο τον κόσμο. Η Ελλάδα συμμετέχει με πέντε αθλητές σε διάφορα χειμερινά αθλήματα.\n\nΗ δημόσια τηλεόραση ΕΡΤ θα μεταδώσει πολλές από τις κορυφαίες στιγμές των Αγώνων, δίνοντας τη δυνατότητα στο κοινό να παρακολουθήσει τις επιδόσεις των αθλητών. Είναι μια σπουδαία ευκαιρία για την Ελλάδα και τους αθλητές της να δείξουν το ταλέντο τους.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/olympiakoi-agones/xeimerinoi-olympiakoi-agones-sto-milano-o-prothypourgos-gia-ti-fantasmagoriki-teleti-enarksis-to-plires-programma-tis-team-hellas-ert/",
+        "sourceDomains": [
+          "ertnews.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/olympiakoi-agones/xeimerinoi-olympiakoi-agones-sto-milano-o-prothypourgos-gia-ti-fantasmagoriki-teleti-enarksis-to-plires-programma-tis-team-hellas-ert/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες, που είναι ένα σημαντικό αθλητικό γεγονός με συμμετοχή αθλητών από όλο τον κόσμο, καθώς και την παρουσία του Πρωθυπουργού στην τελετή έναρξης. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-06T06:05:32.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
-        "id": "3f31a53aa374",
-        "title": "Ο μηχανισμός των Αντικυθήρων στους Χειμερινούς Oλυμπιακούς Αγώνες στο Μιλάνο",
-        "simpleTitle": "Ο Μηχανισμός των Αντικυθήρων στο Μιλάνο",
-        "simpleText": "Ο μηχανισμός των Αντικυθήρων είναι ο αρχαιότερος υπολογιστής του κόσμου. Χρονολογείται από τον 2ο αιώνα π.Χ. και έχει μεγάλη σημασία, γιατί δείχνει την τεχνολογία που υπήρχε τότε. Αυτή τη στιγμή, υπάρχει μια μεγάλη έκθεση για αυτόν στο Πλανητάριο του Μιλάνου, που άνοιξε πρόσφατα για τους Χειμερινούς Ολυμπιακούς Αγώνες. Οι επισκέπτες που θα βρεθούν εκεί θα μπορούν να δουν πώς λειτουργούσε ο μηχανισμός και τα γρανάζια του, που χρησιμοποιούνταν για αστρονομικούς υπολογισμούς. Αυτή η έκθεση βοηθά στη σύνδεση των πολιτισμών Ελλάδας και Ιταλίας, δείχνοντας την καινοτομία των αρχαίων Ελλήνων.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/ert3/o-mixanismos-ton-antikythiron-stous-xeimerinous-olympiakous-agones-sto-milano/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/o-mixanismos-ton-antikythiron-stous-xeimerinous-olympiakous-agones-sto-milano/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/culture/564062446/stoys-cheimerinoys-olympiakoys-agones-sto-milano-o-michanismos-ton-antikythiron/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η έκθεση για τον μηχανισμό των Αντικυθήρων στο Πλανητάριο του Μιλάνου σχετίζεται άμεσα με πολιτιστικές εκδηλώσεις και την προβολή της αρχαίας ελληνικής τεχνολογίας, σε συνδυασμό με τους Χειμερινούς Ολυμπιακούς Αγώνες.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/02/05-12-22-milano-larda.mp4&amp;bgimg=https://www.ertnews.gr/wp-content/uploads/2026/02/05-12-22-milano-larda_2.jpg",
-        "publishedAt": "2026-02-05T15:30:49.000Z"
-      },
-      {
-        "id": "37c7bbe348ac",
-        "title": "Στο Σίδνεϋ το 12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ»",
-        "simpleTitle": "Πανεπιστημιακή συνάντηση για την ελληνική γλώσσα στο Σίδνεϊ",
-        "simpleText": "Στο Σίδνεϊ, από 6 έως 11 Σεπτεμβρίου, θα γίνει το 12ο Διεθνές Θερινό Πανεπιστήμιο με τίτλο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ». Αυτή η εκδήλωση είναι σημαντική γιατί θα μιλήσει για τη διδασκαλία της ελληνικής γλώσσας και τον πολιτισμό στην Αυστραλία. Διαφορετικοί δάσκαλοι και ερευνητές από πολλές χώρες θα συμμετέχουν. Οι εργασίες θα γίνουν στο πανεπιστήμιο UNSW και στο αμφιθέατρο Rex Vowels. Είναι πολύ καλό ότι θα χρησιμοποιηθούν νέες τεχνολογίες και θα συμμετέχουν πολλές οργανώσεις. Αυτό βοηθάει στη διατήρηση της ελληνικής γλώσσας και του πολιτισμού στο εξωτερικό.",
-        "sourceName": "ERT News, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/omogeneia/sto-sidney-to-12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/omogeneia/sto-sidney-to-12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/05/culture/i-elliniki-glossa-stin-aystralia-to-12o-diethnes-therino-panepistimio-sto-sidnei/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η εκδήλωση επικεντρώνεται στη γλώσσα και τον πολιτισμό, με στόχο την προώθηση της ελληνικής γλώσσας και πολιτιστικής κληρονομιάς στην Αυστραλία.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-05T15:20:48.000Z"
-      },
-      {
-        "id": "91b3467baf5a",
-        "title": "Μητσοτάκης κατά την παρουσίαση του προγράμματος «Hellenic Heritage: Ο Πολιτισμός μπορεί να αναδειχθεί κεντρικός αναπτυξιακός πυλώνας",
-        "simpleTitle": "Πολιτισμός και Ανάπτυξη με το Πρόγραμμα Hellenic Heritage",
-        "simpleText": "Ο Πρωθυπουργός παρουσίασε ένα νέο πρόγραμμα που ονομάζεται «Hellenic Heritage». Αυτό το πρόγραμμα στόχο έχει να κάνει τον πολιτισμό σημαντικό μέρος της ανάπτυξης στη χώρα μας. Θα προσφέρει νέες ψηφιακές υπηρεσίες για να βοηθήσει τους επισκέπτες σε περισσότερες από 350 αρχαιολογικές τοποθεσίες, μουσεία και μνημεία. Ο Πρωθυπουργός περιέγραψε αυτό το έργο ως «εμβληματικό», που σημαίνει ότι είναι πολύ σημαντικό. Με την τεχνολογία, θα μπορέσουμε να αναδείξουμε καλύτερα τον ελληνικό πολιτισμό και να κάνουμε τους επισκέπτες να απολαμβάνουν τις εμπειρίες τους. Δεν ξέρουμε ακόμα πότε θα ξεκινήσει το πρόγραμμα.",
-        "sourceName": "News.gr, Protagon",
-        "sourceUrl": "https://www.news.gr/politikh/article/4068109/mitsotakis-kata-tin-parousiasi-tou-programmatos-hellenic-heritage-o-politismos-bori-na-anadichthi-kentrikos-anaptixiakos-pilonas.html",
-        "sourceDomains": [
-          "news.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/politikh/article/4068109/mitsotakis-kata-tin-parousiasi-tou-programmatos-hellenic-heritage-o-politismos-bori-na-anadichthi-kentrikos-anaptixiakos-pilonas.html"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/o-prwthypourgos-stin-parousiasi-tou-hellenic-heritage-anaptyksiakos-pylwnas-o-politismos-44343307141"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αφορά την παρουσίαση ενός προγράμματος που στοχεύει στην ανάδειξη του ελληνικού πολιτισμού μέσω της τεχνολογίας και των ψηφιακών υπηρεσιών, καθιστώντας τον πολιτισμό κεντρικό αναπτυξιακό πυλώνα.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g6281faabcd04d007d73f2784e51257e144fdcb3090ea2cf2c8b3edb5cdeb7afacf9d32bc0113ae95ed3b18fa42dda30f4a75c72fed753328cb3447490634104e_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-05T14:59:58.000Z"
-      },
-      {
         "id": "7e6a4deec222",
         "title": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η κορυφαία στον κόσμο για το 2025",
-        "simpleTitle": "Η καλύτερη τοιχογραφία του κόσμου είναι στην Καλαμάτα",
-        "simpleText": "Μια εκπληκτική τοιχογραφία που δείχνει τη Μαρία Κάλλας είναι τώρα η καλύτερη στον κόσμο για το 2025. Βρίσκεται σε έναν κεντρικό δρόμο της Καλαμάτας και δείχνει πώς η σύγχρονη τέχνη μπορεί να ενθουσιάσει τους ανθρώπους παντού. Το έργο είναι από τον καλλιτέχνη KLE και ξεχώρισε ανάμεσα σε πολλές δημιουργίες. Αυτή η διάκριση είναι σημαντική όχι μόνο για τον καλλιτέχνη, αλλά και για την πόλη της Καλαμάτας που το φιλοξενεί. Είναι μια ευκαιρία να δείξουμε την ομορφιά της τέχνης μας σε όλο τον κόσμο.",
+        "simpleTitle": "Η τοιχογραφία της Μαρίας Κάλλας στην Καλαμάτα είναι η καλύτερη",
+        "simpleText": "Μια τοιχογραφία στην Καλαμάτα, που δείχνει τη Μαρία Κάλλας, είναι η πιο σημαντική στον κόσμο για το 2025. Αυτό το έργο τέχνης, που έκανε ο καλλιτέχνης KLE, έχει προκαλέσει μεγάλη εντύπωση και έχει συγκεντρώσει πολλές ψήφους από τον κόσμο. Είναι ωραίο να βλέπουμε πως η τέχνη του δρόμου από την Ελλάδα μπορεί να είναι τόσο δημοφιλής. Αυτή η διάκριση είναι καλή όχι μόνο για τον καλλιτέχνη, αλλά και για την Καλαμάτα, που υποστηρίζει την τέχνη. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για τελετές ή εκδηλώσεις που θα γίνουν.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31522-toixografia-marias-kallas-kalamata-koryfaia-ston-kosmo-2025/",
         "sourceDomains": [
@@ -935,11 +780,34 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια τοιχογραφία που αναδεικνύει τη σημασία της τέχνης και τονίζει τη συμβολή της σύγχρονης ελληνικής τέχνης στην πολιτιστική σκηνή.",
+        "categoryReason": "Η είδηση αφορά την τέχνη και τη διάκριση μιας τοιχογραφίας που επισημαίνει την πολιτιστική κληρονομιά της Μαρία Κάλλας, γι' αυτό εντάσσεται στην κατηγορία του πολιτισμού.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-01-31T16:36:34.000Z"
+      },
+      {
+        "id": "d496dd4ae0c1",
+        "title": "Το νεφέλωμα Helix μέσα από το James Webb αποκαλύπτει τον τελευταίο παλμό ενός άστρου",
+        "simpleTitle": "Το νεφέλωμα Helix και το τέλος ενός άστρου",
+        "simpleText": "Το νεφέλωμα Helix είναι ένα όμορφο φαινόμενο στον ουρανό, που μοιάζει με ένα μεγάλο μάτι. Βρίσκεται 655 χρόνια φωτός μακριά από εμάς. Αυτό το νεφέλωμα είναι πολύ σημαντικό, γιατί μας δείχνει πώς πεθαίνουν τα άστρα. Δημιουργείται όταν άστρα όπως ο Ήλιος χάνουν τα εξωτερικά τους στρώματα στο Διάστημα. Έτσι, μπορούμε να παρατηρήσουμε κάτι που συμβαίνει μόνο για λίγο χρόνο σε κοσμική κλίμακα. Αυτό το φαινόμενο είναι γεμάτο ομορφιά και μας βοηθά να κατανοήσουμε καλύτερα το σύμπαν.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31198-nefeloma-helix-james-webb/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά ένα αστροφυσικό φαινόμενο και την καλλιτεχνική του απεικόνιση, γεγονός που την κατατάσσει στην πολιτιστική κατηγορία.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gd2667c33f9729f7b62439d6cc01875a85cceb0e9983ee4863c188d73bd9bd71c92c8ee560aaa8e327377205495b53e3289ff98ac62c27e5d0a2a7586e15fc9fb_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-01-31T11:36:00.000Z"
       }
     ],
     "fun": []
