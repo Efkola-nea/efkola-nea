@@ -1,526 +1,693 @@
 {
-  "generatedAt": "2026-02-07T07:46:11.301Z",
+  "generatedAt": "2026-02-07T15:41:30.685Z",
   "articles": [
     {
-      "id": "c05d6fbb3b84",
-      "title": "Καιρός: Νεφώσεις με σποραδικές βροχές και αφρικανική σκόνη – Μικρή άνοδος της θερμοκρασίας",
-      "simpleTitle": "Καιρός: Βροχές και σκόνη με λίγο πιο ζεστό καιρό",
-      "simpleText": "Σήμερα, Σάββατο 7 Φεβρουαρίου 2026, περιμένουμε βροχές και καταιγίδες στα δυτικά της χώρας. Το βράδυ, οι βροχές θα γίνουν πιο έντονες στο Ιόνιο και στη δυτική Πελοπόννησο. Στις υπόλοιπες περιοχές ο καιρός θα είναι καλύτερος με μόνο λίγες νεφώσεις. Οι άνεμοι θα πνέουν από τα δυτικά με μέτριας έντασης. Η θερμοκρασία θα είναι σχετικά υψηλή, φτάνοντας στους 20 βαθμούς σε κάποιες περιοχές. Είναι σημαντικό να προσέχετε, γιατί η σκόνη από την Αφρική μπορεί να επηρεάσει την ατμόσφαιρα, κυρίως στα νότια. Σας καλούμε να είστε προσεκτικοί και να αποφεύγετε τις εξορμήσεις αν έχετε αναπνευστικά προβλήματα.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kairos-nefoseis-me-sporadikes-vroxes-kai-afrikaniki-skoni-mikri-anodos-tis-thermokrasias/",
+      "id": "6aed55e8fdfe",
+      "title": "Κ. Πιερρακάκης: Η έλλειψη αποτελεσματικότητας διαβρώνει την εμπιστοσύνη στις κοινωνίες",
+      "simpleTitle": "Η σημασία της αποτελεσματικότητας για την εμπιστοσύνη",
+      "simpleText": "Ο Κυριάκος Πιερρακάκης, υπουργός Εθνικής Οικονομίας, τόνισε ότι η έλλειψη αποτελεσματικότητας μπορεί να διαβρώσει την εμπιστοσύνη στις κοινωνίες. Μίλησε για το θέμα αυτό σε μια συζήτηση με τον φιλόσοφο Μάικλ Σαντέλ. Είπε ότι πρέπει να κάνουμε ό,τι λέμε και να το κάνουμε καλά. Όταν αποτυγχάνουμε, πρέπει να παραδεχτούμε την αποτυχία μας και να προσπαθήσουμε ξανά γρήγορα.\n\nΟ κύριος Πιερρακάκης ανέφερε ότι χρειάζεται ισορροπία σε πολλές πτυχές της διακυβέρνησης. Επισημαίνει ότι πρέπει να έχουμε ταπεινότητα και να κάνουμε τις σωστές ερωτήσεις για να προχωρήσουμε μπροστά. Η συζήτηση αυτή έγινε στο πλαίσιο εκδήλωσης για την ανισότητα του Πανεπιστημίου της Γενεύης.",
+      "sourceName": "ERT News, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/k-pierrakakis-i-elleipsi-apotelesmatikotitas-diavronei-tin-empistosyni-stis-koinonies/",
       "sourceDomains": [
         "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/kairos-nefoseis-me-sporadikes-vroxes-kai-afrikaniki-skoni-mikri-anodos-tis-thermokrasias/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/07/greece/allazei-o-kairos-nefoseis-afrikaniki-skoni-alla-anodos-tis-thermokrasias-to-savvato-poy-th/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις καιρικές συνθήκες, περιλαμβάνοντας αναφορές σε βροχές, καταιγίδες και την παρουσία αφρικανικής σκόνης, καθώς και τις συμβουλές προστασίας για την υγεία, κάτι που είναι σοβαρό θέμα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260207-SK5-KAIROS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260207-SK5-KAIROS.jpg",
-      "publishedAt": "2026-02-07T07:25:27.000Z"
-    },
-    {
-      "id": "9a743874e0e1",
-      "title": "Πικέρμι: Νεκρός ο πεζός που παρασύρθηκε από μοτοσικλέτα το βράδυ της Παρασκευής στη Λ. Μαραθώνος",
-      "simpleTitle": "Νεκρός πεζός από σύγκρουση με μοτοσικλέτα στο Πικέρμι",
-      "simpleText": "Ένα σοβαρό ατύχημα έγινε το βράδυ της Παρασκευής στη λεωφόρο Μαραθώνος στο Πικέρμι. Ένας πεζός παρασύρθηκε από μία μοτοσικλέτα και μεταφέρθηκε στο νοσοκομείο «Γεννηματάς». Δυστυχώς, ο πεζός δεν κατάφερε να επιζήσει και κατέληξε λίγο αργότερα. Ο οδηγός της μηχανής τραυματίστηκε επίσης και νοσηλεύεται. Το ατύχημα συνέβη περίπου 500 μέτρα μετά τη διασταύρωση με την οδό Πικερμίου. Δεν υπάρχει διάβαση πεζών στο σημείο, και η αστυνομία ερευνά τι ακριβώς συνέβη. Αναζητούνται βίντεο από κάμερες ασφαλείας για να καταλάβουν καλύτερα την κατάσταση.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/pikermi-nekros-o-pezos-pou-parasyrthike-apo-motosikleta-to-vrady-tis-paraskeyis-sti-l-marathonos/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/pikermi-nekros-o-pezos-pou-parasyrthike-apo-motosikleta-to-vrady-tis-paraskeyis-sti-l-marathonos/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/07/greece/tragodia-sto-pikermi-nekros-pezos-pou-parasyrthike-apo-motosikleta-sti-marathonos/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα με τον θάνατο ενός πεζού, γεγονός που εντάσσεται στα σοβαρά κοινωνικά ζητήματα που αφορούν την ασφάλεια στο δρόμο.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g31a29979bb52b120fab587b75571a6d9c6efb159b1038675adc6e5a0d0268bd38ae80c968c98e321f4b0e96adc556c23803fb5966e30f1dbf5f7104c4e32e61e_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-07T06:31:21.000Z"
-    },
-    {
-      "id": "4efb73ab2076",
-      "title": "Θεσσαλονίκη: Μολότοφ και δακρυγόνα επί της Γ’ Σεπτεμβρίου – Διακοπή κυκλοφορίας στην Εγνατία και πάνω από 200 προσαγωγές",
-      "simpleTitle": "Επεισόδια στη Θεσσαλονίκη με Μολότοφ και Δακρυγόνα",
-      "simpleText": "Στη Θεσσαλονίκη, έγιναν επεισόδια έξω από την Πολυτεχνική Σχολή του Αριστοτελείου Πανεπιστημίου τα ξημερώματα. Μέσα από τη σχολή, άγνωστοι πέταξαν βόμβες μολότοφ εναντίον αστυνομικών, με αποτέλεσμα να τραυματιστεί ένας αστυνομικός. Έγιναν πολλές προσαγωγές, πάνω από 210, και προκλήθηκαν μεγάλες ζημιές σε αυτοκίνητα.\n\nΓια να διατηρηθεί η ασφάλεια, η κυκλοφορία διακόπηκε στην Εγνατία Οδό. Η κατάσταση στην περιοχή ήταν δύσκολη, καθώς η αστυνομία χρησιμοποίησε δακρυγόνα και κρότου-λάμψης. Μια νεαρή κοπέλα χρειάστηκε να μεταφερθεί στο νοσοκομείο λόγω αναπνευστικών προβλημάτων από τα χημικά.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-molotof-kai-dakrygona-epi-tis-g-septemvriou-diakopi-kykloforias-stin-egnatia-kai-pano-apo-200-prosagoges/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-molotof-kai-dakrygona-epi-tis-g-septemvriou-diakopi-kykloforias-stin-egnatia-kai-pano-apo-200-prosagoges/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-epeisodia-me-molotof-kai-dakrygona-ekso-apo-to-apth-pano-apo-200-prosagoges-video/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια βίας, συγκρούσεις με την αστυνομία και σημαντικές επιπτώσεις στην ασφάλεια και την κοινωνική τάξη.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gdde1e8bea09fb6c0e099c2301b0e0068f61fa96e371dba9e0b94678aef6dccb1e8f870f5799f74e81d82054f087812f0ca6884d6070087d9220aac05abfa189a_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260207-DT0900-FAKALHS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260207-DT0900-FAKALHS.jpg",
-      "publishedAt": "2026-02-07T06:23:37.000Z"
-    },
-    {
-      "id": "6e19b458a324",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν στις 7 Φεβρουαρίου",
-      "simpleTitle": "Γιορτές στις 7 Φεβρουαρίου",
-      "simpleText": "Στις 7 Φεβρουαρίου γιορτάζουν οι Όσιοι Παρθένιος και Λουκάς. Αυτή η μέρα είναι Σάββατο. Οι άνθρωποι που έχουν αυτά τα ονόματα, όπως Παρθένιος και Λουκία, γιορτάζουν και πανηγυρίζουν. Ο Όσιος Παρθένιος ήταν καλός άνθρωπος που βοηθούσε τους άλλους. Ήταν γνωστός για τα θαύματά του και πολλοί τον τιμούν για τη βοήθεια που προσέφερε. Είναι σημαντικό να θυμόμαστε αυτούς τους αγίους και την καλοσύνη τους. Γιορτάζουμε τη μέρα αυτή για να δείξουμε την αγάπη μας προς τους ανθρώπους γύρω μας.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-7-fevrouariou/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-7-fevrouariou/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/07/greece/eortologio-poioi-giortazoun-simera-7-fevrouariou-2/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αφορά τις γιορτές και την τιμή που αποδίδεται στους αγίους Παρθένιο και Λουκά, προάγοντας θετικά συναισθήματα και γιορταστικές ατμόσφαιρες.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-07T06:02:44.000Z"
-    },
-    {
-      "id": "35a5bea4d80c",
-      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Όσα είδαμε στην τελετή έναρξης – Από το πάρτι της Italo-disco στις αποδοκιμασίες",
-      "simpleTitle": "Τελετή Έναρξης Χειμερινών Ολυμπιακών Αγώνων",
-      "simpleText": "Στις 6 Φεβρουαρίου έγινε η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων στο Μιλάνο της Ιταλίας, στο στάδιο Σαν Σίρο. Η εκδήλωση είχε πολλούς διάσημους καλλιτέχνες και ήταν πολύ εντυπωσιακή. Οι θεατές παρακολούθησαν ένα μεγάλο πάρτι με μουσική και χορό. Υπήρξαν όμως και αποδοκιμασίες λόγω πολιτικών θεμάτων, που επηρεάζουν τον κόσμο. Είναι σημαντικό να θυμόμαστε ότι οι Ολυμπιακοί Αγώνες φέρνουν σε επαφή ανθρώπους από πολλές χώρες, παρά τις δυσκολίες.",
-      "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2026/02/07/sports/xeimerinoi-olympiakoi-agones-osa-eidame-stin-teleti-enarksis-apo-to-parti-tis-italo-disco-stis-apodokimasies/",
-      "sourceDomains": [
-        "tovima.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/07/sports/xeimerinoi-olympiakoi-agones-osa-eidame-stin-teleti-enarksis-apo-to-parti-tis-italo-disco-stis-apodokimasies/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/k-pierrakakis-i-elleipsi-apotelesmatikotitas-diavronei-tin-empistosyni-stis-koinonies/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/galleries/xeimerinoi-olybiakoi-zoum-stin-teleti-enarksis-44343308171"
+          "url": "https://www.protagon.gr/epikairotita/politiki/pierrakakis-i-elleipsi-apotelesmatikotitas-diavrwnei-tin-ebistosyni-stis-koinwnies-44343308379"
         }
       ],
-      "category": "sports",
-      "categoryReason": "Η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων αποτελεί σημαντική αθλητική εκδήλωση που συνδέεται άμεσα με τους Ολυμπιακούς Αγώνες και την παρουσία διεθνών αθλητών.",
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την πολιτική και την κοινωνική εμπιστοσύνη, με αναφορές στη διακυβέρνηση και την αποτελεσματικότητα, γεγονός που την καθιστά σοβαρή.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-07T05:52:54.000Z"
+      "videoUrl": "https://www.facebook.com/plugins/video.php?height=476&#038;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1230746845173219%2F&#038;show_text=true&#038;width=267&#038;t=0",
+      "publishedAt": "2026-02-07T15:24:45.000Z"
     },
     {
-      "id": "abe82be0b6a7",
-      "title": "Ο Ντόναλντ Τραμπ υπέγραψε διάταγμα που περιλαμβάνει απειλή επιβολής δασμών σε χώρες που έχουν εμπορικές συναλλαγές με το Ιράν",
-      "simpleTitle": "Ο Τραμπ απειλεί με δασμούς για χώρες που συνεργάζονται με το Ιράν",
-      "simpleText": "Ο Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, υπέγραψε ένα διάταγμα την Παρασκευή. Αυτό το διάταγμα απειλεί με 25% δασμούς σε χώρες που έχουν εμπορικές σχέσεις με το Ιράν. Η απόφαση αυτή ήρθε μετά από συνομιλίες που έγιναν στο Ομάν για το πυρηνικό πρόγραμμα του Ιράν. Μαζί μ' αυτές τις συνομιλίες, φαίνεται ότι οι σχέσεις μεταξύ ΗΠΑ και Ιράν βελτιώνονται.\n\nΟι χώρες που συνεχίζουν να συνεργάζονται με το Ιράν μπορεί να έχουν και άλλες οικονομικές ποινές. Αυτή η κατάσταση είναι σημαντική γιατί επηρεάζει τις διεθνείς σχέσεις και την οικονομία πολλών κρατών. Δεν ξέρουμε ακόμα πότε θα γίνουν οι επόμενες συνομιλίες, αλλά ο Τραμπ είπε ότι είναι πολύ καλές.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-ntonalnt-tramp-ypegrapse-diatagma-pou-perilamvanei-apeili-epivolis-dasmon-se-xores-pou-exoun-emporikes-synallages-me-to-iran/",
+      "id": "c8dd97f684a9",
+      "title": "Υπουργείο Παιδείας σε ΑΠΘ: Έχετε διορία 48 ωρών να δώσετε εξηγήσεις για τα σοβαρά επεισόδια",
+      "simpleTitle": "** Υπουργείο Παιδείας ζητά εξηγήσεις από το ΑΠΘ",
+      "simpleText": "** Το Υπουργείο Παιδείας κατήγγειλε τα σοβαρά επεισόδια που έγιναν έξω από την Πολυτεχνική Σχολή του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης. Ζητάει από τις αρχές του πανεπιστημίου να δώσουν εξηγήσεις μέσα σε 48 ώρες. Τα επεισόδια σημειώθηκαν κατά τη διάρκεια της νύχτας και προκάλεσαν τον τραυματισμό ενός αστυνομικού.\n\nΗ κατάσταση ήταν πολύ δύσκολη με βόμβες μολότοφ να πετάγονται εναντίον των αστυνομικών. Το υπουργείο θέλει να μάθει ακριβώς τι συνέβη και αν υπήρχαν παρανομίες. Είναι σημαντικό αυτό για να διασφαλιστεί η ασφάλεια στα πανεπιστήμια.",
+      "sourceName": "ERT News, News.gr, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/ypourgeio-paideias-se-apth-exete-dioria-48-oron-na-dosete-eksigiseis-gia-ta-sovara-epeisodia/",
       "sourceDomains": [
         "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
+        "news.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-ntonalnt-tramp-ypegrapse-diatagma-pou-perilamvanei-apeili-epivolis-dasmon-se-xores-pou-exoun-emporikes-synallages-me-to-iran/"
+          "url": "https://www.ertnews.gr/ert3/thessaloniki/ypourgeio-paideias-se-apth-exete-dioria-48-oron-na-dosete-eksigiseis-gia-ta-sovara-epeisodia/"
         },
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564066811/o-tramp-ypegrapse-diatagma-me-apeili-dasmon-gia-chores-poy-synallassontai-me-to-iran/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4069414/ipourgio-pedias-se-apth-echete-dioria-48-oron-na-dosete-exigisis-gia-ta-sovara-episodia.html"
         },
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/07/world/o-tramp-ypegrapse-diatagma-gia-epivoli-dasmon-25-se-varos-xoron-poy-exoyn-emporikes-synall/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/ypourgeio-paideias-se-apth-dwste-eksigiseis-gia-ta-epeisodia-dioria-48-wrwn-44343308371"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η ειδησεογραφία αφορά τις διεθνείς σχέσεις και την οικονομία, με επίκεντρο την απόφαση του Ντόναλντ Τραμπ για επιβολή δασμών και τις επιπτώσεις της στις σχέσεις ΗΠΑ-Ιράν.",
+      "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια βίας που προκάλεσαν τον τραυματισμό ενός αστυνομικού και την παρέμβαση του Υπουργείου Παιδείας για εξηγήσεις, γεγονότα που σχετίζονται με την ασφάλεια στα πανεπιστήμια και τη διαχείριση της βίας.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-07T04:53:57.000Z"
+      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599z1sklicf1dq&amp;playlistId=v-dg8r8htiaq1d",
+      "publishedAt": "2026-02-07T14:54:17.000Z"
     },
     {
-      "id": "2b04d6ba6251",
-      "title": "Reuters: Ουκρανία και ΗΠΑ συζητούν σχέδιο για ειρηνευτική συμφωνία μέχρι τον Μάρτιο, δημοψήφισμα και ταυτόχρονα εκλογές",
-      "simpleTitle": "Σχέδιο για ειρηνευτική συμφωνία στην Ουκρανία",
-      "simpleText": "Η Ουκρανία και οι Ηνωμένες Πολιτείες μιλούν για μια ειρηνευτική συμφωνία με στόχο να είναι έτοιμη μέχρι τον Μάρτιο. Οι συζητήσεις γίνονται για να συμφωνήσουν οι δύο χώρες με τη Ρωσία. Αν γίνει συμφωνία, οι Ουκρανοί πολίτες θα ψηφίσουν σε δημοψήφισμα και στις εθνικές εκλογές ταυτόχρονα. Αυτό είναι πολύ σημαντικό γιατί οι εκλογές πρέπει να γίνουν με ασφάλεια. Οι Ουκρανικές αρχές ανησυχούν ότι οι εκεχειρίες δεν τηρούνται. Δεν ξέρουμε ακόμα πότε θα γίνει η επόμενη συνάντηση των διαπραγματευτών. Οι ΗΠΑ επιθυμούν να προχωρήσουν γρήγορα, αλλά υπάρχουν πολλές δυσκολίες που πρέπει να λυθούν.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/reuters-oukrania-kai-ipa-syzitoun-sxedio-gia-eirineytiki-symfonia-mexri-ton-martio-dimopsifisma-kai-taytoxrona-ekloges/",
+      "id": "11055e4b0ee9",
+      "title": "Μυστήριο στη Ρωσία με τον θάνατο ακόμα ενός πρώην αξιωματούχου: Βρέθηκε νεκρός στο μπάνιο του από πνιγμό",
+      "simpleTitle": "Μυστήριο με τον θάνατο πρώην αξιωματούχου στη Ρωσία",
+      "simpleText": "Ο πρώην αναπληρωτής υπουργός Δικαιοσύνης της Ρωσίας, Σεργκέι Τρόπιν, βρέθηκε νεκρός στο μπάνιο του διαμερίσματός του στη Μόσχα. Η σορός του βρέθηκε πρόσφατα και θεωρείται ότι πνίγηκε. Οι αρχές, μέχρι στιγμής, δεν έχουν ανακοινώσει αν υπάρχει εγκληματική ενέργεια πίσω από τον θάνατό του. Αυτός ο θάνατος είναι μέρος μιας σειράς περίεργων θανάτων που έχουν συμβεί σε δημόσιους υπαλλήλους στη Ρωσία τα τελευταία χρόνια. Από την αρχή της εισβολής στην Ουκρανία, περισσότεροι από 20 αξιωματούχοι έχουν χάσει τη ζωή τους υπό αδιευκρίνιστες συνθήκες. Οι πληροφορίες για το τι ακριβώς συνέβη δεν είναι ακόμα σαφείς.",
+      "sourceName": "ERT News, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/mystirio-sti-rosia-me-ton-thanato-akoma-enos-proin-aksiomatouxou-vrethike-nekros-sto-mpanio-tou-apo-pnigmo/",
       "sourceDomains": [
         "ertnews.gr",
-        "tanea.gr"
+        "protagon.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/reuters-oukrania-kai-ipa-syzitoun-sxedio-gia-eirineytiki-symfonia-mexri-ton-martio-dimopsifisma-kai-taytoxrona-ekloges/"
+          "url": "https://www.ertnews.gr/roi-idiseon/mystirio-sti-rosia-me-ton-thanato-akoma-enos-proin-aksiomatouxou-vrethike-nekros-sto-mpanio-tou-apo-pnigmo/"
         },
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/06/world/reuters-filodokso-sxedio-gia-eirineytiki-symfonia-metaksy-mosxas-kai-kievoy-mexri-ton-mart/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/kosmos/rwsia-nekros-sto-banio-tou-vrethike-o-prwin-yfypourgos-dikaiosynis-44343308350"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά διαπραγματεύσεις για μια ειρηνευτική συμφωνία στην Ουκρανία, ένα σοβαρό πολιτικό και κοινωνικό ζήτημα που σχετίζεται με τον πόλεμο και τις επιπτώσεις του.",
+      "categoryReason": "Η είδηση αναφέρεται στον θάνατο ενός πρώην αξιωματούχου στη Ρωσία υπό αδιευκρίνιστες συνθήκες, εγείροντας σοβαρά ερωτήματα σχετικά με την ασφαλή κατάσταση των δημόσιων υπαλλήλων στη χώρα, ειδικά δεδομένης της σειράς ύποπτων θανάτων τους τελευταίους μήνες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-06T22:14:18.000Z"
+      "publishedAt": "2026-02-07T14:50:36.000Z"
     },
     {
-      "id": "b5f88b036632",
-      "title": "Ινδία: Τους 23 έφτασαν οι νεκροί από την έκρηξη σε παράνομο ανθρακωρυχείο",
-      "simpleTitle": "Ινδία: 23 νεκροί από έκρηξη σε παράνομο ανθρακωρυχείο",
-      "simpleText": "Στην Ινδία, 23 άνθρωποι έχασαν τη ζωή τους από μια έκρηξη σε ένα παράνομο ανθρακωρυχείο. Το γεγονός συνέβη στο κρατίδιο Μεγαλάγια. Χθες βρέθηκαν ακόμα τέσσερα πτώματα, αυξάνοντας τον αριθμό των νεκρών. Ο αρχηγός της αστυνομίας είπε ότι η έκρηξη πιθανόν προήλθε από πυροδότηση δυναμίτιδας. Τα ανθρακωρυχεία αυτά είναι επικίνδυνα και απαγορεύονται από το 2014, αλλά εξακολουθούν να λειτουργούν. Η κατάσταση είναι σοβαρή, καθώς οι τοπικές κοινότητες ανησυχούν για τη μόλυνση και την ασφάλεια. Οι διασώστες θα συνεχίσουν τις επιχειρήσεις και αύριο.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/india-tous-23-eftasan-oi-nekroi-apo-tin-ekriksi-se-paranomo-anthrakoryxeio/",
+      "id": "01b746693c76",
+      "title": "Θεσσαλονίκη: Αφέθηκαν ελεύθεροι οι 313 προσαχθέντες για τα επεισόδια έξω από το ΑΠΘ",
+      "simpleTitle": "Ελεύθεροι οι 313 προσαχθέντες από τα επεισόδια στην Θεσσαλονίκη",
+      "simpleText": "Οι 313 άνθρωποι που προσαχθήκαν από την αστυνομία στη Θεσσαλονίκη είναι τώρα ελεύθεροι. Αυτό συνέβη μετά από επεισόδια που έγιναν τα ξημερώματα έξω από το Αριστοτέλειο Πανεπιστήμιο. Η Αστυνομία ανακοίνωσε ότι δεν βρήκαν αποδείξεις που να τους ενοχοποιούν. Τα επεισόδια ήταν βίαια, με χρήση μολότοφ εναντίον των αστυνομικών. Ένας αστυνομικός τραυματίστηκε και μεταφέρθηκε στο νοσοκομείο. Είναι σημαντικό να διατηρείται η ασφάλεια στην περιοχή και να αποφεύγονται τέτοια φαινόμενα στο μέλλον.",
+      "sourceName": "TA NEA, TO BHMA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-afethikan-eleytheroi-oi-313-prosaxthentes-gia-ta-epeisodia-ekso-apo-to-apth/",
       "sourceDomains": [
-        "ertnews.gr",
+        "tanea.gr",
+        "tovima.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/india-tous-23-eftasan-oi-nekroi-apo-tin-ekriksi-se-paranomo-anthrakoryxeio/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-afethikan-eleytheroi-oi-313-prosaxthentes-gia-ta-epeisodia-ekso-apo-to-apth/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/07/society/eleytheroi-kai-oi-313-prosaxthentes-meta-ta-epeisodia-ekso-apo-to-apth/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4069069/stous-23-i-nekri-apo-tin-ekrixi-se-paranomo-anthrakorichio-tis-megalagia-tis-indias.html"
+          "url": "https://www.news.gr/ellada/article/4069411/afethikan-eleftheri-i-313-prosachthentes-gia-ta-episodia-exo-apo-to-apth.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με 23 νεκρούς από έκρηξη σε παράνομο ανθρακωρυχείο, η οποία επισημαίνει σοβαρά ζητήματα σχετικά με την ασφάλεια και το περιβάλλον.",
+      "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια και τις προσαγωγές από την αστυνομία, επηρεάζοντας την ασφάλεια και τη δημόσια τάξη.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/gfa7768ce8b7ad1492ae507975bf315384fc03fa39c8e794d78d0f44d467d5e3489daf0a5efdc36329224f613255ff3a17b354705767e7179daabe158f3f10c46_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-06T21:56:00.000Z"
+      "publishedAt": "2026-02-07T14:32:40.000Z"
     },
     {
-      "id": "ef08effccbfa",
-      "title": "Η φαντασμαγορική τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων 2026",
-      "simpleTitle": "Τελετή έναρξης Χειμερινών Ολυμπιακών Αγώνων 2026",
-      "simpleText": "Η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων έγινε στο Μιλάνο και την Κορτίνα. Περισσότεροι από 2.900 αθλητές συμμετείχαν σε 16 διαφορετικά αθλήματα. Η εκδήλωση ήταν εντυπωσιακή και μαγευτική. Ο Πρωθυπουργός Κυριάκος Μητσοτάκης παραβρέθηκε στην τελετή και έκανε αστείο σχόλιο για τον καιρό. Με αφορμή τη βροχή από προηγούμενους Αγώνες, είπε ότι αυτή τη φορά δεν έβρεχε. Η εκδήλωση είναι σημαντική γιατί συγκεντρώνει ανθρώπους από όλο τον κόσμο και προάγει τον αθλητισμό.",
-      "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2026/02/06/sports/se-ekseliksi-i-teleti-enarksis-ton-xeimerinon-olympiakon-agonon-2026/",
+      "id": "72c15cae3e86",
+      "title": "Αστυνομία και σκύλος-ιχνηλάτης εντοπίζουν 15χρονο με αυτισμό μέσα σε χιονοθύελλα στο Maryland",
+      "simpleTitle": "Σκύλος και αστυνομία σώζουν 15χρονο με αυτισμό από χιονοθύελλα",
+      "simpleText": "Στο Maryland, μια χειμερινή καταιγίδα έφερε μεγάλα χιόνια και κρύο. Ένας 15χρονος με αυτισμό βγήκε από το σπίτι του χωρίς να το καταλάβει η οικογένειά του. Η αστυνομία και ένας σκύλος-ιχνηλάτης συνεργάστηκαν για να τον βρουν. Ήταν σημαντικό να δράσουν γρήγορα, γιατί οι καιρικές συνθήκες ήταν δύσκολες. Ευτυχώς, κατάφεραν να τον εντοπίσουν και να τον φέρουν πίσω με ασφάλεια στην οικογένειά του. Αυτό δείχνει πόσο σημαντική είναι η συνεργασία για τη βοήθεια σε καταστάσεις ανάγκης.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/",
       "sourceDomains": [
-        "tovima.gr",
-        "protagon.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/06/sports/se-ekseliksi-i-teleti-enarksis-ton-xeimerinon-olympiakon-agonon-2026/"
-        },
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή κατάσταση έκτακτης ανάγκης όπου η αστυνομία και ένας σκύλος-ιχνηλάτης εργάστηκαν για την ασφαλή ανεύρεση ενός 15χρονου με αυτισμό μέσα σε δύσκολες καιρικές συνθήκες.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g5c0bd8c2d6c207a3ddf85a630503e3e5b1a1654703231d45ef027e764077a56b2a0857ae82671f24735de3cba280c989f1cd2a8e6e6f1e13ac9a07f337234806_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-07T07:52:00.000Z"
+    },
+    {
+      "id": "3237a18de9c7",
+      "title": "Ποιο γιαούρτι είναι το καλύτερο; Οδηγός επιλογής με βάση την υγεία σου",
+      "simpleTitle": "Πώς να διαλέξεις το καλύτερο γιαούρτι",
+      "simpleText": "Το γιαούρτι είναι πολύ καλό τρόφιμο που μπορεί να βοηθήσει στην υγεία μας. Υπάρχουν πολλά είδη γιαουρτιού. Για κάθε άνθρωπο, κάποιο μπορεί να είναι καλύτερο. Είναι σημαντικό να διαλέγουμε το σωστό γιαούρτι, ανάλογα με τους στόχους μας. Μην αγοράζεις γιαούρτια με πολύ ζάχαρη ή τεχνητά γλυκαντικά. Αυτά τα γιαούρτια δεν είναι υγιεινά. Είναι καλύτερα να προτιμάς φυσικά γιαούρτια που θα σου δώσουν θρεπτικά συστατικά. Έτσι θα είναι ωφέλιμα για τον οργανισμό σου.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31620-poio-giaourti-kalitero/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/sto-milano-o-prwthypourgos-gia-tin-teleti-enarksi-twn-xeimerinwn-olybiakwn-agwnwn-44343308198"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31620-poio-giaourti-kalitero/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το άρθρο αναφέρεται στην επιλογή υγιεινών τροφίμων, συγκεκριμένα του γιαουρτιού, και τις επιπτώσεις της διατροφής στην υγεία, που είναι σοβαρά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T16:34:33.000Z"
+    },
+    {
+      "id": "8e734924d46b",
+      "title": "NASA και Artemis: οι αστροναύτες του Artemis II ετοιμάζονται για το πιο μακρινό ταξίδι γύρω από τη Σελήνη",
+      "simpleTitle": "Αστροναύτες ετοιμάζονται για σημαντικό ταξίδι κοντά στη Σελήνη",
+      "simpleText": "Τέσσερις αστροναύτες από τη NASA και τον Καναδά προετοιμάζονται για ένα σημαντικό ταξίδι. Ο Reid Wiseman, η Christina Koch, ο Victor Glover και ο Jeremy Hansen θα συμμετάσχουν στην αποστολή Artemis II. Το ταξίδι αυτό θα διαρκέσει περίπου 10 ημέρες και θα τους οδηγήσει κοντά στη Σελήνη, πιο μακριά από τη Γη από ποτέ. Αν και δεν θα πατήσουν στο φεγγάρι, στόχος τους είναι να ενισχύσουν τη σεληνιακή εξερεύνηση. Αυτό είναι σημαντικό γιατί θα προετοιμάσει το έδαφος για μελλοντικές αποστολές. Θα χρησιμοποιηθούν νέοι πύραυλοι και κάψουλες, που θα δοκιμάσουν τα συστήματά τους στην πτήση.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31619-nasa-kai-artemis-oi-astronaftes-tou-artemis-ii-etoimazontai-gia-to-pio-makrino-taxidi-gyro-apo-ti-selini/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31619-nasa-kai-artemis-oi-astronaftes-tou-artemis-ii-etoimazontai-gia-to-pio-makrino-taxidi-gyro-apo-ti-selini/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η αποστολή Artemis II της NASA αφορά σοβαρές εξελίξεις στην εξερεύνηση του διαστήματος, συμπεριλαμβανομένων θεμάτων τεχνολογίας και επιστημονικών επιτευγμάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T14:18:00.000Z"
+    },
+    {
+      "id": "9ce74f433000",
+      "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
+      "simpleTitle": "Φινλανδία: Ο τρόπος ζωής φέρνει ευτυχία",
+      "simpleText": "Η Φινλανδία είναι γνωστή για την ευτυχία των ανθρώπων της. Για οκτώ χρόνια, οι Φινλανδοί είναι στην κορυφή της Παγκόσμιας Έκθεσης Ευτυχίας. Αυτό συμβαίνει γιατί θεωρούν την ευτυχία ως τρόπο ζωής και όχι απλώς ως στόχο. Οι ίδιοι λένε ότι ένα μυστικό της ευτυχίας τους είναι οι χαμηλές προσδοκίες, που τους βοηθούν να είναι ικανοποιημένοι από την καθημερινότητά τους. Αυτή η νοοτροπία τους επιτρέπει να ζουν ήρεμα και μέτρια, δημιουργώντας μια ατμόσφαιρα ευτυχίας.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση αναφέρεται στην ευτυχία των Φινλανδών και τονίζει τις θετικές πτυχές της ζωής τους, κάνοντάς την ιδανική για την κατηγορία 'happy'.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-06T09:42:00.000Z"
+    },
+    {
+      "id": "d87e8454bef7",
+      "title": "Τα ηλεκτρικά οχήματα ξεπερνούν για πρώτη φορά τα βενζινοκίνητα στις πωλήσεις στην Ευρώπη",
+      "simpleTitle": "Ηλεκτρικά αυτοκίνητα πωλούνται περισσότερο από τα βενζινοκίνητα στην Ευρώπη",
+      "simpleText": "Για πρώτη φορά, τα ηλεκτρικά αυτοκίνητα πωλήθηκαν περισσότερα από τα βενζινοκίνητα στην Ευρώπη. Αυτό έγινε τον Δεκέμβριο. Οι αλλαγές στην αυτοκινητοβιομηχανία είναι μεγάλες και γίνονται γρήγορα. Οι άνθρωποι φαίνεται να επιλέγουν περισσότερο τα ηλεκτρικά αυτοκίνητα. Υπάρχουν συζητήσεις αν θα επιτραπεί η πώληση αυτοκινήτων με βενζίνη από το 2035. Αλλά οι καταναλωτές δείχνουν ότι θέλουν να αλλάξουν και να χρησιμοποιούν πιο φιλικά προς το περιβάλλον οχήματα. Έτσι, αυτό το γεγονός είναι σημαντικό για το μέλλον μας.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31628-ilektrika-oximata-poliseis-eyropi/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31628-ilektrika-oximata-poliseis-eyropi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη σημαντική αλλαγή στην αυτοκινητοβιομηχανία, με τα ηλεκτρικά οχήματα να ξεπερνούν τα βενζινοκίνητα, κάτι που έχει σοβαρές επιπτώσεις για το περιβάλλον και την οικονομία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T17:22:00.000Z"
+    },
+    {
+      "id": "dc09633d0e1e",
+      "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
+      "simpleTitle": "Γιατί είναι καλό να ξυπνάμε νωρίς;",
+      "simpleText": "Είναι συχνά δύσκολο να ξυπνάμε το πρωί. Αλλά η επιστήμη δείχνει ότι οι πρώτες ώρες της ημέρας είναι πολύ καλές για εμάς. Όταν ξυπνάμε νωρίς, νιώθουμε πιο χαρούμενοι και πιο ήρεμοι. Αυτό συμβαίνει επειδή ο κανονικός ύπνος μας δίνει περισσότερη ενέργεια και καλύτερη διάθεση. Όταν έχουμε καλό ύπνο, μπορούμε να συγκεντρωθούμε καλύτερα και να κάνουμε τα πράγματα της μέρας μας πιο εύκολα. Είναι καλό να κοιμόμαστε καλά για να είμαστε υγιείς και ευτυχισμένοι.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση εξηγεί πώς το νωπό ξύπνημα και ο ποιοτικός ύπνος συμβάλλουν στην καλή διάθεση και υγεία, προάγοντας θετικά συναισθήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T13:02:00.000Z"
+    },
+    {
+      "id": "854cba3d8baa",
+      "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
+      "simpleTitle": "Τρίχρονος Τζουντ σπάει ρεκόρ στο σνούκερ",
+      "simpleText": "Ένας τρίχρονος από το Μάντσεστερ, ο Τζουντ Όουενς, έκανε κάτι εκπληκτικό στον κόσμο του σνούκερ. Πριν κλείσει τα τρία του χρόνια, έχει πετύχει δύο παγκόσμια ρεκόρ Guinness. Αυτή η επιτυχία είναι πολύ σπουδαία, επειδή δείχνει ότι το ταλέντο δεν έχει ηλικία. Ο Τζουντ παίζει με ψυχραιμία και ακρίβεια, κάτι που οι περισσότεροι μεγάλοι παίκτες δυσκολεύονται να κάνουν. Ο κόσμος τον θαυμάζει και είναι περήφανος γι' αυτόν. Δεν ξέρουμε αν θα πετύχει ακόμα περισσότερα στο μέλλον.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση αφορά ένα παιδί θαύμα που πετυχαίνει ρεκόρ Guinness στο σνούκερ, κάτι που προάγει θετικά συναισθήματα και θαυμασμό για την εξαιρετική του ικανότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-05T08:58:00.000Z"
+    },
+    {
+      "id": "2ef17147ea36",
+      "title": "Συνεργασία με επίκεντρο τους ασθενείς και την ανθρώπινη αξιοπρέπεια",
+      "simpleTitle": "Συνεργασία για τους ασθενείς και την αξιοπρέπεια",
+      "simpleText": "Στα γραφεία του Ελληνικού Ερυθρού Σταυρού, έγινε μια σημαντική συνάντηση. Εκεί, συναντήθηκαν άνθρωποι που εκπροσωπούν τους ασθενείς στην Ελλάδα. Ο πρόεδρος, Αντώνιος Αυγερινός, μίλησε με την πρόεδρο της Ένωσης Ασθενών, Μέμη Τσεκούρα, και άλλους εκπροσώπους. Η συζήτηση επικεντρώθηκε στο πώς μπορούν να βοηθήσουν καλύτερα τους ασθενείς και τις ευάλωτες ομάδες. Αυτή η συνεργασία είναι σημαντική γιατί δείχνει ότι οι άνθρωποι νοιάζονται ο ένας για τον άλλο και θέλουν να βελτιώσουν τις συνθήκες ζωής των ασθενών. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες για τις επόμενες κινήσεις.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31344-synergasia-gia-tous-astheneis-ellinikos-erythros-stayros/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31344-synergasia-gia-tous-astheneis-ellinikos-erythros-stayros/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σημαντική συνάντηση που επικεντρώνεται στη στήριξη των ασθενών και των ευάλωτων ομάδων, θέτοντας ζητήματα ανθρωπισμού και κοινωνικών συνθηκών, γεγονός που την κατατάσσει στις σοβαρές ειδήσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-04T16:16:00.000Z"
+    },
+    {
+      "id": "a3790907705d",
+      "title": "Γιατί όταν φοράμε ακουστικά στο δρόμο μας καθιστά ευάλωτους",
+      "simpleTitle": "Η επικινδυνότητα των ακουστικών στο δρόμο",
+      "simpleText": "Όταν περπατάμε στην πόλη με ακουστικά, είναι πιο δύσκολο να προσέξουμε γύρω μας. Αυτό μπορεί να μας κάνει πιο ευάλωτους σε κινδύνους. Η μουσική ή ένα podcast μπορεί να μας αρέσουν, αλλά μας απομακρύνουν από το περιβάλλον. Είναι σημαντικό να είμαστε προσεκτικοί, ώστε να μην δείχνουμε ότι είμαστε εύκολοι στόχοι για επιθέσεις ή άλλους κινδύνους. Μπορεί να υπάρχουν κίνδυνοι που δεν βλέπουμε όταν είμαστε απασχολημένοι με την ακρόαση. Γι' αυτό, όταν περπατάμε, είναι καλύτερα να βγάζουμε τα ακουστικά μας και να προσέχουμε τι συμβαίνει γύρω μας.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά ζητήματα ασφάλειας και ευημερίας στις πόλεις, προειδοποιώντας για τους κινδύνους που ενέχει η χρήση ακουστικών κατά τη διάρκεια της μετακίνησης.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-04T13:30:57.000Z"
+    },
+    {
+      "id": "cbefd434b29a",
+      "title": "Η Ινδονησία απαγορεύει τις βόλτες με ελέφαντες και κάνει ένα ιστορικό βήμα για την ευζωία των ζώων",
+      "simpleTitle": "Απαγόρευση βόλτας με ελέφαντες στην Ινδονησία",
+      "simpleText": "Η Ινδονησία αποφάσισε να σταματήσει τις βόλτες με ελέφαντες. Αυτή η απόφαση είναι σημαντική για τα ζώα και ισχύει σε όλη τη χώρα. Οι ελέφαντες θα προστατευτούν από κακοποιητικές πρακτικές που τους προκαλούν πόνο. Οι οργανώσεις που φροντίζουν για τα δικαιώματα των ζώων μιλούν για την κακή εκπαίδευση που χρησιμοποιούν ορισμένοι. Αυτό το βήμα δείχνει ότι η Ινδονησία θέλει να σέβεται και να προστατεύει τα ζώα. Είναι ένα καλό νέο για τη ζωή τους και οι άνθρωποι θα πρέπει να το υποστηρίξουν.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31546-indonisia-elefantes-apagorefsi/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31546-indonisia-elefantes-apagorefsi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Αυτή η είδηση αφορά μια σημαντική απόφαση για την ευζωία των ζώων και την προστασία τους από κακοποιητικές πρακτικές, που είναι σοβαρά ζητήματα για τα δικαιώματα των ζώων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-03T10:49:00.000Z"
+    },
+    {
+      "id": "8f8bd93f1c93",
+      "title": "ΠΑΟΚ – Ολυμπιακός 6-17: Κέρδισε άνετα και στρέφει την προσοχή του στο μεγάλο ματς με τη Ραντνίσκι",
+      "simpleTitle": "Ολυμπιακός νίκησε εύκολα τον ΠΑΟΚ",
+      "simpleText": "Ο Ολυμπιακός κέρδισε τον ΠΑΟΚ στο πόλο με σκορ 17-6. Ο αγώνας έγινε το Σάββατο, 7 Φεβρουαρίου, στο Ποσειδώνιο κολυμβητήριο στη Θεσσαλονίκη. Η ομάδα του Ολυμπιακού ξεκίνησε καλά, αλλά στη συνέχεια πήρε μεγάλη διαφορά. Αυτή η νίκη είναι σημαντική γιατί δείχνει την καλή πορεία του Ολυμπιακού στο πρωτάθλημα, αφού είναι η 13η νίκη του σε ισάριθμους αγώνες. Τώρα, η ομάδα πρέπει να προετοιμαστεί για το πρωτάθλημα ευρωπαϊκών ομάδων, όπου θα παίξει με την Ραντνίσκι την Τετάρτη, 11 Φεβρουαρίου, στο Πειραιά.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/07/sports/othersports/paok-olympiakos-6-17-kerdise-aneta-kai-strefei-tin-prosoxi-tou-sto-megalo-mats-me-ti-rantniski/",
+      "sourceDomains": [
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/07/sports/othersports/paok-olympiakos-6-17-kerdise-aneta-kai-strefei-tin-prosoxi-tou-sto-megalo-mats-me-ti-rantniski/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά την τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων, που αφορά αθλητικές διοργανώσεις και τη συμμετοχή αθλητών σε διάφορα αθλήματα.",
+      "categoryReason": "Η είδηση αφορά αγώνα πόλο μεταξύ ΠΑΟΚ και Ολυμπιακού, εστιάζοντας στα αποτελέσματα και την πορεία των ομάδων στο πρωτάθλημα. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g3dcce34248dc393fe8c3bfb6e47d0cebe437f54b17154d556f455546c7a7d1a04e31d0cdc593fef54082f5608e7d5b710a3aa82cc286aabd1de903768ac7dff9_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-06T20:11:18.000Z"
+      "publishedAt": "2026-02-07T15:30:14.000Z"
+    },
+    {
+      "id": "d0edec859031",
+      "title": "Η αποστολή του Ολυμπιακού για το ντέρμπι «αιωνίων» με τον Παναθηναϊκό",
+      "simpleTitle": "Ολυμπιακός και Παναθηναϊκός ετοιμάζονται για το ντέρμπι",
+      "simpleText": "Ο Ολυμπιακός ετοιμάζεται για το μεγάλο παιχνίδι με τον Παναθηναϊκό. Το παιχνίδι θα γίνει την Κυριακή, 8 Φεβρουαρίου, στο γήπεδο «Γ. Καραϊσκάκης». Αυτός ο αγώνας είναι πολύ σημαντικός γιατί είναι ντέρμπι, δηλαδή παίζουν οι δύο πιο μεγάλες ομάδες. Ο προπονητής Χοσέ Λουίς Μεντιλίμπαρ ανακοίνωσε τις επιλογές του για την ομάδα. Ο Αγιούμπ Ελ Κααμπί επιστρέφει στην αποστολή. Όλοι περιμένουν με αγωνία να δουν τον αγώνα.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/07/sports/football/i-apostoli-tou-olympiakou-gia-to-ntermpi-aionion-me-ton-panathinaiko/",
+      "sourceDomains": [
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/07/sports/football/i-apostoli-tou-olympiakou-gia-to-ntermpi-aionion-me-ton-panathinaiko/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα σημαντικό αθλητικό γεγονός, συγκεκριμένα το ντέρμπι μεταξύ του Ολυμπιακού και του Παναθηναϊκού, που είναι κεντρικό θέμα στον αθλητισμό. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g590909fbf7aabf907a85d0ed4d14465f110cd1ab237d134119cf828c19c16cd03d236b4e59b3200e44a24a48d77217d53e5acb5d9b52160edc72ba03a7d6a622_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-07T15:17:34.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "c05d6fbb3b84",
-        "title": "Καιρός: Νεφώσεις με σποραδικές βροχές και αφρικανική σκόνη – Μικρή άνοδος της θερμοκρασίας",
-        "simpleTitle": "Καιρός: Βροχές και σκόνη με λίγο πιο ζεστό καιρό",
-        "simpleText": "Σήμερα, Σάββατο 7 Φεβρουαρίου 2026, περιμένουμε βροχές και καταιγίδες στα δυτικά της χώρας. Το βράδυ, οι βροχές θα γίνουν πιο έντονες στο Ιόνιο και στη δυτική Πελοπόννησο. Στις υπόλοιπες περιοχές ο καιρός θα είναι καλύτερος με μόνο λίγες νεφώσεις. Οι άνεμοι θα πνέουν από τα δυτικά με μέτριας έντασης. Η θερμοκρασία θα είναι σχετικά υψηλή, φτάνοντας στους 20 βαθμούς σε κάποιες περιοχές. Είναι σημαντικό να προσέχετε, γιατί η σκόνη από την Αφρική μπορεί να επηρεάσει την ατμόσφαιρα, κυρίως στα νότια. Σας καλούμε να είστε προσεκτικοί και να αποφεύγετε τις εξορμήσεις αν έχετε αναπνευστικά προβλήματα.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kairos-nefoseis-me-sporadikes-vroxes-kai-afrikaniki-skoni-mikri-anodos-tis-thermokrasias/",
+        "id": "6aed55e8fdfe",
+        "title": "Κ. Πιερρακάκης: Η έλλειψη αποτελεσματικότητας διαβρώνει την εμπιστοσύνη στις κοινωνίες",
+        "simpleTitle": "Η σημασία της αποτελεσματικότητας για την εμπιστοσύνη",
+        "simpleText": "Ο Κυριάκος Πιερρακάκης, υπουργός Εθνικής Οικονομίας, τόνισε ότι η έλλειψη αποτελεσματικότητας μπορεί να διαβρώσει την εμπιστοσύνη στις κοινωνίες. Μίλησε για το θέμα αυτό σε μια συζήτηση με τον φιλόσοφο Μάικλ Σαντέλ. Είπε ότι πρέπει να κάνουμε ό,τι λέμε και να το κάνουμε καλά. Όταν αποτυγχάνουμε, πρέπει να παραδεχτούμε την αποτυχία μας και να προσπαθήσουμε ξανά γρήγορα.\n\nΟ κύριος Πιερρακάκης ανέφερε ότι χρειάζεται ισορροπία σε πολλές πτυχές της διακυβέρνησης. Επισημαίνει ότι πρέπει να έχουμε ταπεινότητα και να κάνουμε τις σωστές ερωτήσεις για να προχωρήσουμε μπροστά. Η συζήτηση αυτή έγινε στο πλαίσιο εκδήλωσης για την ανισότητα του Πανεπιστημίου της Γενεύης.",
+        "sourceName": "ERT News, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/k-pierrakakis-i-elleipsi-apotelesmatikotitas-diavronei-tin-empistosyni-stis-koinonies/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "protagon.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/kairos-nefoseis-me-sporadikes-vroxes-kai-afrikaniki-skoni-mikri-anodos-tis-thermokrasias/"
+            "url": "https://www.ertnews.gr/eidiseis/k-pierrakakis-i-elleipsi-apotelesmatikotitas-diavronei-tin-empistosyni-stis-koinonies/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/07/greece/allazei-o-kairos-nefoseis-afrikaniki-skoni-alla-anodos-tis-thermokrasias-to-savvato-poy-th/"
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/politiki/pierrakakis-i-elleipsi-apotelesmatikotitas-diavrwnei-tin-ebistosyni-stis-koinwnies-44343308379"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις καιρικές συνθήκες, περιλαμβάνοντας αναφορές σε βροχές, καταιγίδες και την παρουσία αφρικανικής σκόνης, καθώς και τις συμβουλές προστασίας για την υγεία, κάτι που είναι σοβαρό θέμα.",
+        "categoryReason": "Η είδηση αφορά την πολιτική και την κοινωνική εμπιστοσύνη, με αναφορές στη διακυβέρνηση και την αποτελεσματικότητα, γεγονός που την καθιστά σοβαρή.",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260207-SK5-KAIROS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260207-SK5-KAIROS.jpg",
-        "publishedAt": "2026-02-07T07:25:27.000Z"
+        "videoUrl": "https://www.facebook.com/plugins/video.php?height=476&#038;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1230746845173219%2F&#038;show_text=true&#038;width=267&#038;t=0",
+        "publishedAt": "2026-02-07T15:24:45.000Z"
       },
       {
-        "id": "9a743874e0e1",
-        "title": "Πικέρμι: Νεκρός ο πεζός που παρασύρθηκε από μοτοσικλέτα το βράδυ της Παρασκευής στη Λ. Μαραθώνος",
-        "simpleTitle": "Νεκρός πεζός από σύγκρουση με μοτοσικλέτα στο Πικέρμι",
-        "simpleText": "Ένα σοβαρό ατύχημα έγινε το βράδυ της Παρασκευής στη λεωφόρο Μαραθώνος στο Πικέρμι. Ένας πεζός παρασύρθηκε από μία μοτοσικλέτα και μεταφέρθηκε στο νοσοκομείο «Γεννηματάς». Δυστυχώς, ο πεζός δεν κατάφερε να επιζήσει και κατέληξε λίγο αργότερα. Ο οδηγός της μηχανής τραυματίστηκε επίσης και νοσηλεύεται. Το ατύχημα συνέβη περίπου 500 μέτρα μετά τη διασταύρωση με την οδό Πικερμίου. Δεν υπάρχει διάβαση πεζών στο σημείο, και η αστυνομία ερευνά τι ακριβώς συνέβη. Αναζητούνται βίντεο από κάμερες ασφαλείας για να καταλάβουν καλύτερα την κατάσταση.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/pikermi-nekros-o-pezos-pou-parasyrthike-apo-motosikleta-to-vrady-tis-paraskeyis-sti-l-marathonos/",
+        "id": "c8dd97f684a9",
+        "title": "Υπουργείο Παιδείας σε ΑΠΘ: Έχετε διορία 48 ωρών να δώσετε εξηγήσεις για τα σοβαρά επεισόδια",
+        "simpleTitle": "** Υπουργείο Παιδείας ζητά εξηγήσεις από το ΑΠΘ",
+        "simpleText": "** Το Υπουργείο Παιδείας κατήγγειλε τα σοβαρά επεισόδια που έγιναν έξω από την Πολυτεχνική Σχολή του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης. Ζητάει από τις αρχές του πανεπιστημίου να δώσουν εξηγήσεις μέσα σε 48 ώρες. Τα επεισόδια σημειώθηκαν κατά τη διάρκεια της νύχτας και προκάλεσαν τον τραυματισμό ενός αστυνομικού.\n\nΗ κατάσταση ήταν πολύ δύσκολη με βόμβες μολότοφ να πετάγονται εναντίον των αστυνομικών. Το υπουργείο θέλει να μάθει ακριβώς τι συνέβη και αν υπήρχαν παρανομίες. Είναι σημαντικό αυτό για να διασφαλιστεί η ασφάλεια στα πανεπιστήμια.",
+        "sourceName": "ERT News, News.gr, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/ypourgeio-paideias-se-apth-exete-dioria-48-oron-na-dosete-eksigiseis-gia-ta-sovara-epeisodia/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "news.gr",
+          "protagon.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/pikermi-nekros-o-pezos-pou-parasyrthike-apo-motosikleta-to-vrady-tis-paraskeyis-sti-l-marathonos/"
+            "url": "https://www.ertnews.gr/ert3/thessaloniki/ypourgeio-paideias-se-apth-exete-dioria-48-oron-na-dosete-eksigiseis-gia-ta-sovara-epeisodia/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/07/greece/tragodia-sto-pikermi-nekros-pezos-pou-parasyrthike-apo-motosikleta-sti-marathonos/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4069414/ipourgio-pedias-se-apth-echete-dioria-48-oron-na-dosete-exigisis-gia-ta-sovara-episodia.html"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/ypourgeio-paideias-se-apth-dwste-eksigiseis-gia-ta-epeisodia-dioria-48-wrwn-44343308371"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα με τον θάνατο ενός πεζού, γεγονός που εντάσσεται στα σοβαρά κοινωνικά ζητήματα που αφορούν την ασφάλεια στο δρόμο.",
+        "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια βίας που προκάλεσαν τον τραυματισμό ενός αστυνομικού και την παρέμβαση του Υπουργείου Παιδείας για εξηγήσεις, γεγονότα που σχετίζονται με την ασφάλεια στα πανεπιστήμια και τη διαχείριση της βίας.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g31a29979bb52b120fab587b75571a6d9c6efb159b1038675adc6e5a0d0268bd38ae80c968c98e321f4b0e96adc556c23803fb5966e30f1dbf5f7104c4e32e61e_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-07T06:31:21.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599z1sklicf1dq&amp;playlistId=v-dg8r8htiaq1d",
+        "publishedAt": "2026-02-07T14:54:17.000Z"
       },
       {
-        "id": "4efb73ab2076",
-        "title": "Θεσσαλονίκη: Μολότοφ και δακρυγόνα επί της Γ’ Σεπτεμβρίου – Διακοπή κυκλοφορίας στην Εγνατία και πάνω από 200 προσαγωγές",
-        "simpleTitle": "Επεισόδια στη Θεσσαλονίκη με Μολότοφ και Δακρυγόνα",
-        "simpleText": "Στη Θεσσαλονίκη, έγιναν επεισόδια έξω από την Πολυτεχνική Σχολή του Αριστοτελείου Πανεπιστημίου τα ξημερώματα. Μέσα από τη σχολή, άγνωστοι πέταξαν βόμβες μολότοφ εναντίον αστυνομικών, με αποτέλεσμα να τραυματιστεί ένας αστυνομικός. Έγιναν πολλές προσαγωγές, πάνω από 210, και προκλήθηκαν μεγάλες ζημιές σε αυτοκίνητα.\n\nΓια να διατηρηθεί η ασφάλεια, η κυκλοφορία διακόπηκε στην Εγνατία Οδό. Η κατάσταση στην περιοχή ήταν δύσκολη, καθώς η αστυνομία χρησιμοποίησε δακρυγόνα και κρότου-λάμψης. Μια νεαρή κοπέλα χρειάστηκε να μεταφερθεί στο νοσοκομείο λόγω αναπνευστικών προβλημάτων από τα χημικά.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-molotof-kai-dakrygona-epi-tis-g-septemvriou-diakopi-kykloforias-stin-egnatia-kai-pano-apo-200-prosagoges/",
+        "id": "11055e4b0ee9",
+        "title": "Μυστήριο στη Ρωσία με τον θάνατο ακόμα ενός πρώην αξιωματούχου: Βρέθηκε νεκρός στο μπάνιο του από πνιγμό",
+        "simpleTitle": "Μυστήριο με τον θάνατο πρώην αξιωματούχου στη Ρωσία",
+        "simpleText": "Ο πρώην αναπληρωτής υπουργός Δικαιοσύνης της Ρωσίας, Σεργκέι Τρόπιν, βρέθηκε νεκρός στο μπάνιο του διαμερίσματός του στη Μόσχα. Η σορός του βρέθηκε πρόσφατα και θεωρείται ότι πνίγηκε. Οι αρχές, μέχρι στιγμής, δεν έχουν ανακοινώσει αν υπάρχει εγκληματική ενέργεια πίσω από τον θάνατό του. Αυτός ο θάνατος είναι μέρος μιας σειράς περίεργων θανάτων που έχουν συμβεί σε δημόσιους υπαλλήλους στη Ρωσία τα τελευταία χρόνια. Από την αρχή της εισβολής στην Ουκρανία, περισσότεροι από 20 αξιωματούχοι έχουν χάσει τη ζωή τους υπό αδιευκρίνιστες συνθήκες. Οι πληροφορίες για το τι ακριβώς συνέβη δεν είναι ακόμα σαφείς.",
+        "sourceName": "ERT News, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/mystirio-sti-rosia-me-ton-thanato-akoma-enos-proin-aksiomatouxou-vrethike-nekros-sto-mpanio-tou-apo-pnigmo/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "protagon.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-molotof-kai-dakrygona-epi-tis-g-septemvriou-diakopi-kykloforias-stin-egnatia-kai-pano-apo-200-prosagoges/"
+            "url": "https://www.ertnews.gr/roi-idiseon/mystirio-sti-rosia-me-ton-thanato-akoma-enos-proin-aksiomatouxou-vrethike-nekros-sto-mpanio-tou-apo-pnigmo/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-epeisodia-me-molotof-kai-dakrygona-ekso-apo-to-apth-pano-apo-200-prosagoges-video/"
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/kosmos/rwsia-nekros-sto-banio-tou-vrethike-o-prwin-yfypourgos-dikaiosynis-44343308350"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια βίας, συγκρούσεις με την αστυνομία και σημαντικές επιπτώσεις στην ασφάλεια και την κοινωνική τάξη.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gdde1e8bea09fb6c0e099c2301b0e0068f61fa96e371dba9e0b94678aef6dccb1e8f870f5799f74e81d82054f087812f0ca6884d6070087d9220aac05abfa189a_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260207-DT0900-FAKALHS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260207-DT0900-FAKALHS.jpg",
-        "publishedAt": "2026-02-07T06:23:37.000Z"
-      },
-      {
-        "id": "abe82be0b6a7",
-        "title": "Ο Ντόναλντ Τραμπ υπέγραψε διάταγμα που περιλαμβάνει απειλή επιβολής δασμών σε χώρες που έχουν εμπορικές συναλλαγές με το Ιράν",
-        "simpleTitle": "Ο Τραμπ απειλεί με δασμούς για χώρες που συνεργάζονται με το Ιράν",
-        "simpleText": "Ο Ντόναλντ Τραμπ, πρόεδρος των ΗΠΑ, υπέγραψε ένα διάταγμα την Παρασκευή. Αυτό το διάταγμα απειλεί με 25% δασμούς σε χώρες που έχουν εμπορικές σχέσεις με το Ιράν. Η απόφαση αυτή ήρθε μετά από συνομιλίες που έγιναν στο Ομάν για το πυρηνικό πρόγραμμα του Ιράν. Μαζί μ' αυτές τις συνομιλίες, φαίνεται ότι οι σχέσεις μεταξύ ΗΠΑ και Ιράν βελτιώνονται.\n\nΟι χώρες που συνεχίζουν να συνεργάζονται με το Ιράν μπορεί να έχουν και άλλες οικονομικές ποινές. Αυτή η κατάσταση είναι σημαντική γιατί επηρεάζει τις διεθνείς σχέσεις και την οικονομία πολλών κρατών. Δεν ξέρουμε ακόμα πότε θα γίνουν οι επόμενες συνομιλίες, αλλά ο Τραμπ είπε ότι είναι πολύ καλές.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-ntonalnt-tramp-ypegrapse-diatagma-pou-perilamvanei-apeili-epivolis-dasmon-se-xores-pou-exoun-emporikes-synallages-me-to-iran/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/o-ntonalnt-tramp-ypegrapse-diatagma-pou-perilamvanei-apeili-epivolis-dasmon-se-xores-pou-exoun-emporikes-synallages-me-to-iran/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564066811/o-tramp-ypegrapse-diatagma-me-apeili-dasmon-gia-chores-poy-synallassontai-me-to-iran/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/07/world/o-tramp-ypegrapse-diatagma-gia-epivoli-dasmon-25-se-varos-xoron-poy-exoyn-emporikes-synall/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η ειδησεογραφία αφορά τις διεθνείς σχέσεις και την οικονομία, με επίκεντρο την απόφαση του Ντόναλντ Τραμπ για επιβολή δασμών και τις επιπτώσεις της στις σχέσεις ΗΠΑ-Ιράν.",
+        "categoryReason": "Η είδηση αναφέρεται στον θάνατο ενός πρώην αξιωματούχου στη Ρωσία υπό αδιευκρίνιστες συνθήκες, εγείροντας σοβαρά ερωτήματα σχετικά με την ασφαλή κατάσταση των δημόσιων υπαλλήλων στη χώρα, ειδικά δεδομένης της σειράς ύποπτων θανάτων τους τελευταίους μήνες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-07T04:53:57.000Z"
+        "publishedAt": "2026-02-07T14:50:36.000Z"
       },
       {
-        "id": "2b04d6ba6251",
-        "title": "Reuters: Ουκρανία και ΗΠΑ συζητούν σχέδιο για ειρηνευτική συμφωνία μέχρι τον Μάρτιο, δημοψήφισμα και ταυτόχρονα εκλογές",
-        "simpleTitle": "Σχέδιο για ειρηνευτική συμφωνία στην Ουκρανία",
-        "simpleText": "Η Ουκρανία και οι Ηνωμένες Πολιτείες μιλούν για μια ειρηνευτική συμφωνία με στόχο να είναι έτοιμη μέχρι τον Μάρτιο. Οι συζητήσεις γίνονται για να συμφωνήσουν οι δύο χώρες με τη Ρωσία. Αν γίνει συμφωνία, οι Ουκρανοί πολίτες θα ψηφίσουν σε δημοψήφισμα και στις εθνικές εκλογές ταυτόχρονα. Αυτό είναι πολύ σημαντικό γιατί οι εκλογές πρέπει να γίνουν με ασφάλεια. Οι Ουκρανικές αρχές ανησυχούν ότι οι εκεχειρίες δεν τηρούνται. Δεν ξέρουμε ακόμα πότε θα γίνει η επόμενη συνάντηση των διαπραγματευτών. Οι ΗΠΑ επιθυμούν να προχωρήσουν γρήγορα, αλλά υπάρχουν πολλές δυσκολίες που πρέπει να λυθούν.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/reuters-oukrania-kai-ipa-syzitoun-sxedio-gia-eirineytiki-symfonia-mexri-ton-martio-dimopsifisma-kai-taytoxrona-ekloges/",
+        "id": "01b746693c76",
+        "title": "Θεσσαλονίκη: Αφέθηκαν ελεύθεροι οι 313 προσαχθέντες για τα επεισόδια έξω από το ΑΠΘ",
+        "simpleTitle": "Ελεύθεροι οι 313 προσαχθέντες από τα επεισόδια στην Θεσσαλονίκη",
+        "simpleText": "Οι 313 άνθρωποι που προσαχθήκαν από την αστυνομία στη Θεσσαλονίκη είναι τώρα ελεύθεροι. Αυτό συνέβη μετά από επεισόδια που έγιναν τα ξημερώματα έξω από το Αριστοτέλειο Πανεπιστήμιο. Η Αστυνομία ανακοίνωσε ότι δεν βρήκαν αποδείξεις που να τους ενοχοποιούν. Τα επεισόδια ήταν βίαια, με χρήση μολότοφ εναντίον των αστυνομικών. Ένας αστυνομικός τραυματίστηκε και μεταφέρθηκε στο νοσοκομείο. Είναι σημαντικό να διατηρείται η ασφάλεια στην περιοχή και να αποφεύγονται τέτοια φαινόμενα στο μέλλον.",
+        "sourceName": "TA NEA, TO BHMA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-afethikan-eleytheroi-oi-313-prosaxthentes-gia-ta-epeisodia-ekso-apo-to-apth/",
         "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/reuters-oukrania-kai-ipa-syzitoun-sxedio-gia-eirineytiki-symfonia-mexri-ton-martio-dimopsifisma-kai-taytoxrona-ekloges/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/06/world/reuters-filodokso-sxedio-gia-eirineytiki-symfonia-metaksy-mosxas-kai-kievoy-mexri-ton-mart/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά διαπραγματεύσεις για μια ειρηνευτική συμφωνία στην Ουκρανία, ένα σοβαρό πολιτικό και κοινωνικό ζήτημα που σχετίζεται με τον πόλεμο και τις επιπτώσεις του.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-06T22:14:18.000Z"
-      },
-      {
-        "id": "b5f88b036632",
-        "title": "Ινδία: Τους 23 έφτασαν οι νεκροί από την έκρηξη σε παράνομο ανθρακωρυχείο",
-        "simpleTitle": "Ινδία: 23 νεκροί από έκρηξη σε παράνομο ανθρακωρυχείο",
-        "simpleText": "Στην Ινδία, 23 άνθρωποι έχασαν τη ζωή τους από μια έκρηξη σε ένα παράνομο ανθρακωρυχείο. Το γεγονός συνέβη στο κρατίδιο Μεγαλάγια. Χθες βρέθηκαν ακόμα τέσσερα πτώματα, αυξάνοντας τον αριθμό των νεκρών. Ο αρχηγός της αστυνομίας είπε ότι η έκρηξη πιθανόν προήλθε από πυροδότηση δυναμίτιδας. Τα ανθρακωρυχεία αυτά είναι επικίνδυνα και απαγορεύονται από το 2014, αλλά εξακολουθούν να λειτουργούν. Η κατάσταση είναι σοβαρή, καθώς οι τοπικές κοινότητες ανησυχούν για τη μόλυνση και την ασφάλεια. Οι διασώστες θα συνεχίσουν τις επιχειρήσεις και αύριο.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/india-tous-23-eftasan-oi-nekroi-apo-tin-ekriksi-se-paranomo-anthrakoryxeio/",
-        "sourceDomains": [
-          "ertnews.gr",
+          "tanea.gr",
+          "tovima.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/india-tous-23-eftasan-oi-nekroi-apo-tin-ekriksi-se-paranomo-anthrakoryxeio/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/07/greece/thessaloniki-afethikan-eleytheroi-oi-313-prosaxthentes-gia-ta-epeisodia-ekso-apo-to-apth/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/07/society/eleytheroi-kai-oi-313-prosaxthentes-meta-ta-epeisodia-ekso-apo-to-apth/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4069069/stous-23-i-nekri-apo-tin-ekrixi-se-paranomo-anthrakorichio-tis-megalagia-tis-indias.html"
+            "url": "https://www.news.gr/ellada/article/4069411/afethikan-eleftheri-i-313-prosachthentes-gia-ta-episodia-exo-apo-to-apth.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σοβαρή τραγωδία με 23 νεκρούς από έκρηξη σε παράνομο ανθρακωρυχείο, η οποία επισημαίνει σοβαρά ζητήματα σχετικά με την ασφάλεια και το περιβάλλον.",
+        "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια και τις προσαγωγές από την αστυνομία, επηρεάζοντας την ασφάλεια και τη δημόσια τάξη.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gfa7768ce8b7ad1492ae507975bf315384fc03fa39c8e794d78d0f44d467d5e3489daf0a5efdc36329224f613255ff3a17b354705767e7179daabe158f3f10c46_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-07T14:32:40.000Z"
+      },
+      {
+        "id": "72c15cae3e86",
+        "title": "Αστυνομία και σκύλος-ιχνηλάτης εντοπίζουν 15χρονο με αυτισμό μέσα σε χιονοθύελλα στο Maryland",
+        "simpleTitle": "Σκύλος και αστυνομία σώζουν 15χρονο με αυτισμό από χιονοθύελλα",
+        "simpleText": "Στο Maryland, μια χειμερινή καταιγίδα έφερε μεγάλα χιόνια και κρύο. Ένας 15χρονος με αυτισμό βγήκε από το σπίτι του χωρίς να το καταλάβει η οικογένειά του. Η αστυνομία και ένας σκύλος-ιχνηλάτης συνεργάστηκαν για να τον βρουν. Ήταν σημαντικό να δράσουν γρήγορα, γιατί οι καιρικές συνθήκες ήταν δύσκολες. Ευτυχώς, κατάφεραν να τον εντοπίσουν και να τον φέρουν πίσω με ασφάλεια στην οικογένειά του. Αυτό δείχνει πόσο σημαντική είναι η συνεργασία για τη βοήθεια σε καταστάσεις ανάγκης.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή κατάσταση έκτακτης ανάγκης όπου η αστυνομία και ένας σκύλος-ιχνηλάτης εργάστηκαν για την ασφαλή ανεύρεση ενός 15χρονου με αυτισμό μέσα σε δύσκολες καιρικές συνθήκες.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g5c0bd8c2d6c207a3ddf85a630503e3e5b1a1654703231d45ef027e764077a56b2a0857ae82671f24735de3cba280c989f1cd2a8e6e6f1e13ac9a07f337234806_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-07T07:52:00.000Z"
+      },
+      {
+        "id": "3237a18de9c7",
+        "title": "Ποιο γιαούρτι είναι το καλύτερο; Οδηγός επιλογής με βάση την υγεία σου",
+        "simpleTitle": "Πώς να διαλέξεις το καλύτερο γιαούρτι",
+        "simpleText": "Το γιαούρτι είναι πολύ καλό τρόφιμο που μπορεί να βοηθήσει στην υγεία μας. Υπάρχουν πολλά είδη γιαουρτιού. Για κάθε άνθρωπο, κάποιο μπορεί να είναι καλύτερο. Είναι σημαντικό να διαλέγουμε το σωστό γιαούρτι, ανάλογα με τους στόχους μας. Μην αγοράζεις γιαούρτια με πολύ ζάχαρη ή τεχνητά γλυκαντικά. Αυτά τα γιαούρτια δεν είναι υγιεινά. Είναι καλύτερα να προτιμάς φυσικά γιαούρτια που θα σου δώσουν θρεπτικά συστατικά. Έτσι θα είναι ωφέλιμα για τον οργανισμό σου.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31620-poio-giaourti-kalitero/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31620-poio-giaourti-kalitero/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το άρθρο αναφέρεται στην επιλογή υγιεινών τροφίμων, συγκεκριμένα του γιαουρτιού, και τις επιπτώσεις της διατροφής στην υγεία, που είναι σοβαρά ζητήματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-06T21:56:00.000Z"
+        "publishedAt": "2026-02-06T16:34:33.000Z"
       }
     ],
     "happy": [
       {
-        "id": "6e19b458a324",
-        "title": "Εορτολόγιο: Ποιοι γιορτάζουν στις 7 Φεβρουαρίου",
-        "simpleTitle": "Γιορτές στις 7 Φεβρουαρίου",
-        "simpleText": "Στις 7 Φεβρουαρίου γιορτάζουν οι Όσιοι Παρθένιος και Λουκάς. Αυτή η μέρα είναι Σάββατο. Οι άνθρωποι που έχουν αυτά τα ονόματα, όπως Παρθένιος και Λουκία, γιορτάζουν και πανηγυρίζουν. Ο Όσιος Παρθένιος ήταν καλός άνθρωπος που βοηθούσε τους άλλους. Ήταν γνωστός για τα θαύματά του και πολλοί τον τιμούν για τη βοήθεια που προσέφερε. Είναι σημαντικό να θυμόμαστε αυτούς τους αγίους και την καλοσύνη τους. Γιορτάζουμε τη μέρα αυτή για να δείξουμε την αγάπη μας προς τους ανθρώπους γύρω μας.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-7-fevrouariou/",
+        "id": "9ce74f433000",
+        "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
+        "simpleTitle": "Φινλανδία: Ο τρόπος ζωής φέρνει ευτυχία",
+        "simpleText": "Η Φινλανδία είναι γνωστή για την ευτυχία των ανθρώπων της. Για οκτώ χρόνια, οι Φινλανδοί είναι στην κορυφή της Παγκόσμιας Έκθεσης Ευτυχίας. Αυτό συμβαίνει γιατί θεωρούν την ευτυχία ως τρόπο ζωής και όχι απλώς ως στόχο. Οι ίδιοι λένε ότι ένα μυστικό της ευτυχίας τους είναι οι χαμηλές προσδοκίες, που τους βοηθούν να είναι ικανοποιημένοι από την καθημερινότητά τους. Αυτή η νοοτροπία τους επιτρέπει να ζουν ήρεμα και μέτρια, δημιουργώντας μια ατμόσφαιρα ευτυχίας.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
         "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
+          "thehappynews.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-7-fevrouariou/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/07/greece/eortologio-poioi-giortazoun-simera-7-fevrouariou-2/"
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά τις γιορτές και την τιμή που αποδίδεται στους αγίους Παρθένιο και Λουκά, προάγοντας θετικά συναισθήματα και γιορταστικές ατμόσφαιρες.",
+        "categoryReason": "Η είδηση αναφέρεται στην ευτυχία των Φινλανδών και τονίζει τις θετικές πτυχές της ζωής τους, κάνοντάς την ιδανική για την κατηγορία 'happy'.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-07T06:02:44.000Z"
+        "publishedAt": "2026-02-06T09:42:00.000Z"
+      },
+      {
+        "id": "dc09633d0e1e",
+        "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
+        "simpleTitle": "Γιατί είναι καλό να ξυπνάμε νωρίς;",
+        "simpleText": "Είναι συχνά δύσκολο να ξυπνάμε το πρωί. Αλλά η επιστήμη δείχνει ότι οι πρώτες ώρες της ημέρας είναι πολύ καλές για εμάς. Όταν ξυπνάμε νωρίς, νιώθουμε πιο χαρούμενοι και πιο ήρεμοι. Αυτό συμβαίνει επειδή ο κανονικός ύπνος μας δίνει περισσότερη ενέργεια και καλύτερη διάθεση. Όταν έχουμε καλό ύπνο, μπορούμε να συγκεντρωθούμε καλύτερα και να κάνουμε τα πράγματα της μέρας μας πιο εύκολα. Είναι καλό να κοιμόμαστε καλά για να είμαστε υγιείς και ευτυχισμένοι.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση εξηγεί πώς το νωπό ξύπνημα και ο ποιοτικός ύπνος συμβάλλουν στην καλή διάθεση και υγεία, προάγοντας θετικά συναισθήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-05T13:02:00.000Z"
+      },
+      {
+        "id": "854cba3d8baa",
+        "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
+        "simpleTitle": "Τρίχρονος Τζουντ σπάει ρεκόρ στο σνούκερ",
+        "simpleText": "Ένας τρίχρονος από το Μάντσεστερ, ο Τζουντ Όουενς, έκανε κάτι εκπληκτικό στον κόσμο του σνούκερ. Πριν κλείσει τα τρία του χρόνια, έχει πετύχει δύο παγκόσμια ρεκόρ Guinness. Αυτή η επιτυχία είναι πολύ σπουδαία, επειδή δείχνει ότι το ταλέντο δεν έχει ηλικία. Ο Τζουντ παίζει με ψυχραιμία και ακρίβεια, κάτι που οι περισσότεροι μεγάλοι παίκτες δυσκολεύονται να κάνουν. Ο κόσμος τον θαυμάζει και είναι περήφανος γι' αυτόν. Δεν ξέρουμε αν θα πετύχει ακόμα περισσότερα στο μέλλον.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση αφορά ένα παιδί θαύμα που πετυχαίνει ρεκόρ Guinness στο σνούκερ, κάτι που προάγει θετικά συναισθήματα και θαυμασμό για την εξαιρετική του ικανότητα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-05T08:58:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "35a5bea4d80c",
-        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Όσα είδαμε στην τελετή έναρξης – Από το πάρτι της Italo-disco στις αποδοκιμασίες",
-        "simpleTitle": "Τελετή Έναρξης Χειμερινών Ολυμπιακών Αγώνων",
-        "simpleText": "Στις 6 Φεβρουαρίου έγινε η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων στο Μιλάνο της Ιταλίας, στο στάδιο Σαν Σίρο. Η εκδήλωση είχε πολλούς διάσημους καλλιτέχνες και ήταν πολύ εντυπωσιακή. Οι θεατές παρακολούθησαν ένα μεγάλο πάρτι με μουσική και χορό. Υπήρξαν όμως και αποδοκιμασίες λόγω πολιτικών θεμάτων, που επηρεάζουν τον κόσμο. Είναι σημαντικό να θυμόμαστε ότι οι Ολυμπιακοί Αγώνες φέρνουν σε επαφή ανθρώπους από πολλές χώρες, παρά τις δυσκολίες.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2026/02/07/sports/xeimerinoi-olympiakoi-agones-osa-eidame-stin-teleti-enarksis-apo-to-parti-tis-italo-disco-stis-apodokimasies/",
+        "id": "8f8bd93f1c93",
+        "title": "ΠΑΟΚ – Ολυμπιακός 6-17: Κέρδισε άνετα και στρέφει την προσοχή του στο μεγάλο ματς με τη Ραντνίσκι",
+        "simpleTitle": "Ολυμπιακός νίκησε εύκολα τον ΠΑΟΚ",
+        "simpleText": "Ο Ολυμπιακός κέρδισε τον ΠΑΟΚ στο πόλο με σκορ 17-6. Ο αγώνας έγινε το Σάββατο, 7 Φεβρουαρίου, στο Ποσειδώνιο κολυμβητήριο στη Θεσσαλονίκη. Η ομάδα του Ολυμπιακού ξεκίνησε καλά, αλλά στη συνέχεια πήρε μεγάλη διαφορά. Αυτή η νίκη είναι σημαντική γιατί δείχνει την καλή πορεία του Ολυμπιακού στο πρωτάθλημα, αφού είναι η 13η νίκη του σε ισάριθμους αγώνες. Τώρα, η ομάδα πρέπει να προετοιμαστεί για το πρωτάθλημα ευρωπαϊκών ομάδων, όπου θα παίξει με την Ραντνίσκι την Τετάρτη, 11 Φεβρουαρίου, στο Πειραιά.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/07/sports/othersports/paok-olympiakos-6-17-kerdise-aneta-kai-strefei-tin-prosoxi-tou-sto-megalo-mats-me-ti-rantniski/",
         "sourceDomains": [
-          "tovima.gr",
-          "protagon.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/07/sports/xeimerinoi-olympiakoi-agones-osa-eidame-stin-teleti-enarksis-apo-to-parti-tis-italo-disco-stis-apodokimasies/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/galleries/xeimerinoi-olybiakoi-zoum-stin-teleti-enarksis-44343308171"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/07/sports/othersports/paok-olympiakos-6-17-kerdise-aneta-kai-strefei-tin-prosoxi-tou-sto-megalo-mats-me-ti-rantniski/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων αποτελεί σημαντική αθλητική εκδήλωση που συνδέεται άμεσα με τους Ολυμπιακούς Αγώνες και την παρουσία διεθνών αθλητών.",
+        "categoryReason": "Η είδηση αφορά αγώνα πόλο μεταξύ ΠΑΟΚ και Ολυμπιακού, εστιάζοντας στα αποτελέσματα και την πορεία των ομάδων στο πρωτάθλημα. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-07T05:52:54.000Z"
+        "publishedAt": "2026-02-07T15:30:14.000Z"
       },
       {
-        "id": "ef08effccbfa",
-        "title": "Η φαντασμαγορική τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων 2026",
-        "simpleTitle": "Τελετή έναρξης Χειμερινών Ολυμπιακών Αγώνων 2026",
-        "simpleText": "Η τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων έγινε στο Μιλάνο και την Κορτίνα. Περισσότεροι από 2.900 αθλητές συμμετείχαν σε 16 διαφορετικά αθλήματα. Η εκδήλωση ήταν εντυπωσιακή και μαγευτική. Ο Πρωθυπουργός Κυριάκος Μητσοτάκης παραβρέθηκε στην τελετή και έκανε αστείο σχόλιο για τον καιρό. Με αφορμή τη βροχή από προηγούμενους Αγώνες, είπε ότι αυτή τη φορά δεν έβρεχε. Η εκδήλωση είναι σημαντική γιατί συγκεντρώνει ανθρώπους από όλο τον κόσμο και προάγει τον αθλητισμό.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2026/02/06/sports/se-ekseliksi-i-teleti-enarksis-ton-xeimerinon-olympiakon-agonon-2026/",
+        "id": "d0edec859031",
+        "title": "Η αποστολή του Ολυμπιακού για το ντέρμπι «αιωνίων» με τον Παναθηναϊκό",
+        "simpleTitle": "Ολυμπιακός και Παναθηναϊκός ετοιμάζονται για το ντέρμπι",
+        "simpleText": "Ο Ολυμπιακός ετοιμάζεται για το μεγάλο παιχνίδι με τον Παναθηναϊκό. Το παιχνίδι θα γίνει την Κυριακή, 8 Φεβρουαρίου, στο γήπεδο «Γ. Καραϊσκάκης». Αυτός ο αγώνας είναι πολύ σημαντικός γιατί είναι ντέρμπι, δηλαδή παίζουν οι δύο πιο μεγάλες ομάδες. Ο προπονητής Χοσέ Λουίς Μεντιλίμπαρ ανακοίνωσε τις επιλογές του για την ομάδα. Ο Αγιούμπ Ελ Κααμπί επιστρέφει στην αποστολή. Όλοι περιμένουν με αγωνία να δουν τον αγώνα.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/07/sports/football/i-apostoli-tou-olympiakou-gia-to-ntermpi-aionion-me-ton-panathinaiko/",
         "sourceDomains": [
-          "tovima.gr",
-          "protagon.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/06/sports/se-ekseliksi-i-teleti-enarksis-ton-xeimerinon-olympiakon-agonon-2026/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/sto-milano-o-prwthypourgos-gia-tin-teleti-enarksi-twn-xeimerinwn-olybiakwn-agwnwn-44343308198"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/07/sports/football/i-apostoli-tou-olympiakou-gia-to-ntermpi-aionion-me-ton-panathinaiko/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά την τελετή έναρξης των Χειμερινών Ολυμπιακών Αγώνων, που αφορά αθλητικές διοργανώσεις και τη συμμετοχή αθλητών σε διάφορα αθλήματα.",
+        "categoryReason": "Η είδηση αναφέρεται σε ένα σημαντικό αθλητικό γεγονός, συγκεκριμένα το ντέρμπι μεταξύ του Ολυμπιακού και του Παναθηναϊκού, που είναι κεντρικό θέμα στον αθλητισμό. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g3dcce34248dc393fe8c3bfb6e47d0cebe437f54b17154d556f455546c7a7d1a04e31d0cdc593fef54082f5608e7d5b710a3aa82cc286aabd1de903768ac7dff9_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g590909fbf7aabf907a85d0ed4d14465f110cd1ab237d134119cf828c19c16cd03d236b4e59b3200e44a24a48d77217d53e5acb5d9b52160edc72ba03a7d6a622_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-02-06T20:11:18.000Z"
+        "publishedAt": "2026-02-07T15:17:34.000Z"
       }
     ],
     "screen": [],
