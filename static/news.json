@@ -1,41 +1,267 @@
 {
-  "generatedAt": "2026-02-08T15:44:23.156Z",
+  "generatedAt": "2026-02-09T08:10:38.734Z",
   "articles": [
     {
-      "id": "235670671b9d",
-      "title": "Υπόθεση Επσταϊν: Παραιτήθηκε ο επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού",
-      "simpleTitle": "Παραιτήθηκε ο σύμβουλος του πρωθυπουργού της Βρετανίας",
-      "simpleText": "Ο Μόργκαν ΜακΣουίνι, ο επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού Κιρ Στάρμερ, παραιτήθηκε. Η είδηση ήρθε από τα βρετανικά ΜΜΕ όπως το Sky News και η εφημερίδα The Guardian. Ο ΜακΣουίνι ήταν ένας από τους καλύτερους συμβούλους του Στάρμερ και τον βοήθησε να πετύχει στις εκλογές του Ιουλίου 2024. Δεν έχουν ανακοινωθεί οι λόγοι για την παραίτησή του. Αυτή η αλλαγή μπορεί να επηρεάσει την κυβέρνηση και τις επόμενες πολιτικές αποφάσεις.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/world/564067693/ypothesi-epstain-paraitithike-o-epikefalis-toy-epiteleioy-toy-vretanoy-prothypoyrgoy/",
+      "id": "6a16411f2e72",
+      "title": "Σε κρίσιμη κατάσταση στη ΜΕΘ το κοριτσάκι που ανασύρθηκε από συντριβάνι – Στον εισαγγελέα σήμερα οι γονείς του",
+      "simpleTitle": "** Σε κρίσιμη κατάσταση το κοριτσάκι που έπεσε σε συντριβάνι",
+      "simpleText": "** Ένα κοριτσάκι 2,5 ετών βρίσκεται σε πολύ σοβαρή κατάσταση μετά από ατύχημα στην Καλλιθέα. Το γεγονός συνέβη το βράδυ της Κυριακής, όταν το παιδί έπεσε σε σιντριβάνι στην πλατεία Κύπρου. Ο πατέρας του το είχε αφήσει χωρίς προσοχή και το κορίτσι έμεινε κάτω από το νερό για περίπου δέκα λεπτά.\n\nΆνθρωποι που περνούσαν από εκεί βοήθησαν να το βγάλουν από το νερό και κάλεσαν βοήθεια. Οι γιατροί στο νοσοκομείο πάλεψαν για να το σώσουν και κατάφεραν να το επαναφέρουν. Οι γονείς του παιδιού έχουν συλληφθεί και θα πάνε στον εισαγγελέα για παραμέληση ανηλίκου. Αυτό το γεγονός είναι πολύ σοβαρό και χρειάζεται προσοχή από όλους μας όταν είμαστε με μικρά παιδιά.",
+      "sourceName": "Kathimerini, TA NEA, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/society/564068023/se-krisimi-katastasi-sti-meth-to-koritsaki-poy-anasyrthike-apo-syntrivani-ston-eisaggelea-simera-oi-goneis-toy/",
       "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564068023/se-krisimi-katastasi-sti-meth-to-koritsaki-poy-anasyrthike-apo-syntrivani-ston-eisaggelea-simera-oi-goneis-toy/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/09/greece/kallithea-se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-ston-eisaggelea-simera-oi-goneis/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/se-krisimi-katastasi-to-koritsaki-pou-epese-se-syntrivani-stin-kallithea-ston-eisaggelea-oi-goneis-44343308719"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα και την κατάσταση ενός μικρού παιδιού, προκαλώντας ανησυχία και ερωτήματα σχετικά με την παραμέληση από τους γονείς του.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.megatv.com/embed/?p=20202262220",
+      "publishedAt": "2026-02-09T07:59:17.000Z"
+    },
+    {
+      "id": "3ecbec60a25e",
+      "title": "Ευρυτανία: Νεκρός 59χρονος οδηγός που έπεσε σε χαράδρα 300 μέτρων",
+      "simpleTitle": "59χρονος οδηγός νεκρός σε τροχαίο στην Ευρυτανία",
+      "simpleText": "Ένας 59χρονος άνδρας έχασε τη ζωή του όταν το αυτοκίνητό του έπεσε σε χαράδρα 300 μέτρων, στον Προυσό Ευρυτανίας. Το τροχαίο συνέβη το βράδυ της Κυριακής, 8 Φεβρουαρίου, κατά τη διάρκεια της διαδρομής προς Τόρνο. Οι διασώστες εργάστηκαν σκληρά για να βρουν τον οδηγό και χρειάστηκαν πολλές ώρες λόγω της δυσκολίας του εδάφους. Όταν τον ανέσυραν, ήταν χωρίς αισθήσεις και μεταφέρθηκε στο νοσοκομείο. Η αστυνομία ψάχνει να βρει περισσότερες πληροφορίες για το πώς συνέβη το ατύχημα. Δεν ξέρουμε ακόμα αν υπήρχαν και άλλοι επιβάτες στο αυτοκίνητο.",
+      "sourceName": "ERT News, Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/eyrytania-nekros-59xronos-odigos-pou-epese-se-xaradra-300-metron/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/eyrytania-nekros-59xronos-odigos-pou-epese-se-xaradra-300-metron/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564068074/eyrytania-ich-epese-se-gkremo-300-metron-nekros-o-odigos/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/09/society/eyrytania-thanatiforo-troxaio-ix-epese-se-gkremo-300-metron/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο περιστατικό που είχε ως αποτέλεσμα τον θάνατο ενός ανθρώπου, γεγονός που σχετίζεται με θέματα ασφάλειας και υγείας.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g4a4373955df8fd113f9a7ab5c0e927c3005d08d8493d7900b56e4e9c5eefeda7919b1f7e50db1e378e94d485333fe6a2a347d05b2047522933594910de46be89_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-09T07:57:37.000Z"
+    },
+    {
+      "id": "3dba6317382f",
+      "title": "Η Ουκρανία βρίσκεται πίσω από την απόπειρα δολοφονίας του Ρώσου στρατηγού, ισχυρίζεται η FSB",
+      "simpleTitle": "Ουκρανία και Πολωνία κατηγορούνται για απόπειρα δολοφονίας Ρώσου στρατηγού",
+      "simpleText": "Η Ρωσία ισχυρίζεται ότι η Ουκρανία σχεδίασε μια απόπειρα δολοφονίας κατά του στρατηγού Βλαντίμιρ Αλεξέγεφ. Αυτή η δήλωση ήρθε από την Υπηρεσία Ασφαλείας της Ρωσίας (FSB). Οι ρωσικές αρχές είπαν ότι κάποιος από την Πολωνία βοήθησε στη στρατολόγηση του δράστη. Η επίθεση έγινε στη Μόσχα, όπου ο στρατηγός πυροβολήθηκε και χρειάστηκε να υποβληθεί σε εγχείρηση.\n\nΟι Ουκρανοί αρνούνται ότι έχουν οποιαδήποτε σχέση με την υπόθεση. Η Ρωσία κατηγορεί την Ουκρανία ότι ήθελε να σαμποτάρει τις συνομιλίες για ειρήνη μεταξύ των χωρών τους. Δεν έχουν παρουσιαστεί αποδείξεις για αυτές τις κατηγορίες μέχρι τώρα.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-oukrania-vrisketai-piso-apo-tin-apopeira-dolofonias-tou-rosou-stratigou-isxyrizetai-i-fsb/",
+      "sourceDomains": [
+        "ertnews.gr",
         "kathimerini.gr",
         "news.gr"
       ],
       "sources": [
         {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/i-oukrania-vrisketai-piso-apo-tin-apopeira-dolofonias-tou-rosou-stratigou-isxyrizetai-i-fsb/"
+        },
+        {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564067693/ypothesi-epstain-paraitithike-o-epikefalis-toy-epiteleioy-toy-vretanoy-prothypoyrgoy/"
+          "url": "https://www.kathimerini.gr/world/564068137/rosia-i-oykrania-vrisketai-piso-apo-tin-apopeira-dolofonias-toy-rosoy-stratigoy/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4070033/paretithike-o-epikefalis-tou-epiteliou-tou-vretanou-prothipourgou-kir-starmer.html"
+          "url": "https://www.news.gr/kosmos/article/4070277/i-fsb-lei-oti-i-oukrania-vriskete-piso-apo-tin-apopira-dolofonias-tou-rosou-stratigou.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η παραίτηση του επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού σχετίζεται με πολιτικά ζητήματα και μπορεί να επηρεάσει την κυβέρνηση και τις πολιτικές αποφάσεις, γι' αυτό εντάσσεται στις σοβαρές ειδήσεις.",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και στρατηγικές εντάσεις μεταξύ Ρωσίας και Ουκρανίας, με κατηγορίες δολοφονίας και ύποπτες σχέσεις, που ενδεχομένως επηρεάζουν τις ειρηνευτικές συνομιλίες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-08T14:55:55.000Z"
+      "publishedAt": "2026-02-09T07:49:04.000Z"
     },
     {
-      "id": "0153cb3ecf36",
-      "title": "Έρχονται ξανά βροχές και καταιγίδες – Με τι καιρό θα κάνουμε Τσικνοπέμπτη",
-      "simpleTitle": "Έρχεται βροχή την Τσικνοπέμπτη",
-      "simpleText": "Ο καιρός σήμερα είναι καλός, αλλά από αύριο, 9 Φεβρουαρίου, αναμένονται βροχές και καταιγίδες σε πολλές περιοχές της Ελλάδας. Αυτό θα συνεχιστεί και την Τσικνοπέμπτη, με τον καιρό να είναι άστατος. Αρχικά, οι βροχές θα ξεκινήσουν από τη Δυτική και τη Βόρεια Ελλάδα και μετά θα επηρεάσουν και άλλες περιοχές. Οι μετεωρολόγοι λένε ότι δεν περιμένουμε πολύ έντονα φαινόμενα, αλλά πρέπει να είμαστε προσεκτικοί. Οι βροχές θα διαρκέσουν και το Σαββατοκύριακο, οπότε καλό είναι να έχουμε υπόψη μας τον καιρό αν σχεδιάζουμε να βγούμε έξω.",
+      "id": "263dd078df50",
+      "title": "Τουλάχιστον 30 νεκροί σε τροχαίο στη Νιγηρία",
+      "simpleTitle": "Τουλάχιστον 30 άτομα σκοτώθηκαν από τροχαίο στη Νιγηρία",
+      "simpleText": "Στη Νιγηρία, τουλάχιστον 30 άνθρωποι έχασαν τη ζωή τους σε ένα σοβαρό τροχαίο δυστύχημα που έγινε το πρωί της Κυριακής στην πολιτεία Κάνο. Ένα μεγάλο φορτηγό συγκρούστηκε με άλλο όχημα εξαιτίας κακής οδήγησης. Σε αυτή τη χώρα, τα τροχαία είναι συχνά, καθώς οι δρόμοι δεν είναι σε καλή κατάσταση και δεν τηρούνται οι κανόνες κυκλοφορίας.\n\nΟ κυβερνήτης της πολιτείας ανακοίνωσε ότι οι τραυματίες θα λάβουν δωρεάν ιατρική βοήθεια και ότι θα στηριχθούν οι οικογένειές τους. Είναι σημαντικό οι οδηγοί, ειδικά των βαρέων οχημάτων, να οδηγούν προσεκτικά για να αποφευχθούν παρόμοια ατυχήματα στο μέλλον.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/toulaxiston-30-nekroi-se-troxaio-sti-nigiria/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/toulaxiston-30-nekroi-se-troxaio-sti-nigiria/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564068092/nigiria-toylachiston-30-nekroi-se-trochaio-dystychima/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/09/world/toylaxiston-30-nekroi-se-polynekro-troxaio-dystyxima-sti-nigiria/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρό τροχαίο δυστύχημα με πολλούς θανάτους και αναδεικνύει ζητήματα οδικής ασφάλειας, συντήρησης υποδομών και κοινωνικών επιπτώσεων, τα οποία είναι κρίσιμα ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g9c59aef12a2421cf4fb32bbdd959bf4b066c3739557ed42cceb149a0f6fa19b0565f8023b4f5ceb5d7b4ffd4f9e99b394502151af75a1616a41b4682c97af1ec_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-09T07:08:42.000Z"
+    },
+    {
+      "id": "ff4931dcb3f3",
+      "title": "Σε κρίσιμη κατάσταση το κοριτσάκι που έπεσε σε σιντριβάνι στην Καλλιθέα – Οι γιατροί έδιναν μάχη επί 40 λεπτά για να κρατηθεί στη ζωή",
+      "simpleTitle": "**Τίτλος: Κρίσιμη κατάσταση για κοριτσάκι που έπεσε σε σιντριβάνι**",
+      "simpleText": "Κοριτσάκι διακομίστηκε σε κρίσιμη κατάσταση στο νοσοκομείο Παίδων «Αγλαΐα Κυριακού» στην Καλλιθέα, αφού έπεσε σε σιντριβάνι. Το περιστατικό έγινε το βράδυ της Κυριακής, ενώ το παιδί ήταν με τους γονείς του στην πλατεία Κύπρου και ξαφνικά χάθηκε από την προσοχή τους. Ο πατέρας το βρήκε μέσα στο σιντριβάνι. Για σαράντα λεπτά οι γιατροί προσπαθούσαν να το κρατήσουν στη ζωή.\n\nΗ κατάσταση του παιδιού είναι σοβαρή και έχει διασωληνωθεί. Οι γονείς του, ηλικίας 26 και 23 ετών, κρατούνται από την αστυνομία για παραμέληση και θα οδηγηθούν στον εισαγγελέα. Το γεγονός αυτό είναι πολύ σοβαρό και όλοι ελπίζουν να γίνει καλά το κοριτσάκι.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-stin-kallithea-oi-giatroi-edinan-maxi-epi-40-lepta-gia-na-kratithei-sti-zoi/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-stin-kallithea-oi-giatroi-edinan-maxi-epi-40-lepta-gia-na-kratithei-sti-zoi/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4070221/ston-isangelea-i-gonis-tis-mikris-pou-epese-se-sintrivani-stin-kallithea.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το περιστατικό αφορά σε σοβαρό ατύχημα ενός μικρού παιδιού που είναι σε κρίσιμη κατάσταση, με αναφορές σε παραμέληση γονέων και ιατρική παρέμβαση, κάτι που συνδέεται με σημαντικά κοινωνικά ζητήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/ertnews-20260209061459-aac-h264-microsoft-1080-5000kbps.mp4",
+      "publishedAt": "2026-02-09T07:06:24.000Z"
+    },
+    {
+      "id": "4a739385caa0",
+      "title": "Ιαπωνία: Αλματώδης άνοδος στο χρηματιστήριο του Τόκιο μετά τον εκλογικό θρίαμβο της Τακαΐτσι",
+      "simpleTitle": "Ανοδος του χρηματιστηρίου στο Τόκιο μετά τις εκλογές της Τακαΐτσι",
+      "simpleText": "Το χρηματιστήριο του Τόκιο σημείωσε μεγάλη άνοδο σήμερα, με κέρδη περίπου 5%. Αυτό έγινε μετά από την εκλογική νίκη της πρωθυπουργού Σανάε Τακαΐτσι. Η Τακαΐτσι υποσχέθηκε περισσότερα χρήματα από το κράτος και μείωση φόρων. Αυτές οι αλλαγές μπορεί να βοηθήσουν την οικονομία, αν και κάποιοι ειδικοί ανησυχούν για το πώς θα εφαρμοστούν. Ο δείκτης Nikkei αυξήθηκε στις 56.694 μονάδες και για λίγο πέρασε τις 57.000 μονάδες. Η νίκη της Τακαΐτσι είναι σημαντική, γιατί η κυβέρνησή της έχει τώρα ισχυρή πλειοψηφία στη Βουλή.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/iaponia-almatodis-anodos-sto-xrimatistirio-tou-tokio-meta-ton-eklogiko-thriamvo-tis-takaitsi/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/iaponia-almatodis-anodos-sto-xrimatistirio-tou-tokio-meta-ton-eklogiko-thriamvo-tis-takaitsi/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/09/economy/iaponia-to-xrimatistirio-apogeionetai-meta-ton-eklogiko-thriamvo-tis-prothypoyrgoy-takaits/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/oikonomia/article/4070167/to-chrimatistirio-tou-tokio-apogionete-meta-ton-eklogiko-thriamvo-tis-prothipourgou-taka%ce%90tsi.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την οικονομική κατάσταση και τις πολιτικές εξελίξεις στην Ιαπωνία μετά την εκλογική νίκη της πρωθυπουργού Σανάε Τακαΐτσι, οι οποίες ενδέχεται να έχουν σοβαρές επιπτώσεις στην οικονομία και τη χρηματιστηριακή αγορά.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-09T06:35:47.000Z"
+    },
+    {
+      "id": "ee6ffefc55a9",
+      "title": "ΠΑΣΟΚ: Πρώτο βήμα ­«Διεύρυνσης και Συμπαράταξης» – Ποια στελέχη βρίσκονται στην λίστα Σκανδαλίδη",
+      "simpleTitle": "ΠΑΣΟΚ: Νέα βήματα για συνεργασία και διεύρυνση",
+      "simpleText": "Σήμερα, 9 Φεβρουαρίου, το ΠΑΣΟΚ ανακοίνωσε μια νέα λίστα με στελέχη που θα συμμετάσχουν στην εκλογική του προσπάθεια. Αυτά τα πρόσωπα, που δεν είναι όλοι υποψήφιοι, θα βοηθήσουν το κόμμα να γίνει πιο δυνατό ενόψει των εκλογών το 2027. Στη λίστα δεν θα υπάρχουν εν ενεργεία βουλευτές, αλλά θα συμμετάσχουν πρώην βουλευτές και υπουργοί. Πολλοί από αυτούς προέρχονται από την προηγούμενη κυβέρνηση του ΣΥΡΙΖΑ και τώρα επιστρέφουν στο ΠΑΣΟΚ.\n\nΑυτή η κίνηση είναι σημαντική γιατί δείχνει ότι το ΠΑΣΟΚ θέλει να ενωθεί με προοδευτικούς πολίτες και να αποτελέσει εναλλακτική λύση απέναντι στη Νέα Δημοκρατία. Όλοι αυτοί οι άνθρωποι θα προσπαθήσουν να φέρουν νέες ιδέες και συνεργασίες που μπορούν να κάνουν τη διαφορά στην πολιτική σκηνή της χώρας.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/09/politics/pasok-proto-vima-dieyrynsis-kai-symparataksis-poia-stelexi-vriskontai-stin-lista-skandalidi/",
+      "sourceDomains": [
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/09/politics/pasok-proto-vima-dieyrynsis-kai-symparataksis-poia-stelexi-vriskontai-stin-lista-skandalidi/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/09/politics/pasok-poia-onomata-vriskontai-sti-lista-skandalidi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη νέα στρατηγική του ΠΑΣΟΚ για τη διεύρυνση και την πολιτική συνεργασία ενόψει των εκλογών, περιλαμβάνοντας σοβαρές πολιτικές εξελίξεις και αναδιαρθρώσεις στο κόμμα, κάτι που σχετίζεται κυρίως με την πολιτική σκηνή της χώρας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-09T05:56:29.000Z"
+    },
+    {
+      "id": "9813be1e4b91",
+      "title": "Πανωλεθρία για τους σοσιαλιστές του πρωθυπουργού Σάντσεθ σε τοπικές εκλογές στην Ισπανία",
+      "simpleTitle": "Ήττα για τους σοσιαλιστές του Σάντσεθ στις εκλογές στην Ισπανία",
+      "simpleText": "Το Λαϊκό Κόμμα κέρδισε τις τοπικές εκλογές στην Αραγονία, που έγιναν την Κυριακή. Οι σοσιαλιστές του πρωθυπουργού Σάντσεθ είχαν μεγάλη ήττα και η άκρα δεξιά ενισχύθηκε. Στην Αραγονία, σχεδόν ένα εκατομμύριο άνθρωποι ψήφισαν. Το Λαϊκό Κόμμα κέρδισε το 33,5% των ψήφων. Οι σοσιαλιστές έπεσαν στο 24%, χάνοντας πέντε θέσεις. Αυτή είναι η χειρότερη επίδοση για τους σοσιαλιστές στην περιοχή τα τελευταία 40 χρόνια. Η ήττα αυτή είναι σημαντική γιατί δείχνει μια αλλαγή στην πολιτική κατάσταση και μπορεί να επηρεάσει τη συνέχεια της διοίκησης. Δεν ξέρουμε ακόμα τι θα γίνει στην επόμενη εκλογική διαδικασία.",
+      "sourceName": "ERT News, Kathimerini, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/panolethria-gia-tous-sosialistes-tou-prothypourgou-santseth-se-topikes-ekloges-stin-ispania/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/panolethria-gia-tous-sosialistes-tou-prothypourgou-santseth-se-topikes-ekloges-stin-ispania/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564068002/ispania-panolethria-gia-toys-sosialistes-toy-santseth-stin-aragonia/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4070150/panolethria-gia-tous-sosialistes-tou-prothipourgou-santseth-se-topikes-ekloges-stin-ispania.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές εξελίξεις στην Ισπανία, με σημαντική ήττα του Σοσιαλιστικού Κόμματος και ενίσχυση της άκρας δεξιάς σε τοπικές εκλογές, δείχνοντας μια αλλαγή στην πολιτική κατάσταση της χώρας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-09T05:55:32.000Z"
+    },
+    {
+      "id": "24f7bf658f04",
+      "title": "Οι πληρωμές από τον e-ΕΦΚΑ και τη ΔΥΠΑ από σήμερα έως τις 13 Φεβρουαρίου",
+      "simpleTitle": "Πληρωμές από e-ΕΦΚΑ και ΔΥΠΑ μέχρι 13 Φεβρουαρίου",
+      "simpleText": "Από σήμερα και μέχρι τις 13 Φεβρουαρίου, θα καταβληθούν χρήματα σε 93.900 άτομα. Το συνολικό ποσό είναι 70,5 εκατομμύρια ευρώ. Οι πληρωμές έρχονται από τον e-ΕΦΚΑ και τη Δημόσια Υπηρεσία Απασχόλησης (ΔΥΠΑ). Οι δικαιούχοι θα λάβουν χρήματα για επιδόματα ανεργίας, επιδοτήσεις μητρότητας και προγράμματα εργασίας.\n\nΑυτές οι πληρωμές είναι σημαντικές γιατί βοηθούν ανθρώπους που τις έχουν ανάγκη. Ειδικά οι άνεργοι και οι μητέρες θα πάρουν στήριξη για να καλύψουν τις ανάγκες τους. Αν έχετε ερωτήσεις για τις πληρωμές, μπορείτε να ρωτήσετε το υπουργείο Εργασίας.",
       "sourceName": "ERT News, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/erxontai-ksana-vroxes-kai-kataigides-me-ti-kairo-tha-kanoume-tsiknopempti/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/oi-pliromes-apo-ton-e-efka-kai-ti-dypa-apo-simera-eos-tis-13-fevrouariou/",
       "sourceDomains": [
         "ertnews.gr",
         "tovima.gr"
@@ -43,208 +269,25 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/erxontai-ksana-vroxes-kai-kataigides-me-ti-kairo-tha-kanoume-tsiknopempti/"
+          "url": "https://www.ertnews.gr/eidiseis/diethni/oi-pliromes-apo-ton-e-efka-kai-ti-dypa-apo-simera-eos-tis-13-fevrouariou/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/08/society/tsiknopempti-me-vroxes-kai-kataigides-proeidopoiisi-tsatrafyllia-gia-astato-kairo/"
+          "url": "https://www.tovima.gr/2026/02/09/finance/pliromes-e-efka-dypa-eos-kai-tin-paraskeyi/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με τις καιρικές συνθήκες που αναμένονται, οι οποίες έχουν σοβαρές επιπτώσεις στην καθημερινότητα και τις δραστηριότητες του κόσμου, όπως οι βροχές και οι καταιγίδες.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/ertnews-20260208154303-aac-h264-microsoft-1080-5000kbps.mp4",
-      "publishedAt": "2026-02-08T14:55:40.000Z"
-    },
-    {
-      "id": "faf8e1a29a76",
-      "title": "Διδυμότειχο: Αγγιξε τα 6.50 μέτρα η στάθμη του νερού στο Πύθιο – Συστάσεις στους πολίτες",
-      "simpleTitle": "Σημαντική αύξηση της στάθμης του νερού στο Πύθιο",
-      "simpleText": "Στο Πύθιο Διδυμοτείχου, η στάθμη του νερού έφτασε τα 6,50 μέτρα. Αυτό είναι πάνω από το ανώτατο όριο συναγερμού, που είναι 5,80 μέτρα. Ο Δήμος καλεί τους κατοίκους να προσέχουν και να μην πλησιάζουν σε περιοχές με νερά. Αυτό είναι πολύ σημαντικό για την ασφάλεια όλων. Η κατάσταση προήλθε από τη μεγάλη ποσότητα νερού που έρχεται από τη Βουλγαρία. Για να αντιμετωπιστεί η κατάσταση, έχουν γίνει συσκέψεις με τις αρχές. Δεν έχει ανακοινωθεί ακόμα αν θα ληφθούν επιπλέον μέτρα προστασίας.",
-      "sourceName": "Kathimerini, TA NEA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564067645/didymoteicho-aggixe-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-systaseis-stoys-polites/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564067645/didymoteicho-aggixe-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-systaseis-stoys-polites/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/08/greece/didymoteixo-aggikse-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-pano-apo-ta-oria-synagerm/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4069993/angixe-ta-6-50-metra-i-stathmi-tou-nerou-sto-pithio-didimotichou.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με την επικίνδυνη αύξηση της στάθμης του νερού στο Πύθιο Διδυμοτείχου, που ξεπερνά το όριο συναγερμού, και τις συστάσεις των αρχών για την ασφάλεια των κατοίκων, καταδεικνύοντας μια σοβαρή κοινωνική και περιβαλλοντική κατάσταση.",
+      "categoryReason": "Η είδηση αφορά τις πληρωμές επιδομάτων και κοινωνικής στήριξης από κρατικούς φορείς, κάτι που συνδέεται με σοβαρά κοινωνικά ζητήματα όπως η στήριξη ανέργων και μητέρων.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-08T14:46:35.000Z"
-    },
-    {
-      "id": "31dcfd2a7b09",
-      "title": "Πρόσκληση Τραμπ σε Μητσοτάκη στο Συμβούλιο Ειρήνης για τη Γάζα",
-      "simpleTitle": "Πρόσκληση του Τραμπ σε Μητσοτάκη για τη Γάζα",
-      "simpleText": "Ο Τραμπ προσκάλεσε τον Μητσοτάκη να συμμετέχει στο Συμβούλιο Ειρήνης για τη Γάζα. Η συνάντηση θα γίνει στην Ουάσινγκτον. Η ελληνική κυβέρνηση θα απαντήσει στην πρόσκληση τις επόμενες ημέρες. Είναι σημαντικό να συμμετάσχει η Ελλάδα, γιατί οι αποφάσεις μπορεί να επηρεάσουν τον κόσμο και την περιοχή της Γάζας. Περιμένουμε περισσότερες πληροφορίες για το πότε ακριβώς θα γίνει η συνάντηση.",
-      "sourceName": "TO BHMA, News.gr",
-      "sourceUrl": "https://www.tovima.gr/2026/02/08/politics/prosklisi-tramp-se-mitsotaki-sto-symvoulio-eirinis-gia-ti-gaza/",
-      "sourceDomains": [
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/08/politics/prosklisi-tramp-se-mitsotaki-sto-symvoulio-eirinis-gia-ti-gaza/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4070012/o-trab-proskalese-ton-mitsotaki-sto-simvoulio-tis-irinis-gia-ti-gaza-ton-fevrouario.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική διεθνή πρόσκληση του Τραμπ προς τον Μητσοτάκη για τη συμμετοχή στη Συνεδρίαση του Συμβουλίου Ειρήνης, γεγονός που σχετίζεται με πολιτικά και κοινωνικά ζητήματα στην περιοχή της Γάζας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-08T14:42:34.000Z"
-    },
-    {
-      "id": "2b792106468f",
-      "title": "Νεκρός αστυνομικός μετά από ξυλοδαρμό σε συνεργείο στην Άγκυρα",
-      "simpleTitle": "Θάνατος αστυνομικού από ξυλοδαρμό στην Άγκυρα",
-      "simpleText": "Ένας 44χρονος αστυνομικός στην Τουρκία, ο Οκάν Κεσκίν, πέθανε μετά από ξυλοδαρμό σε συνεργείο στην Άγκυρα. Αυτό συνέβη τη Δευτέρα και ήταν σοκαριστικό για όλους. Οι γιατροί του είπαν ότι είχε σοβαρό πρόβλημα στον εγκέφαλο και χρειάστηκε να υποβληθεί σε χειρουργική επέμβαση, αλλά δεν τα κατάφερε και πέθανε τρεις ημέρες αργότερα.\n\nΣύμφωνα με τη σύζυγό του, ο αστυνομικός υπερασπίστηκε τον εαυτό του από πολλές επιθέσεις. Ήταν ένας καλός πατέρας και η οικογένειά του είναι συγκλονισμένη. Μετά το συμβάν, μια εταιρεία αποφάσισε να σταματήσει τη συνεργασία με δύο από τους ανθρώπους που συμμετείχαν στο ξυλοδαρμό.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/nekros-astynomikos-meta-apo-ksylodarmo-se-synergeio-stin-agkyra/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/nekros-astynomikos-meta-apo-ksylodarmo-se-synergeio-stin-agkyra/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/08/world/tourkia-nekros-astynomikos-meta-apo-omadiko-ksylodarmo-se-synergeio-aytokiniton-vinteo/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον θάνατο ενός αστυνομικού μετά από ξυλοδαρμό και περιλαμβάνει σοβαρά κοινωνικά ζητήματα όπως η βία και η ασφάλεια, πράγμα που την καθιστά σοβαρή.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g8cf90f5f4aa8823d9fe7ccea701101d4f6ded03d55c6c9964bb194d6c7ddd3ef665ad6227768027e9c95fccda1c0dd8c3674d128286030cfc6b7da4ea0d7de9a_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-08T14:38:46.000Z"
-    },
-    {
-      "id": "3e2ad8772955",
-      "title": "Γ. Παπανδρέου: Διαψεύδει δημοσίευμα περί σχέσεων με Επστάιν – «Τέλος η λάσπη»",
-      "simpleTitle": "Γ. Παπανδρέου: Αρνείται σχέσεις με Επστάιν",
-      "simpleText": "Ο Γιώργος Παπανδρέου, πρώην πρωθυπουργός, δήλωσε ότι δεν έχει καμία σχέση με τον Τζέφρι Επστάιν. Το είπε αυτό απαντώντας σε ένα δημοσίευμα που τον παρουσιάζει να έχει επικοινωνία μαζί του. Ο Παπανδρέου χαρακτήρισε το άρθρο ψευδές και κατηγόρησε όσους το έγραψαν ότι προσπαθούν να τον παραπλανήσουν. Είναι σημαντικό για εκείνον να υπερασπιστεί τη φήμη του, ειδικά λόγω των ψευδών ισχυρισμών. Αν και η υπόθεση συζητήθηκε πολύ, ο Παπανδρέου τονίζει ότι όλα είναι αναληθή. Τέλος, ζητά να σταματήσει η διάδοση τέτοιων πληροφοριών.",
-      "sourceName": "Kathimerini, TO BHMA, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564067684/g-papandreoy-diapseydei-dimosieyma-peri-scheseon-me-epstain-telos-i-laspi/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564067684/g-papandreoy-diapseydei-dimosieyma-peri-scheseon-me-epstain-telos-i-laspi/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/08/politics/papandreou-oudepote-eixa-sxesi-i-epikoinonia-me-ton-epstain/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/telos-i-laspi-orgi-giwrgou-papandreou-gia-dimosievmata-peri-sxesewn-me-epstain-44343308590"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές κατηγορίες που διατυπώνονται εναντίον ενός πρώην πρωθυπουργού σχετικά με φήμες και ψευδείς ισχυρισμούς για σχέσεις με έναν καταδικασμένο αδίκημα, γεγονός που άπτεται της φήμης και της πολιτικής του καριέρας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-08T14:20:00.000Z"
-    },
-    {
-      "id": "5ffc6dd38535",
-      "title": "Ποινή φυλάκισης στον Βούλγαρο οδηγό του φορτηγού για την τραγωδία στα διόδια Ιάσμου",
-      "simpleTitle": "Φυλάκιση στον Βούλγαρο οδηγό για το δυστύχημα στα διόδια",
-      "simpleText": "Ένας Βούλγαρος οδηγός φορτηγού καταδικάστηκε σε έξι χρόνια και έντεκα μήνες φυλάκισης για ένα σοβαρό τροχαίο. Το ατύχημα συνέβη στις 18 Αυγούστου 2023, κοντά στα διόδια Ιάσμου στην Εγνατία Οδό. Ο οδηγός χτύπησε σταματημένα αυτοκίνητα, προκαλώντας φωτιά. Στο τραγικό συμβάν, τρία άτομα έχασαν τη ζωή τους και τέσσερα άλλα τραυματίστηκαν.\n\nΤο δικαστήριο είπε ότι ο οδηγός ήταν αμελής, αλλά δεν απέδειξε ότι οδηγούσε επικίνδυνα. Εκείνος ισχυρίστηκε ότι ένα άλλο όχημα έκοψε τον δρόμο του. Η υπόθεση θα εξεταστεί και πάλι στο μέλλον. Μέχρι τότε, ο οδηγός παραμένει στη φυλακή.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/komotini/poini-fylakisis-ston-voulgaro-odigo-tou-fortigou-gia-tin-tragodia-sta-diodia-iasmou/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/komotini/poini-fylakisis-ston-voulgaro-odigo-tou-fortigou-gia-tin-tragodia-sta-diodia-iasmou/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564067666/poini-fylakisis-ston-voylgaro-odigo-gia-tin-polynekri-karampola-stin-egnatia/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ποινική καταδίκη για ανθρωποκτονία από αμέλεια, που σχετίζεται με σοβαρό τροχαίο ατύχημα με θανάτους και τραυματισμούς.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-08T13:39:00.000Z"
-    },
-    {
-      "id": "d3e9ed8087fc",
-      "title": "Σεισμός μεγέθους 5,5 βαθμών έπληξε την Κούβα",
-      "simpleTitle": "Σεισμός 5,5 Ρίχτερ στην Κούβα",
-      "simpleText": "Σήμερα, 8 Φεβρουαρίου, σημειώθηκε σεισμός στην Κούβα με μέγεθος 5,5 Ρίχτερ. Ο σεισμός είχε εστιακό βάθος 15 χιλιομέτρων. Αρχικά, οι ειδικοί εκτίμησαν ότι ήταν 5,9 Ρίχτερ, αλλά αργότερα το μέγεθος διορθώθηκε. Αυτή η σεισμική δόνηση είναι σημαντική γιατί μπορεί να προκαλέσει ανησυχία στους κατοίκους της περιοχής. Δεν έχει ανακοινωθεί αν υπάρχουν ζημιές ή θύματα μέχρι στιγμής. Είναι καλύτερο να είμαστε προσεκτικοί και να ακολουθούμε τις οδηγίες των αρχών για την ασφάλειά μας.",
-      "sourceName": "ERT News, Kathimerini, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/seismos-megethous-5-5-vathmon-eplikse-tin-kouva/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/seismos-megethous-5-5-vathmon-eplikse-tin-kouva/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564067642/seismos-megethoys-5-5-vathmon-eplixe-tin-koyva/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4069855/sismos-stin-kouva-2.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά έναν ισχυρό σεισμό που μπορεί να προκαλέσει ανησυχία στους κατοίκους και θέτει σοβαρά ζητήματα ασφάλειας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfa323a734f0855da5b6155f169ddc7f83214aab8afa9be5344edb0f365bd06c5277d7eae3ef002ba93b9d50c7b5663e78471b1a95dc8f08fdaad372b4b7600f7_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-08T13:02:25.000Z"
+      "publishedAt": "2026-02-09T04:20:14.000Z"
     },
     {
       "id": "e9fbce43f35e",
       "title": "Πώς μας ωφελεί να κοιμόμαστε σε συμμαζεμένο δωμάτιο",
-      "simpleTitle": "Τα οφέλη του καθαρού δωματίου στον ύπνο",
-      "simpleText": "Ο ύπνος μας εξαρτάται από το πώς είναι το δωμάτιό μας. Ένα καθαρό και τακτοποιημένο δωμάτιο μπορεί να μας βοηθήσει να κοιμόμαστε καλύτερα. Αν το δωμάτιο είναι συμμαζεμένο, ο νους μας ηρεμεί πιο εύκολα. Έτσι, ξυπνάμε πιο ξεκούραστοι και με καλή διάθεση. Μειώνονται οι ενοχλήσεις από πράγματα που μας αποσπούν την προσοχή. Είναι σημαντικό να φτιάχνουμε το δωμάτιό μας, γιατί αυτό μπορεί να αλλάξει τη στάση μας και την ποιότητα του ύπνου μας. Ένας ήσυχος χώρος είναι απαραίτητος για καλό ύπνο.",
+      "simpleTitle": "Οφέλη από έναν καθαρό χώρο ύπνου",
+      "simpleText": "Ο ύπνος μας δεν εξαρτάται μόνο από τις ώρες που κοιμόμαστε, αλλά και από το πού κοιμόμαστε. Όταν το δωμάτιό μας είναι συμμαζεμένο, βοηθάει να κοιμόμαστε καλύτερα. Ένα καθαρό δωμάτιο μας κάνει πιο ήρεμους και βελτιώνει τη διάθεσή μας το πρωί. Λιγότερα πράγματα γύρω μας σημαίνει ότι ο εγκέφαλός μας μπορεί να χαλαρώσει πιο εύκολα. Αυτό έχει σημασία, γιατί ο καλός ύπνος μας βοηθάει να νιώθουμε καλύτερα κατά τη διάρκεια της ημέρας. Είναι καλό να διατηρούμε το χώρο μας καθαρό και οργανωμένο, ώστε να ξεκουραζόμαστε όπως πρέπει.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31658-pos-mas-ofelei-na-koimomaste-se-symmazemeno-domatio/",
       "sourceDomains": [
@@ -257,7 +300,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση επικεντρώνεται στα οφέλη που έχει η καθαριότητα και η οργάνωση ενός δωματίου στον ύπνο μας και τη διάθεσή μας, κάτι που προάγει μια θετική και χαρούμενη αίσθηση.",
+      "categoryReason": "Η είδηση αφορά τα οφέλη του ύπνου σε ένα καθαρό και οργανωμένο δωμάτιο, το οποίο συνδέεται άμεσα με τη βελτίωση της διάθεσης και της ευημερίας, κάνοντάς την θετική και ενθαρρυντική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -266,8 +309,8 @@
     {
       "id": "72c15cae3e86",
       "title": "Αστυνομία και σκύλος-ιχνηλάτης εντοπίζουν 15χρονο με αυτισμό μέσα σε χιονοθύελλα στο Maryland",
-      "simpleTitle": "Σκύλος και αστυνομία βρίσκουν 15χρονο με αυτισμό στη χιονοθύελλα",
-      "simpleText": "Στο Maryland, ένας 15χρονος με αυτισμό χάθηκε κατά τη διάρκεια μιας δυνατής χιονοθύελλας. Η οικογένειά του δεν το κατάλαβε γιατί το παιδί έφυγε από το σπίτι. Η κατάσταση ήταν δύσκολη, καθώς το χιόνι ήταν πολύ και η θερμοκρασία ήταν πολύ χαμηλή. Ευτυχώς, αστυνομικοί και ένας σκύλος-ιχνηλάτης συνεργάστηκαν για να τον βρουν. Η βοήθεια των σκύλων σε τέτοιες περιπτώσεις είναι πολύ σημαντική, γιατί έχουν την ικανότητα να μυρίζουν και να εντοπίζουν ανθρώπους. Οι προσπάθειες τους βοήθησαν να επιστρέψει ο έφηβος στην οικογένειά του ασφαλής.",
+      "simpleTitle": "Αστυνομία και σκύλος βρίσκουν 15χρονο αγόρι με αυτισμό σε χιονοθύελλα",
+      "simpleText": "Ένας 15χρονος αγόρι με αυτισμό χάθηκε στην περιοχή του Bel Air, στο Maryland, κατά τη διάρκεια μιας σφοδρής χιονοθύελλας. Η οικογένειά του δεν το κατάλαβε αμέσως και ο καιρός ήταν πολύ κρύος, με το χιόνι να καλύπτει τα πάντα. Στην επιχείρηση αναζήτησης συμμετείχαν αστυνομικοί και ένας σκύλος-ιχνηλάτης. Αυτή η συνεργασία τους βοήθησε να τον βρουν γρήγορα. Είναι πολύ σημαντικό να βοηθάμε ο ένας τον άλλο σε δύσκολες στιγμές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/",
       "sourceDomains": [
@@ -280,9 +323,9 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια σοβαρή κατάσταση που αφορά την ασφάλεια ενός εφήβου με αυτισμό και την προσπάθεια των αρχών να τον εντοπίσουν κατά τη διάρκεια μιας επικίνδυνης χιονοθύελλας.",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή κατάσταση όπου ένα αυτιστικό παιδί βρέθηκε χαμένο κατά τη διάρκεια μιας επικίνδυνης χιονοθύελλας, και η αστυνομία συντονίζει την επιχείρηση αναζήτησης, γεγονός που υπογραμμίζει σημαντικά κοινωνικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gdbb8b6c17d955f4c5988665aa119ded407d4bfbe3f5b10126c54f6b9dda4400e7e2a1af006c04ee522d30f1f7650a0f3457e092af16b978bca3a1cedf7e52a12_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gfae2bf1f6330ddd420e66831b11c763b0c7269f3ce0c776e59285861f82129e57090f905a453301e0b67b756002b3d080563a6cad8f3bbc3db913ec5c19c2203_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-07T07:52:00.000Z"
     },
@@ -290,7 +333,7 @@
       "id": "3237a18de9c7",
       "title": "Ποιο γιαούρτι είναι το καλύτερο; Οδηγός επιλογής με βάση την υγεία σου",
       "simpleTitle": "Πώς να διαλέξεις το καλύτερο γιαούρτι",
-      "simpleText": "Το γιαούρτι είναι πολύ σημαντικό στη διατροφή μας. Μπορεί να μας βοηθήσει να έχουμε περισσότερες πρωτεΐνες και να κρατήσει το έντερο μας υγιές. Όμως, χρειάζεται να προσέχουμε τι επιλέγουμε. Είναι καλό να αποφεύγουμε γιαούρτια με ζάχαρη ή τεχνητές γεύσεις. Αυτά δεν είναι υγιεινά και είναι σαν να τρώμε junk food. Γίνε προσεκτικός και διάλεξε γιαούρτια που είναι φυσικά και απλά, για να ωφελήσεις την υγεία σου.",
+      "simpleText": "Το γιαούρτι είναι πολύ χρήσιμο για την υγεία μας. Υπάρχουν διάφορα είδη γιαουρτιού, και το καθένα έχει τα δικά του οφέλη. Είναι σημαντικό να διαλέγουμε εκείνα που μας βοηθούν στο διαιτητικό μας στόχο. Πρέπει να αποφεύγουμε τα γιαούρτια που περιέχουν ζάχαρη, τεχνητά αρώματα ή γλυκαντικά. Αυτά τα προϊόντα δεν είναι καλά για τον οργανισμό μας. Φρόντισε να επιλέγεις γιαούρτια που είναι πιο υγιεινά, χωρίς πρόσθετα συστατικά που μπορεί να βλάψουν την υγεία σου.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31620-poio-giaourti-kalitero/",
       "sourceDomains": [
@@ -303,7 +346,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Το άρθρο ασχολείται με τις διατροφικές επιλογές και την υγεία, εστιάζοντας στα οφέλη και τους κινδύνους που σχετίζονται με την κατανάλωση γιαουρτιών, κάτι που είναι σοβαρό θέμα.",
+      "categoryReason": "Το άρθρο αφορά τη σωστή διατροφή και την υγεία, εστιάζοντας σε ποιοτικά χαρακτηριστικά των γιαουρτιών, που είναι σοβαρά θέματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -313,7 +356,7 @@
       "id": "8e734924d46b",
       "title": "NASA και Artemis: οι αστροναύτες του Artemis II ετοιμάζονται για το πιο μακρινό ταξίδι γύρω από τη Σελήνη",
       "simpleTitle": "Αστροναύτες ετοιμάζονται για ταξίδι γύρω από τη Σελήνη",
-      "simpleText": "Τέσσερις αστροναύτες ετοιμάζονται για ένα σπουδαίο ταξίδι. Ο Reid Wiseman, η Christina Koch, ο Victor Glover και ο Καναδός Jeremy Hansen θα συμμετάσχουν στην αποστολή Artemis II. Το ταξίδι θα διαρκέσει περίπου 10 ημέρες και θα τους οδηγήσει σε μια σπάνια πορεία γύρω από τη Σελήνη. Αυτό είναι πολύ σημαντικό, γιατί θα είναι η πιο μακρινή πτήση ανθρώπων από τη Γη. Αν και δεν θα πατήσουν στη Σελήνη, το ταξίδι δείχνει ότι η εξερεύνηση του φεγγαριού συνεχίζεται. Θα δοκιμαστούν επίσης νέοι πύραυλοι και κάψουλες, που ελπίζουν να βοηθήσουν σε μελλοντικές αποστολές.",
+      "simpleText": "Τέσσερις αστροναύτες ετοιμάζονται για ένα νέο ταξίδι γύρω από τη Σελήνη. Οι αστροναύτες είναι ο Reid Wiseman, η Christina Koch, ο Victor Glover και ο Καναδός Jeremy Hansen. Το ταξίδι θα διαρκέσει περίπου δέκα ημέρες. Θα αποκτήσουν μια τροχιά πιο μακριά από τη Γη από ό,τι έχουν πετύχει ποτέ άνθρωποι. Αυτή η αποστολή είναι σημαντική γιατί θα αναζωογονήσει την εξερεύνηση του φεγγαριού και θα βοηθήσει στις επόμενες αποστολές. Να σημειωθεί ότι η πτήση θα είναι η πρώτη που θα μεταφέρει ανθρώπους με τον πύραυλο Space Launch System και την κάψουλα Orion.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31619-nasa-kai-artemis-oi-astronaftes-tou-artemis-ii-etoimazontai-gia-to-pio-makrino-taxidi-gyro-apo-ti-selini/",
       "sourceDomains": [
@@ -326,7 +369,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η αποστολή Artemis II και η προετοιμασία των αστροναυτών για το ταξίδι γύρω από τη Σελήνη είναι σοβαρό θέμα που αφορά την εξερεύνηση του διαστήματος και τη νέα εποχή που ανοίγεται για την ανθρωπότητα.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική αποστολή της NASA, που συνδέεται με την εξερεύνηση του διαστήματος και την τεχνολογική πρόοδο, κι έτσι υπόκειται σε σοβαρά θέματα όπως η επιστήμη και η εξερεύνηση του φεγγαριού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -335,8 +378,8 @@
     {
       "id": "9ce74f433000",
       "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
-      "simpleTitle": "Φινλανδία: πώς η απλότητα φέρνει ευτυχία",
-      "simpleText": "Η Φινλανδία είναι γνωστή ως ένας από τους πιο ευτυχισμένους τόπους στον κόσμο. Αυτό φαίνεται από την Παγκόσμια Έκθεση Ευτυχίας που μετρά την ικανοποίηση των ανθρώπων από τη ζωή τους. Οι Φινλανδοί έχουν σταθερά την πρώτη θέση εδώ και οκτώ χρόνια. Οι κάτοικοι πιστεύουν ότι η ευτυχία έρχεται από την απλότητα. Λένε ότι έχουν χαμηλές προσδοκίες και έτσι απολαμβάνουν τη ζωή περισσότερο. Αυτό δείχνει πόσο σημαντικό είναι να εκτιμούμε τα απλά πράγματα γύρω μας. Οι φιλικές σχέσεις και η αίσθηση του χιούμορ παίζουν επίσης μεγάλο ρόλο στη ζωή τους.",
+      "simpleTitle": "Φινλανδία: Μυστικά για ευτυχία στη ζωή",
+      "simpleText": "Η Φινλανδία είναι γνωστή για την ευτυχία των ανθρώπων της. Σε μια έκθεση που μετράει πόσο ικανοποιημένοι είναι οι πολίτες από τη ζωή τους, οι Φινλανδοί βρίσκονται στην πρώτη θέση εδώ και οκτώ χρόνια. Οι άνθρωποι στη Φινλανδία λένε ότι είναι ευτυχισμένοι γιατί έχουν χαμηλές προσδοκίες. Αυτό σημαίνει ότι δεν περιμένουν πολλά από τη ζωή τους και έτσι είναι πιο εύκολο να είναι ικανοποιημένοι. Αυτή η νοοτροπία τους βοηθά να ζουν με ηρεμία και χαρά. Είναι σημαντικό να καταλάβουμε ότι η ευτυχία μπορεί να είναι τρόπος ζωής και όχι μόνο στόχος.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
       "sourceDomains": [
@@ -349,7 +392,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στην ευτυχία των Φινλανδών και στην ικανοποίηση από τη ζωή τους, προβάλλοντας θετικά στοιχεία και αξίες που σχετίζονται με την απλότητα και τις φιλικές σχέσεις.",
+      "categoryReason": "Αυτό το άρθρο μιλάει για την ευτυχία των Φινλανδών και τον τρόπο ζωής τους που συμβάλλει στην ικανοποίησή τους, εστιάζοντας σε θετικά στοιχεία και νοοτροπίες που δημιουργούν ευχάρισες εμπειρίες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -358,8 +401,8 @@
     {
       "id": "d87e8454bef7",
       "title": "Τα ηλεκτρικά οχήματα ξεπερνούν για πρώτη φορά τα βενζινοκίνητα στις πωλήσεις στην Ευρώπη",
-      "simpleTitle": "Πρώτη φορά οι ηλεκτρικές αυτοκινητοβιομηχανίες ξεπερνούν τις βενζίνης",
-      "simpleText": "Τα ηλεκτρικά αυτοκίνητα πωλούνται περισσότερο από τα βενζινοκίνητα αυτοκίνητα στην Ευρώπη. Αυτό συνέβη για πρώτη φορά τον Δεκέμβριο. Η αλλαγή αυτή σημαίνει ότι οι άνθρωποι επιλέγουν όλο και πιο πολύ τα ηλεκτρικά οχήματα. Παρά τις συζητήσεις για το αν θα σταματήσει η πώληση βενζινοκίνητων αυτοκινήτων το 2035, οι Ευρωπαίοι φαίνεται να προτιμούν τα ηλεκτρικά. Αυτή η τάση δείχνει ότι η αυτοκινητοβιομηχανία αλλάζει και κινείται προς ένα πιο οικολογικό μέλλον. Είναι σημαντικό γιατί μπορεί να βοηθήσει το περιβάλλον. Δεν ξέρουμε ακόμα αν θα υπάρξουν νέες αλλαγές ή νόμοι.",
+      "simpleTitle": "Τα ηλεκτρικά αυτοκίνητα πωλούνται περισσότερο από τα βενζινοκίνητα στην Ευρώπη",
+      "simpleText": "Για πρώτη φορά, τα ηλεκτρικά αυτοκίνητα πωλούνται πιο πολύ από τα βενζινοκίνητα στην Ευρώπη. Αυτό συνέβη τον Δεκέμβριο και είναι σημαντικό γιατί δείχνει μια μεγάλη αλλαγή στην αγορά αυτοκινήτων. Οι άνθρωποι φαίνεται να προτιμούν τα ηλεκτρικά οχήματα, παρά τις συζητήσεις για αλλαγές στους κανονισμούς πώλησης αυτοκινήτων μέλλοντα. Αυτό μπορεί να αλλάξει τον τρόπο που οδηγούμε και να βοηθήσει το περιβάλλον. Οι καταναλωτές δείχνουν ότι θέλουν καθαρότερες λύσεις για τις μετακινήσεις τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31628-ilektrika-oximata-poliseis-eyropi/",
       "sourceDomains": [
@@ -372,7 +415,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σημαντικές αλλαγές στην αυτοκινητοβιομηχανία και τις πωλήσεις οχημάτων, που έχουν επιπτώσεις στο περιβάλλον και την οικονομία, γεγονός που την καθιστά σοβαρή.",
+      "categoryReason": "Η είδηση αφορά στη σημαντική αλλαγή στην αγορά αυτοκινήτων και τις περιβαλλοντικές επιπτώσεις από την προτίμηση στα ηλεκτρικά οχήματα, κάτι που σχετίζεται με κοινωνικά και περιβαλλοντικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -381,8 +424,8 @@
     {
       "id": "dc09633d0e1e",
       "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-      "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-      "simpleText": "Όταν ξυπνάμε νωρίς, νιώθουμε πιο ευτυχισμένοι. Οι πρώτες ώρες της ημέρας είναι μοναδικές και μας βοηθούν να είμαστε καλύτερα. Ο καλός ύπνος είναι πολύ σημαντικός για την υγεία μας. Πρέπει να κοιμόμαστε σωστά, γιατί αυτό μας δίνει ενέργεια και μας βοηθά να συγκεντρωνόμαστε. Όταν έχουμε καλή διάθεση, μπορούμε να λειτουργούμε καλύτερα στην καθημερινότητά μας. Δεν ξέρουμε πάντα γιατί, αλλά οι επιστήμονες λένε ότι το πρωινό ξύπνημα έχει θετική επίδραση στη ζωή μας. Είναι καλό να προσπαθούμε να ξυπνάμε νωρίτερα.",
+      "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς",
+      "simpleText": "Όταν ξυπνάμε νωρίς, μπορεί να νιώθουμε πιο καλά. Οι πρώτες ώρες της ημέρας έχουν κάτι ιδιαίτερο που μας κάνει να είμαστε πιο χαρούμενοι. Ο καλός ύπνος είναι σημαντικός για την ενέργεια και την διάθεσή μας. Αν κοιμόμαστε καλά, νιώθουμε πιο συγκεντρωμένοι και έτοιμοι να αντιμετωπίσουμε την ημέρα. Γι' αυτό, το να ξυπνάμε νωρίς μπορεί να είναι πολύ ωφέλιμο για τον ψυχισμό μας και την υγεία μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
       "sourceDomains": [
@@ -395,7 +438,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Το άρθρο αναφέρεται στα οφέλη του πρωινού ξυπνήματος και της ποιότητας του ύπνου, επισημαίνοντας την θετική επίδραση στη διάθεση και την ευτυχία μας, γεγονός που το καθιστά μια χαρούμενη και θετική ιστορία.",
+      "categoryReason": "Η είδηση αναφέρεται στα θετικά συναισθήματα και στα οφέλη για την υγεία που προκύπτουν από το νωρίς ξύπνημα, γεγονός που ενισχύει τη διάθεση και τη ψυχική ευεξία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -404,8 +447,8 @@
     {
       "id": "854cba3d8baa",
       "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
-      "simpleTitle": "Τρίχρονος Τζουντ κερδίζει ρεκόρ σνούκερ",
-      "simpleText": "Ο μικρός Τζουντ Όουενς, που είναι τριών ετών, έχει κάνει κάτι φοβερό στο σνούκερ. Κατάφερε να σπάσει δύο παγκόσμια ρεκόρ Guinness. Αυτό έγινε πριν κλείσει τα τρία του χρόνια. Ζει στο Μάντσεστερ, στην Αγγλία. Ο Τζουντ δείχνει ότι το ταλέντο μπορεί να έχει κάθε ηλικία. Ξέρει πώς να παίζει καλά και το κάνει με ηρεμία. Τα κατορθώματά του έχουν εντυπωσιάσει πολλούς ανθρώπους και όλοι μιλούν γι' αυτόν. Είναι σημαντικό γιατί μας δείχνει ότι με προσπάθεια μπορείς να κάνεις σπουδαία πράγματα.",
+      "simpleTitle": "Τρίχρονος Τζουντ Όουενς σπάει ρεκόρ σνούκερ",
+      "simpleText": "Ο μικρός Τζουντ Όουενς από το Μάντσεστερ έγινε διάσημος γιατί κατέκτησε δύο παγκόσμια ρεκόρ στο σνούκερ πριν κλείσει τα τρία του χρόνια. Είναι σπάνιο για ένα τόσο νεαρό παιδί να πετυχαίνει τέτοια επιτεύγματα. Ο Τζουντ δείχνει μεγάλη ηρεμία και ικανότητα στο παιχνίδι, κάτι που εντυπωσιάζει πολλούς. Αυτό το γεγονός μας δείχνει ότι το ταλέντο δεν εξαρτάται από την ηλικία. Επίσης, η επιτυχία του μπορεί να εμπνεύσει και άλλα παιδιά να ασχοληθούν με τον αθλητισμό. Δεν γνωρίζουμε αν θα σπάσει άλλα ρεκόρ στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
       "sourceDomains": [
@@ -418,7 +461,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία του τρίχρονου Τζουντ Όουενς που σπάει παγκόσμια ρεκόρ στο σνούκερ είναι μια θετική και ενθαρρυντική αφήγηση που εμπνέει και φτιάχνει τη διάθεση, δείχνοντας ότι το ταλέντο μπορεί να εκδηλωθεί σε κάθε ηλικία.",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα παιδί που έγραψε ιστορία με δύο παγκόσμια ρεκόρ στο σνούκερ, γεγονός που προκαλεί θαυμασμό και ενθουσιασμό, προβάλλοντας θετικά επιτεύγματα και έμπνευση για άλλους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -427,8 +470,8 @@
     {
       "id": "2ef17147ea36",
       "title": "Συνεργασία με επίκεντρο τους ασθενείς και την ανθρώπινη αξιοπρέπεια",
-      "simpleTitle": "Συνεργασία για τους ασθενείς και την αξιοπρέπειά τους",
-      "simpleText": "Μια σημαντική συνάντηση έγινε πρόσφατα στον Ελληνικό Ερυθρό Σταυρό. Οι συμμετέχοντες ήθελαν να στηρίξουν τους ασθενείς και τις ευάλωτες ομάδες. Ο Πρόεδρος του Ερυθρού Σταυρού, Αντώνιος Αυγερινός, υποδέχτηκε ανθρώπους από την Ένωση Ασθενών Ελλάδας. Μαζί συζητήθηκαν οι τρόποι που μπορούν να συνεργαστούν για να βοηθήσουν περισσότερους ανθρώπους. Αυτή η συνεργασία είναι σημαντική γιατί δείχνει πώς μπορούμε να έχουμε καλύτερη φροντίδα για όσους τη χρειάζονται. Ορθά, όλοι τόνισαν τη σημασία της κοινής δράσης και της ανθρωπιάς.",
+      "simpleTitle": "Συνάντηση για τη στήριξη των ασθενών",
+      "simpleText": "Στα Κεντρικά Γραφεία του Ελληνικού Ερυθρού Σταυρού έγινε μια σημαντική συνάντηση. Η συνάντηση είχε στόχο να στηριχτούν οι ασθενείς και οι άνθρωποι που χρειάζονται βοήθεια. Παρόντες ήταν εκπρόσωποι της Ένωσης Ασθενών Ελλάδας, όπως η Πρόεδρός τους, Μέμη Τσεκούρα. Όλοι συζήτησαν για τη σημασία της συνεργασίας. Αυτό σημαίνει ότι οι οργανώσεις μπορούν να δουλέψουν μαζί για να βοηθήσουν περισσότερους ανθρώπους. Είναι σημαντικό να υπάρχουν τέτοιες συνεργασίες, γιατί φέρνουν βελτίωση στη ζωή των ασθενών. Δεν γνωρίζουμε ακόμα αν θα γίνουν άλλες συναντήσεις στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31344-synergasia-gia-tous-astheneis-ellinikos-erythros-stayros/",
       "sourceDomains": [
@@ -441,7 +484,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική συνάντηση που επικεντρώνεται στη στήριξη ασθενών και ευάλωτων ομάδων, με σοβαρές κοινωνικές και ανθρωπιστικές προεκτάσεις.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική συνεργασία με στόχο τη στήριξη των ασθενών και ευάλωτων κοινωνικών ομάδων, κάτι που σχετίζεται με σοβαρά κοινωνικά ζητήματα και την ανθρώπινη αξιοπρέπεια.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -450,8 +493,8 @@
     {
       "id": "a3790907705d",
       "title": "Γιατί όταν φοράμε ακουστικά στο δρόμο μας καθιστά ευάλωτους",
-      "simpleTitle": "Οι κίνδυνοι από τα ακουστικά στο δρόμο",
-      "simpleText": "Όταν περπατάμε στην πόλη, είναι σημαντικό να προσέχουμε γύρω μας. Αν φοράμε ακουστικά, μπορεί να μην ακούμε τίποτα άλλο. Αυτό μπορεί να μας κάνει να φαίνεται ότι δεν προσέχουμε. Η ασφάλεια δεν αφορά μόνο τα τροχαία ατυχήματα, αλλά και την προστασία μας από άλλους. Αν δείχνουμε σαν να είμαστε αδιάφοροι, μπορεί να γίνουμε εύκολοι στόχοι για κακούς ανθρώπους. Είναι καλό να είμαστε προσεκτικοί και να αποφεύγουμε τη χρήση ακουστικών όταν περπατάμε σε πολυσύχναστες περιοχές.",
+      "simpleTitle": "Κίνδυνος από τα ακουστικά στον δρόμο",
+      "simpleText": "Όταν περπατάμε στην πόλη και φοράμε ακουστικά, μπορεί να είμαστε σε κίνδυνο. Η μουσική ή τα podcasts κάνουν τη διαδρομή πιο ευχάριστη, αλλά μας απομονώνουν από τον κόσμο γύρω μας. Εύκολο στόχος φαίνεσαι όταν δεν είσαι προσεκτικός. Είναι σημαντικό να προσέχουμε τι συμβαίνει και να δείχνουμε ότι είμαστε σε εγρήγορση. Οι δράστες μπορεί να επιλέξουν εμάς αν φαίνομαι ανυπόψιαστοι. Γι’ αυτό πρέπει να είμαστε προσεκτικοί και να αφαιρούμε τα ακουστικά όταν περπατάμε σε δημόσιους χώρους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31335-asfaleia-akoustika-stoxos-epithesis/",
       "sourceDomains": [
@@ -464,246 +507,261 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση θίγει θέματα ασφαλείας και τις συνέπειες της έλλειψης προσοχής κατά τη διάρκεια μετακίνησης σε πολυσύχναστες περιοχές.",
+      "categoryReason": "Η είδηση αναφέρεται στους κινδύνους που προκύπτουν από την απομόνωση που προκαλούν τα ακουστικά στο δημόσιο χώρο, εστιάζοντας σε θέματα ασφάλειας και εγκληματικότητας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-04T13:30:57.000Z"
     },
     {
-      "id": "8c1991a13b7c",
-      "title": "Live streaming: Δείτε τον ημιτελικό ΑΕΚ-Ιωνικός για το Final-4 του Κυπέλλου Ελλάδος στο Χάντμπολ (17:00, EΡΤSports1)",
-      "simpleTitle": "Ζωντανή μετάδοση: ΑΕΚ-Ιωνικός στο Χάντμπολ",
-      "simpleText": "Σήμερα, στις 17:00, θα γίνει ο ημιτελικός αγώνας χάντμπολ μεταξύ της ΑΕΚ και του Ιωνικού. Ο αγώνας θα πραγματοποιηθεί στο κλειστό γυμναστήριο του Καματερού. Μπορείτε να παρακολουθήσετε τη ζωντανή μετάδοση μέσω του καναλιού ΕΡΤSports1, το οποίο είναι διαθέσιμο και στο ΕRTFLIX. Είναι μια σημαντική στιγμή για τις ομάδες, καθώς αγωνίζονται για μια θέση στον τελικό του Κυπέλλου Ελλάδος.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-aek-ionikos-gia-to-final-4-tou-kypellou-ellados-sto-xantmpol-17-00-ertsports1/",
-      "sourceDomains": [
-        "ertnews.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-aek-ionikos-gia-to-final-4-tou-kypellou-ellados-sto-xantmpol-17-00-ertsports1/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Ο αγώνας αφορά τον ημιτελικό του Κυπέλλου Ελλάδος στο χάντμπολ, οπότε κατατάσσεται στην κατηγορία των αθλητικών νέων. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ert-sports-live-ww&#038;autostart=true",
-      "publishedAt": "2026-02-08T14:50:00.000Z"
-    },
-    {
-      "id": "13ace0264cf6",
-      "title": "Ολυμπιακός – Προμηθέας 102-87: «Ερυθρόλευκο» show με ηγέτη Πίτερς",
-      "simpleTitle": "Ολυμπιακός νίκησε τον Προμηθέα",
-      "simpleText": "Ο Ολυμπιακός κέρδισε τον Προμηθέα με σκορ 102-87 σε ένα σημαντικό παιχνίδι. Το παιχνίδι έγινε στο ελληνικό πρωτάθλημα μπάσκετ. Ο Ολυμπιακός ήταν πολύ δυνατός και δεν άφησε τον αντίπαλο να ελπίζει. Ο παίκτης Πίτερς ξεχώρισε με την απόδοσή του. Αυτή η νίκη είναι άλλη μία απόδειξη ότι ο Ολυμπιακός είναι πολύ καλός φέτος. Οι φίλοι της ομάδας είναι πολύ χαρούμενοι με την επιτυχία τους. Δεν ξέρουμε ακόμα ποιο θα είναι το επόμενο παιχνίδι τους.",
+      "id": "c78b4365bed6",
+      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Οι δύο όψεις του… χιονιού για Shiffrin και Vonn",
+      "simpleTitle": "Χειμερινοί Ολυμπιακοί Αγώνες: Όσα συνέβησαν και όσα περιμένουμε",
+      "simpleText": "Την Κυριακή, στους Χειμερινούς Ολυμπιακούς Αγώνες, έγιναν σημαντικά γεγονότα. Ο κόσμος μίλησε για τους αγώνες χιονοδρομίας, καθώς οι αθλήτριες Shiffrin και Vonn είναι στην κορυφή. Ανυπομονούμε να δούμε τι θα γίνει τη Δευτέρα. Οι αγώνες είναι πολύ σημαντικοί για αθλητές και θεατές. Είναι ευκαιρία να δούμε σπουδαίους αθλητές να αγωνίζονται και να κερδίζουν. Η απλότητα του χιονιού και οι αγώνες δείχνουν τη σκληρή δουλειά όλων. Για να παρακολουθήσετε, μπορείτε να δείτε την τηλεόραση για να μην χάσετε τίποτα.",
       "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/02/08/sports/olympiakos-promitheas-102-87-erythroleyko-show-me-igeti-piters/",
+      "sourceUrl": "https://www.tovima.gr/2026/02/09/sports/xeimerinoi-olympiakoi-agones-oi-dyo-opseis-tou-xioniou-gia-shiffrin-kai-vonn/",
       "sourceDomains": [
         "tovima.gr"
       ],
       "sources": [
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/08/sports/olympiakos-promitheas-102-87-erythroleyko-show-me-igeti-piters/"
+          "url": "https://www.tovima.gr/2026/02/09/sports/xeimerinoi-olympiakoi-agones-oi-dyo-opseis-tou-xioniou-gia-shiffrin-kai-vonn/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ ανάμεσα στον Ολυμπιακό και τον Προμηθέα, με έμφαση στη νίκη και στην απόδοση του παίκτη Πίτερς, που είναι στοιχεία που σχετίζονται άμεσα με τον αθλητισμό. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες και την αγωνιστική δραστηριότητα των αθλητών Shiffrin και Vonn, που είναι κεντρικά θέματα για τον αθλητισμό. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-08T14:18:06.000Z"
+      "publishedAt": "2026-02-09T03:51:51.000Z"
+    },
+    {
+      "id": "be5095934bea",
+      "title": "Ολυμπιακός – Παναθηναϊκός 0-1: Πήραν το ντέρμπι οι πράσινοι",
+      "simpleTitle": "Παναθηναϊκός νίκησε τον Ολυμπιακό 1-0",
+      "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με 1-0 σε έναν σημαντικό αγώνα. Το παιχνίδι έγινε στο γήπεδο «Γεώργιος Καραϊσάκης». Το γκολ πέτυχε ο Ταμπόρδας. Ο Ολυμπιακός είχε πολλές ευκαιρίες να σκοράρει, αλλά δεν τα κατάφερε. Αυτή η νίκη είναι σημαντική για την ομάδα του Παναθηναϊκού. Ενισχύει την αυτοπεποίθησή τους και τους φέρνει πιο κοντά στους στόχους τους.",
+      "sourceName": "TO BHMA",
+      "sourceUrl": "https://www.tovima.gr/2026/02/08/sports/olympiakos-panathinaikos-0-1-piran-to-ntermpi-oi-prasinoi/",
+      "sourceDomains": [
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/08/sports/olympiakos-panathinaikos-0-1-piran-to-ntermpi-oi-prasinoi/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά σε ένα σημαντικό ποδοσφαιρικό αγώνα μεταξύ Ολυμπιακού και Παναθηναϊκού, με αναφορά στο σκορ και την απόδοση των ομάδων. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb457986add62a8e1d5b5926d03309e9d3316c29bc3a618c9f1bfdfa7f54f39f08fef4243b9ce6d988dd7f222ee601e4ae6b7703d07fd04d45eb97353933deeb4_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-08T20:07:35.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "235670671b9d",
-        "title": "Υπόθεση Επσταϊν: Παραιτήθηκε ο επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού",
-        "simpleTitle": "Παραιτήθηκε ο σύμβουλος του πρωθυπουργού της Βρετανίας",
-        "simpleText": "Ο Μόργκαν ΜακΣουίνι, ο επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού Κιρ Στάρμερ, παραιτήθηκε. Η είδηση ήρθε από τα βρετανικά ΜΜΕ όπως το Sky News και η εφημερίδα The Guardian. Ο ΜακΣουίνι ήταν ένας από τους καλύτερους συμβούλους του Στάρμερ και τον βοήθησε να πετύχει στις εκλογές του Ιουλίου 2024. Δεν έχουν ανακοινωθεί οι λόγοι για την παραίτησή του. Αυτή η αλλαγή μπορεί να επηρεάσει την κυβέρνηση και τις επόμενες πολιτικές αποφάσεις.",
-        "sourceName": "Kathimerini, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/world/564067693/ypothesi-epstain-paraitithike-o-epikefalis-toy-epiteleioy-toy-vretanoy-prothypoyrgoy/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564067693/ypothesi-epstain-paraitithike-o-epikefalis-toy-epiteleioy-toy-vretanoy-prothypoyrgoy/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4070033/paretithike-o-epikefalis-tou-epiteliou-tou-vretanou-prothipourgou-kir-starmer.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η παραίτηση του επικεφαλής του επιτελείου του Βρετανού πρωθυπουργού σχετίζεται με πολιτικά ζητήματα και μπορεί να επηρεάσει την κυβέρνηση και τις πολιτικές αποφάσεις, γι' αυτό εντάσσεται στις σοβαρές ειδήσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-08T14:55:55.000Z"
-      },
-      {
-        "id": "0153cb3ecf36",
-        "title": "Έρχονται ξανά βροχές και καταιγίδες – Με τι καιρό θα κάνουμε Τσικνοπέμπτη",
-        "simpleTitle": "Έρχεται βροχή την Τσικνοπέμπτη",
-        "simpleText": "Ο καιρός σήμερα είναι καλός, αλλά από αύριο, 9 Φεβρουαρίου, αναμένονται βροχές και καταιγίδες σε πολλές περιοχές της Ελλάδας. Αυτό θα συνεχιστεί και την Τσικνοπέμπτη, με τον καιρό να είναι άστατος. Αρχικά, οι βροχές θα ξεκινήσουν από τη Δυτική και τη Βόρεια Ελλάδα και μετά θα επηρεάσουν και άλλες περιοχές. Οι μετεωρολόγοι λένε ότι δεν περιμένουμε πολύ έντονα φαινόμενα, αλλά πρέπει να είμαστε προσεκτικοί. Οι βροχές θα διαρκέσουν και το Σαββατοκύριακο, οπότε καλό είναι να έχουμε υπόψη μας τον καιρό αν σχεδιάζουμε να βγούμε έξω.",
-        "sourceName": "ERT News, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/erxontai-ksana-vroxes-kai-kataigides-me-ti-kairo-tha-kanoume-tsiknopempti/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/erxontai-ksana-vroxes-kai-kataigides-me-ti-kairo-tha-kanoume-tsiknopempti/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/08/society/tsiknopempti-me-vroxes-kai-kataigides-proeidopoiisi-tsatrafyllia-gia-astato-kairo/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση σχετίζεται με τις καιρικές συνθήκες που αναμένονται, οι οποίες έχουν σοβαρές επιπτώσεις στην καθημερινότητα και τις δραστηριότητες του κόσμου, όπως οι βροχές και οι καταιγίδες.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/ertnews-20260208154303-aac-h264-microsoft-1080-5000kbps.mp4",
-        "publishedAt": "2026-02-08T14:55:40.000Z"
-      },
-      {
-        "id": "faf8e1a29a76",
-        "title": "Διδυμότειχο: Αγγιξε τα 6.50 μέτρα η στάθμη του νερού στο Πύθιο – Συστάσεις στους πολίτες",
-        "simpleTitle": "Σημαντική αύξηση της στάθμης του νερού στο Πύθιο",
-        "simpleText": "Στο Πύθιο Διδυμοτείχου, η στάθμη του νερού έφτασε τα 6,50 μέτρα. Αυτό είναι πάνω από το ανώτατο όριο συναγερμού, που είναι 5,80 μέτρα. Ο Δήμος καλεί τους κατοίκους να προσέχουν και να μην πλησιάζουν σε περιοχές με νερά. Αυτό είναι πολύ σημαντικό για την ασφάλεια όλων. Η κατάσταση προήλθε από τη μεγάλη ποσότητα νερού που έρχεται από τη Βουλγαρία. Για να αντιμετωπιστεί η κατάσταση, έχουν γίνει συσκέψεις με τις αρχές. Δεν έχει ανακοινωθεί ακόμα αν θα ληφθούν επιπλέον μέτρα προστασίας.",
-        "sourceName": "Kathimerini, TA NEA, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/society/564067645/didymoteicho-aggixe-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-systaseis-stoys-polites/",
+        "id": "6a16411f2e72",
+        "title": "Σε κρίσιμη κατάσταση στη ΜΕΘ το κοριτσάκι που ανασύρθηκε από συντριβάνι – Στον εισαγγελέα σήμερα οι γονείς του",
+        "simpleTitle": "** Σε κρίσιμη κατάσταση το κοριτσάκι που έπεσε σε συντριβάνι",
+        "simpleText": "** Ένα κοριτσάκι 2,5 ετών βρίσκεται σε πολύ σοβαρή κατάσταση μετά από ατύχημα στην Καλλιθέα. Το γεγονός συνέβη το βράδυ της Κυριακής, όταν το παιδί έπεσε σε σιντριβάνι στην πλατεία Κύπρου. Ο πατέρας του το είχε αφήσει χωρίς προσοχή και το κορίτσι έμεινε κάτω από το νερό για περίπου δέκα λεπτά.\n\nΆνθρωποι που περνούσαν από εκεί βοήθησαν να το βγάλουν από το νερό και κάλεσαν βοήθεια. Οι γιατροί στο νοσοκομείο πάλεψαν για να το σώσουν και κατάφεραν να το επαναφέρουν. Οι γονείς του παιδιού έχουν συλληφθεί και θα πάνε στον εισαγγελέα για παραμέληση ανηλίκου. Αυτό το γεγονός είναι πολύ σοβαρό και χρειάζεται προσοχή από όλους μας όταν είμαστε με μικρά παιδιά.",
+        "sourceName": "Kathimerini, TA NEA, Protagon",
+        "sourceUrl": "https://www.kathimerini.gr/society/564068023/se-krisimi-katastasi-sti-meth-to-koritsaki-poy-anasyrthike-apo-syntrivani-ston-eisaggelea-simera-oi-goneis-toy/",
         "sourceDomains": [
           "kathimerini.gr",
           "tanea.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564067645/didymoteicho-aggixe-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-systaseis-stoys-polites/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/08/greece/didymoteixo-aggikse-ta-6-50-metra-i-stathmi-toy-neroy-sto-pythio-pano-apo-ta-oria-synagerm/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4069993/angixe-ta-6-50-metra-i-stathmi-tou-nerou-sto-pithio-didimotichou.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση σχετίζεται με την επικίνδυνη αύξηση της στάθμης του νερού στο Πύθιο Διδυμοτείχου, που ξεπερνά το όριο συναγερμού, και τις συστάσεις των αρχών για την ασφάλεια των κατοίκων, καταδεικνύοντας μια σοβαρή κοινωνική και περιβαλλοντική κατάσταση.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-08T14:46:35.000Z"
-      },
-      {
-        "id": "31dcfd2a7b09",
-        "title": "Πρόσκληση Τραμπ σε Μητσοτάκη στο Συμβούλιο Ειρήνης για τη Γάζα",
-        "simpleTitle": "Πρόσκληση του Τραμπ σε Μητσοτάκη για τη Γάζα",
-        "simpleText": "Ο Τραμπ προσκάλεσε τον Μητσοτάκη να συμμετέχει στο Συμβούλιο Ειρήνης για τη Γάζα. Η συνάντηση θα γίνει στην Ουάσινγκτον. Η ελληνική κυβέρνηση θα απαντήσει στην πρόσκληση τις επόμενες ημέρες. Είναι σημαντικό να συμμετάσχει η Ελλάδα, γιατί οι αποφάσεις μπορεί να επηρεάσουν τον κόσμο και την περιοχή της Γάζας. Περιμένουμε περισσότερες πληροφορίες για το πότε ακριβώς θα γίνει η συνάντηση.",
-        "sourceName": "TO BHMA, News.gr",
-        "sourceUrl": "https://www.tovima.gr/2026/02/08/politics/prosklisi-tramp-se-mitsotaki-sto-symvoulio-eirinis-gia-ti-gaza/",
-        "sourceDomains": [
-          "tovima.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/08/politics/prosklisi-tramp-se-mitsotaki-sto-symvoulio-eirinis-gia-ti-gaza/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/politikh/article/4070012/o-trab-proskalese-ton-mitsotaki-sto-simvoulio-tis-irinis-gia-ti-gaza-ton-fevrouario.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σημαντική διεθνή πρόσκληση του Τραμπ προς τον Μητσοτάκη για τη συμμετοχή στη Συνεδρίαση του Συμβουλίου Ειρήνης, γεγονός που σχετίζεται με πολιτικά και κοινωνικά ζητήματα στην περιοχή της Γάζας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-08T14:42:34.000Z"
-      },
-      {
-        "id": "2b792106468f",
-        "title": "Νεκρός αστυνομικός μετά από ξυλοδαρμό σε συνεργείο στην Άγκυρα",
-        "simpleTitle": "Θάνατος αστυνομικού από ξυλοδαρμό στην Άγκυρα",
-        "simpleText": "Ένας 44χρονος αστυνομικός στην Τουρκία, ο Οκάν Κεσκίν, πέθανε μετά από ξυλοδαρμό σε συνεργείο στην Άγκυρα. Αυτό συνέβη τη Δευτέρα και ήταν σοκαριστικό για όλους. Οι γιατροί του είπαν ότι είχε σοβαρό πρόβλημα στον εγκέφαλο και χρειάστηκε να υποβληθεί σε χειρουργική επέμβαση, αλλά δεν τα κατάφερε και πέθανε τρεις ημέρες αργότερα.\n\nΣύμφωνα με τη σύζυγό του, ο αστυνομικός υπερασπίστηκε τον εαυτό του από πολλές επιθέσεις. Ήταν ένας καλός πατέρας και η οικογένειά του είναι συγκλονισμένη. Μετά το συμβάν, μια εταιρεία αποφάσισε να σταματήσει τη συνεργασία με δύο από τους ανθρώπους που συμμετείχαν στο ξυλοδαρμό.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/nekros-astynomikos-meta-apo-ksylodarmo-se-synergeio-stin-agkyra/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/nekros-astynomikos-meta-apo-ksylodarmo-se-synergeio-stin-agkyra/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/08/world/tourkia-nekros-astynomikos-meta-apo-omadiko-ksylodarmo-se-synergeio-aytokiniton-vinteo/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον θάνατο ενός αστυνομικού μετά από ξυλοδαρμό και περιλαμβάνει σοβαρά κοινωνικά ζητήματα όπως η βία και η ασφάλεια, πράγμα που την καθιστά σοβαρή.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g8cf90f5f4aa8823d9fe7ccea701101d4f6ded03d55c6c9964bb194d6c7ddd3ef665ad6227768027e9c95fccda1c0dd8c3674d128286030cfc6b7da4ea0d7de9a_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-08T14:38:46.000Z"
-      },
-      {
-        "id": "3e2ad8772955",
-        "title": "Γ. Παπανδρέου: Διαψεύδει δημοσίευμα περί σχέσεων με Επστάιν – «Τέλος η λάσπη»",
-        "simpleTitle": "Γ. Παπανδρέου: Αρνείται σχέσεις με Επστάιν",
-        "simpleText": "Ο Γιώργος Παπανδρέου, πρώην πρωθυπουργός, δήλωσε ότι δεν έχει καμία σχέση με τον Τζέφρι Επστάιν. Το είπε αυτό απαντώντας σε ένα δημοσίευμα που τον παρουσιάζει να έχει επικοινωνία μαζί του. Ο Παπανδρέου χαρακτήρισε το άρθρο ψευδές και κατηγόρησε όσους το έγραψαν ότι προσπαθούν να τον παραπλανήσουν. Είναι σημαντικό για εκείνον να υπερασπιστεί τη φήμη του, ειδικά λόγω των ψευδών ισχυρισμών. Αν και η υπόθεση συζητήθηκε πολύ, ο Παπανδρέου τονίζει ότι όλα είναι αναληθή. Τέλος, ζητά να σταματήσει η διάδοση τέτοιων πληροφοριών.",
-        "sourceName": "Kathimerini, TO BHMA, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/politics/564067684/g-papandreoy-diapseydei-dimosieyma-peri-scheseon-me-epstain-telos-i-laspi/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr",
           "protagon.gr"
         ],
         "sources": [
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/politics/564067684/g-papandreoy-diapseydei-dimosieyma-peri-scheseon-me-epstain-telos-i-laspi/"
+            "url": "https://www.kathimerini.gr/society/564068023/se-krisimi-katastasi-sti-meth-to-koritsaki-poy-anasyrthike-apo-syntrivani-ston-eisaggelea-simera-oi-goneis-toy/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/08/politics/papandreou-oudepote-eixa-sxesi-i-epikoinonia-me-ton-epstain/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/09/greece/kallithea-se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-ston-eisaggelea-simera-oi-goneis/"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/telos-i-laspi-orgi-giwrgou-papandreou-gia-dimosievmata-peri-sxesewn-me-epstain-44343308590"
+            "url": "https://www.protagon.gr/epikairotita/se-krisimi-katastasi-to-koritsaki-pou-epese-se-syntrivani-stin-kallithea-ston-eisaggelea-oi-goneis-44343308719"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές κατηγορίες που διατυπώνονται εναντίον ενός πρώην πρωθυπουργού σχετικά με φήμες και ψευδείς ισχυρισμούς για σχέσεις με έναν καταδικασμένο αδίκημα, γεγονός που άπτεται της φήμης και της πολιτικής του καριέρας.",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα και την κατάσταση ενός μικρού παιδιού, προκαλώντας ανησυχία και ερωτήματα σχετικά με την παραμέληση από τους γονείς του.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.megatv.com/embed/?p=20202262220",
+        "publishedAt": "2026-02-09T07:59:17.000Z"
+      },
+      {
+        "id": "3ecbec60a25e",
+        "title": "Ευρυτανία: Νεκρός 59χρονος οδηγός που έπεσε σε χαράδρα 300 μέτρων",
+        "simpleTitle": "59χρονος οδηγός νεκρός σε τροχαίο στην Ευρυτανία",
+        "simpleText": "Ένας 59χρονος άνδρας έχασε τη ζωή του όταν το αυτοκίνητό του έπεσε σε χαράδρα 300 μέτρων, στον Προυσό Ευρυτανίας. Το τροχαίο συνέβη το βράδυ της Κυριακής, 8 Φεβρουαρίου, κατά τη διάρκεια της διαδρομής προς Τόρνο. Οι διασώστες εργάστηκαν σκληρά για να βρουν τον οδηγό και χρειάστηκαν πολλές ώρες λόγω της δυσκολίας του εδάφους. Όταν τον ανέσυραν, ήταν χωρίς αισθήσεις και μεταφέρθηκε στο νοσοκομείο. Η αστυνομία ψάχνει να βρει περισσότερες πληροφορίες για το πώς συνέβη το ατύχημα. Δεν ξέρουμε ακόμα αν υπήρχαν και άλλοι επιβάτες στο αυτοκίνητο.",
+        "sourceName": "ERT News, Kathimerini, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/eyrytania-nekros-59xronos-odigos-pou-epese-se-xaradra-300-metron/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/eyrytania-nekros-59xronos-odigos-pou-epese-se-xaradra-300-metron/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564068074/eyrytania-ich-epese-se-gkremo-300-metron-nekros-o-odigos/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/09/society/eyrytania-thanatiforo-troxaio-ix-epese-se-gkremo-300-metron/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο περιστατικό που είχε ως αποτέλεσμα τον θάνατο ενός ανθρώπου, γεγονός που σχετίζεται με θέματα ασφάλειας και υγείας.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g4a4373955df8fd113f9a7ab5c0e927c3005d08d8493d7900b56e4e9c5eefeda7919b1f7e50db1e378e94d485333fe6a2a347d05b2047522933594910de46be89_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-09T07:57:37.000Z"
+      },
+      {
+        "id": "3dba6317382f",
+        "title": "Η Ουκρανία βρίσκεται πίσω από την απόπειρα δολοφονίας του Ρώσου στρατηγού, ισχυρίζεται η FSB",
+        "simpleTitle": "Ουκρανία και Πολωνία κατηγορούνται για απόπειρα δολοφονίας Ρώσου στρατηγού",
+        "simpleText": "Η Ρωσία ισχυρίζεται ότι η Ουκρανία σχεδίασε μια απόπειρα δολοφονίας κατά του στρατηγού Βλαντίμιρ Αλεξέγεφ. Αυτή η δήλωση ήρθε από την Υπηρεσία Ασφαλείας της Ρωσίας (FSB). Οι ρωσικές αρχές είπαν ότι κάποιος από την Πολωνία βοήθησε στη στρατολόγηση του δράστη. Η επίθεση έγινε στη Μόσχα, όπου ο στρατηγός πυροβολήθηκε και χρειάστηκε να υποβληθεί σε εγχείρηση.\n\nΟι Ουκρανοί αρνούνται ότι έχουν οποιαδήποτε σχέση με την υπόθεση. Η Ρωσία κατηγορεί την Ουκρανία ότι ήθελε να σαμποτάρει τις συνομιλίες για ειρήνη μεταξύ των χωρών τους. Δεν έχουν παρουσιαστεί αποδείξεις για αυτές τις κατηγορίες μέχρι τώρα.",
+        "sourceName": "ERT News, Kathimerini, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-oukrania-vrisketai-piso-apo-tin-apopeira-dolofonias-tou-rosou-stratigou-isxyrizetai-i-fsb/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/i-oukrania-vrisketai-piso-apo-tin-apopeira-dolofonias-tou-rosou-stratigou-isxyrizetai-i-fsb/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564068137/rosia-i-oykrania-vrisketai-piso-apo-tin-apopeira-dolofonias-toy-rosoy-stratigoy/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4070277/i-fsb-lei-oti-i-oukrania-vriskete-piso-apo-tin-apopira-dolofonias-tou-rosou-stratigou.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και στρατηγικές εντάσεις μεταξύ Ρωσίας και Ουκρανίας, με κατηγορίες δολοφονίας και ύποπτες σχέσεις, που ενδεχομένως επηρεάζουν τις ειρηνευτικές συνομιλίες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-08T14:20:00.000Z"
+        "publishedAt": "2026-02-09T07:49:04.000Z"
+      },
+      {
+        "id": "263dd078df50",
+        "title": "Τουλάχιστον 30 νεκροί σε τροχαίο στη Νιγηρία",
+        "simpleTitle": "Τουλάχιστον 30 άτομα σκοτώθηκαν από τροχαίο στη Νιγηρία",
+        "simpleText": "Στη Νιγηρία, τουλάχιστον 30 άνθρωποι έχασαν τη ζωή τους σε ένα σοβαρό τροχαίο δυστύχημα που έγινε το πρωί της Κυριακής στην πολιτεία Κάνο. Ένα μεγάλο φορτηγό συγκρούστηκε με άλλο όχημα εξαιτίας κακής οδήγησης. Σε αυτή τη χώρα, τα τροχαία είναι συχνά, καθώς οι δρόμοι δεν είναι σε καλή κατάσταση και δεν τηρούνται οι κανόνες κυκλοφορίας.\n\nΟ κυβερνήτης της πολιτείας ανακοίνωσε ότι οι τραυματίες θα λάβουν δωρεάν ιατρική βοήθεια και ότι θα στηριχθούν οι οικογένειές τους. Είναι σημαντικό οι οδηγοί, ειδικά των βαρέων οχημάτων, να οδηγούν προσεκτικά για να αποφευχθούν παρόμοια ατυχήματα στο μέλλον.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/toulaxiston-30-nekroi-se-troxaio-sti-nigiria/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/toulaxiston-30-nekroi-se-troxaio-sti-nigiria/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564068092/nigiria-toylachiston-30-nekroi-se-trochaio-dystychima/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/09/world/toylaxiston-30-nekroi-se-polynekro-troxaio-dystyxima-sti-nigiria/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρό τροχαίο δυστύχημα με πολλούς θανάτους και αναδεικνύει ζητήματα οδικής ασφάλειας, συντήρησης υποδομών και κοινωνικών επιπτώσεων, τα οποία είναι κρίσιμα ζητήματα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g9c59aef12a2421cf4fb32bbdd959bf4b066c3739557ed42cceb149a0f6fa19b0565f8023b4f5ceb5d7b4ffd4f9e99b394502151af75a1616a41b4682c97af1ec_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-09T07:08:42.000Z"
+      },
+      {
+        "id": "ff4931dcb3f3",
+        "title": "Σε κρίσιμη κατάσταση το κοριτσάκι που έπεσε σε σιντριβάνι στην Καλλιθέα – Οι γιατροί έδιναν μάχη επί 40 λεπτά για να κρατηθεί στη ζωή",
+        "simpleTitle": "**Τίτλος: Κρίσιμη κατάσταση για κοριτσάκι που έπεσε σε σιντριβάνι**",
+        "simpleText": "Κοριτσάκι διακομίστηκε σε κρίσιμη κατάσταση στο νοσοκομείο Παίδων «Αγλαΐα Κυριακού» στην Καλλιθέα, αφού έπεσε σε σιντριβάνι. Το περιστατικό έγινε το βράδυ της Κυριακής, ενώ το παιδί ήταν με τους γονείς του στην πλατεία Κύπρου και ξαφνικά χάθηκε από την προσοχή τους. Ο πατέρας το βρήκε μέσα στο σιντριβάνι. Για σαράντα λεπτά οι γιατροί προσπαθούσαν να το κρατήσουν στη ζωή.\n\nΗ κατάσταση του παιδιού είναι σοβαρή και έχει διασωληνωθεί. Οι γονείς του, ηλικίας 26 και 23 ετών, κρατούνται από την αστυνομία για παραμέληση και θα οδηγηθούν στον εισαγγελέα. Το γεγονός αυτό είναι πολύ σοβαρό και όλοι ελπίζουν να γίνει καλά το κοριτσάκι.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-stin-kallithea-oi-giatroi-edinan-maxi-epi-40-lepta-gia-na-kratithei-sti-zoi/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/se-krisimi-katastasi-to-koritsaki-pou-epese-se-sintrivani-stin-kallithea-oi-giatroi-edinan-maxi-epi-40-lepta-gia-na-kratithei-sti-zoi/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4070221/ston-isangelea-i-gonis-tis-mikris-pou-epese-se-sintrivani-stin-kallithea.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το περιστατικό αφορά σε σοβαρό ατύχημα ενός μικρού παιδιού που είναι σε κρίσιμη κατάσταση, με αναφορές σε παραμέληση γονέων και ιατρική παρέμβαση, κάτι που συνδέεται με σημαντικά κοινωνικά ζητήματα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/ertnews-20260209061459-aac-h264-microsoft-1080-5000kbps.mp4",
+        "publishedAt": "2026-02-09T07:06:24.000Z"
+      },
+      {
+        "id": "4a739385caa0",
+        "title": "Ιαπωνία: Αλματώδης άνοδος στο χρηματιστήριο του Τόκιο μετά τον εκλογικό θρίαμβο της Τακαΐτσι",
+        "simpleTitle": "Ανοδος του χρηματιστηρίου στο Τόκιο μετά τις εκλογές της Τακαΐτσι",
+        "simpleText": "Το χρηματιστήριο του Τόκιο σημείωσε μεγάλη άνοδο σήμερα, με κέρδη περίπου 5%. Αυτό έγινε μετά από την εκλογική νίκη της πρωθυπουργού Σανάε Τακαΐτσι. Η Τακαΐτσι υποσχέθηκε περισσότερα χρήματα από το κράτος και μείωση φόρων. Αυτές οι αλλαγές μπορεί να βοηθήσουν την οικονομία, αν και κάποιοι ειδικοί ανησυχούν για το πώς θα εφαρμοστούν. Ο δείκτης Nikkei αυξήθηκε στις 56.694 μονάδες και για λίγο πέρασε τις 57.000 μονάδες. Η νίκη της Τακαΐτσι είναι σημαντική, γιατί η κυβέρνησή της έχει τώρα ισχυρή πλειοψηφία στη Βουλή.",
+        "sourceName": "ERT News, TA NEA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/iaponia-almatodis-anodos-sto-xrimatistirio-tou-tokio-meta-ton-eklogiko-thriamvo-tis-takaitsi/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/oikonomia/iaponia-almatodis-anodos-sto-xrimatistirio-tou-tokio-meta-ton-eklogiko-thriamvo-tis-takaitsi/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/09/economy/iaponia-to-xrimatistirio-apogeionetai-meta-ton-eklogiko-thriamvo-tis-prothypoyrgoy-takaits/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/oikonomia/article/4070167/to-chrimatistirio-tou-tokio-apogionete-meta-ton-eklogiko-thriamvo-tis-prothipourgou-taka%ce%90tsi.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την οικονομική κατάσταση και τις πολιτικές εξελίξεις στην Ιαπωνία μετά την εκλογική νίκη της πρωθυπουργού Σανάε Τακαΐτσι, οι οποίες ενδέχεται να έχουν σοβαρές επιπτώσεις στην οικονομία και τη χρηματιστηριακή αγορά.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-09T06:35:47.000Z"
       }
     ],
     "happy": [
       {
         "id": "e9fbce43f35e",
         "title": "Πώς μας ωφελεί να κοιμόμαστε σε συμμαζεμένο δωμάτιο",
-        "simpleTitle": "Τα οφέλη του καθαρού δωματίου στον ύπνο",
-        "simpleText": "Ο ύπνος μας εξαρτάται από το πώς είναι το δωμάτιό μας. Ένα καθαρό και τακτοποιημένο δωμάτιο μπορεί να μας βοηθήσει να κοιμόμαστε καλύτερα. Αν το δωμάτιο είναι συμμαζεμένο, ο νους μας ηρεμεί πιο εύκολα. Έτσι, ξυπνάμε πιο ξεκούραστοι και με καλή διάθεση. Μειώνονται οι ενοχλήσεις από πράγματα που μας αποσπούν την προσοχή. Είναι σημαντικό να φτιάχνουμε το δωμάτιό μας, γιατί αυτό μπορεί να αλλάξει τη στάση μας και την ποιότητα του ύπνου μας. Ένας ήσυχος χώρος είναι απαραίτητος για καλό ύπνο.",
+        "simpleTitle": "Οφέλη από έναν καθαρό χώρο ύπνου",
+        "simpleText": "Ο ύπνος μας δεν εξαρτάται μόνο από τις ώρες που κοιμόμαστε, αλλά και από το πού κοιμόμαστε. Όταν το δωμάτιό μας είναι συμμαζεμένο, βοηθάει να κοιμόμαστε καλύτερα. Ένα καθαρό δωμάτιο μας κάνει πιο ήρεμους και βελτιώνει τη διάθεσή μας το πρωί. Λιγότερα πράγματα γύρω μας σημαίνει ότι ο εγκέφαλός μας μπορεί να χαλαρώσει πιο εύκολα. Αυτό έχει σημασία, γιατί ο καλός ύπνος μας βοηθάει να νιώθουμε καλύτερα κατά τη διάρκεια της ημέρας. Είναι καλό να διατηρούμε το χώρο μας καθαρό και οργανωμένο, ώστε να ξεκουραζόμαστε όπως πρέπει.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31658-pos-mas-ofelei-na-koimomaste-se-symmazemeno-domatio/",
         "sourceDomains": [
@@ -716,7 +774,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση επικεντρώνεται στα οφέλη που έχει η καθαριότητα και η οργάνωση ενός δωματίου στον ύπνο μας και τη διάθεσή μας, κάτι που προάγει μια θετική και χαρούμενη αίσθηση.",
+        "categoryReason": "Η είδηση αφορά τα οφέλη του ύπνου σε ένα καθαρό και οργανωμένο δωμάτιο, το οποίο συνδέεται άμεσα με τη βελτίωση της διάθεσης και της ευημερίας, κάνοντάς την θετική και ενθαρρυντική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -725,8 +783,8 @@
       {
         "id": "9ce74f433000",
         "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
-        "simpleTitle": "Φινλανδία: πώς η απλότητα φέρνει ευτυχία",
-        "simpleText": "Η Φινλανδία είναι γνωστή ως ένας από τους πιο ευτυχισμένους τόπους στον κόσμο. Αυτό φαίνεται από την Παγκόσμια Έκθεση Ευτυχίας που μετρά την ικανοποίηση των ανθρώπων από τη ζωή τους. Οι Φινλανδοί έχουν σταθερά την πρώτη θέση εδώ και οκτώ χρόνια. Οι κάτοικοι πιστεύουν ότι η ευτυχία έρχεται από την απλότητα. Λένε ότι έχουν χαμηλές προσδοκίες και έτσι απολαμβάνουν τη ζωή περισσότερο. Αυτό δείχνει πόσο σημαντικό είναι να εκτιμούμε τα απλά πράγματα γύρω μας. Οι φιλικές σχέσεις και η αίσθηση του χιούμορ παίζουν επίσης μεγάλο ρόλο στη ζωή τους.",
+        "simpleTitle": "Φινλανδία: Μυστικά για ευτυχία στη ζωή",
+        "simpleText": "Η Φινλανδία είναι γνωστή για την ευτυχία των ανθρώπων της. Σε μια έκθεση που μετράει πόσο ικανοποιημένοι είναι οι πολίτες από τη ζωή τους, οι Φινλανδοί βρίσκονται στην πρώτη θέση εδώ και οκτώ χρόνια. Οι άνθρωποι στη Φινλανδία λένε ότι είναι ευτυχισμένοι γιατί έχουν χαμηλές προσδοκίες. Αυτό σημαίνει ότι δεν περιμένουν πολλά από τη ζωή τους και έτσι είναι πιο εύκολο να είναι ικανοποιημένοι. Αυτή η νοοτροπία τους βοηθά να ζουν με ηρεμία και χαρά. Είναι σημαντικό να καταλάβουμε ότι η ευτυχία μπορεί να είναι τρόπος ζωής και όχι μόνο στόχος.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
         "sourceDomains": [
@@ -739,7 +797,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στην ευτυχία των Φινλανδών και στην ικανοποίηση από τη ζωή τους, προβάλλοντας θετικά στοιχεία και αξίες που σχετίζονται με την απλότητα και τις φιλικές σχέσεις.",
+        "categoryReason": "Αυτό το άρθρο μιλάει για την ευτυχία των Φινλανδών και τον τρόπο ζωής τους που συμβάλλει στην ικανοποίησή τους, εστιάζοντας σε θετικά στοιχεία και νοοτροπίες που δημιουργούν ευχάρισες εμπειρίες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -748,8 +806,8 @@
       {
         "id": "dc09633d0e1e",
         "title": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-        "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς;",
-        "simpleText": "Όταν ξυπνάμε νωρίς, νιώθουμε πιο ευτυχισμένοι. Οι πρώτες ώρες της ημέρας είναι μοναδικές και μας βοηθούν να είμαστε καλύτερα. Ο καλός ύπνος είναι πολύ σημαντικός για την υγεία μας. Πρέπει να κοιμόμαστε σωστά, γιατί αυτό μας δίνει ενέργεια και μας βοηθά να συγκεντρωνόμαστε. Όταν έχουμε καλή διάθεση, μπορούμε να λειτουργούμε καλύτερα στην καθημερινότητά μας. Δεν ξέρουμε πάντα γιατί, αλλά οι επιστήμονες λένε ότι το πρωινό ξύπνημα έχει θετική επίδραση στη ζωή μας. Είναι καλό να προσπαθούμε να ξυπνάμε νωρίτερα.",
+        "simpleTitle": "Γιατί νιώθουμε καλύτερα όταν ξυπνάμε νωρίς",
+        "simpleText": "Όταν ξυπνάμε νωρίς, μπορεί να νιώθουμε πιο καλά. Οι πρώτες ώρες της ημέρας έχουν κάτι ιδιαίτερο που μας κάνει να είμαστε πιο χαρούμενοι. Ο καλός ύπνος είναι σημαντικός για την ενέργεια και την διάθεσή μας. Αν κοιμόμαστε καλά, νιώθουμε πιο συγκεντρωμένοι και έτοιμοι να αντιμετωπίσουμε την ημέρα. Γι' αυτό, το να ξυπνάμε νωρίς μπορεί να είναι πολύ ωφέλιμο για τον ψυχισμό μας και την υγεία μας.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31331-giati-niothoume-kalitera-otan-xipname-noris/",
         "sourceDomains": [
@@ -762,7 +820,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Το άρθρο αναφέρεται στα οφέλη του πρωινού ξυπνήματος και της ποιότητας του ύπνου, επισημαίνοντας την θετική επίδραση στη διάθεση και την ευτυχία μας, γεγονός που το καθιστά μια χαρούμενη και θετική ιστορία.",
+        "categoryReason": "Η είδηση αναφέρεται στα θετικά συναισθήματα και στα οφέλη για την υγεία που προκύπτουν από το νωρίς ξύπνημα, γεγονός που ενισχύει τη διάθεση και τη ψυχική ευεξία.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -771,8 +829,8 @@
       {
         "id": "854cba3d8baa",
         "title": "Παιδί θαύμα στο σνούκερ: ο τρίχρονος Τζουντ Όουενς έγραψε ιστορία με ρεκόρ Guinness",
-        "simpleTitle": "Τρίχρονος Τζουντ κερδίζει ρεκόρ σνούκερ",
-        "simpleText": "Ο μικρός Τζουντ Όουενς, που είναι τριών ετών, έχει κάνει κάτι φοβερό στο σνούκερ. Κατάφερε να σπάσει δύο παγκόσμια ρεκόρ Guinness. Αυτό έγινε πριν κλείσει τα τρία του χρόνια. Ζει στο Μάντσεστερ, στην Αγγλία. Ο Τζουντ δείχνει ότι το ταλέντο μπορεί να έχει κάθε ηλικία. Ξέρει πώς να παίζει καλά και το κάνει με ηρεμία. Τα κατορθώματά του έχουν εντυπωσιάσει πολλούς ανθρώπους και όλοι μιλούν γι' αυτόν. Είναι σημαντικό γιατί μας δείχνει ότι με προσπάθεια μπορείς να κάνεις σπουδαία πράγματα.",
+        "simpleTitle": "Τρίχρονος Τζουντ Όουενς σπάει ρεκόρ σνούκερ",
+        "simpleText": "Ο μικρός Τζουντ Όουενς από το Μάντσεστερ έγινε διάσημος γιατί κατέκτησε δύο παγκόσμια ρεκόρ στο σνούκερ πριν κλείσει τα τρία του χρόνια. Είναι σπάνιο για ένα τόσο νεαρό παιδί να πετυχαίνει τέτοια επιτεύγματα. Ο Τζουντ δείχνει μεγάλη ηρεμία και ικανότητα στο παιχνίδι, κάτι που εντυπωσιάζει πολλούς. Αυτό το γεγονός μας δείχνει ότι το ταλέντο δεν εξαρτάται από την ηλικία. Επίσης, η επιτυχία του μπορεί να εμπνεύσει και άλλα παιδιά να ασχοληθούν με τον αθλητισμό. Δεν γνωρίζουμε αν θα σπάσει άλλα ρεκόρ στο μέλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31617-paidi-thauma-sto-snouker-o-trixronos-tzount-ouens-spaei-rekor/",
         "sourceDomains": [
@@ -785,7 +843,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία του τρίχρονου Τζουντ Όουενς που σπάει παγκόσμια ρεκόρ στο σνούκερ είναι μια θετική και ενθαρρυντική αφήγηση που εμπνέει και φτιάχνει τη διάθεση, δείχνοντας ότι το ταλέντο μπορεί να εκδηλωθεί σε κάθε ηλικία.",
+        "categoryReason": "Η είδηση αναφέρεται σε ένα παιδί που έγραψε ιστορία με δύο παγκόσμια ρεκόρ στο σνούκερ, γεγονός που προκαλεί θαυμασμό και ενθουσιασμό, προβάλλοντας θετικά επιτεύγματα και έμπνευση για άλλους.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -794,50 +852,50 @@
     ],
     "sports": [
       {
-        "id": "8c1991a13b7c",
-        "title": "Live streaming: Δείτε τον ημιτελικό ΑΕΚ-Ιωνικός για το Final-4 του Κυπέλλου Ελλάδος στο Χάντμπολ (17:00, EΡΤSports1)",
-        "simpleTitle": "Ζωντανή μετάδοση: ΑΕΚ-Ιωνικός στο Χάντμπολ",
-        "simpleText": "Σήμερα, στις 17:00, θα γίνει ο ημιτελικός αγώνας χάντμπολ μεταξύ της ΑΕΚ και του Ιωνικού. Ο αγώνας θα πραγματοποιηθεί στο κλειστό γυμναστήριο του Καματερού. Μπορείτε να παρακολουθήσετε τη ζωντανή μετάδοση μέσω του καναλιού ΕΡΤSports1, το οποίο είναι διαθέσιμο και στο ΕRTFLIX. Είναι μια σημαντική στιγμή για τις ομάδες, καθώς αγωνίζονται για μια θέση στον τελικό του Κυπέλλου Ελλάδος.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-aek-ionikos-gia-to-final-4-tou-kypellou-ellados-sto-xantmpol-17-00-ertsports1/",
-        "sourceDomains": [
-          "ertnews.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-aek-ionikos-gia-to-final-4-tou-kypellou-ellados-sto-xantmpol-17-00-ertsports1/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Ο αγώνας αφορά τον ημιτελικό του Κυπέλλου Ελλάδος στο χάντμπολ, οπότε κατατάσσεται στην κατηγορία των αθλητικών νέων. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ert-sports-live-ww&#038;autostart=true",
-        "publishedAt": "2026-02-08T14:50:00.000Z"
-      },
-      {
-        "id": "13ace0264cf6",
-        "title": "Ολυμπιακός – Προμηθέας 102-87: «Ερυθρόλευκο» show με ηγέτη Πίτερς",
-        "simpleTitle": "Ολυμπιακός νίκησε τον Προμηθέα",
-        "simpleText": "Ο Ολυμπιακός κέρδισε τον Προμηθέα με σκορ 102-87 σε ένα σημαντικό παιχνίδι. Το παιχνίδι έγινε στο ελληνικό πρωτάθλημα μπάσκετ. Ο Ολυμπιακός ήταν πολύ δυνατός και δεν άφησε τον αντίπαλο να ελπίζει. Ο παίκτης Πίτερς ξεχώρισε με την απόδοσή του. Αυτή η νίκη είναι άλλη μία απόδειξη ότι ο Ολυμπιακός είναι πολύ καλός φέτος. Οι φίλοι της ομάδας είναι πολύ χαρούμενοι με την επιτυχία τους. Δεν ξέρουμε ακόμα ποιο θα είναι το επόμενο παιχνίδι τους.",
+        "id": "c78b4365bed6",
+        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Οι δύο όψεις του… χιονιού για Shiffrin και Vonn",
+        "simpleTitle": "Χειμερινοί Ολυμπιακοί Αγώνες: Όσα συνέβησαν και όσα περιμένουμε",
+        "simpleText": "Την Κυριακή, στους Χειμερινούς Ολυμπιακούς Αγώνες, έγιναν σημαντικά γεγονότα. Ο κόσμος μίλησε για τους αγώνες χιονοδρομίας, καθώς οι αθλήτριες Shiffrin και Vonn είναι στην κορυφή. Ανυπομονούμε να δούμε τι θα γίνει τη Δευτέρα. Οι αγώνες είναι πολύ σημαντικοί για αθλητές και θεατές. Είναι ευκαιρία να δούμε σπουδαίους αθλητές να αγωνίζονται και να κερδίζουν. Η απλότητα του χιονιού και οι αγώνες δείχνουν τη σκληρή δουλειά όλων. Για να παρακολουθήσετε, μπορείτε να δείτε την τηλεόραση για να μην χάσετε τίποτα.",
         "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/02/08/sports/olympiakos-promitheas-102-87-erythroleyko-show-me-igeti-piters/",
+        "sourceUrl": "https://www.tovima.gr/2026/02/09/sports/xeimerinoi-olympiakoi-agones-oi-dyo-opseis-tou-xioniou-gia-shiffrin-kai-vonn/",
         "sourceDomains": [
           "tovima.gr"
         ],
         "sources": [
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/08/sports/olympiakos-promitheas-102-87-erythroleyko-show-me-igeti-piters/"
+            "url": "https://www.tovima.gr/2026/02/09/sports/xeimerinoi-olympiakoi-agones-oi-dyo-opseis-tou-xioniou-gia-shiffrin-kai-vonn/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ ανάμεσα στον Ολυμπιακό και τον Προμηθέα, με έμφαση στη νίκη και στην απόδοση του παίκτη Πίτερς, που είναι στοιχεία που σχετίζονται άμεσα με τον αθλητισμό. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τους Χειμερινούς Ολυμπιακούς Αγώνες και την αγωνιστική δραστηριότητα των αθλητών Shiffrin και Vonn, που είναι κεντρικά θέματα για τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-08T14:18:06.000Z"
+        "publishedAt": "2026-02-09T03:51:51.000Z"
+      },
+      {
+        "id": "be5095934bea",
+        "title": "Ολυμπιακός – Παναθηναϊκός 0-1: Πήραν το ντέρμπι οι πράσινοι",
+        "simpleTitle": "Παναθηναϊκός νίκησε τον Ολυμπιακό 1-0",
+        "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με 1-0 σε έναν σημαντικό αγώνα. Το παιχνίδι έγινε στο γήπεδο «Γεώργιος Καραϊσάκης». Το γκολ πέτυχε ο Ταμπόρδας. Ο Ολυμπιακός είχε πολλές ευκαιρίες να σκοράρει, αλλά δεν τα κατάφερε. Αυτή η νίκη είναι σημαντική για την ομάδα του Παναθηναϊκού. Ενισχύει την αυτοπεποίθησή τους και τους φέρνει πιο κοντά στους στόχους τους.",
+        "sourceName": "TO BHMA",
+        "sourceUrl": "https://www.tovima.gr/2026/02/08/sports/olympiakos-panathinaikos-0-1-piran-to-ntermpi-oi-prasinoi/",
+        "sourceDomains": [
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/08/sports/olympiakos-panathinaikos-0-1-piran-to-ntermpi-oi-prasinoi/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αφορά σε ένα σημαντικό ποδοσφαιρικό αγώνα μεταξύ Ολυμπιακού και Παναθηναϊκού, με αναφορά στο σκορ και την απόδοση των ομάδων. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gb457986add62a8e1d5b5926d03309e9d3316c29bc3a618c9f1bfdfa7f54f39f08fef4243b9ce6d988dd7f222ee601e4ae6b7703d07fd04d45eb97353933deeb4_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-08T20:07:35.000Z"
       }
     ],
     "screen": [],
