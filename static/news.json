@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-02-10T16:28:48.159Z",
+  "generatedAt": "2026-02-11T08:14:15.484Z",
   "articles": [
     {
-      "id": "dd9646177b2c",
-      "title": "Στάρμερ: Δεν θα εγκαταλείψω ποτέ το αξίωμά μου",
-      "simpleTitle": "Ο Στάρμερ θέλει να παραμείνει στη θέση του",
-      "simpleText": "Ο βρετανός πρωθυπουργός Στάρμερ είπε ότι δεν θα εγκαταλείψει ποτέ τη θέση του. Αυτή την ανακοίνωση την έκανε σε μια δύσκολη περίοδο. Είναι υπό πίεση λόγω του διορισμού ενός νέου πρέσβη στην Ουάσιγκτον. Αυτή η κατάσταση δημιουργεί ανησυχίες για τις σχέσεις της χώρας. Ο Στάρμερ δήλωσε ότι θα συνεχίσει να παλεύει για την αλλαγή στη Βρετανία. Υπογράμμισε ότι είναι πιστός στους ανθρώπους που εκπροσωπεί και δεν θα παρατήσει την αποστολή του. Είναι σημαντικό για τον κόσμο να γνωρίζει ότι οι πολιτικοί πρέπει να παραμένουν σταθεροί στις αποφάσεις τους.",
-      "sourceName": "Kathimerini, Protagon",
-      "sourceUrl": "https://www.kathimerini.gr/world/564070615/starmer-den-tha-egkataleipso-pote-to-axioma-moy/",
+      "id": "f9a607d698fa",
+      "title": "Έφοδος της ΕΛΑΣ σε καταυλισμούς στο Μενίδι και τη Φυλή – Ξήλωσαν παράνομα καλώδια 520 μέτρων",
+      "simpleTitle": "Μεγάλη επιχείρηση της αστυνομίας σε Μενίδι και Φυλή",
+      "simpleText": "Την περασμένη Τρίτη, η αστυνομία έκανε μεγάλη επιχείρηση σε καταυλισμούς στο Μενίδι και τη Φυλή. Εκεί, ξήλωσαν 520 μέτρα καλωδίων που χρησιμοποιούνταν για να κλέβουν ρεύμα. Πάνοπλοι αστυνομικοί μπήκαν σε σπίτια και συνέλαβαν 12 άτομα για αυτή την κατάσταση. Αυτή η ενέργεια είναι σημαντική γιατί θα σταματήσει τη ρευματοκλοπή και θα βοηθήσει να πάει το ρεύμα στους ανθρώπους που το χρειάζονται σωστά. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για τις συνέπειες αυτής της επιχείρησης.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/efodos-tis-elas-se-kataylismous-sto-menidi-kai-ti-fyli-ksilosan-paranoma-kalodia-520-metron/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "protagon.gr"
+        "ertnews.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564070615/starmer-den-tha-egkataleipso-pote-to-axioma-moy/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/efodos-tis-elas-se-kataylismous-sto-menidi-kai-ti-fyli-ksilosan-paranoma-kalodia-520-metron/"
         },
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/vretania-den-tha-egkataleipsw-pote-to-aksiwma-mou-dilwnei-o-starmer-44343309978"
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4072147/efodos-tis-el-as-se-katavlismous-se-menidi-ke-fili-xilosan-paranoma-kalodia-520-metron.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον βρετανό πρωθυπουργό Στάρμερ και τις πολιτικές του δηλώσεις σε μια περίοδο πίεσης, γεγονός που συνδέεται με σοβαρά θέματα πολιτικής και διακυβέρνησης.",
+      "categoryReason": "Η είδηση αφορά μια επιχείρηση της αστυνομίας που σχετίζεται με την καταπολέμηση της ρευματοκλοπής, ένα σοβαρό κοινωνικό και οικονομικό ζήτημα.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-10T15:55:10.000Z"
+      "imageUrl": "https://pixabay.com/get/ga06146bf45efb692f448d71dcafcd8a8541bf1be59749260f090b03c0c25cdeb163f2cbbb7f48f76912f88827f5dff1e4fea70d9d06dd630988be9f6b0610d1e_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/nslALRJuILo",
+      "publishedAt": "2026-02-11T07:33:10.000Z"
     },
     {
-      "id": "e5a13ab03db3",
-      "title": "Το πρόγραμμα του Μητσοτάκη στην Άγκυρα – Τι ώρα θα πραγματοποιηθεί η συνάντηση με Ερντογάν",
-      "simpleTitle": "Συνάντηση Μητσοτάκη και Ερντογάν στην Άγκυρα",
-      "simpleText": "Ο Πρωθυπουργός Κυριάκος Μητσοτάκης θα επισκεφθεί την Άγκυρα αύριο, Τετάρτη 11 Φεβρουαρίου. Εκεί θα συναντηθεί με τον Πρόεδρο της Τουρκίας, Ερντογάν, στις 15:15 ώρα Ελλάδας. Σκοπός της συνάντησης είναι να μιλήσουν για θέματα που αφορούν τις δύο χώρες. Οι ηγέτες θα κάνουν κοινούς δηλώσεις στις 17:00. Είναι σημαντική αυτή η συνάντηση διότι θα βοηθήσει στη μείωση των εντάσεων και στη συνέχιση του διαλόγου μεταξύ Ελλάδας και Τουρκίας. Υπάρχουν κάποιες οδηγίες ασφάλειας, αλλά για τώρα δεν έχουν ανακοινωθεί λεπτομέρειες.",
-      "sourceName": "TA NEA, Protagon",
-      "sourceUrl": "https://www.tanea.gr/2026/02/10/politics/to-programma-toy-mitsotaki-stin-agkyra-ti-ora-tha-pragmatopoiithei-i-synantisi-me-erntogan/",
+      "id": "702b4c0c8e08",
+      "title": "Χάος στην Αλβανία: Μολότοφ και πέτρες σε αντικυβερνητική διαδήλωση στα Τίρανα – 16 αστυνομικοί τραυματίες",
+      "simpleTitle": "Επεισόδια στην Αλβανία: Διαδήλωση με βία",
+      "simpleText": "Στην Αλβανία, σημειώθηκαν επεισόδια κατά τη διάρκεια διαδήλωσης εναντίον της κυβέρνησης. Αυτή η διαδήλωση έγινε στα Τίρανα το βράδυ της Τρίτης. Οι συγκεντρωμένοι εκτόξευσαν πέτρες και μολότοφ εναντίον των κυβερνητικών κτιρίων. Σαν αποτέλεσμα, 16 αστυνομικοί τραυματίστηκαν και 13 άτομα συνελήφθησαν. Ο πρώην πρωθυπουργός Σαλί Μπερίσα κάλεσε τους υποστηρικτές του σε αυτή τη διαδήλωση, που έγινε λόγω των κατηγοριών για διαφθορά στην κυβέρνηση. Είναι σημαντικό να διατηρούμε την ηρεμία και να μιλάμε για τα προβλήματά μας χωρίς βία.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/11/world/xaos-stin-alvania-molotof-kai-petres-se-antikyvernitiki-diadilosi-sta-tirana-16-astynomiko/",
       "sourceDomains": [
         "tanea.gr",
-        "protagon.gr"
+        "news.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/10/politics/to-programma-toy-mitsotaki-stin-agkyra-ti-ora-tha-pragmatopoiithei-i-synantisi-me-erntogan/"
+          "url": "https://www.tanea.gr/2026/02/11/world/xaos-stin-alvania-molotof-kai-petres-se-antikyvernitiki-diadilosi-sta-tirana-16-astynomiko/"
         },
         {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/apopseis/einai-aftoskopos-i-synantisi-mitsotaki-erntogan-44343309800"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4072008/episodia-se-antikivernitiki-diadilosi-stin-alvania-16-astinomiki-travmaties.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη διπλωματική συνάντηση του Πρωθυπουργού με τον Πρόεδρο της Τουρκίας, η οποία είναι σημαντική για τις σχέσεις Ελλάδας-Τουρκίας και την αποκλιμάκωση εντάσεων, άρα εμπίπτει στα σοβαρά θέματα πολιτικής και διπλωματίας.",
+      "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια κατά τη διάρκεια αντικυβερνητικής διαδήλωσης στην Αλβανία, με τραυματισμούς αστυνομικών και κατηγορίες διαφθοράς, γεγονός που συνδέεται με πολιτική και κοινωνική αστάθεια.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-10T15:44:06.000Z"
+      "publishedAt": "2026-02-11T06:31:57.000Z"
     },
     {
-      "id": "c431794430d4",
-      "title": "Υπόθεση κατασκοπείας: Μαραθώνια η απολογία του σμηνάρχου στο Αεροδικείο",
-      "simpleTitle": "Μακρά απολογία σμηνάρχου για κατασκοπεία",
-      "simpleText": "Στο Αεροδικείο Αθηνών, ο σμηνάρχος απολογείται για κατηγορίες κατασκοπείας. Η απολογία του διαρκεί πολλές ώρες και έχει προκαλέσει μεγάλο ενδιαφέρον. Κατηγορείται ότι συνέλεξε και έστειλε μυστικές πληροφορίες σε άλλους, κάτι που μπορεί να βλάψει τα εθνικά συμφέροντα. Αν καταδικαστεί, μπορεί να φυλακιστεί για έως 20 χρόνια και να χάσει την ελληνική του ιθαγένεια.\n\nΟ σμηνάρχος αναφέρει ότι γνώρισε έναν άντρα που τον εισήγαγε στον κόσμο της κατασκοπείας μέσω ενός επαγγελματικού ιστότοπου. Στην αρχή, συνεργάστηκε για γεωπολιτικές αναλύσεις, αλλά στη συνέχεια, οι πληροφορίες που έδινε έγιναν πολύ πιο ευαίσθητες. Οι αρχές διερευνούν τη δράση του και τις οικονομικές του συναλλαγές.",
+      "id": "ee3454e02842",
+      "title": "Οι ελληνοτουρκικές οικονομικές σχέσεις στο επίκεντρο της συνάντησης Πιερρακάκη – Σιμσέκ σήμερα",
+      "simpleTitle": "Συνάντηση για τις οικονομικές σχέσεις Ελλάδας - Τουρκίας",
+      "simpleText": "Σήμερα, ο υπουργός Εθνικής Οικονομίας, Κυριάκος Πιερρακάκης, συναντά τον Τούρκο υπουργό Οικονομικών, Mehmet Şimşek. Αυτή η συνάντηση συνεχίζει τη συνεργασία που έχουν οι δύο χώρες στον τομέα της οικονομίας. Την προηγούμενη φορά είχαν συναντηθεί τον Οκτώβριο του 2025 στην Ουάσιγκτον. Στη συνάντηση αυτή, θα μιλήσουν για τη βελτίωση του εμπορίου και την αύξηση των επενδύσεων. Θέλουν να κάνουν τις οικονομίες τους πιο στενές και να συνεργαστούν σε σημαντικούς τομείς, όπως η καινοτομία και η πράσινη ενέργεια. Η καλή σχέση μεταξύ των δύο χωρών είναι σημαντική για όλους.",
       "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564070561/ypothesi-kataskopeias-marathonia-i-apologia-toy-syllifthentos-sminarchoy/",
+      "sourceUrl": "https://www.kathimerini.gr/economy/564071818/oi-ellino-toyrkikes-oikonomikes-scheseis-sto-epikentro-tis-synantisis-pierrakaki-simsek-simera/",
       "sourceDomains": [
         "kathimerini.gr",
         "tanea.gr"
@@ -71,203 +71,188 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564070561/ypothesi-kataskopeias-marathonia-i-apologia-toy-syllifthentos-sminarchoy/"
+          "url": "https://www.kathimerini.gr/economy/564071818/oi-ellino-toyrkikes-oikonomikes-scheseis-sto-epikentro-tis-synantisis-pierrakaki-simsek-simera/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/10/greece/law/ypothesi-kataskopeias-marathonia-i-apologia-toy-sminarxoy-i-malaisiani-etaireia-symvoylon/"
+          "url": "https://www.tanea.gr/2026/02/11/politics/synantisi-pierrakaki-me-ton-toyrko-omologo-toy-sto-epikentro-oi-ellinotoyrkikes-oikonomike/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η υπόθεση αφορά κατηγορίες κατασκοπείας με σοβαρές επιπτώσεις για την εθνική ασφάλεια και τα δικαιώματα του κατηγορούμενου, γεγονός που την καθιστά σοβαρή είδηση.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική πολιτική και οικονομική συνάντηση μεταξύ των υπουργών Ελλάδας και Τουρκίας, με στόχο την ενίσχυση των οικονομικών σχέσεων και την προώθηση της συνεργασίας σε στρατηγικούς τομείς.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.megatv.com/embed/?p=20202264449",
-      "publishedAt": "2026-02-10T15:30:34.000Z"
+      "imageUrl": "https://pixabay.com/get/g5441826ef01ff5401730d07c5150bed856d9da0d25123cca9ec94ec4b132e88ab2227babe4e7bbbe381548e0232d4cd917946fac3eb3627b48d9de1ae93eac4b_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-11T06:31:35.000Z"
     },
     {
-      "id": "66ae96b632c5",
-      "title": "Τραγωδία στην Ελευσίνα: Σοκάρει η περιγραφή γειτόνισσας – «Η πόρτα ήταν ανοιχτή και σφηνωμένη στο δέντρο»",
-      "simpleTitle": "Δυστύχημα στην Ελευσίνα: Τι συνέβη με τη 72χρονη**",
-      "simpleText": "Ένα σοβαρό ατύχημα έγινε στην Ελευσίνα. Μια 72χρονη γυναίκα σκοτώθηκε ενώ η κόρη της προσπαθούσε να παρκάρει το αυτοκίνητο. Το περιστατικό συνέβη το μεσημέρι, όταν η μητέρα καθοδηγούσε την κόρη της. Η γυναίκα χτύπησε και τραυματίστηκε σοβαρά στο λαιμό. Οι γείτονες προσπάθησαν να βοηθήσουν, αλλά το ασθενοφόρο ήρθε μετά από μισή ώρα. Η γυναίκα διακομίσθηκε στο νοσοκομείο, αλλά δεν τα κατάφερε. Η κόρη της είναι πολύ στεναχωρημένη και έχει κατηγορηθεί για αμέλεια. Είναι μια δύσκολη στιγμή για την οικογένεια, που προσπαθεί να κατανοήσει την κατάσταση.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/10/greece/tragodia-stin-eleysina-sokarei-i-perigrafi-geitonissas-i-porta-itan-anoixti-kai-sfinomeni-sto-dentro/",
+      "id": "b3ec89a4fc58",
+      "title": "FT: Ο Ζελένσκι σχεδιάζει εκλογές την άνοιξη – Στις 24 Φεβρουαρίου θα τις ανακοινώσει",
+      "simpleTitle": "Ο Ζελένσκι θα ανακοινώσει εκλογές στις 24 Φεβρουαρίου",
+      "simpleText": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι ετοιμάζεται να πει τι θα γίνει με τις εκλογές και ένα δημοψήφισμα, στις 24 Φεβρουαρίου. Αυτές οι διαδικασίες μπορεί να γίνουν το Μάιο. Οι Ηνωμένες Πολιτείες τον πιέζουν να τις οργανώσει για να εξασφαλίσει ασφάλεια για τη χώρα του. Η εκλογές και το δημοψήφισμα ίσως σχετίζονται με μια ειρηνική συμφωνία με τη Ρωσία. Είναι σημαντικό γιατί μπορεί να αλλάξει πολλά για την Ουκρανία. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για το πώς θα γίνουν όλα αυτά.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564071821/ft-o-zelenski-schediazei-ekloges-tin-anoixi-parallila-me-dimopsifisma-gia-ti-symfonia-eirinis/",
       "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
+        "kathimerini.gr",
+        "tanea.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/10/greece/tragodia-stin-eleysina-sokarei-i-perigrafi-geitonissas-i-porta-itan-anoixti-kai-sfinomeni-sto-dentro/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564071821/ft-o-zelenski-schediazei-ekloges-tin-anoixi-parallila-me-dimopsifisma-gia-ti-symfonia-eirinis/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/10/society/dystyxima-stin-eleysina-i-porta-tou-aytokinitou-itan-anoixti-kai-sfinomeni-sto-dentro/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/11/world/financial-times-o-zelenski-sxediazei-ekloges-kai-dimopsifisma-gia-eirini-tin-anoiksi/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα με θύματα, οικογενειακή τραγωδία και ζητήματα που σχετίζονται με την ασφάλεια και την αμέλεια, γεγονός που την καθιστά σοβαρή.",
+      "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση στην Ουκρανία, τις επικείμενες εκλογές και τις πιέσεις από τις ΗΠΑ για τη διεξαγωγή τους, θέματα που σχετίζονται με σοβαρά ζητήματα ασφάλειας και διεθνών σχέσεων.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dgbcl3sw7fo9",
-      "publishedAt": "2026-02-10T15:08:48.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-11T06:18:34.000Z"
     },
     {
-      "id": "59e8efe12676",
-      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Απεργία ανακοίνωσαν οι δημοσιογράφοι του αθλητικού τμήματος της RAI – Ζητούν την παραίτηση του διευθυντή τους",
-      "simpleTitle": "Απεργία δημοσιογράφων της RAI για τον διευθυντή",
-      "simpleText": "Οι δημοσιογράφοι του αθλητικού τμήματος της RAI ανακοίνωσαν ότι θα απεργήσουν μετά τους Χειμερινούς Ολυμπιακούς Αγώνες. Θέλουν να φύγει ο διευθυντής τους, Πάολο Πετρέκα, λόγω λαθών που έκανε κατά τη μετάδοση της τελετής έναρξης. Για παράδειγμα, είπε ότι βρισκόταν σε άλλο στάδιο και μπέρδεψε διάσημους καλλιτέχνες. Οι δημοσιογράφοι ξεκίνησαν να διαμαρτύρονται και δεν αναφέρουν το όνομά τους στις ζωντανές συνδέσεις από τους Αγώνες. Η κατάσταση είναι σοβαρή γιατί μπορεί να επηρεάσει την ποιότητα της τηλεόρασης και την εμπιστοσύνη των τηλεθεατών. Δεν ξέρουμε αν ο Πετρέκα θα παραιτηθεί ή αν θα παραμείνει στη θέση του.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/xeimerinoi-olympiakoi-agones-apergia-anakoinosan-oi-dimosiografoi-tou-athlitikou-tmimatos-tis-rai-zitoun-tin-paraitisi-tou-dieythynti-tous/",
+      "id": "129fbdfe5333",
+      "title": "Εκτροπή απορριμματοφόρου στην Περιφερειακή Αιγάλεω – Ελαφρά τραυματίας ο οδηγός",
+      "simpleTitle": "Ατύχημα με απορριμματοφόρο στην Αιγάλεω",
+      "simpleText": "Σήμερα το πρωί στην Περιφερειακή Αιγάλεω, ένα απορριμματοφόρο έχασε τον έλεγχο και εκτράπηκε. Ο οδηγός του τραυματίστηκε ελαφρά και χρειάστηκε βοήθεια από την Πυροσβεστική, που έσπευσε με δύο οχήματα. Αυτή τη στιγμή, η κατάσταση του είναι καλή και δεν κινδυνεύει. Το ατύχημα συνέβη σε ώρα με πολύ κυκλοφορία, και αυτό προκάλεσε καθυστερήσεις στα αυτοκίνητα. Οι αστυνομικοί είναι στο σημείο για να ρυθμίσουν την κυκλοφορία. Είναι καλό οι οδηγοί να είναι προσεκτικοί και αν μπορούν, να διαλέγουν άλλες διαδρομές μέχρι να αποκατασταθεί η κίνηση.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo-elafra-traymatias-o-odigos/",
       "sourceDomains": [
         "ertnews.gr",
-        "kathimerini.gr"
+        "kathimerini.gr",
+        "tanea.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/xeimerinoi-olympiakoi-agones-apergia-anakoinosan-oi-dimosiografoi-tou-athlitikou-tmimatos-tis-rai-zitoun-tin-paraitisi-tou-dieythynti-tous/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo-elafra-traymatias-o-odigos/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564070585/cheimerinoi-olympiakoi-agones-apanotes-gkafes-sti-metadosi-apo-ton-dieythynti-toy-rai-sport/"
+          "url": "https://www.kathimerini.gr/society/564071863/anatropi-aporrimmatoforoy-stin-perifereiaki-aigaleo/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/11/greece/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές καταστάσεις σχετικά με την ποιότητα της μετάδοσης των Χειμερινών Ολυμπιακών Αγώνων και τις εσωτερικές αντιπαραθέσεις στο αθλητικό τμήμα της RAI, οι οποίες μπορεί να επηρεάσουν την δημόσια τηλεόραση και την εμπιστοσύνη των τηλεθεατών.",
+      "categoryReason": "Η είδηση αφορά ένα τροχαίο ατύχημα με τραυματία και ζητήματα κυκλοφορίας, στοιχεία που την καθιστούν σοβαρή.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-10T14:59:56.000Z"
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260211-sundeseis-darsinos-skoupidiariko.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260211-sundeseis-darsinos-skoupidiariko.jpg",
+      "publishedAt": "2026-02-11T06:00:54.000Z"
     },
     {
-      "id": "a5aa936aabb0",
-      "title": "«Σπαρτιάτες»: Ομόφωνα αθώοι και οι 13 κατηγορούμενοι για εξαπάτηση εκλογικού σώματος",
-      "simpleTitle": "** Αθώοι οι κατηγορούμενοι για απάτη",
-      "simpleText": "** Το Εφετείο αθώωσε τους 13 κατηγορούμενους στην υπόθεση των «Σπαρτιατών» για εξαπάτηση του εκλογικού σώματος. Ανάμεσά τους είναι πρώην και νυν βουλευτές και ένας δικηγόρος. Η αθώωση έγινε σύμφωνα με την πρόταση του εισαγγελέα. Αυτή είναι η δεύτερη φορά που οι κατηγορούμενοι αθωώνονται.\n\nΟι κατηγορίες προήλθαν από καταγγελίες για αθέμιτες πρακτικές μέσα στο κόμμα. Ένας μάρτυρας, ο Βασίλης Στίγκας, είπε ότι είχε πει προηγουμένως ψέματα λόγω άγχους. Δεν ξέρουμε ακόμα αν θα υπάρξουν και άλλες εξελίξεις στην υπόθεση.",
-      "sourceName": "ERT News, Kathimerini, TO BHMA, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/spartiates-omofona-athooi-kai-oi-13-katigoroumenoi-gia-eksapatisi-eklogikou-somatos/",
+      "id": "abe256f19dee",
+      "title": "Μακελειό στον Καναδά: Τουλάχιστον 11 νεκροί από πυροβολισμούς σε σχολείο και σπίτι",
+      "simpleTitle": "Σκοτωμοί στον Καναδά: 11 νεκροί από πυροβολισμούς σε σχολείο",
+      "simpleText": "Στον Καναδά, τουλάχιστον 11 άνθρωποι σκοτώθηκαν από πυροβολισμούς σε σχολείο και σπίτι. Το περιστατικό συνέβη στην απομονωμένη περιοχή Τάμπλερ Ριτζ, στη Βρετανική Κολομβία. Οι αστυνομικοί βρήκαν επτά θύματα στο γυμνάσιο και δύο σε κατοικία. Ο φερόμενος ως δράστης βρέθηκε επίσης νεκρός και πιστεύεται ότι αυτοκτόνησε.\n\nΗ κοινότητα είναι σοκαρισμένη. Ο καναδός πρωθυπουργός ανακοίνωσε ότι θα αναβάλει το ταξίδι του στην Ευρώπη. Η υπουργός Δημόσιας Ασφαλείας δήλωσε ότι σκέφτεται τα θύματα και τις οικογένειές τους. Η αστυνομία είπε ότι δεν υπάρχουν άλλοι δράστες και οι κάτοικοι δεν είναι σε κίνδυνο. Διαφορετικοί άνθρωποι δέχθηκαν ιατρική φροντίδα για να είναι ασφαλείς.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/11/world/makeleio-ston-kanada-toylaxiston-11-nekroi-apo-pyrovolismoys-se-sxoleio-kai-spiti/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tovima.gr",
+        "tanea.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/spartiates-omofona-athooi-kai-oi-13-katigoroumenoi-gia-eksapatisi-eklogikou-somatos/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564070555/spartiates-omofona-athooi-kai-oi-13-katigoroymenoi-gia-exapatisi-eklogikoy-somatos/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/10/society/spartiates-omofona-athooi-kai-sto-efeteio-gia-eksapatisi-eklogeon/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/11/world/makeleio-ston-kanada-toylaxiston-11-nekroi-apo-pyrovolismoys-se-sxoleio-kai-spiti/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4071719/spartiates-omofona-athoi-krithikan-i-katigoroumeni-gia-tin-ipothesi-exapatisis-tou-eklogikou-somatos.html"
+          "url": "https://www.news.gr/kosmos/article/4071983/makelio-se-scholio-tou-kanada-pirovolismi-me-11-nekrous-ke-toulachiston-25-travmaties.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια νομική απόφαση που αφορά κατηγορίες εξαπάτησης και την αθώωση πολιτικών προσώπων, γεγονός που εμπλέκει σοβαρά ζητήματα δικαιοσύνης και πολιτικής δεοντολογίας.",
+      "categoryReason": "Το περιστατικό αφορά σοβαρή βία με πολλούς νεκρούς και έχει σοβαρές κοινωνικές και πολιτικές συνέπειες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-10T14:45:38.000Z"
+      "publishedAt": "2026-02-11T05:47:04.000Z"
     },
     {
-      "id": "fbfdcb8f3e69",
-      "title": "Ισραηλινά ΜΜΕ: Ο Νετανιάχου γνώριζε από το 2018 για σχέδιο επίθεσης της Χαμάς",
-      "simpleTitle": "Ο Νετανιάχου ήξερε για σχέδιο επίθεσης από το 2018",
-      "simpleText": "Υπάρχουν πληροφορίες ότι ο Μπενιαμίν Νετανιάχου γνώριζε για ένα σχέδιο της Χαμάς που ετοιμαζόταν από το 2018. Αυτό το σχέδιο, που λέγεται «Τα Τείχη της Ιεριχούς», περιλάμβανε επιθέσεις από τα σύνορα της Γάζας σε πολλές περιοχές. Παρά τις δηλώσεις του ότι δεν γνώριζε τίποτα πριν από τις 7 Οκτωβρίου, έγγραφα αποδεικνύουν ότι είχε ενημέρωση για τις προθέσεις της Χαμάς. Αυτό το γεγονός είναι σημαντικό γιατί αλλάζει τον τρόπο που βλέπουμε την κατάσταση στην περιοχή και την ασφάλεια των ανθρώπων. Δεν είναι ξεκάθαρο τι θα γίνει στη συνέχεια από εδώ και πέρα.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564070456/israilina-mme-o-netaniachoy-gnorize-apo-to-2018-gia-schedio-epithesis-tis-chamas/",
+      "id": "3ebde64bd4f8",
+      "title": "Η Γαλλία χαράζει όρια: απαγόρευση στα social media για παιδιά κάτω των 15",
+      "simpleTitle": "Η Γαλλία απαγορεύει τα social media σε παιδιά κάτω 15",
+      "simpleText": "Η Γαλλία θέλει να προστατεύσει τα παιδιά από τα social media. Σκέφτεται να απαγορεύσει την πρόσβαση σε παιδιά κάτω των 15 ετών. Αυτό το σχέδιο στηρίζει ο πρόεδρος Εμάνουελ Μακρόν. Αν ωστόσο περάσει από το κοινοβούλιο, θα ξεκινήσει από τον Σεπτέμβριο του 2026. Έτσι, η Γαλλία θα είναι η δεύτερη χώρα στον κόσμο που παίρνει τέτοιο μέτρο. Αυτό είναι σημαντικό γιατί μπορεί να βοηθήσει τα παιδιά να είναι ασφαλή στον ψηφιακό κόσμο. Δεν ξέρουμε ακόμα πώς θα εφαρμοστεί αυτό το μέτρο στην πράξη.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31618-gallia-apagorefsi-social-media-paidia/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564070456/israilina-mme-o-netaniachoy-gnorize-apo-to-2018-gia-schedio-epithesis-tis-chamas/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/10/world/gaza-o-netaniaxou-gnorize-apo-to-2018-gia-sxedio-tis-xamas-kata-tou-israil/"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31618-gallia-apagorefsi-social-media-paidia/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα πολιτικής, ασφάλειας και στρατηγικών επιθέσεων που σχετίζονται με τη περιοχή του Ισραήλ και τη Χαμάς.",
+      "categoryReason": "Η είδηση αφορά την προστασία των παιδιών στον ψηφιακό κόσμο μέσω κυβερνητικής πολιτικής και νομοθεσίας, ένα σοβαρό κοινωνικό ζήτημα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g8fa3c910ebfe1cc100d21064d43ac48588a64cb897d88678ee9950848575b1a21c7257016be4fccd2dbddf556c72cc55ee9d51d17b675539b54c1a3a67a2dbf9_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g544e960ae2f403cfa6854efe504990ab6aac5130126ab814092cbc957ef997bc901009259a9c1809cfaf12c66fb8aa691ef25f9fbc24d60cf963f59d405a32b4_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-10T14:40:43.000Z"
+      "publishedAt": "2026-02-11T05:00:00.000Z"
     },
     {
-      "id": "808154dbfbe0",
-      "title": "Σ. Παπασταύρου: Την επόμενη εβδομάδα οι υπογραφές με τη Chevron",
-      "simpleTitle": "Υπογραφές με τη Chevron την επόμενη εβδομάδα",
-      "simpleText": "Ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου, δήλωσε ότι την επόμενη εβδομάδα θα υπογραφούν τέσσερις συμβάσεις με την εταιρεία Chevron. Αυτές οι συμφωνίες θα γίνουν πολύ γρήγορα. Ο υπουργός επίσης μίλησε για τις προσπάθειες να μειωθεί η τιμή του ρεύματος. Είναι σημαντικό για τους πολίτες γιατί οι νέες συμφωνίες με την Chevron μπορεί να φέρουν αλλαγές στην ενέργεια. Δεν έχουν δοθεί λεπτομέρειες για το πού θα γίνουν οι υπογραφές.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564070546/s-papastayroy-tin-epomeni-evdomada-oi-ypografes-me-ti-chevron/",
+      "id": "981001ced165",
+      "title": "Τραμπ σε Ιράν: Είτε θα συμφωνήσουμε, είτε θα χρειαστεί να κάνουμε κάτι πολύ σκληρό",
+      "simpleTitle": "Τραμπ πρότεινε συμφωνία στο Ιράν",
+      "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, είπε πως πρέπει να υπάρξει συμφωνία με το Ιράν. Αν δεν μπορέσουν να συμφωνήσουν, τότε οι ΗΠΑ θα πρέπει να κάνουν κάτι πολύ σοβαρό. Αυτό μπορεί να σημαίνει ότι θα στείλουν και άλλο στρατό στην περιοχή.\n\nΗ κατάσταση είναι δύσκολη και οι ΗΠΑ ετοιμάζονται για τυχόν αρνητικά αποτελέσματα. Ο πρωθυπουργός του Ισραήλ θα επισκεφθεί την Ουάσινγκτον και έχει αμφιβολίες για το αν θα υπάρξει καλή συμφωνία. Είναι σημαντικό να βρουν μια λύση για να αποφύγουν εντάσεις στην περιοχή. Δεν ξέρουμε ακόμα τι ακριβώς θα γίνει αν οι διαπραγματεύσεις αποτύχουν.",
+      "sourceName": "TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2026/02/10/world/tramp-se-iran-eite-tha-symfonisoume-eite-tha-xreiastei-na-kanoume-kati-poly-skliro/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
+        "tovima.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564070546/s-papastayroy-tin-epomeni-evdomada-oi-ypografes-me-ti-chevron/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/10/world/tramp-se-iran-eite-tha-symfonisoume-eite-tha-xreiastei-na-kanoume-kati-poly-skliro/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/10/finance/papastayrou-tin-epomeni-evdomada-ypografontai-oi-tesseris-symvaseis-me-tin-chevron/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/nees-apeiles-trab-sto-iran-symfwnia-i-tha-xreiastei-na-kanoume-kati-poly-skliro-44343310172"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις υπογραφές συμβολαίων στον τομέα της ενέργειας, που έχουν σημαντικές επιπτώσεις στην οικονομία και την τιμή του ρεύματος, γεγονός που την καθιστά σοβαρή.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gb47cb6e9bb4befad529fea09819de620060d750575d15dc33d7fd162246b770884d38d2b7ec193f82eb04cbcb3350f1f51ee94335dd9f9e5a601c2c638462223_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-10T14:21:25.000Z"
-    },
-    {
-      "id": "3ed7756180a4",
-      "title": "ΕΟΦ: Νέα ανάκληση παρτίδων προϊόντων βρεφικού γάλακτος",
-      "simpleTitle": "Ανάκληση βρεφικού γάλακτος από τον ΕΟΦ",
-      "simpleText": "Ο Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ) ανακοίνωσε ότι κάποιες παρτίδες βρεφικού γάλακτος ανακαλούνται. Αυτό έγινε μετά από πληροφορίες της εταιρείας NUMIL HELLAS Α.Ε. σχετικά με μια τοξίνη που μπορεί να είναι επικίνδυνη. Η μητρική εταιρεία DANONE αποφάσισε να ανακαλέσει τα προϊόντα για λόγους ασφάλειας.\n\nΟι γονείς που έχουν αγοράσει το γάλα αυτό πρέπει να μην το χρησιμοποιούν. Αντίθετα, πρέπει να το επιστρέψουν εκεί όπου το αγόρασαν, σύμφωνα με τις οδηγίες της εταιρείας. Είναι σημαντικό να τηρούν αυτές τις οδηγίες για την ασφάλεια των παιδιών τους.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564070384/eof-nea-anaklisi-partidon-proionton-vrefikoy-galaktos/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564070384/eof-nea-anaklisi-partidon-proionton-vrefikoy-galaktos/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/10/society/eof-anaklisi-partidon-proionton-gnostou-vrefikou-galaktos/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ανάκληση παρτίδων βρεφικού γάλακτος για λόγους ασφάλειας, η οποία σχετίζεται με επικίνδυνη τοξίνη. Αυτή είναι σοβαρή πληροφορία που επηρεάζει την υγεία των παιδιών, και ως εκ τούτου ανήκει στην κατηγορία σοβαρών ειδήσεων.",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές εξελίξεις και στρατηγικές απειλές από τον Πρόεδρο Τραμπ προς το Ιράν, καθώς και τη δυνατότητα στρατιωτικής κινητοποίησης, γεγονότα που σχετίζονται με την διεθνή ασφάλεια.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-10T13:23:36.000Z"
+      "publishedAt": "2026-02-10T20:44:59.000Z"
+    },
+    {
+      "id": "a8c054748957",
+      "title": "Γιατί τρίζουμε τα δόντια μας στον ύπνο; Ποιοι είναι οι κίνδυνοι;",
+      "simpleTitle": "Τι σημαίνει το τρίξιμο των δοντιών στον ύπνο;",
+      "simpleText": "Πολλοί άνθρωποι τρίζουν τα δόντια τους όταν κοιμούνται, χωρίς να το ξέρουν. Συχνά το καταλαβαίνουν από τον πόνο στη γνάθο ή από πονοκεφάλους όταν ξυπνούν. Αυτή η κατάσταση λέγεται βρουξισμός. Συνήθως, σχετίζεται με το άγχος ή προγράμματα που μας κουράζουν. Είναι σημαντικό να το παρατηρήσουμε, γιατί μπορεί να προκαλέσει προβλήματα στα δόντια μας. Αν το έχουμε, καλό είναι να μιλήσουμε με τον οδοντίατρο για βοήθεια.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31662-giati-trizoume-ta-dontia-mas-ston-ypno-kindynoi/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31662-giati-trizoume-ta-dontia-mas-ston-ypno-kindynoi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια ιατρική κατάσταση, τον βρουξισμό, και τους κινδύνους που ενέχει για την υγεία των δοντιών, κάτι που σχετίζεται με σοβαρά θέματα υγείας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-10T18:08:00.000Z"
     },
     {
       "id": "10af5f56375c",
       "title": "Κουρκουμάς: Το «χρυσό» μπαχαρικό για την υγεία",
-      "simpleTitle": "Κουρκουμάς: Υγιές μπαχαρικό",
-      "simpleText": "Ο κουρκουμάς είναι ένα μπαχαρικό που χρησιμοποιείται πολύ καιρό, πάνω από 4.000 χρόνια. Είναι γνωστό για τη γεύση του, αλλά και για την καλή του επίδραση στην υγεία. Ο κουρκουμάς βρίσκεται σε πολλές χώρες και χρησιμοποιείται στην αγιουβερδική και την παραδοσιακή κινεζική ιατρική. Αυτές οι ιατρικές παραδόσεις λένε ότι ο κουρκουμάς βοηθάει στις αρθρώσεις, στην πέψη και στο δέρμα μας. Είναι σημαντικός γιατί μπορεί να μας κρατάει υγιείς και ευτυχισμένους. Μπορείτε να τον βρείτε σε διάφορα προϊόντα για την ευεξία σας.",
+      "simpleTitle": "Κουρκουμάς: Το χρυσό μπαχαρικό που βοηθά την υγεία",
+      "simpleText": "Ο κουρκουμάς είναι ένα μπαχαρικό που χρησιμοποιείται εδώ και πολλά χρόνια. Είναι γνωστός για τη γεύση του και τις θετικές του επιδράσεις στην υγεία. Μπορεί να βοηθήσει τις αρθρώσεις, την πέψη και το δέρμα. Πολλοί άνθρωποι το χρησιμοποιούν σε διάφορα προϊόντα για την ευεξία τους. Ο κουρκουμάς προέρχεται από διαφορετικούς πολιτισμούς και η χρήση του υπάρχει εδώ και πάνω από 4.000 χρόνια. Είναι σημαντικό να γνωρίζουμε τις ωφέλειές του για να έχουμε καλύτερη υγεία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31844-kourkoumas-to-xryso-mpaxariko-gia-tin-ygeia/",
       "sourceDomains": [
@@ -280,7 +265,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται στη σημασία του κουρκουμά στην υγεία και τις παραδοσιακές ιατρικές προσεγγίσεις, καλύπτοντας σοβαρά ζητήματα που αφορούν την υγεία και την ευεξία.",
+      "categoryReason": "Η είδηση αφορά τις θετικές επιδράσεις του κουρκουμά στην υγεία, εστιάζοντας σε σημαντικά ζητήματα ευεξίας και παραδοσιακής ιατρικής, τα οποία είναι σοβαρά και σχετίζονται με την υγεία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -290,7 +275,7 @@
       "id": "86be816312f2",
       "title": "Τι μαθαίνει ένα παιδί όταν βαριέται",
       "simpleTitle": "Τι μαθαίνει ένα παιδί από τη βαρεμάρα",
-      "simpleText": "Όταν ένα παιδί βαριέται, οι γονείς συχνά ανησυχούν. Πιστεύουν ότι η βαρεμάρα είναι κακή και πρέπει να γεμίσει άμεσα. Ωστόσο, η βαρεμάρα μπορεί να είναι καλή για το παιδί. Σε αυτήν την κατάσταση, το παιδί μπορεί να αναπτύξει τη φαντασία του. Όταν δεν έχει προγραμματισμένες δραστηριότητες, μπορεί να σκεφτεί νέες ιδέες και να παίζει με τον δικό του τρόπο. Έτσι, η βαρεμάρα γίνεται ευκαιρία για μάθηση και δημιουργικότητα.",
+      "simpleText": "Η βαρεμάρα συχνά ανησυχεί τους γονείς, αλλά δεν είναι πάντα κακή. Μπορεί να είναι μια ευκαιρία για τα παιδιά να μάθουν. Όταν βαριούνται, έχουν χρόνο να σκεφτούν και να φανταστούν. Δεν χρειάζεται πάντα να κάνουν κάτι συγκεκριμένο. Η φαντασία τους μπορεί να αναπτυχθεί, όταν δεν υπάρχει τίποτα έτοιμο. Είναι καλό να θυμόμαστε ότι η βαρεμάρα μπορεί να βοηθήσει τα παιδιά να γίνουν πιο δημιουργικά. Έτσι, οι γονείς μπορούν να επιτρέπουν στα παιδιά τους να βαριούνται μερικές φορές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/",
       "sourceDomains": [
@@ -303,7 +288,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση προβάλλει πώς η βαρεμάρα μπορεί να είναι ωφέλιμη για τα παιδιά, ενθαρρύνοντάς τους να αναπτύξουν τη φαντασία και τη δημιουργικότητά τους, γεγονός που είναι θετικό και χαρούμενο.",
+      "categoryReason": "Η είδηση εξηγεί πώς η βαρεμάρα μπορεί να έχει θετικά αποτελέσματα για την ανάπτυξη της φαντασίας και της δημιουργικότητας στα παιδιά, προάγοντας μια θετική προοπτική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -312,8 +297,8 @@
     {
       "id": "97a3e14c7bdd",
       "title": "Δωρεάν εξέταση για καρκίνο στόματος, προσώπου και τραχήλου σε πανελλαδική δράση",
-      "simpleTitle": "Δωρεάν έλεγχος για καρκίνο στόματος και προσώπου",
-      "simpleText": "Στις 13 Φεβρουαρίου 2026, θα υπάρξει δωρεάν εξέταση για καρκίνο στο στόμα, το πρόσωπο και τον τράχηλο. Η εξέταση θα είναι ανοιχτή για όλους τους πολίτες που ανησυχούν για την υγεία τους. Αυτή η δράση γίνεται από την Ελληνική Εταιρεία Στοματικής και Γναθοπροσωπικής Χειρουργικής και έχει στόχο να ενημερώσει τον κόσμο για τον καρκίνο κεφαλής και τραχήλου. Είναι πολύ σημαντικό να κάνουμε έγκαιρες εξετάσεις για να προλαμβάνουμε τυχόν σοβαρά προβλήματα. Οι πολίτες θα πρέπει να παρακολουθούν την υγεία τους και να μη διστάζουν να ζητήσουν βοήθεια.",
+      "simpleTitle": "Δωρεάν εξετάσεις για καρκίνο στο στόμα και το πρόσωπο",
+      "simpleText": "Σε μια σημαντική πρωτοβουλία, θα μπορέσουν οι πολίτες να κάνουν δωρεάν εξετάσεις για καρκίνο στο στόμα, το πρόσωπο και τον τράχηλο. Αυτή η δράση θα γίνει την Πέμπτη 13 Φεβρουαρίου 2026, για να γιορτάσουμε την Παγκόσμια Ημέρα Στοματικής και Γναθοπροσωπικής Χειρουργικής. Οι εξετάσεις διοργανώνονται από την Ελληνική Εταιρεία Στοματικής και Γναθοπροσωπικής Χειρουργικής. Είναι πολύ σημαντικές γιατί βοηθούν στην πρώιμη διάγνωση, που μπορεί να σώσει ζωές. Αν έχετε ανησυχίες για την υγεία σας, μπορείτε να συμμετάσχετε και να ενημερωθείτε.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31843-dorean-exetasi-gia-karkino-stomatos/",
       "sourceDomains": [
@@ -326,7 +311,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η δωρεάν εξέταση για καρκίνο στόματος, προσώπου και τραχήλου αφορά σοβαρά ζητήματα υγείας και έχει σκοπό την πρόληψη και ενημέρωση του κοινού σχετικά με σοβαρές ιατρικές καταστάσεις.",
+      "categoryReason": "Η είδηση αφορά την πρόληψη και τη δωρεάν εξέταση για καρκίνο, που είναι σοβαρό κοινωνικό ζήτημα και επικεντρώνεται στην υγεία και την ευαισθητοποίηση του κοινού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -335,8 +320,8 @@
     {
       "id": "24c91c12d72b",
       "title": "Δύο Γάλλοι έφτασαν στο Σανγκάι με τα πόδια, στέλνοντας μήνυμα για την κλιματική αλλαγή",
-      "simpleTitle": "Δύο Γάλλοι περπάτησαν μέχρι το Σανγκάι για την κλιματική αλλαγή",
-      "simpleText": "Δύο Γάλλοι, ο Λοΐκ και ο Μπενζαμέν, έφτασαν στο Σανγκάι, στην Κίνα, μετά από 518 ημέρες περπατήματος. Ξεκίνησαν το Σεπτέμβριο του 2024 από την Ανσί, στη Γαλλία. Ο στόχος τους ήταν να κάνουν ένα μεγάλο ταξίδι χωρίς να χρησιμοποιήσουν αεροπλάνα. Ο λόγος τους ήταν να στείλουν ένα μήνυμα για την κλιματική αλλαγή. Ήθελα να δείξουν πώς μπορούμε να ταξιδεύουμε με πιο φιλικό τρόπο για το περιβάλλον. Η πορεία τους έδειξε ότι οι αλλαγές στην κατανάλωση ενέργειας είναι σημαντικές για τον πλανήτη μας.",
+      "simpleTitle": "Δύο Γάλλοι περπάτησαν για να μιλήσουν για την κλιματική αλλαγή",
+      "simpleText": "Δύο φίλοι από τη Γαλλία, ο Λοΐκ και ο Μπενζαμέν, έφτασαν στο Σανγκάι περπατώντας. Το ταξίδι τους κράτησε 518 ημέρες και ξεκίνησαν τον Σεπτέμβριο του 2024. Ήθελαν να δείξουν ότι μπορούμε να ταξιδεύουμε διαφορετικά, χωρίς αεροπλάνα, για να προστατεύσουμε το περιβάλλον. Αν και ήταν κουρασμένοι, ήταν πολύ χαρούμενοι που ολοκλήρωσαν αυτό το μεγάλο ταξίδι. Η προσπάθειά τους είναι σημαντική γιατί μας θυμίζει την ανάγκη να φροντίσουμε το πλανήτη μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31846-galloi-perpatisan-kina/",
       "sourceDomains": [
@@ -348,8 +333,8 @@
           "url": "https://thehappynews.gr/31846-galloi-perpatisan-kina/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια πρωτοβουλία που συνδυάζει περιβαλλοντική ευαισθησία και κλιματική αλλαγή, τα οποία είναι σοβαρά κοινωνικά ζητήματα.",
+      "category": "happy",
+      "categoryReason": "Η είδηση περιγράφει μια θετική και αισιόδοξη προσπάθεια δύο φίλων που περπάτησαν για 518 ημέρες για να στείλουν ένα μήνυμα σχετικά με την κλιματική αλλαγή, ολοκληρώνοντας το ταξίδι τους με χαρά.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -358,8 +343,8 @@
     {
       "id": "79284e0cff38",
       "title": "Πώς ο φυσικός φωτισμός επηρεάζει την ψυχολογία μας",
-      "simpleTitle": "Πώς το φως του ήλιου επηρεάζει τη διάθεσή μας",
-      "simpleText": "Το φυσικό φως του ήλιου έχει μεγάλη επίδραση στη ζωή μας. Ο οργανισμός μας αντιδρά σε αυτό, ακόμα κι αν περνάμε πολλές ώρες σε κλειστούς χώρους. Το φως του ήλιου μπορεί να αλλάξει τα συναισθήματά μας και τη διάθεσή μας. Είναι σημαντικό να παίρνουμε λίγο φως κάθε μέρα, γιατί αυτό μας βοηθά να αισθανόμαστε καλύτερα. Αν είμαστε έξω, μπορούμε να νιώσουμε πιο ευχαριστημένοι και ήρεμοι. Πρέπει να προσπαθούμε να είμαστε στον ήλιο, όταν υπάρχει, για να ωφεληθούμε.",
+      "simpleTitle": "Ο φυσικός φωτισμός και η ψυχολογία μας",
+      "simpleText": "Το φως του ήλιου επηρεάζει πολύ τη ζωή μας. Παρόλο που περνάμε χρόνο σε κλειστά μέρη, το σώμα μας χρειάζεται φυσικό φως. Αυτό το φως έχει σχέση με τα συναισθήματα μας. Όταν έχουμε περισσότερο φως, μπορεί να νιώθουμε καλύτερα και πιο ευτυχισμένοι. Είναι σημαντικό να προσπαθούμε να βγαίνουμε έξω ή να έχουμε φωτεινούς χώρους στο σπίτι μας. Έτσι θα μπορούμε να νιώθουμε καλύτερα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31323-pos-fisikos-fotismos-epireazi-psixologia-mas/",
       "sourceDomains": [
@@ -372,17 +357,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στα θετικά αποτελέσματα του φυσικού φωτισμού στην ψυχολογία μας, προάγοντας την ευημερία και την ευχαρίστηση, και ενθαρρύνοντας την επαφή με τον ήλιο για καλύτερη διάθεση.",
+      "categoryReason": "Η είδηση αναφέρεται στα οφέλη του φυσικού φωτισμού για την ψυχολογία μας, τονίζοντας τη θετική επίδραση που έχει στην ευτυχία και τα συναισθήματά μας.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g6aff3227a0b840cd5d1dcbaeda114765c234288d876e3ec7a384a828095164b7e69ef1af12d375828180d67bb0a29f7a0807f47bb8d30304a85b8390aeef77c8_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-09T08:02:00.000Z"
     },
     {
       "id": "e9fbce43f35e",
       "title": "Πώς μας ωφελεί να κοιμόμαστε σε συμμαζεμένο δωμάτιο",
-      "simpleTitle": "Πώς ωφελούμαστε από έναν καθαρό χώρο ύπνου",
-      "simpleText": "Ο καλός ύπνος δεν εξαρτάται μόνο από το πόσες ώρες κοιμόμαστε. Σημαντικός είναι και ο χώρος όπου κοιμόμαστε. Ένα καθαρό και οργανωμένο δωμάτιο μας βοηθά να κοιμόμαστε καλύτερα. Όταν το δωμάτιο είναι τακτοποιημένο, ο νους μας ξεκουράζεται πιο εύκολα. Όλα αυτά κάνουν τη διάθεσή μας καλύτερη το πρωί. Αν έχουμε λιγότερα πράγματα γύρω μας, είναι πιο ήρεμη η ατμόσφαιρα και κοιμόμαστε πιο καλά. Ένας ήρεμος εγκέφαλος σημαίνει πιο ποιοτικός ύπνος και περισσότερη ενέργεια για την ημέρα μας.",
+      "simpleTitle": "Πώς ο τακτικός χώρος βοηθά τον ύπνο μας",
+      "simpleText": "Ο ύπνος μας δεν επηρεάζεται μόνο από τις ώρες που κοιμόμαστε, αλλά και από το δωμάτιό μας. Όταν το δωμάτιο είναι συμμαζεμένο, μπορεί να μας βοηθήσει να κοιμόμαστε καλύτερα. Ένα καθαρό και τακτικό περιβάλλον μειώνει το άγχος και κάνει τον εγκέφαλο να ηρεμεί. Αυτό σημαίνει ότι το πρωί ξυπνάμε με καλύτερη διάθεση. Είναι καλό να διατηρούμε τον χώρο μας τακτοποιημένο, γιατί έτσι νιώθουμε πιο ήρεμοι και ξεκούραστοι. Δημοσιεύσεις όπως αυτή μας υπενθυμίζουν πόσο σημαντικός είναι ο χώρος που κοιμόμαστε.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31658-pos-mas-ofelei-na-koimomaste-se-symmazemeno-domatio/",
       "sourceDomains": [
@@ -395,7 +380,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση επικεντρώνεται στα οφέλη του τακτοποιημένου χώρου για την ποιότητα ύπνου και τη διάθεση, προάγοντας μια θετική και ευχάριστη προοπτική.",
+      "categoryReason": "Η είδηση αναφέρεται στα οφέλη ενός καθαρού και οργανωμένου περιβάλλοντος για τη βελτίωση του ύπνου και της διάθεσης, πράγμα που έχει θετική και χαρούμενη προοπτική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -404,8 +389,8 @@
     {
       "id": "72c15cae3e86",
       "title": "Αστυνομία και σκύλος-ιχνηλάτης εντοπίζουν 15χρονο με αυτισμό μέσα σε χιονοθύελλα στο Maryland",
-      "simpleTitle": "Αστυνομικοί και σκύλος βρίσκουν 15χρονο με αυτισμό μέσα σε καταιγίδα",
-      "simpleText": "Ένας 15χρονος με αυτισμό χάθηκε στο Maryland κατά τη διάρκεια μιας δυνατής χιονοθύελλας. Η οικογένειά του δεν κατάλαβε ότι λείπει από το σπίτι. Οι αστυνομικοί και ένας σκύλος-ιχνηλάτης συνεργάστηκαν για να τον βρουν. Το χιόνι ήταν πολύ και η θερμοκρασία ήταν πολύ χαμηλή. Είναι σημαντικό ότι οι αρχές έδρασαν γρήγορα και κατάφεραν να σώσουν το παιδί. Δεν έχει ανακοινωθεί αν χρειάζεται κάτι άλλο για την ασφάλεια των παιδιών σε τέτοιες καιρικές συνθήκες.",
+      "simpleTitle": "Αστυνομία και σκύλος σώζουν 15χρονο με αυτισμό από χιονοθύελλα",
+      "simpleText": "Στο Maryland, ένας 15χρονος με αυτισμό χάθηκε κατά τη διάρκεια μιας χιονοθύελλας. Η οικογένειά του δεν κατάλαβε ότι είχε φύγει από το σπίτι. Οι αστυνομικοί μαζί με έναν σκύλο-ιχνηλάτη τον εντόπισαν. Η θερμοκρασία ήταν πολύ χαμηλή και το χιόνι κάλυπτε τα πάντα. Η συνεργασία των ανθρώπων και του σκύλου ήταν πολύ σημαντική. Χάρη σε αυτήν, ο νεαρός βρέθηκε ασφαλής. Είναι σημαντικό να γνωρίζουμε πώς να παρακολουθούμε και να βοηθάμε άτομα με ειδικές ανάγκες, ειδικά σε δύσκολες καιρικές συνθήκες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31627-astynomia-kai-skylos-ixnilatis-entopizoun-15xrono-me-aftismo-mesa-se-xionothyella/",
       "sourceDomains": [
@@ -418,17 +403,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ασφάλεια ενός ανηλίκου με αυτισμό που χάθηκε σε επικίνδυνες καιρικές συνθήκες, καθώς και τη δράση της αστυνομίας για την διάσωση του, θέτοντας σοβαρά ζητήματα ασφάλειας.",
+      "categoryReason": "Η είδηση αφορά την ανεύρεση ενός παιδιού με αυτισμό σε επικίνδυνες καιρικές συνθήκες, κάτι που είναι σημαντικό από πλευράς ασφάλειας και κοινωνικής ευθύνης.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g13bdc5178c022987089c2c0f59710aa04e97017dc91e8b29e7797e6a8d9b7f24a67c91f306f42e366b89ea824f32c20fb8686952f327b999a7effdff249de227_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g0667b40877c1c5ce095b2d6bc38e263e3b0bb10a49ede908729b7bb13fa175443b7266705f5e63816993ecc657b07cdc5bcc69610b1cd69e555df3551cfcfce9_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-07T07:52:00.000Z"
     },
     {
       "id": "3237a18de9c7",
       "title": "Ποιο γιαούρτι είναι το καλύτερο; Οδηγός επιλογής με βάση την υγεία σου",
-      "simpleTitle": "Πώς να διαλέξεις το καλύτερο γιαούρτι",
-      "simpleText": "Το γιαούρτι είναι περισσότερο από ένα απλό τρόφιμο. Μπορεί να βοηθήσει στο να είμαστε πιο υγιείς και να υποστηρίξει το έντερό μας. Όμως, είναι σημαντικό να διαλέγουμε το σωστό για τις ανάγκες μας. Πρέπει να αποφεύγουμε τα γιαούρτια που έχουν πρόσθετη ζάχαρη ή τεχνητά αρώματα. Αυτά τα γιαούρτια είναι σαν γλυκά και δεν μας κάνουν καλό. Αν θέλεις να επιλέξεις ένα καλό γιαούρτι, κοίτα την ετικέτα και διάλεξε χωρίς πρόσθετα. Έτσι, θα είναι πιο υγιεινό και θα σε ωφελήσει.",
+      "simpleTitle": "Πώς να επιλέξεις το καλύτερο γιαούρτι για την υγεία σου",
+      "simpleText": "Το γιαούρτι είναι πολύ καλό για τη διατροφή μας. Μπορεί να μας δώσει πρωτεΐνη και να βοηθήσει το έντερο. Όμως, είναι σημαντικό να διαλέγουμε το σωστό γιαούρτι. Πρέπει να προσέχουμε να μην έχει ζάχαρη, τεχνητά αρώματα ή γλυκαντικά. Αυτά τα γιαούρτια μοιάζουν με γλυκά και δεν είναι υγιεινά. Το καλύτερο είναι να επιλέγουμε γιαούρτια που είναι πιο φυσικά και χωρίς πρόσθετα. Έτσι θα κάνουμε καλή επιλογή για την υγεία μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31620-poio-giaourti-kalitero/",
       "sourceDomains": [
@@ -441,170 +426,124 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση επικεντρώνεται στη σημασία της υγιεινής διατροφής και της σωστής επιλογής τροφίμων, γεγονός που αποτελεί σοβαρό θέμα για την υγεία.",
+      "categoryReason": "Το άρθρο εστιάζει στη διατροφική αξία του γιαουρτιού και τις υγειονομικές επιπτώσεις της κατανάλωσής του, κάτι που σχετίζεται με σοβαρά θέματα υγείας και διατροφής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-06T16:34:33.000Z"
     },
     {
-      "id": "8e734924d46b",
-      "title": "NASA και Artemis: οι αστροναύτες του Artemis II ετοιμάζονται για το πιο μακρινό ταξίδι γύρω από τη Σελήνη",
-      "simpleTitle": "Αστροναύτες ετοιμάζονται για ταξίδι γύρω από τη Σελήνη",
-      "simpleText": "Τέσσερις αστροναύτες από τη NASA και τον Καναδά προετοιμάζονται για μια σπουδαία αποστολή. Ο Reid Wiseman, η Christina Koch, ο Victor Glover και ο Jeremy Hansen θα ταξιδέψουν με την αποστολή Artemis II. Το ταξίδι θα κρατήσει περίπου 10 ημέρες και θα τους πάει πιο μακριά από τη Γη από ποτέ. Αν και δεν θα κατέβουν στη Σελήνη, αυτό το ταξίδι είναι σημαντικό για την εξερεύνηση του φεγγαριού.\n\nΗ αποστολή αυτή θα δοκιμάσει τον πύραυλο Space Launch System και την κάψουλα Orion, μεταφέροντας ανθρώπους για πρώτη φορά. Αυτό θα βοηθήσει να προετοιμαστεί ο δρόμος για τις επόμενες αποστολές Artemis και να συνεχιστεί η εξερεύνηση του διαστήματος.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31619-nasa-kai-artemis-oi-astronaftes-tou-artemis-ii-etoimazontai-gia-to-pio-makrino-taxidi-gyro-apo-ti-selini/",
+      "id": "9f21f32a0e5d",
+      "title": "Ο Τραμπ και ο Βανς εξάπτουν τα πάθη και στους Χειμερινούς Ολυμπιακούς",
+      "simpleTitle": "Ο Τραμπ και ο Βανς δημιουργούν εντάσεις στους Χειμερινούς Ολυμπιακούς",
+      "simpleText": "Ο πρώην πρόεδρος Τραμπ και ο Βανς προκαλούν αναστάτωση στους Χειμερινούς Ολυμπιακούς Αγώνες. Αυτή η αναστάτωση συμβαίνει λόγω των πολιτικών εντάσεων που δημιουργεί η κυβέρνηση των ΗΠΑ. Ιδιαίτερα επηρεάζεται το άθλημα του χόκεϊ επί πάγου. Οι αθλητές και οι θεατές βιώνουν μία περίοδο έντασης, καθώς οι πολιτικές καταστάσεις μπορούν να επηρεάσουν τον αθλητισμό. Είναι σημαντικό να έχουμε έναν αθλητικό αγώνα χωρίς διαμάχες. Δεν ξέρουμε ακόμα πώς θα αντιδράσουν οι διοργανωτές και ποια θα είναι η συνέχεια.",
+      "sourceName": "Protagon",
+      "sourceUrl": "https://www.protagon.gr/epikairotita/o-trab-eksaptei-ta-pathi-kai-stous-xeimerinous-olybiakous-44343309143",
       "sourceDomains": [
-        "thehappynews.gr"
+        "protagon.gr"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31619-nasa-kai-artemis-oi-astronaftes-tou-artemis-ii-etoimazontai-gia-to-pio-makrino-taxidi-gyro-apo-ti-selini/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η αποστολή Artemis II από τη NASA είναι ένα σοβαρό γεγονός που σχετίζεται με την εξερεύνηση του διαστήματος, τη διαστημική τεχνολογία και τις προοπτικές της ανθρωπότητας να επιστρέψει στη Σελήνη. Αφορά όχι μόνο εξε scientific progress και τα νέα δεδομένα για την εξερεύνηση του φεγγαριού, αλλά και την τεχνολογία πίσω από τις διαστημικές αποστολές.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-06T14:18:00.000Z"
-    },
-    {
-      "id": "9ce74f433000",
-      "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
-      "simpleTitle": "Φινλανδία: Πώς οι άνθρωποι βρίσκουν την ευτυχία τους",
-      "simpleText": "Στη Φινλανδία, οι άνθρωποι είναι πολύ ευτυχισμένοι. Αυτό το λέει η Παγκόσμια Έκθεση Ευτυχίας, που ρωτάει πόσο ικανοποιημένοι είμαστε από τη ζωή μας. Οι Φινλανδοί έχουν βρεθεί στην κορυφή της λίστας για οκτώ χρόνια. Εκεί, η ευτυχία δεν είναι μόνο ένας στόχος, αλλά ένας τρόπος ζωής.\n\nΌταν ρώτησαν τους Φινλανδούς γιατί είναι τόσο ευτυχισμένοι, πολλοί είπαν ότι έχουν χαμηλές προσδοκίες. Αυτό σημαίνει ότι δεν περιμένουν πάντα πολλά από τη ζωή. Αυτή η νοοτροπία τους βοηθά να απολαμβάνουν τις απλές στιγμές. Η ευτυχία τους δείχνει ότι είναι σημαντικό να βλέπουμε τη ζωή με θετική διάθεση.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στη συνεχή ευτυχία των Φινλανδών, εξερευνώντας τους λόγους που οδηγούν σε αυτή την ικανοποίηση της ζωής και προβάλλει μια θετική προοπτική για την ευτυχία ως τρόπο ζωής.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-06T09:42:00.000Z"
-    },
-    {
-      "id": "cbaca6b9952a",
-      "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Λουτζ-Μονό (Γ)-3ο Σκέλος (18:00, ΕΡΤ2 ΣΠΟΡ)",
-      "simpleTitle": "Δείτε το Λουτζ-Μονό στους Χειμερινούς Ολυμπιακούς Αγώνες",
-      "simpleText": "Σήμερα στις 18:00 θα μεταδοθεί σε απευθείας σύνδεση το Λουτζ-Μονό για τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026». Η μετάδοση θα γίνει από το κανάλι ΕΡΤ2 ΣΠΟΡ και μπορείτε να το παρακολουθήσετε και διαδικτυακά. Είναι μια καλή ευκαιρία να δείτε τους αθλητές να διαγωνίζονται σε αυτό το δύσκολο άθλημα. Μην ξεχάσετε να είστε συντονισμένοι στην ώρα που αναφέραμε.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-loutz-mono-g-3o-skelos-18-00-ert2-spor/",
-      "sourceDomains": [
-        "ertnews.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-loutz-mono-g-3o-skelos-18-00-ert2-spor/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/o-trab-eksaptei-ta-pathi-kai-stous-xeimerinous-olybiakous-44343309143"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη μετάδοση αγώνων λουτζ-μονό για τους Χειμερινούς Ολυμπιακούς Αγώνες, που είναι καθαρά αθλητικό γεγονός. | rss_backfill",
+      "categoryReason": "Οι Χειμερινοί Ολυμπιακοί Αγώνες και η αναστάτωση που προκαλούν οι πολιτικές εντάσεις επηρεάζουν άμεσα τον αθλητισμό, ειδικά το χόκεϊ επί πάγου. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-      "publishedAt": "2026-02-10T15:50:00.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-11T07:00:44.000Z"
     },
     {
-      "id": "66afdbb78aac",
-      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: «Προσοχή, εύθραυστο» – Τα ολυμπιακά μετάλλια σπάνε στα χέρια των αθλητών",
-      "simpleTitle": "Χειμερινοί Αγώνες: Προσοχή με τα μετάλλια",
-      "simpleText": "Στους Χειμερινούς Ολυμπιακούς Αγώνες στο Μιλάνο το 2026, υπάρχουν προβλήματα με τα μετάλλια. Πολλά από αυτά σπάνε ή αποκολλώνται από τις κορδέλες τους. Οι αθλητές ανησυχούν και οι διοργανωτές προσπαθούν να βρουν τι φταίει. Η χρυσή ολυμπιονίκης Breezy Johnson συμβουλεύει τους αθλητές να προσέχουν πώς κρατούν τα μετάλλιά τους, καθώς το δικό της έσπασε από τον ενθουσιασμό.\n\nΑυτή η κατάσταση έχει γίνει γνωστή μέσω των μέσων κοινωνικής δικτύωσης, με άλλους αθλητές να δείχνουν τα κατεστραμμένα μετάλλιά τους. Ο υπεύθυνος της διοργάνωσης δήλωσε ότι προσπαθούν να βρουν λύση, γιατί τα μετάλλια είναι πολύ σημαντικά για τους αθλητές. Είναι απαραίτητο να είναι ασφαλή και όμορφα για όλους.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/xeimerinoi-olympiakoi-agones-prosoxi-eythraysto-ta-olympiaka-metallia-spane-sta-xeria-ton-athliton/",
+      "id": "7310810e3e55",
+      "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Απάτησε τη σύντροφό του και ζήτησε συγγνώμη μετά το μετάλλιο που κατέκτησε",
+      "simpleTitle": "Ολυμπιονίκης ζητά συγγνώμη μετά την επιτυχία του",
+      "simpleText": "Ο Sturla Holm Laegreid κέρδισε το χάλκινο μετάλλιο στο δίαθλο στους Χειμερινούς Ολυμπιακούς Αγώνες. Αμέσως μετά τη νίκη του, αποκάλυψε ότι είχε απάτησε τη σύντροφό του. Ζήτησε δημόσια συγγνώμη για την πράξη του. Είναι σημαντικό να ξέρουμε πώς οι αθλητές αντιμετωπίζουν τις πράξεις τους και τις συνέπειες. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για την κατάσταση αυτή.",
+      "sourceName": "TO BHMA",
+      "sourceUrl": "https://www.tovima.gr/2026/02/11/sports/xeimerinoi-olympiakoi-agones-apatise-ti-syntrofo-tou-kai-zitise-syggnomi-meta-to-metallio-pou-katektise/",
       "sourceDomains": [
-        "ertnews.gr"
+        "tovima.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/xeimerinoi-olympiakoi-agones-prosoxi-eythraysto-ta-olympiaka-metallia-spane-sta-xeria-ton-athliton/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/11/sports/xeimerinoi-olympiakoi-agones-apatise-ti-syntrofo-tou-kai-zitise-syggnomi-meta-to-metallio-pou-katektise/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αναφέρεται σε προβλήματα με τα ολυμπιακά μετάλλια στους Χειμερινούς Ολυμπιακούς Αγώνες, που σχετίζονται άμεσα με τις επιδόσεις και τις ανησυχίες των αθλητών. | rss_backfill",
+      "categoryReason": "Το γεγονός αφορά μια αθλητική επιτυχία (χάλκινο μετάλλιο στους Χειμερινούς Ολυμπιακούς Αγώνες) και τις προσωπικές επιλογές ενός αθλητή, που σχετίζονται με την αθλητική του καριέρα. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/winter-olympics-medal.mp4",
-      "publishedAt": "2026-02-10T15:40:08.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-11T04:45:53.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "dd9646177b2c",
-        "title": "Στάρμερ: Δεν θα εγκαταλείψω ποτέ το αξίωμά μου",
-        "simpleTitle": "Ο Στάρμερ θέλει να παραμείνει στη θέση του",
-        "simpleText": "Ο βρετανός πρωθυπουργός Στάρμερ είπε ότι δεν θα εγκαταλείψει ποτέ τη θέση του. Αυτή την ανακοίνωση την έκανε σε μια δύσκολη περίοδο. Είναι υπό πίεση λόγω του διορισμού ενός νέου πρέσβη στην Ουάσιγκτον. Αυτή η κατάσταση δημιουργεί ανησυχίες για τις σχέσεις της χώρας. Ο Στάρμερ δήλωσε ότι θα συνεχίσει να παλεύει για την αλλαγή στη Βρετανία. Υπογράμμισε ότι είναι πιστός στους ανθρώπους που εκπροσωπεί και δεν θα παρατήσει την αποστολή του. Είναι σημαντικό για τον κόσμο να γνωρίζει ότι οι πολιτικοί πρέπει να παραμένουν σταθεροί στις αποφάσεις τους.",
-        "sourceName": "Kathimerini, Protagon",
-        "sourceUrl": "https://www.kathimerini.gr/world/564070615/starmer-den-tha-egkataleipso-pote-to-axioma-moy/",
+        "id": "f9a607d698fa",
+        "title": "Έφοδος της ΕΛΑΣ σε καταυλισμούς στο Μενίδι και τη Φυλή – Ξήλωσαν παράνομα καλώδια 520 μέτρων",
+        "simpleTitle": "Μεγάλη επιχείρηση της αστυνομίας σε Μενίδι και Φυλή",
+        "simpleText": "Την περασμένη Τρίτη, η αστυνομία έκανε μεγάλη επιχείρηση σε καταυλισμούς στο Μενίδι και τη Φυλή. Εκεί, ξήλωσαν 520 μέτρα καλωδίων που χρησιμοποιούνταν για να κλέβουν ρεύμα. Πάνοπλοι αστυνομικοί μπήκαν σε σπίτια και συνέλαβαν 12 άτομα για αυτή την κατάσταση. Αυτή η ενέργεια είναι σημαντική γιατί θα σταματήσει τη ρευματοκλοπή και θα βοηθήσει να πάει το ρεύμα στους ανθρώπους που το χρειάζονται σωστά. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για τις συνέπειες αυτής της επιχείρησης.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/efodos-tis-elas-se-kataylismous-sto-menidi-kai-ti-fyli-ksilosan-paranoma-kalodia-520-metron/",
         "sourceDomains": [
-          "kathimerini.gr",
-          "protagon.gr"
+          "ertnews.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564070615/starmer-den-tha-egkataleipso-pote-to-axioma-moy/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/efodos-tis-elas-se-kataylismous-sto-menidi-kai-ti-fyli-ksilosan-paranoma-kalodia-520-metron/"
           },
           {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/vretania-den-tha-egkataleipsw-pote-to-aksiwma-mou-dilwnei-o-starmer-44343309978"
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4072147/efodos-tis-el-as-se-katavlismous-se-menidi-ke-fili-xilosan-paranoma-kalodia-520-metron.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον βρετανό πρωθυπουργό Στάρμερ και τις πολιτικές του δηλώσεις σε μια περίοδο πίεσης, γεγονός που συνδέεται με σοβαρά θέματα πολιτικής και διακυβέρνησης.",
+        "categoryReason": "Η είδηση αφορά μια επιχείρηση της αστυνομίας που σχετίζεται με την καταπολέμηση της ρευματοκλοπής, ένα σοβαρό κοινωνικό και οικονομικό ζήτημα.",
         "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-10T15:55:10.000Z"
+        "imageUrl": "https://pixabay.com/get/ga06146bf45efb692f448d71dcafcd8a8541bf1be59749260f090b03c0c25cdeb163f2cbbb7f48f76912f88827f5dff1e4fea70d9d06dd630988be9f6b0610d1e_1280.jpg",
+        "videoUrl": "https://www.youtube.com/embed/nslALRJuILo",
+        "publishedAt": "2026-02-11T07:33:10.000Z"
       },
       {
-        "id": "e5a13ab03db3",
-        "title": "Το πρόγραμμα του Μητσοτάκη στην Άγκυρα – Τι ώρα θα πραγματοποιηθεί η συνάντηση με Ερντογάν",
-        "simpleTitle": "Συνάντηση Μητσοτάκη και Ερντογάν στην Άγκυρα",
-        "simpleText": "Ο Πρωθυπουργός Κυριάκος Μητσοτάκης θα επισκεφθεί την Άγκυρα αύριο, Τετάρτη 11 Φεβρουαρίου. Εκεί θα συναντηθεί με τον Πρόεδρο της Τουρκίας, Ερντογάν, στις 15:15 ώρα Ελλάδας. Σκοπός της συνάντησης είναι να μιλήσουν για θέματα που αφορούν τις δύο χώρες. Οι ηγέτες θα κάνουν κοινούς δηλώσεις στις 17:00. Είναι σημαντική αυτή η συνάντηση διότι θα βοηθήσει στη μείωση των εντάσεων και στη συνέχιση του διαλόγου μεταξύ Ελλάδας και Τουρκίας. Υπάρχουν κάποιες οδηγίες ασφάλειας, αλλά για τώρα δεν έχουν ανακοινωθεί λεπτομέρειες.",
-        "sourceName": "TA NEA, Protagon",
-        "sourceUrl": "https://www.tanea.gr/2026/02/10/politics/to-programma-toy-mitsotaki-stin-agkyra-ti-ora-tha-pragmatopoiithei-i-synantisi-me-erntogan/",
+        "id": "702b4c0c8e08",
+        "title": "Χάος στην Αλβανία: Μολότοφ και πέτρες σε αντικυβερνητική διαδήλωση στα Τίρανα – 16 αστυνομικοί τραυματίες",
+        "simpleTitle": "Επεισόδια στην Αλβανία: Διαδήλωση με βία",
+        "simpleText": "Στην Αλβανία, σημειώθηκαν επεισόδια κατά τη διάρκεια διαδήλωσης εναντίον της κυβέρνησης. Αυτή η διαδήλωση έγινε στα Τίρανα το βράδυ της Τρίτης. Οι συγκεντρωμένοι εκτόξευσαν πέτρες και μολότοφ εναντίον των κυβερνητικών κτιρίων. Σαν αποτέλεσμα, 16 αστυνομικοί τραυματίστηκαν και 13 άτομα συνελήφθησαν. Ο πρώην πρωθυπουργός Σαλί Μπερίσα κάλεσε τους υποστηρικτές του σε αυτή τη διαδήλωση, που έγινε λόγω των κατηγοριών για διαφθορά στην κυβέρνηση. Είναι σημαντικό να διατηρούμε την ηρεμία και να μιλάμε για τα προβλήματά μας χωρίς βία.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/11/world/xaos-stin-alvania-molotof-kai-petres-se-antikyvernitiki-diadilosi-sta-tirana-16-astynomiko/",
         "sourceDomains": [
           "tanea.gr",
-          "protagon.gr"
+          "news.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/10/politics/to-programma-toy-mitsotaki-stin-agkyra-ti-ora-tha-pragmatopoiithei-i-synantisi-me-erntogan/"
+            "url": "https://www.tanea.gr/2026/02/11/world/xaos-stin-alvania-molotof-kai-petres-se-antikyvernitiki-diadilosi-sta-tirana-16-astynomiko/"
           },
           {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/apopseis/einai-aftoskopos-i-synantisi-mitsotaki-erntogan-44343309800"
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4072008/episodia-se-antikivernitiki-diadilosi-stin-alvania-16-astinomiki-travmaties.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τη διπλωματική συνάντηση του Πρωθυπουργού με τον Πρόεδρο της Τουρκίας, η οποία είναι σημαντική για τις σχέσεις Ελλάδας-Τουρκίας και την αποκλιμάκωση εντάσεων, άρα εμπίπτει στα σοβαρά θέματα πολιτικής και διπλωματίας.",
+        "categoryReason": "Η είδηση αφορά σοβαρά επεισόδια κατά τη διάρκεια αντικυβερνητικής διαδήλωσης στην Αλβανία, με τραυματισμούς αστυνομικών και κατηγορίες διαφθοράς, γεγονός που συνδέεται με πολιτική και κοινωνική αστάθεια.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-10T15:44:06.000Z"
+        "publishedAt": "2026-02-11T06:31:57.000Z"
       },
       {
-        "id": "c431794430d4",
-        "title": "Υπόθεση κατασκοπείας: Μαραθώνια η απολογία του σμηνάρχου στο Αεροδικείο",
-        "simpleTitle": "Μακρά απολογία σμηνάρχου για κατασκοπεία",
-        "simpleText": "Στο Αεροδικείο Αθηνών, ο σμηνάρχος απολογείται για κατηγορίες κατασκοπείας. Η απολογία του διαρκεί πολλές ώρες και έχει προκαλέσει μεγάλο ενδιαφέρον. Κατηγορείται ότι συνέλεξε και έστειλε μυστικές πληροφορίες σε άλλους, κάτι που μπορεί να βλάψει τα εθνικά συμφέροντα. Αν καταδικαστεί, μπορεί να φυλακιστεί για έως 20 χρόνια και να χάσει την ελληνική του ιθαγένεια.\n\nΟ σμηνάρχος αναφέρει ότι γνώρισε έναν άντρα που τον εισήγαγε στον κόσμο της κατασκοπείας μέσω ενός επαγγελματικού ιστότοπου. Στην αρχή, συνεργάστηκε για γεωπολιτικές αναλύσεις, αλλά στη συνέχεια, οι πληροφορίες που έδινε έγιναν πολύ πιο ευαίσθητες. Οι αρχές διερευνούν τη δράση του και τις οικονομικές του συναλλαγές.",
+        "id": "ee3454e02842",
+        "title": "Οι ελληνοτουρκικές οικονομικές σχέσεις στο επίκεντρο της συνάντησης Πιερρακάκη – Σιμσέκ σήμερα",
+        "simpleTitle": "Συνάντηση για τις οικονομικές σχέσεις Ελλάδας - Τουρκίας",
+        "simpleText": "Σήμερα, ο υπουργός Εθνικής Οικονομίας, Κυριάκος Πιερρακάκης, συναντά τον Τούρκο υπουργό Οικονομικών, Mehmet Şimşek. Αυτή η συνάντηση συνεχίζει τη συνεργασία που έχουν οι δύο χώρες στον τομέα της οικονομίας. Την προηγούμενη φορά είχαν συναντηθεί τον Οκτώβριο του 2025 στην Ουάσιγκτον. Στη συνάντηση αυτή, θα μιλήσουν για τη βελτίωση του εμπορίου και την αύξηση των επενδύσεων. Θέλουν να κάνουν τις οικονομίες τους πιο στενές και να συνεργαστούν σε σημαντικούς τομείς, όπως η καινοτομία και η πράσινη ενέργεια. Η καλή σχέση μεταξύ των δύο χωρών είναι σημαντική για όλους.",
         "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564070561/ypothesi-kataskopeias-marathonia-i-apologia-toy-syllifthentos-sminarchoy/",
+        "sourceUrl": "https://www.kathimerini.gr/economy/564071818/oi-ellino-toyrkikes-oikonomikes-scheseis-sto-epikentro-tis-synantisis-pierrakaki-simsek-simera/",
         "sourceDomains": [
           "kathimerini.gr",
           "tanea.gr"
@@ -612,113 +551,108 @@
         "sources": [
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564070561/ypothesi-kataskopeias-marathonia-i-apologia-toy-syllifthentos-sminarchoy/"
+            "url": "https://www.kathimerini.gr/economy/564071818/oi-ellino-toyrkikes-oikonomikes-scheseis-sto-epikentro-tis-synantisis-pierrakaki-simsek-simera/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/10/greece/law/ypothesi-kataskopeias-marathonia-i-apologia-toy-sminarxoy-i-malaisiani-etaireia-symvoylon/"
+            "url": "https://www.tanea.gr/2026/02/11/politics/synantisi-pierrakaki-me-ton-toyrko-omologo-toy-sto-epikentro-oi-ellinotoyrkikes-oikonomike/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η υπόθεση αφορά κατηγορίες κατασκοπείας με σοβαρές επιπτώσεις για την εθνική ασφάλεια και τα δικαιώματα του κατηγορούμενου, γεγονός που την καθιστά σοβαρή είδηση.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική πολιτική και οικονομική συνάντηση μεταξύ των υπουργών Ελλάδας και Τουρκίας, με στόχο την ενίσχυση των οικονομικών σχέσεων και την προώθηση της συνεργασίας σε στρατηγικούς τομείς.",
         "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.megatv.com/embed/?p=20202264449",
-        "publishedAt": "2026-02-10T15:30:34.000Z"
+        "imageUrl": "https://pixabay.com/get/g5441826ef01ff5401730d07c5150bed856d9da0d25123cca9ec94ec4b132e88ab2227babe4e7bbbe381548e0232d4cd917946fac3eb3627b48d9de1ae93eac4b_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-11T06:31:35.000Z"
       },
       {
-        "id": "66ae96b632c5",
-        "title": "Τραγωδία στην Ελευσίνα: Σοκάρει η περιγραφή γειτόνισσας – «Η πόρτα ήταν ανοιχτή και σφηνωμένη στο δέντρο»",
-        "simpleTitle": "Δυστύχημα στην Ελευσίνα: Τι συνέβη με τη 72χρονη**",
-        "simpleText": "Ένα σοβαρό ατύχημα έγινε στην Ελευσίνα. Μια 72χρονη γυναίκα σκοτώθηκε ενώ η κόρη της προσπαθούσε να παρκάρει το αυτοκίνητο. Το περιστατικό συνέβη το μεσημέρι, όταν η μητέρα καθοδηγούσε την κόρη της. Η γυναίκα χτύπησε και τραυματίστηκε σοβαρά στο λαιμό. Οι γείτονες προσπάθησαν να βοηθήσουν, αλλά το ασθενοφόρο ήρθε μετά από μισή ώρα. Η γυναίκα διακομίσθηκε στο νοσοκομείο, αλλά δεν τα κατάφερε. Η κόρη της είναι πολύ στεναχωρημένη και έχει κατηγορηθεί για αμέλεια. Είναι μια δύσκολη στιγμή για την οικογένεια, που προσπαθεί να κατανοήσει την κατάσταση.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/10/greece/tragodia-stin-eleysina-sokarei-i-perigrafi-geitonissas-i-porta-itan-anoixti-kai-sfinomeni-sto-dentro/",
+        "id": "b3ec89a4fc58",
+        "title": "FT: Ο Ζελένσκι σχεδιάζει εκλογές την άνοιξη – Στις 24 Φεβρουαρίου θα τις ανακοινώσει",
+        "simpleTitle": "Ο Ζελένσκι θα ανακοινώσει εκλογές στις 24 Φεβρουαρίου",
+        "simpleText": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι ετοιμάζεται να πει τι θα γίνει με τις εκλογές και ένα δημοψήφισμα, στις 24 Φεβρουαρίου. Αυτές οι διαδικασίες μπορεί να γίνουν το Μάιο. Οι Ηνωμένες Πολιτείες τον πιέζουν να τις οργανώσει για να εξασφαλίσει ασφάλεια για τη χώρα του. Η εκλογές και το δημοψήφισμα ίσως σχετίζονται με μια ειρηνική συμφωνία με τη Ρωσία. Είναι σημαντικό γιατί μπορεί να αλλάξει πολλά για την Ουκρανία. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για το πώς θα γίνουν όλα αυτά.",
+        "sourceName": "Kathimerini, TA NEA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564071821/ft-o-zelenski-schediazei-ekloges-tin-anoixi-parallila-me-dimopsifisma-gia-ti-symfonia-eirinis/",
         "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
+          "kathimerini.gr",
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/10/greece/tragodia-stin-eleysina-sokarei-i-perigrafi-geitonissas-i-porta-itan-anoixti-kai-sfinomeni-sto-dentro/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564071821/ft-o-zelenski-schediazei-ekloges-tin-anoixi-parallila-me-dimopsifisma-gia-ti-symfonia-eirinis/"
           },
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/10/society/dystyxima-stin-eleysina-i-porta-tou-aytokinitou-itan-anoixti-kai-sfinomeni-sto-dentro/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/11/world/financial-times-o-zelenski-sxediazei-ekloges-kai-dimopsifisma-gia-eirini-tin-anoiksi/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα με θύματα, οικογενειακή τραγωδία και ζητήματα που σχετίζονται με την ασφάλεια και την αμέλεια, γεγονός που την καθιστά σοβαρή.",
+        "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση στην Ουκρανία, τις επικείμενες εκλογές και τις πιέσεις από τις ΗΠΑ για τη διεξαγωγή τους, θέματα που σχετίζονται με σοβαρά ζητήματα ασφάλειας και διεθνών σχέσεων.",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dgbcl3sw7fo9",
-        "publishedAt": "2026-02-10T15:08:48.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-02-11T06:18:34.000Z"
       },
       {
-        "id": "59e8efe12676",
-        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Απεργία ανακοίνωσαν οι δημοσιογράφοι του αθλητικού τμήματος της RAI – Ζητούν την παραίτηση του διευθυντή τους",
-        "simpleTitle": "Απεργία δημοσιογράφων της RAI για τον διευθυντή",
-        "simpleText": "Οι δημοσιογράφοι του αθλητικού τμήματος της RAI ανακοίνωσαν ότι θα απεργήσουν μετά τους Χειμερινούς Ολυμπιακούς Αγώνες. Θέλουν να φύγει ο διευθυντής τους, Πάολο Πετρέκα, λόγω λαθών που έκανε κατά τη μετάδοση της τελετής έναρξης. Για παράδειγμα, είπε ότι βρισκόταν σε άλλο στάδιο και μπέρδεψε διάσημους καλλιτέχνες. Οι δημοσιογράφοι ξεκίνησαν να διαμαρτύρονται και δεν αναφέρουν το όνομά τους στις ζωντανές συνδέσεις από τους Αγώνες. Η κατάσταση είναι σοβαρή γιατί μπορεί να επηρεάσει την ποιότητα της τηλεόρασης και την εμπιστοσύνη των τηλεθεατών. Δεν ξέρουμε αν ο Πετρέκα θα παραιτηθεί ή αν θα παραμείνει στη θέση του.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/xeimerinoi-olympiakoi-agones-apergia-anakoinosan-oi-dimosiografoi-tou-athlitikou-tmimatos-tis-rai-zitoun-tin-paraitisi-tou-dieythynti-tous/",
+        "id": "129fbdfe5333",
+        "title": "Εκτροπή απορριμματοφόρου στην Περιφερειακή Αιγάλεω – Ελαφρά τραυματίας ο οδηγός",
+        "simpleTitle": "Ατύχημα με απορριμματοφόρο στην Αιγάλεω",
+        "simpleText": "Σήμερα το πρωί στην Περιφερειακή Αιγάλεω, ένα απορριμματοφόρο έχασε τον έλεγχο και εκτράπηκε. Ο οδηγός του τραυματίστηκε ελαφρά και χρειάστηκε βοήθεια από την Πυροσβεστική, που έσπευσε με δύο οχήματα. Αυτή τη στιγμή, η κατάσταση του είναι καλή και δεν κινδυνεύει. Το ατύχημα συνέβη σε ώρα με πολύ κυκλοφορία, και αυτό προκάλεσε καθυστερήσεις στα αυτοκίνητα. Οι αστυνομικοί είναι στο σημείο για να ρυθμίσουν την κυκλοφορία. Είναι καλό οι οδηγοί να είναι προσεκτικοί και αν μπορούν, να διαλέγουν άλλες διαδρομές μέχρι να αποκατασταθεί η κίνηση.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo-elafra-traymatias-o-odigos/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr"
+          "kathimerini.gr",
+          "tanea.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/xeimerinoi-olympiakoi-agones-apergia-anakoinosan-oi-dimosiografoi-tou-athlitikou-tmimatos-tis-rai-zitoun-tin-paraitisi-tou-dieythynti-tous/"
+            "url": "https://www.ertnews.gr/eidiseis/ellada/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo-elafra-traymatias-o-odigos/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564070585/cheimerinoi-olympiakoi-agones-apanotes-gkafes-sti-metadosi-apo-ton-dieythynti-toy-rai-sport/"
+            "url": "https://www.kathimerini.gr/society/564071863/anatropi-aporrimmatoforoy-stin-perifereiaki-aigaleo/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/11/greece/ektropi-aporrimmatoforou-stin-perifereiaki-aigaleo/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές καταστάσεις σχετικά με την ποιότητα της μετάδοσης των Χειμερινών Ολυμπιακών Αγώνων και τις εσωτερικές αντιπαραθέσεις στο αθλητικό τμήμα της RAI, οι οποίες μπορεί να επηρεάσουν την δημόσια τηλεόραση και την εμπιστοσύνη των τηλεθεατών.",
+        "categoryReason": "Η είδηση αφορά ένα τροχαίο ατύχημα με τραυματία και ζητήματα κυκλοφορίας, στοιχεία που την καθιστούν σοβαρή.",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-10T14:59:56.000Z"
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260211-sundeseis-darsinos-skoupidiariko.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260211-sundeseis-darsinos-skoupidiariko.jpg",
+        "publishedAt": "2026-02-11T06:00:54.000Z"
       },
       {
-        "id": "a5aa936aabb0",
-        "title": "«Σπαρτιάτες»: Ομόφωνα αθώοι και οι 13 κατηγορούμενοι για εξαπάτηση εκλογικού σώματος",
-        "simpleTitle": "** Αθώοι οι κατηγορούμενοι για απάτη",
-        "simpleText": "** Το Εφετείο αθώωσε τους 13 κατηγορούμενους στην υπόθεση των «Σπαρτιατών» για εξαπάτηση του εκλογικού σώματος. Ανάμεσά τους είναι πρώην και νυν βουλευτές και ένας δικηγόρος. Η αθώωση έγινε σύμφωνα με την πρόταση του εισαγγελέα. Αυτή είναι η δεύτερη φορά που οι κατηγορούμενοι αθωώνονται.\n\nΟι κατηγορίες προήλθαν από καταγγελίες για αθέμιτες πρακτικές μέσα στο κόμμα. Ένας μάρτυρας, ο Βασίλης Στίγκας, είπε ότι είχε πει προηγουμένως ψέματα λόγω άγχους. Δεν ξέρουμε ακόμα αν θα υπάρξουν και άλλες εξελίξεις στην υπόθεση.",
-        "sourceName": "ERT News, Kathimerini, TO BHMA, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/spartiates-omofona-athooi-kai-oi-13-katigoroumenoi-gia-eksapatisi-eklogikou-somatos/",
+        "id": "abe256f19dee",
+        "title": "Μακελειό στον Καναδά: Τουλάχιστον 11 νεκροί από πυροβολισμούς σε σχολείο και σπίτι",
+        "simpleTitle": "Σκοτωμοί στον Καναδά: 11 νεκροί από πυροβολισμούς σε σχολείο",
+        "simpleText": "Στον Καναδά, τουλάχιστον 11 άνθρωποι σκοτώθηκαν από πυροβολισμούς σε σχολείο και σπίτι. Το περιστατικό συνέβη στην απομονωμένη περιοχή Τάμπλερ Ριτζ, στη Βρετανική Κολομβία. Οι αστυνομικοί βρήκαν επτά θύματα στο γυμνάσιο και δύο σε κατοικία. Ο φερόμενος ως δράστης βρέθηκε επίσης νεκρός και πιστεύεται ότι αυτοκτόνησε.\n\nΗ κοινότητα είναι σοκαρισμένη. Ο καναδός πρωθυπουργός ανακοίνωσε ότι θα αναβάλει το ταξίδι του στην Ευρώπη. Η υπουργός Δημόσιας Ασφαλείας δήλωσε ότι σκέφτεται τα θύματα και τις οικογένειές τους. Η αστυνομία είπε ότι δεν υπάρχουν άλλοι δράστες και οι κάτοικοι δεν είναι σε κίνδυνο. Διαφορετικοί άνθρωποι δέχθηκαν ιατρική φροντίδα για να είναι ασφαλείς.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/11/world/makeleio-ston-kanada-toylaxiston-11-nekroi-apo-pyrovolismoys-se-sxoleio-kai-spiti/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tovima.gr",
+          "tanea.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/spartiates-omofona-athooi-kai-oi-13-katigoroumenoi-gia-eksapatisi-eklogikou-somatos/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564070555/spartiates-omofona-athooi-kai-oi-13-katigoroymenoi-gia-exapatisi-eklogikoy-somatos/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/10/society/spartiates-omofona-athooi-kai-sto-efeteio-gia-eksapatisi-eklogeon/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/11/world/makeleio-ston-kanada-toylaxiston-11-nekroi-apo-pyrovolismoys-se-sxoleio-kai-spiti/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4071719/spartiates-omofona-athoi-krithikan-i-katigoroumeni-gia-tin-ipothesi-exapatisis-tou-eklogikou-somatos.html"
+            "url": "https://www.news.gr/kosmos/article/4071983/makelio-se-scholio-tou-kanada-pirovolismi-me-11-nekrous-ke-toulachiston-25-travmaties.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε μια νομική απόφαση που αφορά κατηγορίες εξαπάτησης και την αθώωση πολιτικών προσώπων, γεγονός που εμπλέκει σοβαρά ζητήματα δικαιοσύνης και πολιτικής δεοντολογίας.",
+        "categoryReason": "Το περιστατικό αφορά σοβαρή βία με πολλούς νεκρούς και έχει σοβαρές κοινωνικές και πολιτικές συνέπειες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-10T14:45:38.000Z"
+        "publishedAt": "2026-02-11T05:47:04.000Z"
       }
     ],
     "happy": [
@@ -726,7 +660,7 @@
         "id": "86be816312f2",
         "title": "Τι μαθαίνει ένα παιδί όταν βαριέται",
         "simpleTitle": "Τι μαθαίνει ένα παιδί από τη βαρεμάρα",
-        "simpleText": "Όταν ένα παιδί βαριέται, οι γονείς συχνά ανησυχούν. Πιστεύουν ότι η βαρεμάρα είναι κακή και πρέπει να γεμίσει άμεσα. Ωστόσο, η βαρεμάρα μπορεί να είναι καλή για το παιδί. Σε αυτήν την κατάσταση, το παιδί μπορεί να αναπτύξει τη φαντασία του. Όταν δεν έχει προγραμματισμένες δραστηριότητες, μπορεί να σκεφτεί νέες ιδέες και να παίζει με τον δικό του τρόπο. Έτσι, η βαρεμάρα γίνεται ευκαιρία για μάθηση και δημιουργικότητα.",
+        "simpleText": "Η βαρεμάρα συχνά ανησυχεί τους γονείς, αλλά δεν είναι πάντα κακή. Μπορεί να είναι μια ευκαιρία για τα παιδιά να μάθουν. Όταν βαριούνται, έχουν χρόνο να σκεφτούν και να φανταστούν. Δεν χρειάζεται πάντα να κάνουν κάτι συγκεκριμένο. Η φαντασία τους μπορεί να αναπτυχθεί, όταν δεν υπάρχει τίποτα έτοιμο. Είναι καλό να θυμόμαστε ότι η βαρεμάρα μπορεί να βοηθήσει τα παιδιά να γίνουν πιο δημιουργικά. Έτσι, οι γονείς μπορούν να επιτρέπουν στα παιδιά τους να βαριούνται μερικές φορές.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/",
         "sourceDomains": [
@@ -739,17 +673,40 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση προβάλλει πώς η βαρεμάρα μπορεί να είναι ωφέλιμη για τα παιδιά, ενθαρρύνοντάς τους να αναπτύξουν τη φαντασία και τη δημιουργικότητά τους, γεγονός που είναι θετικό και χαρούμενο.",
+        "categoryReason": "Η είδηση εξηγεί πώς η βαρεμάρα μπορεί να έχει θετικά αποτελέσματα για την ανάπτυξη της φαντασίας και της δημιουργικότητας στα παιδιά, προάγοντας μια θετική προοπτική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-09T18:05:00.000Z"
       },
       {
+        "id": "24c91c12d72b",
+        "title": "Δύο Γάλλοι έφτασαν στο Σανγκάι με τα πόδια, στέλνοντας μήνυμα για την κλιματική αλλαγή",
+        "simpleTitle": "Δύο Γάλλοι περπάτησαν για να μιλήσουν για την κλιματική αλλαγή",
+        "simpleText": "Δύο φίλοι από τη Γαλλία, ο Λοΐκ και ο Μπενζαμέν, έφτασαν στο Σανγκάι περπατώντας. Το ταξίδι τους κράτησε 518 ημέρες και ξεκίνησαν τον Σεπτέμβριο του 2024. Ήθελαν να δείξουν ότι μπορούμε να ταξιδεύουμε διαφορετικά, χωρίς αεροπλάνα, για να προστατεύσουμε το περιβάλλον. Αν και ήταν κουρασμένοι, ήταν πολύ χαρούμενοι που ολοκλήρωσαν αυτό το μεγάλο ταξίδι. Η προσπάθειά τους είναι σημαντική γιατί μας θυμίζει την ανάγκη να φροντίσουμε το πλανήτη μας.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31846-galloi-perpatisan-kina/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31846-galloi-perpatisan-kina/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση περιγράφει μια θετική και αισιόδοξη προσπάθεια δύο φίλων που περπάτησαν για 518 ημέρες για να στείλουν ένα μήνυμα σχετικά με την κλιματική αλλαγή, ολοκληρώνοντας το ταξίδι τους με χαρά.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-09T11:02:00.000Z"
+      },
+      {
         "id": "79284e0cff38",
         "title": "Πώς ο φυσικός φωτισμός επηρεάζει την ψυχολογία μας",
-        "simpleTitle": "Πώς το φως του ήλιου επηρεάζει τη διάθεσή μας",
-        "simpleText": "Το φυσικό φως του ήλιου έχει μεγάλη επίδραση στη ζωή μας. Ο οργανισμός μας αντιδρά σε αυτό, ακόμα κι αν περνάμε πολλές ώρες σε κλειστούς χώρους. Το φως του ήλιου μπορεί να αλλάξει τα συναισθήματά μας και τη διάθεσή μας. Είναι σημαντικό να παίρνουμε λίγο φως κάθε μέρα, γιατί αυτό μας βοηθά να αισθανόμαστε καλύτερα. Αν είμαστε έξω, μπορούμε να νιώσουμε πιο ευχαριστημένοι και ήρεμοι. Πρέπει να προσπαθούμε να είμαστε στον ήλιο, όταν υπάρχει, για να ωφεληθούμε.",
+        "simpleTitle": "Ο φυσικός φωτισμός και η ψυχολογία μας",
+        "simpleText": "Το φως του ήλιου επηρεάζει πολύ τη ζωή μας. Παρόλο που περνάμε χρόνο σε κλειστά μέρη, το σώμα μας χρειάζεται φυσικό φως. Αυτό το φως έχει σχέση με τα συναισθήματα μας. Όταν έχουμε περισσότερο φως, μπορεί να νιώθουμε καλύτερα και πιο ευτυχισμένοι. Είναι σημαντικό να προσπαθούμε να βγαίνουμε έξω ή να έχουμε φωτεινούς χώρους στο σπίτι μας. Έτσι θα μπορούμε να νιώθουμε καλύτερα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31323-pos-fisikos-fotismos-epireazi-psixologia-mas/",
         "sourceDomains": [
@@ -762,17 +719,17 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στα θετικά αποτελέσματα του φυσικού φωτισμού στην ψυχολογία μας, προάγοντας την ευημερία και την ευχαρίστηση, και ενθαρρύνοντας την επαφή με τον ήλιο για καλύτερη διάθεση.",
+        "categoryReason": "Η είδηση αναφέρεται στα οφέλη του φυσικού φωτισμού για την ψυχολογία μας, τονίζοντας τη θετική επίδραση που έχει στην ευτυχία και τα συναισθήματά μας.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/g6aff3227a0b840cd5d1dcbaeda114765c234288d876e3ec7a384a828095164b7e69ef1af12d375828180d67bb0a29f7a0807f47bb8d30304a85b8390aeef77c8_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-09T08:02:00.000Z"
       },
       {
         "id": "e9fbce43f35e",
         "title": "Πώς μας ωφελεί να κοιμόμαστε σε συμμαζεμένο δωμάτιο",
-        "simpleTitle": "Πώς ωφελούμαστε από έναν καθαρό χώρο ύπνου",
-        "simpleText": "Ο καλός ύπνος δεν εξαρτάται μόνο από το πόσες ώρες κοιμόμαστε. Σημαντικός είναι και ο χώρος όπου κοιμόμαστε. Ένα καθαρό και οργανωμένο δωμάτιο μας βοηθά να κοιμόμαστε καλύτερα. Όταν το δωμάτιο είναι τακτοποιημένο, ο νους μας ξεκουράζεται πιο εύκολα. Όλα αυτά κάνουν τη διάθεσή μας καλύτερη το πρωί. Αν έχουμε λιγότερα πράγματα γύρω μας, είναι πιο ήρεμη η ατμόσφαιρα και κοιμόμαστε πιο καλά. Ένας ήρεμος εγκέφαλος σημαίνει πιο ποιοτικός ύπνος και περισσότερη ενέργεια για την ημέρα μας.",
+        "simpleTitle": "Πώς ο τακτικός χώρος βοηθά τον ύπνο μας",
+        "simpleText": "Ο ύπνος μας δεν επηρεάζεται μόνο από τις ώρες που κοιμόμαστε, αλλά και από το δωμάτιό μας. Όταν το δωμάτιο είναι συμμαζεμένο, μπορεί να μας βοηθήσει να κοιμόμαστε καλύτερα. Ένα καθαρό και τακτικό περιβάλλον μειώνει το άγχος και κάνει τον εγκέφαλο να ηρεμεί. Αυτό σημαίνει ότι το πρωί ξυπνάμε με καλύτερη διάθεση. Είναι καλό να διατηρούμε τον χώρο μας τακτοποιημένο, γιατί έτσι νιώθουμε πιο ήρεμοι και ξεκούραστοι. Δημοσιεύσεις όπως αυτή μας υπενθυμίζουν πόσο σημαντικός είναι ο χώρος που κοιμόμαστε.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31658-pos-mas-ofelei-na-koimomaste-se-symmazemeno-domatio/",
         "sourceDomains": [
@@ -785,82 +742,59 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση επικεντρώνεται στα οφέλη του τακτοποιημένου χώρου για την ποιότητα ύπνου και τη διάθεση, προάγοντας μια θετική και ευχάριστη προοπτική.",
+        "categoryReason": "Η είδηση αναφέρεται στα οφέλη ενός καθαρού και οργανωμένου περιβάλλοντος για τη βελτίωση του ύπνου και της διάθεσης, πράγμα που έχει θετική και χαρούμενη προοπτική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-08T12:06:00.000Z"
-      },
-      {
-        "id": "9ce74f433000",
-        "title": "Φινλανδία: το μυστικό της ευτυχίας κρύβεται στον τρόπο ζωής",
-        "simpleTitle": "Φινλανδία: Πώς οι άνθρωποι βρίσκουν την ευτυχία τους",
-        "simpleText": "Στη Φινλανδία, οι άνθρωποι είναι πολύ ευτυχισμένοι. Αυτό το λέει η Παγκόσμια Έκθεση Ευτυχίας, που ρωτάει πόσο ικανοποιημένοι είμαστε από τη ζωή μας. Οι Φινλανδοί έχουν βρεθεί στην κορυφή της λίστας για οκτώ χρόνια. Εκεί, η ευτυχία δεν είναι μόνο ένας στόχος, αλλά ένας τρόπος ζωής.\n\nΌταν ρώτησαν τους Φινλανδούς γιατί είναι τόσο ευτυχισμένοι, πολλοί είπαν ότι έχουν χαμηλές προσδοκίες. Αυτό σημαίνει ότι δεν περιμένουν πάντα πολλά από τη ζωή. Αυτή η νοοτροπία τους βοηθά να απολαμβάνουν τις απλές στιγμές. Η ευτυχία τους δείχνει ότι είναι σημαντικό να βλέπουμε τη ζωή με θετική διάθεση.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31626-finlandia-kai-to-mystiko-tis-eytyxias/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στη συνεχή ευτυχία των Φινλανδών, εξερευνώντας τους λόγους που οδηγούν σε αυτή την ικανοποίηση της ζωής και προβάλλει μια θετική προοπτική για την ευτυχία ως τρόπο ζωής.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-06T09:42:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "cbaca6b9952a",
-        "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Λουτζ-Μονό (Γ)-3ο Σκέλος (18:00, ΕΡΤ2 ΣΠΟΡ)",
-        "simpleTitle": "Δείτε το Λουτζ-Μονό στους Χειμερινούς Ολυμπιακούς Αγώνες",
-        "simpleText": "Σήμερα στις 18:00 θα μεταδοθεί σε απευθείας σύνδεση το Λουτζ-Μονό για τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026». Η μετάδοση θα γίνει από το κανάλι ΕΡΤ2 ΣΠΟΡ και μπορείτε να το παρακολουθήσετε και διαδικτυακά. Είναι μια καλή ευκαιρία να δείτε τους αθλητές να διαγωνίζονται σε αυτό το δύσκολο άθλημα. Μην ξεχάσετε να είστε συντονισμένοι στην ώρα που αναφέραμε.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-loutz-mono-g-3o-skelos-18-00-ert2-spor/",
+        "id": "9f21f32a0e5d",
+        "title": "Ο Τραμπ και ο Βανς εξάπτουν τα πάθη και στους Χειμερινούς Ολυμπιακούς",
+        "simpleTitle": "Ο Τραμπ και ο Βανς δημιουργούν εντάσεις στους Χειμερινούς Ολυμπιακούς",
+        "simpleText": "Ο πρώην πρόεδρος Τραμπ και ο Βανς προκαλούν αναστάτωση στους Χειμερινούς Ολυμπιακούς Αγώνες. Αυτή η αναστάτωση συμβαίνει λόγω των πολιτικών εντάσεων που δημιουργεί η κυβέρνηση των ΗΠΑ. Ιδιαίτερα επηρεάζεται το άθλημα του χόκεϊ επί πάγου. Οι αθλητές και οι θεατές βιώνουν μία περίοδο έντασης, καθώς οι πολιτικές καταστάσεις μπορούν να επηρεάσουν τον αθλητισμό. Είναι σημαντικό να έχουμε έναν αθλητικό αγώνα χωρίς διαμάχες. Δεν ξέρουμε ακόμα πώς θα αντιδράσουν οι διοργανωτές και ποια θα είναι η συνέχεια.",
+        "sourceName": "Protagon",
+        "sourceUrl": "https://www.protagon.gr/epikairotita/o-trab-eksaptei-ta-pathi-kai-stous-xeimerinous-olybiakous-44343309143",
         "sourceDomains": [
-          "ertnews.gr"
+          "protagon.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-loutz-mono-g-3o-skelos-18-00-ert2-spor/"
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/o-trab-eksaptei-ta-pathi-kai-stous-xeimerinous-olybiakous-44343309143"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη μετάδοση αγώνων λουτζ-μονό για τους Χειμερινούς Ολυμπιακούς Αγώνες, που είναι καθαρά αθλητικό γεγονός. | rss_backfill",
+        "categoryReason": "Οι Χειμερινοί Ολυμπιακοί Αγώνες και η αναστάτωση που προκαλούν οι πολιτικές εντάσεις επηρεάζουν άμεσα τον αθλητισμό, ειδικά το χόκεϊ επί πάγου. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-        "publishedAt": "2026-02-10T15:50:00.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-02-11T07:00:44.000Z"
       },
       {
-        "id": "66afdbb78aac",
-        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: «Προσοχή, εύθραυστο» – Τα ολυμπιακά μετάλλια σπάνε στα χέρια των αθλητών",
-        "simpleTitle": "Χειμερινοί Αγώνες: Προσοχή με τα μετάλλια",
-        "simpleText": "Στους Χειμερινούς Ολυμπιακούς Αγώνες στο Μιλάνο το 2026, υπάρχουν προβλήματα με τα μετάλλια. Πολλά από αυτά σπάνε ή αποκολλώνται από τις κορδέλες τους. Οι αθλητές ανησυχούν και οι διοργανωτές προσπαθούν να βρουν τι φταίει. Η χρυσή ολυμπιονίκης Breezy Johnson συμβουλεύει τους αθλητές να προσέχουν πώς κρατούν τα μετάλλιά τους, καθώς το δικό της έσπασε από τον ενθουσιασμό.\n\nΑυτή η κατάσταση έχει γίνει γνωστή μέσω των μέσων κοινωνικής δικτύωσης, με άλλους αθλητές να δείχνουν τα κατεστραμμένα μετάλλιά τους. Ο υπεύθυνος της διοργάνωσης δήλωσε ότι προσπαθούν να βρουν λύση, γιατί τα μετάλλια είναι πολύ σημαντικά για τους αθλητές. Είναι απαραίτητο να είναι ασφαλή και όμορφα για όλους.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/xeimerinoi-olympiakoi-agones-prosoxi-eythraysto-ta-olympiaka-metallia-spane-sta-xeria-ton-athliton/",
+        "id": "7310810e3e55",
+        "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Απάτησε τη σύντροφό του και ζήτησε συγγνώμη μετά το μετάλλιο που κατέκτησε",
+        "simpleTitle": "Ολυμπιονίκης ζητά συγγνώμη μετά την επιτυχία του",
+        "simpleText": "Ο Sturla Holm Laegreid κέρδισε το χάλκινο μετάλλιο στο δίαθλο στους Χειμερινούς Ολυμπιακούς Αγώνες. Αμέσως μετά τη νίκη του, αποκάλυψε ότι είχε απάτησε τη σύντροφό του. Ζήτησε δημόσια συγγνώμη για την πράξη του. Είναι σημαντικό να ξέρουμε πώς οι αθλητές αντιμετωπίζουν τις πράξεις τους και τις συνέπειες. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για την κατάσταση αυτή.",
+        "sourceName": "TO BHMA",
+        "sourceUrl": "https://www.tovima.gr/2026/02/11/sports/xeimerinoi-olympiakoi-agones-apatise-ti-syntrofo-tou-kai-zitise-syggnomi-meta-to-metallio-pou-katektise/",
         "sourceDomains": [
-          "ertnews.gr"
+          "tovima.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/xeimerinoi-olympiakoi-agones-prosoxi-eythraysto-ta-olympiaka-metallia-spane-sta-xeria-ton-athliton/"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/11/sports/xeimerinoi-olympiakoi-agones-apatise-ti-syntrofo-tou-kai-zitise-syggnomi-meta-to-metallio-pou-katektise/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αναφέρεται σε προβλήματα με τα ολυμπιακά μετάλλια στους Χειμερινούς Ολυμπιακούς Αγώνες, που σχετίζονται άμεσα με τις επιδόσεις και τις ανησυχίες των αθλητών. | rss_backfill",
+        "categoryReason": "Το γεγονός αφορά μια αθλητική επιτυχία (χάλκινο μετάλλιο στους Χειμερινούς Ολυμπιακούς Αγώνες) και τις προσωπικές επιλογές ενός αθλητή, που σχετίζονται με την αθλητική του καριέρα. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/winter-olympics-medal.mp4",
-        "publishedAt": "2026-02-10T15:40:08.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-02-11T04:45:53.000Z"
       }
     ],
     "screen": [],
