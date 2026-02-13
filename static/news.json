@@ -1,214 +1,275 @@
 {
-  "generatedAt": "2026-02-12T16:19:15.940Z",
+  "generatedAt": "2026-02-13T08:14:30.974Z",
   "articles": [
     {
-      "id": "14f809599777",
-      "title": "Η κυβέρνηση Τραμπ αποσύρει τις δυνάμεις ICE και Συνοριοφυλακής από τη Μινεσότα",
-      "simpleTitle": "Τέλος της παρουσίας ICE και συνοριοφυλάκων στη Μινεσότα",
-      "simpleText": "Η κυβέρνηση Τραμπ αποσύρει τις δυνάμεις ICE και συνοριοφυλάκων από τη Μινεσότα. Αυτή η απόφαση έγινε μετά από δύο μήνες δραστηριότητας στην περιοχή. Οι περισσότεροι στόχοι που ήθελαν να απολεσθούν έχουν φύγει από τους δρόμους. Μια μικρή ομάδα θα παραμείνει για να τελειώσει την διαδικασία. Αυτή η αλλαγή έρχεται μετά από πολλές διαδηλώσεις και πολιτική πίεση. Είναι σημαντική γιατί η κατάσταση έχει προκαλέσει ανησυχία στους κατοίκους. Δεν γνωρίζουμε ακόμη αν θα υπάρξουν άλλες αλλαγές στην πολιτική μετανάστευσης.",
-      "sourceName": "TO BHMA, Protagon",
-      "sourceUrl": "https://www.tovima.gr/2026/02/12/world/i-kyvernisi-tramp-aposyrei-tis-dynameis-ice-kai-synoriofylakis-apo-ti-minesota/",
+      "id": "188634aad522",
+      "title": "Eurovision: Απόψε ο δεύτερος ελληνικός ημιτελικός του Sing for Greece 2026",
+      "simpleTitle": "Απόψε είναι ο δεύτερος ημιτελικός για τη Eurovision 2026",
+      "simpleText": "Απόψε, στις 21:00, γίνεται ο δεύτερος ημιτελικός του διαγωνισμού \"Sing for Greece 2026\". Η εκδήλωση θα μεταδοθεί από την ΕΡΤ1. Σε αυτή τη βραδιά, 14 καλλιτέχνες θα παρουσιάσουν τα τραγούδια τους για να κερδίσουν μια θέση στον τελικό την Κυριακή 15 Φεβρουαρίου. Παρουσιαστές είναι ο Γιώργος Καπουτζίδης, η Μπέττυ Μαγγίρα και η Κατερίνα Βρανά.\n\nΟι συμμετοχές που θα δούμε απόψε είναι 24 συνολικά. Το κοινό θα ψηφίσει για να αποφασίσει ποιο τραγούδι θα προκριθεί. Είναι πολύ σημαντικό γιατί οι νικητές θα εκπροσωπήσουν την Ελλάδα στη Eurovision. Αν παρακολουθείτε, να είστε έτοιμοι να ψηφίσετε!",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/13/lifearts/culture/eurovision-apopse-o-deyteros-ellinikos-imitelikos-tou-sing-for-greece-2026/",
       "sourceDomains": [
-        "tovima.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/13/lifearts/culture/eurovision-apopse-o-deyteros-ellinikos-imitelikos-tou-sing-for-greece-2026/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/media/article/4074115/eurovision-simera-o-v-imitelikos-tou-sing-for-greece.html"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η είδηση αφορά τον δεύτερο ημιτελικό του διαγωνισμού 'Sing for Greece 2026', που είναι συνδεδεμένος με τη Eurovision, ένα δημοφιλές τηλεοπτικό γεγονός που περιλαμβάνει καλλιτεχνικές συμμετοχές και παρουσιάσεις.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gf52999741959321c312364aae48ed847b9d86cb51504b66b4be5b850b8bacd5869408808b44e80ac6d7a10aa8bdf08e30f9d016c158e89e7d4fadd659fa4104d_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/xSfYFcX3Nso",
+      "publishedAt": "2026-02-13T07:09:43.000Z"
+    },
+    {
+      "id": "fcff9f78573c",
+      "title": "«Απόβαση» αγροτών με τρακτέρ σήμερα στο Σύνταγμα – Κυκλοφοριακές ρυθμίσεις",
+      "simpleTitle": "Αγρότες με τρακτέρ διαδηλώνουν στο Σύνταγμα",
+      "simpleText": "Σήμερα, οι αγρότες από όλη την Ελλάδα συγκεντρώνονται στο Σύνταγμα στην Αθήνα. Θέλουν να διαμαρτυρηθούν για τα προβλήματά τους και να ζητήσουν αν δυνάμεις από την κυβέρνηση. Οι κινητοποιήσεις ξεκινούν το απόγευμα, στις 4, και θα διαρκέσουν τη νύχτα. Πολλά τρακτέρ θα έρθουν από διάφορες περιοχές, όπως από τη Λάρισα και τα Χανιά. Για να διευκολυνθεί η κίνηση στην πόλη, η αστυνομία θα κάνει ειδικές ρυθμίσεις στους δρόμους. Οι οδηγοί θα πρέπει να είναι προσεκτικοί και να αποφεύγουν την περιοχή κοντά στο Σύνταγμα. Αυτή η διαδήλωση είναι σημαντική, γιατί οι αγρότες θέλουν να ακουστεί η φωνή τους.",
+      "sourceName": "ERT News, TA NEA, Protagon",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/apovasi-agroton-me-trakter-simera-sto-syntagma-kykloforiakes-rythmiseis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/12/world/i-kyvernisi-tramp-aposyrei-tis-dynameis-ice-kai-synoriofylakis-apo-ti-minesota/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/apovasi-agroton-me-trakter-simera-sto-syntagma-kykloforiakes-rythmiseis/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/13/greece/trakter-sto-syntagma-i-megali-kathodos-ton-agroton-stin-athina-ektaktes-kykloforiakes-rythmiseis/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/o-trab-aposyrei-tis-dynameis-tis-ice-apo-ti-minesota-44343311439"
+          "url": "https://www.protagon.gr/epikairotita/apovasi-agrotwn-me-trakter-sto-syntagma-kykloforiakes-rythmiseis-44343311667"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απόφαση της κυβέρνησης Τραμπ για την απόσυρση δυνάμεων ICE και Συνοριοφυλακής από τη Μινεσότα, που συνδέεται με σημαντικά ζητήματα πολιτικής και κοινωνικής φύσης, όπως η μετανάστευση και οι διαδηλώσεις.",
+      "categoryReason": "Η κινητοποίηση αγροτών στο Σύνταγμα είναι ένα σοβαρό κοινωνικό ζήτημα που αφορά τα αιτήματα τους για πολιτική και οικονομική υποστήριξη, επηρεάζοντας σημαντικά όχι μόνο την αγροτική οικονομία αλλά και την πολιτική κατάσταση στη χώρα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/agrotes-peiraias-xania.mp4",
+      "publishedAt": "2026-02-13T07:09:39.000Z"
+    },
+    {
+      "id": "fcf5e664446d",
+      "title": "Δημοσκόπηση Politico: Οι πολίτες της Δύσης «βλέπουν» τον Γ’ Παγκόσμιο Πόλεμο να έρχεται",
+      "simpleTitle": "Οι πολίτες της Δύσης φοβούνται τον Γ’ Παγκόσμιο Πόλεμο",
+      "simpleText": "Μια νέα έρευνα δείχνει ότι πολλοί άνθρωποι στη Δύση ανησυχούν για την πιθανότητα ενός Γ’ Παγκόσμιου Πολέμου. Η δημοσκόπηση έγινε σε χώρες όπως η Βρετανία, οι ΗΠΑ, ο Καναδάς, η Γαλλία και η Γερμανία. Οι πολίτες θέλουν να αυξηθούν οι δαπάνες για την άμυνα, αλλά ανησυχούν πως θα χρηματοδοτηθούν αυτές οι δαπάνες. Η Ρωσία θεωρείται μεγάλη απειλή για την Ευρώπη, κάτι που κάνει τους ανθρώπους να νιώθουν πιο καχύποπτοι για τη βοήθεια από τις ΗΠΑ. Είναι σημαντικό να γνωρίζουμε πώς νιώθουν οι πολίτες, γιατί οι ανησυχίες αυτές μπορεί να επηρεάσουν την πολιτική ασφάλειας στην περιοχή.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564075901/dimoskopisi-politico-oi-polites-tis-dysis-vlepoyn-ton-g-pagkosmio-polemo-na-erchetai/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564075901/dimoskopisi-politico-oi-polites-tis-dysis-vlepoyn-ton-g-pagkosmio-polemo-na-erchetai/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/13/world/dimoskopisi-politico-oi-polites-tis-dysis-vlepoun-trito-pagkosmio-polemo/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η δημοσκόπηση που αναδεικνύει τις ανησυχίες των πολιτών της Δύσης για πιθανότητα Γ' Παγκοσμίου Πολέμου αναφέρεται σε σοβαρά ζητήματα ασφάλειας και πολιτικής, εστιάζοντας στις διεθνείς σχέσεις και την απειλή της Ρωσίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-12T15:37:53.000Z"
+      "publishedAt": "2026-02-13T06:57:02.000Z"
     },
     {
-      "id": "6ad481efb031",
-      "title": "Γαλλία: Μητέρα 9 παιδιών συνελήφθη ως ύποπτη για διπλή βρεφοκτονία",
-      "simpleTitle": "Γαλλία: Μητέρα με 9 παιδιά κατηγορείται για θάνατο δύο βρεφών",
-      "simpleText": "Μια μητέρα 50 ετών συνελήφθη στη Γαλλία επειδή βρέθηκαν δύο νεκρά μωρά σε καταψύκτη. Η γυναίκα έχει εννέα παιδιά. Αφήνει το σπίτι της χωρίς να πει σε κανέναν τι συνέβη. Οι αρχές την θεωρούν ύποπτη για διπλή βρεφοκτονία, δηλαδή για τον θάνατο των δύο βρεφών. Αυτή η υπόθεση προκαλεί σοκ και ανησυχία στην κοινότητα, διότι αφορά τη ζωή και την ασφάλεια των παιδιών. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για το τι ακριβώς συνέβη.",
-      "sourceName": "Kathimerini, TO BHMA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/world/564074524/gallia-mitera-9-paidion-synelifthi-os-ypopti-gia-dipli-vrefoktonia/",
+      "id": "5ee9242b9c2f",
+      "title": "Κλειστή η παλαιά Ε.Ο. Άρτας – Αμφιλοχίας λόγω νέας κατολίσθησης, σχηματίστηκε ακόμα και καταρράκτης – Αποκομμένη οδικώς η Ήπειρος",
+      "simpleTitle": "Κλειστή η παλαιά εθνική οδός στα Αμφιλοχία",
+      "simpleText": "Η παλαιά εθνική οδός Άρτας – Αμφιλοχίας έκλεισε λόγω μιας μεγάλης κατολίσθησης. Αυτό συνέβη νωρίς το πρωί της Παρασκευής, και οι βροχές συνεχίζουν να προκαλούν προβλήματα. Οι αστυνομικοί έχουν σταματήσει την κυκλοφορία και οι οδηγοί πρέπει να χρησιμοποιούν άλλη οδό για να μετακινηθούν. Οι μετακινήσεις από την Ήπειρο είναι δύσκολες, καθώς δεν υπάρχει άλλος δρόμος προς την υπόλοιπη Ελλάδα. Εάν χρειάζεται κάποιος να ταξιδέψει, πρέπει να ρωτήσει την αστυνομία για την κατάσταση του δρόμου, ώστε να μην ταλαιπωρηθεί. Ένας καταρράκτης έχει σχηματιστεί από το νερό που ρέει από την κατολίσθηση.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kleisti-i-palaia-e-o-artas-amfiloxias-logo-neas-katolisthisis-sximatistike-akoma-kai-katarraktis-apokommeni-odikos-i-ipeiros/",
       "sourceDomains": [
-        "kathimerini.gr",
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/kleisti-i-palaia-e-o-artas-amfiloxias-logo-neas-katolisthisis-sximatistike-akoma-kai-katarraktis-apokommeni-odikos-i-ipeiros/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564075961/kleisti-i-palaia-ethniki-odos-artas-amfilochias-logo-neas-katolisthisis/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές συνέπειες από μια κατολίσθηση που έχει κλείσει έναν οδό, δημιουργώντας προβλήματα στις μετακινήσεις και επηρεάζοντας τη ζωή των κατοίκων στην Ήπειρο.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-13T06:49:24.000Z"
+    },
+    {
+      "id": "7cfbdbe6d2cb",
+      "title": "Τροχαίο με ανατροπή ΙΧ στη Θεσσαλονίκη – Ένας τραυματίας",
+      "simpleTitle": "Τροχαίο με ανατροπή αυτοκινήτου στη Θεσσαλονίκη",
+      "simpleText": "Στην Θεσσαλονίκη, ένα αυτοκίνητο ανατράπηκε τα ξημερώματα της Παρασκευής. Αυτό συνέβη όταν το αυτοκίνητο χτύπησε σε ένα φανάρι στη συμβολή δύο δρόμων. Από το ατύχημα, ένα άτομο τραυματίστηκε ελαφρά και χρειάστηκε βοήθεια. Το ΕΚΑΒ τον παρέλαβε για να τον φροντίσουν. Είναι σημαντικό οι οδηγοί να είναι προσεκτικοί στους δρόμους για να αποφεύγουν ατυχήματα. Δεν έχουμε περισσότερες λεπτομέρειες για το πώς έγινε το ατύχημα.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/ert3/troxaio-me-anatropi-ix-sti-thessaloniki-enas-traymatias/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/ert3/troxaio-me-anatropi-ix-sti-thessaloniki-enas-traymatias/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564075946/thessaloniki-enas-traymatias-se-trochaio-me-anatropi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα τροχαίο ατύχημα που έχει σοβαρές προεκτάσεις για την ασφάλεια στους δρόμους, καθώς και έναν τραυματία.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g02b95560ad092bd6316d333e868a24c20842a01d1d098ce781c7fd7b64bd673443516cd37bfbbe54fe674795ab4a53ed28eb3766b07a3bb04668d5a2fbcdfa50_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-13T06:28:55.000Z"
+    },
+    {
+      "id": "0b73fe8329f5",
+      "title": "«ΕΡΓΑΝΗ ΙΙ»: Σε πλήρη εφαρμογή από τη Δευτέρα 16/2 – Μείωση γραφειοκρατίας για επιχειρήσεις και εργαζόμενους",
+      "simpleTitle": "** Νέο Σύστημα «ΕΡΓΑΝΗ ΙΙ» από 16 Φεβρουαρίου",
+      "simpleText": "** Από τη Δευτέρα, 16 Φεβρουαρίου, αρχίζει η πλήρης εφαρμογή του νέου πληροφοριακού συστήματος «ΕΡΓΑΝΗ ΙΙ». Αυτό το σύστημα αντικαθιστά το παλιό «ΕΡΓΑΝΗ Ι» και σκοπό έχει να διευκολύνει τις διαδικασίες για επιχειρήσεις και εργαζόμενους. Με το νέο αυτό σύστημα, οι υποχρεώσεις για υποβολή εγγράφων μειώνονται σημαντικά.\n\nΕπιπλέον, οι εργαζόμενοι μπορούν τώρα να ελέγχουν τα στοιχεία της σύμβασής τους μέσα από μια νέα εφαρμογή στο κινητό τους. Αυτό είναι σημαντικό γιατί δίνει περισσότερες πληροφορίες και δυνατότητες στους εργαζόμενους. Το νέο σύστημα συμβάλλει επίσης στην καλύτερη εποπτεία της αγοράς εργασίας.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/ergani-ii-se-pliri-efarmogi-apo-ti-deytera-16-2-meiosi-grafeiokratias-gia-epixeiriseis-kai-ergazomenous/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/ergani-ii-se-pliri-efarmogi-apo-ti-deytera-16-2-meiosi-grafeiokratias-gia-epixeiriseis-kai-ergazomenous/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/13/economy/se-pliri-efarmogi-to-ergani-ii-apo-16-fevrouariou-ti-allazei-gia-epixeiriseis-kai-ergazomenous/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη νέα εφαρμογή του πληροφοριακού συστήματος «ΕΡΓΑΝΗ ΙΙ», που επιφέρει σημαντικές αλλαγές στη διαχείριση των εργασιακών σχέσεων και τη μείωση της γραφειοκρατίας για επιχειρήσεις και εργαζόμενους, γεγονός που σχετίζεται με σοβαρά ζητήματα όπως η εργασία και η δημόσια διοίκηση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-13T06:19:01.000Z"
+    },
+    {
+      "id": "341b2f73bf74",
+      "title": "Συνάντηση με τους στρατιωτικούς που αιχμαλώτισαν τον Νικολάς Μαδούρο θα έχουν σήμερα ο Nτόναλντ και η Μελάνια Τραμπ",
+      "simpleTitle": "Ο Τραμπ θα επισκεφθεί στρατιωτικούς που συνέλαβαν τον Μαδούρο",
+      "simpleText": "Σήμερα, ο Ντόναλντ Τραμπ θα συναντηθεί με στρατιώτες που συμμετείχαν στην επιχείρηση σύλληψης του Νικολάς Μαδούρο, πρώην προεδρικού ηγέτη της Βενεζουέλας. Η συνάντηση θα γίνει στη στρατιωτική βάση Φορτ Μπραγκ στη Βόρεια Καρολίνα. Ο Τραμπ θα τους συγχαρεί για την επιτυχία τους. Στην επιχείρηση αυτή, έπεσαν θύματα αρκετοί στρατιώτες και αστυνομικοί. Ο Τραμπ πιστεύει ότι οι σχέσεις με τη Βενεζουέλα είναι πολύ καλές τώρα. Δεν έχουν ανακοινωθεί λεπτομέρειες για το τι θα πει ο Τραμπ στους στρατιωτικούς.",
+      "sourceName": "ERT News, TO BHMA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/synantisi-me-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro-tha-exoun-simera-o-ntonalnt-kai-i-melania-tramp/",
+      "sourceDomains": [
+        "ertnews.gr",
         "tovima.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564074524/gallia-mitera-9-paidion-synelifthi-os-ypopti-gia-dipli-vrefoktonia/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/synantisi-me-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro-tha-exoun-simera-o-ntonalnt-kai-i-melania-tramp/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/12/world/gallia-mitera-9-paidion-synelifthi-gia-dipli-vrefoktonia-neogennita-vrethikan-se-katapsykti/"
+          "url": "https://www.tovima.gr/2026/02/13/world/ipa-o-tramp-tha-synantisei-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4073710/mitera-ennea-pedion-sinelifthi-os-ipopti-gia-ton-fono-dio-vrefon-stin-gallia.html"
+          "url": "https://www.news.gr/kosmos/article/4074084/o-ntonalnt-trab-tha-sinantithi-me-tous-stratiotikous-pou-echmalotisan-ton-anatrapenta-proedro-madouro.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή ποινική υπόθεση που σχετίζεται με την ασφάλεια των παιδιών και προκαλεί σοκ στην κοινότητα.",
+      "categoryReason": "Η είδηση ασχολείται με μια σημαντική στρατιωτική επιχείρηση και τις πολιτικές συνέπειές της, καθώς περιλαμβάνει τη σύλληψη ενός πρώην προεδρικού ηγέτη, γεγονότα που σχετίζονται με διεθνείς σχέσεις και στρατηγική ασφάλειας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-12T15:37:00.000Z"
+      "publishedAt": "2026-02-13T06:10:59.000Z"
     },
     {
-      "id": "250d4ab5366f",
-      "title": "Κεφαλονιά: Τρεις συλλήψεις για διαρρήξεις κατοικιών – Η λεία τους υπερβαίνει τις 70.000 ευρώ",
-      "simpleTitle": "Τρεις άνθρωποι συνελήφθησαν στην Κεφαλονιά για διαρρήξεις",
-      "simpleText": "Στην Κεφαλονιά, τρεις άνθρωποι συνελήφθησαν επειδή έκλεβαν από σπίτια. Οι κλοπές αυτές είχαν μεγάλη αξία, πάνω από 70.000 ευρώ. Ανάμεσα στους συλληφθέντες είναι και ένας ανήλικος. Υπάρχει και η μητέρα του, που κατηγορείται για παραμέληση, δηλαδή ότι δεν πρόσεχε το παιδί της. Οι αρχές έχουν ξεκινήσει έρευνα για την υπόθεση και οι κατηγορίες είναι σοβαρές. Αυτό είναι σημαντικό για την ασφάλεια στην περιοχή. Οι κάτοικοι πρέπει να είναι προσεκτικοί και να ασφαλίζουν τα σπίτια τους.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564074515/kefalonia-treis-syllipseis-gia-diarrixeis-katoikion-i-leia-toys-ypervainei-tis-70-000-eyro/",
+      "id": "b756fc2a25c9",
+      "title": "ΕΕ: Μήνυμα Κόστα και Φον ντερ Λάιεν για ταχύτερη και πιο συντονισμένη στρατηγικά Ευρώπη",
+      "simpleTitle": "ΕΕ: Κάλεσμα για ταχύτερη και πιο ενωμένη Ευρώπη",
+      "simpleText": "Στην Ευρωπαϊκή Ένωση, οι ηγέτες Αντόνιο Κόστα και Ούρσουλα φον ντερ Λάιεν ζήτησαν να γίνουν γρήγορα βήματα για να ενισχυθεί η οικονομία της. Η Συνάντηση έγινε στο Βέλγιο και όλοι συνειδητοποίησαν ότι πρέπει να συνεργαστούν καλύτερα. Είπαν ότι η αγορά είναι ακόμα διαχωρισμένη και πρέπει να εργαστούν για να γίνει πιο ενωμένη. Σκοπός είναι να γίνουν περισσότερες επενδύσεις και να δημιουργηθούν ισχυρές επιχειρήσεις που θα ανταγωνίζονται παγκοσμίως. Είναι σημαντικό γιατί αν η Ευρώπη είναι δυνατή, αυτό βοηθάει όλους τους πολίτες της. Δεν έχουν ανακοινωθεί ακόμα λεπτομέρειες για τα επόμενα βήματα.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/13/world/ee-minyma-kosta-kai-fon-nter-laien-gia-taxyteri-kai-pio-syntonismeni-stratigika-eyropi/",
       "sourceDomains": [
-        "kathimerini.gr",
+        "tanea.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564074515/kefalonia-treis-syllipseis-gia-diarrixeis-katoikion-i-leia-toys-ypervainei-tis-70-000-eyro/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/13/world/ee-minyma-kosta-kai-fon-nter-laien-gia-taxyteri-kai-pio-syntonismeni-stratigika-eyropi/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4073700/tris-sillipsis-gia-diarrixis-katikion-stin-kefalonia-i-lia-tous-iperveni-tis-70-000-evro.html"
+          "url": "https://www.news.gr/oikonomia/article/4074015/antonio-kosta-ke-oursoula-fon-nter-laien-ipogrammisan-tin-anagki-gia-tachiteri-pio-sintonismeni-stratigika-prosanatolismeni-evropi.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές περιστάσεις που περιλαμβάνουν διαρρήξεις κατοικιών και μεγάλες αξίες κλοπών, καθώς και νομικές συνέπειες για τους συλληφθέντες.",
+      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές και οικονομικές εξελίξεις σχετικά με την Ευρωπαϊκή Ένωση και τις στρατηγικές για την ανάπτυξη και την ενίσχυση της ανταγωνιστικότητας, γεγονός που συνδέεται άμεσα με μεγάλα κοινωνικά ζητήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-12T15:18:10.000Z"
+      "publishedAt": "2026-02-13T06:04:18.000Z"
     },
     {
-      "id": "601700c9ab33",
-      "title": "Βόρεια Κορέα: Ο Κιμ Γιονγκ Ουν επέλεξε τη 13χρονη κόρη του για τη διαδοχή του",
-      "simpleTitle": "Ο Κιμ Γιονγκ Ουν διόρισε την κόρη του για να τον διαδεχθεί",
-      "simpleText": "Ο ηγέτης της Βόρειας Κορέας, Κιμ Γιονγκ Ουν, ανακοίνωσε ότι η 13χρονη κόρη του, Κιμ Τζου Ε, θα είναι η διάδοχός του. Η ανακοίνωση έγινε την Πέμπτη και επιβεβαιώθηκε από την Υπηρεσία Πληροφοριών της Νότιας Κορέας. Λίγα πράγματα γνωρίζουμε για την Τζου Ε, εκτός από το ότι έχει εμφανιστεί σε δημόσιες εκδηλώσεις με τον πατέρα της. Αυτό την καθιστά μία από τις πρώτες γυναίκες που μπορεί να ηγηθούν της χώρας στην ιστορία της Βόρειας Κορέας.\n\nΗ Τζου Ε μπορεί να συμμετάσχει στο σημαντικό συνέδριο του κόμματος, που θα γίνει αργότερα αυτό το μήνα. Οι ειδικοί πιστεύουν ότι είναι μια στρατηγική κίνηση της οικογένειας Κιμ για να προετοιμάσει τη νεαρή κοπέλα για τον ηγετικό ρόλο. Όλες οι εξελίξεις είναι σημαντικές για το μέλλον της χώρας. Δεν γνωρίζουμε ακόμα πώς θα αντιδράσουν οι άνθρωποι σε αυτή την αλλαγή στην ηγεσία.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/voreia-korea-o-kim-giongk-oun-epelekse-ti-13xroni-kori-tou-gia-ti-diadoxi-tou/",
+      "id": "e73286de5c07",
+      "title": "Καιρός: Καταιγίδες και θυελλώδεις άνεμοι σαρώνουν τη χώρα – Ποιες περιοχές «χτυπά» η κακοκαιρία",
+      "simpleTitle": "Κακοκαιρία με βροχές και ισχυρούς ανέμους",
+      "simpleText": "Σήμερα, 13 Φεβρουαρίου 2026, όλη η Ελλάδα επηρεάζεται από έντονα καιρικά φαινόμενα. Αναμένονται ισχυρές βροχές και καταιγίδες, κυρίως στη δυτική και νότια Πελοπόννησο, στα νησιά του Ιονίου, στις Κυκλάδες, στην Κρήτη και στο βορειοανατολικό Αιγαίο. Οι άνεμοι είναι πολύ δυνατοί, ειδικά στο νότιο Ιόνιο και στην Κρήτη, φτάνοντας έως 9 μποφόρ. Είναι σημαντικό να προσέχετε γιατί μπορεί να υπάρχουν πλημμύρες και πτώσεις δέντρων. Οι θερμοκρασίες παραμένουν υψηλές για την εποχή, αλλά σήμερα προηγούνται οι βροχές. Συνιστάται να είστε προσεκτικοί και να αποφεύγετε την έξοδο σε επικίνδυνες περιοχές.",
+      "sourceName": "TA NEA, Protagon",
+      "sourceUrl": "https://www.tanea.gr/2026/02/13/greece/kairos-kataigides-kai-thyellodeis-anemoi-saronoyn-ti-xora-poies-perioxes-xtypa-i-kakokairi/",
       "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
+        "tanea.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/voreia-korea-o-kim-giongk-oun-epelekse-ti-13xroni-kori-tou-gia-ti-diadoxi-tou/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/13/greece/kairos-kataigides-kai-thyellodeis-anemoi-saronoyn-ti-xora-poies-perioxes-xtypa-i-kakokairi/"
         },
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4073685/o-kim-giongk-oun-epelexe-ti-13chroni-kori-tou-gia-ti-diadochi-tou-stin-igesia-tis-vorias-koreas.html"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/kakokairia-me-kataigides-kai-thyellwdeis-anemous-poies-perioxes-tha-epireastoun-44343311625"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πολιτική διαδοχή στη Βόρεια Κορέα και είναι συνδεδεμένη με σοβαρά ζητήματα εξουσίας και ηγεσίας, καθώς και τις επιπτώσεις στο μέλλον της χώρας.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά καιρικά φαινόμενα που επηρεάζουν τη χώρα, συμπεριλαμβανομένων καταιγίδων και θυελλωδών ανέμων, με πιθανές συνέπειες όπως πλημμύρες και πτώσεις δέντρων.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g1bed419f760a68ddffce67f0b1504c3c0e2df896001a95ccf29df4627b44284427252a708af6b533030f350e4f8eedc96b4b689bbc1445c14a18988fb18375a6_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-12T15:00:22.000Z"
+      "publishedAt": "2026-02-13T05:22:02.000Z"
     },
     {
-      "id": "94d2ace11229",
-      "title": "ΜΕΒΓΑΛ: Ενημέρωση σχετικά με το εργατικό ατύχημα στις εγκαταστάσεις της",
-      "simpleTitle": "Ατύχημα σε εργασία της ΜΕΒΓΑΛ",
-      "simpleText": "Στην εταιρεία ΜΕΒΓΑΛ συνέβη ένα εργατικό ατύχημα. Ένας εργαζόμενος υπέστη κάταγμα στα πόδια του. Η κατάσταση του είναι καλή και φαίνεται να αναρρώνει. Είναι σημαντικό ότι αναμένεται να ανακτήσει την υγεία του πλήρως. Η εταιρεία θέλει να ενημερώσει ότι παρακολουθεί την κατάσταση του εργαζομένου για να είναι σίγουρη ότι είναι ασφαλής. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες για το τι έγινε ακριβώς.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564074473/mevgal-enimerosi-schetika-me-to-ergatiko-atychima-stis-egkatastaseis-tis/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564074473/mevgal-enimerosi-schetika-me-to-ergatiko-atychima-stis-egkatastaseis-tis/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4073675/anakinosi-tis-mevgal-gia-to-ergatiko-atichima-stis-egkatastasis-tis.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό εργατικό ατύχημα με τραυματισμό εργαζόμενου, γεγονός που επηρεάζει θέματα ασφάλειας και υγείας στην εργασία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-12T14:41:31.000Z"
-    },
-    {
-      "id": "b599a7d12a8f",
-      "title": "ΑΣΕΠ: Προσωρινά αποτελέσματα για 123 θέσεις στο ΕΑΠ – Πότε ξεκινούν οι ενστάσεις",
-      "simpleTitle": "ΑΣΕΠ: Ενημέρωση για προσωρινά αποτελέσματα και ενστάσεις",
-      "simpleText": "Το ΑΣΕΠ ανακοίνωσε τα προσωρινά αποτελέσματα για 123 θέσεις στο Ελληνικό Ανοικτό Πανεπιστήμιο. Οι υποψήφιοι που δεν γίνονται δεκτοί θα βλέπουν μόνο τον αριθμό μητρώου τους. Ανήκουν σε ειδικές κατηγορίες, αλλά είναι στους πίνακες χωρίς επισήμανση. Οι υποψήφιοι μπορούν να κάνουν ενστάσεις από την Παρασκευή 13 Φεβρουαρίου 2026 έως την Τρίτη 24 Φεβρουαρίου 2026. Οι ενστάσεις γίνονται μόνο μέσω διαδικτύου και απαιτούν παράβολο 20 ευρώ, αλλιώς δεν θα εξετάζονται. Αυτή η διαδικασία είναι σημαντική για τους υποψηφίους που θέλουν να αμφισβητήσουν τα αποτελέσματα.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/asep-prosorina-apotelesmata-gia-123-theseis-sto-eap-pote-ksekinoun-oi-enstaseis/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/asep-prosorina-apotelesmata-gia-123-theseis-sto-eap-pote-ksekinoun-oi-enstaseis/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4073658/asep-prosorina-apotelesmata-gia-123-thesis-sto-elliniko-anikto-panepistimio.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τα προσωρινά αποτελέσματα για θέσεις εργασίας στο Ελληνικό Ανοικτό Πανεπιστήμιο, γεγονός που έχει σοβαρές επιπτώσεις για τους υποψηφίους, περιλαμβάνοντας διαδικασίες ενστάσεων και νομικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-12T14:23:32.000Z"
-    },
-    {
-      "id": "de3b2e4b6a60",
-      "title": "Financial Times: Εφοδος της βελγικής αστυνομίας στην Κομισιόν για υπόθεση πώλησης ακινήτων",
-      "simpleTitle": "Βελγική αστυνομία ερευνά την Κομισιόν για πώληση ακινήτων",
-      "simpleText": "Η βελγική αστυνομία έκανε έρευνα στην Κομισιόν. Αυτό συνέβη λόγω μιας υπόθεσης που αφορά την πώληση ακινήτων όταν ο Γιοχάνες Χαν ήταν υπεύθυνος για τον προϋπολογισμό. Η Ευρωπαϊκή Εισαγγελία, η οποία ερευνά την υπόθεση, είπε ότι συγκεντρώνει στοιχεία. Η έρευνα σχετίζεται με μια μεγάλη συμφωνία που αξίζει 900 εκατομμύρια ευρώ με το βελγικό ταμείο SFPIM. Είναι σημαντικό να βρεθούν οι ακριβείς λεπτομέρειες για να κατανοήσουμε τι συμβαίνει. Δεν έχουν δοθεί περισσότερες πληροφορίες για το πώς θα συνεχιστεί αυτή η έρευνα.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/world/564074398/financial-times-efodos-tis-velgikis-astynomias-stin-komision-gia-ypothesi-polisis-akiniton/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564074398/financial-times-efodos-tis-velgikis-astynomias-stin-komision-gia-ypothesi-polisis-akiniton/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4073653/efodos-velgikis-astinomias-stin-komision-gia-polisi-23-akiniton.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές νομικές διαδικασίες που σχετίζονται με οικονομικές υποθέσεις στην Κομισιόν, κάτι που εντάσσεται στα πλαίσια σοβαρών κοινωνικών και πολιτικών ζητημάτων.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gafc439fb467035abc269853e05dbc8e4c9aacbab8878cf91ba2fa0eb42c05ad599c5bc6e75b40d6e32ef3511dc45c2e39445dfabb5ff8cfb7fc38ed4f1028054_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-12T14:10:45.000Z"
-    },
-    {
-      "id": "9dba201bedc4",
-      "title": "«Πώς κοιμάστε το βράδυ;»: Εξοργισμένοι συγγενείς θυμάτων λίντσαραν  τους ιδιοκτήτες του κλαμπ στο Κραν Μοντανά",
-      "simpleTitle": "Θύελλα οργής στο Κραν Μοντανά",
-      "simpleText": "Στο Κραν Μοντανά, την Πέμπτη, οι συγγενείς των θυμάτων από την φωτιά στο μπαρ \"Le Constellation\" συγκεντρώθηκαν έξω από το γραφείο του εισαγγελέα. Οι ιδιοκτήτες του μπαρ, Ζακ και Τζέσικα Μορέτι, πήγαν για κατάθεση και συνάντησαν την οργή των οικογενειών. Αυτές φώναζαν και τους πίεζαν, ζητώντας απαντήσεις για τους θανάτους αγαπημένων τους προσώπων. Ένας συγγενής ανέφερε, “Πώς κοιμάστε το βράδυ;” και άλλοι τους κατηγόρησαν. Ο Ζακ Μορέτι απάντησε ότι θα αναλάβουν την ευθύνη. Είναι σημαντικό περιστατικό για τις οικογένειες, καθώς αναζητούν δικαιοσύνη για τους ανθρώπους τους.",
+      "id": "3aedd459a21e",
+      "title": "Καιρός: Σποραδικές καταιγίδες και θυελλώδεις άνεμοι – Πότε υποχωρούν τα έντονα φαινόμενα",
+      "simpleTitle": "Καιρός: Καταιγίδες και δυνατοί άνεμοι",
+      "simpleText": "Σήμερα, Παρασκευή 13 Φεβρουαρίου, θα έχουμε καταιγίδες και θυελλώδεις ανέμους σε πολλές περιοχές. Ιδιαίτερα επηρεασμένες θα είναι η Κρήτη, τα νησιά του Ιονίου και η Θράκη. Οι πολύ δυνατοί άνεμοι θα φτάσουν έως και 9 μποφόρ και είναι σημαντικό να προσέξουμε, γιατί μπορεί να προκαλέσουν προβλήματα. Από το μεσημέρι οι βροχές θα αρχίσουν να μειώνονται, αλλά οι άνεμοι θα παραμείνουν ισχυροί.\n\nΑυτές οι συνθήκες επηρεάζουν τον κόσμο, ειδικά εκείνους που ζουν σε περιοχές με πλημμύρες. Οι μετεωρολόγοι προβλέπουν ότι οι βροχές θα συνεχιστούν και το Σαββατοκύριακο, με πιθανές καταιγίδες σε διάφορες περιοχές της χώρας. Είναι καλό να είμαστε προσεκτικοί και να ακούμε τις οδηγίες των αρχών.",
       "sourceName": "ERT News, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/pos-koimaste-to-vrady-eksorgismenoi-syggeneis-thymaton-lintsaran-nbsp-tous-idioktites-tou-klamp-sto-kran-montana/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/kairos-sporadikes-kataigides-kai-thyellodeis-anemoi-pote-ypoxoroun-ta-entona-fainomena/",
       "sourceDomains": [
         "ertnews.gr",
         "tovima.gr"
@@ -216,53 +277,48 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/pos-koimaste-to-vrady-eksorgismenoi-syggeneis-thymaton-lintsaran-nbsp-tous-idioktites-tou-klamp-sto-kran-montana/"
+          "url": "https://www.ertnews.gr/eidiseis/ellada/kairos-sporadikes-kataigides-kai-thyellodeis-anemoi-pote-ypoxoroun-ta-entona-fainomena/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/12/world/kran-montana-syggeneis-thymaton-lintsaran-tous-idioktites-pos-koimaste-to-vrady/"
+          "url": "https://www.tovima.gr/2026/02/13/society/kairos-kataigides-kai-thyellodeis-anemoi-pote-ypoxoroun-ta-fainomena/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό θέμα που σχετίζεται με την τραγωδία της φωτιάς σε μπαρ, συζητώντας θέματα ευθύνης και δικαιοσύνης για τους θανάτους νέων ανθρώπων.",
+      "categoryReason": "Η είδηση αφορά σοβαρά καιρικά φαινόμενα που επηρεάζουν τη ζωή των πολιτών, αναδεικνύοντας ζητήματα ασφαλείας και προνοίας, όπως οι καταιγίδες και οι θυελλώδεις άνεμοι.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/cran-montana-cut.mp4",
-      "publishedAt": "2026-02-12T14:05:03.000Z"
+      "imageUrl": "https://pixabay.com/get/g22203da7d477c4e856719880fa2bdd4911819ff3b9d9fa83e1c3894d6627d911ccefbef28182145f791c762c7fe0ad120158439d49b76bd30c12c91523794576_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260213-SYNDESEIS-KAIROS.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260213-SYNDESEIS-KAIROS.jpg",
+      "publishedAt": "2026-02-13T04:00:00.000Z"
     },
     {
-      "id": "3bfb58058540",
-      "title": "Σπείρα διέπραττε διαρρήξεις και κλοπές σε όλη τη χώρα – 12 συλλήψεις στην Ημαθία",
-      "simpleTitle": "Σπείρα κλοπών συνελήφθη στην Ημαθία",
-      "simpleText": "Οι αστυνομικοί έκαναν μια μεγάλη επιχείρηση για να πιάσουν μια σπείρα που έκανε διαρρήξεις και κλοπές σε πολλές περιοχές της χώρας. Συλλήφθησαν 12 άτομα, αλλά ακόμη τρία μέλη της σπείρας ψάχνονται. Η λεία από τις κλοπές ξεπερνάει τις 400.000 ευρώ. Η επιχείρηση έγινε με τη συμμετοχή 120 αστυνομικών, που εργάστηκαν σκληρά για να πιάσουν τους κλέφτες. Είναι σημαντικό να σταματούν αυτές οι εγκληματικές ομάδες, γιατί προστατεύουν την ασφάλεια όλων μας.",
-      "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564074341/speira-diepratte-diarrixeis-kai-klopes-se-oli-ti-chora-12-syllipseis-stin-imathia/",
+      "id": "2951116448e0",
+      "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
+      "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+      "simpleText": "Οι δουλειές στο σπίτι είναι σημαντικές για τα παιδιά. Όταν συμμετέχουν, μαθαίνουν να είναι πιο αυτόνομα και να έχουν αυτοπεποίθηση. Οι απλές δραστηριότητες, όπως το σκούπισμα ή το στρώσιμο του κρεβατιού, δεν είναι βαρετές, αλλά βοηθούν τα παιδιά να αποκτούν νέες δεξιότητες. Μέσα από αυτές τις δουλειές, καταλαβαίνουν τι σημαίνει ευθύνη και πώς να φροντίζουν το σπίτι. Αυτό είναι πολύ καλό για την ανάπτυξή τους. Είναι σημαντικό να θυμόμαστε ότι η μάθηση γίνεται μέσα από την καθημερινή ζωή.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "news.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564074341/speira-diepratte-diarrixeis-kai-klopes-se-oli-ti-chora-12-syllipseis-stin-imathia/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4073625/exarthrothike-spira-pou-diepratte-diarrixis-ke-klopes-me-lia-pano-apo-400-000-evro-12-sillipsis.html"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές εγκληματικές δραστηριότητες, διαρρήξεις και συλλήψεις, που σχετίζονται με την ασφάλεια των πολιτών.",
+      "category": "happy",
+      "categoryReason": "Η είδηση αναφέρεται στις θετικές επιπτώσεις που έχουν οι απλές δουλειές στο σπίτι στην αυτονομία και αυτοπεποίθηση των παιδιών, προάγοντας τη μάθηση και την υπευθυνότητα με ευχάριστο τρόπο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-12T13:44:28.000Z"
+      "publishedAt": "2026-02-12T19:29:17.000Z"
     },
     {
       "id": "77b983e2cabd",
       "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-      "simpleTitle": "Καλή είδηση για τη λίμνη Μόρνου μετά τη βροχή",
-      "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, έχει αυξήσει τη στάθμη του νερού της. Αυτό έγινε μετά από τις πρόσφατες βροχές. Η εικόνα αυτή δίνει ελπίδα ότι τα αποθέματα νερού θα βελτιωθούν. Οι καλές καιρικές συνθήκες βοηθούν πολύ. Οι κάτοικοι αισθάνονται ανακούφιση, καθώς το νερό είναι πολύ σημαντικό για όλους. Δεν ξέρουμε ακόμα αν η βροχή θα συνεχιστεί ή πόσο θα διαρκέσει αυτή η καλή κατάσταση.",
+      "simpleTitle": "Καλή εικόνα από τη λίμνη Μόρνου μετά τις βροχές",
+      "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, δείχνει καλύτερη κατάσταση τώρα. Μετά τις βροχές, η στάθμη του νερού έχει αυξηθεί. Αυτό δίνει ελπίδα ότι τα αποθέματα νερού θα μπορέσουν να βελτιωθούν. Είναι καλό να έχουμε νερό, ειδικά μετά από δύσκολες περιόδους. Χρειάζεται προσοχή όμως, για να διατηρήσουμε τα νερά μας καθαρά και πολλά.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
       "sourceDomains": [
@@ -275,45 +331,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε μια θετική εξέλιξη για τη στάθμη του νερού στη λίμνη Μόρνου μετά από βροχοπτώσεις, προσφέροντας ελπίδα και ανακούφιση στους κατοίκους σχετικά με τα αποθέματα νερού.",
+      "categoryReason": "Η είδηση αφορά την αύξηση της στάθμης νερού στη λίμνη Μόρνου, η οποία είναι θετική και δείχνει αισιοδοξία για την αποκατάσταση των αποθεμάτων νερού, γεγονός που προκαλεί χαρούμενα συναισθήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-12T13:22:00.000Z"
     },
     {
-      "id": "1124d4491c03",
-      "title": "Τετ α τετ Τασούλα – Τσίπρα στο Προεδρικό: Τι συζήτησαν",
-      "simpleTitle": "Συνάντηση Τασούλα με Τσίπρα στο Προεδρικό",
-      "simpleText": "Σήμερα, ο Πρόεδρος της Δημοκρατίας, Κωνσταντίνος Τασούλας, συναντήθηκε με τον πρώην πρωθυπουργό, Αλέξη Τσίπρα, στο Προεδρικό Μέγαρο. Στη συνάντηση, μίλησαν για σημαντικά θέματα που αφορούν τη χώρα και τις σχέσεις της με άλλες χώρες. Συζήτησαν επίσης για τις πολιτικές και οικονομικές εξελίξεις στην Ελλάδα. Αυτή η συνάντηση είναι σημαντική, γιατί δείχνει ότι οι πολιτικοί συνεργάζονται για να αντιμετωπίσουν τα προβλήματα. Δεν ξέρουμε ακόμα λεπτομέρειες για τις προτάσεις που έγιναν.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564074389/tet-a-tet-tasoyla-tsipra-sto-proedriko-ti-syzitisan/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564074389/tet-a-tet-tasoyla-tsipra-sto-proedriko-ti-syzitisan/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/12/politics/synantisi-tasoula-me-tsipra-sto-proedriko-megaro-ti-syzitisan/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η συνάντηση ανάμεσα στον Πρόεδρο της Δημοκρατίας και τον πρώην πρωθυπουργό αφορά σοβαρά θέματα πολιτικής και οικονομίας που συνδέονται με την κατάσταση της χώρας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-12T12:51:25.000Z"
-    },
-    {
       "id": "8a1f0ba56c5a",
       "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-      "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
-      "simpleText": "Η Τσικνοπέμπτη είναι μια σημαντική γιορτή στην Ελλάδα. Αυτή η ημέρα είναι γεμάτη με μυρωδιές από κρέας που ψήνεται και κόσμο που μαζεύεται γύρω από κάρβουνα. Γιορτάζεται τη Θεσσαλονίκη και σε άλλες πόλεις, πριν την Καθαρά Δευτέρα. Οι άνθρωποι βγαίνουν έξω, περνούν χρόνο με φίλους και τρώνε νόστιμα φαγητά. Είναι μια μέρα γιορτής και χαράς. Σήμερα, η Τσικνοπέμπτη θυμίζει τη σημαντικότητα της διατροφής και της παρέας, αλλά και την παραδοσιακή κουλτούρα μας.",
+      "simpleTitle": "Τι είναι η Τσικνοπέμπτη και γιατί γιορτάζεται",
+      "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή μέρα στην Ελλάδα. Οι άνθρωποι γιορτάζουν με ψητά φαγητά και όμορφες μυρωδιές από κάρβουνα. Αυτή η ημέρα έχει μια ειδική σημασία. Είναι μια παράδοση που συνδέεται με τη χαρά και τη συμμετοχή των ανθρώπων. Σήμερα, η Τσικνοπέμπτη μας θυμίζει τη σημαντικότητα της γιορτής, ακόμα και σε καιρούς που οι άνθρωποι καταναλώνουν πολλά. Οι παρέες συγκεντρώνονται και περνούν ευχάριστες στιγμές μαζί. Είναι μια ευκαιρία να γιορτάσουμε την ομορφιά της ζωής με τα αγαπημένα μας πρόσωπα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
       "sourceDomains": [
@@ -325,8 +353,8 @@
           "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή γεμάτη χαρά και παρέα, που εστιάζει σε θετικές στιγμές με φαγητό και φίλους, κάνοντάς την να ανήκει στις χαρούμενες ειδήσεις.",
+      "category": "fun",
+      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που συνδέεται με ευχάριστες στιγμές, φαγητό και παρέες, κάνοντάς την να ταιριάζει στην κατηγορία της διασκέδασης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -335,8 +363,8 @@
     {
       "id": "ac56b559fdc4",
       "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
-      "simpleTitle": "BAFTA και Όσκαρ: Οι βασικές διαφορές",
-      "simpleText": "Ο κινηματογράφος είναι μια τέχνη που μιλά σε όλους μας. Κάθε χρόνο, πολλοί άνθρωποι περιμένουν με ανυπομονησία να δουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα βραβεία τιμούν τους καλύτερους δημιουργούς και ηθοποιούς. Τα BAFTA δίνονται στην Αγγλία, ενώ τα Όσκαρ στην Αμερική. Οι διαφορές τους δείχνουν πώς εκτιμά ο κόσμος τον κινηματογράφο σε διάφορες χώρες. Αυτή η γιορτή είναι σημαντική γιατί επισημαίνει την αξία των ταινιών και τους ανθρώπους που εργάζονται πίσω από αυτές.",
+      "simpleTitle": "Διαφορές μεταξύ BAFTA και Όσκαρ",
+      "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα βραβεία γιορτάζουν τους καλύτερους δημιουργούς ταινιών. Ο κινηματογράφος μιλά σε όλους μας, ενώ οι τελετές αυτές μας ενώνουν με τις ιστορίες τους. Τα BAFTA είναι πιο γνωστά στο Ηνωμένο Βασίλειο, ενώ τα Όσκαρ είναι διάσημα παγκοσμίως. Οι διαφορές τους μας δείχνουν πώς οι άνθρωποι αντιλαμβάνονται τις ταινίες σε διάφορες χώρες. Αυτές οι γιορτές συνεχίζουν να είναι σημαντικές για τη βιομηχανία του κινηματογράφου.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
       "sourceDomains": [
@@ -349,7 +377,7 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Το άρθρο συγκρίνει δύο κορυφαία κινηματογραφικά βραβεία, τα BAFTA και τα Όσκαρ, αναλύοντας τη σημασία τους και τις διαφορές τους, γεγονός που το εντάσσει στην κατηγορία του κινηματογράφου και των σειρών.",
+      "categoryReason": "Η είδηση αναφέρεται στις διαφορές μεταξύ των βραβείων BAFTA και Όσκαρ, που είναι άμεσα συνδεδεμένα με τον κινηματογράφο και την αναγνώριση ταινιών και δημιουργών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -359,7 +387,7 @@
       "id": "2993d5536c44",
       "title": "Γιατί τα παιδιά χρειάζονται όρια για να νιώθουν ελεύθερα",
       "simpleTitle": "Τα όρια βοηθούν τα παιδιά να νιώθουν ελεύθερα",
-      "simpleText": "Τα όρια είναι σημαντικά για τα παιδιά, αλλά μερικοί γονείς τα βλέπουν αρνητικά. Πιστεύουν ότι τα όρια τους περιορίζουν. Όμως, τα καθαρά και σταθερά όρια κάνουν τα παιδιά να νιώθουν ασφάλεια. Όταν ξέρουν τι να περιμένουν, μπορούν να εξερευνούν τον κόσμο πιο ελεύθερα. Η καθημερινότητα των παιδιών έχει ανάγκη από αυτά τα όρια για να αναπτυχθούν σωστά. Είναι σημαντικό να κατανοήσουμε ότι τα όρια δεν κλείνουν τα παιδιά, αλλά τα βοηθούν να είναι πιο σίγουρα και χαρούμενα.",
+      "simpleText": "Πολλοί γονείς πιστεύουν ότι τα όρια περιορίζουν τα παιδιά. Ωστόσο, όταν υπάρχουν σαφή και σταθερά όρια, τα παιδιά νιώθουν πιο ασφαλή και σίγουρα. Αυτό τους επιτρέπει να εξερευνούν καλύτερα τον κόσμο γύρω τους. Τα όρια βοηθούν τα παιδιά να κατανοούν τι είναι σωστό και τι όχι. Έτσι, αισθάνονται ελευθερία να ανακαλύψουν νέα πράγματα χωρίς φόβο. Είναι σημαντικό οι γονείς να θέτουν όρια για να στηρίζουν την ανάπτυξη και την αυτοπεποίθηση των παιδιών.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31909-giati-ta-paidia-xreiazontai-oria-gia-na-niothoun-elefthera/",
       "sourceDomains": [
@@ -372,7 +400,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Το κείμενο ασχολείται με την αναγκαιότητα των ορίων στην ανάπτυξη των παιδιών και τη σύνδεση τους με την αίσθηση της ασφάλειας και ελευθερίας, γεγονός που σχετίζεται με σοβαρά ζητήματα γονεϊκότητας και ψυχολογίας.",
+      "categoryReason": "Η είδηση ασχολείται με τη σημασία των ορίων στην ανάπτυξη και την ασφάλεια των παιδιών, που είναι σοβαρό κοινωνικό και ψυχολογικό ζήτημα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -381,8 +409,8 @@
     {
       "id": "863798d0444c",
       "title": "Ξεκίνησε η Ακαδημία Σπάνιων Ασθενών Ελλάδος με ενεργό ρόλο στην έγκριση φαρμάκων",
-      "simpleTitle": "Ξεκίνησε η Ακαδημία για Σπάνιες Ασθένειες στην Ελλάδα",
-      "simpleText": "Στην Ελλάδα ξεκίνησε μια νέα Ακαδημία για σπάνιες ασθένειες. Αυτή η Ακαδημία θα εκπαιδεύσει ασθενείς πώς να συμμετέχουν στη διαδικασία έγκρισης φαρμάκων. Η Ακαδημία είναι σημαντική γιατί θα μπορεί να ακούγεται καλύτερα η φωνή των ασθενών. Σκοπός της είναι να βοηθήσει αυτούς που έχουν σπάνιες ασθένειες να έχουν λόγο στις αποφάσεις που αφορούν τη θεραπεία τους. Έτσι, οι ασθενείς θα μπορούν να συμμετέχουν πιο ενεργά στην φροντίδα τους.",
+      "simpleTitle": "Νέα Ακαδημία για Σπάνιες Ασθένειες στην Ελλάδα",
+      "simpleText": "Ξεκίνησε στην Ελλάδα η Ακαδημία Σπάνιων Ασθενών. Αυτή η Ακαδημία έχει σκοπό να εκπαιδεύσει ασθενείς που έχουν σπάνιες ασθένειες. Οι ασθενείς θα μάθουν πώς να συμμετέχουν στις διαδικασίες που αφορούν την ανάπτυξη και έγκριση φαρμάκων στην Ευρώπη και τον κόσμο. Είναι σημαντική γιατί βοηθά τους ασθενείς να ακουστούν και να συμμετέχουν σε αποφάσεις που αφορούν την υγεία τους. Έτσι, η φωνή τους θα έχει περισσότερη δύναμη όταν μιλούν για τις θεραπείες τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31842-akadhmia-spanion-asthenon-ellados-farmaka-klinikes-dokimes/",
       "sourceDomains": [
@@ -395,17 +423,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη δημιουργία μιας Ακαδημίας για σπάνιες ασθένειες που έχει στόχο να εκπαιδεύσει ασθενείς και να ενισχύσει τη συμμετοχή τους στις διαδικασίες έγκρισης φαρμάκων, κάτι που σχετίζεται με σοβαρά ζητήματα υγείας και κοινωνικών δικαιωμάτων.",
+      "categoryReason": "Η είδηση αφορά την ίδρυση της Ακαδημίας Σπάνιων Ασθενών στην Ελλάδα, η οποία επικεντρώνεται σε σοβαρά θέματα υγείας και συμμετοχής των ασθενών στη διαδικασία έγκρισης φαρμάκων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g2c705ac27c1134cf659c8103c37d5455c0b940b12f3331e970417fb689500337ce1e46cd5842c9a731413863ca9548a694df37225d4b0109fd6deebc84da01b8_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g8335edc622301fa45e2dd5aac733ec239e5df00d7bb6aa92a4379dae04043d26f3c6bb18a8cf66cdbfb148aa2680b8004b78d32d660646376755c955e1340c8e_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-11T12:23:00.000Z"
     },
     {
       "id": "0bda0d53d9d5",
       "title": "EuroLeague Final Four 2026: Τα εισιτήρια στην Αθήνα σπάνε κάθε ρεκόρ, sold out η πρώτη φάση",
-      "simpleTitle": "Ρεκόρ πωλήσεων εισιτηρίων για το Final Four 2026 στην Αθήνα",
-      "simpleText": "Το Final Four της EuroLeague θα γίνει στην Αθήνα το 2026. Οι φίλαθλοι περιμένουν με ανυπομονησία αυτή την εκδήλωση. Οι προπωλήσεις των εισιτηρίων ξεκίνησαν στις 10 Φεβρουαρίου. Σχεδόν αμέσως, το σύστημα που τα πουλάει σταμάτησε να λειτουργεί λόγω της μεγάλης ζήτησης. Αυτό δείχνει πόσο πολύ θέλουν οι φίλαθλοι να παρακολουθήσουν το παιχνίδι. Είναι σημαντικό, γιατί είναι μια μεγάλη ευκαιρία για την πόλη και τον αθλητισμό. Οι άνθρωποι που ενδιαφέρονται να αγοράσουν εισιτήρια θα πρέπει να είναι υπομονετικοί. Δεν έχει ανακοινωθεί πότε θα ανοίξει η επόμενη φάση πωλήσεων.",
+      "simpleTitle": "Εισιτήρια EuroLeague 2026: Πωλήσεις στην Αθήνα με μεγάλη ζήτηση",
+      "simpleText": "Η EuroLeague Final Four για το 2026 θα γίνει στην Αθήνα. Οι φίλαθλοι περιμένουν με ανυπομονησία αυτή την εκδήλωση. Εδώ και λίγες ημέρες, άρχισε η πώληση εισιτηρίων σε φάσεις. Η πρώτη φάση ξεκίνησε στις 10 Φεβρουαρίου και πωλήθηκαν όλα τα εισιτήρια πολύ γρήγορα. Αυτό δείχνει πόσο ενδιαφέρον έχει ο κόσμος. Οι φίλαθλοι είναι ενθουσιασμένοι, αλλά και ανήσυχοι λόγω της μεγάλης ανταγωνιστικότητας. Δεν έχει ανακοινωθεί πότε θα βγουν άλλα εισιτήρια ή πώς θα συνεχιστεί η πώληση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31968-euroleague-eisitiria-athina-final-four-2026-times/",
       "sourceDomains": [
@@ -418,17 +446,17 @@
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά το EuroLeague Final Four, ένα σημαντικό αθλητικό γεγονός, και περιγράφει την αυξημένη ζήτηση για τα εισιτήρια, κάτι που σχετίζεται άμεσα με τον αθλητισμό και τους φιλάθλους.",
+      "categoryReason": "Η είδηση αφορά την πώληση εισιτηρίων για το EuroLeague Final Four, αναδεικνύοντας τη δυναμική και τον ενθουσιασμό γύρω από έναν αθλητικό αγώνα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g6d531c52d931702f977d178627c0fcaf214b995b073e780f8c93a58139c300b88d7c933dd8285bfa5e40e06923d777d8a5ff7cafa20fe863b186194e85ff8f3a_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g5fbf21307eb96eac1b31070d2c0e5d140faf398748de2f132d296646f8d8ff0166453774a6b956b468f6910ae764e836ac9f53833e450dd11a0b72c7b0abc63a_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-11T09:53:08.000Z"
     },
     {
       "id": "3ebde64bd4f8",
       "title": "Η Γαλλία χαράζει όρια: απαγόρευση στα social media για παιδιά κάτω των 15",
-      "simpleTitle": "Απαγόρευση για τα social media σε παιδιά κάτω των 15 στη Γαλλία",
-      "simpleText": "Η Γαλλία σκοπεύει να προστατεύσει τα παιδιά από την υπερβολική χρήση των social media. Θα απαγορεύσει την πρόσβαση σε αυτά για τα παιδιά κάτω των 15 ετών. Αυτό το μέτρο έχει τη στήριξη του προεδρού Εμάνουελ Μακρόν και αναμένεται να ισχύσει από τον Σεπτέμβριο του 2026. Με αυτή την απόφαση, η Γαλλία γίνεται η δεύτερη χώρα στον κόσμο μετά την Αυστραλία που παίρνει τέτοια μέτρα. Είναι σημαντικό γιατί βοηθά τα παιδιά να είναι ασφαλή και να μην επηρεάζονται άσχημα από το διαδίκτυο. Οι γονείς καλούνται να ενημερώνουν τα παιδιά τους για τους κανόνες που θα ισχύσουν.",
+      "simpleTitle": "Απαγόρευση στα social media για παιδιά κάτω των 15 στη Γαλλία",
+      "simpleText": "Η Γαλλία αποφάσισε να προστατεύσει τα παιδιά στον ψηφιακό κόσμο. Θα απαγορευτεί η είσοδος σε social media για όσα παιδιά είναι κάτω από 15 ετών. Αυτό το μέτρο προωθεί ο πρόεδρος Εμάνουελ Μακρόν. Αν όλα πάνε καλά, η απαγόρευση θα ξεκινήσει τον Σεπτέμβριο του 2026. Έτσι, η Γαλλία θα είναι η δεύτερη χώρα του κόσμου που παίρνει ένα τέτοιο μέτρο, μετά την Αυστραλία. Αυτή η απόφαση είναι σημαντική επειδή θα βοηθήσει τα παιδιά να βρίσκονται ασφαλέστερα στο διαδίκτυο. Δεν έχουμε ακόμα λεπτομέρειες για το πώς θα εφαρμοστεί η απαγόρευση.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31618-gallia-apagorefsi-social-media-paidia/",
       "sourceDomains": [
@@ -441,17 +469,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές αποφάσεις που αφορούν την προστασία των παιδιών στον ψηφιακό κόσμο, γεγονός που σχετίζεται με την υγεία και τα δικαιώματα των ανηλίκων.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά ζητήματα σχετικά με την προστασία των παιδιών στον ψηφιακό κόσμο και την πολιτική απόφαση της Γαλλίας να απαγορεύσει την πρόσβαση στα social media για ανηλίκους, κάτι που συνδέεται με κοινωνικά και νομικά ζητήματα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gf4669cb61b1c4a66f22b1468973dc7ed4eb0d9b85888d5f321d6be2e03683e36bd9dee35a00e3366f0cfb2e09cdad7a646ceaf67f9f2bc743959eecbd4728b88_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g79e7591308f924034f564821b7d0b53f670401d756fe659f16d3250128cdf645aab16d289a74857184c2e7c4ad8616058eabae44b7e84c4c9e09ffdcc901a425_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-11T05:00:00.000Z"
     },
     {
       "id": "a8c054748957",
       "title": "Γιατί τρίζουμε τα δόντια μας στον ύπνο; Ποιοι είναι οι κίνδυνοι;",
-      "simpleTitle": "Γιατί τρίζουν τα δόντια μας το βράδυ;",
-      "simpleText": "Πολλοί άνθρωποι τρίζουν τα δόντια τους στον ύπνο χωρίς να το καταλαβαίνουν. Συνήθως, το καταλαβαίνουν από τον πόνο στη σαγόνι ή από πονοκεφάλους το πρωί. Αυτή η κατάσταση λέγεται βρουξισμός και δεν είναι σπάνια. Μπορεί να συμβαίνει λόγω άγχη ή άλλων καθημερινών παραγόντων. Είναι καλό να το αναφέρουμε στον οδοντίατρο, γιατί μπορεί να προκαλέσει προβλήματα στα δόντια μας. Αν έχετε πόνους, καλό είναι να ζητήσετε βοήθεια.",
+      "simpleTitle": "Γιατί τρίζουμε τα δόντια στον ύπνο;",
+      "simpleText": "Πολλοί άνθρωποι τρίζουν τα δόντια τους τη νύχτα χωρίς να το ξέρουν. Συνήθως, το καταλαβαίνουν όταν πονάει η γνάθος τους ή έχουν πονοκέφαλο το πρωί. Αυτό λέγεται βρουξισμός και δεν είναι σπάνιο. Μπορεί να συμβαίνει λόγω στρες ή άλλων καθημερινών παραγόντων. Είναι σημαντικό να προσέχουμε, γιατί μπορεί να βλάψει τα δόντια μας. Αν έχετε τέτοια συμπτώματα, καλό είναι να μιλήσετε με τον οδοντίατρο για να σας δώσει οδηγίες.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31662-giati-trizoume-ta-dontia-mas-ston-ypno-kindynoi/",
       "sourceDomains": [
@@ -464,7 +492,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε μια ιατρική κατάσταση (βρουξισμός) που έχει σοβαρές συνέπειες για την υγεία των δοντιών και γενικά τη σωματική ευεξία, κάνοντάς την σοβαρή και σχετική με την υγεία.",
+      "categoryReason": "Η είδηση αναφέρεται σε θέματα υγείας και κινδύνων που σχετίζονται με τον βρουξισμό, άρα κατηγοριοποιείται ως σοβαρή είδηση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -473,8 +501,8 @@
     {
       "id": "10af5f56375c",
       "title": "Κουρκουμάς: Το «χρυσό» μπαχαρικό για την υγεία",
-      "simpleTitle": "Κουρκουμάς: Το πολύτιμο μπαχαρικό για την υγεία",
-      "simpleText": "Ο κουρκουμάς είναι ένα μπαχαρικό που έχει μεγάλη αξία για την υγεία μας. Χρησιμοποιείται εδώ και 4.000 χρόνια σε πολλές χώρες. Είναι γνωστό για τη γεύση του, αλλά και για τα οφέλη που προσφέρει. Ο κουρκουμάς βοηθάει στην υγεία των αρθρώσεων, στη πέψη και στο δέρμα. Είναι σημαντικό για την ευεξία μας και συναντάται σε πολλά προϊόντα για την υγεία. Γι' αυτόν τον λόγο είναι αγαπητός τόσο στην κουζίνα όσο και στη φαρμακευτική.",
+      "simpleTitle": "Κουρκουμάς: Το μπαχαρικό που βοηθά την υγεία",
+      "simpleText": "Ο κουρκουμάς είναι ένα μπαχαρικό που χρησιμοποιείται πολύ και στη μαγειρική και στη φαρμακευτική. Έχει καλή γεύση και θεωρείται καλός φίλος για την υγεία μας. Αυτή η ιδιαίτερη ένωση υπάρχει πάνω από 4.000 χρόνια και χρησιμοποιείται σε πολλές χώρες. Είναι σημαντικός στη παραδοσιακή ιατρική της Ινδίας και της Κίνας. Βοηθάει στις αρθρώσεις, τη πέψη και την υγεία του δέρματος. Οι άνθρωποι τον χρησιμοποιούν για να νιώθουν καλύτερα και πιο υγιείς.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31844-kourkoumas-to-xryso-mpaxariko-gia-tin-ygeia/",
       "sourceDomains": [
@@ -487,241 +515,246 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την υγεία και τα οφέλη του κουρκουμά, που είναι σοβαρό θέμα που επηρεάζει τη ζωή των ανθρώπων και τη γενική ευημερία τους.",
+      "categoryReason": "Η είδηση αφορά τη θετική συμβολή του κουρκουμά στην υγεία, αναλύοντας την παραδοσιακή του χρήση και τα οφέλη του, κάτι που σχετίζεται άμεσα με σοβαρά ζητήματα υγείας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-10T09:52:00.000Z"
     },
     {
-      "id": "86be816312f2",
-      "title": "Τι μαθαίνει ένα παιδί όταν βαριέται",
-      "simpleTitle": "Τι μαθαίνουν τα παιδιά από τη βαρεμάρα",
-      "simpleText": "Η βαρεμάρα μπορεί να φαίνεται κακή, αλλά έχει και πλεονεκτήματα. Όταν ένα παιδί βαριέται, αποκτά περισσότερη φαντασία. Μπορεί να σκεφτεί νέες ιδέες και να δημιουργήσει παιχνίδια μόνο του. Αν οι γονείς γεμίζουν συνέχεια το πρόγραμμα του παιδιού, δεν του δίνουν χρόνο να εξερευνήσει. Έτσι, η βαρεμάρα μπορεί να γίνει ευκαιρία για μάθηση και ανάπτυξη. Είναι σημαντικό να θυμόμαστε ότι μερικές φορές το κενό μπορεί να βοηθήσει τα παιδιά να γίνουν πιο δημιουργικά και ανεξάρτητα.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/",
+      "id": "c55e6687b9e8",
+      "title": "Ολυμπιακός-Ερυθρός Αστέρας 92-86: Θρύλος από ατσάλι με σπουδαία νίκη",
+      "simpleTitle": "Νίκη του Ολυμπιακού με 92-86 πάνω στον Ερυθρό Αστέρα",
+      "simpleText": "Ο Ολυμπιακός κέρδισε τον Ερυθρό Αστέρα με σκορ 92-86 σε ένα αγώνα μπάσκετ. Η ομάδα ήταν μπροστά σε όλη τη διάρκεια του παιχνιδιού. Ο Ντόρσεϊ και ο Φουρνιέ ήταν οι καλύτεροι παίκτες με 17 και 18 πόντους. Στο τέλος του αγώνα, ο Βεζένκοφ έβαλε ένα σημαντικό τρίποντο. Αυτή η νίκη είναι σημαντική για τον Ολυμπιακό και τους θαυμαστές του.",
+      "sourceName": "TO BHMA",
+      "sourceUrl": "https://www.tovima.gr/2026/02/12/sports/olympiakos-erythros-asteras-92-86-thrylos-apo-atsali-me-spoudaia-niki/",
       "sourceDomains": [
-        "thehappynews.gr"
+        "tovima.gr"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση τονίζει τα θετικά της βαρεμάρας, υποστηρίζοντας ότι μπορεί να ενισχύσει τη φαντασία και την ανεξαρτησία των παιδιών, κάτι που είναι χαρούμενο και ενθαρρυντικό.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-09T18:05:00.000Z"
-    },
-    {
-      "id": "eb0f9265a975",
-      "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Πατινάζ Ταχύτητας-5.000 Μ (Γ) (17:30, ΕΡΤ2 ΣΠΟΡ)",
-      "simpleTitle": "Ζωντανή Μετάδοση Χειμερινών Ολυμπιακών Αγώνων στο Πατινάζ",
-      "simpleText": "Σήμερα, στις 17:30, μπορείτε να παρακολουθήσετε live το Πατινάζ Ταχύτητας για τις γυναίκες, με απόσταση 5.000 μέτρων. Αυτή η εκδήλωση είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων του 2026 στο Μιλάνο και την Κορτίνα. Η μετάδοση θα γίνει μέσω του καναλιού ΕΡΤ2 ΣΠΟΡ και μπορείτε να την δείτε και διαδικτυακά από το ERTFLIX. Είναι μια ευκαιρία να στηρίξουμε τις αθλήτριες και να δούμε σπουδαίους αγώνες.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-patinaz-taxytitas-5-000-m-g-17-30-ert2-spor/",
-      "sourceDomains": [
-        "ertnews.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-patinaz-taxytitas-5-000-m-g-17-30-ert2-spor/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/12/sports/olympiakos-erythros-asteras-92-86-thrylos-apo-atsali-me-spoudaia-niki/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αναφέρεται σε συγκεκριμένο αγώνα των Χειμερινών Ολυμπιακών Αγώνων, οπότε ανήκει στην κατηγορία αθλητικών γεγονότων. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ μεταξύ Ολυμπιακού και Ερυθρού Αστέρα, με έμφαση σε παίκτες και σκορ, κάτι που ταιριάζει στην κατηγορία του αθλητισμού. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-      "publishedAt": "2026-02-12T15:20:00.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-12T20:42:05.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "14f809599777",
-        "title": "Η κυβέρνηση Τραμπ αποσύρει τις δυνάμεις ICE και Συνοριοφυλακής από τη Μινεσότα",
-        "simpleTitle": "Τέλος της παρουσίας ICE και συνοριοφυλάκων στη Μινεσότα",
-        "simpleText": "Η κυβέρνηση Τραμπ αποσύρει τις δυνάμεις ICE και συνοριοφυλάκων από τη Μινεσότα. Αυτή η απόφαση έγινε μετά από δύο μήνες δραστηριότητας στην περιοχή. Οι περισσότεροι στόχοι που ήθελαν να απολεσθούν έχουν φύγει από τους δρόμους. Μια μικρή ομάδα θα παραμείνει για να τελειώσει την διαδικασία. Αυτή η αλλαγή έρχεται μετά από πολλές διαδηλώσεις και πολιτική πίεση. Είναι σημαντική γιατί η κατάσταση έχει προκαλέσει ανησυχία στους κατοίκους. Δεν γνωρίζουμε ακόμη αν θα υπάρξουν άλλες αλλαγές στην πολιτική μετανάστευσης.",
-        "sourceName": "TO BHMA, Protagon",
-        "sourceUrl": "https://www.tovima.gr/2026/02/12/world/i-kyvernisi-tramp-aposyrei-tis-dynameis-ice-kai-synoriofylakis-apo-ti-minesota/",
+        "id": "fcff9f78573c",
+        "title": "«Απόβαση» αγροτών με τρακτέρ σήμερα στο Σύνταγμα – Κυκλοφοριακές ρυθμίσεις",
+        "simpleTitle": "Αγρότες με τρακτέρ διαδηλώνουν στο Σύνταγμα",
+        "simpleText": "Σήμερα, οι αγρότες από όλη την Ελλάδα συγκεντρώνονται στο Σύνταγμα στην Αθήνα. Θέλουν να διαμαρτυρηθούν για τα προβλήματά τους και να ζητήσουν αν δυνάμεις από την κυβέρνηση. Οι κινητοποιήσεις ξεκινούν το απόγευμα, στις 4, και θα διαρκέσουν τη νύχτα. Πολλά τρακτέρ θα έρθουν από διάφορες περιοχές, όπως από τη Λάρισα και τα Χανιά. Για να διευκολυνθεί η κίνηση στην πόλη, η αστυνομία θα κάνει ειδικές ρυθμίσεις στους δρόμους. Οι οδηγοί θα πρέπει να είναι προσεκτικοί και να αποφεύγουν την περιοχή κοντά στο Σύνταγμα. Αυτή η διαδήλωση είναι σημαντική, γιατί οι αγρότες θέλουν να ακουστεί η φωνή τους.",
+        "sourceName": "ERT News, TA NEA, Protagon",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/apovasi-agroton-me-trakter-simera-sto-syntagma-kykloforiakes-rythmiseis/",
         "sourceDomains": [
-          "tovima.gr",
+          "ertnews.gr",
+          "tanea.gr",
           "protagon.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/12/world/i-kyvernisi-tramp-aposyrei-tis-dynameis-ice-kai-synoriofylakis-apo-ti-minesota/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/apovasi-agroton-me-trakter-simera-sto-syntagma-kykloforiakes-rythmiseis/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/13/greece/trakter-sto-syntagma-i-megali-kathodos-ton-agroton-stin-athina-ektaktes-kykloforiakes-rythmiseis/"
           },
           {
             "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/o-trab-aposyrei-tis-dynameis-tis-ice-apo-ti-minesota-44343311439"
+            "url": "https://www.protagon.gr/epikairotita/apovasi-agrotwn-me-trakter-sto-syntagma-kykloforiakes-rythmiseis-44343311667"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την απόφαση της κυβέρνησης Τραμπ για την απόσυρση δυνάμεων ICE και Συνοριοφυλακής από τη Μινεσότα, που συνδέεται με σημαντικά ζητήματα πολιτικής και κοινωνικής φύσης, όπως η μετανάστευση και οι διαδηλώσεις.",
+        "categoryReason": "Η κινητοποίηση αγροτών στο Σύνταγμα είναι ένα σοβαρό κοινωνικό ζήτημα που αφορά τα αιτήματα τους για πολιτική και οικονομική υποστήριξη, επηρεάζοντας σημαντικά όχι μόνο την αγροτική οικονομία αλλά και την πολιτική κατάσταση στη χώρα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/agrotes-peiraias-xania.mp4",
+        "publishedAt": "2026-02-13T07:09:39.000Z"
+      },
+      {
+        "id": "fcf5e664446d",
+        "title": "Δημοσκόπηση Politico: Οι πολίτες της Δύσης «βλέπουν» τον Γ’ Παγκόσμιο Πόλεμο να έρχεται",
+        "simpleTitle": "Οι πολίτες της Δύσης φοβούνται τον Γ’ Παγκόσμιο Πόλεμο",
+        "simpleText": "Μια νέα έρευνα δείχνει ότι πολλοί άνθρωποι στη Δύση ανησυχούν για την πιθανότητα ενός Γ’ Παγκόσμιου Πολέμου. Η δημοσκόπηση έγινε σε χώρες όπως η Βρετανία, οι ΗΠΑ, ο Καναδάς, η Γαλλία και η Γερμανία. Οι πολίτες θέλουν να αυξηθούν οι δαπάνες για την άμυνα, αλλά ανησυχούν πως θα χρηματοδοτηθούν αυτές οι δαπάνες. Η Ρωσία θεωρείται μεγάλη απειλή για την Ευρώπη, κάτι που κάνει τους ανθρώπους να νιώθουν πιο καχύποπτοι για τη βοήθεια από τις ΗΠΑ. Είναι σημαντικό να γνωρίζουμε πώς νιώθουν οι πολίτες, γιατί οι ανησυχίες αυτές μπορεί να επηρεάσουν την πολιτική ασφάλειας στην περιοχή.",
+        "sourceName": "Kathimerini, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564075901/dimoskopisi-politico-oi-polites-tis-dysis-vlepoyn-ton-g-pagkosmio-polemo-na-erchetai/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564075901/dimoskopisi-politico-oi-polites-tis-dysis-vlepoyn-ton-g-pagkosmio-polemo-na-erchetai/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/13/world/dimoskopisi-politico-oi-polites-tis-dysis-vlepoun-trito-pagkosmio-polemo/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η δημοσκόπηση που αναδεικνύει τις ανησυχίες των πολιτών της Δύσης για πιθανότητα Γ' Παγκοσμίου Πολέμου αναφέρεται σε σοβαρά ζητήματα ασφάλειας και πολιτικής, εστιάζοντας στις διεθνείς σχέσεις και την απειλή της Ρωσίας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-12T15:37:53.000Z"
+        "publishedAt": "2026-02-13T06:57:02.000Z"
       },
       {
-        "id": "6ad481efb031",
-        "title": "Γαλλία: Μητέρα 9 παιδιών συνελήφθη ως ύποπτη για διπλή βρεφοκτονία",
-        "simpleTitle": "Γαλλία: Μητέρα με 9 παιδιά κατηγορείται για θάνατο δύο βρεφών",
-        "simpleText": "Μια μητέρα 50 ετών συνελήφθη στη Γαλλία επειδή βρέθηκαν δύο νεκρά μωρά σε καταψύκτη. Η γυναίκα έχει εννέα παιδιά. Αφήνει το σπίτι της χωρίς να πει σε κανέναν τι συνέβη. Οι αρχές την θεωρούν ύποπτη για διπλή βρεφοκτονία, δηλαδή για τον θάνατο των δύο βρεφών. Αυτή η υπόθεση προκαλεί σοκ και ανησυχία στην κοινότητα, διότι αφορά τη ζωή και την ασφάλεια των παιδιών. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για το τι ακριβώς συνέβη.",
-        "sourceName": "Kathimerini, TO BHMA, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/world/564074524/gallia-mitera-9-paidion-synelifthi-os-ypopti-gia-dipli-vrefoktonia/",
+        "id": "5ee9242b9c2f",
+        "title": "Κλειστή η παλαιά Ε.Ο. Άρτας – Αμφιλοχίας λόγω νέας κατολίσθησης, σχηματίστηκε ακόμα και καταρράκτης – Αποκομμένη οδικώς η Ήπειρος",
+        "simpleTitle": "Κλειστή η παλαιά εθνική οδός στα Αμφιλοχία",
+        "simpleText": "Η παλαιά εθνική οδός Άρτας – Αμφιλοχίας έκλεισε λόγω μιας μεγάλης κατολίσθησης. Αυτό συνέβη νωρίς το πρωί της Παρασκευής, και οι βροχές συνεχίζουν να προκαλούν προβλήματα. Οι αστυνομικοί έχουν σταματήσει την κυκλοφορία και οι οδηγοί πρέπει να χρησιμοποιούν άλλη οδό για να μετακινηθούν. Οι μετακινήσεις από την Ήπειρο είναι δύσκολες, καθώς δεν υπάρχει άλλος δρόμος προς την υπόλοιπη Ελλάδα. Εάν χρειάζεται κάποιος να ταξιδέψει, πρέπει να ρωτήσει την αστυνομία για την κατάσταση του δρόμου, ώστε να μην ταλαιπωρηθεί. Ένας καταρράκτης έχει σχηματιστεί από το νερό που ρέει από την κατολίσθηση.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/kleisti-i-palaia-e-o-artas-amfiloxias-logo-neas-katolisthisis-sximatistike-akoma-kai-katarraktis-apokommeni-odikos-i-ipeiros/",
         "sourceDomains": [
-          "kathimerini.gr",
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/kleisti-i-palaia-e-o-artas-amfiloxias-logo-neas-katolisthisis-sximatistike-akoma-kai-katarraktis-apokommeni-odikos-i-ipeiros/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564075961/kleisti-i-palaia-ethniki-odos-artas-amfilochias-logo-neas-katolisthisis/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές συνέπειες από μια κατολίσθηση που έχει κλείσει έναν οδό, δημιουργώντας προβλήματα στις μετακινήσεις και επηρεάζοντας τη ζωή των κατοίκων στην Ήπειρο.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-13T06:49:24.000Z"
+      },
+      {
+        "id": "7cfbdbe6d2cb",
+        "title": "Τροχαίο με ανατροπή ΙΧ στη Θεσσαλονίκη – Ένας τραυματίας",
+        "simpleTitle": "Τροχαίο με ανατροπή αυτοκινήτου στη Θεσσαλονίκη",
+        "simpleText": "Στην Θεσσαλονίκη, ένα αυτοκίνητο ανατράπηκε τα ξημερώματα της Παρασκευής. Αυτό συνέβη όταν το αυτοκίνητο χτύπησε σε ένα φανάρι στη συμβολή δύο δρόμων. Από το ατύχημα, ένα άτομο τραυματίστηκε ελαφρά και χρειάστηκε βοήθεια. Το ΕΚΑΒ τον παρέλαβε για να τον φροντίσουν. Είναι σημαντικό οι οδηγοί να είναι προσεκτικοί στους δρόμους για να αποφεύγουν ατυχήματα. Δεν έχουμε περισσότερες λεπτομέρειες για το πώς έγινε το ατύχημα.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/ert3/troxaio-me-anatropi-ix-sti-thessaloniki-enas-traymatias/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/ert3/troxaio-me-anatropi-ix-sti-thessaloniki-enas-traymatias/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564075946/thessaloniki-enas-traymatias-se-trochaio-me-anatropi/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά ένα τροχαίο ατύχημα που έχει σοβαρές προεκτάσεις για την ασφάλεια στους δρόμους, καθώς και έναν τραυματία.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g02b95560ad092bd6316d333e868a24c20842a01d1d098ce781c7fd7b64bd673443516cd37bfbbe54fe674795ab4a53ed28eb3766b07a3bb04668d5a2fbcdfa50_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-13T06:28:55.000Z"
+      },
+      {
+        "id": "0b73fe8329f5",
+        "title": "«ΕΡΓΑΝΗ ΙΙ»: Σε πλήρη εφαρμογή από τη Δευτέρα 16/2 – Μείωση γραφειοκρατίας για επιχειρήσεις και εργαζόμενους",
+        "simpleTitle": "** Νέο Σύστημα «ΕΡΓΑΝΗ ΙΙ» από 16 Φεβρουαρίου",
+        "simpleText": "** Από τη Δευτέρα, 16 Φεβρουαρίου, αρχίζει η πλήρης εφαρμογή του νέου πληροφοριακού συστήματος «ΕΡΓΑΝΗ ΙΙ». Αυτό το σύστημα αντικαθιστά το παλιό «ΕΡΓΑΝΗ Ι» και σκοπό έχει να διευκολύνει τις διαδικασίες για επιχειρήσεις και εργαζόμενους. Με το νέο αυτό σύστημα, οι υποχρεώσεις για υποβολή εγγράφων μειώνονται σημαντικά.\n\nΕπιπλέον, οι εργαζόμενοι μπορούν τώρα να ελέγχουν τα στοιχεία της σύμβασής τους μέσα από μια νέα εφαρμογή στο κινητό τους. Αυτό είναι σημαντικό γιατί δίνει περισσότερες πληροφορίες και δυνατότητες στους εργαζόμενους. Το νέο σύστημα συμβάλλει επίσης στην καλύτερη εποπτεία της αγοράς εργασίας.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/oikonomia/ergani-ii-se-pliri-efarmogi-apo-ti-deytera-16-2-meiosi-grafeiokratias-gia-epixeiriseis-kai-ergazomenous/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/oikonomia/ergani-ii-se-pliri-efarmogi-apo-ti-deytera-16-2-meiosi-grafeiokratias-gia-epixeiriseis-kai-ergazomenous/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/13/economy/se-pliri-efarmogi-to-ergani-ii-apo-16-fevrouariou-ti-allazei-gia-epixeiriseis-kai-ergazomenous/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά τη νέα εφαρμογή του πληροφοριακού συστήματος «ΕΡΓΑΝΗ ΙΙ», που επιφέρει σημαντικές αλλαγές στη διαχείριση των εργασιακών σχέσεων και τη μείωση της γραφειοκρατίας για επιχειρήσεις και εργαζόμενους, γεγονός που σχετίζεται με σοβαρά ζητήματα όπως η εργασία και η δημόσια διοίκηση.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-13T06:19:01.000Z"
+      },
+      {
+        "id": "341b2f73bf74",
+        "title": "Συνάντηση με τους στρατιωτικούς που αιχμαλώτισαν τον Νικολάς Μαδούρο θα έχουν σήμερα ο Nτόναλντ και η Μελάνια Τραμπ",
+        "simpleTitle": "Ο Τραμπ θα επισκεφθεί στρατιωτικούς που συνέλαβαν τον Μαδούρο",
+        "simpleText": "Σήμερα, ο Ντόναλντ Τραμπ θα συναντηθεί με στρατιώτες που συμμετείχαν στην επιχείρηση σύλληψης του Νικολάς Μαδούρο, πρώην προεδρικού ηγέτη της Βενεζουέλας. Η συνάντηση θα γίνει στη στρατιωτική βάση Φορτ Μπραγκ στη Βόρεια Καρολίνα. Ο Τραμπ θα τους συγχαρεί για την επιτυχία τους. Στην επιχείρηση αυτή, έπεσαν θύματα αρκετοί στρατιώτες και αστυνομικοί. Ο Τραμπ πιστεύει ότι οι σχέσεις με τη Βενεζουέλα είναι πολύ καλές τώρα. Δεν έχουν ανακοινωθεί λεπτομέρειες για το τι θα πει ο Τραμπ στους στρατιωτικούς.",
+        "sourceName": "ERT News, TO BHMA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/synantisi-me-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro-tha-exoun-simera-o-ntonalnt-kai-i-melania-tramp/",
+        "sourceDomains": [
+          "ertnews.gr",
           "tovima.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564074524/gallia-mitera-9-paidion-synelifthi-os-ypopti-gia-dipli-vrefoktonia/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/synantisi-me-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro-tha-exoun-simera-o-ntonalnt-kai-i-melania-tramp/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/12/world/gallia-mitera-9-paidion-synelifthi-gia-dipli-vrefoktonia-neogennita-vrethikan-se-katapsykti/"
+            "url": "https://www.tovima.gr/2026/02/13/world/ipa-o-tramp-tha-synantisei-tous-stratiotikous-pou-aixmalotisan-ton-nikolas-madouro/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4073710/mitera-ennea-pedion-sinelifthi-os-ipopti-gia-ton-fono-dio-vrefon-stin-gallia.html"
+            "url": "https://www.news.gr/kosmos/article/4074084/o-ntonalnt-trab-tha-sinantithi-me-tous-stratiotikous-pou-echmalotisan-ton-anatrapenta-proedro-madouro.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια σοβαρή ποινική υπόθεση που σχετίζεται με την ασφάλεια των παιδιών και προκαλεί σοκ στην κοινότητα.",
+        "categoryReason": "Η είδηση ασχολείται με μια σημαντική στρατιωτική επιχείρηση και τις πολιτικές συνέπειές της, καθώς περιλαμβάνει τη σύλληψη ενός πρώην προεδρικού ηγέτη, γεγονότα που σχετίζονται με διεθνείς σχέσεις και στρατηγική ασφάλειας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-12T15:37:00.000Z"
-      },
-      {
-        "id": "250d4ab5366f",
-        "title": "Κεφαλονιά: Τρεις συλλήψεις για διαρρήξεις κατοικιών – Η λεία τους υπερβαίνει τις 70.000 ευρώ",
-        "simpleTitle": "Τρεις άνθρωποι συνελήφθησαν στην Κεφαλονιά για διαρρήξεις",
-        "simpleText": "Στην Κεφαλονιά, τρεις άνθρωποι συνελήφθησαν επειδή έκλεβαν από σπίτια. Οι κλοπές αυτές είχαν μεγάλη αξία, πάνω από 70.000 ευρώ. Ανάμεσα στους συλληφθέντες είναι και ένας ανήλικος. Υπάρχει και η μητέρα του, που κατηγορείται για παραμέληση, δηλαδή ότι δεν πρόσεχε το παιδί της. Οι αρχές έχουν ξεκινήσει έρευνα για την υπόθεση και οι κατηγορίες είναι σοβαρές. Αυτό είναι σημαντικό για την ασφάλεια στην περιοχή. Οι κάτοικοι πρέπει να είναι προσεκτικοί και να ασφαλίζουν τα σπίτια τους.",
-        "sourceName": "Kathimerini, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/society/564074515/kefalonia-treis-syllipseis-gia-diarrixeis-katoikion-i-leia-toys-ypervainei-tis-70-000-eyro/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564074515/kefalonia-treis-syllipseis-gia-diarrixeis-katoikion-i-leia-toys-ypervainei-tis-70-000-eyro/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4073700/tris-sillipsis-gia-diarrixis-katikion-stin-kefalonia-i-lia-tous-iperveni-tis-70-000-evro.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές περιστάσεις που περιλαμβάνουν διαρρήξεις κατοικιών και μεγάλες αξίες κλοπών, καθώς και νομικές συνέπειες για τους συλληφθέντες.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T15:18:10.000Z"
-      },
-      {
-        "id": "601700c9ab33",
-        "title": "Βόρεια Κορέα: Ο Κιμ Γιονγκ Ουν επέλεξε τη 13χρονη κόρη του για τη διαδοχή του",
-        "simpleTitle": "Ο Κιμ Γιονγκ Ουν διόρισε την κόρη του για να τον διαδεχθεί",
-        "simpleText": "Ο ηγέτης της Βόρειας Κορέας, Κιμ Γιονγκ Ουν, ανακοίνωσε ότι η 13χρονη κόρη του, Κιμ Τζου Ε, θα είναι η διάδοχός του. Η ανακοίνωση έγινε την Πέμπτη και επιβεβαιώθηκε από την Υπηρεσία Πληροφοριών της Νότιας Κορέας. Λίγα πράγματα γνωρίζουμε για την Τζου Ε, εκτός από το ότι έχει εμφανιστεί σε δημόσιες εκδηλώσεις με τον πατέρα της. Αυτό την καθιστά μία από τις πρώτες γυναίκες που μπορεί να ηγηθούν της χώρας στην ιστορία της Βόρειας Κορέας.\n\nΗ Τζου Ε μπορεί να συμμετάσχει στο σημαντικό συνέδριο του κόμματος, που θα γίνει αργότερα αυτό το μήνα. Οι ειδικοί πιστεύουν ότι είναι μια στρατηγική κίνηση της οικογένειας Κιμ για να προετοιμάσει τη νεαρή κοπέλα για τον ηγετικό ρόλο. Όλες οι εξελίξεις είναι σημαντικές για το μέλλον της χώρας. Δεν γνωρίζουμε ακόμα πώς θα αντιδράσουν οι άνθρωποι σε αυτή την αλλαγή στην ηγεσία.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/voreia-korea-o-kim-giongk-oun-epelekse-ti-13xroni-kori-tou-gia-ti-diadoxi-tou/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/voreia-korea-o-kim-giongk-oun-epelekse-ti-13xroni-kori-tou-gia-ti-diadoxi-tou/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4073685/o-kim-giongk-oun-epelexe-ti-13chroni-kori-tou-gia-ti-diadochi-tou-stin-igesia-tis-vorias-koreas.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την πολιτική διαδοχή στη Βόρεια Κορέα και είναι συνδεδεμένη με σοβαρά ζητήματα εξουσίας και ηγεσίας, καθώς και τις επιπτώσεις στο μέλλον της χώρας.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T15:00:22.000Z"
-      },
-      {
-        "id": "94d2ace11229",
-        "title": "ΜΕΒΓΑΛ: Ενημέρωση σχετικά με το εργατικό ατύχημα στις εγκαταστάσεις της",
-        "simpleTitle": "Ατύχημα σε εργασία της ΜΕΒΓΑΛ",
-        "simpleText": "Στην εταιρεία ΜΕΒΓΑΛ συνέβη ένα εργατικό ατύχημα. Ένας εργαζόμενος υπέστη κάταγμα στα πόδια του. Η κατάσταση του είναι καλή και φαίνεται να αναρρώνει. Είναι σημαντικό ότι αναμένεται να ανακτήσει την υγεία του πλήρως. Η εταιρεία θέλει να ενημερώσει ότι παρακολουθεί την κατάσταση του εργαζομένου για να είναι σίγουρη ότι είναι ασφαλής. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες για το τι έγινε ακριβώς.",
-        "sourceName": "Kathimerini, News.gr",
-        "sourceUrl": "https://www.kathimerini.gr/society/564074473/mevgal-enimerosi-schetika-me-to-ergatiko-atychima-stis-egkatastaseis-tis/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564074473/mevgal-enimerosi-schetika-me-to-ergatiko-atychima-stis-egkatastaseis-tis/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4073675/anakinosi-tis-mevgal-gia-to-ergatiko-atichima-stis-egkatastasis-tis.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό εργατικό ατύχημα με τραυματισμό εργαζόμενου, γεγονός που επηρεάζει θέματα ασφάλειας και υγείας στην εργασία.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T14:41:31.000Z"
-      },
-      {
-        "id": "b599a7d12a8f",
-        "title": "ΑΣΕΠ: Προσωρινά αποτελέσματα για 123 θέσεις στο ΕΑΠ – Πότε ξεκινούν οι ενστάσεις",
-        "simpleTitle": "ΑΣΕΠ: Ενημέρωση για προσωρινά αποτελέσματα και ενστάσεις",
-        "simpleText": "Το ΑΣΕΠ ανακοίνωσε τα προσωρινά αποτελέσματα για 123 θέσεις στο Ελληνικό Ανοικτό Πανεπιστήμιο. Οι υποψήφιοι που δεν γίνονται δεκτοί θα βλέπουν μόνο τον αριθμό μητρώου τους. Ανήκουν σε ειδικές κατηγορίες, αλλά είναι στους πίνακες χωρίς επισήμανση. Οι υποψήφιοι μπορούν να κάνουν ενστάσεις από την Παρασκευή 13 Φεβρουαρίου 2026 έως την Τρίτη 24 Φεβρουαρίου 2026. Οι ενστάσεις γίνονται μόνο μέσω διαδικτύου και απαιτούν παράβολο 20 ευρώ, αλλιώς δεν θα εξετάζονται. Αυτή η διαδικασία είναι σημαντική για τους υποψηφίους που θέλουν να αμφισβητήσουν τα αποτελέσματα.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/asep-prosorina-apotelesmata-gia-123-theseis-sto-eap-pote-ksekinoun-oi-enstaseis/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/asep-prosorina-apotelesmata-gia-123-theseis-sto-eap-pote-ksekinoun-oi-enstaseis/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4073658/asep-prosorina-apotelesmata-gia-123-thesis-sto-elliniko-anikto-panepistimio.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τα προσωρινά αποτελέσματα για θέσεις εργασίας στο Ελληνικό Ανοικτό Πανεπιστήμιο, γεγονός που έχει σοβαρές επιπτώσεις για τους υποψηφίους, περιλαμβάνοντας διαδικασίες ενστάσεων και νομικά ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T14:23:32.000Z"
+        "publishedAt": "2026-02-13T06:10:59.000Z"
       }
     ],
     "happy": [
       {
+        "id": "2951116448e0",
+        "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
+        "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+        "simpleText": "Οι δουλειές στο σπίτι είναι σημαντικές για τα παιδιά. Όταν συμμετέχουν, μαθαίνουν να είναι πιο αυτόνομα και να έχουν αυτοπεποίθηση. Οι απλές δραστηριότητες, όπως το σκούπισμα ή το στρώσιμο του κρεβατιού, δεν είναι βαρετές, αλλά βοηθούν τα παιδιά να αποκτούν νέες δεξιότητες. Μέσα από αυτές τις δουλειές, καταλαβαίνουν τι σημαίνει ευθύνη και πώς να φροντίζουν το σπίτι. Αυτό είναι πολύ καλό για την ανάπτυξή τους. Είναι σημαντικό να θυμόμαστε ότι η μάθηση γίνεται μέσα από την καθημερινή ζωή.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση αναφέρεται στις θετικές επιπτώσεις που έχουν οι απλές δουλειές στο σπίτι στην αυτονομία και αυτοπεποίθηση των παιδιών, προάγοντας τη μάθηση και την υπευθυνότητα με ευχάριστο τρόπο.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-12T19:29:17.000Z"
+      },
+      {
         "id": "77b983e2cabd",
         "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-        "simpleTitle": "Καλή είδηση για τη λίμνη Μόρνου μετά τη βροχή",
-        "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, έχει αυξήσει τη στάθμη του νερού της. Αυτό έγινε μετά από τις πρόσφατες βροχές. Η εικόνα αυτή δίνει ελπίδα ότι τα αποθέματα νερού θα βελτιωθούν. Οι καλές καιρικές συνθήκες βοηθούν πολύ. Οι κάτοικοι αισθάνονται ανακούφιση, καθώς το νερό είναι πολύ σημαντικό για όλους. Δεν ξέρουμε ακόμα αν η βροχή θα συνεχιστεί ή πόσο θα διαρκέσει αυτή η καλή κατάσταση.",
+        "simpleTitle": "Καλή εικόνα από τη λίμνη Μόρνου μετά τις βροχές",
+        "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, δείχνει καλύτερη κατάσταση τώρα. Μετά τις βροχές, η στάθμη του νερού έχει αυξηθεί. Αυτό δίνει ελπίδα ότι τα αποθέματα νερού θα μπορέσουν να βελτιωθούν. Είναι καλό να έχουμε νερό, ειδικά μετά από δύσκολες περιόδους. Χρειάζεται προσοχή όμως, για να διατηρήσουμε τα νερά μας καθαρά και πολλά.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
         "sourceDomains": [
@@ -734,88 +767,42 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε μια θετική εξέλιξη για τη στάθμη του νερού στη λίμνη Μόρνου μετά από βροχοπτώσεις, προσφέροντας ελπίδα και ανακούφιση στους κατοίκους σχετικά με τα αποθέματα νερού.",
+        "categoryReason": "Η είδηση αφορά την αύξηση της στάθμης νερού στη λίμνη Μόρνου, η οποία είναι θετική και δείχνει αισιοδοξία για την αποκατάσταση των αποθεμάτων νερού, γεγονός που προκαλεί χαρούμενα συναισθήματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-12T13:22:00.000Z"
-      },
-      {
-        "id": "8a1f0ba56c5a",
-        "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-        "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
-        "simpleText": "Η Τσικνοπέμπτη είναι μια σημαντική γιορτή στην Ελλάδα. Αυτή η ημέρα είναι γεμάτη με μυρωδιές από κρέας που ψήνεται και κόσμο που μαζεύεται γύρω από κάρβουνα. Γιορτάζεται τη Θεσσαλονίκη και σε άλλες πόλεις, πριν την Καθαρά Δευτέρα. Οι άνθρωποι βγαίνουν έξω, περνούν χρόνο με φίλους και τρώνε νόστιμα φαγητά. Είναι μια μέρα γιορτής και χαράς. Σήμερα, η Τσικνοπέμπτη θυμίζει τη σημαντικότητα της διατροφής και της παρέας, αλλά και την παραδοσιακή κουλτούρα μας.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή γεμάτη χαρά και παρέα, που εστιάζει σε θετικές στιγμές με φαγητό και φίλους, κάνοντάς την να ανήκει στις χαρούμενες ειδήσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T09:54:52.000Z"
-      },
-      {
-        "id": "86be816312f2",
-        "title": "Τι μαθαίνει ένα παιδί όταν βαριέται",
-        "simpleTitle": "Τι μαθαίνουν τα παιδιά από τη βαρεμάρα",
-        "simpleText": "Η βαρεμάρα μπορεί να φαίνεται κακή, αλλά έχει και πλεονεκτήματα. Όταν ένα παιδί βαριέται, αποκτά περισσότερη φαντασία. Μπορεί να σκεφτεί νέες ιδέες και να δημιουργήσει παιχνίδια μόνο του. Αν οι γονείς γεμίζουν συνέχεια το πρόγραμμα του παιδιού, δεν του δίνουν χρόνο να εξερευνήσει. Έτσι, η βαρεμάρα μπορεί να γίνει ευκαιρία για μάθηση και ανάπτυξη. Είναι σημαντικό να θυμόμαστε ότι μερικές φορές το κενό μπορεί να βοηθήσει τα παιδιά να γίνουν πιο δημιουργικά και ανεξάρτητα.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31904-ti-mathainei-ena-paidi-otan-varietai/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση τονίζει τα θετικά της βαρεμάρας, υποστηρίζοντας ότι μπορεί να ενισχύσει τη φαντασία και την ανεξαρτησία των παιδιών, κάτι που είναι χαρούμενο και ενθαρρυντικό.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-09T18:05:00.000Z"
       }
     ],
     "sports": [
       {
-        "id": "eb0f9265a975",
-        "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Πατινάζ Ταχύτητας-5.000 Μ (Γ) (17:30, ΕΡΤ2 ΣΠΟΡ)",
-        "simpleTitle": "Ζωντανή Μετάδοση Χειμερινών Ολυμπιακών Αγώνων στο Πατινάζ",
-        "simpleText": "Σήμερα, στις 17:30, μπορείτε να παρακολουθήσετε live το Πατινάζ Ταχύτητας για τις γυναίκες, με απόσταση 5.000 μέτρων. Αυτή η εκδήλωση είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων του 2026 στο Μιλάνο και την Κορτίνα. Η μετάδοση θα γίνει μέσω του καναλιού ΕΡΤ2 ΣΠΟΡ και μπορείτε να την δείτε και διαδικτυακά από το ERTFLIX. Είναι μια ευκαιρία να στηρίξουμε τις αθλήτριες και να δούμε σπουδαίους αγώνες.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-patinaz-taxytitas-5-000-m-g-17-30-ert2-spor/",
+        "id": "c55e6687b9e8",
+        "title": "Ολυμπιακός-Ερυθρός Αστέρας 92-86: Θρύλος από ατσάλι με σπουδαία νίκη",
+        "simpleTitle": "Νίκη του Ολυμπιακού με 92-86 πάνω στον Ερυθρό Αστέρα",
+        "simpleText": "Ο Ολυμπιακός κέρδισε τον Ερυθρό Αστέρα με σκορ 92-86 σε ένα αγώνα μπάσκετ. Η ομάδα ήταν μπροστά σε όλη τη διάρκεια του παιχνιδιού. Ο Ντόρσεϊ και ο Φουρνιέ ήταν οι καλύτεροι παίκτες με 17 και 18 πόντους. Στο τέλος του αγώνα, ο Βεζένκοφ έβαλε ένα σημαντικό τρίποντο. Αυτή η νίκη είναι σημαντική για τον Ολυμπιακό και τους θαυμαστές του.",
+        "sourceName": "TO BHMA",
+        "sourceUrl": "https://www.tovima.gr/2026/02/12/sports/olympiakos-erythros-asteras-92-86-thrylos-apo-atsali-me-spoudaia-niki/",
         "sourceDomains": [
-          "ertnews.gr"
+          "tovima.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-patinaz-taxytitas-5-000-m-g-17-30-ert2-spor/"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/12/sports/olympiakos-erythros-asteras-92-86-thrylos-apo-atsali-me-spoudaia-niki/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αναφέρεται σε συγκεκριμένο αγώνα των Χειμερινών Ολυμπιακών Αγώνων, οπότε ανήκει στην κατηγορία αθλητικών γεγονότων. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν αγώνα μπάσκετ μεταξύ Ολυμπιακού και Ερυθρού Αστέρα, με έμφαση σε παίκτες και σκορ, κάτι που ταιριάζει στην κατηγορία του αθλητισμού. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-        "publishedAt": "2026-02-12T15:20:00.000Z"
+        "videoUrl": null,
+        "publishedAt": "2026-02-12T20:42:05.000Z"
       },
       {
         "id": "0bda0d53d9d5",
         "title": "EuroLeague Final Four 2026: Τα εισιτήρια στην Αθήνα σπάνε κάθε ρεκόρ, sold out η πρώτη φάση",
-        "simpleTitle": "Ρεκόρ πωλήσεων εισιτηρίων για το Final Four 2026 στην Αθήνα",
-        "simpleText": "Το Final Four της EuroLeague θα γίνει στην Αθήνα το 2026. Οι φίλαθλοι περιμένουν με ανυπομονησία αυτή την εκδήλωση. Οι προπωλήσεις των εισιτηρίων ξεκίνησαν στις 10 Φεβρουαρίου. Σχεδόν αμέσως, το σύστημα που τα πουλάει σταμάτησε να λειτουργεί λόγω της μεγάλης ζήτησης. Αυτό δείχνει πόσο πολύ θέλουν οι φίλαθλοι να παρακολουθήσουν το παιχνίδι. Είναι σημαντικό, γιατί είναι μια μεγάλη ευκαιρία για την πόλη και τον αθλητισμό. Οι άνθρωποι που ενδιαφέρονται να αγοράσουν εισιτήρια θα πρέπει να είναι υπομονετικοί. Δεν έχει ανακοινωθεί πότε θα ανοίξει η επόμενη φάση πωλήσεων.",
+        "simpleTitle": "Εισιτήρια EuroLeague 2026: Πωλήσεις στην Αθήνα με μεγάλη ζήτηση",
+        "simpleText": "Η EuroLeague Final Four για το 2026 θα γίνει στην Αθήνα. Οι φίλαθλοι περιμένουν με ανυπομονησία αυτή την εκδήλωση. Εδώ και λίγες ημέρες, άρχισε η πώληση εισιτηρίων σε φάσεις. Η πρώτη φάση ξεκίνησε στις 10 Φεβρουαρίου και πωλήθηκαν όλα τα εισιτήρια πολύ γρήγορα. Αυτό δείχνει πόσο ενδιαφέρον έχει ο κόσμος. Οι φίλαθλοι είναι ενθουσιασμένοι, αλλά και ανήσυχοι λόγω της μεγάλης ανταγωνιστικότητας. Δεν έχει ανακοινωθεί πότε θα βγουν άλλα εισιτήρια ή πώς θα συνεχιστεί η πώληση.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31968-euroleague-eisitiria-athina-final-four-2026-times/",
         "sourceDomains": [
@@ -828,9 +815,9 @@
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά το EuroLeague Final Four, ένα σημαντικό αθλητικό γεγονός, και περιγράφει την αυξημένη ζήτηση για τα εισιτήρια, κάτι που σχετίζεται άμεσα με τον αθλητισμό και τους φιλάθλους.",
+        "categoryReason": "Η είδηση αφορά την πώληση εισιτηρίων για το EuroLeague Final Four, αναδεικνύοντας τη δυναμική και τον ενθουσιασμό γύρω από έναν αθλητικό αγώνα.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g6d531c52d931702f977d178627c0fcaf214b995b073e780f8c93a58139c300b88d7c933dd8285bfa5e40e06923d777d8a5ff7cafa20fe863b186194e85ff8f3a_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g5fbf21307eb96eac1b31070d2c0e5d140faf398748de2f132d296646f8d8ff0166453774a6b956b468f6910ae764e836ac9f53833e450dd11a0b72c7b0abc63a_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-11T09:53:08.000Z"
       }
@@ -839,10 +826,61 @@
     "culture": [],
     "fun": [
       {
+        "id": "188634aad522",
+        "title": "Eurovision: Απόψε ο δεύτερος ελληνικός ημιτελικός του Sing for Greece 2026",
+        "simpleTitle": "Απόψε είναι ο δεύτερος ημιτελικός για τη Eurovision 2026",
+        "simpleText": "Απόψε, στις 21:00, γίνεται ο δεύτερος ημιτελικός του διαγωνισμού \"Sing for Greece 2026\". Η εκδήλωση θα μεταδοθεί από την ΕΡΤ1. Σε αυτή τη βραδιά, 14 καλλιτέχνες θα παρουσιάσουν τα τραγούδια τους για να κερδίσουν μια θέση στον τελικό την Κυριακή 15 Φεβρουαρίου. Παρουσιαστές είναι ο Γιώργος Καπουτζίδης, η Μπέττυ Μαγγίρα και η Κατερίνα Βρανά.\n\nΟι συμμετοχές που θα δούμε απόψε είναι 24 συνολικά. Το κοινό θα ψηφίσει για να αποφασίσει ποιο τραγούδι θα προκριθεί. Είναι πολύ σημαντικό γιατί οι νικητές θα εκπροσωπήσουν την Ελλάδα στη Eurovision. Αν παρακολουθείτε, να είστε έτοιμοι να ψηφίσετε!",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/13/lifearts/culture/eurovision-apopse-o-deyteros-ellinikos-imitelikos-tou-sing-for-greece-2026/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/13/lifearts/culture/eurovision-apopse-o-deyteros-ellinikos-imitelikos-tou-sing-for-greece-2026/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/media/article/4074115/eurovision-simera-o-v-imitelikos-tou-sing-for-greece.html"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η είδηση αφορά τον δεύτερο ημιτελικό του διαγωνισμού 'Sing for Greece 2026', που είναι συνδεδεμένος με τη Eurovision, ένα δημοφιλές τηλεοπτικό γεγονός που περιλαμβάνει καλλιτεχνικές συμμετοχές και παρουσιάσεις.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gf52999741959321c312364aae48ed847b9d86cb51504b66b4be5b850b8bacd5869408808b44e80ac6d7a10aa8bdf08e30f9d016c158e89e7d4fadd659fa4104d_1280.jpg",
+        "videoUrl": "https://www.youtube.com/embed/xSfYFcX3Nso",
+        "publishedAt": "2026-02-13T07:09:43.000Z"
+      },
+      {
+        "id": "8a1f0ba56c5a",
+        "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
+        "simpleTitle": "Τι είναι η Τσικνοπέμπτη και γιατί γιορτάζεται",
+        "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή μέρα στην Ελλάδα. Οι άνθρωποι γιορτάζουν με ψητά φαγητά και όμορφες μυρωδιές από κάρβουνα. Αυτή η ημέρα έχει μια ειδική σημασία. Είναι μια παράδοση που συνδέεται με τη χαρά και τη συμμετοχή των ανθρώπων. Σήμερα, η Τσικνοπέμπτη μας θυμίζει τη σημαντικότητα της γιορτής, ακόμα και σε καιρούς που οι άνθρωποι καταναλώνουν πολλά. Οι παρέες συγκεντρώνονται και περνούν ευχάριστες στιγμές μαζί. Είναι μια ευκαιρία να γιορτάσουμε την ομορφιά της ζωής με τα αγαπημένα μας πρόσωπα.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που συνδέεται με ευχάριστες στιγμές, φαγητό και παρέες, κάνοντάς την να ταιριάζει στην κατηγορία της διασκέδασης.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-12T09:54:52.000Z"
+      },
+      {
         "id": "ac56b559fdc4",
         "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
-        "simpleTitle": "BAFTA και Όσκαρ: Οι βασικές διαφορές",
-        "simpleText": "Ο κινηματογράφος είναι μια τέχνη που μιλά σε όλους μας. Κάθε χρόνο, πολλοί άνθρωποι περιμένουν με ανυπομονησία να δουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα βραβεία τιμούν τους καλύτερους δημιουργούς και ηθοποιούς. Τα BAFTA δίνονται στην Αγγλία, ενώ τα Όσκαρ στην Αμερική. Οι διαφορές τους δείχνουν πώς εκτιμά ο κόσμος τον κινηματογράφο σε διάφορες χώρες. Αυτή η γιορτή είναι σημαντική γιατί επισημαίνει την αξία των ταινιών και τους ανθρώπους που εργάζονται πίσω από αυτές.",
+        "simpleTitle": "Διαφορές μεταξύ BAFTA και Όσκαρ",
+        "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα βραβεία γιορτάζουν τους καλύτερους δημιουργούς ταινιών. Ο κινηματογράφος μιλά σε όλους μας, ενώ οι τελετές αυτές μας ενώνουν με τις ιστορίες τους. Τα BAFTA είναι πιο γνωστά στο Ηνωμένο Βασίλειο, ενώ τα Όσκαρ είναι διάσημα παγκοσμίως. Οι διαφορές τους μας δείχνουν πώς οι άνθρωποι αντιλαμβάνονται τις ταινίες σε διάφορες χώρες. Αυτές οι γιορτές συνεχίζουν να είναι σημαντικές για τη βιομηχανία του κινηματογράφου.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
         "sourceDomains": [
@@ -855,7 +893,7 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Το άρθρο συγκρίνει δύο κορυφαία κινηματογραφικά βραβεία, τα BAFTA και τα Όσκαρ, αναλύοντας τη σημασία τους και τις διαφορές τους, γεγονός που το εντάσσει στην κατηγορία του κινηματογράφου και των σειρών.",
+        "categoryReason": "Η είδηση αναφέρεται στις διαφορές μεταξύ των βραβείων BAFTA και Όσκαρ, που είναι άμεσα συνδεδεμένα με τον κινηματογράφο και την αναγνώριση ταινιών και δημιουργών.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
