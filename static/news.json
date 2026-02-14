@@ -1,41 +1,163 @@
 {
-  "generatedAt": "2026-02-14T07:55:39.333Z",
+  "generatedAt": "2026-02-14T15:49:52.446Z",
   "articles": [
     {
-      "id": "101877ffdbc0",
-      "title": "Βράχος απειλεί να πέσει σε σπίτια στο Κατάκολο – Κατέρρευσε πρόσοψη σπιτιού στη Μεσσήνη από την έντονη βροχόπτωση",
-      "simpleTitle": "Κίνδυνος από βράχο στο Κατάκολο – Κατέρρευσε τοίχος σε σπίτι στη Μεσσήνη",
-      "simpleText": "Στην Πελοπόννησο υπάρχει μεγάλη ανησυχία λόγω της κακοκαιρίας. Στο Κατάκολο, ένας μεγάλος βράχος απειλεί να πέσει σε σπίτια. Οι αρχές έχουν εκκενώσει δέκα σπίτια για να προστατεύσουν τους κατοίκους. Ο δρόμος για το Κατάκολο είναι κλειστός, γιατί το έδαφος είναι ασταθές. Στη Μεσσήνη, ένα τοίχος σπιτιού κατέρρευσε λόγω των έντονων βροχών. Από τύχη, δεν υπήρξαν τραυματισμοί, γιατί οι ένοικοι δεν ήταν μέσα τη στιγμή της κατάρρευσης. Η περιοχή είναι αποκλεισμένη για λόγους ασφαλείας, μέχρι να γίνουν οι αναγκαίες εργασίες.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/vraxos-apeilei-na-pesei-se-spitia-sto-katakolo-katerreyse-prosopsi-spitiou-sti-messini-apo-tin-entoni-vroxoptosi/",
+      "id": "fb6110e58abd",
+      "title": "Μαρκ Ρούτε: Η Ρωσία δεν θα επιδιώξει τώρα να επιτεθεί σε χώρα – μέλος του ΝΑΤΟ",
+      "simpleTitle": "Ρούτε: Η Ρωσία δεν θα επιτεθεί σε κράτος του ΝΑΤΟ τώρα",
+      "simpleText": "Ο Μαρκ Ρούτε, γενικός γραμματέας του ΝΑΤΟ, δήλωσε ότι η Ρωσία έχει χάσει πολλούς στρατιώτες στην Ουκρανία. Εκτιμά ότι τους τελευταίους δύο μήνες σκοτώθηκαν περίπου 65.000 στρατιώτες. Σε συζήτηση στη Διάσκεψη του Μονάχου για την Ασφάλεια, είπε ότι το ΝΑΤΟ είναι τόσο ισχυρό που η Ρωσία δεν θα επιδιώξει να επιτεθεί σε κάποια χώρα μέλος του τώρα. Ο Ρούτε τόνισε ότι είναι σημαντικό να παραμείνει ισχυρό το ΝΑΤΟ και τα επόμενα χρόνια. Ακόμη, είπε ότι κανείς στην Ευρώπη δεν θέλει να αντικαταστήσει την προστασία που παρέχουν οι ΗΠΑ.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/mark-route-i-rosia-den-tha-epidioksei-tora-na-epitethei-se-xora-melos-tou-nato/",
       "sourceDomains": [
         "ertnews.gr",
-        "tanea.gr"
+        "tanea.gr",
+        "news.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/vraxos-apeilei-na-pesei-se-spitia-sto-katakolo-katerreyse-prosopsi-spitiou-sti-messini-apo-tin-entoni-vroxoptosi/"
+          "url": "https://www.ertnews.gr/eidiseis/diethni/mark-route-i-rosia-den-tha-epidioksei-tora-na-epitethei-se-xora-melos-tou-nato/"
         },
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/14/greece/messini-katerreyse-prosopsi-spitiou-apo-tin-entoni-vroxoptosi-den-ypirksan-traymatismoi/"
+          "url": "https://www.tanea.gr/2026/02/14/world/diaskepsi-monaxoy-royte-to-nato-einai-arketa-isxyro-i-rosia-den-tha-epidioksei-na-epitethe/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4075260/route-to-nato-ine-arketa-ischiro-oste-i-rosia-den-tha-epidioxi-tora-na-epitethi-se-chora-melos-tou.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα ασφάλειας και υποδομών λόγω των ακραίων καιρικών φαινομένων, όπως η κατάρρευση κτιρίων και ο κίνδυνος κατολισθήσεων, που επηρεάζουν την υγεία και τη ζωή των κατοίκων.",
+      "categoryReason": "Η είδηση αναφέρεται σε στρατηγικές δηλώσεις του γενικού γραμματέα του ΝΑΤΟ σχετικά με τις στρατιωτικές απώλειες της Ρωσίας και την ασφάλεια των χωρών μελών του ΝΑΤΟ, κάτι που αφορά σοβαρά ζητήματα πολιτικής και ασφάλειας.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260214-SK-katakolo.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260214-SK-katakolo.jpg",
-      "publishedAt": "2026-02-14T07:25:50.000Z"
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T15:31:24.000Z"
     },
     {
-      "id": "2342629fb6a6",
-      "title": "Καιρός: Υψηλές θερμοκρασίες με νοτιάδες και βροχές",
-      "simpleTitle": "Ζέστη με βροχές και σκόνη από την Αφρική",
-      "simpleText": "Στις επόμενες μέρες, ο καιρός θα είναι ζεστός με υψηλές θερμοκρασίες. Η θερμοκρασία θα φτάσει τους 16 ως 20 βαθμούς Κελσίου, κυρίως στην ανατολική και τη νότια Ελλάδα. Θα υπάρχουν και βροχές, ιδιαίτερα στα δυτικά και βόρεια μέρη της χώρας. Επίσης, θα έχουμε και μεταφορά σκόνης από την Αφρική, που μπορεί να κάνει την ατμόσφαιρα πιο θολή. Οι ισχυροί άνεμοι θα φτάσουν μέχρι τα 9 μποφόρ και πρέπει να είμαστε προσεκτικοί, ιδίως στην Ανατολική Μακεδονία και τη Θράκη. Στη συνέχεια, η θερμοκρασία θα αρχίσει να πέφτει και ίσως έχουμε χιόνια σε ορεινές περιοχές.",
+      "id": "abf0778ea1c6",
+      "title": "Ιράν: Εκκληση του γιου του τελευταίου σάχη, για αμερικανική στρατιωτική επέμβαση",
+      "simpleTitle": "Έκκληση για αμερικανική παρέμβαση στο Ιράν",
+      "simpleText": "Ο Ρεζά Παχλαβί, γιος του τελευταίου σάχη του Ιράν, ζητάει αμερικανική στρατιωτική παρέμβαση στη χώρα του. Την δήλωση αυτή έκανε σε συνέντευξή του και είπε πως μια τέτοια κίνηση θα μπορούσε να σώσει ζωές. Ο Παχλαβί τόνισε ότι η ιρανική κυβέρνηση είναι σε δύσκολη θέση και είναι πιθανό να καταρρεύσει. Η δήλωση έγινε στη Διάσκεψη του Μονάχου για την Ασφάλεια, όπου δεν συμμετείχαν εκπρόσωποι της ιρανικής κυβέρνησης.\n\nΗ κατάσταση στο Ιράν είναι τεταμένη, με πολλές διαδηλώσεις. Οι πολίτες αγωνίζονται για τα δικαιώματά τους και η κυβέρνηση προσπαθεί να τους αποτρέψει με συλλήψεις. Ο Παχλαβί ελπίζει ότι η παρέμβαση μπορεί να βοηθήσει τους ανθρώπους να συνεχίσουν τον αγώνα τους.",
+      "sourceName": "Kathimerini, TA NEA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564079162/iran-ekklisi-toy-gioy-toy-teleytaioy-sachi-gia-amerikaniki-stratiotiki-epemvasi/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564079162/iran-ekklisi-toy-gioy-toy-teleytaioy-sachi-gia-amerikaniki-stratiotiki-epemvasi/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/14/world/iran-o-reza-paxlavi-o-gios-toy-teleytaioy-saxi-kanei-ekklisi-gia-amerikaniki-stratiotiki-e/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρά πολιτικά ζητήματα στο Ιράν, περιλαμβάνει εκκλήσεις για στρατιωτική παρέμβαση και αναφέρεται σε κοινωνικές αναταραχές και παραβιάσεις δικαιωμάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T15:17:17.000Z"
+    },
+    {
+      "id": "950ac88a8d24",
+      "title": "Συνελήφθη εκ νέου ο ιδιοκτήτης της «Βιολάντα» μετά την αναβάθμιση του κατηγορητηρίου",
+      "simpleTitle": "Ξανά συνελήφθη ο ιδιοκτήτης της «Βιολάντα» λόγω νέων κατηγοριών",
+      "simpleText": "Ο ιδιοκτήτης της επιχείρησης Βιολάντα συνελήφθη και πάλι από τις Αρχές. Αυτό έγινε γιατί η κατηγορία που του είχε απαγγελθεί άλλαξε σε πιο σοβαρή. Πριν ήταν ανθρωποκτονία από αμέλεια, αλλά τώρα είναι ενδεχόμενο δόλου. Αυτό σημαίνει ότι μπορεί να υπήρξαν λάθη που δεν παρατηρήθηκαν νωρίτερα. Η αλλαγή αυτή είναι σημαντική, γιατί σημαίνει ότι η υπόθεση εξετάζεται πιο σοβαρά. Δεν γνωρίζουμε ακόμα τι θα γίνει στη συνέχεια.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/society/564079123/synelifthi-ek-neoy-o-idioktitis-tis-violanta-meta-tin-anavathmisi-toy-katigoritirioy/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564079123/synelifthi-ek-neoy-o-idioktitis-tis-violanta-meta-tin-anavathmisi-toy-katigoritirioy/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4075263/sinelifthi-o-idioktitis-tis-violanta-meta-tin-anavathmisi-tou-katigoritiriou.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρή νομική υπόθεση με διαδικασίες ποινικού δικαίου και αναβάθμιση κατηγορίας, που σχετίζεται με την ασφάλεια και τη δικαιοσύνη.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T14:58:16.000Z"
+    },
+    {
+      "id": "d1f8a984127b",
+      "title": "Αποκαλύψεις για τον θάνατο του Ναβάλνι: Δηλητηριάστηκε με σπάνια τοξίνη βατράχου",
+      "simpleTitle": "Ο Ναβάλνι και η τοξίνη από βάτραχο",
+      "simpleText": "Ο Αλεξέι Ναβάλνι δηλητηριάστηκε με μια σπάνια τοξίνη από βάτραχο της Νότιας Αμερικής. Αυτό είναι σημαντικό γιατί οι χώρες Βρετανία, Γαλλία, Γερμανία, Σουηδία και Ολλανδία πιστεύουν ότι η Ρωσία χρησιμοποίησε επικίνδυνα χημικά όπλα. Η ανακοίνωση για τον θάνατό του έγινε στη Διάσκεψη του Μονάχου. Οι κυβερνήσεις αυτές καταγγέλλουν τη Ρωσία για τις πράξεις της, και αυτό έχει σοβαρές συνέπειες για τις διεθνείς σχέσεις. Δεν έχει ανακοινωθεί τι θα γίνει στη συνέχεια, αλλά όλοι παρακολουθούν την κατάσταση για να δουν πώς θα εξελιχθεί.",
+      "sourceName": "TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2026/02/14/world/apokalypseis-gia-ton-thanato-tou-navalni-dilitiriastike-me-spania-toksini-vatraxou/",
+      "sourceDomains": [
+        "tovima.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/14/world/apokalypseis-gia-ton-thanato-tou-navalni-dilitiriastike-me-spania-toksini-vatraxou/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/o-navalni-dilitiriastike-me-toksini-vatraxou-44343312648"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές καταγγελίες για τη χρήση χημικών όπλων από τη Ρωσία, που επηρεάζουν τις διεθνείς σχέσεις και ασφάλεια.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T14:54:27.000Z"
+    },
+    {
+      "id": "95f241267bb7",
+      "title": "Χαλκιδική: Τροχαίο δυστύχημα στη Νέα Καλλικράτεια- Νεκρός 75χρονος",
+      "simpleTitle": "Τροχαίο στη Χαλκιδική με νεκρό 75χρονο",
+      "simpleText": "Σήμερα, 14 Φεβρουαρίου, συνέβη ένα σοβαρό τροχαίο στη Νέα Καλλικράτεια Χαλκιδικής. Δύο αυτοκίνητα συγκρούστηκαν το πρωί, γύρω στις 8:20. Ο 75χρονος οδηγός δεν κατάφερε να επιβιώσει. Ο άλλος οδηγός, ένας 31χρονος από την Αλβανία, τραυματίστηκε και πήγε στο νοσοκομείο για βοήθεια.\n\nΟι αστυνομικοί ερευνούν το ατύχημα για να καταλάβουν τι ακριβώς συνέβη. Είναι πολύ λυπηρό που χάθηκε μια ζωή, και είναι σημαντικό να προσέχουμε όταν οδηγούμε.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/ert3/xalkidiki-troxaio-dystyxima-sti-nea-kallikrateia-nekros-75xronos/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/ert3/xalkidiki-troxaio-dystyxima-sti-nea-kallikrateia-nekros-75xronos/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/14/greece/nekros-75xronos-se-troxaio-sti-nea-kallikrateia-xalkidikis/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4075255/ti-zoi-tou-echase-75chronos-se-trocheo-sti-nea-kallikratia-chalkidikis.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα με θανάσιμους τραυματισμούς, γεγονός που προϋποθέτει σοβαρότητα και ευαισθησία.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gd8abde216226f795172184f388278ea6644a8d46065549df511003d1afd9bf86420d6b11084e6bb190f616105e1d5ffae4e5c2f8b085b4d734492d3eda4c2040_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T14:50:24.000Z"
+    },
+    {
+      "id": "679a7d9cff01",
+      "title": "Θεσσαλονίκη: Αύξηση των περιστατικών βίας σε βάρος γιατρών και νοσηλευτών σε νοσοκομεία διαπίστωσαν ομιλητές σε ημερίδα του Ιατρικού Συλλόγου",
+      "simpleTitle": "Αύξηση βίας κατά γιατρών και νοσηλευτών στη Θεσσαλονίκη",
+      "simpleText": "Στη Θεσσαλονίκη, έγινε μια εκδήλωση όπου οι ομιλητές μίλησαν για την αύξηση της βίας σε νοσοκομεία. Αυτό δημιουργεί φόβο στους γιατρούς και τους νοσηλευτές. Οι οργανώσεις ζητούν καλύτερη προστασία για αυτούς τους ανθρώπους. Είπαν ότι στα νοσοκομεία πρέπει να έχουμε μηδενική ανοχή στη βία. Υπάρχουν ήδη νόμοι για να τιμωρούνται οι επιθέσεις, αλλά χρειάζονται και περισσότερα μέτρα. Είναι πολύ σημαντικό να διασφαλίσουμε την ασφάλεια όλων των υγειονομικών, ώστε να μπορούν να κάνουν τη δουλειά τους χωρίς φόβο.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-ypsiles-thermokrasies-me-notiades-kai-vroxes/",
+      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ayksisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton-se-nosokomeia-diapistosan-omilites-se-imerida-tou-iatrikou-syllogou/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -43,60 +165,27 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/kairos-ypsiles-thermokrasies-me-notiades-kai-vroxes/"
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-ayksisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton-se-nosokomeia-diapistosan-omilites-se-imerida-tou-iatrikou-syllogou/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564078757/kairos-ypsiles-thermokrasies-vroches-kai-afrikaniki-skoni-to-savvatokyriako/"
+          "url": "https://www.kathimerini.gr/society/564079063/thessaloniki-ayxisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τον καιρό και τις αναμενόμενες κλιματολογικές συνθήκες, όπως οι υψηλές θερμοκρασίες, οι βροχές και η μεταφορά σκόνης, που σχετίζονται με σοβαρά θέματα και προτάσεις προσοχής για την ασφάλεια.",
+      "categoryReason": "Η είδηση αφορά την αύξηση περιστατικών βίας σε νοσοκομεία, ένα σοβαρό ζήτημα που επηρεάζει την ασφάλεια των υγειονομικών και απαιτεί νομικά και κοινωνικά μέτρα.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260214-SK-METEO.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260214-SK-METEO.jpg",
-      "publishedAt": "2026-02-14T07:22:59.000Z"
-    },
-    {
-      "id": "cc341ba1cef5",
-      "title": "Αττική Οδός: Έκτακτες κυκλοφοριακές ρυθμίσεις στο ρεύμα προς αεροδρόμιο από την Ελευσίνα ως την Περιφερειακή Αιγάλεω",
-      "simpleTitle": "Κλειστές είσοδοι στην Αττική Οδό προς αεροδρόμιο",
-      "simpleText": "Οι είσοδοι της Αττικής Οδού προς το αεροδρόμιο είναι κλειστές μέχρι το μεσημέρι του Σαββάτου, 14 Φεβρουαρίου. Αυτές οι κλειστές είσοδοι βρίσκονται από την Ελευσίνα μέχρι την Περιφερειακή Αιγάλεω. Ο λόγος είναι ότι γίνονται εργασίες συντήρησης. Οι οδηγοί που θέλουν να πάνε στο αεροδρόμιο μπορούν να χρησιμοποιήσουν εναλλακτικές διαδρομές, όπως τη Λεωφόρο Αθηνών. Είναι σημαντικό να ακολουθούν τις οδηγίες για να φτάσουν με ασφάλεια στον προορισμό τους. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για τις εργασίες.",
-      "sourceName": "ERT News, Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/attiki-odos-ektaktes-kykloforiakes-rythmiseis-sto-reyma-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/attiki-odos-ektaktes-kykloforiakes-rythmiseis-sto-reyma-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564078796/attiki-odos-ektaktes-kykloforiakes-rythmiseis-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/14/society/kykloforiakes-rythmiseis-se-attiki-odo-kleistes-eisodoi-sto-reyma-pros-aerodromio/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές κυκλοφοριακές ρυθμίσεις στην Αττική Οδό, λόγω εργασιών συντήρησης, επηρεάζοντας τη μετακίνηση προς το αεροδρόμιο και απαιτώντας εναλλακτικές διαδρομές, κάτι που είναι σημαντικό από πλευράς ασφάλειας και δημόσιας υποδομής.",
-      "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g5ab89905fcb9bf7273e66300f846fe226d03ba2f06e080c2ff5e97e567ea106ec0e2f3491337a4f4277722cb133ba6cc5e4f8c0a8f7b231f0a48648e327f2e69_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-14T07:04:32.000Z"
+      "publishedAt": "2026-02-14T14:50:00.000Z"
     },
     {
-      "id": "bc35c24531a8",
-      "title": "Λούτσα: Οδύνη για τον θάνατο του 15χρονου σε τροχαίο – Σε σοκ ο ανήλικος οδηγός, ούρλιαζε «τι έκανα;»",
-      "simpleTitle": "Λούτσα: Θλίψη για το θάνατο 15χρονου από τροχαίο",
-      "simpleText": "Η Λούτσα είναι σε μεγάλη θλίψη γιατί ένα 15χρονο παιδί σκοτώθηκε σε τροχαίο. Αυτό συνέβη το μεσημέρι της Παρασκευής, όταν το αυτοκίνητο στο οποίο ήταν, έπεσε σε δέντρο. Ο οδηγός ήταν επίσης 15 χρονών και είχε πάρει κρυφά τα κλειδιά του αυτοκινήτου από τους γονείς του. Στο αυτοκίνητο ήταν κι άλλοι δύο φίλοι του, οι οποίοι τραυματίστηκαν ελαφρά. Οι κάτοικοι άκουσαν τον θόρυβο και ειδοποίησαν την αστυνομία και το ΕΚΑΒ. Είναι σημαντικό να προσέχουμε πάντα στους δρόμους και να μην οδηγούμε αν είμαστε νέοι και χωρίς άδεια.",
+      "id": "d99daf2d9503",
+      "title": "Φονική έκρηξη στη «Βιολάντα»: Συνελήφθη ο ιδιοκτήτης του εργοστασίου",
+      "simpleTitle": "Έκρηξη στη Βιολάντα: Συνελήφθη ο ιδιοκτήτης",
+      "simpleText": "Σε εργοστάσιο στη «Βιολάντα» έγινε μια πολύ σοβαρή έκρηξη. Ο ιδιοκτήτης του εργοστασίου συνελήφθη γιατί οι αρχές βρήκαν νέα στοιχεία. Αυτά τα στοιχεία δείχνουν πως δεν τηρήθηκαν οι κανόνες ασφαλείας. Η έκρηξη προκάλεσε θύματα και σοβαρές ζημιές. Οι έρευνες συνεχίζονται για να ανακαλύψουν τι ακριβώς συνέβη. Πέντε μήνες πριν, είχαν γίνει αναφορές για δυσάρεστες οσμές, αλλά αυτές δεν ελέγχθηκαν σωστά. Είναι πολύ σημαντικό να διασφαλίσουμε την ασφάλεια για όλους στα εργοστάσια. Αν δεις ή μυρίσεις κάτι ύποπτο, πρέπει να το πεις αμέσως σε κάποιον.",
       "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/14/greece/seismiki-donisi-64-vathmon-ston-eiriniko-konta-sta-vanoyatoy/",
+      "sourceUrl": "https://www.tanea.gr/2026/02/14/greece/violanta-synelifthi-o-idioktitis-tis-epixeirisis/",
       "sourceDomains": [
         "tanea.gr",
         "tovima.gr"
@@ -104,27 +193,27 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/14/greece/seismiki-donisi-64-vathmon-ston-eiriniko-konta-sta-vanoyatoy/"
+          "url": "https://www.tanea.gr/2026/02/14/greece/violanta-synelifthi-o-idioktitis-tis-epixeirisis/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/13/society/troxaio-sti-loutsa-ti-ekana-ti-ekana-fonaze-o-15xronos-odigos/"
+          "url": "https://www.tovima.gr/2026/02/14/society/violanta-synelifthi-ksana-o-idioktitis-tis-etaireias/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό τροχαίο δυστύχημα που κόστισε τη ζωή ενός 15χρονου, γεγονός που προκαλεί ανησυχία και θλίψη στην κοινωνία.",
+      "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα που οδήγησε σε θύματα και συνελήφθη ο ιδιοκτήτης λόγω παραβάσεων ασφάλειας, αγγίζοντας ζητήματα δικαίου και δημόσιας ασφάλειας.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc0441a72a5b8f40ad10a289e06b423c8648ba0e72fa4aaa36a3e821de656f68acef011d768c8ebee2c6462e741ddb7cbbb44f47f20319ca2fc1bfec95fcd21bc_1280.jpg",
-      "videoUrl": "https://orangepress.gr/player?slug=8anathforo-troxaio-sth-loytsa-to-shmeio-ths-tragwdias",
-      "publishedAt": "2026-02-14T07:01:28.000Z"
+      "imageUrl": null,
+      "videoUrl": "https://www.megatv.com/embed/?p=20202271199",
+      "publishedAt": "2026-02-14T14:20:29.000Z"
     },
     {
-      "id": "01f40998fbf0",
-      "title": "Λαμία: Εντοπίστηκε σορός αγνώστων στοιχείων σε διαμέρισμα όπου ξέσπασε πυρκαγιά",
-      "simpleTitle": "Σορός βρέθηκε σε διαμέρισμα στη Λαμία μετά από φωτιά",
-      "simpleText": "Στη Λαμία, βρέθηκε μια σορός αγνώστων στοιχείων σε διαμέρισμα, κατά την κατάσβεση πυρκαγιάς. Η φωτιά ξέσπασε στην οδό Σατωβριάνδου. Για την κατάσβεση συμμετείχαν 12 πυροσβέστες με πέντε οχήματα. Η φωτιά έχει πλέον τεθεί υπό έλεγχο. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για την σορό ή τα αίτια της φωτιάς. Είναι σημαντικό να έχουμε προσοχή σε περιπτώσεις έκτακτης ανάγκης και να ακολουθούμε τους κανόνες ασφάλειας.",
+      "id": "0ed0ba069125",
+      "title": "Συστάσεις της Πολιτικής Προστασίας στους πολίτες ενόψει της επιδείνωσης του καιρού",
+      "simpleTitle": "Οδηγίες για να προετοιμαστούμε για κακοκαιρία",
+      "simpleText": "Η Πολιτική Προστασία προειδοποιεί τους πολίτες για κακοκαιρία που έρχεται. Τους καλεί να είναι προσεκτικοί και να πάρουν μέτρα προστασίας. Οι Πυροσβεστικές Υπηρεσίες είναι έτοιμες να βοηθήσουν όπου χρειαστεί. Συστήνεται στους πολίτες να ασφαλίσουν τα αντικείμενα έξω από τα σπίτια τους και να ελέγξουν αν οι σωλήνες νερού λειτουργούν σωστά. Επίσης, πρέπει να αποφύγουν να πάνε σε περιοχές με πλημμύρες και να μείνουν μέσα στα σπίτια τους αν εκδηλωθεί καταιγίδα. Προσοχή χρειάζεται και σε περιπτώσεις κεραυνών, καθώς οι ηλεκτρικές συσκευές μπορεί να είναι επικίνδυνες. Να ακολουθούν πάντα τις συμβουλές των αρμόδιων φορέων.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/lamia-entopistike-soros-agnoston-stoixeion-se-diamerisma-opou-ksespase-pyrkagia/",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/systaseis-tis-politikis-prostasias-stous-polites-enopsei-tis-epideinosis-tou-kairou/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -132,114 +221,104 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/lamia-entopistike-soros-agnoston-stoixeion-se-diamerisma-opou-ksespase-pyrkagia/"
+          "url": "https://www.ertnews.gr/eidiseis/systaseis-tis-politikis-prostasias-stous-polites-enopsei-tis-epideinosis-tou-kairou/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564078787/lamia-entopistike-soros-se-diamerisma-opoy-xespase-pyrkagia/"
+          "url": "https://www.kathimerini.gr/society/564079075/systaseis-tis-politikis-prostasias-enopsei-tis-epideinosis-toy-kairoy/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε έναν θάνατο και σε μια σοβαρή κατάσταση που προέκυψε από πυρκαγιά, γεγονότα που σχετίζονται με ζητήματα ασφάλειας και δημόσιας υγείας.",
+      "categoryReason": "Η είδηση αφορά σοβαρές προειδοποιήσεις και συστάσεις της Πολιτικής Προστασίας για την ασφάλεια των πολιτών ενόψει επιδείνωσης του καιρού.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g093ebc72f149e761762397e07f019550f22c112d06a9b8e7a39a7f19d3ec534f68ac142b2fd81cf0bf3f10da1c281557eaa375cf501f4f270aa67cea2d4e6583_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g80260cc3c98e175e5a0e51b7da27e17b2bf386c38eaf3b10618f60bf56524c01c5932204992d18c70271198579238e9ad811b6972e07027ef81611175480ccd8_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-14T06:45:22.000Z"
+      "publishedAt": "2026-02-14T13:52:37.000Z"
     },
     {
-      "id": "78f842d19034",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν στις 14 Φεβρουαρίου",
-      "simpleTitle": "Ποιοι γιορτάζουν στις 14 Φεβρουαρίου",
-      "simpleText": "Στις 14 Φεβρουαρίου γιορτάζουν κάποια ονόματα, όπως Βαλεντίνη, Βαλεντίνα, Ντίνα και Ντίνος. Αυτή η μέρα είναι αφιερωμένη στον Άγιο Βαλεντίνο, ο οποίος ήταν ιερέας και υπέστη διωγμούς. Η ημέρα αυτή είναι επίσης γνωστή ως Παγκόσμια Ημέρα Γάμου και Διεθνής Ημέρα Προσευχής για άτομα με αυτισμό. Είναι σημαντική γιατί μας υπενθυμίζει την αγάπη και την υποστήριξη για όσους έχουν ανάγκη. Μπορούμε να γιορτάσουμε με απλές πράξεις καλοσύνης προς τους άλλους.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-14-fevrouariou/",
+      "id": "160dec4de304",
+      "title": "Βιολάντα: Αναβαθμίζεται το κατηγορητήριο – «Ανθρωποκτονία με ενδεχόμενο δόλο»",
+      "simpleTitle": "Νέα κατηγορία στην υπόθεση της Βιολάντα",
+      "simpleText": "Στην υπόθεση της Βιολάντα, οι αρχές αναβάθμισαν την κατηγορία για τρία άτομα, τον ιδιοκτήτη, τον τεχνικό ασφαλείας και τον υπεύθυνο βάρδιας. Τώρα κατηγορούνται για ανθρωποκτονία με ενδεχόμενο δόλο. Αυτό σημαίνει ότι μπορεί να είχαν σκοπό να προκαλέσουν τον θάνατο κάποιος. Η κατηγορία αυτή προέκυψε από νέα στοιχεία σχετικά με μια σοβαρή έκρηξη, που είχε σοβαρές συνέπειες. Οι αρχές θέλουν να διασφαλίσουν την ασφάλεια του κόσμου σε τέτοιες περιπτώσεις. Δεν έχουν ανακοινωθεί περισσότερα λεπτομέρειες για την έρευνα.",
+      "sourceName": "Kathimerini, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/society/564078991/violanta-anavathmizetai-to-katigoritirio-anthropoktonia-me-endechomeno-dolo/",
       "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
+        "kathimerini.gr",
+        "protagon.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-14-fevrouariou/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564078991/violanta-anavathmizetai-to-katigoritirio-anthropoktonia-me-endechomeno-dolo/"
         },
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/14/greece/eortologio-poioi-giortazoun-simera-14-fevrouariou/"
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/violanta-anthrwpoktonia-me-endexomeno-dolo-i-nea-katigoria-gia-ti-foniki-ekriksi-44343312609"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρές νομικές εξελίξεις σχετικά με κατηγορίες ανθρωποκτονίας που προκύπτουν από μια επικίνδυνη κατάσταση (έκρηξη), γεγονός που αφορά την ασφάλεια και τη δημόσια υγεία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T12:55:14.000Z"
+    },
+    {
+      "id": "42a0b170bca1",
+      "title": "Ο Λάνθιμος στις 100 προσωπικότητες που υποστήριξαν την εισηγήτρια του ΟΗΕ για τους Παλαιστινίους",
+      "simpleTitle": "Ο Λάνθιμος στηρίζει την εισηγήτρια του ΟΗΕ για τους Παλαιστινίους",
+      "simpleText": "Πάνω από 100 γνωστοί άνθρωποι από τον χώρο του πολιτισμού, όπως ο Έλληνας σκηνοθέτης Γιώργος Λάνθιμος, δείχνουν τη στήριξή τους στην Ειδική Εισηγήτρια του ΟΗΕ για τα Παλαιστινιακά Εδάφη. Αυτό συνέβη το Σάββατο, όταν οι υποστηρικτές αντέτειναν τις πιέσεις που δέχεται η Φραντσέσκα Αλμπανέζε για να παραιτηθεί, ύστερα από δηλώσεις της για το Ισραήλ.\n\nΗ στήριξη αυτή είναι σημαντική, καθώς δείχνει ότι πολλοί άνθρωποι ανησυχούν για την κατάσταση των Παλαιστινίων. Μέσα από αυτή την ενέργεια, ελπίζουν να κρατήσουν το θέμα ζωντανό στη συζήτηση και να αλλάξουν τις απόψεις που υπάρχουν. Δυστυχώς, δεν ξέρουμε ακόμα πώς θα εξελιχθεί η κατάσταση.",
+      "sourceName": "Kathimerini, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/world/564078985/o-lanthimos-stis-100-prosopikotites-poy-ypostirixan-tin-eisigitria-toy-oie-gia-toys-palaistinioys/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564078985/o-lanthimos-stis-100-prosopikotites-poy-ypostirixan-tin-eisigitria-toy-oie-gia-toys-palaistinioys/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/o-lanthimos-kai-alles-99-proswpikotites-yper-tis-eisigitrias-tou-oie-gia-tous-palaistinious-44343312605"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη στήριξη προσωπικοτήτων στον τομέα του πολιτισμού προς την Ειδική Εισηγήτρια του ΟΗΕ για τα Παλαιστινιακά Εδάφη, υπό συνθήκες πολιτικής έντασης και σοβαρών κοινωνικών ζητημάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T12:22:18.000Z"
+    },
+    {
+      "id": "38ccfcea556d",
+      "title": "Νίκη για την επιστήμη: Σώθηκε ο καθαρότερος ουρανός του κόσμου στη Χιλή",
+      "simpleTitle": "Χαρά για την επιστήμη: Σώθηκε ο καθαρός ουρανός στη Χιλή",
+      "simpleText": "Η επιστημονική κοινότητα έχει λόγο να χαίρεται, γιατί προστατεύθηκε ο νυχτερινός ουρανός στη Χιλή. Ένα μεγάλο και αμφιλεγόμενο έργο, που είχε στόχο την παραγωγή πράσινου υδρογόνου, ακυρώθηκε. Αυτό σημαίνει ότι η έρημος Ατακάμα θα παραμείνει ο πιο καθαρός ορίζοντας στον κόσμο. Αυτή η απόφαση είναι σημαντική για το φυσικό περιβάλλον και τη μελέτη του διαστήματος. Έτσι, οι επιστήμονες μπορούν να συνεχίσουν να εξερευνούν το Σύμπαν χωρίς εμπόδια.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/32023-prostasia-nyxterinou-ouranou-xili-akyrosi-ergou-inna/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/32023-prostasia-nyxterinou-ouranou-xili-akyrosi-ergou-inna/"
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά τον εορτασμό της ημέρας του Αγίου Βαλεντίνου, που προάγει την αγάπη και τις θετικές πράξεις καλοσύνης, συνδέοντάς την με μια χαρούμενη ατμόσφαιρα.",
+      "categoryReason": "Η είδηση αφορά έναν σημαντικό θρίαμβο για την επιστημονική κοινότητα που διασφαλίζει την προστασία του φυσικού περιβάλλοντος και την έρευνα, προκαλώντας θετική αντίκτυπο και χαρά για την επιστήμη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-14T06:05:32.000Z"
-    },
-    {
-      "id": "0f57f2650b86",
-      "title": "Eurovision 2026: Αυτοί είναι οι επτά φιναλίστ που πέρασαν στον τελικό του Sing for Greece από τον δεύτερο Ημιτελικό",
-      "simpleTitle": "Φιναλίστ στο Sing for Greece για Eurovision 2026",
-      "simpleText": "Επτά καλλιτέχνες πέρασαν στον τελικό του διαγωνισμού Sing for Greece, που είναι σημαντικός για την επιλογή της Ελλάδας στη Eurovision 2026. Αυτό συνέβη από τον δεύτερο Ημιτελικό που έγινε πρόσφατα. Οι καλλιτέχνες με τα τραγούδια τους ενθουσίασαν το κοινό και δημιούργησαν πολλές προσδοκίες για τον τελικό. Ο τελικός θα γίνει την Κυριακή 15 Φεβρουαρίου. Εκεί, θα αναδειχθεί ο νικητής που θα εκπροσωπήσει τη χώρα μας. Η εκδήλωση θα περιλαμβάνει και την ψήφο του κοινού, καθώς και κριτικές επιτροπές. Οι τρεις παρουσιαστές της βραδιάς είναι γνωστά πρόσωπα της ελληνικής τηλεόρασης.",
-      "sourceName": "TA NEA, TO BHMA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2026/02/13/lifestyle/eurovision-2026-aytoi-einai-oi-epta-finalist-poy-perasan-ston-teliko-toy-sing-for-greece-a/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/13/lifestyle/eurovision-2026-aytoi-einai-oi-epta-finalist-poy-perasan-ston-teliko-toy-sing-for-greece-a/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/13/culture/eurovision-2026-sing-for-greece-oi-finalist-tou-%ce%84v-imitelikou/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/media/article/4074997/sing-for-greece-2026-afti-ine-i-efta-nikites-tou-v-ellinkou-imitelikou-tis-eurovision.html"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση επικεντρώνεται στον διαγωνισμό Eurovision και τις εξελίξεις γύρω από τον ελληνικό τελικό, κάτι που σχετίζεται άμεσα με τον πολιτισμό και την ψυχαγωγία, όπως είναι οι εκδηλώσεις της μουσικής και οι τηλεοπτικές παραγωγές.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gab698e42cd1225b4b7df195ec295359937e2776b6514f2a11bc3c22bd91b173f9f3a39ba025f52d68060013468e16a6d9e36a5b8f65ebc387d9ac7190e4ae35d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-13T22:02:38.000Z"
-    },
-    {
-      "id": "73b61f9d5515",
-      "title": "Παρίσι: Αστυνομικοί πυροβόλησαν άνδρα που τους απείλησε με μαχαίρι κοντά στην Αψίδα του Θριάμβου",
-      "simpleTitle": "Αστυνομικοί στο Παρίσι πυροβόλησαν άνδρα με μαχαίρι",
-      "simpleText": "Στο Παρίσι, αστυνομικοί πυροβόλησαν έναν άνδρα που τους απείλησε με μαχαίρι κοντά στην Αψίδα του Θριάμβου. Το συμβάν έγινε το απόγευμα, λίγο πριν από μια τελετή στο μνημείο του Αγνώστου Στρατιώτη. Ο άνδρας τραυματίστηκε σοβαρά και μεταφέρθηκε στο νοσοκομείο, αλλά δυστυχώς έχασε τη ζωή του. Ένας αστυνομικός τραυματίστηκε ελαφρά κατά τα γεγονότα. Ο δράστης είχε μάλιστα παλαιότερα καταδικαστεί για επιθέσεις εναντίον αστυνομικών. Είναι σημαντικό να γνωρίζουμε αυτές τις πληροφορίες για την ασφάλεια όλων μας.",
-      "sourceName": "TA NEA, News.gr",
-      "sourceUrl": "https://www.tanea.gr/2026/02/13/world/parisi-astynomikoi-pyrovolisan-andra-pou-tous-apeilise-me-maxairi-konta-stin-apsida-tou-thriamvou/",
-      "sourceDomains": [
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/13/world/parisi-astynomikoi-pyrovolisan-andra-pou-tous-apeilise-me-maxairi-konta-stin-apsida-tou-thriamvou/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4074962/astinomiki-pirovolisan-andra-pou-tous-apilise-me-macheri-konta-stin-apsida-tou-thriamvou-sto-parisi.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό περιστατικό βίας και ασφάλειας, περιλαμβάνοντας πυροβολισμό από αστυνομικούς και την απώλεια ζωής ενός ατόμου. Αυτά τα θέματα σχετίζονται με την ασφάλεια των πολιτών και τις ενέργειες της αστυνομίας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gad92cbdad82d6334932b5172e47a40f672f5dedcfb9c699920fe960f25564944c5c11092a02235f97ef1bb9ffafd757e6364b63de91ce382ccef48b48c599d7d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-13T21:50:20.000Z"
+      "publishedAt": "2026-02-14T11:41:54.000Z"
     },
     {
       "id": "37f5374ecf12",
       "title": "Πώς η επαφή με τη φύση επηρεάζει θετικά την ψυχική ισορροπία του παιδιού",
-      "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι καλά",
-      "simpleText": "Σήμερα, πολλά παιδιά περνούν περισσότερο χρόνο μπροστά σε οθόνες και λιγότερο στη φύση. Αυτό δεν είναι καλό, γιατί η επαφή με το φυσικό περιβάλλον μπορεί να τους βοηθήσει. Η φύση μειώνει το άγχος και τους κάνει πιο ήρεμους. Είναι πολύ σημαντική για την ψυχική υγεία τους και για να γίνουν χαρούμενοι και υγιείς. Όταν παίζουν ή απλά βρίσκονται έξω, τα παιδιά ανακτούν την ισορροπία τους. Χρειάζεται να ξοδεύουν περισσότερο χρόνο στη φύση για να νιώθουν καλύτερα.",
+      "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι ευτυχισμένα",
+      "simpleText": "Σήμερα, τα παιδιά περνούν πολύ χρόνο μπροστά από οθόνες και δεν βγαίνουν έξω. Όμως, η επαφή με τη φύση είναι πολύ καλή για την ψυχική τους υγεία. Όταν τα παιδιά έχουν χρόνο στη φύση, νιώθουν πιο ήρεμα. Αυτό τους βοηθά να μειώσουν το άγχος και την ένταση που μπορεί να νιώθουν. Είναι πολύ σημαντικό να παίζουν και να εξερευνούν το φυσικό κόσμο, γιατί έτσι αναπτύσσονται καλύτερα. Η φύση τους δίνει χαρά και τους βοηθά να είναι πιο ευτυχισμένα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31921-paidi-epafi-fisi-psixiki-isorropia/",
       "sourceDomains": [
@@ -252,7 +331,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στα οφέλη της επαφής με τη φύση για την ψυχική υγεία των παιδιών, προάγοντας μια θετική και χαρούμενη διάσταση στην ανάπτυξή τους.",
+      "categoryReason": "Η είδηση αναφέρεται στους θετικούς αντίκτυπους που έχει η επαφή με τη φύση στη ψυχική υγεία των παιδιών, προάγοντας τη χαρά και την ευτυχία τους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -262,7 +341,7 @@
       "id": "dea058f34d84",
       "title": "Πώς τα φωτοβολταϊκά μεταμορφώνουν μια έρημο στην Κίνα",
       "simpleTitle": "Φωτοβολταϊκά αλλάζουν μια έρημο στην Κίνα",
-      "simpleText": "Στην Κίνα, υπάρχει μια μεγάλη περιοχή με φωτοβολταϊκά πάνελ. Αυτά τα πάνελ παράγουν ηλεκτρικό ρεύμα, αλλά βοηθούν και τη φύση. Έτσι, μετατρέπουν μια ξηρή έρημο σε ένα πιο πράσινο και δροσερό τόπο. Η περιοχή Qinghai έχει ένα από τα μεγαλύτερα φωτοβολταϊκά πάρκα στον κόσμο. Έχει περίπου 64 τετραγωνικά χιλιόμετρα και μελετάται για να δούμε πώς επηρεάζει το περιβάλλον. Όλα αυτά είναι σημαντικά γιατί βοηθούν στη βελτίωση της φύσης και του κλίματος.",
+      "simpleText": "Στην Κίνα, υπάρχει μια μεγάλη περιοχή με φωτοβολταϊκά πάνελ στο Θιβετιανό Οροπέδιο. Αυτά τα πάνελ παράγουν ηλεκτρικό ρεύμα και βοηθούν να γίνει η έρημος πιο πράσινη και δροσερή. Το φωτοβολταϊκό πάρκο Qinghai Gonghe είναι πολύ μεγάλο και καλύπτει 64 τετραγωνικά χιλιόμετρα. Η ισχύς του είναι πολύ μεγάλη, μεταξύ 16 και 17 γιγαβάτ. Αυτή η εξέλιξη είναι σημαντική γιατί δείχνει πώς η τεχνολογία μπορεί να βοηθήσει το περιβάλλον. Τα ανθρώπινα έργα, όπως αυτό, μπορούν να αλλάξουν τη φύση προς το καλύτερο. Δεν ξέρουμε ακόμα πότε θα ολοκληρωθούν όλες οι αλλαγές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31630-ta-fotovoltaika-metamorfoun-mia-erimo-stin-kina/",
       "sourceDomains": [
@@ -275,7 +354,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη χρήση φωτοβολταϊκών πάνελ για τη μετατροπή μιας ερήμου σε πιο βιώσιμο και βιολογικά ενεργό περιβάλλον, θίγοντας σημαντικά ζητήματα που σχετίζονται με το περιβάλλον και την κλιματική αλλαγή.",
+      "categoryReason": "Η είδηση αφορά σοβαρά περιβαλλοντικά ζητήματα και την επίδραση της τεχνολογίας στη φύση, προβάλλοντας σημαντικές εξελίξεις στη χρήση ανανεώσιμων πηγών ενέργειας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -284,8 +363,8 @@
     {
       "id": "2951116448e0",
       "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
-      "simpleTitle": "Πώς οι δουλειές στο σπίτι βοηθούν τα παιδιά να γίνουν πιο ανεξάρτητα",
-      "simpleText": "Οι δουλειές στο σπίτι μπορεί να φαίνονται συχνά αδιάφορες, αλλά είναι πολύ σημαντικές για τα παιδιά. Όταν συμμετέχουν σε αυτές, μαθαίνουν να είναι πιο ανεξάρτητα και αποκτούν αυτοπεποίθηση. Οι μικρές αυτές δραστηριότητες δεν είναι βαρετές. Αντίθετα, είναι μια καλή ευκαιρία να μάθουν μέσα από την καθημερινότητά τους. Με την υπευθυνότητα που αποκτούν, τα παιδιά γίνονται πιο ικανά να φροντίσουν τον εαυτό τους και το περιβάλλον τους. Είναι καλό να ενθαρρύνουμε τα παιδιά να συμμετέχουν, γιατί αυτό τους βοηθά να γίνουν καλύτεροι άνθρωποι.",
+      "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+      "simpleText": "Οι καθημερινές δουλειές στο σπίτι βοηθούν τα παιδιά να μεγαλώσουν και να γίνουν πιο ανεξάρτητα. Όταν συμμετέχουν σε αυτές τις δουλειές, μαθαίνουν να αναλαμβάνουν ευθύνες. Αυτό τους δίνει αυτοπεποίθηση, δηλαδή εμπιστοσύνη στον εαυτό τους. Οι απλές δράσεις, όπως το να βάζουν τα παιχνίδια τους στη θέση τους ή να βοηθούν στο σερβίρισμα του φαγητού, δεν είναι βαρετές. Αντίθετα, είναι ευκαιρίες για μάθηση. Είναι σημαντικό για τα παιδιά να μάθουν να φροντίζουν τον εαυτό τους και να γίνονται πιο ικανά. Έτσι, νιώθουν καλύτερα και είναι πιο έτοιμα για το μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
       "sourceDomains": [
@@ -298,7 +377,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση εστιάζει στη θετική επίδραση που έχουν οι δουλειές στο σπίτι στην αυτονομία και την αυτοπεποίθηση των παιδιών, προβάλλοντας έτσι μια χαρούμενη και ενθαρρυντική προσέγγιση στην εκπαίδευση τους.",
+      "categoryReason": "Η είδηση ενθαρρύνει την ανάπτυξη της αυτονομίας και της αυτοπεποίθησης στα παιδιά μέσω απλών καθημερινών δραστηριοτήτων, προάγοντας θετικά μηνύματα για την προσωπική ανάπτυξη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -307,8 +386,8 @@
     {
       "id": "77b983e2cabd",
       "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-      "simpleTitle": "Καλή νέα από τη λίμνη Μόρνου μετά τη βροχή",
-      "simpleText": "Η λίμνη Μόρνου, που είναι σημαντική για την Αθήνα, δείχνει θετικές αλλαγές. Η στάθμη του νερού ανεβαίνει μετά από βροχοπτώσεις, κάτι που μας δίνει ελπίδα. Αυτή η άνοδος του νερού σημαίνει ότι τα αποθέματα μπορεί να βελτιωθούν. Οι καιρικές συνθήκες φαίνεται να βοηθούν την κατάσταση. Είναι μια ευχάριστη είδηση που δείχνει την ανάγκη για καλή διαχείριση του νερού.",
+      "simpleTitle": "Αύξηση νερού στη λίμνη Μόρνου μετά τις βροχές",
+      "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, δείχνει βελτίωση μετά τις βροχές. Η στάθμη του νερού έχει ανέβει σημαντικά. Αυτή η αύξηση φέρνει ελπίδα ότι θα έχουμε περισσότερα αποθέματα νερού. Είναι καλό νέο για τον κόσμο, γιατί οι βροχές βοηθάνε την περιοχή. Οι καιρικές συνθήκες φαίνεται πως ήταν ευνοϊκές. Δεν ξέρουμε ακόμα αν θα συνεχιστεί αυτή η αύξηση, αλλά όλοι περιμένουν τα καλύτερα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
       "sourceDomains": [
@@ -321,7 +400,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε θετικές εξελίξεις σχετικά με τη στάθμη του νερού στη λίμνη Μόρνου, προσδιορίζοντας ελπίδες για την καλή διαχείριση των υδάτινων πόρων, γεγονός που φέρνει αισιοδοξία.",
+      "categoryReason": "Η είδηση μεταφέρει μια θετική κατάσταση σχετικά με τη βελτίωση της στάθμης νερού στη λίμνη Μόρνου, προσφέροντας αισιοδοξία για τις υδάτινες προμήθειες της Αθήνας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -330,8 +409,8 @@
     {
       "id": "8a1f0ba56c5a",
       "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-      "simpleTitle": "Τσικνοπέμπτη: Τι γιορτάζουμε σήμερα",
-      "simpleText": "Η Τσικνοπέμπτη είναι μια σημαντική μέρα στην Ελλάδα. Γιορτάζεται με ψητά φαγητά και παρέες γύρω από φωτιά. Οι άνθρωποι μαζεύονται και γιορτάζουν όλοι μαζί. Το έθιμο αυτό έχει ιστορία και είναι συνδεδεμένο με την παράδοση. Σήμερα, η Τσικνοπέμπτη σημαίνει περισσότερα από φαγητό. Είναι μια ευκαιρία για να περάσουμε ωραία με τους φίλους και την οικογένεια. Οι μυρωδιές από τα ψητά κάνουν την ημέρα ειδική. Είναι μια γιορτή που φέρνει χαρά και διασκέδαση σε όλους.",
+      "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
+      "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή γιορτή στην Ελλάδα. Οι άνθρωποι μαζεύονται και ψήνουν κρέατα, απολαμβάνοντας όμορφες μυρωδιές και παρέες. Αυτή η ημέρα έχει πολλές παραδόσεις και η σημασία της έχει αλλάξει τα τελευταία χρόνια. Σήμερα, συνδέεται με τη γιορτή και τη διασκέδαση, αλλά και με την κατανάλωση φαγητού. Η Τσικνοπέμπτη φέρνει ενθουσιασμό πριν την Καθαρά Δευτέρα, που σηματοδοτεί την αρχή της Σαρακοστής. Πολλοί άνθρωποι προγραμματίζουν πού θα γιορτάσουν και με ποιους θα είναι μαζί. Είναι μια μέρα γεμάτη χαρά και αγάπης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
       "sourceDomains": [
@@ -344,7 +423,7 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή γεμάτη διασκέδαση και χαρά, επικεντρωμένη σε φαγητό και κοινωνικές συγκεντρώσεις.",
+      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που σχετίζεται με τη διασκέδαση, τη συνάθροιση με φίλους και την κατανάλωση φαγητού, στοιχείο που την καθιστά κυρίως μια χαρούμενη και ευχάριστη εκδήλωση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -354,7 +433,7 @@
       "id": "ac56b559fdc4",
       "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
       "simpleTitle": "Διαφορές ανάμεσα σε BAFTA και Όσκαρ",
-      "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν να δουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα δύο βραβεία είναι πολύ σημαντικά για τους δημιουργούς ταινιών. Τα BAFTA δίνονται στη Βρετανία, ενώ τα Όσκαρ στις Ηνωμένες Πολιτείες. Οι διαφορετικές χώρες έχουν τον δικό τους τρόπο να τιμούν τις καλύτερες ταινίες. Είναι σημαντικά γιατί δείχνουν ποιοι δημιουργοί και ποιες ιστορίες ξεχωρίζουν. Αυτοί οι θεσμοί ενώνουν τους ανθρώπους και φέρνουν την τέχνη πιο κοντά μας.",
+      "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα δύο βραβεία είναι πολύ σημαντικά για τους δημιουργούς ταινιών. Τα BAFTA γίνονται στη Βρετανία, ενώ τα Όσκαρ συνήθως γίνονται στην Αμερική. Ο κάθε θεσμός έχει τη δική του ιστορία και κανόνες. Αυτά τα βραβεία ξεχωρίζουν γιατί αναγνωρίζουν τις καλύτερες ταινίες και τους καλύτερους ηθοποιούς. Είναι σημαντικά γιατί ενώνουν τους ανθρώπους μέσα από τις ιστορίες που διηγούνται. Δεν ξέρουμε ακόμα τις ημερομηνίες για την επόμενη απονομή τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
       "sourceDomains": [
@@ -367,7 +446,7 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Το άρθρο αναφέρεται στις διαφορές των βραβείων BAFTA και Όσκαρ, που αφορούν τον κινηματογράφο και τις σχετικές βραβεύσεις, καθιστώντας το κατάλληλο για την κατηγορία των οθονών.",
+      "categoryReason": "Η είδηση αφορά τις διαφορές μεταξύ των βραβείων BAFTA και Όσκαρ, εστιάζοντας στον κινηματογράφο και τις μεγάλες αποκλίσεις που έχουν αυτοί οι θεσμοί, καθιστώντας την κατηγορία 'screen' πιο κατάλληλη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -376,8 +455,8 @@
     {
       "id": "2993d5536c44",
       "title": "Γιατί τα παιδιά χρειάζονται όρια για να νιώθουν ελεύθερα",
-      "simpleTitle": "Τα όρια βοηθούν τα παιδιά να νιώθουν ασφαλή",
-      "simpleText": "Πολλοί γονείς πιστεύουν ότι τα όρια περιορίζουν τα παιδιά τους. Όμως, τα όρια είναι πραγματικά χρήσιμα. Δημιουργούν έναν ασφαλή χώρο για τα παιδιά. Όταν ξέρουν τι επιτρέπεται και τι όχι, νιώθουν σίγουρα. Αυτό τους βοηθά να εξερευνούν τον κόσμο γύρω τους με άνεση. Τα ξεκάθαρα όρια κάνουν τα παιδιά να νιώθουν ελεύθερα και όχι περιορισμένα. Είναι σημαντικό οι γονείς να κατανοούν τη σημασία των ορίων για την ευτυχία και την ανάπτυξη των παιδιών τους.",
+      "simpleTitle": "Τα παιδιά χρειάζονται όρια για να νιώθουν ασφαλή",
+      "simpleText": "Πολλοί γονείς νομίζουν ότι τα όρια περιορίζουν τα παιδιά. Όμως, τα καλά και ξεκάθαρα όρια τους δίνουν ασφάλεια και σιγουριά. Όταν ξέρουν πού σταματούν οι κανόνες, νιώθουν πιο ελεύθερα να εξερευνούν τον κόσμο γύρω τους. Τα όρια βοηθούν τα παιδιά να κατανοούν τις σωστές συμπεριφορές και να αισθάνονται προστατευμένα. Αυτή η αίσθηση της ασφάλειας είναι πολύ σημαντική για την ανάπτυξή τους. Έτσι, τα παιδιά μπορούν να είναι πιο δημιουργικά και να ανακαλύπτουν νέα πράγματα χωρίς φόβο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31909-giati-ta-paidia-xreiazontai-oria-gia-na-niothoun-elefthera/",
       "sourceDomains": [
@@ -390,7 +469,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση ασχολείται με την ψυχολογία των παιδιών και την ανάγκη τους για όρια, θέματα που σχετίζονται με την εκπαίδευση και την ανάπτυξη, κάνοντάς την σοβαρή και σημαντική.",
+      "categoryReason": "Το άρθρο εξετάζει τη σημασία των ορίων στην ανατροφή των παιδιών και πώς αυτά επηρεάζουν την ασφάλεια και την ανάπτυξή τους, κάτι που σχετίζεται με σοβαρά ζητήματα γονικής μέριμνας και παιδαγωγικής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -399,8 +478,8 @@
     {
       "id": "863798d0444c",
       "title": "Ξεκίνησε η Ακαδημία Σπάνιων Ασθενών Ελλάδος με ενεργό ρόλο στην έγκριση φαρμάκων",
-      "simpleTitle": "Ξεκίνησε η Ακαδημία Σπάνιων Ασθενών στην Ελλάδα",
-      "simpleText": "Στην Ελλάδα ξεκίνησε μια νέα Ακαδημία για Σπάνιες Ασθένειες. Ο στόχος της είναι να εκπαιδεύει ασθενείς. Έτσι, θα μπορούν να συμμετέχουν πιο ενεργά στην ανάπτυξη και έγκριση φαρμάκων. Η Ακαδημία απευθύνεται σε άτομα με εμπειρία σε σπάνιες παθήσεις. Θέλει να κάνει τη φωνή τους πιο δυνατή όταν αποφάσεις για τη θεραπεία τους ασχολούνται. Αυτό είναι σημαντικό γιατί οι ασθενείς θα έχουν περισσότερη συμμετοχή στις αποφάσεις που τους αφορούν.",
+      "simpleTitle": "Νέα Ακαδημία για Σπάνιες Ασθένειες στην Ελλάδα",
+      "simpleText": "Στην Ελλάδα ξεκίνησε μια νέα πρωτοβουλία που λέγεται Ακαδημία Σπάνιων Ασθενών. Αυτή η ακαδημία έχει σκοπό να εκπαιδεύσει τους ασθενείς για το πώς να συμμετέχουν στη διαδικασία έγκρισης φαρμάκων. Οι συμμετέχοντες θα είναι άτομα που έχουν εμπειρία με σπάνιες ασθένειες.\n\nΗ ακαδημία θα συμβάλλει ώστε η φωνή των ασθενών να ακούγεται καλύτερα στις αποφάσεις για τη θεραπεία τους. Αυτό είναι πολύ σημαντικό γιατί θα μπορεί να αλλάξει τη ζωή πολλών ανθρώπων που αντιμετωπίζουν σπάνιες παθήσεις. Δεν έχουν δοθεί ακόμη λεπτομέρειες για το πότε θα γίνουν οι πρώτες εκπαιδεύσεις.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31842-akadhmia-spanion-asthenon-ellados-farmaka-klinikes-dokimes/",
       "sourceDomains": [
@@ -413,17 +492,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη δημιουργία της Ακαδημίας Σπάνιων Ασθενών, που στοχεύει στην εκπαίδευση και συμμετοχή ασθενών στις διαδικασίες ανάπτυξης φαρμάκων, έχοντας σοβαρό κοινωνικό και υγειονομικό αντίκτυπο.",
+      "categoryReason": "Η είδηση αφορά την κατάρτιση μιας ακαδημίας που σκοπό έχει να εκπαιδεύσει ασθενείς με σπάνιες ασθένειες για τη συμμετοχή τους στη διαδικασία έγκρισης φαρμάκων, αγγίζοντας σοβαρά θέματα υγείας και δικαιωμάτων.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfffdb5f355640d1562198a7b451fd29723de8ab4f47a24a3ee76460116e8d024071040a8f37afd93c5179f3296a4ee23d1a4f0e89fb5220eaea3051b4681b287_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g0929473eecc27e70334938c617d46ff58100af625c4c5c470a136682f71c5150e7b114f4a149d2d7340d63ba03ebaefde5781dc3cadd4c15798c8101e386c77d_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-11T12:23:00.000Z"
     },
     {
       "id": "0bda0d53d9d5",
       "title": "EuroLeague Final Four 2026: Τα εισιτήρια στην Αθήνα σπάνε κάθε ρεκόρ, sold out η πρώτη φάση",
-      "simpleTitle": "Πωλήσεις εισιτηρίων EuroLeague 2026 στην Αθήνα",
-      "simpleText": "Η EuroLeague Final Four 2026 θα γίνει στην Αθήνα και όλοι περιμένουν με ανυπομονησία. Η πώληση των εισιτηρίων άρχισε στις 10 Φεβρουαρίου. Μόλις άνοιξε, η ζήτηση ήταν τόσο μεγάλη που το σύστημα δεν άντεξε και σταμάτησε. Πολλοί φίλαθλοι ήθελαν να αγοράσουν εισιτήριο, γι' αυτό και τα εισιτήρια στην πρώτη φάση έχουν ήδη εξαντληθεί. Αυτό δείχνει πόσο σημαντική είναι η διοργάνωση για την πόλη και τους φιλάθλους του μπάσκετ. Δεν ξέρουμε ακόμα πότε θα γίνουν οι επόμενες πωλήσεις εισιτηρίων.",
+      "simpleTitle": "Φιλιάθλοι τρέχουν για εισιτήρια Final Four EuroLeague 2026",
+      "simpleText": "Στην Αθήνα ετοιμαζόμαστε για το μεγάλο γεγονός της EuroLeague το 2026. Έχει αρχίσει η πώληση εισιτηρίων και οι φιλάθλοι δείχνουν μεγάλο ενδιαφέρον. Η πρώτη φάση πώλησης άνοιξε στις 10 Φεβρουαρίου, αλλά τα εισιτήρια εξαντλήθηκαν πολύ γρήγορα. Οι υπολογιστές δεν άντεξαν και το σύστημα έπεσε λόγω της μεγάλης ζήτησης. Αυτό δείχνει πόσο πολύ περιμένουν οι φιλάθλοι να παρακολουθήσουν τους αγώνες. Είναι σημαντικό γεγονός για το μπάσκετ, γιατί φέρνει κοντά πολλούς ανθρώπους και δημιουργεί ενθουσιασμό στην πόλη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31968-euroleague-eisitiria-athina-final-four-2026-times/",
       "sourceDomains": [
@@ -436,269 +515,246 @@
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά την EuroLeague Final Four, μια σημαντική αθλητική διοργάνωση στο μπάσκετ, και το ρεκόρ πωλήσεων εισιτηρίων που δείχνει το ενδιαφέρον των φιλάθλων.",
+      "categoryReason": "Η είδηση αφορά την EuroLeague και την πώληση εισιτηρίων για το Final Four, γεγονός σχετικό με τον αθλητισμό και το μπάσκετ.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g201296f2ac3f24e350982f9b9d5f48f798013c671a594c65e55543f0ec53b2da071b1b3e88bd1044a71c7674bf532eaa0160aaaa840a95b0e0ffd56c4e58630b_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g638444f7e30c45f0d61fd355aecc4323cca36b06f73109f37a5b2371919c7188817c8cb2b6e28a5f2e771b1309b7bb525d6c5fa017ea91daecb5a3f656adf118_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-11T09:53:08.000Z"
     },
     {
-      "id": "3ebde64bd4f8",
-      "title": "Η Γαλλία χαράζει όρια: απαγόρευση στα social media για παιδιά κάτω των 15",
-      "simpleTitle": "Η Γαλλία απαγορεύει τα social media για παιδιά κάτω των 15",
-      "simpleText": "Η Γαλλία αποφάσισε να προστατεύσει τα παιδιά από τα social media. Έτσι, θα απαγορεύσει την πρόσβαση σε αυτά για παιδιά κάτω των 15 ετών. Αυτή η απόφαση υποστηρίζεται από τον πρόεδρο Εμάνουελ Μακρόν. Αν το σχέδιο προχωρήσει, η απαγόρευση θα ισχύσει από τον Σεπτέμβριο του 2026. Με αυτόν τον τρόπο, η Γαλλία θα είναι η δεύτερη χώρα μετά την Αυστραλία που βάζει αυστηρούς κανόνες για τη χρήση των social media από τους νέους. Αυτή η πρωτοβουλία είναι σημαντική γιατί θα βοηθήσει τα παιδιά να παραμείνουν ασφαλή στον ψηφιακό κόσμο.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31618-gallia-apagorefsi-social-media-paidia/",
+      "id": "7a2bd9ab6161",
+      "title": "Live streaming: Δείτε το Πανελλήνιο Πρωτάθλημα Ολυμπιακής Πάλης Ανδρών – Γυναικών (17:00, ΕΡΤSports1)",
+      "simpleTitle": "Ζωντανή μετάδοση του Πανελληνίου Πρωταθλήματος Πάλης",
+      "simpleText": "Σήμερα στις 17:00, θα γίνει το Πανελλήνιο Πρωτάθλημα Ολυμπιακής Πάλης Ανδρών και Γυναικών. Ο χώρος που διεξάγεται είναι στη Θεσσαλονίκη. Οι φίλοι της πάλης μπορούν να παρακολουθήσουν το πρωτάθλημα ζωντανά από το κανάλι ΕΡΤSports1. Είναι μια σπουδαία ευκαιρία να δούμε τους καλύτερους αθλητές στην πάλη και να τους υποστηρίξουμε. Για να παρακολουθήσετε, μπορείτε να συνδεθείτε μέσω ERTFLIX. Να θυμάστε να είστε συνδεδεμένοι στην ώρα σας!",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-to-panellinio-protathlima-olympiakis-palis-andron-gynaikon-17-00-ertsports1/",
       "sourceDomains": [
-        "thehappynews.gr"
+        "ertnews.gr"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31618-gallia-apagorefsi-social-media-paidia/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη λήψη σοβαρών μέτρων από την κυβέρνηση της Γαλλίας για την προστασία των παιδιών από τους κινδύνους των social media, θίγοντας κοινωνικά και πολιτικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g41fe6045a4e4446736da2e8bd0bd295a9783918d88c47ee724b9c83526830cd1c65cfeacb1c72829f76f2fd8f6c13b081aab43c4394c1bcd20232a7f3c7ac1b5_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-11T05:00:00.000Z"
-    },
-    {
-      "id": "089cccc85733",
-      "title": "Οι αθλητικές μεταδόσεις (14/2): Πού θα δείτε το Λεβαδειακός-Ολυμπιακός και δράση στα ευρωπαϊκά πρωταθλήματα",
-      "simpleTitle": "Αθληματικές μεταδόσεις στις 14/2",
-      "simpleText": "Σήμερα, 14 Φεβρουαρίου, είναι μια γεμάτη ημέρα γεμάτη αθλήματα. Ξεχωρίζει το παιχνίδι Λεβαδειακός - Ολυμπιακός που θα γίνει στη Λιβαδειά στις 19:30. Στην τηλεόραση, οι φίλοι του αθλητισμού μπορούν να παρακολουθήσουν και άλλους αγώνες από διάφορα πρωταθλήματα, όπως ποδόσφαιρο και πόλο. Στο πρόγραμμα περιλαμβάνονται αγώνες από τη Serie A και τη Bundesliga, καθώς και άλλες σημαντικές διοργανώσεις. Είναι μια καλή ευκαιρία για τους φιλάθλους να παρακολουθήσουν τους αγαπημένους τους αθλητές και ομάδες. Να θυμάστε να προγραμματίσετε την παρακολούθηση των παιχνιδιών σας!",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/14/sports/football/oi-athlitikes-metadoseis-14-2-pou-tha-deite-to-levadeiakos-olympiakos-kai-drasi-sta-eyropaika-protathlimata/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/14/sports/football/oi-athlitikes-metadoseis-14-2-pou-tha-deite-to-levadeiakos-olympiakos-kai-drasi-sta-eyropaika-protathlimata/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-to-panellinio-protathlima-olympiakis-palis-andron-gynaikon-17-00-ertsports1/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση γεμίζει με πληροφορίες για αθλητικές μεταδόσεις και πρωταθλήματα, εστιάζοντας στους αγώνες και τις ομάδες. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τη μετάδοση ενός αθλητικού γεγονότος, συγκεκριμένα του Πανελληνίου Πρωταθλήματος Ολυμπιακής Πάλης, επομένως κατηγοριοποιείται ως αθλητική είδηση. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-14T07:26:32.000Z"
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ert-sports-live-ww&#038;autostart=true",
+      "publishedAt": "2026-02-14T14:50:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "101877ffdbc0",
-        "title": "Βράχος απειλεί να πέσει σε σπίτια στο Κατάκολο – Κατέρρευσε πρόσοψη σπιτιού στη Μεσσήνη από την έντονη βροχόπτωση",
-        "simpleTitle": "Κίνδυνος από βράχο στο Κατάκολο – Κατέρρευσε τοίχος σε σπίτι στη Μεσσήνη",
-        "simpleText": "Στην Πελοπόννησο υπάρχει μεγάλη ανησυχία λόγω της κακοκαιρίας. Στο Κατάκολο, ένας μεγάλος βράχος απειλεί να πέσει σε σπίτια. Οι αρχές έχουν εκκενώσει δέκα σπίτια για να προστατεύσουν τους κατοίκους. Ο δρόμος για το Κατάκολο είναι κλειστός, γιατί το έδαφος είναι ασταθές. Στη Μεσσήνη, ένα τοίχος σπιτιού κατέρρευσε λόγω των έντονων βροχών. Από τύχη, δεν υπήρξαν τραυματισμοί, γιατί οι ένοικοι δεν ήταν μέσα τη στιγμή της κατάρρευσης. Η περιοχή είναι αποκλεισμένη για λόγους ασφαλείας, μέχρι να γίνουν οι αναγκαίες εργασίες.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/vraxos-apeilei-na-pesei-se-spitia-sto-katakolo-katerreyse-prosopsi-spitiou-sti-messini-apo-tin-entoni-vroxoptosi/",
+        "id": "fb6110e58abd",
+        "title": "Μαρκ Ρούτε: Η Ρωσία δεν θα επιδιώξει τώρα να επιτεθεί σε χώρα – μέλος του ΝΑΤΟ",
+        "simpleTitle": "Ρούτε: Η Ρωσία δεν θα επιτεθεί σε κράτος του ΝΑΤΟ τώρα",
+        "simpleText": "Ο Μαρκ Ρούτε, γενικός γραμματέας του ΝΑΤΟ, δήλωσε ότι η Ρωσία έχει χάσει πολλούς στρατιώτες στην Ουκρανία. Εκτιμά ότι τους τελευταίους δύο μήνες σκοτώθηκαν περίπου 65.000 στρατιώτες. Σε συζήτηση στη Διάσκεψη του Μονάχου για την Ασφάλεια, είπε ότι το ΝΑΤΟ είναι τόσο ισχυρό που η Ρωσία δεν θα επιδιώξει να επιτεθεί σε κάποια χώρα μέλος του τώρα. Ο Ρούτε τόνισε ότι είναι σημαντικό να παραμείνει ισχυρό το ΝΑΤΟ και τα επόμενα χρόνια. Ακόμη, είπε ότι κανείς στην Ευρώπη δεν θέλει να αντικαταστήσει την προστασία που παρέχουν οι ΗΠΑ.",
+        "sourceName": "ERT News, TA NEA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/mark-route-i-rosia-den-tha-epidioksei-tora-na-epitethei-se-xora-melos-tou-nato/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/vraxos-apeilei-na-pesei-se-spitia-sto-katakolo-katerreyse-prosopsi-spitiou-sti-messini-apo-tin-entoni-vroxoptosi/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/14/greece/messini-katerreyse-prosopsi-spitiou-apo-tin-entoni-vroxoptosi-den-ypirksan-traymatismoi/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα ασφάλειας και υποδομών λόγω των ακραίων καιρικών φαινομένων, όπως η κατάρρευση κτιρίων και ο κίνδυνος κατολισθήσεων, που επηρεάζουν την υγεία και τη ζωή των κατοίκων.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260214-SK-katakolo.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260214-SK-katakolo.jpg",
-        "publishedAt": "2026-02-14T07:25:50.000Z"
-      },
-      {
-        "id": "2342629fb6a6",
-        "title": "Καιρός: Υψηλές θερμοκρασίες με νοτιάδες και βροχές",
-        "simpleTitle": "Ζέστη με βροχές και σκόνη από την Αφρική",
-        "simpleText": "Στις επόμενες μέρες, ο καιρός θα είναι ζεστός με υψηλές θερμοκρασίες. Η θερμοκρασία θα φτάσει τους 16 ως 20 βαθμούς Κελσίου, κυρίως στην ανατολική και τη νότια Ελλάδα. Θα υπάρχουν και βροχές, ιδιαίτερα στα δυτικά και βόρεια μέρη της χώρας. Επίσης, θα έχουμε και μεταφορά σκόνης από την Αφρική, που μπορεί να κάνει την ατμόσφαιρα πιο θολή. Οι ισχυροί άνεμοι θα φτάσουν μέχρι τα 9 μποφόρ και πρέπει να είμαστε προσεκτικοί, ιδίως στην Ανατολική Μακεδονία και τη Θράκη. Στη συνέχεια, η θερμοκρασία θα αρχίσει να πέφτει και ίσως έχουμε χιόνια σε ορεινές περιοχές.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-ypsiles-thermokrasies-me-notiades-kai-vroxes/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/kairos-ypsiles-thermokrasies-me-notiades-kai-vroxes/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564078757/kairos-ypsiles-thermokrasies-vroches-kai-afrikaniki-skoni-to-savvatokyriako/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τον καιρό και τις αναμενόμενες κλιματολογικές συνθήκες, όπως οι υψηλές θερμοκρασίες, οι βροχές και η μεταφορά σκόνης, που σχετίζονται με σοβαρά θέματα και προτάσεις προσοχής για την ασφάλεια.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260214-SK-METEO.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260214-SK-METEO.jpg",
-        "publishedAt": "2026-02-14T07:22:59.000Z"
-      },
-      {
-        "id": "cc341ba1cef5",
-        "title": "Αττική Οδός: Έκτακτες κυκλοφοριακές ρυθμίσεις στο ρεύμα προς αεροδρόμιο από την Ελευσίνα ως την Περιφερειακή Αιγάλεω",
-        "simpleTitle": "Κλειστές είσοδοι στην Αττική Οδό προς αεροδρόμιο",
-        "simpleText": "Οι είσοδοι της Αττικής Οδού προς το αεροδρόμιο είναι κλειστές μέχρι το μεσημέρι του Σαββάτου, 14 Φεβρουαρίου. Αυτές οι κλειστές είσοδοι βρίσκονται από την Ελευσίνα μέχρι την Περιφερειακή Αιγάλεω. Ο λόγος είναι ότι γίνονται εργασίες συντήρησης. Οι οδηγοί που θέλουν να πάνε στο αεροδρόμιο μπορούν να χρησιμοποιήσουν εναλλακτικές διαδρομές, όπως τη Λεωφόρο Αθηνών. Είναι σημαντικό να ακολουθούν τις οδηγίες για να φτάσουν με ασφάλεια στον προορισμό τους. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για τις εργασίες.",
-        "sourceName": "ERT News, Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/attiki-odos-ektaktes-kykloforiakes-rythmiseis-sto-reyma-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/attiki-odos-ektaktes-kykloforiakes-rythmiseis-sto-reyma-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564078796/attiki-odos-ektaktes-kykloforiakes-rythmiseis-pros-aerodromio-apo-tin-eleysina-os-tin-perifereiaki-aigaleo/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/14/society/kykloforiakes-rythmiseis-se-attiki-odo-kleistes-eisodoi-sto-reyma-pros-aerodromio/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές κυκλοφοριακές ρυθμίσεις στην Αττική Οδό, λόγω εργασιών συντήρησης, επηρεάζοντας τη μετακίνηση προς το αεροδρόμιο και απαιτώντας εναλλακτικές διαδρομές, κάτι που είναι σημαντικό από πλευράς ασφάλειας και δημόσιας υποδομής.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-14T07:04:32.000Z"
-      },
-      {
-        "id": "bc35c24531a8",
-        "title": "Λούτσα: Οδύνη για τον θάνατο του 15χρονου σε τροχαίο – Σε σοκ ο ανήλικος οδηγός, ούρλιαζε «τι έκανα;»",
-        "simpleTitle": "Λούτσα: Θλίψη για το θάνατο 15χρονου από τροχαίο",
-        "simpleText": "Η Λούτσα είναι σε μεγάλη θλίψη γιατί ένα 15χρονο παιδί σκοτώθηκε σε τροχαίο. Αυτό συνέβη το μεσημέρι της Παρασκευής, όταν το αυτοκίνητο στο οποίο ήταν, έπεσε σε δέντρο. Ο οδηγός ήταν επίσης 15 χρονών και είχε πάρει κρυφά τα κλειδιά του αυτοκινήτου από τους γονείς του. Στο αυτοκίνητο ήταν κι άλλοι δύο φίλοι του, οι οποίοι τραυματίστηκαν ελαφρά. Οι κάτοικοι άκουσαν τον θόρυβο και ειδοποίησαν την αστυνομία και το ΕΚΑΒ. Είναι σημαντικό να προσέχουμε πάντα στους δρόμους και να μην οδηγούμε αν είμαστε νέοι και χωρίς άδεια.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/14/greece/seismiki-donisi-64-vathmon-ston-eiriniko-konta-sta-vanoyatoy/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/14/greece/seismiki-donisi-64-vathmon-ston-eiriniko-konta-sta-vanoyatoy/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/13/society/troxaio-sti-loutsa-ti-ekana-ti-ekana-fonaze-o-15xronos-odigos/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό τροχαίο δυστύχημα που κόστισε τη ζωή ενός 15χρονου, γεγονός που προκαλεί ανησυχία και θλίψη στην κοινωνία.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gc0441a72a5b8f40ad10a289e06b423c8648ba0e72fa4aaa36a3e821de656f68acef011d768c8ebee2c6462e741ddb7cbbb44f47f20319ca2fc1bfec95fcd21bc_1280.jpg",
-        "videoUrl": "https://orangepress.gr/player?slug=8anathforo-troxaio-sth-loytsa-to-shmeio-ths-tragwdias",
-        "publishedAt": "2026-02-14T07:01:28.000Z"
-      },
-      {
-        "id": "01f40998fbf0",
-        "title": "Λαμία: Εντοπίστηκε σορός αγνώστων στοιχείων σε διαμέρισμα όπου ξέσπασε πυρκαγιά",
-        "simpleTitle": "Σορός βρέθηκε σε διαμέρισμα στη Λαμία μετά από φωτιά",
-        "simpleText": "Στη Λαμία, βρέθηκε μια σορός αγνώστων στοιχείων σε διαμέρισμα, κατά την κατάσβεση πυρκαγιάς. Η φωτιά ξέσπασε στην οδό Σατωβριάνδου. Για την κατάσβεση συμμετείχαν 12 πυροσβέστες με πέντε οχήματα. Η φωτιά έχει πλέον τεθεί υπό έλεγχο. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για την σορό ή τα αίτια της φωτιάς. Είναι σημαντικό να έχουμε προσοχή σε περιπτώσεις έκτακτης ανάγκης και να ακολουθούμε τους κανόνες ασφάλειας.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/lamia-entopistike-soros-agnoston-stoixeion-se-diamerisma-opou-ksespase-pyrkagia/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/lamia-entopistike-soros-agnoston-stoixeion-se-diamerisma-opou-ksespase-pyrkagia/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564078787/lamia-entopistike-soros-se-diamerisma-opoy-xespase-pyrkagia/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε έναν θάνατο και σε μια σοβαρή κατάσταση που προέκυψε από πυρκαγιά, γεγονότα που σχετίζονται με ζητήματα ασφάλειας και δημόσιας υγείας.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g093ebc72f149e761762397e07f019550f22c112d06a9b8e7a39a7f19d3ec534f68ac142b2fd81cf0bf3f10da1c281557eaa375cf501f4f270aa67cea2d4e6583_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-14T06:45:22.000Z"
-      },
-      {
-        "id": "73b61f9d5515",
-        "title": "Παρίσι: Αστυνομικοί πυροβόλησαν άνδρα που τους απείλησε με μαχαίρι κοντά στην Αψίδα του Θριάμβου",
-        "simpleTitle": "Αστυνομικοί στο Παρίσι πυροβόλησαν άνδρα με μαχαίρι",
-        "simpleText": "Στο Παρίσι, αστυνομικοί πυροβόλησαν έναν άνδρα που τους απείλησε με μαχαίρι κοντά στην Αψίδα του Θριάμβου. Το συμβάν έγινε το απόγευμα, λίγο πριν από μια τελετή στο μνημείο του Αγνώστου Στρατιώτη. Ο άνδρας τραυματίστηκε σοβαρά και μεταφέρθηκε στο νοσοκομείο, αλλά δυστυχώς έχασε τη ζωή του. Ένας αστυνομικός τραυματίστηκε ελαφρά κατά τα γεγονότα. Ο δράστης είχε μάλιστα παλαιότερα καταδικαστεί για επιθέσεις εναντίον αστυνομικών. Είναι σημαντικό να γνωρίζουμε αυτές τις πληροφορίες για την ασφάλεια όλων μας.",
-        "sourceName": "TA NEA, News.gr",
-        "sourceUrl": "https://www.tanea.gr/2026/02/13/world/parisi-astynomikoi-pyrovolisan-andra-pou-tous-apeilise-me-maxairi-konta-stin-apsida-tou-thriamvou/",
-        "sourceDomains": [
           "tanea.gr",
           "news.gr"
         ],
         "sources": [
           {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/mark-route-i-rosia-den-tha-epidioksei-tora-na-epitethei-se-xora-melos-tou-nato/"
+          },
+          {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/13/world/parisi-astynomikoi-pyrovolisan-andra-pou-tous-apeilise-me-maxairi-konta-stin-apsida-tou-thriamvou/"
+            "url": "https://www.tanea.gr/2026/02/14/world/diaskepsi-monaxoy-royte-to-nato-einai-arketa-isxyro-i-rosia-den-tha-epidioksei-na-epitethe/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4074962/astinomiki-pirovolisan-andra-pou-tous-apilise-me-macheri-konta-stin-apsida-tou-thriamvou-sto-parisi.html"
+            "url": "https://www.news.gr/kosmos/article/4075260/route-to-nato-ine-arketa-ischiro-oste-i-rosia-den-tha-epidioxi-tora-na-epitethi-se-chora-melos-tou.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά ένα σοβαρό περιστατικό βίας και ασφάλειας, περιλαμβάνοντας πυροβολισμό από αστυνομικούς και την απώλεια ζωής ενός ατόμου. Αυτά τα θέματα σχετίζονται με την ασφάλεια των πολιτών και τις ενέργειες της αστυνομίας.",
+        "categoryReason": "Η είδηση αναφέρεται σε στρατηγικές δηλώσεις του γενικού γραμματέα του ΝΑΤΟ σχετικά με τις στρατιωτικές απώλειες της Ρωσίας και την ασφάλεια των χωρών μελών του ΝΑΤΟ, κάτι που αφορά σοβαρά ζητήματα πολιτικής και ασφάλειας.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gad92cbdad82d6334932b5172e47a40f672f5dedcfb9c699920fe960f25564944c5c11092a02235f97ef1bb9ffafd757e6364b63de91ce382ccef48b48c599d7d_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-13T21:50:20.000Z"
-      }
-    ],
-    "happy": [
+        "publishedAt": "2026-02-14T15:31:24.000Z"
+      },
       {
-        "id": "78f842d19034",
-        "title": "Εορτολόγιο: Ποιοι γιορτάζουν στις 14 Φεβρουαρίου",
-        "simpleTitle": "Ποιοι γιορτάζουν στις 14 Φεβρουαρίου",
-        "simpleText": "Στις 14 Φεβρουαρίου γιορτάζουν κάποια ονόματα, όπως Βαλεντίνη, Βαλεντίνα, Ντίνα και Ντίνος. Αυτή η μέρα είναι αφιερωμένη στον Άγιο Βαλεντίνο, ο οποίος ήταν ιερέας και υπέστη διωγμούς. Η ημέρα αυτή είναι επίσης γνωστή ως Παγκόσμια Ημέρα Γάμου και Διεθνής Ημέρα Προσευχής για άτομα με αυτισμό. Είναι σημαντική γιατί μας υπενθυμίζει την αγάπη και την υποστήριξη για όσους έχουν ανάγκη. Μπορούμε να γιορτάσουμε με απλές πράξεις καλοσύνης προς τους άλλους.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-14-fevrouariou/",
+        "id": "abf0778ea1c6",
+        "title": "Ιράν: Εκκληση του γιου του τελευταίου σάχη, για αμερικανική στρατιωτική επέμβαση",
+        "simpleTitle": "Έκκληση για αμερικανική παρέμβαση στο Ιράν",
+        "simpleText": "Ο Ρεζά Παχλαβί, γιος του τελευταίου σάχη του Ιράν, ζητάει αμερικανική στρατιωτική παρέμβαση στη χώρα του. Την δήλωση αυτή έκανε σε συνέντευξή του και είπε πως μια τέτοια κίνηση θα μπορούσε να σώσει ζωές. Ο Παχλαβί τόνισε ότι η ιρανική κυβέρνηση είναι σε δύσκολη θέση και είναι πιθανό να καταρρεύσει. Η δήλωση έγινε στη Διάσκεψη του Μονάχου για την Ασφάλεια, όπου δεν συμμετείχαν εκπρόσωποι της ιρανικής κυβέρνησης.\n\nΗ κατάσταση στο Ιράν είναι τεταμένη, με πολλές διαδηλώσεις. Οι πολίτες αγωνίζονται για τα δικαιώματά τους και η κυβέρνηση προσπαθεί να τους αποτρέψει με συλλήψεις. Ο Παχλαβί ελπίζει ότι η παρέμβαση μπορεί να βοηθήσει τους ανθρώπους να συνεχίσουν τον αγώνα τους.",
+        "sourceName": "Kathimerini, TA NEA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564079162/iran-ekklisi-toy-gioy-toy-teleytaioy-sachi-gia-amerikaniki-stratiotiki-epemvasi/",
         "sourceDomains": [
-          "ertnews.gr",
+          "kathimerini.gr",
           "tanea.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-stis-14-fevrouariou/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564079162/iran-ekklisi-toy-gioy-toy-teleytaioy-sachi-gia-amerikaniki-stratiotiki-epemvasi/"
           },
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/14/greece/eortologio-poioi-giortazoun-simera-14-fevrouariou/"
+            "url": "https://www.tanea.gr/2026/02/14/world/iran-o-reza-paxlavi-o-gios-toy-teleytaioy-saxi-kanei-ekklisi-gia-amerikaniki-stratiotiki-e/"
           }
         ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αφορά τον εορτασμό της ημέρας του Αγίου Βαλεντίνου, που προάγει την αγάπη και τις θετικές πράξεις καλοσύνης, συνδέοντάς την με μια χαρούμενη ατμόσφαιρα.",
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρά πολιτικά ζητήματα στο Ιράν, περιλαμβάνει εκκλήσεις για στρατιωτική παρέμβαση και αναφέρεται σε κοινωνικές αναταραχές και παραβιάσεις δικαιωμάτων.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-14T06:05:32.000Z"
+        "publishedAt": "2026-02-14T15:17:17.000Z"
+      },
+      {
+        "id": "950ac88a8d24",
+        "title": "Συνελήφθη εκ νέου ο ιδιοκτήτης της «Βιολάντα» μετά την αναβάθμιση του κατηγορητηρίου",
+        "simpleTitle": "Ξανά συνελήφθη ο ιδιοκτήτης της «Βιολάντα» λόγω νέων κατηγοριών",
+        "simpleText": "Ο ιδιοκτήτης της επιχείρησης Βιολάντα συνελήφθη και πάλι από τις Αρχές. Αυτό έγινε γιατί η κατηγορία που του είχε απαγγελθεί άλλαξε σε πιο σοβαρή. Πριν ήταν ανθρωποκτονία από αμέλεια, αλλά τώρα είναι ενδεχόμενο δόλου. Αυτό σημαίνει ότι μπορεί να υπήρξαν λάθη που δεν παρατηρήθηκαν νωρίτερα. Η αλλαγή αυτή είναι σημαντική, γιατί σημαίνει ότι η υπόθεση εξετάζεται πιο σοβαρά. Δεν γνωρίζουμε ακόμα τι θα γίνει στη συνέχεια.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/society/564079123/synelifthi-ek-neoy-o-idioktitis-tis-violanta-meta-tin-anavathmisi-toy-katigoritirioy/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564079123/synelifthi-ek-neoy-o-idioktitis-tis-violanta-meta-tin-anavathmisi-toy-katigoritirioy/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4075263/sinelifthi-o-idioktitis-tis-violanta-meta-tin-anavathmisi-tou-katigoritiriou.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρή νομική υπόθεση με διαδικασίες ποινικού δικαίου και αναβάθμιση κατηγορίας, που σχετίζεται με την ασφάλεια και τη δικαιοσύνη.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-14T14:58:16.000Z"
+      },
+      {
+        "id": "d1f8a984127b",
+        "title": "Αποκαλύψεις για τον θάνατο του Ναβάλνι: Δηλητηριάστηκε με σπάνια τοξίνη βατράχου",
+        "simpleTitle": "Ο Ναβάλνι και η τοξίνη από βάτραχο",
+        "simpleText": "Ο Αλεξέι Ναβάλνι δηλητηριάστηκε με μια σπάνια τοξίνη από βάτραχο της Νότιας Αμερικής. Αυτό είναι σημαντικό γιατί οι χώρες Βρετανία, Γαλλία, Γερμανία, Σουηδία και Ολλανδία πιστεύουν ότι η Ρωσία χρησιμοποίησε επικίνδυνα χημικά όπλα. Η ανακοίνωση για τον θάνατό του έγινε στη Διάσκεψη του Μονάχου. Οι κυβερνήσεις αυτές καταγγέλλουν τη Ρωσία για τις πράξεις της, και αυτό έχει σοβαρές συνέπειες για τις διεθνείς σχέσεις. Δεν έχει ανακοινωθεί τι θα γίνει στη συνέχεια, αλλά όλοι παρακολουθούν την κατάσταση για να δουν πώς θα εξελιχθεί.",
+        "sourceName": "TO BHMA, Protagon",
+        "sourceUrl": "https://www.tovima.gr/2026/02/14/world/apokalypseis-gia-ton-thanato-tou-navalni-dilitiriastike-me-spania-toksini-vatraxou/",
+        "sourceDomains": [
+          "tovima.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/14/world/apokalypseis-gia-ton-thanato-tou-navalni-dilitiriastike-me-spania-toksini-vatraxou/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/o-navalni-dilitiriastike-me-toksini-vatraxou-44343312648"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρές καταγγελίες για τη χρήση χημικών όπλων από τη Ρωσία, που επηρεάζουν τις διεθνείς σχέσεις και ασφάλεια.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-14T14:54:27.000Z"
+      },
+      {
+        "id": "95f241267bb7",
+        "title": "Χαλκιδική: Τροχαίο δυστύχημα στη Νέα Καλλικράτεια- Νεκρός 75χρονος",
+        "simpleTitle": "Τροχαίο στη Χαλκιδική με νεκρό 75χρονο",
+        "simpleText": "Σήμερα, 14 Φεβρουαρίου, συνέβη ένα σοβαρό τροχαίο στη Νέα Καλλικράτεια Χαλκιδικής. Δύο αυτοκίνητα συγκρούστηκαν το πρωί, γύρω στις 8:20. Ο 75χρονος οδηγός δεν κατάφερε να επιβιώσει. Ο άλλος οδηγός, ένας 31χρονος από την Αλβανία, τραυματίστηκε και πήγε στο νοσοκομείο για βοήθεια.\n\nΟι αστυνομικοί ερευνούν το ατύχημα για να καταλάβουν τι ακριβώς συνέβη. Είναι πολύ λυπηρό που χάθηκε μια ζωή, και είναι σημαντικό να προσέχουμε όταν οδηγούμε.",
+        "sourceName": "ERT News, TA NEA, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/ert3/xalkidiki-troxaio-dystyxima-sti-nea-kallikrateia-nekros-75xronos/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/ert3/xalkidiki-troxaio-dystyxima-sti-nea-kallikrateia-nekros-75xronos/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/14/greece/nekros-75xronos-se-troxaio-sti-nea-kallikrateia-xalkidikis/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4075255/ti-zoi-tou-echase-75chronos-se-trocheo-sti-nea-kallikratia-chalkidikis.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα με θανάσιμους τραυματισμούς, γεγονός που προϋποθέτει σοβαρότητα και ευαισθησία.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gd8abde216226f795172184f388278ea6644a8d46065549df511003d1afd9bf86420d6b11084e6bb190f616105e1d5ffae4e5c2f8b085b4d734492d3eda4c2040_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-14T14:50:24.000Z"
+      },
+      {
+        "id": "679a7d9cff01",
+        "title": "Θεσσαλονίκη: Αύξηση των περιστατικών βίας σε βάρος γιατρών και νοσηλευτών σε νοσοκομεία διαπίστωσαν ομιλητές σε ημερίδα του Ιατρικού Συλλόγου",
+        "simpleTitle": "Αύξηση βίας κατά γιατρών και νοσηλευτών στη Θεσσαλονίκη",
+        "simpleText": "Στη Θεσσαλονίκη, έγινε μια εκδήλωση όπου οι ομιλητές μίλησαν για την αύξηση της βίας σε νοσοκομεία. Αυτό δημιουργεί φόβο στους γιατρούς και τους νοσηλευτές. Οι οργανώσεις ζητούν καλύτερη προστασία για αυτούς τους ανθρώπους. Είπαν ότι στα νοσοκομεία πρέπει να έχουμε μηδενική ανοχή στη βία. Υπάρχουν ήδη νόμοι για να τιμωρούνται οι επιθέσεις, αλλά χρειάζονται και περισσότερα μέτρα. Είναι πολύ σημαντικό να διασφαλίσουμε την ασφάλεια όλων των υγειονομικών, ώστε να μπορούν να κάνουν τη δουλειά τους χωρίς φόβο.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ayksisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton-se-nosokomeia-diapistosan-omilites-se-imerida-tou-iatrikou-syllogou/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/ert3/thessaloniki-ayksisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton-se-nosokomeia-diapistosan-omilites-se-imerida-tou-iatrikou-syllogou/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564079063/thessaloniki-ayxisi-ton-peristatikon-vias-se-varos-giatron-kai-nosileyton/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την αύξηση περιστατικών βίας σε νοσοκομεία, ένα σοβαρό ζήτημα που επηρεάζει την ασφάλεια των υγειονομικών και απαιτεί νομικά και κοινωνικά μέτρα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g5ab89905fcb9bf7273e66300f846fe226d03ba2f06e080c2ff5e97e567ea106ec0e2f3491337a4f4277722cb133ba6cc5e4f8c0a8f7b231f0a48648e327f2e69_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-14T14:50:00.000Z"
+      }
+    ],
+    "happy": [
+      {
+        "id": "38ccfcea556d",
+        "title": "Νίκη για την επιστήμη: Σώθηκε ο καθαρότερος ουρανός του κόσμου στη Χιλή",
+        "simpleTitle": "Χαρά για την επιστήμη: Σώθηκε ο καθαρός ουρανός στη Χιλή",
+        "simpleText": "Η επιστημονική κοινότητα έχει λόγο να χαίρεται, γιατί προστατεύθηκε ο νυχτερινός ουρανός στη Χιλή. Ένα μεγάλο και αμφιλεγόμενο έργο, που είχε στόχο την παραγωγή πράσινου υδρογόνου, ακυρώθηκε. Αυτό σημαίνει ότι η έρημος Ατακάμα θα παραμείνει ο πιο καθαρός ορίζοντας στον κόσμο. Αυτή η απόφαση είναι σημαντική για το φυσικό περιβάλλον και τη μελέτη του διαστήματος. Έτσι, οι επιστήμονες μπορούν να συνεχίσουν να εξερευνούν το Σύμπαν χωρίς εμπόδια.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/32023-prostasia-nyxterinou-ouranou-xili-akyrosi-ergou-inna/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/32023-prostasia-nyxterinou-ouranou-xili-akyrosi-ergou-inna/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η είδηση αφορά έναν σημαντικό θρίαμβο για την επιστημονική κοινότητα που διασφαλίζει την προστασία του φυσικού περιβάλλοντος και την έρευνα, προκαλώντας θετική αντίκτυπο και χαρά για την επιστήμη.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-14T11:41:54.000Z"
       },
       {
         "id": "37f5374ecf12",
         "title": "Πώς η επαφή με τη φύση επηρεάζει θετικά την ψυχική ισορροπία του παιδιού",
-        "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι καλά",
-        "simpleText": "Σήμερα, πολλά παιδιά περνούν περισσότερο χρόνο μπροστά σε οθόνες και λιγότερο στη φύση. Αυτό δεν είναι καλό, γιατί η επαφή με το φυσικό περιβάλλον μπορεί να τους βοηθήσει. Η φύση μειώνει το άγχος και τους κάνει πιο ήρεμους. Είναι πολύ σημαντική για την ψυχική υγεία τους και για να γίνουν χαρούμενοι και υγιείς. Όταν παίζουν ή απλά βρίσκονται έξω, τα παιδιά ανακτούν την ισορροπία τους. Χρειάζεται να ξοδεύουν περισσότερο χρόνο στη φύση για να νιώθουν καλύτερα.",
+        "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι ευτυχισμένα",
+        "simpleText": "Σήμερα, τα παιδιά περνούν πολύ χρόνο μπροστά από οθόνες και δεν βγαίνουν έξω. Όμως, η επαφή με τη φύση είναι πολύ καλή για την ψυχική τους υγεία. Όταν τα παιδιά έχουν χρόνο στη φύση, νιώθουν πιο ήρεμα. Αυτό τους βοηθά να μειώσουν το άγχος και την ένταση που μπορεί να νιώθουν. Είναι πολύ σημαντικό να παίζουν και να εξερευνούν το φυσικό κόσμο, γιατί έτσι αναπτύσσονται καλύτερα. Η φύση τους δίνει χαρά και τους βοηθά να είναι πιο ευτυχισμένα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31921-paidi-epafi-fisi-psixiki-isorropia/",
         "sourceDomains": [
@@ -711,7 +767,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στα οφέλη της επαφής με τη φύση για την ψυχική υγεία των παιδιών, προάγοντας μια θετική και χαρούμενη διάσταση στην ανάπτυξή τους.",
+        "categoryReason": "Η είδηση αναφέρεται στους θετικούς αντίκτυπους που έχει η επαφή με τη φύση στη ψυχική υγεία των παιδιών, προάγοντας τη χαρά και την ευτυχία τους.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -720,8 +776,8 @@
       {
         "id": "2951116448e0",
         "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
-        "simpleTitle": "Πώς οι δουλειές στο σπίτι βοηθούν τα παιδιά να γίνουν πιο ανεξάρτητα",
-        "simpleText": "Οι δουλειές στο σπίτι μπορεί να φαίνονται συχνά αδιάφορες, αλλά είναι πολύ σημαντικές για τα παιδιά. Όταν συμμετέχουν σε αυτές, μαθαίνουν να είναι πιο ανεξάρτητα και αποκτούν αυτοπεποίθηση. Οι μικρές αυτές δραστηριότητες δεν είναι βαρετές. Αντίθετα, είναι μια καλή ευκαιρία να μάθουν μέσα από την καθημερινότητά τους. Με την υπευθυνότητα που αποκτούν, τα παιδιά γίνονται πιο ικανά να φροντίσουν τον εαυτό τους και το περιβάλλον τους. Είναι καλό να ενθαρρύνουμε τα παιδιά να συμμετέχουν, γιατί αυτό τους βοηθά να γίνουν καλύτεροι άνθρωποι.",
+        "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+        "simpleText": "Οι καθημερινές δουλειές στο σπίτι βοηθούν τα παιδιά να μεγαλώσουν και να γίνουν πιο ανεξάρτητα. Όταν συμμετέχουν σε αυτές τις δουλειές, μαθαίνουν να αναλαμβάνουν ευθύνες. Αυτό τους δίνει αυτοπεποίθηση, δηλαδή εμπιστοσύνη στον εαυτό τους. Οι απλές δράσεις, όπως το να βάζουν τα παιχνίδια τους στη θέση τους ή να βοηθούν στο σερβίρισμα του φαγητού, δεν είναι βαρετές. Αντίθετα, είναι ευκαιρίες για μάθηση. Είναι σημαντικό για τα παιδιά να μάθουν να φροντίζουν τον εαυτό τους και να γίνονται πιο ικανά. Έτσι, νιώθουν καλύτερα και είναι πιο έτοιμα για το μέλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
         "sourceDomains": [
@@ -734,7 +790,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση εστιάζει στη θετική επίδραση που έχουν οι δουλειές στο σπίτι στην αυτονομία και την αυτοπεποίθηση των παιδιών, προβάλλοντας έτσι μια χαρούμενη και ενθαρρυντική προσέγγιση στην εκπαίδευση τους.",
+        "categoryReason": "Η είδηση ενθαρρύνει την ανάπτυξη της αυτονομίας και της αυτοπεποίθησης στα παιδιά μέσω απλών καθημερινών δραστηριοτήτων, προάγοντας θετικά μηνύματα για την προσωπική ανάπτυξη.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -743,8 +799,8 @@
       {
         "id": "77b983e2cabd",
         "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-        "simpleTitle": "Καλή νέα από τη λίμνη Μόρνου μετά τη βροχή",
-        "simpleText": "Η λίμνη Μόρνου, που είναι σημαντική για την Αθήνα, δείχνει θετικές αλλαγές. Η στάθμη του νερού ανεβαίνει μετά από βροχοπτώσεις, κάτι που μας δίνει ελπίδα. Αυτή η άνοδος του νερού σημαίνει ότι τα αποθέματα μπορεί να βελτιωθούν. Οι καιρικές συνθήκες φαίνεται να βοηθούν την κατάσταση. Είναι μια ευχάριστη είδηση που δείχνει την ανάγκη για καλή διαχείριση του νερού.",
+        "simpleTitle": "Αύξηση νερού στη λίμνη Μόρνου μετά τις βροχές",
+        "simpleText": "Η λίμνη Μόρνου, που παρέχει νερό στην Αθήνα, δείχνει βελτίωση μετά τις βροχές. Η στάθμη του νερού έχει ανέβει σημαντικά. Αυτή η αύξηση φέρνει ελπίδα ότι θα έχουμε περισσότερα αποθέματα νερού. Είναι καλό νέο για τον κόσμο, γιατί οι βροχές βοηθάνε την περιοχή. Οι καιρικές συνθήκες φαίνεται πως ήταν ευνοϊκές. Δεν ξέρουμε ακόμα αν θα συνεχιστεί αυτή η αύξηση, αλλά όλοι περιμένουν τα καλύτερα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
         "sourceDomains": [
@@ -757,7 +813,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε θετικές εξελίξεις σχετικά με τη στάθμη του νερού στη λίμνη Μόρνου, προσδιορίζοντας ελπίδες για την καλή διαχείριση των υδάτινων πόρων, γεγονός που φέρνει αισιοδοξία.",
+        "categoryReason": "Η είδηση μεταφέρει μια θετική κατάσταση σχετικά με τη βελτίωση της στάθμης νερού στη λίμνη Μόρνου, προσφέροντας αισιοδοξία για τις υδάτινες προμήθειες της Αθήνας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -766,33 +822,33 @@
     ],
     "sports": [
       {
-        "id": "089cccc85733",
-        "title": "Οι αθλητικές μεταδόσεις (14/2): Πού θα δείτε το Λεβαδειακός-Ολυμπιακός και δράση στα ευρωπαϊκά πρωταθλήματα",
-        "simpleTitle": "Αθληματικές μεταδόσεις στις 14/2",
-        "simpleText": "Σήμερα, 14 Φεβρουαρίου, είναι μια γεμάτη ημέρα γεμάτη αθλήματα. Ξεχωρίζει το παιχνίδι Λεβαδειακός - Ολυμπιακός που θα γίνει στη Λιβαδειά στις 19:30. Στην τηλεόραση, οι φίλοι του αθλητισμού μπορούν να παρακολουθήσουν και άλλους αγώνες από διάφορα πρωταθλήματα, όπως ποδόσφαιρο και πόλο. Στο πρόγραμμα περιλαμβάνονται αγώνες από τη Serie A και τη Bundesliga, καθώς και άλλες σημαντικές διοργανώσεις. Είναι μια καλή ευκαιρία για τους φιλάθλους να παρακολουθήσουν τους αγαπημένους τους αθλητές και ομάδες. Να θυμάστε να προγραμματίσετε την παρακολούθηση των παιχνιδιών σας!",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/14/sports/football/oi-athlitikes-metadoseis-14-2-pou-tha-deite-to-levadeiakos-olympiakos-kai-drasi-sta-eyropaika-protathlimata/",
+        "id": "7a2bd9ab6161",
+        "title": "Live streaming: Δείτε το Πανελλήνιο Πρωτάθλημα Ολυμπιακής Πάλης Ανδρών – Γυναικών (17:00, ΕΡΤSports1)",
+        "simpleTitle": "Ζωντανή μετάδοση του Πανελληνίου Πρωταθλήματος Πάλης",
+        "simpleText": "Σήμερα στις 17:00, θα γίνει το Πανελλήνιο Πρωτάθλημα Ολυμπιακής Πάλης Ανδρών και Γυναικών. Ο χώρος που διεξάγεται είναι στη Θεσσαλονίκη. Οι φίλοι της πάλης μπορούν να παρακολουθήσουν το πρωτάθλημα ζωντανά από το κανάλι ΕΡΤSports1. Είναι μια σπουδαία ευκαιρία να δούμε τους καλύτερους αθλητές στην πάλη και να τους υποστηρίξουμε. Για να παρακολουθήσετε, μπορείτε να συνδεθείτε μέσω ERTFLIX. Να θυμάστε να είστε συνδεδεμένοι στην ώρα σας!",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-to-panellinio-protathlima-olympiakis-palis-andron-gynaikon-17-00-ertsports1/",
         "sourceDomains": [
-          "tanea.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/14/sports/football/oi-athlitikes-metadoseis-14-2-pou-tha-deite-to-levadeiakos-olympiakos-kai-drasi-sta-eyropaika-protathlimata/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-to-panellinio-protathlima-olympiakis-palis-andron-gynaikon-17-00-ertsports1/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση γεμίζει με πληροφορίες για αθλητικές μεταδόσεις και πρωταθλήματα, εστιάζοντας στους αγώνες και τις ομάδες. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τη μετάδοση ενός αθλητικού γεγονότος, συγκεκριμένα του Πανελληνίου Πρωταθλήματος Ολυμπιακής Πάλης, επομένως κατηγοριοποιείται ως αθλητική είδηση. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-14T07:26:32.000Z"
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ert-sports-live-ww&#038;autostart=true",
+        "publishedAt": "2026-02-14T14:50:00.000Z"
       },
       {
         "id": "0bda0d53d9d5",
         "title": "EuroLeague Final Four 2026: Τα εισιτήρια στην Αθήνα σπάνε κάθε ρεκόρ, sold out η πρώτη φάση",
-        "simpleTitle": "Πωλήσεις εισιτηρίων EuroLeague 2026 στην Αθήνα",
-        "simpleText": "Η EuroLeague Final Four 2026 θα γίνει στην Αθήνα και όλοι περιμένουν με ανυπομονησία. Η πώληση των εισιτηρίων άρχισε στις 10 Φεβρουαρίου. Μόλις άνοιξε, η ζήτηση ήταν τόσο μεγάλη που το σύστημα δεν άντεξε και σταμάτησε. Πολλοί φίλαθλοι ήθελαν να αγοράσουν εισιτήριο, γι' αυτό και τα εισιτήρια στην πρώτη φάση έχουν ήδη εξαντληθεί. Αυτό δείχνει πόσο σημαντική είναι η διοργάνωση για την πόλη και τους φιλάθλους του μπάσκετ. Δεν ξέρουμε ακόμα πότε θα γίνουν οι επόμενες πωλήσεις εισιτηρίων.",
+        "simpleTitle": "Φιλιάθλοι τρέχουν για εισιτήρια Final Four EuroLeague 2026",
+        "simpleText": "Στην Αθήνα ετοιμαζόμαστε για το μεγάλο γεγονός της EuroLeague το 2026. Έχει αρχίσει η πώληση εισιτηρίων και οι φιλάθλοι δείχνουν μεγάλο ενδιαφέρον. Η πρώτη φάση πώλησης άνοιξε στις 10 Φεβρουαρίου, αλλά τα εισιτήρια εξαντλήθηκαν πολύ γρήγορα. Οι υπολογιστές δεν άντεξαν και το σύστημα έπεσε λόγω της μεγάλης ζήτησης. Αυτό δείχνει πόσο πολύ περιμένουν οι φιλάθλοι να παρακολουθήσουν τους αγώνες. Είναι σημαντικό γεγονός για το μπάσκετ, γιατί φέρνει κοντά πολλούς ανθρώπους και δημιουργεί ενθουσιασμό στην πόλη.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31968-euroleague-eisitiria-athina-final-four-2026-times/",
         "sourceDomains": [
@@ -805,9 +861,9 @@
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά την EuroLeague Final Four, μια σημαντική αθλητική διοργάνωση στο μπάσκετ, και το ρεκόρ πωλήσεων εισιτηρίων που δείχνει το ενδιαφέρον των φιλάθλων.",
+        "categoryReason": "Η είδηση αφορά την EuroLeague και την πώληση εισιτηρίων για το Final Four, γεγονός σχετικό με τον αθλητισμό και το μπάσκετ.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g201296f2ac3f24e350982f9b9d5f48f798013c671a594c65e55543f0ec53b2da071b1b3e88bd1044a71c7674bf532eaa0160aaaa840a95b0e0ffd56c4e58630b_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g638444f7e30c45f0d61fd355aecc4323cca36b06f73109f37a5b2371919c7188817c8cb2b6e28a5f2e771b1309b7bb525d6c5fa017ea91daecb5a3f656adf118_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-11T09:53:08.000Z"
       }
@@ -816,43 +872,10 @@
     "culture": [],
     "fun": [
       {
-        "id": "0f57f2650b86",
-        "title": "Eurovision 2026: Αυτοί είναι οι επτά φιναλίστ που πέρασαν στον τελικό του Sing for Greece από τον δεύτερο Ημιτελικό",
-        "simpleTitle": "Φιναλίστ στο Sing for Greece για Eurovision 2026",
-        "simpleText": "Επτά καλλιτέχνες πέρασαν στον τελικό του διαγωνισμού Sing for Greece, που είναι σημαντικός για την επιλογή της Ελλάδας στη Eurovision 2026. Αυτό συνέβη από τον δεύτερο Ημιτελικό που έγινε πρόσφατα. Οι καλλιτέχνες με τα τραγούδια τους ενθουσίασαν το κοινό και δημιούργησαν πολλές προσδοκίες για τον τελικό. Ο τελικός θα γίνει την Κυριακή 15 Φεβρουαρίου. Εκεί, θα αναδειχθεί ο νικητής που θα εκπροσωπήσει τη χώρα μας. Η εκδήλωση θα περιλαμβάνει και την ψήφο του κοινού, καθώς και κριτικές επιτροπές. Οι τρεις παρουσιαστές της βραδιάς είναι γνωστά πρόσωπα της ελληνικής τηλεόρασης.",
-        "sourceName": "TA NEA, TO BHMA, News.gr",
-        "sourceUrl": "https://www.tanea.gr/2026/02/13/lifestyle/eurovision-2026-aytoi-einai-oi-epta-finalist-poy-perasan-ston-teliko-toy-sing-for-greece-a/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/13/lifestyle/eurovision-2026-aytoi-einai-oi-epta-finalist-poy-perasan-ston-teliko-toy-sing-for-greece-a/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/13/culture/eurovision-2026-sing-for-greece-oi-finalist-tou-%ce%84v-imitelikou/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/media/article/4074997/sing-for-greece-2026-afti-ine-i-efta-nikites-tou-v-ellinkou-imitelikou-tis-eurovision.html"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση επικεντρώνεται στον διαγωνισμό Eurovision και τις εξελίξεις γύρω από τον ελληνικό τελικό, κάτι που σχετίζεται άμεσα με τον πολιτισμό και την ψυχαγωγία, όπως είναι οι εκδηλώσεις της μουσικής και οι τηλεοπτικές παραγωγές.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gab698e42cd1225b4b7df195ec295359937e2776b6514f2a11bc3c22bd91b173f9f3a39ba025f52d68060013468e16a6d9e36a5b8f65ebc387d9ac7190e4ae35d_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-13T22:02:38.000Z"
-      },
-      {
         "id": "8a1f0ba56c5a",
         "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-        "simpleTitle": "Τσικνοπέμπτη: Τι γιορτάζουμε σήμερα",
-        "simpleText": "Η Τσικνοπέμπτη είναι μια σημαντική μέρα στην Ελλάδα. Γιορτάζεται με ψητά φαγητά και παρέες γύρω από φωτιά. Οι άνθρωποι μαζεύονται και γιορτάζουν όλοι μαζί. Το έθιμο αυτό έχει ιστορία και είναι συνδεδεμένο με την παράδοση. Σήμερα, η Τσικνοπέμπτη σημαίνει περισσότερα από φαγητό. Είναι μια ευκαιρία για να περάσουμε ωραία με τους φίλους και την οικογένεια. Οι μυρωδιές από τα ψητά κάνουν την ημέρα ειδική. Είναι μια γιορτή που φέρνει χαρά και διασκέδαση σε όλους.",
+        "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
+        "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή γιορτή στην Ελλάδα. Οι άνθρωποι μαζεύονται και ψήνουν κρέατα, απολαμβάνοντας όμορφες μυρωδιές και παρέες. Αυτή η ημέρα έχει πολλές παραδόσεις και η σημασία της έχει αλλάξει τα τελευταία χρόνια. Σήμερα, συνδέεται με τη γιορτή και τη διασκέδαση, αλλά και με την κατανάλωση φαγητού. Η Τσικνοπέμπτη φέρνει ενθουσιασμό πριν την Καθαρά Δευτέρα, που σηματοδοτεί την αρχή της Σαρακοστής. Πολλοί άνθρωποι προγραμματίζουν πού θα γιορτάσουν και με ποιους θα είναι μαζί. Είναι μια μέρα γεμάτη χαρά και αγάπης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
         "sourceDomains": [
@@ -865,7 +888,7 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή γεμάτη διασκέδαση και χαρά, επικεντρωμένη σε φαγητό και κοινωνικές συγκεντρώσεις.",
+        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που σχετίζεται με τη διασκέδαση, τη συνάθροιση με φίλους και την κατανάλωση φαγητού, στοιχείο που την καθιστά κυρίως μια χαρούμενη και ευχάριστη εκδήλωση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -875,7 +898,7 @@
         "id": "ac56b559fdc4",
         "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
         "simpleTitle": "Διαφορές ανάμεσα σε BAFTA και Όσκαρ",
-        "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν να δουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα δύο βραβεία είναι πολύ σημαντικά για τους δημιουργούς ταινιών. Τα BAFTA δίνονται στη Βρετανία, ενώ τα Όσκαρ στις Ηνωμένες Πολιτείες. Οι διαφορετικές χώρες έχουν τον δικό τους τρόπο να τιμούν τις καλύτερες ταινίες. Είναι σημαντικά γιατί δείχνουν ποιοι δημιουργοί και ποιες ιστορίες ξεχωρίζουν. Αυτοί οι θεσμοί ενώνουν τους ανθρώπους και φέρνουν την τέχνη πιο κοντά μας.",
+        "simpleText": "Κάθε χρόνο, οι άνθρωποι που αγαπούν τον κινηματογράφο περιμένουν τα βραβεία BAFTA και Όσκαρ. Αυτά τα δύο βραβεία είναι πολύ σημαντικά για τους δημιουργούς ταινιών. Τα BAFTA γίνονται στη Βρετανία, ενώ τα Όσκαρ συνήθως γίνονται στην Αμερική. Ο κάθε θεσμός έχει τη δική του ιστορία και κανόνες. Αυτά τα βραβεία ξεχωρίζουν γιατί αναγνωρίζουν τις καλύτερες ταινίες και τους καλύτερους ηθοποιούς. Είναι σημαντικά γιατί ενώνουν τους ανθρώπους μέσα από τις ιστορίες που διηγούνται. Δεν ξέρουμε ακόμα τις ημερομηνίες για την επόμενη απονομή τους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
         "sourceDomains": [
@@ -888,7 +911,7 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Το άρθρο αναφέρεται στις διαφορές των βραβείων BAFTA και Όσκαρ, που αφορούν τον κινηματογράφο και τις σχετικές βραβεύσεις, καθιστώντας το κατάλληλο για την κατηγορία των οθονών.",
+        "categoryReason": "Η είδηση αφορά τις διαφορές μεταξύ των βραβείων BAFTA και Όσκαρ, εστιάζοντας στον κινηματογράφο και τις μεγάλες αποκλίσεις που έχουν αυτοί οι θεσμοί, καθιστώντας την κατηγορία 'screen' πιο κατάλληλη.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
