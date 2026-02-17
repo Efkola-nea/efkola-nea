@@ -1,184 +1,375 @@
 {
-  "generatedAt": "2026-02-16T16:07:16.636Z",
+  "generatedAt": "2026-02-17T08:13:33.280Z",
   "articles": [
     {
-      "id": "1eb54cbd0e7a",
-      "title": "Ιταλία: Κατέρρευσε από την κακοκαιρία η διάσημη Αψίδα των Εραστών ανήμερα του Αγίου Βαλεντίνου",
-      "simpleTitle": "Κατέρρευσε η Αψίδα των Εραστών στην Ιταλία",
-      "simpleText": "Η Αψίδα των Εραστών στην Ιταλία κατέρρευσε την ημέρα του Αγίου Βαλεντίνου. Αυτό συνέβη λόγω ισχυρών βροχών και καταιγίδων που πλήττουν τη νότια Ιταλία. Η αψίδα ήταν ένα γνωστό αξιοθέατο στην περιοχή Σαλέντο και πολλοί επισκέπτες την φωτογράφιζαν. Ο δήμαρχος του Μελεντούνιο δήλωσε ότι είναι ένα σοβαρό πλήγμα για την περιοχή. Η καταστροφή αυτή δείχνει τα προβλήματα που δημιουργούνται από την αλλαγή του καιρού. Δεν ξέρουμε ακόμα πώς θα αποκατασταθεί η ζημιά. Οι κάτοικοι είναι λυπημένοι για την απώλεια αυτού του όμορφου τοπίου.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/italia-katerreyse-apo-tin-kakokairia-i-diasimi-apsida-ton-eraston-animera-tou-agiou-valentinou/",
+      "id": "2d45e3131cda",
+      "title": "Τρεις ανήλικοι ταυτοποιήθηκαν για ξυλοδαρμό 16χρονου έξω από σχολείο στη Θεσσαλονίκη",
+      "simpleTitle": "Τρεις ανήλικοι ταυτοποιήθηκαν για επίθεση σε 16χρονο στη Θεσσαλονίκη",
+      "simpleText": "Τρεις ανήλικοι ταυτοποιήθηκαν για να έχουν επιτεθεί σε 16χρονο στη Θεσσαλονίκη. Το περιστατικό συνέβη το μεσημέρι της 10ης Οκτωβρίου, έξω από σχολείο. Οι κάμερες της περιοχής κατέγραψαν την επίθεση, όπου οι ανήλικοι χτύπησαν το θύμα με σπρωξίματα και γροθιές. Ο 16χρονος κατάφερε να ξεφύγει τρέχοντας. Η υπόθεση εξετάζεται από την αστυνομία και την εισαγγελία, διότι είναι σοβαρή. Είναι σημαντικό να προστατεύουμε τους νέους και να μην επιτρέπουμε τέτοια βία.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/ert3/treis-anilikoi-taytopoiithikan-gia-ksylodarmo-16xronou-ekso-apo-sxoleio-sti-thessaloniki/",
       "sourceDomains": [
         "ertnews.gr",
-        "tanea.gr"
+        "kathimerini.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/italia-katerreyse-apo-tin-kakokairia-i-diasimi-apsida-ton-eraston-animera-tou-agiou-valentinou/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/16/world/italia-animera-tou-agiou-valentinou-katerreyse-i-emvlimatiki-apsida-ton-eraston/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η κατάρρευση της Αψίδας των Εραστών στην Ιταλία λόγω κακοκαιρίας αναδεικνύει σοβαρά ζητήματα σχετικά με την παράκτια διάβρωση και την κλιματική αλλαγή, ενώ έχει σημαντικές συνέπειες για την τοπική κοινωνία και τον τουρισμό.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.youtube.com/embed/9TSR3D5WSFk",
-      "publishedAt": "2026-02-16T15:33:30.000Z"
-    },
-    {
-      "id": "d4fce1afb4d0",
-      "title": "Στο Βέλγιο εμπειρογνώμονες του Υπουργείου Πολιτισμού για τις φωτογραφίες των 200 της Καισαριανής",
-      "simpleTitle": "**Τίτλος: Εμπειρογνώμονες του Υπουργείου Πολιτισμού στο Βέλγιο για φωτογραφίες από την Καισαριανή**",
-      "simpleText": "Το Υπουργείο Πολιτισμού ανακοίνωσε ότι επιστήμονες θα πάνε στη Γάνδη του Βελγίου. Αυτή η επίσκεψη είναι για να εξετάσουν 12 φωτογραφίες που δείχνουν τις τελευταίες στιγμές 200 πατριωτών πριν την εκτέλεσή τους, στην Καισαριανή, το 1944. Οι φωτογραφίες βρέθηκαν σε δημοπρασία στο eBay και ανήκουν σε συλλέκτη που ασχολείται με τη στρατιωτική ιστορία.\n\nΕίναι σημαντικό να διαπιστωθεί αν οι φωτογραφίες είναι αυθεντικές. Αν είναι γνήσιες, το Υπουργείο σκοπεύει να τις αποκτήσει. Αυτό θα βοηθήσει στη διατήρηση της ιστορίας και της πολιτιστικής κληρονομιάς της Ελλάδας. Οι ειδικοί θα ελέγξουν τη νομιμότητα και την αξία της συλλογής για να προχωρήσουν με τις διαδικασίες των νομικών βημάτων.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-velgio-empeirognomones-tou-ypourgeiou-politismou-gia-tis-fotografies-ton-200-tis-kaisarianis/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-velgio-empeirognomones-tou-ypourgeiou-politismou-gia-tis-fotografies-ton-200-tis-kaisarianis/"
+          "url": "https://www.ertnews.gr/ert3/treis-anilikoi-taytopoiithikan-gia-ksylodarmo-16xronou-ekso-apo-sxoleio-sti-thessaloniki/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/culture/564080845/fotografies-kaisarianis-stelechi-toy-yppo-echoyn-idi-elthei-se-epafi-me-ton-syllekti/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/16/greece/fotografies-ton-200-tis-kaisarianis-sto-velgio-metavainoun-empeirognomones-tou-ypourgeiou-politismou/"
+          "url": "https://www.kathimerini.gr/society/564081988/thessaloniki-treis-anilikoi-taytopoiithikan-gia-xylodarmo-16chronoy/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την αυθεντικότητα και την απόκτηση φωτογραφιών που σχετίζονται με μια σοβαρή και τραγική ιστορική στιγμή της ελληνικής ιστορίας, άρα σχετίζεται με θέματα πολιτιστικής κληρονομιάς και ιστορίας.",
+      "categoryReason": "Η είδηση αφορά έναν σοβαρό ξυλοδαρμό ανηλίκου, που εγείρει θέματα βίας και ασφάλειας των νέων, θέματα που είναι σημαντικά σε κοινωνικό επίπεδο.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.megatv.com/embed/?p=20202273461",
-      "publishedAt": "2026-02-16T15:14:08.000Z"
+      "imageUrl": "https://pixabay.com/get/gcdf9c7f270fac1bd21c423a3de80c6cd501eefebbb3881cc9a2112d567072ddb43a66ea7d8a51c3ccae334314807b2e2055af7350074d206544d9a70a203d6b7_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T07:52:31.000Z"
     },
     {
-      "id": "7dac3d12b1b3",
-      "title": "Πότε θα καταβληθούν οι συντάξεις του Μαρτίου",
-      "simpleTitle": "Πότε θα πληρωθούν οι συντάξεις του Μαρτίου",
-      "simpleText": "Οι συντάξεις του Μαρτίου θα πληρωθούν νωρίτερα από ότι συνήθως. Οι πληρωμές θα ξεκινήσουν την Τρίτη 24 Φεβρουαρίου 2026 για όσους δεν είναι μισθωτοί. Για τους μισθωτούς και τους δημόσιους υπαλλήλους, οι πληρωμές θα ολοκληρωθούν την Πέμπτη 26 Φεβρουαρίου. Αυτό είναι σημαντικό, γιατί οι άνθρωποι μπορούν να προγραμματίσουν καλύτερα τα οικονομικά τους. Δεν έχουμε λεπτομέρειες για άλλες οδηγίες ασφαλείας σχετικά με τις πληρωμές.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/economy/syntaxeis/564080776/pote-tha-katavlithoyn-oi-syntaxeis-toy-martioy/",
+      "id": "3fba7c952a60",
+      "title": "Αθήνα: Μεθυσμένη οδηγός προκάλεσε καραμπόλα με 5 σταθμευμένα οχήματα – Στο αυτόφωρο η 36χρονη",
+      "simpleTitle": "Μεθυσμένη οδηγός προκάλεσε ζημιές σε πέντε σταθμευμένα αυτοκίνητα",
+      "simpleText": "Στην Αθήνα, μια 36χρονη γυναίκα οδήγησε το αυτοκίνητό της τα ξημερώματα και χτύπησε πέντε σταθμευμένα αυτοκίνητα. Το ατύχημα συνέβη γύρω στις 04:35, στη συμβολή των οδών Κλεισμένους και Ξανθίππης. Ευτυχώς, δεν υπήρξαν τραυματισμοί. Οι αστυνομικοί ήρθαν γρήγορα στο σημείο και διαπίστωσαν ότι η γυναίκα είχε πιει αλκοόλ. Η μέτρηση έδειξε ότι ήταν πάνω από το επιτρεπόμενο όριο. Τώρα, η γυναίκα θα αντιμετωπίσει τις συνέπειες της πράξης της, πράγμα που δείχνει πόσο επικίνδυνο είναι να οδηγεί κανείς μεθυσμένος.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/athina-methysmeni-odigos-prokalese-karampola-me-5-stathmeymena-oximata-sto-aytoforo-i-36xroni/",
       "sourceDomains": [
-        "kathimerini.gr",
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/athina-methysmeni-odigos-prokalese-karampola-me-5-stathmeymena-oximata-sto-aytoforo-i-36xroni/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564081979/athina-methysmeni-odigos-epese-se-pente-stathmeymena-ochimata/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό τροχαίο ατύχημα που προκλήθηκε λόγω μέθης, τονίζοντας τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ και τις σοβαρές συνέπειες που μπορεί να επιφέρει.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T07:49:24.000Z"
+    },
+    {
+      "id": "974d8f839a47",
+      "title": "Μεθυσμένη οδηγός έπεσε σε σταθμευμένα αυτοκίνητα και προκάλεσε ζημιές στο Μαρούσι",
+      "simpleTitle": "Μεθυσμένη οδηγός έσπασε αυτοκίνητα στο Μαρούσι",
+      "simpleText": "Μια 36χρονη γυναίκα συνελήφθη στο Μαρούσι επειδή χτύπησε σταθμευμένα αυτοκίνητα. Η οδηγός είναι τραγουδίστρια. Από τις μετρήσεις αλκοόλ που έγιναν, φάνηκε ότι είχε καταναλώσει πολύ αλκοόλ. Η πρώτη μέτρηση έδειξε 0,78 mg/l και η δεύτερη 0,83 mg. Αυτό είναι επικίνδυνο και μπορεί να προκαλέσει σοβαρά ατυχήματα. Δεν έχουν ανακοινωθεί λεπτομέρειες για τις ζημιές, αλλά είναι σημαντικό να προσέχουμε τις οδηγίες ασφαλείας στο δρόμο.",
+      "sourceName": "News.gr, Protagon",
+      "sourceUrl": "https://www.news.gr/ellada/article/4077160/methismeni-odigos-epese-se-stathmevmena-aftokinita-ke-prokalese-zimies-sto-marousi.html",
+      "sourceDomains": [
+        "news.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4077160/methismeni-odigos-epese-se-stathmevmena-aftokinita-ke-prokalese-zimies-sto-marousi.html"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/kolwnaki-methysmeni-odigos-prokalese-zimies-se-pente-stathmevmena-aftokinita-44343313767"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα που προκλήθηκε από μεθυσμένη οδηγό, επισημαίνοντας τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T07:45:30.000Z"
+    },
+    {
+      "id": "b39daa3767b0",
+      "title": "Τραμπ σε Ιράν: Συνέπειες αν δεν υπάρξει συμφωνία – Κρίσιμες διαπραγματεύσεις στη Γενεύη",
+      "simpleTitle": "Τραμπ προς Ιράν: Κίνδυνοι αν δεν γίνει συμφωνία",
+      "simpleText": "Στη Γενεύη γίνονται σημαντικές συζητήσεις για το πυρηνικό πρόγραμμα του Ιράν. Ο Αμερικανός πρόεδρος Τραμπ προειδοποιεί ότι αν δεν υπάρξει συμφωνία, τότε θα υπάρχουν συνέπειες. Υπάρχουν φόβοι ότι οι εντάσεις θα αυξηθούν αν οι διαπραγματεύσεις αποτύχουν. Οι Ηνωμένες Πολιτείες έχουν ενισχύσει τη στρατιωτική τους παρουσία στη Μέση Ανατολή. Αυτό είναι σημαντικό για την ασφάλεια της περιοχής και μπορεί να επηρεάσει πολλούς ανθρώπους. Ο Τραμπ σκοπεύει να συμμετέχει έμμεσα στις συνομιλίες αυτή την εβδομάδα. Δεν έχουμε περισσότερες λεπτομέρειες για τις αντιδράσεις αν δεν επιτευχθεί συμφωνία.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2026/02/17/world/tramp-se-iran-synepeies-an-den-yparksei-symfonia-krisimes-diapragmateyseis-sti-geneyi/",
+      "sourceDomains": [
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/17/world/tramp-se-iran-synepeies-an-den-yparksei-symfonia-krisimes-diapragmateyseis-sti-geneyi/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4077170/proidopiisi-trab-pros-iran-simfonia-i-sinepies-prin-apo-ti-genevi.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές διεθνείς διαπραγματεύσεις σχετικά με το πυρηνικό πρόγραμμα του Ιράν και τις συνέπειες που μπορεί να προκύψουν αν δεν υπάρξει συμφωνία, άρα εμπίπτει σε σοβαρές πολιτικές και διπλωματικές εξελίξεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T07:35:18.000Z"
+    },
+    {
+      "id": "2d5bbe5afebe",
+      "title": "Φορολογική «ασφυξία» το 2026: Πόσα θα πληρώνουν κάθε μήνα οι φορολογούμενοι",
+      "simpleTitle": "Φορολογικές Υποχρεώσεις το 2026: Πόσα θα πληρώνουν οι πολίτες",
+      "simpleText": "Το 2026 οι φορολογούμενοι στην Ελλάδα θα πληρώνουν περίπου 6,1 δισ. ευρώ κάθε μήνα. Αυτό γίνεται για να καλυφθούν οι ανάγκες του προϋπολογισμού. Η ακρίβεια βοηθάει την κυβέρνηση να συγκεντρώσει περισσότερα φορολογικά έσοδα. Οι συνολικές εισπράξεις από φόρους αναμένονται να φτάσουν πάνω από 73 δισ. ευρώ για το έτος.\n\nΟ Ιούλιος θα είναι δύσκολος μήνας, με πληρωμές ύψους 8,5 δισ. ευρώ. Αντίθετα, ο Μάρτιος θα είναι καλύτερος, με 5 δισ. ευρώ. Οι πολίτες θα πρέπει να είναι προσεκτικοί με τις πληρωμές τους. Οι φορολογικές υποχρεώσεις του 2025 τελειώνουν τον Φεβρουάριο, και θα ξεκινήσουν νέες υποχρεώσεις τον Μάρτιο.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/17/economy/forologiki-asfyksia-to-2026-posa-tha-plironoun-kathe-mina-oi-forologoumenoi/",
+      "sourceDomains": [
+        "tanea.gr",
         "tovima.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/syntaxeis/564080776/pote-tha-katavlithoyn-oi-syntaxeis-toy-martioy/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/17/economy/forologiki-asfyksia-to-2026-posa-tha-plironoun-kathe-mina-oi-forologoumenoi/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/16/finance/e-efka-noritera-oi-syntakseis-tou-martiou-pote-oloklironontai-oi-pliromes/"
+          "url": "https://www.tovima.gr/2026/02/17/finance/forologia-posa-tha-plironoun-kathe-mina-oi-forologoumenoi-gia-to-2026/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ανακοίνωση των ημερομηνιών καταβολής των συντάξεων, που είναι σοβαρό οικονομικό ζήτημα για τους πολίτες.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές οικονομικές επιπτώσεις για τους φορολογούμενους στην Ελλάδα, συμπεριλαμβανομένων των μηνιαίων πληρωμών φόρων και των προϋπολογιστικών υποχρεώσεων, που σχετίζονται με τη φορολογία και την οικονομική κατάσταση της χώρας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-16T14:48:59.000Z"
+      "publishedAt": "2026-02-17T07:13:29.000Z"
     },
     {
-      "id": "3b91b7210fc9",
-      "title": "Γαλλία: Στο κόκκινο η πολιτική ένταση μετά τον θάνατο 23χρονου φοιτητή σε συγκρούσεις",
-      "simpleTitle": "Πολιτική ένταση στη Γαλλία μετά τον θάνατο φοιτητή",
-      "simpleText": "Στη Γαλλία, υπάρχει μεγάλη ένταση πολιτικά μετά τον θάνατο ενός 23χρονου φοιτητή. Ο φοιτητής αυτός, ο Κουεντέν, σκοτώθηκε σε βίαιες συγκρούσεις ανάμεσα σε ομάδες της άκρας δεξιάς και της άκρας αριστεράς. Οι συγκρούσεις συνέβησαν την περασμένη Πέμπτη στην πόλη Λυών, κατά τη διάρκεια πολιτικής ομιλίας.\n\nΑφού τραυματίστηκε, μεταφέρθηκε σε νοσοκομείο, αλλά δεν κατάφερε να επιβιώσει. Η οικογένεια του θύματος αναφέρει ότι δέχθηκε επίθεση από οργανωμένες ομάδες. Η αστυνομία ερευνά την υπόθεση, ενώ ο πρόεδρος Μακρόν εξέφρασε τη λύπη του για το γεγονός. Ακόμη δεν ξέρουμε αν θα υπάρξουν συνέπειες για τους υπεύθυνους.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/gallia-sto-kokkino-i-politiki-entasi-meta-ton-thanato-23xronou-foititi-se-sygkrouseis/",
+      "id": "c868264190bd",
+      "title": "Χρήστος Μαυρίκης: Πυροβόλησε στον αέρα και ταμπουρώθηκε στο σπίτι του",
+      "simpleTitle": "Χρήστος Μαυρίκης: Πυροβολίες και ταμπουρωμένος στο σπίτι του",
+      "simpleText": "Ο Χρήστος Μαυρίκης πυροβόλησε στον αέρα και μετά κλείστηκε στο σπίτι του. Αυτό συνέβη στα Σπάτα και η κατάσταση κράτησε περίπου έξι ώρες. Ένας διαπραγματευτής τον επισκέφτηκε για να μιλήσει μαζί του. Ο Χρήστος Μαυρίκης είναι γνωστός, καθώς έχει διαπράξει παλαιότερα σοβαρά αδικήματα. Είναι σημαντικό να έχουμε ηρεμία σε τέτοιες καταστάσεις και να αποφεύγουμε τα επικίνδυνα γεγονότα. Δεν γνωρίζουμε ακόμα γιατί πυροβόλησε.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2026/02/16/society/xristos-mayrikis-pyrovolise-ston-aera-kai-tampourothike-sto-spiti-tou/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
+        "tovima.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/gallia-sto-kokkino-i-politiki-entasi-meta-ton-thanato-23xronou-foititi-se-sygkrouseis/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/16/society/xristos-mayrikis-pyrovolise-ston-aera-kai-tampourothike-sto-spiti-tou/"
         },
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564080755/gallia-sta-ypsi-i-politiki-entasi-meta-ton-thanato-23chronoy-foititi/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4077133/sinelifthi-o-christos-mavrikis-pou-iche-tampourothi-sto-spiti-tou-ke-pirovolise-ston-aera-sta-spata-thriler-gia-exi-ores.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρό κοινωνικό ζήτημα που αφορά πολιτική ένταση και βία στη Γαλλία, με θύμα έναν φοιτητή. Εξετάζει ζητήματα γύρω από πολιτική αντιπαράθεση και κοινωνική αναταραχή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/gallia2.mp4",
-      "publishedAt": "2026-02-16T14:34:06.000Z"
-    },
-    {
-      "id": "436581d46503",
-      "title": "Θεσσαλονίκη: Στον εισαγγελέα σωφρονιστικός υπάλληλος για διακίνηση ναρκωτικών",
-      "simpleTitle": "Υπάλληλος φυλακών Θεσσαλονίκης φυλακίστηκε για ναρκωτικά",
-      "simpleText": "Ένας σωφρονιστικός υπάλληλος 33 ετών στη Θεσσαλονίκη συνελήφθη γιατί διακινούσε ναρκωτικά. Μετά την απολογία του στον ανακριτή, κρίθηκε προσωρινά κρατούμενος. Οι αστυνομικοί παρακολουθούσαν τις κινήσεις του και τον άκουσαν να μιλάει με κρατούμενο που είχε κινητό τηλέφωνο. Οι εξηγήσεις του δεν έπεισαν, γι' αυτό οδηγήθηκε ξανά στη φυλακή. Η υπόθεση είναι σοβαρή λόγω της θέσης του στο σωφρονιστικό σύστημα και επηρεάζει τη δημόσια ασφάλεια. Δεν έχει ανακοινωθεί αν θα γίνουν περαιτέρω έρευνες.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ston-eisaggelea-sofronistikos-ypallilos-gia-diakinisi-narkotikon/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki-ston-eisaggelea-sofronistikos-ypallilos-gia-diakinisi-narkotikon/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564080752/thessaloniki-prosorina-kratoymenos-sofronistikos-ypallilos-gia-diakinisi-narkotikon/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές ποινικές παραβάσεις και ζητήματα δημόσιας ασφάλειας από σωφρονιστικό υπάλληλο.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g44a35db3733f84c62816466538e3d712b301f93f104720d1302b47b18979680404ffb2060e5364bf003b1972b1d595e6d68d952e6e688c4c14c0cacc713254d4_1280.jpg",
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/02/16-13-03-kantouris-part2.mp4&bgimg=https://www.ertnews.gr/wp-content/uploads/2026/02/16-13-03-kantouris-part2_2.jpg",
-      "publishedAt": "2026-02-16T14:25:59.000Z"
-    },
-    {
-      "id": "1ae6c805a1d8",
-      "title": "Διεθνής κατακραυγή για τα μέτρα στη Δυτική Όχθη — Η Κομισιόν καλεί το Ισραήλ να τα ανακαλέσει",
-      "simpleTitle": "Αντίθεση στην απόφαση του Ισραήλ για τη Δυτική Όχθη",
-      "simpleText": "Η Ευρωπαϊκή Ένωση ζήτησε από το Ισραήλ να αναιρέσει τα νέα μέτρα για την ιδιοκτησία γης στη Δυτική Όχθη. Αυτά τα μέτρα δημιουργούν ανησυχία και θεωρούνται από πολλούς ως κίνηση προς την προσάρτηση της περιοχής. Τα αραβικά κράτη, όπως η Σαουδική Αραβία και η Αίγυπτος, αντέτειναν ότι είναι παράνομα σύμφωνα με το διεθνές δίκαιο. Οι Παλαιστίνιοι φοβούνται ότι αυτό θα περιορίσει τα δικαιώματά τους στην περιοχή. Είναι σημαντικό για τη διεθνή κοινότητα να αντιδράσει, ώστε να διασφαλιστούν οι ειρηνικές σχέσεις και οι δικαιώσεις των κατοίκων.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/kosmos/diethnis-katakraygi-gia-ta-metra-sti-dytiki-oxthi-i-komision-kalei-to-israil-na-ta-anakalesei/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/kosmos/diethnis-katakraygi-gia-ta-metra-sti-dytiki-oxthi-i-komision-kalei-to-israil-na-ta-anakalesei/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564080506/i-e-e-kalese-to-israil-na-anakalesei-ta-metra-gia-ti-dytiki-ochthi/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα διεθνούς δικαίου, πολιτικών αποφάσεων και ανθρωπίνων δικαιωμάτων, καθώς η Ε.Ε. καλεί το Ισραήλ να αναιρέσει μέτρα που θεωρούνται παράνομα.",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή κατάσταση που περιλαμβάνει πυροβολισμούς και την αστυνομία, γεγονός που σχετίζεται με εγκληματική δραστηριότητα και κοινωνική ανησυχία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-16T13:59:18.000Z"
+      "publishedAt": "2026-02-17T07:07:26.000Z"
+    },
+    {
+      "id": "cc3b49726ee4",
+      "title": "Ζ. Κωνσταντοπούλου: Οι φωτογραφίες της εκτέλεσης των 200 της Καισαριανής αποτελούν κτήμα του ελληνικού λαού και ντοκουμέντο της αντίστασης",
+      "simpleTitle": "Φωτογραφίες εκτέλεσης: Δικαίωμα του ελληνικού λαού",
+      "simpleText": "Η Ζωή Κωνσταντοπούλου είπε ότι οι φωτογραφίες από την εκτέλεση 200 ανθρώπων στην Καισαριανή ανήκουν στον ελληνικό λαό. Αυτές οι φωτογραφίες είναι πολύ σημαντικές επειδή δείχνουν την αντίσταση και την ιστορία της χώρας. Τόνισε ότι δεν επιτρέπεται να αντιμετωπίζονται σαν εμπορεύματα και ότι το ελληνικό κράτος πρέπει να τις βρει και να τις δώσει σε όλους. Επιπλέον, αναφέρθηκε στη σημασία της διεκδίκησης οφειλών από τη Γερμανία για εγκλήματα του παρελθόντος. Αυτές οι ενέργειες είναι σημαντικές για τη μνήμη και τη δικαιοσύνη.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/z-konstantopoulou-oi-fotografies-tis-ektelesis-ton-200-tis-kaisarianis-apoteloun-ktima-tou-ellinikou-laou-kai-ntokoumento-tis-antistasis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/z-konstantopoulou-oi-fotografies-tis-ektelesis-ton-200-tis-kaisarianis-apoteloun-ktima-tou-ellinikou-laou-kai-ntokoumento-tis-antistasis/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4077119/konstantopoulou-i-fotografies-tis-ektelesis-ton-200-tis-kesarianis-apoteloun-ktima-tou-ellinikou-laou-ke-ntokoumento-tis-antistasis.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η δήλωση της Ζωής Κωνσταντοπούλου αναφέρεται σε σοβαρά ζητήματα όπως η ιστορική μνήμη, η αντίσταση και οι οφειλές της Γερμανίας για εγκλήματα του παρελθόντος, τα οποία αποτελούν σημαντικά κοινωνικά και πολιτικά θέματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T06:54:24.000Z"
+    },
+    {
+      "id": "cf7425991014",
+      "title": "Ταξί: Απεργία για τρεις μέρες",
+      "simpleTitle": "Απεργία ταξί για τρεις ημέρες",
+      "simpleText": "Οι οδηγοί ταξί αποφάσισαν να κάνουν απεργία για τρεις ημέρες. Η απεργία είναι από τον ΣΑΤΑ, που είναι μια ένωση οδηγών ταξί. Οι οδηγοί θέλουν να ικανοποιηθούν τα αιτήματα τους, αλλά δεν έχουν γίνει ακόμα ανακοινώσεις για το τι ζητούν ακριβώς. Εάν τα αιτήματα δεν ικανοποιηθούν, οι οδηγοί σκέφτονται να κάνουν μεγαλύτερη απεργία. Η κατάσταση μπορεί να επηρεάσει πολλούς ανθρώπους που χρησιμοποιούν ταξί για τις μετακινήσεις τους. Είναι σημαντικό οι επιβάτες να σκεφτούν άλλους τρόπους μεταφοράς, όπως τα λεωφορεία ή να περπατήσουν.",
+      "sourceName": "TO BHMA, News.gr",
+      "sourceUrl": "https://www.tovima.gr/2026/02/17/society/taksi-apergia-gia-treis-meres/",
+      "sourceDomains": [
+        "tovima.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/17/society/taksi-apergia-gia-treis-meres/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4077101/nea-apergia-ton-taxi-gia-tris-imeres.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η απεργία των οδηγών ταξί σχετίζεται με σοβαρά ζητήματα, όπως οι εργασιακές συνθήκες και οι απαιτήσεις τους, γεγονός που επηρεάζει το κοινό και την καθημερινότητα των επιβατών.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T06:38:56.000Z"
+    },
+    {
+      "id": "20e8c7eff6e9",
+      "title": "Αυστραλία: Νεκρός, δυο τραυματίες σε επίθεση με μαχαίρι στο Σίδνεϊ",
+      "simpleTitle": "Επίθεση με μαχαίρι στο Σίδνεϊ: Ένας άνθρωπος νεκρός, δύο τραυματίες",
+      "simpleText": "Στο Σίδνεϊ της Αυστραλίας, ένα πολύ σοβαρό περιστατικό συνέβη το πρωί. Ένας άνδρας έχασε τη ζωή του και άλλοι δύο τραυματίστηκαν από επίθεση με μαχαίρι σε κεντρικό δρόμο. Οι υπηρεσίες έκτακτης ανάγκης έφτασαν γρήγορα γύρω στις 10:00 τοπική ώρα. Ο δράστης, που είναι γνωστός στην αστυνομία για προβλήματα ψυχικής υγείας, συνελήφθη λίγο αργότερα. Τα θύματα, ένας 22χρονος και μία 47χρονη, βρίσκονται σε κρίσιμη κατάσταση στο νοσοκομείο. Η αστυνομία διερευνά την υπόθεση και ακόμα δεν υπάρχει σαφής λόγος για την επίθεση. Είναι σημαντικό για όλους να είναι προσεκτικοί και να αναφέρουν οποιαδήποτε ύποπτη συμπεριφορά.",
+      "sourceName": "ERT News, TA NEA, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/aystralia-nekros-dyo-traymaties-se-epithesi-me-maxairi-sto-sidnei/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/aystralia-nekros-dyo-traymaties-se-epithesi-me-maxairi-sto-sidnei/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/17/world/epithesi-me-maxairi-sto-sidnei-enas-nekros-kai-dyo-traymaties/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4077025/enas-nekros-ke-dio-travmaties-se-epithesi-me-macheri-sto-sidnei.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η επίθεση με μαχαίρι στο Σίδνεϊ έχει σοβαρές συνέπειες, με έναν νεκρό και δύο τραυματίες σε κρίσιμη κατάσταση, γεγονός που την κατατάσσει σε σοβαρές ειδήσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T06:34:49.000Z"
+    },
+    {
+      "id": "d18a54c3446b",
+      "title": "Ρόμπερτ Ντιβάλ: Κόπολα και Πατσίνο αποχαιρετούν τον «κονσιλιέρε» του Νονού – «Γεννημένος ηθοποιός»",
+      "simpleTitle": "Αποχαιρετισμός στον Ρόμπερτ Ντιβάλ",
+      "simpleText": "Ο διάσημος ηθοποιός Ρόμπερτ Ντιβάλ έφυγε από τη ζωή την Κυριακή, σε ηλικία 95 ετών. Ο σκηνοθέτης Φράνσις Φορντ Κόπολα του έκανε φόρο τιμής, λέγοντας ότι ήταν σπουδαίος ηθοποιός και σημαντικό μέρος των ταινιών του. Ο Ντιβάλ είχε παίξει τον ρόλο του συμβούλου στην οικογένεια Κορλεόνε στην ταινία «Ο Νονός». Ο Αλ Πατσίνο, επίσης διάσημος ηθοποιός, συμφώνησε ότι ήταν «γεννημένος ηθοποιός». Ο θάνατός του αφήνει ένα μεγάλο κενό στο χώρο του κινηματογράφου.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/culture/564081880/rompert-ntival-kopola-kai-patsino-apochairetoyn-ton-konsiliere-toy-nonoy-gennimenos-ithopoios/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/culture/564081880/rompert-ntival-kopola-kai-patsino-apochairetoyn-ton-konsiliere-toy-nonoy-gennimenos-ithopoios/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4077049/al-patsino-ke-fransis-fornt-kopola-apocheretoun-ton-rompert-ntival-itan-gennimenos-ithopios.html"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η είδηση αφορά τον θάνατο του διάσημου ηθοποιού Ρόμπερτ Ντιβάλ και τις τιμές που του απέδωσαν σημαντικές προσωπικότητες του κινηματογράφου, όπως ο Φράνσις Φορντ Κόπολα και ο Αλ Πατσίνο, επικεντρωμένη στις ταινίες και την καριέρα του.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T06:34:25.000Z"
+    },
+    {
+      "id": "1b63a5d3752a",
+      "title": "Ισχυρός σεισμός στην Αρκαδία – Έγινε αισθητός στην Αττική",
+      "simpleTitle": "Σεισμός 4,5 Ρίχτερ στην Αρκαδία",
+      "simpleText": "Ένας σεισμός μεγέθους 4,5 Ρίχτερ έγινε τα ξημερώματα της Τρίτης 17 Φεβρουαρίου. Το επίκεντρο ήταν κοντά στη Νεστάνη Αρκαδίας, σε απόσταση 7 χιλιομέτρων βόρεια της περιοχής. Ο σεισμός έγινε αισθητός σε πολλές περιοχές της Αττικής, κυρίως στη Δυτική Αττική και στα νότια προάστια.\n\nΟ διευθυντής του Γεωδυναμικού Ινστιτούτου είπε ότι ο σεισμός ήταν ασθενής και δεν αναμένονται μετασεισμοί. Είναι φυσιολογικό να τον αισθάνονται οι κάτοικοι λόγω της απόστασης και του ύψους των κτιρίων. Δεν έχουμε πληροφορίες για ζημιές ή τραυματισμούς μέχρι στιγμής.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/17/greece/seismos-tora-stin-athina/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/17/greece/seismos-tora-stin-athina/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4077011/sismos-stin-arkadia-egine-esthitos-ke-se-perioches-tis-attikis.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά έναν σοβαρό γεγονός, δηλαδή τον ισχυρό σεισμό στην Αρκαδία, που σχετίζεται με ζητήματα δημοσίας ασφάλειας και φυσικών καταστροφών.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g74abd4667644af4d7a4cb2978ffe2e87c44c36cde710135e0d2db1cfe4810a630137fc23e197b72b4da653d5a8ec7d95e44e2ed3d12e05277a7a1fbd1216504d_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T05:17:43.000Z"
+    },
+    {
+      "id": "31fe2da2d1f4",
+      "title": "IDF: Με emojis δόθηκε το σήμα για την επίθεση της Χαμάς στις 7 Οκτωβρίου",
+      "simpleTitle": "Χαμάς: Η επίθεση έγινε με σήμα μέσω emojis",
+      "simpleText": "Στις 7 Οκτωβρίου έγινε μια σοβαρή επίθεση από την οργάνωση Χαμάς. Σύμφωνα με ισραηλινούς στρατιωτικούς, οι μαχητές έλαβαν σήμα για την επίθεση μέσω κρυπτογραφημένων μηνυμάτων που περιείχαν emojis, δηλαδή εικονίδια. Η ενεργοποίηση καρτών SIM στη Γάζα δεν αξιολογήθηκε εγκαίρως, πράγμα που μπορεί να έχει σημασία για την ασφάλεια. Αυτό το γεγονός δείχνει πώς οι νέες τεχνολογίες χρησιμοποιούνται στις επιθέσεις. Είναι σημαντικό να κατανοούμε αυτές τις διαδικασίες για να γνωρίζουμε καλύτερα τις απειλές που υπάρχουν. Δεν γνωρίζουμε ακόμα αν θα ληφθούν νέα μέτρα για την ασφάλεια μετά από αυτό.",
+      "sourceName": "TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2026/02/16/world/idf-me-emojis-dothike-to-sima-gia-tin-epithesi-tis-xamas-stis-7-oktovriou/",
+      "sourceDomains": [
+        "tovima.gr",
+        "protagon.gr"
+      ],
+      "sources": [
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/16/world/idf-me-emojis-dothike-to-sima-gia-tin-epithesi-tis-xamas-stis-7-oktovriou/"
+        },
+        {
+          "title": "Protagon",
+          "url": "https://www.protagon.gr/epikairotita/idf-me-emojis-dothike-i-entoli-apo-ti-xamas-gia-tin-epithesi-tis-7is-oktwvriou-44343313713"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά μια σοβαρή επίθεση από την οργάνωση Χαμάς, η οποία σχετίζεται με ζητήματα ασφάλειας και στρατιωτικών διαδικασιών, στοιχεία που εντάσσονται στα σοβαρά κοινωνικά και πολιτικά θέματα.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gb7bf027e71ce5571b279deeadc9e753a6c842bc1b7119505e06f10f755f5ca3314b602f17690a90d168965deb8e648e80703ba6f281137ba5a436099ff99ec03_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-16T20:57:23.000Z"
+    },
+    {
+      "id": "5e2c1f25ef9a",
+      "title": "Ελένη Γλύκατζη-Αρβελέρ: Η πρώτη γυναίκα πρύτανης της Σορβόννης",
+      "simpleTitle": "Ελένη Γλύκατζη-Αρβελέρ: Μια σπουδαία γυναίκα στην εκπαίδευση",
+      "simpleText": "Η Ελένη Γλύκατζη-Αρβελέρ έφυγε από τη ζωή σε ηλικία 99 ετών. Ήταν μία από τις πιο σημαντικές προσωπικότητες στον τομέα των γραμμάτων και της εκπαίδευσης. Έχει γράψει ιστορία, γιατί ήταν η πρώτη γυναίκα πρύτανης στο Πανεπιστήμιο της Σορβόννης. Το έργο της επικεντρώθηκε στη Βυζαντινή Ιστορία και στην προώθηση του ελληνικού πολιτισμού στον κόσμο. Ήταν πάντα υπέρμαχος της αξίας της παιδείας, πιστεύοντας ότι αυτή είναι βασικός πυλώνας της δημοκρατίας. Η ζωή και το έργο της εμπνέουν πολλούς φοιτητές και ερευνητές μέχρι σήμερα.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/32081-eleni-glykatzi-arveler/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/32081-eleni-glykatzi-arveler/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τον θάνατο μιας σημαντικής προσωπικότητας στον τομέα της εκπαίδευσης, που είχε σημαντική συμβολή στη Βυζαντινή Ιστορία και την προώθηση του ελληνικού πολιτισμού. Θεωρείται σοβαρό θέμα που αφορά την εκπαίδευση και τα δικαιώματα των γυναικών.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-16T20:34:01.000Z"
     },
     {
       "id": "cbf8f148629e",
       "title": "Τέλος στην ταλαιπωρία για τα φάρμακα υψηλού κόστους με δωρεάν διάθεση από τα φαρμακεία της γειτονιάς",
-      "simpleTitle": "Δωρεάν φάρμακα από τα φαρμακεία της γειτονιάς",
-      "simpleText": "Από τη Δευτέρα 16 Φεβρουαρίου, οι ασθενείς στην Ελλάδα μπορούν να παραλαμβάνουν δωρεάν φάρμακα υψηλού κόστους από τα φαρμακεία της γειτονιάς τους. Αυτή η αλλαγή θα βοηθήσει πολλούς ανθρώπους που έχουν σοβαρές αρρώστιες. Πλέον, δεν χρειάζεται να περιμένουν πολλές ώρες σε μεγάλα φαρμακεία, κάτι που τους προκαλούσε ταλαιπωρία. Οι ασθενείς μπορούν να επιλέγουν τον φαρμακοποιό τους και να παίρνουν συμβουλές για την υγεία τους. Αυτή η νέα ρύθμιση είναι σημαντική γιατί προστατεύει την αξιοπρέπεια των ασθενών και τους διευκολύνει στη λήψη της φαρμακευτικής τους αγωγής.",
+      "simpleTitle": "Δωρεάν φάρμακα υψηλού κόστους στα φαρμακεία της γειτονιάς",
+      "simpleText": "Από σήμερα, Δευτέρα 16 Φεβρουαρίου, αρχίζει μια νέα διαδικασία στην Ελλάδα. Τα ιδιωτικά φαρμακεία θα δίνουν φάρμακα υψηλού κόστους σε ανθρώπους με σοβαρές παθήσεις. Αυτό σημαίνει ότι οι ασθενείς δεν θα χρειάζονται πια να περιμένουν πολλές ώρες στα φαρμακεία του ΕΟΠΥΥ. Μπορούν να επιλέξουν το φαρμακείο κοντά τους για να παραλάβουν τα φάρμακά τους. Έτσι, θα έχουν επίσης την βοήθεια και τις συμβουλές του φαρμακοποιού. Είναι μια σημαντική αλλαγή που θα διευκολύνει την ζωή πολλών ανθρώπων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32064-dorean-diathesi-farmakon-ypsilou-kostous-apo-idiotika-farmakeia/",
       "sourceDomains": [
@@ -191,7 +382,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική ρύθμιση στον τομέα της υγείας που διευκολύνει τους ασθενείς στην παραλαβή φαρμάκων υψηλού κόστους, προστατεύει την αξιοπρέπεια τους και επιλύει σοβαρά κοινωνικά ζητήματα.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική αλλαγή στη διαδικασία διάθεσης φαρμάκων υψηλού κόστους που επηρεάζει την υγεία και την αξιοπρέπεια των ασθενών, καθιστώντας την σοβαρή και κοινωνικά σημαντική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -200,8 +391,8 @@
     {
       "id": "d14949892682",
       "title": "Ελληνικός τελικός Eurovision 2026: μια μεγάλη γιορτή για τη μουσική και τη δημιουργικότητα",
-      "simpleTitle": "Ελληνικός τελικός Eurovision 2026: Γιορτή μουσικής και ταλέντου",
-      "simpleText": "Απόψε στην Ελλάδα γίνεται ο μεγάλος τελικός για τη Eurovision 2026. 14 καλλιτέχνες θα παρουσιαστούν και θα δείξουν το ταλέντο τους. Αυτός ο τελικός είναι σημαντικός γιατί θα επιλεγεί ποιος θα εκπροσωπήσει τη χώρα μας στον διεθνή διαγωνισμό. Η βραδιά θα έχει μουσική, λάμψη και θετική ενέργεια. Είναι μια γιορτή που ενώνει τους ανθρώπους και δείχνει τη σύγχρονη ελληνική δημιουργία. Η προσβασιμότητα για όλους είναι επίσης σημαντική σε αυτό το γεγονός.",
+      "simpleTitle": "Τελικός Eurovision 2026 στην Ελλάδα: Γιορτή Μουσικής",
+      "simpleText": "Απόψε, η Ελλάδα φιλοξενεί τον τελικό της Eurovision 2026. Είναι μια ιδιαίτερη βραδιά γεμάτη μουσική, ταλέντο και χαρά. Στην σκηνή θα ανέβουν 14 καλλιτέχνες. Κάθε καλλιτέχνης θα παρουσιάσει τη δική του μουσική δημιουργία. Αυτός ο τελικός είναι σημαντικός γιατί θα αναδείξει την ελληνική μουσική. Οι άνθρωποι θα απολαύσουν μια βραδιά γεμάτη θετική ενέργεια και ενότητα. Είναι μια καλή ευκαιρία να γίνουν όλοι μάρτυρες της ελληνικής καλλιτεχνικής έκφρασης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/",
       "sourceDomains": [
@@ -214,17 +405,17 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά τον ελληνικό τελικό της Eurovision, που είναι μια μουσική εκδήλωση που γιορτάζει τη δημιουργικότητα και την πολιτιστική έκφραση των καλλιτεχνών.",
+      "categoryReason": "Η είδηση αφορά τον τελικό της Eurovision, ο οποίος αναδεικνύει τη μουσική και τη δημιουργικότητα, στοιχεία που συνδέονται άμεσα με τον πολιτισμό.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gbe824b00d4f46115df5d4997996d5d55718fda37a43f152e8f3a17f8b0ce15652b44c2833e8cef49bde7a9c3b57c2ee2e4997369927f9eef181676c2f07de120_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g3f37c4bf89c61c66cad3614e8cf81ae00c91c146e74556fb6eda5384b0b6275260e5da18a96e40e33fdc525312a60fc3ccb1f75cb9af4d37fcfa1402d030c993_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-15T13:22:41.000Z"
     },
     {
       "id": "6dac026a9e96",
       "title": "Ο πρώτος Έλληνας αστροναύτης: Ο Δρ. Αδριανός Γολέμης ξεκινά την εκπαίδευσή του",
-      "simpleTitle": "Ο πρώτος Έλληνας αστροναύτης ξεκινά εκπαίδευση",
-      "simpleText": "Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα γίνει αστροναύτης. Ξεκινάει την εκπαίδευσή του στον Ευρωπαϊκό Οργανισμό Διαστήματος. Αυτό συμβαίνει για πρώτη φορά στην ιστορία της Ελλάδας και είναι πολύ σημαντικό. Η χώρα μας έχει γίνει πιο κοντά στο διάστημα τα τελευταία χρόνια, καθώς έχουν εκτοξευτεί μικροδορυφόροι. Ο Αδριανός Γολέμης πέρασε δύσκολες δοκιμασίες για να μπει στο πρόγραμμα. Αυτό δείχνει ότι η Ελλάδα μπορεί να συμμετέχει στα μεγάλα πράγματα του κόσμου. Δεν έχει ανακοινωθεί πότε θα ξεκινήσει η εκπαίδευση.",
+      "simpleTitle": "Ο πρώτος Έλληνας αστροναύτης αρχίζει την εκπαίδευσή του",
+      "simpleText": "Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα εκπαιδευτεί ως αστροναύτης. Η εκπαίδευσή του ξεκινά σύντομα και είναι μέρος του προγράμματος του Ευρωπαϊκού Οργανισμού Διαστήματος. Αυτό είναι ένα μεγάλο βήμα για τη χώρα μας, καθώς είναι η πρώτη φορά που Έλληνας πολίτης συμμετέχει σε ένα τέτοιο πρόγραμμα. Η Ελλάδα αναπτύσσει σχέσεις με το διάστημα, και αυτή η εξέλιξη είναι πολύ σημαντική. Δείχνει ότι η επιστήμη και η τεχνολογία προχωράνε, και μπορεί να εμπνεύσει νέους να ενδιαφερθούν για το διάστημα. Δεν έχει ανακοινωθεί ημερομηνία για την ολοκλήρωση της εκπαίδευσης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/",
       "sourceDomains": [
@@ -237,7 +428,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση για τον πρώτο Έλληνα αστροναύτη είναι μια θετική και χαρούμενη στιγμή για τη χώρα, καθώς δείχνει πρόοδο και επιτυχία στον τομέα του διαστήματος, που ενισχύει την εθνική υπερηφάνεια.",
+      "categoryReason": "Η είδηση αφορά την εκπαίδευση του πρώτου Έλληνα αστροναύτη, γεγονός που φέρνει χαρά και αισιοδοξία για τη συμμετοχή της χώρας σε διαστημικά προγράμματα και μπορεί να εμπνεύσει νέους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -246,8 +437,8 @@
     {
       "id": "38ccfcea556d",
       "title": "Νίκη για την επιστήμη: Σώθηκε ο καθαρότερος ουρανός του κόσμου στη Χιλή",
-      "simpleTitle": "Ο καθαρός ουρανός στη Χιλή σώθηκε",
-      "simpleText": "Η επιστήμη χαίρεται γιατί σώθηκε ο καθαρός νυχτερινός ουρανός στη Χιλή. Ένα μεγάλο έργο που σχεδίαζε να φτιάξει πράσινο υδρογόνο ακυρώθηκε. Αυτό το έργο θα κόστιζε πολλά χρήματα και θα μπορούσε να βλάψει το περιβάλλον. Η απόφαση αυτή σημαίνει ότι η έρημος Ατακάμα θα παραμείνει ο πιο καθαρός τόπος για να παρατηρούμε τα αστέρια στον κόσμο. Είναι σημαντικό να προστατεύουμε τέτοιους χώρους για την έρευνα και τη φύση. Δεν ξέρουμε ακόμα αν θα υπάρξουν νέες προτάσεις για το έργο αυτό στο μέλλον.",
+      "simpleTitle": "Σημαντική νίκη για τον καθαρό ουρανό στη Χιλή",
+      "simpleText": "Οι επιστήμονες είναι πολύ χαρούμενοι γιατί κέρδισαν μια μεγάλη μάχη για το περιβάλλον. Ένα σχέδιο για να φτιάξουν πράσινο υδρογόνο, που θα κόστιζε 10 δισεκατομμύρια δολάρια, ακυρώθηκε. Αυτό σημαίνει ότι η έρημος Ατακάμα στη Χιλή θα παραμείνει καθαρή και ο νυχτερινός ουρανός της θα είναι ο πιο διάφανος στον κόσμο. Είναι πολύ σημαντικό να διατηρήσουμε τον ουρανό καθαρό γιατί έτσι μπορούμε να δούμε καλύτερα τα αστέρια και να κάνουμε πιο καλή έρευνα. Δεν ξέρουμε ακόμα αν θα υπάρξουν άλλα σχέδια που θα επηρεάσουν την περιοχή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32023-prostasia-nyxterinou-ouranou-xili-akyrosi-ergou-inna/",
       "sourceDomains": [
@@ -260,7 +451,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ακύρωση ενός μεγάλου έργου που θα μπορούσε να βλάψει το περιβάλλον και στηρίζει την προστασία ενός σημαντικού φυσικού χώρου, κάτι που έχει σοβαρές περιβαλλοντικές και κοινωνικές επιπτώσεις.",
+      "categoryReason": "Η απόφαση για την ακύρωση του σχεδίου παραγωγής πράσινου υδρογόνου σχετίζεται με σοβαρά περιβαλλοντικά ζητήματα και την προστασία της έρημου Ατακάμα, καθιστώντας την είδηση σημαντική από πολιτική και περιβαλλοντική άποψη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -269,8 +460,8 @@
     {
       "id": "37f5374ecf12",
       "title": "Πώς η επαφή με τη φύση επηρεάζει θετικά την ψυχική ισορροπία του παιδιού",
-      "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι πιο ήρεμα",
-      "simpleText": "Σήμερα, τα παιδιά περνούν πολύ χρόνο μπροστά σε οθόνες. Αυτό σημαίνει ότι δεν περνούν αρκετό χρόνο στη φύση. Ωστόσο, η επαφή με το φυσικό περιβάλλον είναι πολύ σημαντική για αυτά. Η φύση μπορεί να τα βοηθήσει να νιώθουν πιο ήρεμα και να μειώνουν το άγχος. Αυτό είναι σημαντικό γιατί συμβάλλει στην καλή ψυχική τους υγεία.\n\nΤα παιδιά που παίζουν έξω στη φύση είναι πιο ευτυχισμένα και κοινωνικά. Είναι καλό να περνούν χρόνο σε πάρκα ή σε άλλα φυσικά μέρη. Έτσι, θα είναι πιο χαρούμενα και θα αναπτύσσονται καλύτερα.",
+      "simpleTitle": "Πώς η φύση βοηθά τα παιδιά",
+      "simpleText": "Πολλά παιδιά περνούν χρόνο μπροστά σε οθόνες και δεν είναι αρκετές φορές στη φύση. Ωστόσο, η επαφή με τη φύση είναι πολύ σημαντική. Βοηθά τα παιδιά να είναι πιο ήρεμα και να νιώθουν καλύτερα. Η φύση τους κάνει να ξεχνάνε το άγχος και τις ανησυχίες τους.\n\nΕίναι σημαντικό να περνούν χρόνο έξω, γιατί αυτό τους βοηθά να μεγαλώνουν υγιή και ευτυχισμένα. Οι γονείς μπορούν να ενθαρρύνουν τα παιδιά τους να εξερευνούν τον κόσμο γύρω τους, παίζοντας και μαθαίνοντας στη φύση. Δίνει χαρά και θετική ενέργεια.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31921-paidi-epafi-fisi-psixiki-isorropia/",
       "sourceDomains": [
@@ -283,7 +474,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση ασχολείται με τον θετικό αντίκτυπο της επαφής με τη φύση στην ψυχική υγεία των παιδιών, προωθώντας την ευτυχία και την καλή ψυχική ισορροπία τους.",
+      "categoryReason": "Η είδηση αναφέρεται στα θετικά οφέλη της επαφής με τη φύση για τα παιδιά, προάγοντας την ψυχική τους ισορροπία και ευτυχία, γεγονός που ενισχύει μια χαρούμενη και αισιόδοξη άποψη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -292,8 +483,8 @@
     {
       "id": "dea058f34d84",
       "title": "Πώς τα φωτοβολταϊκά μεταμορφώνουν μια έρημο στην Κίνα",
-      "simpleTitle": "Τα φωτοβολταϊκά αλλάζουν μια έρημο στην Κίνα",
-      "simpleText": "Στο Θιβετιανό Οροπέδιο στην Κίνα, υπάρχουν πολλά φωτοβολταϊκά πάνελ που παράγουν ηλεκτρικό ρεύμα. Αυτά τα πάνελ δεν βοηθούν μόνο το δίκτυο ηλεκτρισμού. Σύμφωνα με έρευνες, συμβάλλουν στο να γίνει η έρημος πιο δροσερή και πράσινη. Στην επαρχία Qinghai, το πάρκο Qinghai Gonghe είναι πολύ μεγάλο, με έκταση 64 τετραγωνικών χιλιομέτρων. Αυτό το μέρος είναι τώρα σημαντικό για την οικολογία, δηλαδή για τη ζωή των φυτών και των ζωντανών οργανισμών. Είναι καλό να γίνεται η φύση πιο υγιής και όμορφη.",
+      "simpleTitle": "Φωτοβολταϊκά αλλάζουν μια έρημο στην Κίνα",
+      "simpleText": "Στην Κίνα, μια μεγάλη περιοχή από φωτοβολταϊκά πάνελ βοηθά να αλλάξει μια ερήμος σε έναν πιο πράσινο και δροσερό τόπο. Αυτά τα πάνελ βρίσκονται στο Θιβετιανό Οροπέδιο και τροφοδοτούν το ηλεκτρικό δίκτυο της χώρας. Η περιοχή ονομάζεται Talatan και Gonghe και έχει πολύ μεγάλη ισχύ από 16 μέχρι 17 γιγαβάτ. Το Φωτοβολταϊκό Πάρκο Qinghai Gonghe είναι 64 τετραγωνικά χιλιόμετρα και γίνεται μελέτη για τη σημασία του στην οικολογία. Είναι σημαντικό γιατί δείχνει πώς η τεχνολογία μπορεί να βοηθήσει τη φύση και το κλίμα. Δεν ξέρουμε ακόμα πώς ακριβώς θα εξελιχθεί αυτή η αλλαγή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31630-ta-fotovoltaika-metamorfoun-mia-erimo-stin-kina/",
       "sourceDomains": [
@@ -306,7 +497,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε φωτοβολταϊκά έργα που επηρεάζουν οικολογικά ζητήματα και την περιβαλλοντική υγεία, θέματα που είναι σοβαρά και σημαντικά στην πολιτική και την πολιτιστική συζήτηση.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά ζητήματα περιβάλλοντος και τεχνολογίας, δείχνοντας την επίδραση των φωτοβολταϊκών στην οικολογία και το κλίμα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -315,8 +506,8 @@
     {
       "id": "2951116448e0",
       "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
-      "simpleTitle": "Οφέλη από τις δουλειές στο σπίτι για τα παιδιά",
-      "simpleText": "Οι δουλειές του σπιτιού είναι πολύ χρήσιμες για τα παιδιά. Όταν τα παιδιά συμμετέχουν σε αυτές, μαθαίνουν να είναι πιο ανεξάρτητα. Αυτό σημαίνει ότι νιώθουν πιο σίγουρα για τον εαυτό τους. Οι απλές δραστηριότητες, όπως το να βοηθάνε στο καθάρισμα ή στο μαγείρεμα, δεν είναι βαρετές. Είναι τρόποι για να μάθουν νέα πράγματα και να κατανοήσουν την ευθύνη. Είναι καλό να αρχίζουν από νωρίς, γιατί έτσι αναπτύσσουν γνώσεις που θα τους χρειαστούν στη ζωή τους.",
+      "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+      "simpleText": "Οι δουλειές του σπιτιού είναι σημαντικές για τα παιδιά. Όταν συμμετέχουν στις καθημερινές εργασίες, μαθαίνουν να είναι πιο ανεξάρτητα και να έχουν εμπιστοσύνη στον εαυτό τους. Αυτές οι δουλειές δεν είναι βαρετές, αλλά βοηθούν τα παιδιά να μάθουν πράγματα στη ζωή τους. Μέσα από αυτές, καταλαβαίνουν τη σημασία της ευθύνης. Είναι καλό να κάνουν μικρές δουλειές, γιατί έτσι αναπτύσσουν δεξιότητες και γίνονται πιο ικανά. Έτσι, τα παιδιά προετοιμάζονται καλύτερα για το μέλλον τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
       "sourceDomains": [
@@ -329,7 +520,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε θετικές πτυχές της συμμετοχής των παιδιών σε δουλειές του σπιτιού, όπως η ανάπτυξη αυτονομίας και αυτοπεποίθησης, γεγονότα που προάγουν μια χαρούμενη και θετική προοπτική.",
+      "categoryReason": "Η είδηση αναφέρεται σε θετικές επιπτώσεις των απλών δουλειών στο σπίτι στην αυτονομία και την αυτοπεποίθηση των παιδιών, προωθώντας χαρούμενες και αναπτυξιακές ιδέες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -338,8 +529,8 @@
     {
       "id": "77b983e2cabd",
       "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-      "simpleTitle": "Καλή είδηση για τη λίμνη Μόρνου",
-      "simpleText": "Η λίμνη Μόρνου, που τροφοδοτεί την Αθήνα με νερό, φαίνεται πιο γεμάτη μετά από βροχές. Αυτό είναι καλό νέο, καθώς δείχνει ότι το νερό επανέρχεται. Οι βροχές βοήθησαν και η στάθμη του νερού ανέβηκε πολύ. Αυτή η αλλαγή δημιουργεί ελπίδες για καλύτερα αποθέματα νερού στο μέλλον. Όταν οι καιρικές συνθήκες είναι καλές, μπορεί να έχουμε περισσότερα αποθέματα νερού. Είναι σημαντικό να χαιρόμαστε για αυτές τις βελτιώσεις, ειδικά αν σκέφτεται κανείς την ανάγκη για νερό.",
+      "simpleTitle": "Καλύτερη κατάσταση στη λίμνη Μόρνου μετά τις βροχές",
+      "simpleText": "Η λίμνη Μόρνου, που είναι σημαντική για την Αθήνα, δείχνει καλύτερη εικόνα μετά τις πρόσφατες βροχές. Η στάθμη του νερού έχει αυξηθεί σημαντικά. Αυτό δίνει ελπίδα ότι τα αποθέματα νερού θα ανακάμψουν και οι άνθρωποι θα έχουν περισσότερο νερό. Είναι καλό νέο γιατί η λίμνη βοηθά στην παροχή νερού στην περιοχή. Δεν υπάρχουν άλλες πληροφορίες για το πότε θα συνεχιστούν οι βροχές ή πώς θα επηρεάσουν τα αποθέματα στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
       "sourceDomains": [
@@ -352,7 +543,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρει την αύξηση της στάθμης του νερού στη λίμνη Μόρνου μετά από βροχοπτώσεις, φέρνοντας θετική διάθεση και ελπίδα για καλύτερα αποθέματα νερού στο μέλλον.",
+      "categoryReason": "Η είδηση προσφέρει μια θετική προοπτική με την αναβάθμιση της κατάστασης της λίμνης Μόρνου και την ελπίδα ότι τα αποθέματα νερού θα ανακάμψουν, γεγονός που είναι ενθαρρυντικό για την περιοχή.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -361,8 +552,8 @@
     {
       "id": "8a1f0ba56c5a",
       "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-      "simpleTitle": "Τσικνοπέμπτη: Τι γιορτάζουμε και γιατί είναι σημαντική",
-      "simpleText": "Η Τσικνοπέμπτη είναι μια ειδική μέρα στην Ελλάδα. Γιορτάζεται με πολύ φαγητό, κυρίως κρέας, και φίλους γύρω από φωτιά. Αυτή η μέρα μας θυμίζει παραδόσεις και μας φέρνει κοντά. Είναι μια ξεχωριστή γιορτή πριν την Σαρακοστή, όπου πολλές φορές οι άνθρωποι νηστεύουν. Σήμερα, η Τσικνοπέμπτη έχει και νόημα για το να απολαμβάνουμε τη ζωή. Οι μυρωδιές και οι παρέες είναι κάτι πολύ όμορφο. Είναι μια ευκαιρία να περάσουμε χρόνο με τους αγαπημένους μας και να γιορτάσουμε μαζί.",
+      "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
+      "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή μέρα στην Ελλάδα. Την ημέρα αυτή, οι μυρωδιές από φαγητό γεμίζουν τον αέρα. Οι άνθρωποι μαζεύονται με φίλους και συγγενείς γύρω από φωτιές και ψήνουν κρέας. Αυτό το έθιμο έχει ιστορία και σημαίνει γιορτή. Σήμερα, σε μια εποχή που οι άνθρωποι καταναλώνουν πολλά, η Τσικνοπέμπτη παραμένει μια ευκαιρία για συνάξεις και χαρά. Κάθε χρόνο γιορτάζεται πριν από την Καθαρή Δευτέρα και είναι μια μέρα γεμάτη παράδοση. Δεν έχει ανακοινωθεί αν θα υπάρχουν νέες αλλαγές γι’ αυτή τη γιορτή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
       "sourceDomains": [
@@ -374,265 +565,237 @@
           "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
         }
       ],
-      "category": "fun",
-      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που επικεντρώνεται στη διασκέδαση, την καλή παρέα και τη γαστρονομία, επομένως ταιριάζει καλύτερα στην κατηγορία της διασκέδασης.",
+      "category": "happy",
+      "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που συνδυάζει πλούσιες παραδόσεις και κοινωνικές συναθροίσεις με ευχάριστο κλίμα, γεγονός που την καθιστά μια χαρούμενη ιστορία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-12T09:54:52.000Z"
     },
     {
-      "id": "ac56b559fdc4",
-      "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
-      "simpleTitle": "Διαφορές ανάμεσα στα BAFTA και τα Όσκαρ",
-      "simpleText": "Τα BAFTA και τα Όσκαρ είναι δύο σημαντικά βραβεία στον κινηματογράφο. Κάθε χρόνο, οι άνθρωποι που αγαπούν τις ταινίες περιμένουν να δουν ποιοι θα κερδίσουν. Αυτά τα βραβεία τιμούν τους δημιουργούς και τις ταινίες τους. Τα BAFTA γίνονται στο Ηνωμένο Βασίλειο, ενώ τα Όσκαρ στις Ηνωμένες Πολιτείες. Είναι ωραίο να βλέπουμε πώς οι ιστορίες από διαφορετικές χώρες ενώνουν τους ανθρώπους. Αυτοί οι θεσμοί δείχνουν πόσο σημαντικός είναι ο κινηματογράφος για τον κόσμο. Δεν ξέρουμε ακόμα αν θα υπάρξουν και νέες κατηγορίες βραβείων.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/31340-bafta-vs-oscar/"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αφορά τις διαφορές και τη σημασία των BAFTA και Όσκαρ, που είναι κεντρικά θέματα στον τομέα του κινηματογράφου και των βραβεύσεων.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-12T07:31:00.000Z"
-    },
-    {
-      "id": "94fedb48beee",
-      "title": "Σενάρια από την Ιταλία για Χεζόνια στον Παναθηναϊκό",
-      "simpleTitle": "Εξελίξεις με τον Χεζόνια και τον Παναθηναϊκό",
-      "simpleText": "Ο Μάριο Χεζόνια, παίκτης της Ρεάλ Μαδρίτης, δεν είναι ικανοποιημένος με τον ρόλο του στην ομάδα. Υπάρχουν φήμες ότι μπορεί να επιστρέψει στον Παναθηναϊκό. Ο Χεζόνια έχει υπογράψει συμβόλαιο με τη Ρεάλ μέχρι το 2029, αλλά έχει μια ρήτρα που του επιτρέπει να φύγει αν θελήσει να παίξει στο NBA. Οι πληροφορίες έρχονται από Ιταλικά δημοσιεύματα και δείχνουν ότι ενδιαφέρονται άλλες ομάδες της Euroleague για αυτόν. Δεν γνωρίζουμε ακόμα αν θα υπάρξει κάποια συμφωνία.",
-      "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/16/sports/basketball/senaria-apo-tin-italia-gia-xezonia-ston-panathinaiko/",
-      "sourceDomains": [
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/16/sports/basketball/senaria-apo-tin-italia-gia-xezonia-ston-panathinaiko/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά μεταγραφικά σενάρια και την κατάσταση ενός παίκτη στο μπάσκετ, που σχετίζεται με την Euroleague και τον Παναθηναϊκό. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g230e7d83a718eee91ae652c8bcc38a6d5d20386143bfa5515cefc11ad2c0b68e196366b391e0bb047efc2dcffcf9214d0821961c57467fddf10ed1be117701fc_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-16T15:41:43.000Z"
-    },
-    {
-      "id": "ab9a62e225c4",
-      "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Χόκεϊ στον Πάγο-Α’ Ημιτελικός (Γ) (17:40, ΕΡΤ2 ΣΠΟΡ)",
-      "simpleTitle": "Δείτε ζωντανά το Χόκεϊ στον Πάγο για τους Χειμερινούς Ολυμπιακούς Αγώνες",
-      "simpleText": "Σήμερα στις 17:40 μπορείτε να παρακολουθήσετε ζωντανά τον Α’ ημιτελικό στο χόκεϊ στον πάγο για τους Χειμερινούς Ολυμπιακούς Αγώνες 2026, που γίνονται στο Μιλάνο και την Κορτίνα. Ο αγώνας θα μεταδοθεί από την ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον δείτε και διαδικτυακά μέσω του ERTFLIX. Είναι μια σπουδαία ευκαιρία να παρακολουθήσουμε αθλητές από διάφορες χώρες να διαγωνίζονται. Μην ξεχάσετε να συνδεθείτε λίγο πριν αρχίσει ο αγώνας!",
+      "id": "eb74030c295f",
+      "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Κέρλινγκ Ελβετία-Σουηδία (10:00 π.μ., ΕΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Παρακολούθηση του Κέρλινγκ στους Χειμερινούς Ολυμπιακούς Αγώνες",
+      "simpleText": "Σήμερα, στις 10:00 π.μ., θα δείτε έναν αγώνα κέρλινγκ ανάμεσα στην Ελβετία και τη Σουηδία. Αυτή η εκδήλωση είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων, που γίνονται στο Μιλάνο και την Κορτίνα το 2026. Ο αγώνας θα μεταδοθεί ζωντανά από το κανάλι ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον παρακολουθήσετε και διαδικτυακά μέσω της πλατφόρμας ERTFLIX. Είναι μια καλή ευκαιρία να δείτε τους αθλητές να διαγωνίζονται.",
       "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-a-imitelikos-g-17-40-ert2-spor/",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-kerlingk-elvetia-souidia-10-00-p-m-ert2-spor/",
       "sourceDomains": [
         "ertnews.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-a-imitelikos-g-17-40-ert2-spor/"
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-kerlingk-elvetia-souidia-10-00-p-m-ert2-spor/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τα Χειμερινά Ολυμπιακά Αγωνίς, συγκεκριμένα τον Α' ημιτελικό στο χόκεϊ στον πάγο, και περιλαμβάνει πληροφορίες για μετάδοση αγώνα, γεγονός που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά έναν αγώνα κέρλινγκ, που είναι σοβαρό αθλητικό γεγονός στο πλαίσιο των Χειμερινών Ολυμπιακών Αγώνων, κατηγορία που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-      "publishedAt": "2026-02-16T15:30:00.000Z"
+      "publishedAt": "2026-02-17T07:50:00.000Z"
+    },
+    {
+      "id": "4be38f84d665",
+      "title": "Ανεβαίνει το θερμόμετρο στο Champions League",
+      "simpleTitle": "Ξεκινούν οι αγώνες του Champions League",
+      "simpleText": "Απόψε ξεκινούν οι αγώνες των πλέι οφ στο Champions League. Αυτή είναι η διαδικασία για να συμπληρωθεί η 16άδα των ομάδων που θα προχωρήσουν. Συμμετέχουν ομάδες που τερμάτισαν από την 9η έως την 24η θέση στη League Phase. Οι αγώνες είναι πολύ σημαντικοί, γιατί θα κρίνουν ποιες ομάδες θα συνεχίσουν στον θεσμό. Είναι μια μεγάλη ευκαιρία για τις ομάδες αυτές να δείξουν τη δύναμή τους.",
+      "sourceName": "Kathimerini",
+      "sourceUrl": "https://www.kathimerini.gr/athletics/football/564081538/anevainei-to-thermometro-sto-champions-league/",
+      "sourceDomains": [
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/athletics/football/564081538/anevainei-to-thermometro-sto-champions-league/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά την έναρξη των αγώνων στο Champions League, που σχετίζεται άμεσα με τον αθλητισμό και τις ποδοσφαιρικές ομάδες. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gac2894e3ee60262445577e504b4fc5db81c4f2a4983c0d22a98c65f9da316e57d4161c3b9e53e1549a0a83ea2ef12f56585ac17a858075d3ffc452bdeb704196_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-17T06:46:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "1eb54cbd0e7a",
-        "title": "Ιταλία: Κατέρρευσε από την κακοκαιρία η διάσημη Αψίδα των Εραστών ανήμερα του Αγίου Βαλεντίνου",
-        "simpleTitle": "Κατέρρευσε η Αψίδα των Εραστών στην Ιταλία",
-        "simpleText": "Η Αψίδα των Εραστών στην Ιταλία κατέρρευσε την ημέρα του Αγίου Βαλεντίνου. Αυτό συνέβη λόγω ισχυρών βροχών και καταιγίδων που πλήττουν τη νότια Ιταλία. Η αψίδα ήταν ένα γνωστό αξιοθέατο στην περιοχή Σαλέντο και πολλοί επισκέπτες την φωτογράφιζαν. Ο δήμαρχος του Μελεντούνιο δήλωσε ότι είναι ένα σοβαρό πλήγμα για την περιοχή. Η καταστροφή αυτή δείχνει τα προβλήματα που δημιουργούνται από την αλλαγή του καιρού. Δεν ξέρουμε ακόμα πώς θα αποκατασταθεί η ζημιά. Οι κάτοικοι είναι λυπημένοι για την απώλεια αυτού του όμορφου τοπίου.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/italia-katerreyse-apo-tin-kakokairia-i-diasimi-apsida-ton-eraston-animera-tou-agiou-valentinou/",
+        "id": "2d45e3131cda",
+        "title": "Τρεις ανήλικοι ταυτοποιήθηκαν για ξυλοδαρμό 16χρονου έξω από σχολείο στη Θεσσαλονίκη",
+        "simpleTitle": "Τρεις ανήλικοι ταυτοποιήθηκαν για επίθεση σε 16χρονο στη Θεσσαλονίκη",
+        "simpleText": "Τρεις ανήλικοι ταυτοποιήθηκαν για να έχουν επιτεθεί σε 16χρονο στη Θεσσαλονίκη. Το περιστατικό συνέβη το μεσημέρι της 10ης Οκτωβρίου, έξω από σχολείο. Οι κάμερες της περιοχής κατέγραψαν την επίθεση, όπου οι ανήλικοι χτύπησαν το θύμα με σπρωξίματα και γροθιές. Ο 16χρονος κατάφερε να ξεφύγει τρέχοντας. Η υπόθεση εξετάζεται από την αστυνομία και την εισαγγελία, διότι είναι σοβαρή. Είναι σημαντικό να προστατεύουμε τους νέους και να μην επιτρέπουμε τέτοια βία.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/ert3/treis-anilikoi-taytopoiithikan-gia-ksylodarmo-16xronou-ekso-apo-sxoleio-sti-thessaloniki/",
         "sourceDomains": [
           "ertnews.gr",
-          "tanea.gr"
+          "kathimerini.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/italia-katerreyse-apo-tin-kakokairia-i-diasimi-apsida-ton-eraston-animera-tou-agiou-valentinou/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/16/world/italia-animera-tou-agiou-valentinou-katerreyse-i-emvlimatiki-apsida-ton-eraston/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η κατάρρευση της Αψίδας των Εραστών στην Ιταλία λόγω κακοκαιρίας αναδεικνύει σοβαρά ζητήματα σχετικά με την παράκτια διάβρωση και την κλιματική αλλαγή, ενώ έχει σημαντικές συνέπειες για την τοπική κοινωνία και τον τουρισμό.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.youtube.com/embed/9TSR3D5WSFk",
-        "publishedAt": "2026-02-16T15:33:30.000Z"
-      },
-      {
-        "id": "d4fce1afb4d0",
-        "title": "Στο Βέλγιο εμπειρογνώμονες του Υπουργείου Πολιτισμού για τις φωτογραφίες των 200 της Καισαριανής",
-        "simpleTitle": "**Τίτλος: Εμπειρογνώμονες του Υπουργείου Πολιτισμού στο Βέλγιο για φωτογραφίες από την Καισαριανή**",
-        "simpleText": "Το Υπουργείο Πολιτισμού ανακοίνωσε ότι επιστήμονες θα πάνε στη Γάνδη του Βελγίου. Αυτή η επίσκεψη είναι για να εξετάσουν 12 φωτογραφίες που δείχνουν τις τελευταίες στιγμές 200 πατριωτών πριν την εκτέλεσή τους, στην Καισαριανή, το 1944. Οι φωτογραφίες βρέθηκαν σε δημοπρασία στο eBay και ανήκουν σε συλλέκτη που ασχολείται με τη στρατιωτική ιστορία.\n\nΕίναι σημαντικό να διαπιστωθεί αν οι φωτογραφίες είναι αυθεντικές. Αν είναι γνήσιες, το Υπουργείο σκοπεύει να τις αποκτήσει. Αυτό θα βοηθήσει στη διατήρηση της ιστορίας και της πολιτιστικής κληρονομιάς της Ελλάδας. Οι ειδικοί θα ελέγξουν τη νομιμότητα και την αξία της συλλογής για να προχωρήσουν με τις διαδικασίες των νομικών βημάτων.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-velgio-empeirognomones-tou-ypourgeiou-politismou-gia-tis-fotografies-ton-200-tis-kaisarianis/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sto-velgio-empeirognomones-tou-ypourgeiou-politismou-gia-tis-fotografies-ton-200-tis-kaisarianis/"
+            "url": "https://www.ertnews.gr/ert3/treis-anilikoi-taytopoiithikan-gia-ksylodarmo-16xronou-ekso-apo-sxoleio-sti-thessaloniki/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/culture/564080845/fotografies-kaisarianis-stelechi-toy-yppo-echoyn-idi-elthei-se-epafi-me-ton-syllekti/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/16/greece/fotografies-ton-200-tis-kaisarianis-sto-velgio-metavainoun-empeirognomones-tou-ypourgeiou-politismou/"
+            "url": "https://www.kathimerini.gr/society/564081988/thessaloniki-treis-anilikoi-taytopoiithikan-gia-xylodarmo-16chronoy/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την αυθεντικότητα και την απόκτηση φωτογραφιών που σχετίζονται με μια σοβαρή και τραγική ιστορική στιγμή της ελληνικής ιστορίας, άρα σχετίζεται με θέματα πολιτιστικής κληρονομιάς και ιστορίας.",
+        "categoryReason": "Η είδηση αφορά έναν σοβαρό ξυλοδαρμό ανηλίκου, που εγείρει θέματα βίας και ασφάλειας των νέων, θέματα που είναι σημαντικά σε κοινωνικό επίπεδο.",
         "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.megatv.com/embed/?p=20202273461",
-        "publishedAt": "2026-02-16T15:14:08.000Z"
+        "imageUrl": "https://pixabay.com/get/gcdf9c7f270fac1bd21c423a3de80c6cd501eefebbb3881cc9a2112d567072ddb43a66ea7d8a51c3ccae334314807b2e2055af7350074d206544d9a70a203d6b7_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-17T07:52:31.000Z"
       },
       {
-        "id": "7dac3d12b1b3",
-        "title": "Πότε θα καταβληθούν οι συντάξεις του Μαρτίου",
-        "simpleTitle": "Πότε θα πληρωθούν οι συντάξεις του Μαρτίου",
-        "simpleText": "Οι συντάξεις του Μαρτίου θα πληρωθούν νωρίτερα από ότι συνήθως. Οι πληρωμές θα ξεκινήσουν την Τρίτη 24 Φεβρουαρίου 2026 για όσους δεν είναι μισθωτοί. Για τους μισθωτούς και τους δημόσιους υπαλλήλους, οι πληρωμές θα ολοκληρωθούν την Πέμπτη 26 Φεβρουαρίου. Αυτό είναι σημαντικό, γιατί οι άνθρωποι μπορούν να προγραμματίσουν καλύτερα τα οικονομικά τους. Δεν έχουμε λεπτομέρειες για άλλες οδηγίες ασφαλείας σχετικά με τις πληρωμές.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/economy/syntaxeis/564080776/pote-tha-katavlithoyn-oi-syntaxeis-toy-martioy/",
+        "id": "3fba7c952a60",
+        "title": "Αθήνα: Μεθυσμένη οδηγός προκάλεσε καραμπόλα με 5 σταθμευμένα οχήματα – Στο αυτόφωρο η 36χρονη",
+        "simpleTitle": "Μεθυσμένη οδηγός προκάλεσε ζημιές σε πέντε σταθμευμένα αυτοκίνητα",
+        "simpleText": "Στην Αθήνα, μια 36χρονη γυναίκα οδήγησε το αυτοκίνητό της τα ξημερώματα και χτύπησε πέντε σταθμευμένα αυτοκίνητα. Το ατύχημα συνέβη γύρω στις 04:35, στη συμβολή των οδών Κλεισμένους και Ξανθίππης. Ευτυχώς, δεν υπήρξαν τραυματισμοί. Οι αστυνομικοί ήρθαν γρήγορα στο σημείο και διαπίστωσαν ότι η γυναίκα είχε πιει αλκοόλ. Η μέτρηση έδειξε ότι ήταν πάνω από το επιτρεπόμενο όριο. Τώρα, η γυναίκα θα αντιμετωπίσει τις συνέπειες της πράξης της, πράγμα που δείχνει πόσο επικίνδυνο είναι να οδηγεί κανείς μεθυσμένος.",
+        "sourceName": "ERT News, Kathimerini",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/athina-methysmeni-odigos-prokalese-karampola-me-5-stathmeymena-oximata-sto-aytoforo-i-36xroni/",
         "sourceDomains": [
-          "kathimerini.gr",
+          "ertnews.gr",
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/athina-methysmeni-odigos-prokalese-karampola-me-5-stathmeymena-oximata-sto-aytoforo-i-36xroni/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564081979/athina-methysmeni-odigos-epese-se-pente-stathmeymena-ochimata/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε ένα σοβαρό τροχαίο ατύχημα που προκλήθηκε λόγω μέθης, τονίζοντας τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ και τις σοβαρές συνέπειες που μπορεί να επιφέρει.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-17T07:49:24.000Z"
+      },
+      {
+        "id": "974d8f839a47",
+        "title": "Μεθυσμένη οδηγός έπεσε σε σταθμευμένα αυτοκίνητα και προκάλεσε ζημιές στο Μαρούσι",
+        "simpleTitle": "Μεθυσμένη οδηγός έσπασε αυτοκίνητα στο Μαρούσι",
+        "simpleText": "Μια 36χρονη γυναίκα συνελήφθη στο Μαρούσι επειδή χτύπησε σταθμευμένα αυτοκίνητα. Η οδηγός είναι τραγουδίστρια. Από τις μετρήσεις αλκοόλ που έγιναν, φάνηκε ότι είχε καταναλώσει πολύ αλκοόλ. Η πρώτη μέτρηση έδειξε 0,78 mg/l και η δεύτερη 0,83 mg. Αυτό είναι επικίνδυνο και μπορεί να προκαλέσει σοβαρά ατυχήματα. Δεν έχουν ανακοινωθεί λεπτομέρειες για τις ζημιές, αλλά είναι σημαντικό να προσέχουμε τις οδηγίες ασφαλείας στο δρόμο.",
+        "sourceName": "News.gr, Protagon",
+        "sourceUrl": "https://www.news.gr/ellada/article/4077160/methismeni-odigos-epese-se-stathmevmena-aftokinita-ke-prokalese-zimies-sto-marousi.html",
+        "sourceDomains": [
+          "news.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4077160/methismeni-odigos-epese-se-stathmevmena-aftokinita-ke-prokalese-zimies-sto-marousi.html"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/kolwnaki-methysmeni-odigos-prokalese-zimies-se-pente-stathmevmena-aftokinita-44343313767"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρό ατύχημα που προκλήθηκε από μεθυσμένη οδηγό, επισημαίνοντας τους κινδύνους της οδήγησης υπό την επήρεια αλκοόλ.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-17T07:45:30.000Z"
+      },
+      {
+        "id": "b39daa3767b0",
+        "title": "Τραμπ σε Ιράν: Συνέπειες αν δεν υπάρξει συμφωνία – Κρίσιμες διαπραγματεύσεις στη Γενεύη",
+        "simpleTitle": "Τραμπ προς Ιράν: Κίνδυνοι αν δεν γίνει συμφωνία",
+        "simpleText": "Στη Γενεύη γίνονται σημαντικές συζητήσεις για το πυρηνικό πρόγραμμα του Ιράν. Ο Αμερικανός πρόεδρος Τραμπ προειδοποιεί ότι αν δεν υπάρξει συμφωνία, τότε θα υπάρχουν συνέπειες. Υπάρχουν φόβοι ότι οι εντάσεις θα αυξηθούν αν οι διαπραγματεύσεις αποτύχουν. Οι Ηνωμένες Πολιτείες έχουν ενισχύσει τη στρατιωτική τους παρουσία στη Μέση Ανατολή. Αυτό είναι σημαντικό για την ασφάλεια της περιοχής και μπορεί να επηρεάσει πολλούς ανθρώπους. Ο Τραμπ σκοπεύει να συμμετέχει έμμεσα στις συνομιλίες αυτή την εβδομάδα. Δεν έχουμε περισσότερες λεπτομέρειες για τις αντιδράσεις αν δεν επιτευχθεί συμφωνία.",
+        "sourceName": "TO BHMA, News.gr",
+        "sourceUrl": "https://www.tovima.gr/2026/02/17/world/tramp-se-iran-synepeies-an-den-yparksei-symfonia-krisimes-diapragmateyseis-sti-geneyi/",
+        "sourceDomains": [
+          "tovima.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/17/world/tramp-se-iran-synepeies-an-den-yparksei-symfonia-krisimes-diapragmateyseis-sti-geneyi/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4077170/proidopiisi-trab-pros-iran-simfonia-i-sinepies-prin-apo-ti-genevi.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρές διεθνείς διαπραγματεύσεις σχετικά με το πυρηνικό πρόγραμμα του Ιράν και τις συνέπειες που μπορεί να προκύψουν αν δεν υπάρξει συμφωνία, άρα εμπίπτει σε σοβαρές πολιτικές και διπλωματικές εξελίξεις.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-17T07:35:18.000Z"
+      },
+      {
+        "id": "2d5bbe5afebe",
+        "title": "Φορολογική «ασφυξία» το 2026: Πόσα θα πληρώνουν κάθε μήνα οι φορολογούμενοι",
+        "simpleTitle": "Φορολογικές Υποχρεώσεις το 2026: Πόσα θα πληρώνουν οι πολίτες",
+        "simpleText": "Το 2026 οι φορολογούμενοι στην Ελλάδα θα πληρώνουν περίπου 6,1 δισ. ευρώ κάθε μήνα. Αυτό γίνεται για να καλυφθούν οι ανάγκες του προϋπολογισμού. Η ακρίβεια βοηθάει την κυβέρνηση να συγκεντρώσει περισσότερα φορολογικά έσοδα. Οι συνολικές εισπράξεις από φόρους αναμένονται να φτάσουν πάνω από 73 δισ. ευρώ για το έτος.\n\nΟ Ιούλιος θα είναι δύσκολος μήνας, με πληρωμές ύψους 8,5 δισ. ευρώ. Αντίθετα, ο Μάρτιος θα είναι καλύτερος, με 5 δισ. ευρώ. Οι πολίτες θα πρέπει να είναι προσεκτικοί με τις πληρωμές τους. Οι φορολογικές υποχρεώσεις του 2025 τελειώνουν τον Φεβρουάριο, και θα ξεκινήσουν νέες υποχρεώσεις τον Μάρτιο.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/17/economy/forologiki-asfyksia-to-2026-posa-tha-plironoun-kathe-mina-oi-forologoumenoi/",
+        "sourceDomains": [
+          "tanea.gr",
           "tovima.gr"
         ],
         "sources": [
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/economy/syntaxeis/564080776/pote-tha-katavlithoyn-oi-syntaxeis-toy-martioy/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/17/economy/forologiki-asfyksia-to-2026-posa-tha-plironoun-kathe-mina-oi-forologoumenoi/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/16/finance/e-efka-noritera-oi-syntakseis-tou-martiou-pote-oloklironontai-oi-pliromes/"
+            "url": "https://www.tovima.gr/2026/02/17/finance/forologia-posa-tha-plironoun-kathe-mina-oi-forologoumenoi-gia-to-2026/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την ανακοίνωση των ημερομηνιών καταβολής των συντάξεων, που είναι σοβαρό οικονομικό ζήτημα για τους πολίτες.",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρές οικονομικές επιπτώσεις για τους φορολογούμενους στην Ελλάδα, συμπεριλαμβανομένων των μηνιαίων πληρωμών φόρων και των προϋπολογιστικών υποχρεώσεων, που σχετίζονται με τη φορολογία και την οικονομική κατάσταση της χώρας.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-16T14:48:59.000Z"
+        "publishedAt": "2026-02-17T07:13:29.000Z"
       },
       {
-        "id": "3b91b7210fc9",
-        "title": "Γαλλία: Στο κόκκινο η πολιτική ένταση μετά τον θάνατο 23χρονου φοιτητή σε συγκρούσεις",
-        "simpleTitle": "Πολιτική ένταση στη Γαλλία μετά τον θάνατο φοιτητή",
-        "simpleText": "Στη Γαλλία, υπάρχει μεγάλη ένταση πολιτικά μετά τον θάνατο ενός 23χρονου φοιτητή. Ο φοιτητής αυτός, ο Κουεντέν, σκοτώθηκε σε βίαιες συγκρούσεις ανάμεσα σε ομάδες της άκρας δεξιάς και της άκρας αριστεράς. Οι συγκρούσεις συνέβησαν την περασμένη Πέμπτη στην πόλη Λυών, κατά τη διάρκεια πολιτικής ομιλίας.\n\nΑφού τραυματίστηκε, μεταφέρθηκε σε νοσοκομείο, αλλά δεν κατάφερε να επιβιώσει. Η οικογένεια του θύματος αναφέρει ότι δέχθηκε επίθεση από οργανωμένες ομάδες. Η αστυνομία ερευνά την υπόθεση, ενώ ο πρόεδρος Μακρόν εξέφρασε τη λύπη του για το γεγονός. Ακόμη δεν ξέρουμε αν θα υπάρξουν συνέπειες για τους υπεύθυνους.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/gallia-sto-kokkino-i-politiki-entasi-meta-ton-thanato-23xronou-foititi-se-sygkrouseis/",
+        "id": "c868264190bd",
+        "title": "Χρήστος Μαυρίκης: Πυροβόλησε στον αέρα και ταμπουρώθηκε στο σπίτι του",
+        "simpleTitle": "Χρήστος Μαυρίκης: Πυροβολίες και ταμπουρωμένος στο σπίτι του",
+        "simpleText": "Ο Χρήστος Μαυρίκης πυροβόλησε στον αέρα και μετά κλείστηκε στο σπίτι του. Αυτό συνέβη στα Σπάτα και η κατάσταση κράτησε περίπου έξι ώρες. Ένας διαπραγματευτής τον επισκέφτηκε για να μιλήσει μαζί του. Ο Χρήστος Μαυρίκης είναι γνωστός, καθώς έχει διαπράξει παλαιότερα σοβαρά αδικήματα. Είναι σημαντικό να έχουμε ηρεμία σε τέτοιες καταστάσεις και να αποφεύγουμε τα επικίνδυνα γεγονότα. Δεν γνωρίζουμε ακόμα γιατί πυροβόλησε.",
+        "sourceName": "TO BHMA, News.gr",
+        "sourceUrl": "https://www.tovima.gr/2026/02/16/society/xristos-mayrikis-pyrovolise-ston-aera-kai-tampourothike-sto-spiti-tou/",
         "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
+          "tovima.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/gallia-sto-kokkino-i-politiki-entasi-meta-ton-thanato-23xronou-foititi-se-sygkrouseis/"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/16/society/xristos-mayrikis-pyrovolise-ston-aera-kai-tampourothike-sto-spiti-tou/"
           },
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564080755/gallia-sta-ypsi-i-politiki-entasi-meta-ton-thanato-23chronoy-foititi/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4077133/sinelifthi-o-christos-mavrikis-pou-iche-tampourothi-sto-spiti-tou-ke-pirovolise-ston-aera-sta-spata-thriler-gia-exi-ores.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρό κοινωνικό ζήτημα που αφορά πολιτική ένταση και βία στη Γαλλία, με θύμα έναν φοιτητή. Εξετάζει ζητήματα γύρω από πολιτική αντιπαράθεση και κοινωνική αναταραχή.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/gallia2.mp4",
-        "publishedAt": "2026-02-16T14:34:06.000Z"
-      },
-      {
-        "id": "436581d46503",
-        "title": "Θεσσαλονίκη: Στον εισαγγελέα σωφρονιστικός υπάλληλος για διακίνηση ναρκωτικών",
-        "simpleTitle": "Υπάλληλος φυλακών Θεσσαλονίκης φυλακίστηκε για ναρκωτικά",
-        "simpleText": "Ένας σωφρονιστικός υπάλληλος 33 ετών στη Θεσσαλονίκη συνελήφθη γιατί διακινούσε ναρκωτικά. Μετά την απολογία του στον ανακριτή, κρίθηκε προσωρινά κρατούμενος. Οι αστυνομικοί παρακολουθούσαν τις κινήσεις του και τον άκουσαν να μιλάει με κρατούμενο που είχε κινητό τηλέφωνο. Οι εξηγήσεις του δεν έπεισαν, γι' αυτό οδηγήθηκε ξανά στη φυλακή. Η υπόθεση είναι σοβαρή λόγω της θέσης του στο σωφρονιστικό σύστημα και επηρεάζει τη δημόσια ασφάλεια. Δεν έχει ανακοινωθεί αν θα γίνουν περαιτέρω έρευνες.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki-ston-eisaggelea-sofronistikos-ypallilos-gia-diakinisi-narkotikon/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki-ston-eisaggelea-sofronistikos-ypallilos-gia-diakinisi-narkotikon/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564080752/thessaloniki-prosorina-kratoymenos-sofronistikos-ypallilos-gia-diakinisi-narkotikon/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές ποινικές παραβάσεις και ζητήματα δημόσιας ασφάλειας από σωφρονιστικό υπάλληλο.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g44a35db3733f84c62816466538e3d712b301f93f104720d1302b47b18979680404ffb2060e5364bf003b1972b1d595e6d68d952e6e688c4c14c0cacc713254d4_1280.jpg",
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/ert3/themata-ert3/02/16-13-03-kantouris-part2.mp4&bgimg=https://www.ertnews.gr/wp-content/uploads/2026/02/16-13-03-kantouris-part2_2.jpg",
-        "publishedAt": "2026-02-16T14:25:59.000Z"
-      },
-      {
-        "id": "1ae6c805a1d8",
-        "title": "Διεθνής κατακραυγή για τα μέτρα στη Δυτική Όχθη — Η Κομισιόν καλεί το Ισραήλ να τα ανακαλέσει",
-        "simpleTitle": "Αντίθεση στην απόφαση του Ισραήλ για τη Δυτική Όχθη",
-        "simpleText": "Η Ευρωπαϊκή Ένωση ζήτησε από το Ισραήλ να αναιρέσει τα νέα μέτρα για την ιδιοκτησία γης στη Δυτική Όχθη. Αυτά τα μέτρα δημιουργούν ανησυχία και θεωρούνται από πολλούς ως κίνηση προς την προσάρτηση της περιοχής. Τα αραβικά κράτη, όπως η Σαουδική Αραβία και η Αίγυπτος, αντέτειναν ότι είναι παράνομα σύμφωνα με το διεθνές δίκαιο. Οι Παλαιστίνιοι φοβούνται ότι αυτό θα περιορίσει τα δικαιώματά τους στην περιοχή. Είναι σημαντικό για τη διεθνή κοινότητα να αντιδράσει, ώστε να διασφαλιστούν οι ειρηνικές σχέσεις και οι δικαιώσεις των κατοίκων.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/kosmos/diethnis-katakraygi-gia-ta-metra-sti-dytiki-oxthi-i-komision-kalei-to-israil-na-ta-anakalesei/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/kosmos/diethnis-katakraygi-gia-ta-metra-sti-dytiki-oxthi-i-komision-kalei-to-israil-na-ta-anakalesei/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564080506/i-e-e-kalese-to-israil-na-anakalesei-ta-metra-gia-ti-dytiki-ochthi/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρά ζητήματα διεθνούς δικαίου, πολιτικών αποφάσεων και ανθρωπίνων δικαιωμάτων, καθώς η Ε.Ε. καλεί το Ισραήλ να αναιρέσει μέτρα που θεωρούνται παράνομα.",
+        "categoryReason": "Η είδηση αφορά μια σοβαρή κατάσταση που περιλαμβάνει πυροβολισμούς και την αστυνομία, γεγονός που σχετίζεται με εγκληματική δραστηριότητα και κοινωνική ανησυχία.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-16T13:59:18.000Z"
+        "publishedAt": "2026-02-17T07:07:26.000Z"
       }
     ],
     "happy": [
       {
         "id": "6dac026a9e96",
         "title": "Ο πρώτος Έλληνας αστροναύτης: Ο Δρ. Αδριανός Γολέμης ξεκινά την εκπαίδευσή του",
-        "simpleTitle": "Ο πρώτος Έλληνας αστροναύτης ξεκινά εκπαίδευση",
-        "simpleText": "Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα γίνει αστροναύτης. Ξεκινάει την εκπαίδευσή του στον Ευρωπαϊκό Οργανισμό Διαστήματος. Αυτό συμβαίνει για πρώτη φορά στην ιστορία της Ελλάδας και είναι πολύ σημαντικό. Η χώρα μας έχει γίνει πιο κοντά στο διάστημα τα τελευταία χρόνια, καθώς έχουν εκτοξευτεί μικροδορυφόροι. Ο Αδριανός Γολέμης πέρασε δύσκολες δοκιμασίες για να μπει στο πρόγραμμα. Αυτό δείχνει ότι η Ελλάδα μπορεί να συμμετέχει στα μεγάλα πράγματα του κόσμου. Δεν έχει ανακοινωθεί πότε θα ξεκινήσει η εκπαίδευση.",
+        "simpleTitle": "Ο πρώτος Έλληνας αστροναύτης αρχίζει την εκπαίδευσή του",
+        "simpleText": "Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα εκπαιδευτεί ως αστροναύτης. Η εκπαίδευσή του ξεκινά σύντομα και είναι μέρος του προγράμματος του Ευρωπαϊκού Οργανισμού Διαστήματος. Αυτό είναι ένα μεγάλο βήμα για τη χώρα μας, καθώς είναι η πρώτη φορά που Έλληνας πολίτης συμμετέχει σε ένα τέτοιο πρόγραμμα. Η Ελλάδα αναπτύσσει σχέσεις με το διάστημα, και αυτή η εξέλιξη είναι πολύ σημαντική. Δείχνει ότι η επιστήμη και η τεχνολογία προχωράνε, και μπορεί να εμπνεύσει νέους να ενδιαφερθούν για το διάστημα. Δεν έχει ανακοινωθεί ημερομηνία για την ολοκλήρωση της εκπαίδευσης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/",
         "sourceDomains": [
@@ -645,7 +808,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση για τον πρώτο Έλληνα αστροναύτη είναι μια θετική και χαρούμενη στιγμή για τη χώρα, καθώς δείχνει πρόοδο και επιτυχία στον τομέα του διαστήματος, που ενισχύει την εθνική υπερηφάνεια.",
+        "categoryReason": "Η είδηση αφορά την εκπαίδευση του πρώτου Έλληνα αστροναύτη, γεγονός που φέρνει χαρά και αισιοδοξία για τη συμμετοχή της χώρας σε διαστημικά προγράμματα και μπορεί να εμπνεύσει νέους.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -654,8 +817,8 @@
       {
         "id": "37f5374ecf12",
         "title": "Πώς η επαφή με τη φύση επηρεάζει θετικά την ψυχική ισορροπία του παιδιού",
-        "simpleTitle": "Πώς η φύση βοηθά τα παιδιά να είναι πιο ήρεμα",
-        "simpleText": "Σήμερα, τα παιδιά περνούν πολύ χρόνο μπροστά σε οθόνες. Αυτό σημαίνει ότι δεν περνούν αρκετό χρόνο στη φύση. Ωστόσο, η επαφή με το φυσικό περιβάλλον είναι πολύ σημαντική για αυτά. Η φύση μπορεί να τα βοηθήσει να νιώθουν πιο ήρεμα και να μειώνουν το άγχος. Αυτό είναι σημαντικό γιατί συμβάλλει στην καλή ψυχική τους υγεία.\n\nΤα παιδιά που παίζουν έξω στη φύση είναι πιο ευτυχισμένα και κοινωνικά. Είναι καλό να περνούν χρόνο σε πάρκα ή σε άλλα φυσικά μέρη. Έτσι, θα είναι πιο χαρούμενα και θα αναπτύσσονται καλύτερα.",
+        "simpleTitle": "Πώς η φύση βοηθά τα παιδιά",
+        "simpleText": "Πολλά παιδιά περνούν χρόνο μπροστά σε οθόνες και δεν είναι αρκετές φορές στη φύση. Ωστόσο, η επαφή με τη φύση είναι πολύ σημαντική. Βοηθά τα παιδιά να είναι πιο ήρεμα και να νιώθουν καλύτερα. Η φύση τους κάνει να ξεχνάνε το άγχος και τις ανησυχίες τους.\n\nΕίναι σημαντικό να περνούν χρόνο έξω, γιατί αυτό τους βοηθά να μεγαλώνουν υγιή και ευτυχισμένα. Οι γονείς μπορούν να ενθαρρύνουν τα παιδιά τους να εξερευνούν τον κόσμο γύρω τους, παίζοντας και μαθαίνοντας στη φύση. Δίνει χαρά και θετική ενέργεια.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31921-paidi-epafi-fisi-psixiki-isorropia/",
         "sourceDomains": [
@@ -668,7 +831,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση ασχολείται με τον θετικό αντίκτυπο της επαφής με τη φύση στην ψυχική υγεία των παιδιών, προωθώντας την ευτυχία και την καλή ψυχική ισορροπία τους.",
+        "categoryReason": "Η είδηση αναφέρεται στα θετικά οφέλη της επαφής με τη φύση για τα παιδιά, προάγοντας την ψυχική τους ισορροπία και ευτυχία, γεγονός που ενισχύει μια χαρούμενη και αισιόδοξη άποψη.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -677,8 +840,8 @@
       {
         "id": "2951116448e0",
         "title": "Πώς οι απλές δουλειές στο σπίτι βοηθούν την αυτονομία του παιδιού",
-        "simpleTitle": "Οφέλη από τις δουλειές στο σπίτι για τα παιδιά",
-        "simpleText": "Οι δουλειές του σπιτιού είναι πολύ χρήσιμες για τα παιδιά. Όταν τα παιδιά συμμετέχουν σε αυτές, μαθαίνουν να είναι πιο ανεξάρτητα. Αυτό σημαίνει ότι νιώθουν πιο σίγουρα για τον εαυτό τους. Οι απλές δραστηριότητες, όπως το να βοηθάνε στο καθάρισμα ή στο μαγείρεμα, δεν είναι βαρετές. Είναι τρόποι για να μάθουν νέα πράγματα και να κατανοήσουν την ευθύνη. Είναι καλό να αρχίζουν από νωρίς, γιατί έτσι αναπτύσσουν γνώσεις που θα τους χρειαστούν στη ζωή τους.",
+        "simpleTitle": "Πώς οι απλές δουλειές στο σπίτι βοηθούν τα παιδιά",
+        "simpleText": "Οι δουλειές του σπιτιού είναι σημαντικές για τα παιδιά. Όταν συμμετέχουν στις καθημερινές εργασίες, μαθαίνουν να είναι πιο ανεξάρτητα και να έχουν εμπιστοσύνη στον εαυτό τους. Αυτές οι δουλειές δεν είναι βαρετές, αλλά βοηθούν τα παιδιά να μάθουν πράγματα στη ζωή τους. Μέσα από αυτές, καταλαβαίνουν τη σημασία της ευθύνης. Είναι καλό να κάνουν μικρές δουλειές, γιατί έτσι αναπτύσσουν δεξιότητες και γίνονται πιο ικανά. Έτσι, τα παιδιά προετοιμάζονται καλύτερα για το μέλλον τους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31916-pos-oi-aples-douleies-sto-spiti-voithoun-tin-aftonomia-tou-paidiou/",
         "sourceDomains": [
@@ -691,7 +854,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε θετικές πτυχές της συμμετοχής των παιδιών σε δουλειές του σπιτιού, όπως η ανάπτυξη αυτονομίας και αυτοπεποίθησης, γεγονότα που προάγουν μια χαρούμενη και θετική προοπτική.",
+        "categoryReason": "Η είδηση αναφέρεται σε θετικές επιπτώσεις των απλών δουλειών στο σπίτι στην αυτονομία και την αυτοπεποίθηση των παιδιών, προωθώντας χαρούμενες και αναπτυξιακές ιδέες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -700,8 +863,8 @@
       {
         "id": "77b983e2cabd",
         "title": "Ενθαρρυντική εικόνα από τη λίμνη Μόρνου μετά τις βροχοπτώσεις",
-        "simpleTitle": "Καλή είδηση για τη λίμνη Μόρνου",
-        "simpleText": "Η λίμνη Μόρνου, που τροφοδοτεί την Αθήνα με νερό, φαίνεται πιο γεμάτη μετά από βροχές. Αυτό είναι καλό νέο, καθώς δείχνει ότι το νερό επανέρχεται. Οι βροχές βοήθησαν και η στάθμη του νερού ανέβηκε πολύ. Αυτή η αλλαγή δημιουργεί ελπίδες για καλύτερα αποθέματα νερού στο μέλλον. Όταν οι καιρικές συνθήκες είναι καλές, μπορεί να έχουμε περισσότερα αποθέματα νερού. Είναι σημαντικό να χαιρόμαστε για αυτές τις βελτιώσεις, ειδικά αν σκέφτεται κανείς την ανάγκη για νερό.",
+        "simpleTitle": "Καλύτερη κατάσταση στη λίμνη Μόρνου μετά τις βροχές",
+        "simpleText": "Η λίμνη Μόρνου, που είναι σημαντική για την Αθήνα, δείχνει καλύτερη εικόνα μετά τις πρόσφατες βροχές. Η στάθμη του νερού έχει αυξηθεί σημαντικά. Αυτό δίνει ελπίδα ότι τα αποθέματα νερού θα ανακάμψουν και οι άνθρωποι θα έχουν περισσότερο νερό. Είναι καλό νέο γιατί η λίμνη βοηθά στην παροχή νερού στην περιοχή. Δεν υπάρχουν άλλες πληροφορίες για το πότε θα συνεχιστούν οι βροχές ή πώς θα επηρεάσουν τα αποθέματα στο μέλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/31832-limni-mornou-vroxoptoseis-anodos-stathmi/",
         "sourceDomains": [
@@ -714,59 +877,82 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρει την αύξηση της στάθμης του νερού στη λίμνη Μόρνου μετά από βροχοπτώσεις, φέρνοντας θετική διάθεση και ελπίδα για καλύτερα αποθέματα νερού στο μέλλον.",
+        "categoryReason": "Η είδηση προσφέρει μια θετική προοπτική με την αναβάθμιση της κατάστασης της λίμνης Μόρνου και την ελπίδα ότι τα αποθέματα νερού θα ανακάμψουν, γεγονός που είναι ενθαρρυντικό για την περιοχή.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-12T13:22:00.000Z"
+      },
+      {
+        "id": "8a1f0ba56c5a",
+        "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
+        "simpleTitle": "Τσικνοπέμπτη: Τι είναι και πώς γιορτάζεται",
+        "simpleText": "Η Τσικνοπέμπτη είναι μια πολύ γνωστή μέρα στην Ελλάδα. Την ημέρα αυτή, οι μυρωδιές από φαγητό γεμίζουν τον αέρα. Οι άνθρωποι μαζεύονται με φίλους και συγγενείς γύρω από φωτιές και ψήνουν κρέας. Αυτό το έθιμο έχει ιστορία και σημαίνει γιορτή. Σήμερα, σε μια εποχή που οι άνθρωποι καταναλώνουν πολλά, η Τσικνοπέμπτη παραμένει μια ευκαιρία για συνάξεις και χαρά. Κάθε χρόνο γιορτάζεται πριν από την Καθαρή Δευτέρα και είναι μια μέρα γεμάτη παράδοση. Δεν έχει ανακοινωθεί αν θα υπάρχουν νέες αλλαγές γι’ αυτή τη γιορτή.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που συνδυάζει πλούσιες παραδόσεις και κοινωνικές συναθροίσεις με ευχάριστο κλίμα, γεγονός που την καθιστά μια χαρούμενη ιστορία.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-12T09:54:52.000Z"
       }
     ],
     "sports": [
       {
-        "id": "94fedb48beee",
-        "title": "Σενάρια από την Ιταλία για Χεζόνια στον Παναθηναϊκό",
-        "simpleTitle": "Εξελίξεις με τον Χεζόνια και τον Παναθηναϊκό",
-        "simpleText": "Ο Μάριο Χεζόνια, παίκτης της Ρεάλ Μαδρίτης, δεν είναι ικανοποιημένος με τον ρόλο του στην ομάδα. Υπάρχουν φήμες ότι μπορεί να επιστρέψει στον Παναθηναϊκό. Ο Χεζόνια έχει υπογράψει συμβόλαιο με τη Ρεάλ μέχρι το 2029, αλλά έχει μια ρήτρα που του επιτρέπει να φύγει αν θελήσει να παίξει στο NBA. Οι πληροφορίες έρχονται από Ιταλικά δημοσιεύματα και δείχνουν ότι ενδιαφέρονται άλλες ομάδες της Euroleague για αυτόν. Δεν γνωρίζουμε ακόμα αν θα υπάρξει κάποια συμφωνία.",
-        "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/16/sports/basketball/senaria-apo-tin-italia-gia-xezonia-ston-panathinaiko/",
-        "sourceDomains": [
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/16/sports/basketball/senaria-apo-tin-italia-gia-xezonia-ston-panathinaiko/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά μεταγραφικά σενάρια και την κατάσταση ενός παίκτη στο μπάσκετ, που σχετίζεται με την Euroleague και τον Παναθηναϊκό. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g230e7d83a718eee91ae652c8bcc38a6d5d20386143bfa5515cefc11ad2c0b68e196366b391e0bb047efc2dcffcf9214d0821961c57467fddf10ed1be117701fc_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-16T15:41:43.000Z"
-      },
-      {
-        "id": "ab9a62e225c4",
-        "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Χόκεϊ στον Πάγο-Α’ Ημιτελικός (Γ) (17:40, ΕΡΤ2 ΣΠΟΡ)",
-        "simpleTitle": "Δείτε ζωντανά το Χόκεϊ στον Πάγο για τους Χειμερινούς Ολυμπιακούς Αγώνες",
-        "simpleText": "Σήμερα στις 17:40 μπορείτε να παρακολουθήσετε ζωντανά τον Α’ ημιτελικό στο χόκεϊ στον πάγο για τους Χειμερινούς Ολυμπιακούς Αγώνες 2026, που γίνονται στο Μιλάνο και την Κορτίνα. Ο αγώνας θα μεταδοθεί από την ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον δείτε και διαδικτυακά μέσω του ERTFLIX. Είναι μια σπουδαία ευκαιρία να παρακολουθήσουμε αθλητές από διάφορες χώρες να διαγωνίζονται. Μην ξεχάσετε να συνδεθείτε λίγο πριν αρχίσει ο αγώνας!",
+        "id": "eb74030c295f",
+        "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Κέρλινγκ Ελβετία-Σουηδία (10:00 π.μ., ΕΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Παρακολούθηση του Κέρλινγκ στους Χειμερινούς Ολυμπιακούς Αγώνες",
+        "simpleText": "Σήμερα, στις 10:00 π.μ., θα δείτε έναν αγώνα κέρλινγκ ανάμεσα στην Ελβετία και τη Σουηδία. Αυτή η εκδήλωση είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων, που γίνονται στο Μιλάνο και την Κορτίνα το 2026. Ο αγώνας θα μεταδοθεί ζωντανά από το κανάλι ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον παρακολουθήσετε και διαδικτυακά μέσω της πλατφόρμας ERTFLIX. Είναι μια καλή ευκαιρία να δείτε τους αθλητές να διαγωνίζονται.",
         "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-a-imitelikos-g-17-40-ert2-spor/",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-kerlingk-elvetia-souidia-10-00-p-m-ert2-spor/",
         "sourceDomains": [
           "ertnews.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-a-imitelikos-g-17-40-ert2-spor/"
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-kerlingk-elvetia-souidia-10-00-p-m-ert2-spor/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τα Χειμερινά Ολυμπιακά Αγωνίς, συγκεκριμένα τον Α' ημιτελικό στο χόκεϊ στον πάγο, και περιλαμβάνει πληροφορίες για μετάδοση αγώνα, γεγονός που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν αγώνα κέρλινγκ, που είναι σοβαρό αθλητικό γεγονός στο πλαίσιο των Χειμερινών Ολυμπιακών Αγώνων, κατηγορία που σχετίζεται άμεσα με τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
-        "publishedAt": "2026-02-16T15:30:00.000Z"
+        "publishedAt": "2026-02-17T07:50:00.000Z"
+      },
+      {
+        "id": "4be38f84d665",
+        "title": "Ανεβαίνει το θερμόμετρο στο Champions League",
+        "simpleTitle": "Ξεκινούν οι αγώνες του Champions League",
+        "simpleText": "Απόψε ξεκινούν οι αγώνες των πλέι οφ στο Champions League. Αυτή είναι η διαδικασία για να συμπληρωθεί η 16άδα των ομάδων που θα προχωρήσουν. Συμμετέχουν ομάδες που τερμάτισαν από την 9η έως την 24η θέση στη League Phase. Οι αγώνες είναι πολύ σημαντικοί, γιατί θα κρίνουν ποιες ομάδες θα συνεχίσουν στον θεσμό. Είναι μια μεγάλη ευκαιρία για τις ομάδες αυτές να δείξουν τη δύναμή τους.",
+        "sourceName": "Kathimerini",
+        "sourceUrl": "https://www.kathimerini.gr/athletics/football/564081538/anevainei-to-thermometro-sto-champions-league/",
+        "sourceDomains": [
+          "kathimerini.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/athletics/football/564081538/anevainei-to-thermometro-sto-champions-league/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αφορά την έναρξη των αγώνων στο Champions League, που σχετίζεται άμεσα με τον αθλητισμό και τις ποδοσφαιρικές ομάδες. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gac2894e3ee60262445577e504b4fc5db81c4f2a4983c0d22a98c65f9da316e57d4161c3b9e53e1549a0a83ea2ef12f56585ac17a858075d3ffc452bdeb704196_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-17T06:46:00.000Z"
       }
     ],
     "screen": [],
@@ -774,8 +960,8 @@
       {
         "id": "d14949892682",
         "title": "Ελληνικός τελικός Eurovision 2026: μια μεγάλη γιορτή για τη μουσική και τη δημιουργικότητα",
-        "simpleTitle": "Ελληνικός τελικός Eurovision 2026: Γιορτή μουσικής και ταλέντου",
-        "simpleText": "Απόψε στην Ελλάδα γίνεται ο μεγάλος τελικός για τη Eurovision 2026. 14 καλλιτέχνες θα παρουσιαστούν και θα δείξουν το ταλέντο τους. Αυτός ο τελικός είναι σημαντικός γιατί θα επιλεγεί ποιος θα εκπροσωπήσει τη χώρα μας στον διεθνή διαγωνισμό. Η βραδιά θα έχει μουσική, λάμψη και θετική ενέργεια. Είναι μια γιορτή που ενώνει τους ανθρώπους και δείχνει τη σύγχρονη ελληνική δημιουργία. Η προσβασιμότητα για όλους είναι επίσης σημαντική σε αυτό το γεγονός.",
+        "simpleTitle": "Τελικός Eurovision 2026 στην Ελλάδα: Γιορτή Μουσικής",
+        "simpleText": "Απόψε, η Ελλάδα φιλοξενεί τον τελικό της Eurovision 2026. Είναι μια ιδιαίτερη βραδιά γεμάτη μουσική, ταλέντο και χαρά. Στην σκηνή θα ανέβουν 14 καλλιτέχνες. Κάθε καλλιτέχνης θα παρουσιάσει τη δική του μουσική δημιουργία. Αυτός ο τελικός είναι σημαντικός γιατί θα αναδείξει την ελληνική μουσική. Οι άνθρωποι θα απολαύσουν μια βραδιά γεμάτη θετική ενέργεια και ενότητα. Είναι μια καλή ευκαιρία να γίνουν όλοι μάρτυρες της ελληνικής καλλιτεχνικής έκφρασης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/",
         "sourceDomains": [
@@ -788,59 +974,41 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά τον ελληνικό τελικό της Eurovision, που είναι μια μουσική εκδήλωση που γιορτάζει τη δημιουργικότητα και την πολιτιστική έκφραση των καλλιτεχνών.",
+        "categoryReason": "Η είδηση αφορά τον τελικό της Eurovision, ο οποίος αναδεικνύει τη μουσική και τη δημιουργικότητα, στοιχεία που συνδέονται άμεσα με τον πολιτισμό.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gbe824b00d4f46115df5d4997996d5d55718fda37a43f152e8f3a17f8b0ce15652b44c2833e8cef49bde7a9c3b57c2ee2e4997369927f9eef181676c2f07de120_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g3f37c4bf89c61c66cad3614e8cf81ae00c91c146e74556fb6eda5384b0b6275260e5da18a96e40e33fdc525312a60fc3ccb1f75cb9af4d37fcfa1402d030c993_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-15T13:22:41.000Z"
       }
     ],
     "fun": [
       {
-        "id": "8a1f0ba56c5a",
-        "title": "Τσικνοπέμπτη: Από πού προέρχεται και τι σημαίνει σήμερα;",
-        "simpleTitle": "Τσικνοπέμπτη: Τι γιορτάζουμε και γιατί είναι σημαντική",
-        "simpleText": "Η Τσικνοπέμπτη είναι μια ειδική μέρα στην Ελλάδα. Γιορτάζεται με πολύ φαγητό, κυρίως κρέας, και φίλους γύρω από φωτιά. Αυτή η μέρα μας θυμίζει παραδόσεις και μας φέρνει κοντά. Είναι μια ξεχωριστή γιορτή πριν την Σαρακοστή, όπου πολλές φορές οι άνθρωποι νηστεύουν. Σήμερα, η Τσικνοπέμπτη έχει και νόημα για το να απολαμβάνουμε τη ζωή. Οι μυρωδιές και οι παρέες είναι κάτι πολύ όμορφο. Είναι μια ευκαιρία να περάσουμε χρόνο με τους αγαπημένους μας και να γιορτάσουμε μαζί.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/",
+        "id": "d18a54c3446b",
+        "title": "Ρόμπερτ Ντιβάλ: Κόπολα και Πατσίνο αποχαιρετούν τον «κονσιλιέρε» του Νονού – «Γεννημένος ηθοποιός»",
+        "simpleTitle": "Αποχαιρετισμός στον Ρόμπερτ Ντιβάλ",
+        "simpleText": "Ο διάσημος ηθοποιός Ρόμπερτ Ντιβάλ έφυγε από τη ζωή την Κυριακή, σε ηλικία 95 ετών. Ο σκηνοθέτης Φράνσις Φορντ Κόπολα του έκανε φόρο τιμής, λέγοντας ότι ήταν σπουδαίος ηθοποιός και σημαντικό μέρος των ταινιών του. Ο Ντιβάλ είχε παίξει τον ρόλο του συμβούλου στην οικογένεια Κορλεόνε στην ταινία «Ο Νονός». Ο Αλ Πατσίνο, επίσης διάσημος ηθοποιός, συμφώνησε ότι ήταν «γεννημένος ηθοποιός». Ο θάνατός του αφήνει ένα μεγάλο κενό στο χώρο του κινηματογράφου.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/culture/564081880/rompert-ntival-kopola-kai-patsino-apochairetoyn-ton-konsiliere-toy-nonoy-gennimenos-ithopoios/",
         "sourceDomains": [
-          "thehappynews.gr"
+          "kathimerini.gr",
+          "news.gr"
         ],
         "sources": [
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31984-tsiknopempti-proelefsi-rizes-simera-axia/"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η Τσικνοπέμπτη είναι μια γιορτή που επικεντρώνεται στη διασκέδαση, την καλή παρέα και τη γαστρονομία, επομένως ταιριάζει καλύτερα στην κατηγορία της διασκέδασης.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-12T09:54:52.000Z"
-      },
-      {
-        "id": "ac56b559fdc4",
-        "title": "BAFTA vs Όσκαρ: Οι μεγάλες διαφορές των κορυφαίων βραβείων",
-        "simpleTitle": "Διαφορές ανάμεσα στα BAFTA και τα Όσκαρ",
-        "simpleText": "Τα BAFTA και τα Όσκαρ είναι δύο σημαντικά βραβεία στον κινηματογράφο. Κάθε χρόνο, οι άνθρωποι που αγαπούν τις ταινίες περιμένουν να δουν ποιοι θα κερδίσουν. Αυτά τα βραβεία τιμούν τους δημιουργούς και τις ταινίες τους. Τα BAFTA γίνονται στο Ηνωμένο Βασίλειο, ενώ τα Όσκαρ στις Ηνωμένες Πολιτείες. Είναι ωραίο να βλέπουμε πώς οι ιστορίες από διαφορετικές χώρες ενώνουν τους ανθρώπους. Αυτοί οι θεσμοί δείχνουν πόσο σημαντικός είναι ο κινηματογράφος για τον κόσμο. Δεν ξέρουμε ακόμα αν θα υπάρξουν και νέες κατηγορίες βραβείων.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/31340-bafta-vs-oscar/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/culture/564081880/rompert-ntival-kopola-kai-patsino-apochairetoyn-ton-konsiliere-toy-nonoy-gennimenos-ithopoios/"
+          },
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/31340-bafta-vs-oscar/"
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4077049/al-patsino-ke-fransis-fornt-kopola-apocheretoun-ton-rompert-ntival-itan-gennimenos-ithopios.html"
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά τις διαφορές και τη σημασία των BAFTA και Όσκαρ, που είναι κεντρικά θέματα στον τομέα του κινηματογράφου και των βραβεύσεων.",
+        "categoryReason": "Η είδηση αφορά τον θάνατο του διάσημου ηθοποιού Ρόμπερτ Ντιβάλ και τις τιμές που του απέδωσαν σημαντικές προσωπικότητες του κινηματογράφου, όπως ο Φράνσις Φορντ Κόπολα και ο Αλ Πατσίνο, επικεντρωμένη στις ταινίες και την καριέρα του.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-12T07:31:00.000Z"
+        "publishedAt": "2026-02-17T06:34:25.000Z"
       }
     ]
   }
