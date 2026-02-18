@@ -7,7 +7,7 @@ import base64
 from typing import Iterable
 
 import requests
-from github import Github
+from github import Github, InputGitTreeElement
 
 # ---- Configuration ----
 PEXELS_API_KEY = "YOUR_PEXELS_API_KEY"
@@ -38,39 +38,33 @@ def fetch_pexels_photos(category: str, per_page: int) -> list[dict]:
         },
         timeout=30,
     )
-    response.raise_for_status()
+    try:
+        response.raise_for_status()
+    except requests.HTTPError as exc:
+        raise RuntimeError(f"Pexels request failed for category '{category}': {exc}") from exc
     return response.json().get("photos", [])
 
 
 def download_image_bytes(image_url: str) -> bytes:
     """Download image bytes directly into memory (no local file writes)."""
     response = requests.get(image_url, timeout=30)
-    response.raise_for_status()
+    try:
+        response.raise_for_status()
+    except requests.HTTPError as exc:
+        raise RuntimeError(f"Image download failed for URL '{image_url}': {exc}") from exc
     return response.content
 
 
 def upsert_file_base64(repo, path: str, image_bytes: bytes, branch: str, message: str) -> None:
-    """Create or update a file in GitHub using base64 content."""
+    """Create or update a file in GitHub using public PyGithub Git objects APIs."""
     encoded_content = base64.b64encode(image_bytes).decode("utf-8")
-
-    payload = {
-        "message": message,
-        "content": encoded_content,
-        "branch": branch,
-    }
-
-    try:
-        existing = repo.get_contents(path, ref=branch)
-        payload["sha"] = existing.sha
-    except Exception:
-        pass
-
-    # Use GitHub Contents API via PyGithub requester to preserve binary uploads.
-    repo._requester.requestJsonAndCheck(
-        "PUT",
-        f"{repo.url}/contents/{path}",
-        input=payload,
-    )
+    branch_ref = repo.get_git_ref(f"heads/{branch}")
+    parent_commit = repo.get_git_commit(branch_ref.object.sha)
+    blob = repo.create_git_blob(encoded_content, "base64")
+    tree_element = InputGitTreeElement(path=path, mode="100644", type="blob", sha=blob.sha)
+    tree = repo.create_git_tree([tree_element], parent_commit.tree)
+    commit = repo.create_git_commit(message, tree, [parent_commit])
+    branch_ref.edit(commit.sha)
 
 
 def build_jsdelivr_url(repo_name: str, branch: str, path: str) -> str:
@@ -96,6 +90,7 @@ def process_categories(categories: Iterable[str]) -> None:
         for index, photo in enumerate(photos[:IMAGES_PER_CATEGORY], start=1):
             image_url = photo.get("src", {}).get("original")
             if not image_url:
+                print(f"Skipping photo {index} for '{category}' because no original URL was returned.")
                 continue
 
             image_bytes = download_image_bytes(image_url)
@@ -120,7 +115,11 @@ def validate_config() -> None:
         "REPO_NAME": REPO_NAME,
     }
 
-    missing = [key for key, value in required_values.items() if value.startswith("YOUR_") or not value.strip()]
+    missing = []
+    for key, value in required_values.items():
+        value_str = value if isinstance(value, str) else ""
+        if value_str.startswith("YOUR_") or not value_str.strip():
+            missing.append(key)
     if missing:
         raise ValueError(f"Please configure: {', '.join(missing)}")
 
