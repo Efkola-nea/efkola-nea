@@ -827,11 +827,21 @@ function groupArticlesByTopic(rawArticles) {
   return topicGroups;
 }
 
-async function run() {
+async function run(options = {}) {
+  const {
+    feeds = FEEDS,
+    maxItemsPerFeed = 30,
+    maxImportantTopics = Infinity,
+    skipBackfill = false,
+    skipImages = false,
+    outputPath = NEWS_JSON_PATH,
+    dryRun = false,
+  } = options;
+
   const rawArticles = [];
 
   // 1️⃣ Μαζεύουμε ΟΛΑ τα raw άρθρα από ΟΛΑ τα feeds
-  for (const feed of FEEDS) {
+  for (const feed of feeds) {
     console.log("Διαβάζω feed:", feed.url);
     let rss;
     try {
@@ -841,7 +851,7 @@ async function run() {
       continue;
     }
 
-    const items = (rss.items || []).slice(0, 30);
+    const items = (rss.items || []).slice(0, maxItemsPerFeed);
 
     for (const item of items) {
       const title = item.title || "";
@@ -906,7 +916,7 @@ async function run() {
     return db - da;
   });
 
-  for (const topic of importantSorted) {
+  for (const topic of importantSorted.slice(0, maxImportantTopics)) {
     console.log(
       "Απλοποιώ & συνθέτω για θέμα:",
       topic.title,
@@ -929,23 +939,25 @@ async function run() {
     allArticles.push(...deduped);
   }
 
-  // 5️⃣ RSS-only backfill: συμπληρώνουμε κατηγορίες από single-source topics (χωρίς web search)
-  await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+  if (!skipBackfill) {
+    // 5️⃣ RSS-only backfill: συμπληρώνουμε κατηγορίες από single-source topics (χωρίς web search)
+    await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
 
-  // 6️⃣ Dedupe ξανά (σε περίπτωση που το backfill έφερε κάτι πολύ κοντινό)
-  {
-    const deduped = dedupeArticlesByUrlOrTitle(allArticles);
-    allArticles.length = 0;
-    allArticles.push(...deduped);
-  }
+    // 6️⃣ Dedupe ξανά (σε περίπτωση που το backfill έφερε κάτι πολύ κοντινό)
+    {
+      const deduped = dedupeArticlesByUrlOrTitle(allArticles);
+      allArticles.length = 0;
+      allArticles.push(...deduped);
+    }
 
-  // 7️⃣ Αν μετά το dedupe ξαναλείπει κάτι, κάνε ένα ακόμα πέρασμα backfill (χωρίς να “κάψεις” τα ίδια topics)
-  await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+    // 7️⃣ Αν μετά το dedupe ξαναλείπει κάτι, κάνε ένα ακόμα πέρασμα backfill (χωρίς να "κάψεις" τα ίδια topics)
+    await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
 
-  {
-    const deduped = dedupeArticlesByUrlOrTitle(allArticles);
-    allArticles.length = 0;
-    allArticles.push(...deduped);
+    {
+      const deduped = dedupeArticlesByUrlOrTitle(allArticles);
+      allArticles.length = 0;
+      allArticles.push(...deduped);
+    }
   }
 
   const finalArticles = [];
@@ -953,7 +965,9 @@ async function run() {
   for (const article of allArticles) {
     const base = { ...article };
 
-    base.imageUrl = await resolveArticleImage(base);
+    if (!skipImages) {
+      base.imageUrl = await resolveArticleImage(base);
+    }
 
     finalArticles.push(base);
   }
@@ -967,16 +981,35 @@ async function run() {
     articlesByCategory,
   };
 
-  await fs.writeFile(NEWS_JSON_PATH, JSON.stringify(payload, null, 2), "utf8");
+  if (dryRun) {
+    console.log(JSON.stringify(payload, null, 2));
+  } else {
+    await fs.writeFile(outputPath, JSON.stringify(payload, null, 2), "utf8");
+  }
+
   console.log(
     "Έγραψα news.json με",
     finalArticles.length,
     "άρθρα συνολικά. Ανά κατηγορία:",
     Object.fromEntries(Object.entries(articlesByCategory).map(([k, v]) => [k, v.length]))
   );
+
+  return payload;
 }
 
-run().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+export { run, FEEDS, groupArticlesByTopic };
+
+// Auto-execute only when run directly
+import { fileURLToPath } from "url";
+import path from "path";
+
+const isMain =
+  process.argv[1] &&
+  fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
+
+if (isMain) {
+  run().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}
