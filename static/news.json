@@ -1,153 +1,191 @@
 {
-  "generatedAt": "2026-02-19T16:14:01.958Z",
+  "generatedAt": "2026-02-20T08:07:48.153Z",
   "articles": [
     {
-      "id": "3bb0edda155b",
-      "title": "Τραμπ: Αν το Ιράν δεν συνάψει συμφωνία θα «συμβούν άσχημα πράγματα»",
-      "simpleTitle": "Τραμπ: Σημαντική απόφαση για το Ιράν σε 10 ημέρες",
-      "simpleText": "Ο Πρόεδρος Ντόναλντ Τραμπ είπε ότι σε 10 ημέρες θα ξέρουμε αν το Ιράν θα συμφωνήσει σε κάτι σημαντικό ή όχι. Αν δεν γίνει αυτό, προειδοποίησε ότι θα υπάρξουν σοβαρές συνέπειες. Ο Τραμπ τόνισε ότι το Ιράν πρέπει να σταματήσει να απειλεί την περιοχή και να πάρει μια καλή απόφαση. Αυτή η κατάσταση είναι πολύ σοβαρή και επηρεάζει την ειρήνη στην περιοχή. Ο Αμερικανικός στρατός είναι έτοιμος για ενέργειες, αλλά ο Τραμπ δεν έχει πάρει ακόμα τελική απόφαση. Αν το Ιράν επιλέξει να μην συνεργαστεί, τα πράγματα μπορεί να γίνουν δύσκολα.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/tramp-an-to-iran-den-synapsei-symfonia-tha-symvoun-asxima-pragmata/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/tramp-an-to-iran-den-synapsei-symfonia-tha-symvoun-asxima-pragmata/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564086560/telesigrafo-tramp-sto-iran-symfonia-i-aschima-pragmata-mesa-se-10-imeres/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές προειδοποιήσεις του Ντόναλντ Τραμπ σχετικά με την κατάσταση στο Ιράν και τις ενδεχόμενες συνέπειες για την περιοχή, γεγονός που σχετίζεται άμεσα με διεθνή πολιτική και ασφάλεια.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-19T15:53:24.000Z"
-    },
-    {
-      "id": "64acae0d0cbd",
-      "title": "Βάρη: Πώς συνέβη η τραγωδία με τους δύο νεκρούς εργάτες από ηλεκτροπληξία",
-      "simpleTitle": "Δύο εργάτες έχασαν τη ζωή τους από ηλεκτροπληξία στη Βάρη",
-      "simpleText": "Δύο εργάτες, ο 39χρονος Μιχάλης και ο 21χρονος Χρήστος, tragically died στη Βάρη το μεσημέρι της Τετάρτης. Κατά τη διάρκεια εργασίας ανακαίνισης, προσπάθησαν να ανεβάσουν τζάμια με γερανό, όταν το μηχάνημα ακούμπησε σε ηλεκτροφόρα καλώδια, προκαλώντας ηλεκτροπληξία. Ένας αυτόπτης μάρτυρας περιέγραψε ότι η κατάσταση έγινε επικίνδυνη όταν φύσηξε αέρας και το τζάμι έπεσε.\n\nΗ αστυνομία ερευνά το συμβάν για να καταλάβει αν υπήρξαν λάθη ή παραλείψεις. Είναι σημαντικό να τηρούνται κανόνες ασφαλείας στις εργασίες. Η απώλεια αυτών των νέων ανθρώπων έχει συγκλονίσει την τοπική κοινότητα και οι φίλοι τους ετοιμάζονται να τους αποχαιρετήσουν το Σάββατο.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564086527/vari-pos-synevi-i-tragodia-me-toys-dyo-nekroys-ergates-apo-ilektroplixia/",
+      "id": "4a6cceeec237",
+      "title": "Σχέδιο της Κίνας για κυριαρχία στο παγκόσμιο εμπόριο",
+      "simpleTitle": "Σχέδιο της Κίνας για τον έλεγχο του εμπορίου",
+      "simpleText": "Η Κίνα θέλει να γίνει πιο δυνατή στο παγκόσμιο εμπόριο. Αυτό το σχέδιο περιλαμβάνει συνεργασίες με πολλές χώρες. Σκοπός της είναι να μειώσει τους δασμούς, δηλαδή τους φόρους που πληρώνουν οι χώρες για να εισάγουν προϊόντα. Θέλει να αλλάξει και την παραγωγή του τσαγιού για να κερδίσει περισσότερα χρήματα. Ο στόχος είναι να φτάσει τα 180 δισεκατομμύρια ευρώ μέχρι το 2030. Αυτό το σχέδιο μπορεί να αλλάξει τον τρόπο που εμπορεύονται οι χώρες και να επηρεάσει πολλούς ανθρώπους. Δεν ξέρουμε ακόμα πώς θα εφαρμοστούν όλα αυτά.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/economy/international/564087670/schedio-tis-kinas-gia-kyriarchia-sto-pagkosmio-emporio/",
       "sourceDomains": [
         "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564086527/vari-pos-synevi-i-tragodia-me-toys-dyo-nekroys-ergates-apo-ilektroplixia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/19/greece/tragodia-me-dyo-ergates-nekrous-apo-ilektropliksia-sti-vari-sygklonizoun-oi-goneis-tous/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια τραγωδία με δύο θανάτους από ηλεκτροπληξία κατά τη διάρκεια εργασίας, αναδεικνύοντας σοβαρά ζητήματα ασφαλείας και ευθύνης στον εργασιακό χώρο.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dgj0ol4c7ult",
-      "publishedAt": "2026-02-19T15:47:00.000Z"
-    },
-    {
-      "id": "99cdab063408",
-      "title": "ΥΠΑΑΤ: Παράταση μέχρι 31 Δεκεμβρίου 2026 για χρηματοδότηση και αγροτικά ακίνητα",
-      "simpleTitle": "Παράταση για βοήθεια στους αγρότες μέχρι το 2026",
-      "simpleText": "Το Υπουργείο Αγροτικής Ανάπτυξης ανακοίνωσε ότι οι αγρότες θα έχουν βοήθεια μέχρι τις 31 Δεκεμβρίου 2026. Αυτή η βοήθεια αφορά χρηματοδότηση, δηλαδή δάνεια, για να μπορούν οι αγρότες να καλλιεργούν τη γη τους. Ο υπουργός είπε ότι η κυβέρνηση θέλει να στηρίξει τους αγρότες σε δύσκολες εποχές.\n\nΕπιπλέον, οι αγρότες θα μπορούν να χρησιμοποιούν δημόσιες εκτάσεις για καλλιέργεια. Έτσι, θα δημιουργηθούν περισσότερες ευθύνες και ευκαιρίες για νέους ανθρώπους που θέλουν να ασχοληθούν με τη γεωργία. Αυτή η πρωτοβουλία είναι σημαντική για την οικονομία και την ανάπτυξη της υπαίθρου.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ypaat-paratasi-mexri-31-dekemvriou-2026-gia-xrimatodotisi-kai-agrotika-akinita/",
-      "sourceDomains": [
-        "ertnews.gr",
         "news.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ypaat-paratasi-mexri-31-dekemvriou-2026-gia-xrimatodotisi-kai-agrotika-akinita/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/economy/international/564087670/schedio-tis-kinas-gia-kyriarchia-sto-pagkosmio-emporio/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/oikonomia/article/4080136/ipaat-paratasi-mechri-31-dekemvriou-2026-gia-chrimatodotisi-ke-agrotika-akinita.html"
+          "url": "https://www.news.gr/kosmos/article/4080584/to-schedio-tis-kinas-gia-tin-pagkosmia-kiriarchia-sto-tsai.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά πολιτική παρέμβαση για τη στήριξη των αγροτών μέσω χρηματοδότησης και αξιοποίησης δημόσιων εκτάσεων, που σχετίζεται με σοβαρά ζητήματα όπως η οικονομία και η αγροτική ανάπτυξη.",
+      "categoryReason": "Η είδηση αφορά τις στρατηγικές οικονομικές και εμπορικές πολιτικές της Κίνας, οι οποίες επηρεάζουν σοβαρά την παγκόσμια οικονομία και το εμπόριο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-19T15:39:47.000Z"
+      "publishedAt": "2026-02-20T07:37:29.000Z"
     },
     {
-      "id": "026d8f3d2e73",
-      "title": "Πατέρας Αντώνιος: Αδυνατώ να καταβάλλω το ποσό της ποινής μου",
-      "simpleTitle": "Πατέρας Αντώνιος: Δεν μπορώ να πληρώσω την ποινή μου",
-      "simpleText": "Ο πατέρας Αντώνιος, που έχει καταδικαστεί για κακοποιητικές πράξεις, μίλησε για την απόφαση του δικαστηρίου. Είπε ότι δεν μπορεί να πληρώσει το ποσό των 60.000 ευρώ που χρειάζεται για να αλλάξει την ποινή του. Ζήτησε βοήθεια για να μπορέσει να τα καταφέρει. Η καταδίκη του αφορά πράξεις που έγιναν σε δομές της \"Κιβωτού του Κόσμου”. Αυτό το γεγονός είναι σημαντικό, γιατί επηρεάζει πολλές ζωές ανθρώπων που έχουν σχέση με αυτές τις δομές.",
-      "sourceName": "News.gr, Protagon",
-      "sourceUrl": "https://www.news.gr/ellada/article/4080162/pateras-antonios-i-epivlithisa-pini-stroni-to-dromo-tou-martiriou-pou-epi-chronia-porevome.html",
+      "id": "5fcb2e05ddd9",
+      "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
+      "simpleTitle": "Έργα ζωγραφικής στο Μουσείο Μπενάκη",
+      "simpleText": "Στο Μουσείο Μπενάκη Ελληνικού Πολιτισμού, γίνονται σημαντικές εκδηλώσεις. Εκεί, δύο διάσημα έργα από τον 19ο αιώνα εκτίθενται για τους επισκέπτες. Αυτά είναι η «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και η «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Τα έργα αυτά μας βοηθούν να γνωρίσουμε καλύτερα την ελληνική ιστορία και τέχνη. Είναι καλό να βλέπουμε τέτοια έργα γιατί μας φέρνουν κοντά στον πολιτισμό μας. Όσοι θέλουν να τα δουν, ας επισκεφτούν το μουσείο σύντομα.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
       "sourceDomains": [
-        "news.gr",
-        "protagon.gr"
+        "thehappynews.gr"
       ],
       "sources": [
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4080162/pateras-antonios-i-epivlithisa-pini-stroni-to-dromo-tou-martiriou-pou-epi-chronia-porevome.html"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/adynatw-na-katavalw-to-poso-tis-poinis-mou-leei-o-patir-antwnios-44343315833"
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την καταδίκη ενός ιερέα για κακοποιητικές πράξεις και την αδυναμία του να πληρώσει την ποινή του, θέματα που είναι σοβαρά και σχετίζονται με κοινωνικά ζητήματα.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά την έκθεση εμβληματικών έργων ελληνικής ζωγραφικής στο Μουσείο Μπενάκη, γεγονός που σχετίζεται άμεσα με τον πολιτισμό και την τέχνη.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-19T15:25:56.000Z"
+      "publishedAt": "2026-02-20T07:19:00.000Z"
     },
     {
-      "id": "c2b147d67cd9",
-      "title": "Πατήρ Αντώνιος: Προδιαγεγραμμένη καταδίκη – Αδυνατώ να καταβάλω τα 60.000 ευρώ",
-      "simpleTitle": "Πατήρ Αντώνιος: Δεν μπορώ να πληρώσω τα 60.000 ευρώ",
-      "simpleText": "Ο πατήρ Αντώνιος, ιδρυτής της «Κιβωτού του Κόσμου», δήλωσε ότι δεν μπορεί να πληρώσει τις 60.000 ευρώ που του ζήτησε το Εφετείο. Αυτή η απόφαση είναι αποτέλεσμα καταδίκης 9,5 ετών. Μετά την ανακοίνωση της ποινής του, είπε ότι η απόφαση ήταν αναμενόμενη. Ζήτησε βοήθεια από τον κόσμο για να μπορέσει να καλύψει το ποσό που του επιβλήθηκε. Η κατάσταση αυτή τον επηρεάζει πολύ και ανησυχεί για το μέλλον του. Δεν ξέρουμε ακόμα τι θα γίνει στην επόμενη φάση.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564086443/patir-antonios-gia-tin-katadikastiki-apofasi-adynato-na-katavallo-to-poso/",
+      "id": "5ec3d594acda",
+      "title": "Ο ΟΗΕ ιδρύει επιτροπή για τον «έλεγχο» της ΤΝ από «τον άνθρωπο»",
+      "simpleTitle": "Ο ΟΗΕ δημιουργεί επιτροπή για την τεχνητή νοημοσύνη",
+      "simpleText": "Ο Οργανισμός Ηνωμένων Εθνών φτιάχνει μια νέα επιτροπή για την τεχνητή νοημοσύνη. Η επιτροπή θα έχει 40 επιστήμονες που θα βοηθήσουν να γίνει η τεχνολογία αυτή πιο ασφαλής για τους ανθρώπους. Ο Γενικός Γραμματέας του ΟΗΕ, Αντόνιο Γκουτέρες, δήλωσε ότι είναι σημαντικό οι άνθρωποι να έχουν τον έλεγχο και ότι πρέπει να χρησιμοποιούμε στοιχεία και αληθινά δεδομένα για να παίρνουμε αποφάσεις.\n\nΗ επιτροπή αυτή μπορεί να βοηθήσει χώρες σε όλο τον κόσμο να κατανοήσουν καλύτερα την τεχνητή νοημοσύνη. Οι επιστήμονες θα μελετήσουν πώς μπορεί να επηρεάσει τις οικονομίες και τις κοινωνίες μας. Αυτό είναι σημαντικό γιατί η τεχνολογία αναπτύσσεται πολύ γρήγορα και όλοι πρέπει να είναι ασφαλείς.",
+      "sourceName": "Kathimerini, TA NEA, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564087916/o-oie-idryei-epitropi-gia-ton-elegcho-tis-tn-apo-ton-anthropo/",
       "sourceDomains": [
         "kathimerini.gr",
+        "tanea.gr",
         "tovima.gr"
       ],
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564086443/patir-antonios-gia-tin-katadikastiki-apofasi-adynato-na-katavallo-to-poso/"
+          "url": "https://www.kathimerini.gr/world/564087916/o-oie-idryei-epitropi-gia-ton-elegcho-tis-tn-apo-ton-anthropo/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/20/world/gkoyteres-o-oie-idryei-epitropi-gia-ton-elegxo-tis-ai-apo-ton-anthropo/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/19/society/ti-dilose-o-patir-antonios-meta-tin-katadiki-tou-zita-voitheia-gia-ta-60-000-eyro/"
+          "url": "https://www.tovima.gr/2026/02/20/texnologia/o-oie-idryei-epitropi-gia-ton-elegxo-tis-texnitis-noimosynis-apo-ton-anthropo/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές νομικές και ηθικές παραμέτρους σχετικά με την καταδίκη ενός δημόσιου προσώπου, καθώς και την οικονομική του κατάσταση, κάτι που είναι σημαντικό θέμα για την κοινωνία.",
+      "categoryReason": "Η είδηση αφορά τη δημιουργία επιτροπής από τον ΟΗΕ για την επίβλεψη της τεχνητής νοημοσύνης, θίγοντας ζητήματα που σχετίζονται με ασφάλεια, επιστήμη και πολιτική, και συνδέεται με σοβαρά κοινωνικά θέματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-19T14:57:00.000Z"
+      "publishedAt": "2026-02-20T07:13:04.000Z"
     },
     {
-      "id": "1c07021d848a",
-      "title": "Τραμπ από το Συμβούλιο Ειρήνης: «Πιθανή μία συμφωνία με το Ιράν τις επόμενες δέκα ημέρες»",
-      "simpleTitle": "Τραμπ μιλά για συμφωνία με το Ιράν σε 10 μέρες",
-      "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, μίλησε στην Ουάσιγκτον στο «Συμβούλιο Ειρήνης». Αυτό το συμβούλιο ξεκίνησε τις εργασίες του για να βοηθήσει στη σταθερότητα σε διάφορες περιοχές του κόσμου. Στην ομιλία του, ο Τραμπ ανέφερε ότι γίνονται «καλές» συνομιλίες με το Ιράν. Είπε ότι πρέπει να υπάρξει συμφωνία σε περίπου 10 ημέρες. Αν δεν γίνει αυτό, τα πράγματα μπορεί να χειροτερέψουν. Τόνισε ότι οι Ηνωμένες Πολιτείες δεν επιθυμούν να αποκτήσει το Ιράν πυρηνικά όπλα, γιατί κάτι τέτοιο θα επηρέαζε την ειρήνη στην περιοχή. Έκανε ξεκάθαρο ότι χρειάζεται συνεργασία για να αποφευχθούν άσχημες καταστάσεις.",
+      "id": "150214fef5f0",
+      "title": "Στις 13:00, στη Μητρόπολη Αθηνών, η κηδεία της Ελένης Γλύκατζη Αρβελέρ – Σε λαϊκό προσκύνημα νωρίτερα η σορός της",
+      "simpleTitle": "Κηδεία της Ελένης Γλύκατζη Αρβελέρ στη Μητρόπολη Αθηνών",
+      "simpleText": "Σήμερα, Παρασκευή, στις 13:00, θα γίνει η κηδεία της Ελένης Γλύκατζη Αρβελέρ στη Μητρόπολη Αθηνών. Η γνωστή βυζαντινολόγος έφυγε από τη ζωή σε ηλικία 99 ετών. Νωρίτερα, η σορός της θα εκτεθεί σε λαϊκό προσκύνημα, ώστε όλοι όσοι τη θαύμαζαν να της αποχαιρετήσουν. Η κηδεία διοργανώνεται με δημόσια δαπάνη, μετά από απόφαση του κράτους.\n\nΑυτό το γεγονός είναι σημαντικό, γιατί η Ελένη Αρβελέρ υπήρξε μια σπουδαία προσωπικότητα για την Ελλάδα και τη βυζαντινή ιστορία. Η παρουσία πολλών πολιτών και εκπροσώπων σε αυτή την τελετή δείχνει την εκτίμηση που είχαν για το έργο της.",
+      "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/stis-13-00-sti-mitropoli-athinon-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-noritera-i-soros-tis/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/stis-13-00-sti-mitropoli-athinon-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-noritera-i-soros-tis/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564087895/simera-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-i-soros-tis/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/20/greece/eleni-glykatzi-arveler-to-teleytaio-antio-simera-sti-mitropoli-athinon-se-laiko-proskynima/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/20/society/eleni-glykatzi-arveler-sti-mitropoli-i-soros-tis-stis-1300-i-nekrosimos-akolouthia/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Αφορά τον θάνατο και την κηδεία μιας σημαντικής προσωπικότητας της ελληνικής ιστορίας, με έμφαση στο έργο της και την επίδραση που είχε στην κοινωνία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260220-DT9-ARVELER.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260220-DT9-ARVELER.jpg",
+      "publishedAt": "2026-02-20T06:45:31.000Z"
+    },
+    {
+      "id": "3f7870834e52",
+      "title": "Θανατηφόρο τροχαίο στην Πατησίων: Νεκρή 74χρονη που παρασύρθηκε από μηχανή",
+      "simpleTitle": "Θάνατος 74χρονης από τροχαίο στην Πατησίων",
+      "simpleText": "Στην Πατησίων, στο κέντρο της Αθήνας, μια 74χρονη γυναίκα χτυπήθηκε από μηχανή αργά το βράδυ της Πέμπτης. Το ατύχημα έγινε λίγο μετά τα μεσάνυχτα, ενώ η γυναίκα προσπαθούσε να περάσει τον δρόμο χωρίς να χρησιμοποιήσει τη διάβαση πεζών. Η σύγκρουση ήταν πολύ σφοδρή και η γυναίκα μεταφέρθηκε στο νοσοκομείο Ευαγγελισμός, όπου δυστυχώς δεν τα κατάφερε. Ο οδηγός της μηχανής συνελήφθη από την αστυνομία, η οποία ερευνά τι ακριβώς συνέβη. Αυτό το περιστατικό είναι σημαντικό γιατί θυμίζει πόσο προσεκτικοί πρέπει να είμαστε στο δρόμο.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thanatiforo-troxaio-stin-patision-nekri-74xroni-pou-parasyrthike-apo-mixani/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/thanatiforo-troxaio-stin-patision-nekri-74xroni-pou-parasyrthike-apo-mixani/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/20/society/thanatiforo-troxaio-sto-kentro-tis-athinas-mixani-paresyre-74xroni/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Το περιστατικό αφορά ένα θανατηφόρο τροχαίο ατύχημα που έχει σοβαρές συνέπειες και επηρεάζει την δημόσια ασφάλεια και την οδική συμπεριφορά.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g397fca36a6ed9ce0d29742f3b271cff04b9da24409f904834c953970e54185ef86b5c590c54b9f85986c20bc3c7de9a01dcf66fd796532b24bb5df332568dfee_1280.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260220-sundeseis-STAMOU-TROXAIO.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260220-sundeseis-STAMOU-TROXAIO.jpg",
+      "publishedAt": "2026-02-20T06:32:49.000Z"
+    },
+    {
+      "id": "d4103e3f2a98",
+      "title": "Ο Τραμπ «άκουσε» τον Ομάμπα για τους εξωγήινους και διατάσσει τη δημοσιοποίηση των «αρχείων» για τα ΑΤΙΑ",
+      "simpleTitle": "Ο Τραμπ θέλει να δημοσιευτούν τα αρχεία για εξωγήινους",
+      "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, είπε ότι θα ζητήσει από τις κυβερνητικές υπηρεσίες να βρουν και να δημοσιεύσουν έγγραφα που αφορούν τους εξωγήινους και τα αγνώστου ταυτότητας ιπτάμενα αντικείμενα. Αυτή η απόφαση έρχεται μετά από χρόνια που οι Αμερικανοί ρωτούν για το θέμα αυτό. Ο Τραμπ επικρίθηκε και για τα σχόλια του Μπαράκ Ομπάμα σχετικά με τους εξωγήινους, όταν ο πρώην πρόεδρος ανέφερε ότι υπάρχουν, αλλά δεν τους έχει δει.\n\nΗ ανακοίνωση έγινε μέσω των κοινωνικών δικτύων και δείχνει πόσο ενδιαφέρον υπάρχει για τους εξωγήινους. Δεν γνωρίζουμε ακόμα πότε θα δημοσιευτούν τα έγγραφα, αλλά αυτή η κίνηση μπορεί να αλλάξει την οπτική του κόσμου για το θέμα. Είναι σημαντικό να προσέχουμε πληροφορίες που μπορεί να αφορούν την ασφάλειά μας.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/20/world/o-tramp-akouse-ton-omampa-gia-tous-eksogiinous-kai-diatassei-ti-dimosiopoiisi-ton-arxeion-gia-ta-atia/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/20/world/o-tramp-akouse-ton-omampa-gia-tous-eksogiinous-kai-diatassei-ti-dimosiopoiisi-ton-arxeion-gia-ta-atia/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4080427/o-trab-tha-diataxi-ti-dimosiopiisi-ton-archion-tis-kivernisis-gia-ta-atia-ke-tous-exogiinous.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την απόφαση του Ντόναλντ Τραμπ να διατάξει τη δημοσιοποίηση κυβερνητικών αρχείων σχετικά με τους εξωγήινους και τα ΑΤΙΑ, κάτι που συνδέεται με σοβαρές πολιτικές και κοινωνικές ανησυχίες σχετικά με διαφάνεια και κυβέρνηση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": "https://truthsocial.com/@realDonaldTrump/116100300268316472/embed",
+      "publishedAt": "2026-02-20T06:14:06.000Z"
+    },
+    {
+      "id": "0801608e2abf",
+      "title": "Πέθανε στα 53 του ο ηθοποιός Eric Dane, μετά από μάχη με τη νόσο ALS",
+      "simpleTitle": "Έφυγε από τη ζωή ο ηθοποιός Eric Dane στα 53 του",
+      "simpleText": "Ο Eric Dane, γνωστός από τη σειρά \"Grey’s Anatomy\", πέθανε στα 53 του χρόνια. Έφυγε από τη ζωή στις 19 Φεβρουαρίου 2026, μετά από μια δύσκολη μάχη με την ασθένεια ALS, που επηρεάζει τα νευρικά κύτταρα. Η οικογένειά του ανακοίνωσε τον θάνατό του και είπε ότι τις τελευταίες του ημέρες τις πέρασε με φίλους και την οικογένειά του. Ο Eric έγινε γνωστός για το ρόλο του ως γιατρός στην τηλεοπτική σειρά και είχε διαγνωστεί με την ασθένεια πριν από περίπου δέκα μήνες. Η νόσος αυτή δεν έχει θεραπεία, ενώ οι αγαπημένοι του άνθρωποι ζητούν ιδιωτικότητα σε αυτή τη δύσκολη στιγμή.",
       "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/19/world/live-i-omilia-tramp-stin-synedriasi-tou-symvouliou-eirinis/",
+      "sourceUrl": "https://www.tanea.gr/2026/02/20/world/pethane-sta-53-toy-o-ithopoios-eric-dane-meta-apo-maxi-me-ti-noso-als/",
       "sourceDomains": [
         "tanea.gr",
         "tovima.gr"
@@ -155,180 +193,53 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/19/world/live-i-omilia-tramp-stin-synedriasi-tou-symvouliou-eirinis/"
+          "url": "https://www.tanea.gr/2026/02/20/world/pethane-sta-53-toy-o-ithopoios-eric-dane-meta-apo-maxi-me-ti-noso-als/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/19/world/symvoulio-eirinis-prothesmia-10-imeron-tramp-se-iran-symfonia-i-asxima-ta-pragmata/"
+          "url": "https://www.tovima.gr/2026/02/20/world/eric-dane-pethane-sta-53-tou-o-dimofilis-ithopoios/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση και τις διαπραγματεύσεις μεταξύ ΗΠΑ και Ιράν, που σχετίζονται με ζητήματα διεθνούς ασφάλειας και ειρήνης.",
+      "categoryReason": "Η είδηση αφορά τον θάνατο του ηθοποιού Eric Dane και την μάχη του με την ασθένεια ALS, που είναι ένα σοβαρό θέμα υγείας.",
       "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.youtube.com/embed/B0RgHrztjzg?list=TLGGT4Hic4tCwdMxOTAyMjAyNg",
-      "publishedAt": "2026-02-19T14:48:01.000Z"
+      "imageUrl": "https://pixabay.com/get/gcbba2c23b821af712a3f9793e2032a8acee42d06059db242455cc6baa9c09fdbafd9f52615f0389e2ce3a9e49c2374f7c89ec0df9e94f072d1e6a23d5ea20179_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/0NK-QK9x_CM",
+      "publishedAt": "2026-02-20T05:39:21.000Z"
     },
     {
-      "id": "9bb637015541",
-      "title": "«Πυρ ομαδόν» στη Βουλή για το νοσοκομείο Νίκαιας: Σφοδρή αντιπαράθεση Λαζαρίδη – Καραθανασόπουλου",
-      "simpleTitle": "**Τίτλος: Αντιπαράθεση στη Βουλή για το Νοσοκομείο Νίκαιας**",
-      "simpleText": "Αυτή την εβδομάδα, στη Βουλή υπήρξε έντονη αντιπαράθεση για το Νοσοκομείο Νίκαιας. Οι εργαζόμενοι του νοσοκομείου διαμαρτυρήθηκαν και υπήρξαν επεισόδια, όπως και χρήση χημικών. Το ΚΚΕ κατηγόρησε την κυβέρνηση ότι δεν στηρίζει σωστά το Εθνικό Σύστημα Υγείας. Ο βουλευτής του ΚΚΕ, Νίκος Καραθανασόπουλος, είπε ότι οι συνθήκες στους χώρους του νοσοκομείου είναι πολύ κακές και ζήτησε περισσότερους εργαζόμενους και καλύτερους μισθούς.\n\nΑπό την άλλη, ο βουλευτής της Νέας Δημοκρατίας, Μακάριος Λαζαρίδης, είπε ότι το ΚΚΕ δεν ενδιαφέρεται πραγματικά για τον κόσμο. Η αντιπαράθεση αυτή δείχνει τη μεγάλη ανάγκη να συζητηθούν τα προβλήματα του δημόσιου τομέα. Δεν έχει ανακοινωθεί ακόμα πώς θα λυθούν αυτά τα ζητήματα.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/pyr-omadon-sti-vouli-gia-to-nosokomeio-nikaias-sfodri-antiparathesi-lazaridi-karathanasopoulou/",
+      "id": "0529793b5edd",
+      "title": "Εμμανουήλ Καραλής: «Πέταξε» στα 6 μέτρα στο Λιεβέν",
+      "simpleTitle": "Εμμανουήλ Καραλής πέτυχε άλμα 6 μέτρων",
+      "simpleText": "Ο Εμμανουήλ Καραλής είναι 26 ετών και είναι αθλητής του επι κοντώ. Πρόσφατα, έγινε ο πρώτος αθλητής το 2026 που κατάφερε να πηδήξει 6 μέτρα σε μίτινγκ στο Λιεβέν. Αυτή η επίδοση είναι η καλύτερη παγκοσμίως για φέτος. Το επί κοντώ είναι άθλημα όπου οι αθλητές πηδούν πάνω από μια μπάρα με τη βοήθεια μιας ράβδου. Είναι σημαντική αυτή η επιτυχία γιατί δείχνει τη σκληρή δουλειά του και ανεβάζει την Ελλάδα στον αθλητισμό. Χάρη σε αυτόν, έχουμε έναν ακόμη λόγο να είμαστε περήφανοι.",
+      "sourceName": "TO BHMA, Protagon",
+      "sourceUrl": "https://www.tovima.gr/2026/02/19/sports/emmanouil-karalis-petakse-sta-6-metra-sto-lieven/",
       "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/pyr-omadon-sti-vouli-gia-to-nosokomeio-nikaias-sfodri-antiparathesi-lazaridi-karathanasopoulou/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4080106/antiparathesi-sti-vouli-gia-ta-episodia-sto-nosokomio-tis-nikeas.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές αντιπαραθέσεις σχετικά με την κατάσταση του δημόσιου τομέα και τις συνθήκες υγείας, που είναι κρίσιμα κοινωνικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gfb96642e21776f2381dfb98d49016786ec3273e2016b4b6931ce513a4b976b5bce81f72aa9672501a7a4f5486efa34402de2550ad495e949d4f10e874ecb924d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-19T14:47:04.000Z"
-    },
-    {
-      "id": "176dee9343d5",
-      "title": "Βιολάντα: Έφεση κατά της απόφασης προφυλάκισής του θα καταθέσει ο ιδιοκτήτης",
-      "simpleTitle": "Έφεση κατά της προφυλάκισης του ιδιοκτήτη της Βιολάντα",
-      "simpleText": "Ο ιδιοκτήτης της μπισκοτοβιομηχανίας \"Βιολάντα\" πρόκειται να καταθέσει έφεση μετά την απόφαση να προφυλακιστεί. Ο δικηγόρος του λέει ότι ο πελάτης του δεν γνώριζε τις τεχνικές δυσκολίες που υπήρχαν στο εργοστάσιο. Επίσης, ισχυρίζεται ότι ενημερώθηκε πολύ αργά για τις καταγγελίες σχετικά με έντονες οσμές. Ο ιδιοκτήτης είναι αναστατωμένος από την πρόσφατη έκρηξη στο εργοστάσιο και αποδίδει ευθύνες στους υπεύθυνους που έδωσαν τις άδειες. Αυτή η κατάσταση είναι σοβαρή και επηρεάζει την επιχείρηση και τους εργαζόμενους. Δεν έχουμε πληροφορίες για τη συνέχεια της υπόθεσης.",
-      "sourceName": "TA NEA, TO BHMA, Protagon",
-      "sourceUrl": "https://www.tanea.gr/2026/02/19/greece/violanta-efesi-kata-tis-apofasis-profylakisis-tou-tha-katathesei-o-idioktitis/",
-      "sourceDomains": [
-        "tanea.gr",
         "tovima.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/19/greece/violanta-efesi-kata-tis-apofasis-profylakisis-tou-tha-katathesei-o-idioktitis/"
-        },
-        {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/19/dikaiosyni/violanta-efesi-stin-apofasi-profylakisis-tha-katathesei-o-idioktitis-o-logos/"
+          "url": "https://www.tovima.gr/2026/02/19/sports/emmanouil-karalis-petakse-sta-6-metra-sto-lieven/"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/violanta-aitisi-akyrwsis-tis-profylakisis-tha-katathesei-o-idioktitis-44343315774"
+          "url": "https://www.protagon.gr/epikairotita/katapliktikos-o-emmanouil-karalis-petakse-sta-6-m-video-44343316046"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά νομικές διαδικασίες, προφυλάκιση και σοβαρές ευθύνες που σχετίζονται με την ασφάλεια ενός εργοστασίου, γεγονότα που έχουν σημαντικές επιπτώσεις στην επιχείρηση και τους εργαζόμενους.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.megatv.com/embed/?p=20202277919",
-      "publishedAt": "2026-02-19T14:30:43.000Z"
-    },
-    {
-      "id": "1b972691acd9",
-      "title": "Η Ρωσία έτοιμη να δεχτεί ιρανικό εμπλουτισμένο ουράνιο εάν χρειαστεί",
-      "simpleTitle": "Η Ρωσία μπορεί να δεχτεί ιρανικό ουράνιο αν χρειαστεί",
-      "simpleText": "Η Ρωσία δηλώνει ότι είναι έτοιμη να πάρει εμπλουτισμένο ουράνιο από το Ιράν, αν γίνει συμφωνία. Αυτό σημαίνει ότι η Ρωσία μπορεί να βοηθήσει στην απομάκρυνση του ουρανίου από το Ιράν. Οι Ηνωμένες Πολιτείες ανησυχούν για το ιρανικό πυρηνικό πρόγραμμα και η Ρωσία θέλει να τους καθησυχάσει. Η απόφαση για το αν θα σταλεί το ουράνιο ή όχι, ανήκει στο Ιράν. Αυτή η κίνηση μπορεί να βοηθήσει τις σχέσεις μεταξύ χωρών και να μειώσει τις εντάσεις. Αν αποφασίσει το Ιράν να στείλει το ουράνιο, αυτό θα μπορούσε να αλλάξει τις διεθνείς συνθήκες. Δεν ξέρουμε ακόμα πότε θα γίνουν αυτά.",
-      "sourceName": "ERT News, Kathimerini, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/i-rosia-etoimi-na-dextei-iraniko-emploutismeno-ouranio-ean-xreiastei/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/i-rosia-etoimi-na-dextei-iraniko-emploutismeno-ouranio-ean-xreiastei/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564086419/i-rosia-dilonei-etoimi-na-dechthei-employtismeno-oyranio-apo-to-iran/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4080099/i-rosiki-kratiki-eteria-rosatom-diloni-etimi-na-dechthi-emploutismeno-ouranio-apo-to-iran-ean-chriasthi.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε γεωπολιτικά ζητήματα και την πυρηνική πολιτική των χωρών, κάτι που εντάσσεται σε σοβαρές και σημαντικές διεθνείς σχέσεις.",
+      "category": "sports",
+      "categoryReason": "Η είδηση αναφέρεται σε αθλητική επίδοση του Εμμανουήλ Καραλή στο επι κοντώ, ενθουσιάζοντας το κοινό με την κορυφαία διεθνή του επιτυχία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-19T14:24:00.000Z"
-    },
-    {
-      "id": "21bf0e510b7e",
-      "title": "ΚΚΕ: Αποχαιρετούμε με μεγάλη θλίψη και βαθύ σεβασμό μια ελεύθερη και γενναία γυναίκα, την συγγραφέα Ιωάννα Καρατζαφέρη",
-      "simpleTitle": "Θλίψη για την απώλεια της συγγραφέα Ιωάννας Καρατζαφέρη",
-      "simpleText": "Η Ιωάννα Καρατζαφέρη, μια σημαντική συγγραφέας, έφυγε από τη ζωή σε ηλικία 97 ετών. Το ΚΚΕ εξέφρασε τη θλίψη του για την απώλειά της. Η Ιωάννα ήταν γενναία γυναίκα και αγωνίστηκε για τα δικαιώματα των ανθρώπων όλη της τη ζωή. Είχε γράψει πολλά έργα που αναδείκνυαν τους ανθρώπους που συχνά παραμελούνται. Ζούσε σε πολλές χώρες, όπως η Νέα Υόρκη και η Στοκχόλμη, και συνέβαλε στον αγώνα κατά της δικτατορίας. Ο ΚΚΕ στέλνει τα συλλυπητήριά του στους αγαπημένους της και θυμάται το έργο και τον αγώνα της.",
-      "sourceName": "ERT News, 902.gr – Επιλεγμένα",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/kke-apoxairetoume-me-megali-thlipsi-kai-vathy-sevasmo-mia-eleytheri-kai-gennaia-gynaika-tin-syggrafea-ioanna-karatzaferi/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "902.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/kke-apoxairetoume-me-megali-thlipsi-kai-vathy-sevasmo-mia-eleytheri-kai-gennaia-gynaika-tin-syggrafea-ioanna-karatzaferi/"
-        },
-        {
-          "title": "902.gr – Επιλεγμένα",
-          "url": "https://www.902.gr/eidisi/politiki/414602/kke-apohaireta-me-megali-thlipsi-kai-vathy-sevasmo-mia-eleytheri-kai-gennaia"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την απώλεια μιας σημαντικής προσωπικότητας της λογοτεχνίας και τον αγώνα της για κοινωνικά δικαιώματα, γεγονός που συνιστά σοβαρή είδηση σχετική με πολιτικές και κοινωνικές αξίες.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-19T14:11:41.000Z"
-    },
-    {
-      "id": "d839b3e20c3d",
-      "title": "Μητσοτάκης σε Μόντι: Η Ελλάδα επιθυμεί να συμμετάσχει στον IMEC",
-      "simpleTitle": "Η Ελλάδα θέλει να συμμετάσχει στον IMEC",
-      "simpleText": "Ο Κυριάκος Μητσοτάκης συνάντησε τον Ινδό πρωθυπουργό Ναρέντρα Μόντι. Αυτή η συνάντηση έγινε στο Νέο Δελχί, κατά τη διάρκεια μιας σημαντικής συνόδου. Η Ελλάδα επανέλαβε ότι επιθυμεί να συμμετάσχει στον οικονομικό διάδρομο IMEC. Ο διάδρομος αυτός συνδέει την Ινδία με τη Μέση Ανατολή και την Ευρώπη.\n\nΗ συμμετοχή της Ελλάδας σε αυτόν τον διάδρομο είναι σημαντική. Μπορεί να φέρει νέες ευκαιρίες για εμπορικές συμφωνίες. Οι δύο ηγέτες μίλησαν επίσης για τις σχέσεις ΕΕ-Ινδίας και τις πιθανές προοπτικές τους. Δεν έχουν ανακοινωθεί λεπτομέρειες για τα επόμενα βήματα.",
-      "sourceName": "Kathimerini, TO BHMA, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/politics/564086296/mitsotakis-se-monti-i-ellada-epithymei-na-symmetaschei-ston-diadromo-imec/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/564086296/mitsotakis-se-monti-i-ellada-epithymei-na-symmetaschei-ston-diadromo-imec/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/19/diplomatia/mitsotakis-monti-i-ellada-epithymei-na-symmetasxei-ston-oikonomiko-diadromo-imec/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4080073/sinantisi-kiriakou-mitsotaki-me-ton-indo-prothipourgo-i-ellada-epithimi-na-simmetaschi-ston-ikonomiko-diadromo-imec.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική συνάντηση μεταξύ δύο κρατών και τη συμμετοχή της Ελλάδας σε έναν οικονομικό διάδρομο που έχει επιπτώσεις για τις εμπορικές σχέσεις και τη διεθνή πολιτική.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g6125d3e8b5d7e2624096fa5e94e5c61379af4ee48fff4d8bee248d707312d938aff23952982bc56d00108bdff2087e97c59361625462357bdaa1b434a23474a9_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-19T14:00:33.000Z"
+      "publishedAt": "2026-02-19T21:15:41.000Z"
     },
     {
       "id": "c186e848bd56",
       "title": "Επαναστατικό σπρέυ για την επούλωση πληγών σταματά την αιμορραγία σε ένα μόλις δευτερόλεπτο",
-      "simpleTitle": "Νέο σπρέι για γρήγορη επούλωση πληγών",
-      "simpleText": "Μια νέα επιστημονική ανακάλυψη μπορεί να βοηθήσει πολύ στην ιατρική έκτακτης ανάγκης. Ερευνητές από το ινστιτούτο KAIST δημιούργησαν ένα σπρέι που σταματά την αιμορραγία γρήγορα, μέσα σε ένα δευτερόλεπτο. Αυτό το σπρέι μπορεί να είναι σωτήριο σε καταστάσεις όπως οι μάχες ή άλλες κρίσιμες στιγμές. Είναι σημαντικό γιατί μπορεί να σώσει ζωές όταν οι γιατροί δεν είναι κοντά. Ωστόσο, χρειάζεται περισσότερη μελέτη για να δούμε πώς θα χρησιμοποιηθεί στην πράξη.",
+      "simpleTitle": "Νέο σπρέι που σταματά την αιμορραγία γρήγορα",
+      "simpleText": "Μια νέα ανακάλυψη από το ινστιτούτο KAIST μπορεί να βοηθήσει πολύ στην ιατρική. Δημιούργησαν ένα σπρέι που σταματά την αιμορραγία σε μόλις ένα δευτερόλεπτο. Αυτή η τεχνολογία είναι πολύ χρήσιμη σε καταστάσεις έκτακτης ανάγκης, όπως σε πεδία μάχης. Χάρη σε αυτή την ανακάλυψη, μπορούν να σωθούν ζωές. Οι ερευνητές πιστεύουν ότι αυτό το σπρέι θα κάνει την επείγουσα ιατρική πιο αποτελεσματική. Δεν ξέρουμε ακόμα πότε θα είναι διαθέσιμο για όλους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32119-neo-sprei-gia-tin-epoulosi-pligon-stamatia-tin-aimorragia-se-ena-defterolepto/",
       "sourceDomains": [
@@ -341,7 +252,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια επαναστατική ιατρική ανακάλυψη που έχει σοβαρές επιπτώσεις στην υγειονομική περίθαλψη και μπορεί να σώσει ζωές σε καταστάσεις έκτακτης ανάγκης.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια επαναστατική ιατρική ανακάλυψη που έχει σοβαρές επιπτώσεις στην επείγουσα ιατρική και μπορεί να σώσει ζωές, γεγονός που την κατατάσσει στην κατηγορία των σοβαρών ειδήσεων.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -351,7 +262,7 @@
       "id": "5bff79bb47ab",
       "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
       "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος",
-      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια μεγάλη ζωγράφος από το Βέλγιο. Το 1548 ζωγράφισε τον εαυτό της τη στιγμή που όργωνε. Είναι η πρώτη γυναίκα καλλιτέχνης που γνωρίζουμε στην ιστορία που το έκανε αυτό. Με το έργο της, η Καταρίνα ήθελε να δείξει ότι οι γυναίκες μπορούν επίσης να δημιουργούν τέχνη. Υπέγραψε τη ζωγραφιά της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου», κάτι πολύ σημαντικό για την εποχή της. Αυτή η κίνηση έδειξε τη δύναμη και τη θέση των γυναικών στην τέχνη.",
+      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σπουδαία ζωγράφος από τη Φλάνδρα. Το 1548 δημιούργησε μια αυτοπροσωπογραφία, που δείχνει τη δύναμη των γυναικών στην τέχνη. Είναι η πρώτη γυναίκα που ζωγράφισε τον εαυτό της στην εργασία, με το πινέλο στο χέρι. Αυτή η κίνηση ήταν πολύ σημαντική γιατί έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνιδες. Υπέγραψε το έργο της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτό ήταν ένα δυνατό μήνυμα για τη θέση των γυναικών στην κοινωνία της εποχής.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
       "sourceDomains": [
@@ -364,7 +275,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η ιστορία της Καταρίνα βαν Χέμεσεν αναδεικνύει τη σημασία της γυναικείας δημιουργίας στην τέχνη και την πολιτισμική κληρονομιά της εποχής της, κάνοντάς την ιδανική για την κατηγορία πολιτισμού.",
+      "categoryReason": "Η είδηση προβάλλει την καλλιτεχνική και κοινωνική σημασία της πρωτοπόρου ζωγράφου Καταρίνα βαν Χέμεσεν, εστιάζοντας στην τέχνη και τη θέση των γυναικών στο καλλιτεχνικό πεδίο.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -373,8 +284,8 @@
     {
       "id": "8472722905be",
       "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
-      "simpleTitle": "Νέος Οργανισμός για Γυναίκες Επιχειρηματίες στην Ελλάδα",
-      "simpleText": "Στις αρχές Φεβρουαρίου του 2026, ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτή η νέα πρωτοβουλία είναι σημαντική γιατί θέλει να βοηθήσει τις γυναίκες να γίνουν πιο δυναμικές στον τομέα των επιχειρήσεων. Ο οργανισμός θα προσφέρει εργαλεία και υποστήριξη, ώστε οι γυναίκες να έχουν ίσες ευκαιρίες να πετύχουν. Όλες οι σημαντικές επιχειρηματικές ενώσεις στη χώρα στηρίζουν αυτή την προσπάθεια. Είναι ένα βήμα προς την ισότητα και την καινοτομία για το μέλλον.",
+      "simpleTitle": "Νέος οργανισμός για τις γυναίκες επιχειρηματίες στην Ελλάδα",
+      "simpleText": "Το 2026, θα ιδρυθεί ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτό είναι πολύ σημαντικό γιατί θα βοηθήσει τις γυναίκες να συμμετέχουν περισσότερο στον κόσμο των επιχειρήσεων. Ο οργανισμός θα προσφέρει υποστήριξη και ευκαιρίες για τις γυναίκες, ώστε να μπορέσουν να είναι πιο δυναμικές και καινοτόμες στις δουλειές τους. Πολλοί σημαντικοί φορείς θα συμμετέχουν σε αυτό το έργο, για να εξασφαλίσουν ίσες ευκαιρίες για όλους. Αυτό το βήμα είναι καλό για την κοινωνία και δείχνει ότι η ισότητα είναι σημαντική. Δεν ξέρουμε ακόμα περισσότερες λεπτομέρειες για τη λειτουργία του οργανισμού.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
       "sourceDomains": [
@@ -387,17 +298,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ίδρυση ενός οργανισμού που στοχεύει στην ενδυνάμωση των γυναικών στον επιχειρηματικό τομέα, προωθώντας την ισότητα και την καινοτομία, στοιχεία που σχετίζονται με σοβαρά κοινωνικά ζητήματα.",
+      "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας αναφέρεται σε ένα σοβαρό κοινωνικό ζήτημα, την ενδυνάμωση των γυναικών στον επιχειρηματικό τομέα και την προώθηση της ισότητας, που έχει σημαντικές επιπτώσεις στην κοινωνία.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g8ff10f8989445630439c7df1dc3348a21e178024ea28b40cc7ce82a2b0e957d9e262eb80c5789a158e193720ae26fb9d1fa00fa767a3cdd0ee444e42e3f35cdf_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gfe4c7a11a0b21c89bd5cdbfc70a67a89fe98263894833db1f144fa57584e8ca2e40cbf3ad445c3693b86b8b63761243d0a295374aabbb7a807c555db4a52d0c8_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T13:22:00.000Z"
     },
     {
       "id": "8e0ce3141016",
       "title": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε 10 σύγχρονα αντιβιοτικά",
-      "simpleTitle": "Βακτήριο 5.000 ετών ανθεκτικό σε φάρμακα",
-      "simpleText": "Ερευνητές ανακάλυψαν ένα ιδιαίτερο βακτήριο σε μια σπηλιά στη Ρουμανία. Αυτό το βακτήριο είναι 5.000 ετών και μπορεί να αντιστέκεται σε 10 σύγχρονα φάρμακα που χρησιμοποιούμε σήμερα. Βρέθηκε κάτω από πάγο σε μια σπηλιά, που ονομάζεται Scărișoara Ice Cave. Είναι σημαντικό γιατί μπορεί να μας δώσει πληροφορίες για το πώς τα βακτήρια επιβιώνουν σε δύσκολες συνθήκες. Δεν ξέρουμε ακόμα πώς αυτή η ανακάλυψη θα επηρεάσει τη θεραπεία των ασθενειών στο μέλλον.",
+      "simpleTitle": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε φάρμακα",
+      "simpleText": "Επιστήμονες βρήκαν ένα αρχαίο βακτήριο, ηλικίας 5.000 ετών, σε ένα σπήλαιο στη Ρουμανία. Αυτό το βακτήριο, που λέγεται Psychrobacter SC65A.3, μπορεί να αντέξει 10 σύγχρονα φάρμακα που χρησιμοποιούνται για την καταπολέμηση λοιμώξεων. Η ανακάλυψη έγινε σε ένα σπηλαιοβάραθρο που έχει πάγο εδώ και χιλιάδες χρόνια, το Scărișoara Ice Cave. Αυτή η ανακάλυψη είναι πολύ σημαντική γιατί μας δίνει πληροφορίες για τα βακτήρια και την αντοχή τους. Ωστόσο, δεν έχουμε ακόμη πληροφορίες για το πώς μπορούμε να χρησιμοποιήσουμε αυτή τη γνώση στην πράξη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/",
       "sourceDomains": [
@@ -410,7 +321,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η ανακοίνωση αφορά μια σημαντική επιστημονική ανακα Discovery for health and medicine, με επιπτώσεις στην ιατρική θεραπεία και τη μικροβιολογία.",
+      "categoryReason": "Η ανακάλυψη ενός αρχαίου βακτηρίου που είναι ανθεκτικό σε σύγχρονα αντιβιοτικά εγκυμονεί σοβαρές συνέπειες στον τομέα της υγειονομικής περίθαλψης και της μικροβιολογίας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -419,8 +330,8 @@
     {
       "id": "faff9794ec94",
       "title": "Η επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια και τα απίστευτα οφέλη για το περιβάλλον",
-      "simpleTitle": "Ο ευρωπαϊκός βίσωνας ξανά στα Καρπάθια και τα οφέλη του",
-      "simpleText": "Στα όμορφα βουνά των Καρπαθίων, ο ευρωπαϊκός βίσωνας έχει επιστρέψει. Αυτά τα ζώα είχαν χαθεί από τη φύση, αλλά τώρα περιφέρονται ελεύθερα ξανά. Η επιστροφή τους είναι σημαντική για το περιβάλλον και την ισορροπία της φύσης. Οι βίσωνες βοηθούν το έδαφος να γίνει καλύτερο και προσφέρουν στήριξη στη ζωή των φυτών και των ζώων γύρω τους. Αυτό δείχνει ότι, όταν συνεργαζόμαστε, μπορούμε να κάνουμε καλό για τον πλανήτη μας. Η επανένταξή τους είναι καλή είδηση για όλους μας.",
+      "simpleTitle": "Επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια",
+      "simpleText": "Στα όμορφα βουνά των Καρπαθίων, ο ευρωπαϊκός βίσωνας επιστρέφει στη φύση. Αυτό το ζώο είχε εξαφανιστεί, αλλά τώρα περιφέρεται ξανά ελεύθερα. Η επιστροφή του βίσωνα είναι σημαντική για το περιβάλλον και την υγεία της φύσης. Αυτά τα ζώα βοηθούν το έδαφος να γίνει καλύτερο και προσφέρουν νέα ζωή στη δημιουργία φυτών και άλλων ειδών. Είναι ωφέλιμο να βλέπουμε τέτοιες πρωτοβουλίες, γιατί δείχνουν ότι μπορούμε να προστατεύουμε τη φύση με τη συνεργασία και την επιστήμη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32115-perivallontika-ofeli-apo-tin-epistrofi-ton-visonon-sta-karpathia/",
       "sourceDomains": [
@@ -433,7 +344,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η επιστροφή του ευρωπαϊκού βίσωνα έχει σοβαρές περιβαλλοντικές επιπτώσεις και σχετίζεται με την αειφορία και την ισορροπία του οικοσυστήματος, που είναι σημαντικά κοινωνικά ζητήματα.",
+      "categoryReason": "Η είδηση αφορά την επανένταξη ενός είδους που είχε εξαφανιστεί και τα σημαντικά οφέλη που έχει αυτή η διαδικασία για το περιβάλλον, αναδεικνύοντας σοβαρά θέματα οικολογικής διαχείρισης και προστασίας της φύσης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -442,8 +353,8 @@
     {
       "id": "724bacd1fa93",
       "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
-      "simpleTitle": "Η Ολλανδία και η Τετραήμερη Εργασία",
-      "simpleText": "Στην Ολλανδία, οι άνθρωποι δουλεύουν μόνο τέσσερις ημέρες την εβδομάδα. Αυτό έχει γίνει κανονικότητα και βοηθά τη ζωή τους. Οι εργαζόμενοι δουλεύουν περίπου 32 ώρες την εβδομάδα, λιγότερες από πολλές άλλες χώρες. Παρόλα αυτά, η Ολλανδία είναι μια πολύ ισχυρή οικονομία. Αυτή η νέα προσέγγιση δείχνει ότι δεν χρειάζονται πολλές ώρες δουλειάς για να πετυχαίνει κανείς. Οι εργαζόμενοι έχουν περισσότερο χρόνο για την οικογένεια και για τον εαυτό τους. Αυτό τους βοηθά να είναι πιο ευτυχισμένοι και παραγωγικοί.",
+      "simpleTitle": "Τετραήμερη εργασία στην Ολλανδία",
+      "simpleText": "Στην Ολλανδία, πολλές εταιρείες έχουν υιοθετήσει την τετραήμερη εργασία. Οι εργαζόμενοι δουλεύουν λιγότερες ώρες, περίπου 32,1 την εβδομάδα. Έτσι, έχουν περισσότερο ελεύθερο χρόνο για την οικογένεια και την προσωπική τους ζωή. Αυτή η αλλαγή δείχνει ότι η εργασία δεν χρειάζεται να είναι πολλές ώρες για να είναι παραγωγική. Η Ολλανδία είναι ένα καλό παράδειγμα, γιατί μπορεί να έχει οικονομική επιτυχία και ταυτόχρονα να φροντίζει τους εργαζόμενους. Είναι σημαντικό για άλλες χώρες να σκεφτούν αυτό το μοντέλο. Δεν ξέρουμε ακόμα αν άλλες χώρες θα το υιοθετήσουν.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
       "sourceDomains": [
@@ -456,7 +367,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη νέα εργασιακή προσέγγιση στην Ολλανδία, η οποία έχει σοβαρές κοινωνικές και οικονομικές επιπτώσεις, όπως η ισορροπία μεταξύ εργασίας και προσωπικής ζωής.",
+      "categoryReason": "Η είδηση αφορά την εφαρμογή του μοντέλου της τετραήμερης εργασίας στην Ολλανδία, που σχετίζεται με σοβαρά θέματα όπως η εργασία, η παραγωγικότητα και η ισορροπία μεταξύ προσωπικής και επαγγελματικής ζωής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -465,8 +376,8 @@
     {
       "id": "5e2c1f25ef9a",
       "title": "Ελένη Γλύκατζη-Αρβελέρ: Η πρώτη γυναίκα πρύτανης της Σορβόννης",
-      "simpleTitle": "Ελένη Γλύκατζη-Αρβελέρ: Η πρώτη γυναίκα πρύτανης της Σορβόννης",
-      "simpleText": "Η Ελένη Γλύκατζη-Αρβελέρ, μια σπουδαία γυναίκα, έφυγε από τη ζωή στα 99 της χρόνια. Ήταν πολύ σημαντική στον κόσμο της επιστήμης και της εκπαίδευσης. Έκανε ιστορία καθώς έγινε η πρώτη γυναίκα πρύτανης στο Πανεπιστήμιο της Σορβόννης, ένα από τα πιο γνωστά πανεπιστήμια του κόσμου. Η Ελένη προώθησε τον ελληνικό πολιτισμό και τη βυζαντινή κληρονομιά, βοηθώντας πολλούς ανθρώπους να μάθουν. Το έργο της εμπνέει φοιτητές και ερευνητές σε όλο τον κόσμο. Είναι σημαντική για την παιδεία, που είναι βασική για τη δημοκρατία.",
+      "simpleTitle": "Η Ελένη Γλύκατζη-Αρβελέρ, η πρώτη γυναίκα πρύτανης της Σορβόννης",
+      "simpleText": "Έφυγε από τη ζωή η Ελένη Γλύκατζη-Αρβελέρ, σε ηλικία 99 ετών. Ήταν μία σπουδαία προσωπικότητα στη φιλολογία και τη διδασκαλία. Ήταν η πρώτη γυναίκα πρύτανης στο Πανεπιστήμιο της Σορβόννης, στη Γαλλία. Το έργο της στη Βυζαντινή Ιστορία ήταν πολύ σημαντικό. Προώθησε τον ελληνικό πολιτισμό στο εξωτερικό και υπερασπίστηκε τη σημασία της παιδείας. Αφήνει πίσω της μια κληρονομιά που εμπνέει φοιτητές και ερευνητές. Η προσφορά της στη γνώση και την εκπαίδευση είναι ανεκτίμητη.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32081-eleni-glykatzi-arveler/",
       "sourceDomains": [
@@ -479,7 +390,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη ζωή και το έργο μιας σημαντικής προσωπικότητας στην εκπαίδευση και την επιστήμη, με έμφαση στα δικαιώματα των γυναικών και την προώθηση της παιδείας, που είναι σοβαρά κοινωνικά θέματα.",
+      "categoryReason": "Η είδηση αφορά τη ζωή και το έργο μιας σπουδαίας ακαδημαϊκού, που άφησε πίσω της μια σημαντική κληρονομιά στον τομέα της εκπαίδευσης και του πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -489,7 +400,7 @@
       "id": "cbf8f148629e",
       "title": "Τέλος στην ταλαιπωρία για τα φάρμακα υψηλού κόστους με δωρεάν διάθεση από τα φαρμακεία της γειτονιάς",
       "simpleTitle": "Δωρεάν φάρμακα από τα φαρμακεία της γειτονιάς",
-      "simpleText": "Από σήμερα, 16 Φεβρουαρίου, οι ασθενείς με σοβαρές παθήσεις στην Ελλάδα μπορούν να αποκτούν δωρεάν τα φάρμακα υψηλού κόστους από τα φαρμακεία της γειτονιάς τους. Αυτή η νέα αλλαγή φέρνει ανακούφιση στους ανθρώπους που ταλαιπωρούνται με μεγάλες αναμονές στα δημόσια φαρμακεία. Έτσι, οι ασθενείς μπορούν να επιλέγουν το φαρμακείο που θέλουν και να λαμβάνουν βοήθεια από τους φαρμακοποιούς. Αυτή η πρωτοβουλία είναι σημαντική γιατί προστατεύει την αξιοπρέπεια των ασθενών. Δεν έχουν ανακοινωθεί περαιτέρω λεπτομέρειες για το πρόγραμμα.",
+      "simpleText": "Από σήμερα, Δευτέρα 16 Φεβρουαρίου, οι άνθρωποι που έχουν σοβαρές αρρώστιες θα μπορούν να πάρουν τα φάρμακά τους χωρίς να περιμένουν πολύ. Αυτό γίνεται γιατί τα ιδιωτικά φαρμακεία θα αρχίσουν να δίνουν φάρμακα που κοστίζουν πολύ. Οι ασθενείς μπορούν να επιλέξουν το φαρμακείο κοντά τους και να βρουν βοήθεια από τους φαρμακοποιούς. Αυτό είναι σημαντικό γιατί θα κάνουμε την ζωή των ανθρώπων πιο εύκολη και πιο αξιοπρεπή. Δεν ξέρουμε ακόμα αν η διαδικασία θα αλλάξει ξανά στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32064-dorean-diathesi-farmakon-ypsilou-kostous-apo-idiotika-farmakeia/",
       "sourceDomains": [
@@ -501,8 +412,8 @@
           "url": "https://thehappynews.gr/32064-dorean-diathesi-farmakon-ypsilou-kostous-apo-idiotika-farmakeia/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε μια θετική αλλαγή που βελτιώνει την πρόσβαση σε φάρμακα για ασθενείς, προσφέροντας τους αξιοπρέπεια και άμεση βοήθεια, γεγονός που δημιουργεί ευχάριστα συναισθήματα.",
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε μια σημαντική αλλαγή στον τομέα της υγείας που αφορά τη διάθεση φαρμάκων υψηλού κόστους, η οποία επηρεάζει άμεσα τη ζωή των ασθενών και την αξιοπρέπειά τους, καθιστώντας την σοβαρή θέμα κοινωνικής πολιτικής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -511,8 +422,8 @@
     {
       "id": "d14949892682",
       "title": "Ελληνικός τελικός Eurovision 2026: μια μεγάλη γιορτή για τη μουσική και τη δημιουργικότητα",
-      "simpleTitle": "Ελληνικός τελικός Eurovision 2026: Μια γιορτή για τη μουσική",
-      "simpleText": "Απόψε στην Ελλάδα θα γίνει ο τελικός της Eurovision 2026. Στη σκηνή θα εμφανιστούν 14 καλλιτέχνες. Όλοι τους θα προσπαθήσουν να κερδίσουν για να εκπροσωπήσουν τη χώρα μας. Αυτή η βραδιά θα έχει πολλή λάμψη και θετική ενέργεια. Είναι μια ευκαιρία να δείξουμε τη σύγχρονη ελληνική μουσική. Είναι σημαντικό να συμμετέχουμε σε αυτή τη γιορτή, γιατί φέρνει τους ανθρώπους κοντά. Ας ελπίσουμε να απολαύσουμε όλοι ένα υπέροχο θέαμα!",
+      "simpleTitle": "Τελικός Eurovision 2026 στην Ελλάδα",
+      "simpleText": "Απόψε, η Ελλάδα φιλοξενεί τον μεγάλο τελικό για τη Eurovision 2026. Στη σκηνή θα ανέβουν 14 καλλιτέχνες. Αυτοί θα δείξουν τη δημιουργικότητα και το ταλέντο τους μέσα από ωραίες μουσικές. Ο τελικός θα είναι μια γιορτή γεμάτη λάμψη και θετική ενέργεια. Ο σκοπός είναι να βρούμε ποιος θα εκπροσωπήσει την Ελλάδα στον διεθνή διαγωνισμό. Είναι πολύ σημαντική αυτή η βραδιά για τη μουσική μας σκηνή και ενώνει τον κόσμο. Δεν ξέρουμε ακόμα ποιος θα κερδίσει, αλλά όλοι περιμένουν με ανυπομονησία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/",
       "sourceDomains": [
@@ -524,232 +435,247 @@
           "url": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/"
         }
       ],
-      "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται στον τελικό της Eurovision 2026 στην Ελλάδα, που είναι μια γιορτή για τη μουσική και τη δημιουργικότητα, γεμάτη θετική ενέργεια και ενότητα, κάτι που φτιάχνει τη διάθεση.",
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά τον ελληνικό τελικό της Eurovision, που είναι μια μουσική εκδήλωση και γιορτή της δημιουργικότητας, κατηγορία που ανήκει στην πολιτιστική σφαίρα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g7368f4b51b84045cfbe3620e80d56a2175e3c361f89c78c271baf8de1655d3da79670f37a192dcae8d99ef6db536699ab2305f23ae90d0ac2af801a69229e789_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g3d3733e5700f9bcc85bddbca07a1e8e7480e61699ba8649ea7415787ef1fa367d8da141f5077fb345846e7329a3c48ebc45eecaf8c1852a520cc9e1afabfcec5_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-15T13:22:41.000Z"
     },
     {
-      "id": "6dac026a9e96",
-      "title": "Ο πρώτος Έλληνας αστροναύτης: Ο Δρ. Αδριανός Γολέμης ξεκινά την εκπαίδευσή του",
-      "simpleTitle": "Ο Δρ. Αδριανός Γολέμης αρχίζει εκπαίδευση ως αστροναύτης",
-      "simpleText": "Η Ελλάδα έχει έναν νέο αστροναύτη. Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα εκπαιδευτεί από τον Ευρωπαϊκό Οργανισμό Διαστήματος. Η εκπαίδευση αυτή είναι πολύ σημαντική και δείχνει ότι η χώρα μας κάνει βήματα στον τομέα του διαστήματος. Ο Γολέμης πέρασε δύσκολες εξετάσεις για να συμμετάσχει σε αυτό το πρόγραμμα. Οι εξελίξεις αυτές δείχνουν ότι οι Έλληνες μπορούν να συμμετέχουν σε διεθνείς αποστολές και να εξερευνήσουν το διάστημα. Δεν έχει ανακοινωθεί πότε θα αρχίσει η εκπαίδευση.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/",
-      "sourceDomains": [
-        "thehappynews.gr"
-      ],
-      "sources": [
-        {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/"
-        }
-      ],
-      "category": "happy",
-      "categoryReason": "Η είδηση για τον Δρ. Αδριανό Γολέμη, τον πρώτο Έλληνα αστροναύτη, είναι θετική και ενθουσιώδης, τονίζοντας πρόοδο και επιτυχία για την Ελλάδα στον τομέα του διαστήματος.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-15T11:01:49.000Z"
-    },
-    {
-      "id": "62af6daada85",
-      "title": "Live streaming: Δείτε τον ημιτελικό αγώνα μπάσκετ Μαρούσι-Ολυμπιακός για το final-8 του Κυπέλλου Ελλάδος (17:00, ΕΡΤ2 ΣΠΟΡ)",
-      "simpleTitle": "Μαρούσι - Ολυμπιακός: Ο ημιτελικός αγώνας μπάσκετ",
-      "simpleText": "Σήμερα στις 17:00 θα γίνει ο ημιτελικός αγώνας μπάσκετ ανάμεσα στο Μαρούσι και τον Ολυμπιακό. Ο αγώνας είναι μέρος του final-8 του Κυπέλλου Ελλάδος και διεξάγεται στα Δύο Αοράκια στο Ηράκλειο. Μπορείτε να παρακολουθήσετε τον αγώνα ζωντανά μέσω της ΕΡΤ2 ΣΠΟΡ και διαδικτυακά από το ERTFLIX. Είναι μια σημαντική στιγμή για τις ομάδες και για τους φιλάθλους, καθώς όλοι περιμένουν να δουν ποιος θα προκριθεί στον τελικό.",
-      "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-agona-mpasket-marousi-olympiakos-gia-to-final-8-tou-kypellou-ellados-17-00-ert2-spor/",
-      "sourceDomains": [
-        "ertnews.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-agona-mpasket-marousi-olympiakos-gia-to-final-8-tou-kypellou-ellados-17-00-ert2-spor/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν ημιτελικό αγώνα μπάσκετ ανάμεσα σε δύο ομάδες, επομένως εντάσσεται στη κατηγορία των αθλητικών γεγονότων. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&amp;autostart=true",
-      "publishedAt": "2026-02-19T14:45:00.000Z"
-    },
-    {
-      "id": "bdbde10f17a3",
-      "title": "Αντίνο: «Τίτλους με τον Παναθηναϊκό»",
-      "simpleTitle": "Αντίνο: «Στόχος οι τίτλοι με τον Παναθηναϊκό»",
-      "simpleText": "Ο Σαντίνο Αντίνο είναι νέος παίκτης του Παναθηναϊκού. Μίλησε για την προσαρμογή του στην ομάδα και την ανυπομονησία του να παίξει στην Ευρώπη. Το πρώτο του παιχνίδι θα είναι κόντρα στη Βικτόρια Πλζεν. Είναι πολύ σημαντικός αγώνας και θέλει η ομάδα να κερδίσει. Ο Αντίνο καταλαβαίνει την απογοήτευση των φιλάθλων και υπόσχεται ότι θα προσπαθήσει σκληρά για να μπορέσει ο Παναθηναϊκός να επιστρέψει στις νίκες. Αισθάνεται πολύ καλά στην ομάδα και ελπίζει να φέρουν χαρά στους φιλάθλους με νίκες.",
+      "id": "7eadaa6b97c7",
+      "title": "«Όταν συνάντησα την Αρβελέρ…» – Οι αναμνήσεις μιας μαθήτριας",
+      "simpleTitle": "Η συνάντηση με την Αρβελέρ",
+      "simpleText": "Τον Ιανουάριο του 2019, μια μαθήτρια, η Μαρία Κοκάλα, συναντήθηκε με την Ελένη Γλύκατζη – Αρβελέρ στο Ευρωπαϊκό Πολιτιστικό Κέντρο Δελφών. Αυτή η συνάντηση ήταν πολύ σημαντική για την Μαρία, καθώς ένιωσε πως μπορούσε να μιλήσει ελεύθερα με την σπουδαία ακαδημαϊκό. Η Αρβελέρ της έδωσε μια σημαντική συμβουλή: «Να έχεις τα πόδια σου στη γη και τα μάτια σου στον ουρανό». Αυτά τα λόγια, όπως λέει η Μαρία, τη βοηθούν ακόμα και σήμερα.\n\nΗ Μαρία εντυπωσιάστηκε πολύ από την προσωπικότητα της Αρβελέρ. Επίσης, τη θαύμασε για την ταπεινότητά της, παρόλο που είχε επιτύχει πολλά. Η συνάντηση αυτή άλλαξε τη σκέψη της σχετικά με τις δυσκολίες στη ζωή. Σήμερα, η Μαρία θεωρεί φυσικό να βλέπει γυναίκες σε ηγετικές θέσεις και αισθάνεται έτοιμη να πετύχει τους στόχους της.",
       "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/19/sports/antino-titlous-me-ton-panathinaiko/",
+      "sourceUrl": "https://www.tanea.gr/2026/02/20/greece/education/otan-synantisa-tin-arveler-oi-anamniseis-mias-mathitrias-apo-ti-synantisi-tis-me-ti-diakek/",
       "sourceDomains": [
         "tanea.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/19/sports/antino-titlous-me-ton-panathinaiko/"
+          "url": "https://www.tanea.gr/2026/02/20/greece/education/otan-synantisa-tin-arveler-oi-anamniseis-mias-mathitrias-apo-ti-synantisi-tis-me-ti-diakek/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ιστορία της Μαρίας Κοκάλα επικεντρώνεται σε μια θετική και εμπνευσμένη συνάντηση με μια σπουδαία προσωπικότητα, που επηρεάζει θετικά τη ζωή της. Αναδεικνύει την αυτοπεποίθηση και τα όνειρα της νέας γενιάς. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T07:32:59.000Z"
+    },
+    {
+      "id": "41d881cc2920",
+      "title": "Η Σίφνος αποτελεί την πρώτη επιλογή των Αυστραλών για το 2026",
+      "simpleTitle": "Η Σίφνος είναι πρώτη επιλογή για τους Αυστραλούς το 2026",
+      "simpleText": "Η Σίφνος είναι ένα όμορφο νησί στις Κυκλάδες. Οι Αυστραλοί την έχουν επιλέξει ως τον πιο αγαπημένο προορισμό για το 2026. Αυτό είναι πολύ καλό νέο για το νησί, γιατί μπορεί να φέρει περισσότερους επισκέπτες. Οι άνθρωποι που θα ταξιδέψουν εκεί μπορούν να απολαύσουν τη φύση και τον πολιτισμό του. Είναι σημαντικό για τη Σίφνο, γιατί θα είναι πιο γνωστή σε όλο τον κόσμο. Δεν ξέρουμε ακόμα πώς θα ετοιμαστούν οι τοπικές αρχές για την υποδοχή των επισκεπτών.",
+      "sourceName": "News.gr",
+      "sourceUrl": "https://www.news.gr/travel/article/4080549/i-sifnos-apoteli-tin-proti-epilogi-ton-afstralon-gia-to-2026.html",
+      "sourceDomains": [
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/travel/article/4080549/i-sifnos-apoteli-tin-proti-epilogi-ton-afstralon-gia-to-2026.html"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η επιλογή της Σίφνου ως πρώτου προορισμού για Αυστραλούς το 2026 είναι θετική είδηση που προάγει τον τουρισμό και τον πολιτισμό του νησιού. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T06:58:40.000Z"
+    },
+    {
+      "id": "ab88492dacb3",
+      "title": "Με buzzer beater η Τσέλιε νίκησε τη Ντρίτα και βλέπει… ΑΕΚ (2-3) Τριάρα για την Φιορεντίνα στην Πολωνία (0-3)",
+      "simpleTitle": "Η Τσέλιε νίκησε τη Ντρίτα με γκολ στο τέλος",
+      "simpleText": "Η ομάδα της Τσέλιε κέρδισε τη Ντρίτα με σκορ 3-2 σε έναν αγώνα που έγινε πρόσφατα. Το γκολ που έκρινε το παιχνίδι μπήκε στο τελευταίο λεπτό από τον Ποπλάντικ. Αυτή η νίκη φέρνει την Τσέλιε πιο κοντά στην ΑΕΚ, εφόσον περάσει στον επόμενο γύρο. Η Ντρίτα αντέδρασε και μείωσε το σκορ, αλλά δεν πρόλαβε να γυρίσει το παιχνίδι. Ταυτόχρονα, η Φιορεντίνα νίκησε με 3-0 την Γιαγκελόνια. Αυτό το αποτέλεσμα δίνει πλεονέκτημα στην Φιορεντίνα για την πρόκριση. Δεν έχουν ανακοινωθεί περισσότερες πληροφορίες για τους επόμενους αγώνες.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/20/sports/football/me-buzzer-beater-i-tselie-nikise-ti-ntrita-kai-vlepei-aek-2-3-triara-gia-tin-fiorentina-stin-polonia-0-3/",
+      "sourceDomains": [
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/20/sports/football/me-buzzer-beater-i-tselie-nikise-ti-ntrita-kai-vlepei-aek-2-3-triara-gia-tin-fiorentina-stin-polonia-0-3/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τη μεταγραφή και προετοιμασία του Σαντίνο Αντίνο στον Παναθηναϊκό, με έμφαση στο επερχόμενο αγώνα και τις προσδοκίες για νίκες, που συνδέονται άμεσα με τον αθλητισμό. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά έναν ποδοσφαιρικό αγώνα, τη νίκη της Τσέλιε κατά της Ντρίτα και τις επιδόσεις της Φιορεντίνας, γεγονότα που συνδέονται άμεσα με τον αθλητισμό. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc1ea379b04368cdb5dc34afb30867bbf7d613a3032abcfb0bc08cbaa3157356638989dd2ad31791d16cc6d24fd46b184e7eaf2e0390031f2db6edff4af5ee16c_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-19T14:18:28.000Z"
+      "publishedAt": "2026-02-19T22:03:47.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "3bb0edda155b",
-        "title": "Τραμπ: Αν το Ιράν δεν συνάψει συμφωνία θα «συμβούν άσχημα πράγματα»",
-        "simpleTitle": "Τραμπ: Σημαντική απόφαση για το Ιράν σε 10 ημέρες",
-        "simpleText": "Ο Πρόεδρος Ντόναλντ Τραμπ είπε ότι σε 10 ημέρες θα ξέρουμε αν το Ιράν θα συμφωνήσει σε κάτι σημαντικό ή όχι. Αν δεν γίνει αυτό, προειδοποίησε ότι θα υπάρξουν σοβαρές συνέπειες. Ο Τραμπ τόνισε ότι το Ιράν πρέπει να σταματήσει να απειλεί την περιοχή και να πάρει μια καλή απόφαση. Αυτή η κατάσταση είναι πολύ σοβαρή και επηρεάζει την ειρήνη στην περιοχή. Ο Αμερικανικός στρατός είναι έτοιμος για ενέργειες, αλλά ο Τραμπ δεν έχει πάρει ακόμα τελική απόφαση. Αν το Ιράν επιλέξει να μην συνεργαστεί, τα πράγματα μπορεί να γίνουν δύσκολα.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/tramp-an-to-iran-den-synapsei-symfonia-tha-symvoun-asxima-pragmata/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/tramp-an-to-iran-den-synapsei-symfonia-tha-symvoun-asxima-pragmata/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564086560/telesigrafo-tramp-sto-iran-symfonia-i-aschima-pragmata-mesa-se-10-imeres/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές πολιτικές προειδοποιήσεις του Ντόναλντ Τραμπ σχετικά με την κατάσταση στο Ιράν και τις ενδεχόμενες συνέπειες για την περιοχή, γεγονός που σχετίζεται άμεσα με διεθνή πολιτική και ασφάλεια.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-19T15:53:24.000Z"
-      },
-      {
-        "id": "64acae0d0cbd",
-        "title": "Βάρη: Πώς συνέβη η τραγωδία με τους δύο νεκρούς εργάτες από ηλεκτροπληξία",
-        "simpleTitle": "Δύο εργάτες έχασαν τη ζωή τους από ηλεκτροπληξία στη Βάρη",
-        "simpleText": "Δύο εργάτες, ο 39χρονος Μιχάλης και ο 21χρονος Χρήστος, tragically died στη Βάρη το μεσημέρι της Τετάρτης. Κατά τη διάρκεια εργασίας ανακαίνισης, προσπάθησαν να ανεβάσουν τζάμια με γερανό, όταν το μηχάνημα ακούμπησε σε ηλεκτροφόρα καλώδια, προκαλώντας ηλεκτροπληξία. Ένας αυτόπτης μάρτυρας περιέγραψε ότι η κατάσταση έγινε επικίνδυνη όταν φύσηξε αέρας και το τζάμι έπεσε.\n\nΗ αστυνομία ερευνά το συμβάν για να καταλάβει αν υπήρξαν λάθη ή παραλείψεις. Είναι σημαντικό να τηρούνται κανόνες ασφαλείας στις εργασίες. Η απώλεια αυτών των νέων ανθρώπων έχει συγκλονίσει την τοπική κοινότητα και οι φίλοι τους ετοιμάζονται να τους αποχαιρετήσουν το Σάββατο.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564086527/vari-pos-synevi-i-tragodia-me-toys-dyo-nekroys-ergates-apo-ilektroplixia/",
+        "id": "4a6cceeec237",
+        "title": "Σχέδιο της Κίνας για κυριαρχία στο παγκόσμιο εμπόριο",
+        "simpleTitle": "Σχέδιο της Κίνας για τον έλεγχο του εμπορίου",
+        "simpleText": "Η Κίνα θέλει να γίνει πιο δυνατή στο παγκόσμιο εμπόριο. Αυτό το σχέδιο περιλαμβάνει συνεργασίες με πολλές χώρες. Σκοπός της είναι να μειώσει τους δασμούς, δηλαδή τους φόρους που πληρώνουν οι χώρες για να εισάγουν προϊόντα. Θέλει να αλλάξει και την παραγωγή του τσαγιού για να κερδίσει περισσότερα χρήματα. Ο στόχος είναι να φτάσει τα 180 δισεκατομμύρια ευρώ μέχρι το 2030. Αυτό το σχέδιο μπορεί να αλλάξει τον τρόπο που εμπορεύονται οι χώρες και να επηρεάσει πολλούς ανθρώπους. Δεν ξέρουμε ακόμα πώς θα εφαρμοστούν όλα αυτά.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/economy/international/564087670/schedio-tis-kinas-gia-kyriarchia-sto-pagkosmio-emporio/",
         "sourceDomains": [
           "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564086527/vari-pos-synevi-i-tragodia-me-toys-dyo-nekroys-ergates-apo-ilektroplixia/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/19/greece/tragodia-me-dyo-ergates-nekrous-apo-ilektropliksia-sti-vari-sygklonizoun-oi-goneis-tous/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια τραγωδία με δύο θανάτους από ηλεκτροπληξία κατά τη διάρκεια εργασίας, αναδεικνύοντας σοβαρά ζητήματα ασφαλείας και ευθύνης στον εργασιακό χώρο.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://player.glomex.com/integration/1/integration.html?integrationId=40599x17mcd7avph&amp;playlistId=v-dgj0ol4c7ult",
-        "publishedAt": "2026-02-19T15:47:00.000Z"
-      },
-      {
-        "id": "99cdab063408",
-        "title": "ΥΠΑΑΤ: Παράταση μέχρι 31 Δεκεμβρίου 2026 για χρηματοδότηση και αγροτικά ακίνητα",
-        "simpleTitle": "Παράταση για βοήθεια στους αγρότες μέχρι το 2026",
-        "simpleText": "Το Υπουργείο Αγροτικής Ανάπτυξης ανακοίνωσε ότι οι αγρότες θα έχουν βοήθεια μέχρι τις 31 Δεκεμβρίου 2026. Αυτή η βοήθεια αφορά χρηματοδότηση, δηλαδή δάνεια, για να μπορούν οι αγρότες να καλλιεργούν τη γη τους. Ο υπουργός είπε ότι η κυβέρνηση θέλει να στηρίξει τους αγρότες σε δύσκολες εποχές.\n\nΕπιπλέον, οι αγρότες θα μπορούν να χρησιμοποιούν δημόσιες εκτάσεις για καλλιέργεια. Έτσι, θα δημιουργηθούν περισσότερες ευθύνες και ευκαιρίες για νέους ανθρώπους που θέλουν να ασχοληθούν με τη γεωργία. Αυτή η πρωτοβουλία είναι σημαντική για την οικονομία και την ανάπτυξη της υπαίθρου.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ypaat-paratasi-mexri-31-dekemvriou-2026-gia-xrimatodotisi-kai-agrotika-akinita/",
-        "sourceDomains": [
-          "ertnews.gr",
           "news.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ypaat-paratasi-mexri-31-dekemvriou-2026-gia-xrimatodotisi-kai-agrotika-akinita/"
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/economy/international/564087670/schedio-tis-kinas-gia-kyriarchia-sto-pagkosmio-emporio/"
           },
           {
             "title": "News.gr",
-            "url": "https://www.news.gr/oikonomia/article/4080136/ipaat-paratasi-mechri-31-dekemvriou-2026-gia-chrimatodotisi-ke-agrotika-akinita.html"
+            "url": "https://www.news.gr/kosmos/article/4080584/to-schedio-tis-kinas-gia-tin-pagkosmia-kiriarchia-sto-tsai.html"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά πολιτική παρέμβαση για τη στήριξη των αγροτών μέσω χρηματοδότησης και αξιοποίησης δημόσιων εκτάσεων, που σχετίζεται με σοβαρά ζητήματα όπως η οικονομία και η αγροτική ανάπτυξη.",
+        "categoryReason": "Η είδηση αφορά τις στρατηγικές οικονομικές και εμπορικές πολιτικές της Κίνας, οι οποίες επηρεάζουν σοβαρά την παγκόσμια οικονομία και το εμπόριο.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-19T15:39:47.000Z"
+        "publishedAt": "2026-02-20T07:37:29.000Z"
       },
       {
-        "id": "026d8f3d2e73",
-        "title": "Πατέρας Αντώνιος: Αδυνατώ να καταβάλλω το ποσό της ποινής μου",
-        "simpleTitle": "Πατέρας Αντώνιος: Δεν μπορώ να πληρώσω την ποινή μου",
-        "simpleText": "Ο πατέρας Αντώνιος, που έχει καταδικαστεί για κακοποιητικές πράξεις, μίλησε για την απόφαση του δικαστηρίου. Είπε ότι δεν μπορεί να πληρώσει το ποσό των 60.000 ευρώ που χρειάζεται για να αλλάξει την ποινή του. Ζήτησε βοήθεια για να μπορέσει να τα καταφέρει. Η καταδίκη του αφορά πράξεις που έγιναν σε δομές της \"Κιβωτού του Κόσμου”. Αυτό το γεγονός είναι σημαντικό, γιατί επηρεάζει πολλές ζωές ανθρώπων που έχουν σχέση με αυτές τις δομές.",
-        "sourceName": "News.gr, Protagon",
-        "sourceUrl": "https://www.news.gr/ellada/article/4080162/pateras-antonios-i-epivlithisa-pini-stroni-to-dromo-tou-martiriou-pou-epi-chronia-porevome.html",
-        "sourceDomains": [
-          "news.gr",
-          "protagon.gr"
-        ],
-        "sources": [
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4080162/pateras-antonios-i-epivlithisa-pini-stroni-to-dromo-tou-martiriou-pou-epi-chronia-porevome.html"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/adynatw-na-katavalw-to-poso-tis-poinis-mou-leei-o-patir-antwnios-44343315833"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την καταδίκη ενός ιερέα για κακοποιητικές πράξεις και την αδυναμία του να πληρώσει την ποινή του, θέματα που είναι σοβαρά και σχετίζονται με κοινωνικά ζητήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-19T15:25:56.000Z"
-      },
-      {
-        "id": "c2b147d67cd9",
-        "title": "Πατήρ Αντώνιος: Προδιαγεγραμμένη καταδίκη – Αδυνατώ να καταβάλω τα 60.000 ευρώ",
-        "simpleTitle": "Πατήρ Αντώνιος: Δεν μπορώ να πληρώσω τα 60.000 ευρώ",
-        "simpleText": "Ο πατήρ Αντώνιος, ιδρυτής της «Κιβωτού του Κόσμου», δήλωσε ότι δεν μπορεί να πληρώσει τις 60.000 ευρώ που του ζήτησε το Εφετείο. Αυτή η απόφαση είναι αποτέλεσμα καταδίκης 9,5 ετών. Μετά την ανακοίνωση της ποινής του, είπε ότι η απόφαση ήταν αναμενόμενη. Ζήτησε βοήθεια από τον κόσμο για να μπορέσει να καλύψει το ποσό που του επιβλήθηκε. Η κατάσταση αυτή τον επηρεάζει πολύ και ανησυχεί για το μέλλον του. Δεν ξέρουμε ακόμα τι θα γίνει στην επόμενη φάση.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564086443/patir-antonios-gia-tin-katadikastiki-apofasi-adynato-na-katavallo-to-poso/",
+        "id": "5ec3d594acda",
+        "title": "Ο ΟΗΕ ιδρύει επιτροπή για τον «έλεγχο» της ΤΝ από «τον άνθρωπο»",
+        "simpleTitle": "Ο ΟΗΕ δημιουργεί επιτροπή για την τεχνητή νοημοσύνη",
+        "simpleText": "Ο Οργανισμός Ηνωμένων Εθνών φτιάχνει μια νέα επιτροπή για την τεχνητή νοημοσύνη. Η επιτροπή θα έχει 40 επιστήμονες που θα βοηθήσουν να γίνει η τεχνολογία αυτή πιο ασφαλής για τους ανθρώπους. Ο Γενικός Γραμματέας του ΟΗΕ, Αντόνιο Γκουτέρες, δήλωσε ότι είναι σημαντικό οι άνθρωποι να έχουν τον έλεγχο και ότι πρέπει να χρησιμοποιούμε στοιχεία και αληθινά δεδομένα για να παίρνουμε αποφάσεις.\n\nΗ επιτροπή αυτή μπορεί να βοηθήσει χώρες σε όλο τον κόσμο να κατανοήσουν καλύτερα την τεχνητή νοημοσύνη. Οι επιστήμονες θα μελετήσουν πώς μπορεί να επηρεάσει τις οικονομίες και τις κοινωνίες μας. Αυτό είναι σημαντικό γιατί η τεχνολογία αναπτύσσεται πολύ γρήγορα και όλοι πρέπει να είναι ασφαλείς.",
+        "sourceName": "Kathimerini, TA NEA, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564087916/o-oie-idryei-epitropi-gia-ton-elegcho-tis-tn-apo-ton-anthropo/",
         "sourceDomains": [
           "kathimerini.gr",
+          "tanea.gr",
           "tovima.gr"
         ],
         "sources": [
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564086443/patir-antonios-gia-tin-katadikastiki-apofasi-adynato-na-katavallo-to-poso/"
+            "url": "https://www.kathimerini.gr/world/564087916/o-oie-idryei-epitropi-gia-ton-elegcho-tis-tn-apo-ton-anthropo/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/20/world/gkoyteres-o-oie-idryei-epitropi-gia-ton-elegxo-tis-ai-apo-ton-anthropo/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/19/society/ti-dilose-o-patir-antonios-meta-tin-katadiki-tou-zita-voitheia-gia-ta-60-000-eyro/"
+            "url": "https://www.tovima.gr/2026/02/20/texnologia/o-oie-idryei-epitropi-gia-ton-elegxo-tis-texnitis-noimosynis-apo-ton-anthropo/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές νομικές και ηθικές παραμέτρους σχετικά με την καταδίκη ενός δημόσιου προσώπου, καθώς και την οικονομική του κατάσταση, κάτι που είναι σημαντικό θέμα για την κοινωνία.",
+        "categoryReason": "Η είδηση αφορά τη δημιουργία επιτροπής από τον ΟΗΕ για την επίβλεψη της τεχνητής νοημοσύνης, θίγοντας ζητήματα που σχετίζονται με ασφάλεια, επιστήμη και πολιτική, και συνδέεται με σοβαρά κοινωνικά θέματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-19T14:57:00.000Z"
+        "publishedAt": "2026-02-20T07:13:04.000Z"
       },
       {
-        "id": "1c07021d848a",
-        "title": "Τραμπ από το Συμβούλιο Ειρήνης: «Πιθανή μία συμφωνία με το Ιράν τις επόμενες δέκα ημέρες»",
-        "simpleTitle": "Τραμπ μιλά για συμφωνία με το Ιράν σε 10 μέρες",
-        "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, μίλησε στην Ουάσιγκτον στο «Συμβούλιο Ειρήνης». Αυτό το συμβούλιο ξεκίνησε τις εργασίες του για να βοηθήσει στη σταθερότητα σε διάφορες περιοχές του κόσμου. Στην ομιλία του, ο Τραμπ ανέφερε ότι γίνονται «καλές» συνομιλίες με το Ιράν. Είπε ότι πρέπει να υπάρξει συμφωνία σε περίπου 10 ημέρες. Αν δεν γίνει αυτό, τα πράγματα μπορεί να χειροτερέψουν. Τόνισε ότι οι Ηνωμένες Πολιτείες δεν επιθυμούν να αποκτήσει το Ιράν πυρηνικά όπλα, γιατί κάτι τέτοιο θα επηρέαζε την ειρήνη στην περιοχή. Έκανε ξεκάθαρο ότι χρειάζεται συνεργασία για να αποφευχθούν άσχημες καταστάσεις.",
+        "id": "150214fef5f0",
+        "title": "Στις 13:00, στη Μητρόπολη Αθηνών, η κηδεία της Ελένης Γλύκατζη Αρβελέρ – Σε λαϊκό προσκύνημα νωρίτερα η σορός της",
+        "simpleTitle": "Κηδεία της Ελένης Γλύκατζη Αρβελέρ στη Μητρόπολη Αθηνών",
+        "simpleText": "Σήμερα, Παρασκευή, στις 13:00, θα γίνει η κηδεία της Ελένης Γλύκατζη Αρβελέρ στη Μητρόπολη Αθηνών. Η γνωστή βυζαντινολόγος έφυγε από τη ζωή σε ηλικία 99 ετών. Νωρίτερα, η σορός της θα εκτεθεί σε λαϊκό προσκύνημα, ώστε όλοι όσοι τη θαύμαζαν να της αποχαιρετήσουν. Η κηδεία διοργανώνεται με δημόσια δαπάνη, μετά από απόφαση του κράτους.\n\nΑυτό το γεγονός είναι σημαντικό, γιατί η Ελένη Αρβελέρ υπήρξε μια σπουδαία προσωπικότητα για την Ελλάδα και τη βυζαντινή ιστορία. Η παρουσία πολλών πολιτών και εκπροσώπων σε αυτή την τελετή δείχνει την εκτίμηση που είχαν για το έργο της.",
+        "sourceName": "ERT News, Kathimerini, TA NEA, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/stis-13-00-sti-mitropoli-athinon-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-noritera-i-soros-tis/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/stis-13-00-sti-mitropoli-athinon-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-noritera-i-soros-tis/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564087895/simera-i-kideia-tis-elenis-glykatzi-arveler-se-laiko-proskynima-i-soros-tis/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/20/greece/eleni-glykatzi-arveler-to-teleytaio-antio-simera-sti-mitropoli-athinon-se-laiko-proskynima/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/20/society/eleni-glykatzi-arveler-sti-mitropoli-i-soros-tis-stis-1300-i-nekrosimos-akolouthia/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Αφορά τον θάνατο και την κηδεία μιας σημαντικής προσωπικότητας της ελληνικής ιστορίας, με έμφαση στο έργο της και την επίδραση που είχε στην κοινωνία.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260220-DT9-ARVELER.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260220-DT9-ARVELER.jpg",
+        "publishedAt": "2026-02-20T06:45:31.000Z"
+      },
+      {
+        "id": "3f7870834e52",
+        "title": "Θανατηφόρο τροχαίο στην Πατησίων: Νεκρή 74χρονη που παρασύρθηκε από μηχανή",
+        "simpleTitle": "Θάνατος 74χρονης από τροχαίο στην Πατησίων",
+        "simpleText": "Στην Πατησίων, στο κέντρο της Αθήνας, μια 74χρονη γυναίκα χτυπήθηκε από μηχανή αργά το βράδυ της Πέμπτης. Το ατύχημα έγινε λίγο μετά τα μεσάνυχτα, ενώ η γυναίκα προσπαθούσε να περάσει τον δρόμο χωρίς να χρησιμοποιήσει τη διάβαση πεζών. Η σύγκρουση ήταν πολύ σφοδρή και η γυναίκα μεταφέρθηκε στο νοσοκομείο Ευαγγελισμός, όπου δυστυχώς δεν τα κατάφερε. Ο οδηγός της μηχανής συνελήφθη από την αστυνομία, η οποία ερευνά τι ακριβώς συνέβη. Αυτό το περιστατικό είναι σημαντικό γιατί θυμίζει πόσο προσεκτικοί πρέπει να είμαστε στο δρόμο.",
+        "sourceName": "ERT News, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/thanatiforo-troxaio-stin-patision-nekri-74xroni-pou-parasyrthike-apo-mixani/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/ellada/thanatiforo-troxaio-stin-patision-nekri-74xroni-pou-parasyrthike-apo-mixani/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/20/society/thanatiforo-troxaio-sto-kentro-tis-athinas-mixani-paresyre-74xroni/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Το περιστατικό αφορά ένα θανατηφόρο τροχαίο ατύχημα που έχει σοβαρές συνέπειες και επηρεάζει την δημόσια ασφάλεια και την οδική συμπεριφορά.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g397fca36a6ed9ce0d29742f3b271cff04b9da24409f904834c953970e54185ef86b5c590c54b9f85986c20bc3c7de9a01dcf66fd796532b24bb5df332568dfee_1280.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260220-sundeseis-STAMOU-TROXAIO.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260220-sundeseis-STAMOU-TROXAIO.jpg",
+        "publishedAt": "2026-02-20T06:32:49.000Z"
+      },
+      {
+        "id": "d4103e3f2a98",
+        "title": "Ο Τραμπ «άκουσε» τον Ομάμπα για τους εξωγήινους και διατάσσει τη δημοσιοποίηση των «αρχείων» για τα ΑΤΙΑ",
+        "simpleTitle": "Ο Τραμπ θέλει να δημοσιευτούν τα αρχεία για εξωγήινους",
+        "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, είπε ότι θα ζητήσει από τις κυβερνητικές υπηρεσίες να βρουν και να δημοσιεύσουν έγγραφα που αφορούν τους εξωγήινους και τα αγνώστου ταυτότητας ιπτάμενα αντικείμενα. Αυτή η απόφαση έρχεται μετά από χρόνια που οι Αμερικανοί ρωτούν για το θέμα αυτό. Ο Τραμπ επικρίθηκε και για τα σχόλια του Μπαράκ Ομπάμα σχετικά με τους εξωγήινους, όταν ο πρώην πρόεδρος ανέφερε ότι υπάρχουν, αλλά δεν τους έχει δει.\n\nΗ ανακοίνωση έγινε μέσω των κοινωνικών δικτύων και δείχνει πόσο ενδιαφέρον υπάρχει για τους εξωγήινους. Δεν γνωρίζουμε ακόμα πότε θα δημοσιευτούν τα έγγραφα, αλλά αυτή η κίνηση μπορεί να αλλάξει την οπτική του κόσμου για το θέμα. Είναι σημαντικό να προσέχουμε πληροφορίες που μπορεί να αφορούν την ασφάλειά μας.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/20/world/o-tramp-akouse-ton-omampa-gia-tous-eksogiinous-kai-diatassei-ti-dimosiopoiisi-ton-arxeion-gia-ta-atia/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/20/world/o-tramp-akouse-ton-omampa-gia-tous-eksogiinous-kai-diatassei-ti-dimosiopoiisi-ton-arxeion-gia-ta-atia/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4080427/o-trab-tha-diataxi-ti-dimosiopiisi-ton-archion-tis-kivernisis-gia-ta-atia-ke-tous-exogiinous.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την απόφαση του Ντόναλντ Τραμπ να διατάξει τη δημοσιοποίηση κυβερνητικών αρχείων σχετικά με τους εξωγήινους και τα ΑΤΙΑ, κάτι που συνδέεται με σοβαρές πολιτικές και κοινωνικές ανησυχίες σχετικά με διαφάνεια και κυβέρνηση.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": "https://truthsocial.com/@realDonaldTrump/116100300268316472/embed",
+        "publishedAt": "2026-02-20T06:14:06.000Z"
+      },
+      {
+        "id": "0801608e2abf",
+        "title": "Πέθανε στα 53 του ο ηθοποιός Eric Dane, μετά από μάχη με τη νόσο ALS",
+        "simpleTitle": "Έφυγε από τη ζωή ο ηθοποιός Eric Dane στα 53 του",
+        "simpleText": "Ο Eric Dane, γνωστός από τη σειρά \"Grey’s Anatomy\", πέθανε στα 53 του χρόνια. Έφυγε από τη ζωή στις 19 Φεβρουαρίου 2026, μετά από μια δύσκολη μάχη με την ασθένεια ALS, που επηρεάζει τα νευρικά κύτταρα. Η οικογένειά του ανακοίνωσε τον θάνατό του και είπε ότι τις τελευταίες του ημέρες τις πέρασε με φίλους και την οικογένειά του. Ο Eric έγινε γνωστός για το ρόλο του ως γιατρός στην τηλεοπτική σειρά και είχε διαγνωστεί με την ασθένεια πριν από περίπου δέκα μήνες. Η νόσος αυτή δεν έχει θεραπεία, ενώ οι αγαπημένοι του άνθρωποι ζητούν ιδιωτικότητα σε αυτή τη δύσκολη στιγμή.",
         "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/19/world/live-i-omilia-tramp-stin-synedriasi-tou-symvouliou-eirinis/",
+        "sourceUrl": "https://www.tanea.gr/2026/02/20/world/pethane-sta-53-toy-o-ithopoios-eric-dane-meta-apo-maxi-me-ti-noso-als/",
         "sourceDomains": [
           "tanea.gr",
           "tovima.gr"
@@ -757,147 +683,152 @@
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/19/world/live-i-omilia-tramp-stin-synedriasi-tou-symvouliou-eirinis/"
+            "url": "https://www.tanea.gr/2026/02/20/world/pethane-sta-53-toy-o-ithopoios-eric-dane-meta-apo-maxi-me-ti-noso-als/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/19/world/symvoulio-eirinis-prothesmia-10-imeron-tramp-se-iran-symfonia-i-asxima-ta-pragmata/"
+            "url": "https://www.tovima.gr/2026/02/20/world/eric-dane-pethane-sta-53-tou-o-dimofilis-ithopoios/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την πολιτική κατάσταση και τις διαπραγματεύσεις μεταξύ ΗΠΑ και Ιράν, που σχετίζονται με ζητήματα διεθνούς ασφάλειας και ειρήνης.",
+        "categoryReason": "Η είδηση αφορά τον θάνατο του ηθοποιού Eric Dane και την μάχη του με την ασθένεια ALS, που είναι ένα σοβαρό θέμα υγείας.",
         "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.youtube.com/embed/B0RgHrztjzg?list=TLGGT4Hic4tCwdMxOTAyMjAyNg",
-        "publishedAt": "2026-02-19T14:48:01.000Z"
+        "imageUrl": "https://pixabay.com/get/gcbba2c23b821af712a3f9793e2032a8acee42d06059db242455cc6baa9c09fdbafd9f52615f0389e2ce3a9e49c2374f7c89ec0df9e94f072d1e6a23d5ea20179_1280.jpg",
+        "videoUrl": "https://www.youtube.com/embed/0NK-QK9x_CM",
+        "publishedAt": "2026-02-20T05:39:21.000Z"
       }
     ],
     "happy": [
       {
-        "id": "cbf8f148629e",
-        "title": "Τέλος στην ταλαιπωρία για τα φάρμακα υψηλού κόστους με δωρεάν διάθεση από τα φαρμακεία της γειτονιάς",
-        "simpleTitle": "Δωρεάν φάρμακα από τα φαρμακεία της γειτονιάς",
-        "simpleText": "Από σήμερα, 16 Φεβρουαρίου, οι ασθενείς με σοβαρές παθήσεις στην Ελλάδα μπορούν να αποκτούν δωρεάν τα φάρμακα υψηλού κόστους από τα φαρμακεία της γειτονιάς τους. Αυτή η νέα αλλαγή φέρνει ανακούφιση στους ανθρώπους που ταλαιπωρούνται με μεγάλες αναμονές στα δημόσια φαρμακεία. Έτσι, οι ασθενείς μπορούν να επιλέγουν το φαρμακείο που θέλουν και να λαμβάνουν βοήθεια από τους φαρμακοποιούς. Αυτή η πρωτοβουλία είναι σημαντική γιατί προστατεύει την αξιοπρέπεια των ασθενών. Δεν έχουν ανακοινωθεί περαιτέρω λεπτομέρειες για το πρόγραμμα.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32064-dorean-diathesi-farmakon-ypsilou-kostous-apo-idiotika-farmakeia/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32064-dorean-diathesi-farmakon-ypsilou-kostous-apo-idiotika-farmakeia/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε μια θετική αλλαγή που βελτιώνει την πρόσβαση σε φάρμακα για ασθενείς, προσφέροντας τους αξιοπρέπεια και άμεση βοήθεια, γεγονός που δημιουργεί ευχάριστα συναισθήματα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-16T06:46:30.000Z"
-      },
-      {
-        "id": "d14949892682",
-        "title": "Ελληνικός τελικός Eurovision 2026: μια μεγάλη γιορτή για τη μουσική και τη δημιουργικότητα",
-        "simpleTitle": "Ελληνικός τελικός Eurovision 2026: Μια γιορτή για τη μουσική",
-        "simpleText": "Απόψε στην Ελλάδα θα γίνει ο τελικός της Eurovision 2026. Στη σκηνή θα εμφανιστούν 14 καλλιτέχνες. Όλοι τους θα προσπαθήσουν να κερδίσουν για να εκπροσωπήσουν τη χώρα μας. Αυτή η βραδιά θα έχει πολλή λάμψη και θετική ενέργεια. Είναι μια ευκαιρία να δείξουμε τη σύγχρονη ελληνική μουσική. Είναι σημαντικό να συμμετέχουμε σε αυτή τη γιορτή, γιατί φέρνει τους ανθρώπους κοντά. Ας ελπίσουμε να απολαύσουμε όλοι ένα υπέροχο θέαμα!",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται στον τελικό της Eurovision 2026 στην Ελλάδα, που είναι μια γιορτή για τη μουσική και τη δημιουργικότητα, γεμάτη θετική ενέργεια και ενότητα, κάτι που φτιάχνει τη διάθεση.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g7368f4b51b84045cfbe3620e80d56a2175e3c361f89c78c271baf8de1655d3da79670f37a192dcae8d99ef6db536699ab2305f23ae90d0ac2af801a69229e789_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-15T13:22:41.000Z"
-      },
-      {
-        "id": "6dac026a9e96",
-        "title": "Ο πρώτος Έλληνας αστροναύτης: Ο Δρ. Αδριανός Γολέμης ξεκινά την εκπαίδευσή του",
-        "simpleTitle": "Ο Δρ. Αδριανός Γολέμης αρχίζει εκπαίδευση ως αστροναύτης",
-        "simpleText": "Η Ελλάδα έχει έναν νέο αστροναύτη. Ο Δρ. Αδριανός Γολέμης είναι ο πρώτος Έλληνας που θα εκπαιδευτεί από τον Ευρωπαϊκό Οργανισμό Διαστήματος. Η εκπαίδευση αυτή είναι πολύ σημαντική και δείχνει ότι η χώρα μας κάνει βήματα στον τομέα του διαστήματος. Ο Γολέμης πέρασε δύσκολες εξετάσεις για να συμμετάσχει σε αυτό το πρόγραμμα. Οι εξελίξεις αυτές δείχνουν ότι οι Έλληνες μπορούν να συμμετέχουν σε διεθνείς αποστολές και να εξερευνήσουν το διάστημα. Δεν έχει ανακοινωθεί πότε θα αρχίσει η εκπαίδευση.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/",
-        "sourceDomains": [
-          "thehappynews.gr"
-        ],
-        "sources": [
-          {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32041-adrianos-golemis-ellinas-astronaytis-ekpaidefsi-esa/"
-          }
-        ],
-        "category": "happy",
-        "categoryReason": "Η είδηση για τον Δρ. Αδριανό Γολέμη, τον πρώτο Έλληνα αστροναύτη, είναι θετική και ενθουσιώδης, τονίζοντας πρόοδο και επιτυχία για την Ελλάδα στον τομέα του διαστήματος.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-15T11:01:49.000Z"
-      }
-    ],
-    "sports": [
-      {
-        "id": "62af6daada85",
-        "title": "Live streaming: Δείτε τον ημιτελικό αγώνα μπάσκετ Μαρούσι-Ολυμπιακός για το final-8 του Κυπέλλου Ελλάδος (17:00, ΕΡΤ2 ΣΠΟΡ)",
-        "simpleTitle": "Μαρούσι - Ολυμπιακός: Ο ημιτελικός αγώνας μπάσκετ",
-        "simpleText": "Σήμερα στις 17:00 θα γίνει ο ημιτελικός αγώνας μπάσκετ ανάμεσα στο Μαρούσι και τον Ολυμπιακό. Ο αγώνας είναι μέρος του final-8 του Κυπέλλου Ελλάδος και διεξάγεται στα Δύο Αοράκια στο Ηράκλειο. Μπορείτε να παρακολουθήσετε τον αγώνα ζωντανά μέσω της ΕΡΤ2 ΣΠΟΡ και διαδικτυακά από το ERTFLIX. Είναι μια σημαντική στιγμή για τις ομάδες και για τους φιλάθλους, καθώς όλοι περιμένουν να δουν ποιος θα προκριθεί στον τελικό.",
-        "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-agona-mpasket-marousi-olympiakos-gia-to-final-8-tou-kypellou-ellados-17-00-ert2-spor/",
-        "sourceDomains": [
-          "ertnews.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-imiteliko-agona-mpasket-marousi-olympiakos-gia-to-final-8-tou-kypellou-ellados-17-00-ert2-spor/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν ημιτελικό αγώνα μπάσκετ ανάμεσα σε δύο ομάδες, επομένως εντάσσεται στη κατηγορία των αθλητικών γεγονότων. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&amp;autostart=true",
-        "publishedAt": "2026-02-19T14:45:00.000Z"
-      },
-      {
-        "id": "bdbde10f17a3",
-        "title": "Αντίνο: «Τίτλους με τον Παναθηναϊκό»",
-        "simpleTitle": "Αντίνο: «Στόχος οι τίτλοι με τον Παναθηναϊκό»",
-        "simpleText": "Ο Σαντίνο Αντίνο είναι νέος παίκτης του Παναθηναϊκού. Μίλησε για την προσαρμογή του στην ομάδα και την ανυπομονησία του να παίξει στην Ευρώπη. Το πρώτο του παιχνίδι θα είναι κόντρα στη Βικτόρια Πλζεν. Είναι πολύ σημαντικός αγώνας και θέλει η ομάδα να κερδίσει. Ο Αντίνο καταλαβαίνει την απογοήτευση των φιλάθλων και υπόσχεται ότι θα προσπαθήσει σκληρά για να μπορέσει ο Παναθηναϊκός να επιστρέψει στις νίκες. Αισθάνεται πολύ καλά στην ομάδα και ελπίζει να φέρουν χαρά στους φιλάθλους με νίκες.",
+        "id": "7eadaa6b97c7",
+        "title": "«Όταν συνάντησα την Αρβελέρ…» – Οι αναμνήσεις μιας μαθήτριας",
+        "simpleTitle": "Η συνάντηση με την Αρβελέρ",
+        "simpleText": "Τον Ιανουάριο του 2019, μια μαθήτρια, η Μαρία Κοκάλα, συναντήθηκε με την Ελένη Γλύκατζη – Αρβελέρ στο Ευρωπαϊκό Πολιτιστικό Κέντρο Δελφών. Αυτή η συνάντηση ήταν πολύ σημαντική για την Μαρία, καθώς ένιωσε πως μπορούσε να μιλήσει ελεύθερα με την σπουδαία ακαδημαϊκό. Η Αρβελέρ της έδωσε μια σημαντική συμβουλή: «Να έχεις τα πόδια σου στη γη και τα μάτια σου στον ουρανό». Αυτά τα λόγια, όπως λέει η Μαρία, τη βοηθούν ακόμα και σήμερα.\n\nΗ Μαρία εντυπωσιάστηκε πολύ από την προσωπικότητα της Αρβελέρ. Επίσης, τη θαύμασε για την ταπεινότητά της, παρόλο που είχε επιτύχει πολλά. Η συνάντηση αυτή άλλαξε τη σκέψη της σχετικά με τις δυσκολίες στη ζωή. Σήμερα, η Μαρία θεωρεί φυσικό να βλέπει γυναίκες σε ηγετικές θέσεις και αισθάνεται έτοιμη να πετύχει τους στόχους της.",
         "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/19/sports/antino-titlous-me-ton-panathinaiko/",
+        "sourceUrl": "https://www.tanea.gr/2026/02/20/greece/education/otan-synantisa-tin-arveler-oi-anamniseis-mias-mathitrias-apo-ti-synantisi-tis-me-ti-diakek/",
         "sourceDomains": [
           "tanea.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/19/sports/antino-titlous-me-ton-panathinaiko/"
+            "url": "https://www.tanea.gr/2026/02/20/greece/education/otan-synantisa-tin-arveler-oi-anamniseis-mias-mathitrias-apo-ti-synantisi-tis-me-ti-diakek/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η ιστορία της Μαρίας Κοκάλα επικεντρώνεται σε μια θετική και εμπνευσμένη συνάντηση με μια σπουδαία προσωπικότητα, που επηρεάζει θετικά τη ζωή της. Αναδεικνύει την αυτοπεποίθηση και τα όνειρα της νέας γενιάς. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-20T07:32:59.000Z"
+      },
+      {
+        "id": "41d881cc2920",
+        "title": "Η Σίφνος αποτελεί την πρώτη επιλογή των Αυστραλών για το 2026",
+        "simpleTitle": "Η Σίφνος είναι πρώτη επιλογή για τους Αυστραλούς το 2026",
+        "simpleText": "Η Σίφνος είναι ένα όμορφο νησί στις Κυκλάδες. Οι Αυστραλοί την έχουν επιλέξει ως τον πιο αγαπημένο προορισμό για το 2026. Αυτό είναι πολύ καλό νέο για το νησί, γιατί μπορεί να φέρει περισσότερους επισκέπτες. Οι άνθρωποι που θα ταξιδέψουν εκεί μπορούν να απολαύσουν τη φύση και τον πολιτισμό του. Είναι σημαντικό για τη Σίφνο, γιατί θα είναι πιο γνωστή σε όλο τον κόσμο. Δεν ξέρουμε ακόμα πώς θα ετοιμαστούν οι τοπικές αρχές για την υποδοχή των επισκεπτών.",
+        "sourceName": "News.gr",
+        "sourceUrl": "https://www.news.gr/travel/article/4080549/i-sifnos-apoteli-tin-proti-epilogi-ton-afstralon-gia-to-2026.html",
+        "sourceDomains": [
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/travel/article/4080549/i-sifnos-apoteli-tin-proti-epilogi-ton-afstralon-gia-to-2026.html"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η επιλογή της Σίφνου ως πρώτου προορισμού για Αυστραλούς το 2026 είναι θετική είδηση που προάγει τον τουρισμό και τον πολιτισμό του νησιού. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-20T06:58:40.000Z"
+      }
+    ],
+    "sports": [
+      {
+        "id": "ab88492dacb3",
+        "title": "Με buzzer beater η Τσέλιε νίκησε τη Ντρίτα και βλέπει… ΑΕΚ (2-3) Τριάρα για την Φιορεντίνα στην Πολωνία (0-3)",
+        "simpleTitle": "Η Τσέλιε νίκησε τη Ντρίτα με γκολ στο τέλος",
+        "simpleText": "Η ομάδα της Τσέλιε κέρδισε τη Ντρίτα με σκορ 3-2 σε έναν αγώνα που έγινε πρόσφατα. Το γκολ που έκρινε το παιχνίδι μπήκε στο τελευταίο λεπτό από τον Ποπλάντικ. Αυτή η νίκη φέρνει την Τσέλιε πιο κοντά στην ΑΕΚ, εφόσον περάσει στον επόμενο γύρο. Η Ντρίτα αντέδρασε και μείωσε το σκορ, αλλά δεν πρόλαβε να γυρίσει το παιχνίδι. Ταυτόχρονα, η Φιορεντίνα νίκησε με 3-0 την Γιαγκελόνια. Αυτό το αποτέλεσμα δίνει πλεονέκτημα στην Φιορεντίνα για την πρόκριση. Δεν έχουν ανακοινωθεί περισσότερες πληροφορίες για τους επόμενους αγώνες.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/20/sports/football/me-buzzer-beater-i-tselie-nikise-ti-ntrita-kai-vlepei-aek-2-3-triara-gia-tin-fiorentina-stin-polonia-0-3/",
+        "sourceDomains": [
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/20/sports/football/me-buzzer-beater-i-tselie-nikise-ti-ntrita-kai-vlepei-aek-2-3-triara-gia-tin-fiorentina-stin-polonia-0-3/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τη μεταγραφή και προετοιμασία του Σαντίνο Αντίνο στον Παναθηναϊκό, με έμφαση στο επερχόμενο αγώνα και τις προσδοκίες για νίκες, που συνδέονται άμεσα με τον αθλητισμό. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά έναν ποδοσφαιρικό αγώνα, τη νίκη της Τσέλιε κατά της Ντρίτα και τις επιδόσεις της Φιορεντίνας, γεγονότα που συνδέονται άμεσα με τον αθλητισμό. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gc1ea379b04368cdb5dc34afb30867bbf7d613a3032abcfb0bc08cbaa3157356638989dd2ad31791d16cc6d24fd46b184e7eaf2e0390031f2db6edff4af5ee16c_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-19T14:18:28.000Z"
+        "publishedAt": "2026-02-19T22:03:47.000Z"
+      },
+      {
+        "id": "0529793b5edd",
+        "title": "Εμμανουήλ Καραλής: «Πέταξε» στα 6 μέτρα στο Λιεβέν",
+        "simpleTitle": "Εμμανουήλ Καραλής πέτυχε άλμα 6 μέτρων",
+        "simpleText": "Ο Εμμανουήλ Καραλής είναι 26 ετών και είναι αθλητής του επι κοντώ. Πρόσφατα, έγινε ο πρώτος αθλητής το 2026 που κατάφερε να πηδήξει 6 μέτρα σε μίτινγκ στο Λιεβέν. Αυτή η επίδοση είναι η καλύτερη παγκοσμίως για φέτος. Το επί κοντώ είναι άθλημα όπου οι αθλητές πηδούν πάνω από μια μπάρα με τη βοήθεια μιας ράβδου. Είναι σημαντική αυτή η επιτυχία γιατί δείχνει τη σκληρή δουλειά του και ανεβάζει την Ελλάδα στον αθλητισμό. Χάρη σε αυτόν, έχουμε έναν ακόμη λόγο να είμαστε περήφανοι.",
+        "sourceName": "TO BHMA, Protagon",
+        "sourceUrl": "https://www.tovima.gr/2026/02/19/sports/emmanouil-karalis-petakse-sta-6-metra-sto-lieven/",
+        "sourceDomains": [
+          "tovima.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/19/sports/emmanouil-karalis-petakse-sta-6-metra-sto-lieven/"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/katapliktikos-o-emmanouil-karalis-petakse-sta-6-m-video-44343316046"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αναφέρεται σε αθλητική επίδοση του Εμμανουήλ Καραλή στο επι κοντώ, ενθουσιάζοντας το κοινό με την κορυφαία διεθνή του επιτυχία.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-19T21:15:41.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
+        "id": "5fcb2e05ddd9",
+        "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
+        "simpleTitle": "Έργα ζωγραφικής στο Μουσείο Μπενάκη",
+        "simpleText": "Στο Μουσείο Μπενάκη Ελληνικού Πολιτισμού, γίνονται σημαντικές εκδηλώσεις. Εκεί, δύο διάσημα έργα από τον 19ο αιώνα εκτίθενται για τους επισκέπτες. Αυτά είναι η «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και η «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Τα έργα αυτά μας βοηθούν να γνωρίσουμε καλύτερα την ελληνική ιστορία και τέχνη. Είναι καλό να βλέπουμε τέτοια έργα γιατί μας φέρνουν κοντά στον πολιτισμό μας. Όσοι θέλουν να τα δουν, ας επισκεφτούν το μουσείο σύντομα.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά την έκθεση εμβληματικών έργων ελληνικής ζωγραφικής στο Μουσείο Μπενάκη, γεγονός που σχετίζεται άμεσα με τον πολιτισμό και την τέχνη.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-20T07:19:00.000Z"
+      },
+      {
         "id": "5bff79bb47ab",
         "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
         "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος",
-        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια μεγάλη ζωγράφος από το Βέλγιο. Το 1548 ζωγράφισε τον εαυτό της τη στιγμή που όργωνε. Είναι η πρώτη γυναίκα καλλιτέχνης που γνωρίζουμε στην ιστορία που το έκανε αυτό. Με το έργο της, η Καταρίνα ήθελε να δείξει ότι οι γυναίκες μπορούν επίσης να δημιουργούν τέχνη. Υπέγραψε τη ζωγραφιά της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου», κάτι πολύ σημαντικό για την εποχή της. Αυτή η κίνηση έδειξε τη δύναμη και τη θέση των γυναικών στην τέχνη.",
+        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σπουδαία ζωγράφος από τη Φλάνδρα. Το 1548 δημιούργησε μια αυτοπροσωπογραφία, που δείχνει τη δύναμη των γυναικών στην τέχνη. Είναι η πρώτη γυναίκα που ζωγράφισε τον εαυτό της στην εργασία, με το πινέλο στο χέρι. Αυτή η κίνηση ήταν πολύ σημαντική γιατί έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνιδες. Υπέγραψε το έργο της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτό ήταν ένα δυνατό μήνυμα για τη θέση των γυναικών στην κοινωνία της εποχής.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
         "sourceDomains": [
@@ -910,11 +841,34 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η ιστορία της Καταρίνα βαν Χέμεσεν αναδεικνύει τη σημασία της γυναικείας δημιουργίας στην τέχνη και την πολιτισμική κληρονομιά της εποχής της, κάνοντάς την ιδανική για την κατηγορία πολιτισμού.",
+        "categoryReason": "Η είδηση προβάλλει την καλλιτεχνική και κοινωνική σημασία της πρωτοπόρου ζωγράφου Καταρίνα βαν Χέμεσεν, εστιάζοντας στην τέχνη και τη θέση των γυναικών στο καλλιτεχνικό πεδίο.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-19T06:24:00.000Z"
+      },
+      {
+        "id": "d14949892682",
+        "title": "Ελληνικός τελικός Eurovision 2026: μια μεγάλη γιορτή για τη μουσική και τη δημιουργικότητα",
+        "simpleTitle": "Τελικός Eurovision 2026 στην Ελλάδα",
+        "simpleText": "Απόψε, η Ελλάδα φιλοξενεί τον μεγάλο τελικό για τη Eurovision 2026. Στη σκηνή θα ανέβουν 14 καλλιτέχνες. Αυτοί θα δείξουν τη δημιουργικότητα και το ταλέντο τους μέσα από ωραίες μουσικές. Ο τελικός θα είναι μια γιορτή γεμάτη λάμψη και θετική ενέργεια. Ο σκοπός είναι να βρούμε ποιος θα εκπροσωπήσει την Ελλάδα στον διεθνή διαγωνισμό. Είναι πολύ σημαντική αυτή η βραδιά για τη μουσική μας σκηνή και ενώνει τον κόσμο. Δεν ξέρουμε ακόμα ποιος θα κερδίσει, αλλά όλοι περιμένουν με ανυπομονησία.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/",
+        "sourceDomains": [
+          "thehappynews.gr"
+        ],
+        "sources": [
+          {
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/32052-ellinikos-telikos-eurovision-2026-i-giorti-tis-mousikis/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά τον ελληνικό τελικό της Eurovision, που είναι μια μουσική εκδήλωση και γιορτή της δημιουργικότητας, κατηγορία που ανήκει στην πολιτιστική σφαίρα.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g3d3733e5700f9bcc85bddbca07a1e8e7480e61699ba8649ea7415787ef1fa367d8da141f5077fb345846e7329a3c48ebc45eecaf8c1852a520cc9e1afabfcec5_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-15T13:22:41.000Z"
       }
     ],
     "fun": []
