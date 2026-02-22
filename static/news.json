@@ -1,336 +1,13 @@
 {
-  "generatedAt": "2026-02-22T07:53:38.533Z",
+  "generatedAt": "2026-02-22T15:51:42.292Z",
   "articles": [
     {
-      "id": "1a346c2548d5",
-      "title": "Νεκρή 45χρονη σε τροχαίο δυστύχημα στην Πάτρα",
-      "simpleTitle": "Θάνατος γυναίκας σε τροχαίο στην Πάτρα",
-      "simpleText": "Ένα σοβαρό τροχαίο ατύχημα συνέβη το πρωί της Κυριακής στην Πάτρα, γύρω στις 2:30. Δύο αυτοκίνητα συγκρούστηκαν με δύναμη στην Οβρυά, στη διασταύρωση Δημοκρατίας και Οδυσσέα Ανδρούτσου. Από τη σύγκρουση, το ένα αυτοκίνητο ανέβηκε στο πεζοδρόμιο και κατέστρεψε μία πινακίδα, πριν σταματήσει λίγα μέτρα πιο πέρα.\n\nΑμέσως ήρθαν αστυνομικοί και ασθενοφόρο. Μία 45χρονη γυναίκα, που ήταν επιβάτης σε ένα από τα αυτοκίνητα, βρέθηκε χωρίς τις αισθήσεις της. Η Τροχαία ερευνά το συμβάν για να καταλάβει τι έχει συμβεί. Υπήρξαν και άλλοι τραυματισμοί από το συμβάν.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/nekri-45xroni-se-troxaio-dystyxima-stin-patra/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/nekri-45xroni-se-troxaio-dystyxima-stin-patra/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/greece/tragodia-stin-patra-nekri-45xroni-se-troxaio-pos-synevi/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα που έχει θανάσιμες συνέπειες, γεγονός που την κατατάσσει στις σοβαρές ειδήσεις.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g587c3283c39e7ea9845960623eba275ea28e2483bcdded738f9e2de613f367d0f79e81301e05d9291c8d5d2babc178256692c80ca8be9b77481084b0b2c9e124_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T07:31:17.000Z"
-    },
-    {
-      "id": "2c191ed7858e",
-      "title": "Οι 10 γεωτρήσεις για υδρογονάνθρακες που θα γίνουν στην Ελλάδα μέχρι το 2032",
-      "simpleTitle": "Δέκα γεωτρήσεις για φυσικό αέριο στην Ελλάδα έως το 2032",
-      "simpleText": "Στην Ελλάδα, προγραμματίζονται δέκα ερευνητικές γεωτρήσεις για φυσικό αέριο από το 2027 μέχρι το 2032. Οι έρευνες θα γίνουν σε περιοχές όπως το Ιόνιο και νότια της Κρήτης. Μια από αυτές τις γεωτρήσεις θα ξεκινήσει το 2027, και συνολικά θα χρειαστεί περίπου 1 δισ. ευρώ για όλες τις γεωτρήσεις. Αν οι προκαταρκτικές έρευνες δείξουν ότι υπάρχουν κοιτάσματα, αυτό θα είναι σημαντικό για τη χώρα μας. Οι γεωτρήσεις μπορεί να παρέχουν ενέργεια και να ενισχύσουν την οικονομία. Οι σεισμικές έρευνες, που θα είναι οι πρώτες, θα ξεκινήσουν στο τέλος αυτού του χρόνου.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/oi-10-geotriseis-gia-ydrogonanthrakes-pou-tha-ginoun-stin-ellada-mexri-to-2032/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/roi-idiseon/oi-10-geotriseis-gia-ydrogonanthrakes-pou-tha-ginoun-stin-ellada-mexri-to-2032/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/economy/oi-deka-geotriseis-gia-ydrogonanthrakes-poy-tha-ginoyn-stin-ellada-tin-periodo-2027-2032/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά προγραμματισμένες γεωτρήσεις για υδρογονάνθρακες στην Ελλάδα, που έχουν σημαντικές οικονομικές και περιβαλλοντικές επιπτώσεις, καθιστώντας την σοβαρή και μείζονα πολιτική και οικονομική σημασία.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gf0dbccf160fa0480c22d890b260098f656e75c14551d5d01ca9a9738223800a10a3fe11b9e9e437eeb3ec30804890f9d2619a20db81503093394e977b9ff9549_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T07:17:48.000Z"
-    },
-    {
-      "id": "d05ae59aac4f",
-      "title": "Επίθεση λύκου στην Πάρνηθα: «Μου έσκισε τα ρούχα και με έγδαρε στη μέση», λέει περιπατητής",
-      "simpleTitle": "Επίθεση λύκου στην Πάρνηθα",
-      "simpleText": "Στην Πάρνηθα, ένας άνθρωπος δέχτηκε επίθεση από λύκο. Ο περιπατητής είπε ότι ο λύκος του έσκισε τα ρούχα και τον τραυμάτισε. Αυτό συνέβη πρόσφατα και οι αρχές ανησυχούν για την ασφάλεια των επισκεπτών. Ο δήμος Αχαρνών έχει βγάλει ανακοινώσεις και οδηγίες για το πώς να συμπεριφέρεστε αν δείτε λύκο. Είναι σημαντικό να είστε προσεκτικοί όταν περπατάτε στην περιοχή, για να αποφύγετε κινδύνους. Δεν έχουν δοθεί περισσότερες πληροφορίες για τα αίτια της επίθεσης.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564091558/epithesi-lykoy-stin-parnitha-moy-eskise-ta-roycha-kai-me-egdare-sti-mesi-leei-katoikos/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564091558/epithesi-lykoy-stin-parnitha-moy-eskise-ta-roycha-kai-me-egdare-sti-mesi-leei-katoikos/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/society/epithesi-lykou-stin-parnitha-mou-eskise-ta-rouxa-me-egdare/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η επίθεση λύκου σε περιπατητή εγείρει σοβαρά ζητήματα ασφάλειας και υγείας για τους πολίτες που επισκέπτονται την περιοχή, γεγονός που σχετίζεται με την πολιτική και τη διαχείριση των φυσικών πόρων.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gabbb9daa0dbd5308ee5b6de8be7c278648d04061462477d89e3dd322c6bcf3c0aa5434f7360b3b3bb8f17a3b92f463fff8d409d7d896d91218799e1e89c29b44_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T06:52:00.000Z"
-    },
-    {
-      "id": "4ba0cc61e7d0",
-      "title": "ΗΠΑ: Ο Τραμπ στέλνει πλωτό νοσοκομείο στη Γροιλανδία",
-      "simpleTitle": "Ο Τραμπ στέλνει πλωτό νοσοκομείο στη Γροιλανδία",
-      "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, ανακοίνωσε ότι θα στείλει ένα πλωτό νοσοκομείο στη Γροιλανδία. Αυτή η δήλωση έγινε το Σάββατο, όταν ο Τραμπ μίλησε για αυτό από τη πλατφόρμα Truth Social. Λέει ότι συνεργάζεται με τον κυβερνήτη της Λουιζιάνα, Τζεφ Λάντρι, για να βοηθήσουν τους ανθρώπους που έχουν ανάγκη ιατρικής βοήθειας εκεί.\n\nΟ σκοπός της αποστολής είναι να φροντίσουν ασθενείς που δεν έχουν την απαιτούμενη φροντίδα. Δεν υπάρχει ακόμα πληροφορία αν η Δανία ή η Γροιλανδία ζήτησε αυτή την βοήθεια. Είναι σημαντικό να παρέχεις βοήθεια σε ανθρώπους που υποφέρουν.",
-      "sourceName": "Kathimerini, TA NEA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564091522/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564091522/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/world/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Αυτή η είδηση ασχολείται με πολιτικά και ιατρικά ζητήματα, όπως η αποστολή βοήθειας σε ασθενείς και οι σχέσεις ΗΠΑ-Γροιλανδίας, που είναι σοβαρές και σχετίζονται με την υγεία και την πολιτική.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g8593a860d0e52ef87ce6aeb3392cb94eec002d6d994482fc87c2bb860e7cd0e44de69e2143118e21799b4f50448a1c059ae800ac5c4c8eb1817ff3b9f561400d_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T06:41:10.000Z"
-    },
-    {
-      "id": "6d5a53903986",
-      "title": "Πτολεμαΐδα: Σοβαρός τραυματισμός 17χρονου από κροτίδα – Κινδυνεύει με ακρωτηριασμό",
-      "simpleTitle": "Πτολεμαΐδα: Τραυματισμός 17χρονου από κροτίδα",
-      "simpleText": "Ένα σοβαρό ατύχημα με κροτίδα συνέβη το απόγευμα του Σαββάτου στην Πτολεμαΐδα. Ένας 17χρονος τραυματίστηκε σοβαρά στα χέρια του και τώρα κινδυνεύει να χάσει δύο ή τρία δάχτυλα. Το περιστατικό συνέβη στο πάρκο, όταν προσπάθησε να ενεργοποιήσει μια φωτοβολίδα και η κροτίδα εξερράγη ξαφνικά. Άμεσα ήρθε ασθενοφόρο και τον μετέφερε στο νοσοκομείο. Εκεί οι γιατροί προσπαθούν να ελέγξουν την αιμορραγία και να σώσουν τα δάχτυλά του. Οι αρχές ερευνούν το τι συνέβη και υπενθυμίζουν στους γονείς και στους νέους να προσέχουν με τις κροτίδες, γιατί μπορεί να είναι πολύ επικίνδυνες.",
-      "sourceName": "ERT News, TA NEA, TO BHMA",
-      "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/greece/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/society/ptolemaida-krotida-ekserragi-sta-xeria-17xronou-kindyneyei-me-akrotiriasmo/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό τραυματισμό ενός ανηλίκου από κροτίδα, με κίνδυνο ακρωτηριασμού, γεγονός που εμπεριέχει σοβαρούς κινδύνους και έχει κοινωνικές προεκτάσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T06:33:08.000Z"
-    },
-    {
-      "id": "beffcb06ebf2",
-      "title": "Μετρό – Γραμμή 2: Ποιοι σταθμοί θα κλείνουν νωρίτερα από τη Δευτέρα 23 Φεβρουαρίου",
-      "simpleTitle": "Κλείσιμο Σταθμών στο Μετρό Γραμμή 2",
-      "simpleText": "Από τη Δευτέρα, 23 Φεβρουαρίου, ορισμένοι σταθμοί στη Γραμμή 2 του Μετρό στην Αθήνα θα κλείνουν νωρίτερα. Οι σταθμοί Σύνταγμα, Ακρόπολη και Συγγρού Φιξ θα κλείνουν στις 21:40, δηλαδή δύομισή ώρες νωρίτερα από το κανονικό. Οι εργαζόμενοι θα κάνουν εργασίες για καλύτερη μετακίνηση και εγκατάσταση δικτύου 5G. Οι τελευταίοι συρμοί θα φεύγουν από διαφορετικούς σταθμούς στις 21:25 και 21:37. Για να βοηθηθούν οι επιβάτες, υπάρχει νέα λεωφορειακή γραμμή Χ15 που θα συνδέει Πανεπιστήμιο και Άγιο Ιωάννη τις νύχτες. Αν χρειαστείτε να μετακινηθείτε, ελέγξτε τις ώρες.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/metro-grammi-2-poioi-stathmoi-tha-kleinoun-noritera-apo-ti-deytera-23-fevrouariou/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/metro-grammi-2-poioi-stathmoi-tha-kleinoun-noritera-apo-ti-deytera-23-fevrouariou/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564091552/metro-grammi-2-poioi-stathmoi-tha-kleinoyn-noritera-apo-ayrio/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά κυριολεκτικά σημαντικά ζητήματα σχετικά με τις αλλαγές στη λειτουργία του Μετρό, οι οποίες επηρεάζουν τη δημόσια συγκοινωνία και την καθημερινότητα των πολιτών.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T06:22:39.000Z"
-    },
-    {
-      "id": "079ef6062eb8",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 22 Φεβρουαρίου",
-      "simpleTitle": "Ποιοι γιορτάζουν σήμερα, 22 Φεβρουαρίου",
-      "simpleText": "Σήμερα, 22 Φεβρουαρίου, γιορτάζουν κάποια ονόματα. Αυτά είναι: Θαλάσσιος, Θαλάσσης, Θάλασσα, Θαλασσινή, Θαλασσιά και Θαλασσία. Επίσης, γιορτάζουν και οι Όσιοι Θαλάσσιος και Λιμναίος. Αυτοί οι Όσιοι είναι γνωστοί από παλιά και έχουν σχέση με την Κύρο. Ο Όσιος Θαλάσσιος ζούσε σε ένα βουνό και προσευχόταν. Επίσης, πήγαινε στα χωριά γύρω και μιλούσε για το Θεό. Οι γιορτές είναι σημαντικές γιατί θυμίζουν τους ανθρώπους που έχουν παλέψει για πίστη και αξίες.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-22-fevrouariou-2/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-22-fevrouariou-2/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/greece/eortologio-poioi-giortazoun-simera-22-fevrouariou/"
-        }
-      ],
-      "category": "culture",
-      "categoryReason": "Η είδηση αφορά στο εορτολόγιο και την εορτή των Οσίων, γεγονός που σχετίζεται με τη θρησκεία και τις παραδόσεις, επομένως κατατάσσεται στην κατηγορία του πολιτισμού.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T06:12:25.000Z"
-    },
-    {
-      "id": "9208601740f1",
-      "title": "Ουκρανία: Βομβιστική επίθεση στην πόλη Λβιβ, με απολογισμό μια νεκρή αστυνομικό και 14 τραυματίες",
-      "simpleTitle": "Βομβιστική επίθεση στη Λβιβ της Ουκρανίας",
-      "simpleText": "Στην πόλη Λβιβ της Ουκρανίας, έγινε μια βομβιστική επίθεση. Μια 23χρονη αστυνομικός σκοτώθηκε και 14 άτομα τραυματίστηκαν. Το συμβάν συνέβη στη μέση της νύχτας, όταν η αστυνομία κλήθηκε για μια δήθεν διάρρηξη. Όταν έφτασαν, έγιναν εκρήξεις που προκάλεσαν μεγάλη ζημιά στα γύρω καταστήματα. Ο δήμαρχος της Λβιβ, Αντρίι Σαντοβί, καταδίκασε την επίθεση. Είναι σημαντικό να ξέρουμε ότι η κατάσταση στην περιοχή είναι επικίνδυνη, και όλοι πρέπει να είναι προσεκτικοί. Δεν έχουν ανακοινωθεί λεπτομέρειες για τους υπεύθυνους της επίθεσης.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/oukrania-vomvistiki-epithesi-stin-poli-lviv-me-apologismo-mia-nekri-astynomiko-kai-14-traymaties/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/oukrania-vomvistiki-epithesi-stin-poli-lviv-me-apologismo-mia-nekri-astynomiko-kai-14-traymaties/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564091528/oykrania-ekrixeis-sto-kievo-vomvistiki-epithesi-sti-lviv-me-mia-nekri/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σοβαρή βομβιστική επίθεση στην Ουκρανία, με αποτέλεσμα τον θάνατο μιας αστυνομικού και πολλούς τραυματίες, γεγονός που σχετίζεται με την επικίνδυνη κατάσταση στην περιοχή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T05:25:26.000Z"
-    },
-    {
-      "id": "f18d0eeeb380",
-      "title": "Ενιαία απάντηση της ΕΕ στους νέους δασμούς Τραμπ ζητά η Γαλλία",
-      "simpleTitle": "Γαλλία ζητά από την ΕΕ ενιαία απάντηση στους δασμούς Τραμπ",
-      "simpleText": "Η Γαλλία θέλει από την Ευρωπαϊκή Ένωση να δώσει μια κοινή απάντηση στους νέους δασμούς που έβαλε ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ. Ο Τραμπ υπέγραψε ένα διάταγμα που θα αρχίσει να ισχύει στις 24 Φεβρουαρίου. Οι δασμοί αυτοί θα έχουν τη διάρκεια 150 ημερών. Ξεκινάνε με 10% και μπορούν να φτάσουν το 15%. Οι μόνοι τομείς που εξαιρούνται είναι τα φαρμακευτικά προϊόντα και κάποιες εισαγωγές από ειδικές συμφωνίες.\n\nΟ αναπληρωτής υπουργός Εξωτερικού Εμπορίου της Γαλλίας, Νικολά Φορισιέρ, είπε ότι χρειάζεται να προστατευτούν τα Ευρωπαϊκά συμφέροντα. Η Γαλλία συνεργάζεται με άλλες χώρες της ΕΕ για να κατανοήσει τις συνέπειες αυτής της απόφασης. Είναι σημαντικό οι χώρες της ΕΕ να σταθούν ενωμένες σε αυτές τις προκλήσεις.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/eniaia-apantisi-tis-ee-stous-neous-dasmous-tramp-zita-i-gallia/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/eniaia-apantisi-tis-ee-stous-neous-dasmous-tramp-zita-i-gallia/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564091501/i-gallia-zita-eniaia-apantisi-tis-e-e-stoys-neoys-dasmoys-tramp/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/world/eniaia-apantisi-tis-ee-stoys-neoys-dasmoys-toy-ntonalnt-tramp-zitei-to-parisi/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κρατική αντίδραση της Γαλλίας και της Ευρωπαϊκής Ένωσης απέναντι σε νέους δασμούς που επιβάλλει ο πρόεδρος των ΗΠΑ, θίγοντας σοβαρά οικονομικά και εμπορικά ζητήματα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-21T22:06:06.000Z"
-    },
-    {
-      "id": "380a2e33c31d",
-      "title": "Αυστρία: Δύο νεκροί από χιονοστιβάδες σε Τυρόλο και Στυρία",
-      "simpleTitle": "Δύο άνθρωποι πέθαναν από χιονοστιβάδες στην Αυστρία",
-      "simpleText": "Δύο άνθρωποι σκοτώθηκαν από χιονοστιβάδες στην Αυστρία. Αυτό συνέβη το Σάββατο. Ο ένας ήταν 21 ετών από τη Σλοβακία και ο άλλος 41 ετών από την Αυστρία. Ο νεαρός έκανε σκι εκτός πίστας και δεν είχε εξοπλισμό ασφαλείας. Ο Αυστριακός, επίσης εκτός πίστας, τραυματίστηκε και μεταφέρθηκε στο νοσοκομείο, όπου όμως πέθανε. Οι ειδικοί προειδοποιούν τους σκιέρ να μην βγαίνουν εκτός πίστας γιατί οι χιονοστιβάδες είναι επικίνδυνες. Στην Αυστρία, έχουν χάσει τη ζωή τους 24 άνθρωποι από χιονοστιβάδες φέτος.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/aystria-dyo-nekroi-apo-xionostivades-se-tyrolo-kai-styria/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/aystria-dyo-nekroi-apo-xionostivades-se-tyrolo-kai-styria/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/world/aystria-dyo-nekroi-apo-xionostivades-sto-tyrolo-kai-ti-styria/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά δύο θανάτους λόγω χιονοστιβάδων, αναδεικνύοντας σοβαρά ζητήματα ασφάλειας στους χειμερινούς προορισμούς και τις επικίνδυνες καιρικές συνθήκες.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/Β20260221-Austria2.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/20260221-Austria2.jpg",
-      "publishedAt": "2026-02-21T21:54:37.000Z"
-    },
-    {
-      "id": "3f2905fe816c",
-      "title": "Η Ουκρανία απορρίπτει τα τελεσίγραφα και τους εκβιασμούς της Ουγγαρίας και της Σλοβακίας",
-      "simpleTitle": "Η Ουκρανία απορρίπτει τις απειλές της Ουγγαρίας και της Σλοβακίας",
-      "simpleText": "Η Ουκρανία είπε όχι στις απειλές των κυβερνήσεων της Ουγγαρίας και της Σλοβακίας. Οι δύο χώρες απείλησαν ότι θα σταματήσουν να στέλνουν ηλεκτρικό ρεύμα στην Ουκρανία αν δεν επιτραπεί η ροή ρωσικού πετρελαίου μέσω του αγωγού Ντρουζμπά. Αυτές οι απειλές ήρθαν μετά από μία ρωσική επίθεση που βλάπτει τον εξοπλισμό. Η Ουκρανία αντέτεινε ότι οι απειλές είναι επικίνδυνες και ανεύθυνες και αναφέρθηκαν ως εκβιασμός.\n\nΗ Ουγγαρία και η Σλοβακία παρέχουν στη Ουκρανία σχεδόν τη μισή από την ηλεκτρική ενέργεια που χρειάζεται. Ο πρωθυπουργός της Σλοβακίας προειδοποίησε ότι θα ανακόψει τις παραδόσεις ηλεκτρικής ενέργειας αν δεν γίνει αποδέκτης των όρων τους. Η κατάσταση αυτή είναι σημαντική για την ενεργειακή ασφάλεια της περιοχής.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/i-oukrania-aporriptei-ta-telesigrafa-kai-tous-ekviasmous-tis-ouggarias-kai-tis-slovakias/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/i-oukrania-aporriptei-ta-telesigrafa-kai-tous-ekviasmous-tis-ouggarias-kai-tis-slovakias/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564091495/i-oykrania-aporriptei-ta-telesigrafa-oyggarias-kai-slovakias-gia-tis-paradoseis-ilektrikis-energeias/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/world/oykrania-aporriptei-ta-telesigrafa-oyggarias-kai-slovakias-poy-apeiloyn-na-diakopsoyn-tis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές διπλωματικές σχέσεις και ενεργειακή ασφάλεια μεταξύ Ουκρανίας, Ουγγαρίας και Σλοβακίας, με αναφορά σε τελεσίγραφα και εκβιασμούς που επηρεάζουν την περιοχή.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-21T21:44:00.000Z"
-    },
-    {
-      "id": "516164f9de62",
-      "title": "Αίγιο: Συνελήφθη 46χρονος που φέρεται να πυροβόλησε και να τραυμάτισε τέσσερις ανήλικους",
-      "simpleTitle": "Αίγιο: Συνελήφθη άνδρας που πυροβόλησε τέσσερις ανήλικους",
-      "simpleText": "Ένας 46χρονος άνδρας συνελήφθη το Σάββατο στο Αίγιο. Φέρεται να πυροβόλησε τέσσερις ανήλικους, δύο 16χρονους και έναν 15χρονο, το βράδυ της προηγούμενης Παρασκευής. Οι έφηβοι τραυματίστηκαν στα πόδια και την πλάτη και νοσηλεύονται σε νοσοκομεία, αλλά δεν είναι σε κίνδυνο.\n\nΑυτό που συνέβη είναι πολύ σοβαρό. Τα παιδιά δεν περίμεναν καθόλου ότι κάποιος θα τους πυροβολήσει. Όλοι έκαναν βόλτα και ξαφνικά άκουσαν τους πυροβολισμούς. Οι αστυνομικοί ξέρουν τι συνέβη και θα κάνουν έρευνα για το θέμα.",
+      "id": "bd0e447077d4",
+      "title": "Σπάτα: Φωτιά σε αποθήκη εταιρείας αθλητικών ειδών (video",
+      "simpleTitle": "Φωτιά σε αποθήκη αθλητικών ειδών στα Σπάτα",
+      "simpleText": "Τη Κυριακή 22 Φεβρουαρίου, ξέσπασε φωτιά σε αποθήκη γνωστής εταιρείας αθλητικών ειδών στα Σπάτα. Η πυρκαγιά προκάλεσε άμεση κινητοποίηση της Πυροσβεστικής Υπηρεσίας. Οι πυροσβέστες χρειάστηκαν 21 άτομα και 9 οχήματα για να σβήσουν τη φωτιά.\n\nΗ φωτιά εκδηλώθηκε στο 18ο χιλιόμετρο της Λεωφόρου Σπάτων, σε μια περιοχή γεμάτη εμπορικές εγκαταστάσεις. Οι αρχές παραμένουν εκεί για να ελέγξουν την κατάσταση και να αποτρέψουν την εξάπλωση της φωτιάς. Δεν έχουμε περισσότερες πληροφορίες για το πώς ξεκίνησε η φωτιά.",
       "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/21/greece/astynomika/aigio-synelifthi-46xronos-pou-feretai-na-pyrovolise-kai-na-traymatise-tesseris-anilikous/",
+      "sourceUrl": "https://www.tanea.gr/2026/02/22/greece/spata-fotia-se-apothiki-etaireias-athlitikon-eidon/",
       "sourceDomains": [
         "tanea.gr",
         "tovima.gr"
@@ -338,27 +15,116 @@
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/greece/astynomika/aigio-synelifthi-46xronos-pou-feretai-na-pyrovolise-kai-na-traymatise-tesseris-anilikous/"
+          "url": "https://www.tanea.gr/2026/02/22/greece/spata-fotia-se-apothiki-etaireias-athlitikon-eidon/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/21/society/aigio-synelifthi-46xronos-gia-tous-pyrovolismous-se-tesseris-anilikous/"
+          "url": "https://www.tovima.gr/2026/02/22/society/fotia-sta-spata-se-apothiki-gnostis-etaireias-athlitikon-eidon/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρό περιστατικό βίας με πυροβολισμούς κατά ανηλίκων, ένα θέμα που σχετίζεται με την ασφάλεια και τη δημόσια τάξη.",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό περιστατικό φωτιάς σε αποθήκη μιας εταιρείας, που απαιτεί άμεση κινητοποίηση των πυροσβεστικών δυνάμεων και θέτει ζητήματα ασφάλειας και προστασίας των ανθρώπων και των εγκαταστάσεων.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g0580f1f6cb48ff9578551aa261130896a4271669d5a499de9302964eddd42a2c638ef1d99038d8af6163acf0edc74980f25c41a880b67dca0d95e135966ba226_1280.jpg",
+      "videoUrl": "https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Flamprou%2Fvideos%2F1430856445195746%2F%3Fidorvanity%3D935098050222771&amp;show_text=false&amp;width=267&amp;t=0",
+      "publishedAt": "2026-02-22T15:24:18.000Z"
+    },
+    {
+      "id": "45d0619b8f8a",
+      "title": "Ζαν Νοέλ Μπαρό: Βαριά και ταπεινωτική ήττα ο απολογισμός του Πούτιν στον πόλεμο με την Ουκρανία",
+      "simpleTitle": "** Ηττημένος ο Πούτιν στον πόλεμο με την Ουκρανία",
+      "simpleText": "** Ο υπουργός Εξωτερικών της Γαλλίας, Ζαν-Νοέλ Μπαρό, είπε ότι ο Βλαντίμιρ Πούτιν έχει πανηγυρικά ηττηθεί στον πόλεμο στην Ουκρανία, μετά από τέσσερα χρόνια συγκρούσεων. Ο ουκρανικός στρατός πήρε πίσω 300 τετραγωνικά χιλιόμετρα εδάφους με γενναιότητα. Ο πρόεδρος της Ουκρανίας, Βολοντίμιρ Ζελένσκι, δήλωσε ότι η Ρωσία έχει υποστεί μεγάλες απώλειες, με χιλιάδες στρατιώτες να σκοτώνονται καθημερινά. Ο Μπαρό ανέφερε επίσης ότι η ρωσική οικονομία έχει μεγάλα προβλήματα, όπως η έλλειψη καυσίμων και η απεργία στις τηλεπικοινωνίες. Η κατάσταση αυτή είναι σοβαρή και μπορεί να επηρεάσει πολλούς ανθρώπους στην περιοχή.",
+      "sourceName": "ERT News, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/zan-noel-mparo-varia-kai-tapeinotiki-itta-o-apologismos-tou-poutin-ston-polemo-me-tin-oukrania/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/zan-noel-mparo-varia-kai-tapeinotiki-itta-o-apologismos-tou-poutin-ston-polemo-me-tin-oukrania/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/22/world/oykrania-varia-kai-tapeinotiki-itta-o-apologismos-gia-ton-poytin-ystera-apo-tessera-xronia/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρούς πολιτικούς και στρατηγικούς απολογισμούς σχετικά με τον πόλεμο στην Ουκρανία και τις συνέπειές του στην περιοχή.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-21T21:07:20.000Z"
+      "publishedAt": "2026-02-22T15:02:34.000Z"
     },
     {
-      "id": "aa39dd123d90",
-      "title": "Κυψέλη: Ταυτοποιήθηκε ο άνδρας που κατηγορείται για σεξουαλική κακοποίηση 25χρονης ΑμεΑ",
-      "simpleTitle": "Κυψέλη: Αναζητούν τον άνδρα που κατηγορείται για κακοποίηση",
-      "simpleText": "Στην Κυψέλη, έχει προκύψει σοβαρή υπόθεση κακοποίησης μιας 25χρονης κοπέλας με αναπηρία. Η μητέρα της κατήγγειλε ότι κάποιος την κακοποίησε. Ο άνδρας που αναζητείται είναι 64 χρονών και έχει καταγωγή από την Αλβανία. Είναι πατέρας δύο παιδιών. Οι αστυνομικές αρχές τον ψάχνουν για να τον βρουν και να τον παραδώσουν στη δικαιοσύνη. Αυτή η υπόθεση είναι πολύ σοβαρή και ανησυχεί την κοινότητα. Οι αρχές κάνουν έρευνες για να βρουν αποδείξεις και να προστατεύσουν όλους από τέτοιες καταστάσεις.",
+      "id": "fdf99f22ec3c",
+      "title": "Guardian: Αφιέρωμα στους 200 της Καισαριανής – «Τώρα μπορούμε να δούμε το θάρρος τους»",
+      "simpleTitle": "Αφιέρωμα στον θάρρος των 200 στην Καισαριανή",
+      "simpleText": "Πρόσφατα, η βρετανική εφημερίδα Guardian δημοσίευσε ένα αφιέρωμα για τους 200 Έλληνες που εκτελέστηκαν στο Σκοπευτήριο Καισαριανής στις 1 Μαΐου 1944. Οι ιστορικές φωτογραφίες που βρέθηκαν, δείχνουν τους άνδρες να περπατούν προς το θάνατο με γενναιότητα. Αυτές οι εικόνες αναδεικνύουν την αντίσταση τους και έχουν συγκινήσει πολλούς. Το ελληνικό υπουργείο Πολιτισμού ανακοίνωσε ότι θα αγοράσει αυτές τις φωτογραφίες, που θεωρούνται πολύτιμα ντοκουμέντα.\n\nΗ εκτέλεση αυτών των ανδρών ήταν μια τραγική στιγμή για την Ελλάδα και έχει αφήσει ισχυρό αποτύπωμα στην ιστορία. Οι αντιδράσεις του κόσμου δείχνουν ότι η μνήμη τους ζει ακόμα σήμερα.",
+      "sourceName": "ERT News, Kathimerini",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/guardian-afieroma-stous-200-tis-kaisarianis-tora-mporoume-na-doume-to-tharros-tous/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/guardian-afieroma-stous-200-tis-kaisarianis-tora-mporoume-na-doume-to-tharros-tous/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564091801/afieroma-toy-guardian-stoys-200-tis-kaisarianis/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά την ιστορική μνήμη και την τραγωδία των 200 Ελλήνων που εκτελέστηκαν κατά τη διάρκεια της ναζιστικής κατοχής, αναδεικνύοντας σοβαρά ζητήματα ιστορίας και ανθρωπίνων δικαιωμάτων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T14:55:00.000Z"
+    },
+    {
+      "id": "9f35b0de9d2a",
+      "title": "Μπλοκάρει η Ουγγαρία το 20ο πακέτο ευρωπαϊκών κυρώσεων κατά της Ρωσίας",
+      "simpleTitle": "Η Ουγγαρία δεν επιτρέπει το νέο πακέτο κυρώσεων κατά της Ρωσίας",
+      "simpleText": "Η Ουγγαρία ανακοίνωσε ότι θα μπλοκάρει την έγκριση νέων κυρώσεων κατά της Ρωσίας. Αυτό συμβαίνει γιατί οι Ουκρανοί δεν επιτρέπουν την παράδοση ρωσικού πετρελαίου στην Ουγγαρία. Ο υπουργός Εξωτερικών της Ουγγαρίας είπε ότι όσο συμβαίνει αυτό, η χώρα του δεν θα υποστηρίξει αποφάσεις που είναι σημαντικές για την ΕΕ. Οι νέες κυρώσεις αφορούν τον χρηματοπιστωτικό και ενεργειακό τομέα και είναι οι εικοστές από την αρχή της ρωσικής επίθεσης στην Ουκρανία. Η κατάσταση είναι σοβαρή, γιατί οι χώρες στην Κεντρική Ευρώπη χρειάζονται χρόνο για να μειώσουν την εξάρτησή τους από το ρωσικό πετρέλαιο.",
+      "sourceName": "ERT News, Kathimerini, TA NEA",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/mplokarei-i-ouggaria-to-20o-paketo-eyropaikon-kyroseon-kata-tis-rosias/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "kathimerini.gr",
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/mplokarei-i-ouggaria-to-20o-paketo-eyropaikon-kyroseon-kata-tis-rosias/"
+        },
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564091783/mploko-tis-oyggarias-sto-20o-paketo-kyroseon-kata-tis-rosias/"
+        },
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/22/world/i-oyggaria-tha-mplokarei-to-20o-paketo-kyroseon-kata-tis-rosias/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρει τις κυρώσεις της ΕΕ κατά της Ρωσίας και την πολιτική στάση της Ουγγαρίας, κάτι που σχετίζεται με σοβαρά ζητήματα πολιτικής και διεθνών σχέσεων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T14:42:34.000Z"
+    },
+    {
+      "id": "55f6742b1a3f",
+      "title": "Θεσσαλονίκη: Πρόστιμο σε οδηγό ταξί που χρέωνε με εφαρμογή αντί για ταξίμετρο",
+      "simpleTitle": "Πρόστιμο σε ταξιτζή στη Θεσσαλονίκη για παράβαση",
+      "simpleText": "Στη Θεσσαλονίκη, ένας οδηγός ταξί πήρε πρόστιμο επειδή χρέωνε τις διαδρομές με μια εφαρμογή και όχι με το ταξίμετρο. Οι αστυνομικοί της Τροχαίας το ανακάλυψαν κατά τη διάρκεια ελέγχων. Αυτό είναι σημαντικό γιατί το ταξίμετρο πρέπει να χρησιμοποιείται για να διασφαλίζεται ότι οι επιβάτες πληρώνουν σωστά και δίκαια. Δεν έχει ανακοινωθεί πόσο είναι το πρόστιμο. Είναι σημαντικό οι οδηγοί ταξί να τηρούν τους κανόνες για την ασφάλεια των επιβατών.",
       "sourceName": "Kathimerini, News.gr",
-      "sourceUrl": "https://www.kathimerini.gr/society/564091480/kypseli-taytopoiithike-o-andras-poy-katigoreitai-gia-sexoyaliki-kakopoiisi-25chronis-amea/",
+      "sourceUrl": "https://www.kathimerini.gr/society/564091699/thessaloniki-prostimo-se-odigo-taxi-poy-chreone-me-efarmogi-anti-gia-taximetro/",
       "sourceDomains": [
         "kathimerini.gr",
         "news.gr"
@@ -366,88 +132,55 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564091480/kypseli-taytopoiithike-o-andras-poy-katigoreitai-gia-sexoyaliki-kakopoiisi-25chronis-amea/"
+          "url": "https://www.kathimerini.gr/society/564091699/thessaloniki-prostimo-se-odigo-taxi-poy-chreone-me-efarmogi-anti-gia-taximetro/"
         },
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4081958/sok-stin-kipseli-mitera-katingile-sexoualiki-kakopiisi-se-varos-tis-25chronis-amea-koris-tis.html"
+          "url": "https://www.news.gr/ellada/article/4082308/taxitzis-stin-thessaloniki-chreone-tis-kourses-apo-efarmogi-ke-ochi-me-to-taximetro.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η υπόθεση αφορά σοβαρή καταγγελία σεξουαλικής κακοποίησης μιας 25χρονης με αναπηρία, που εγείρει σημαντικά κοινωνικά ζητήματα.",
+      "categoryReason": "Η είδηση αφορά παράβαση κανονισμών που σχετίζονται με τη λειτουργία των ταξί και την ασφάλεια των επιβατών, γεγονός που την καθιστά σοβαρή.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/gd4937feeafb1ecbc1c211cbd9bbc25691bcd6cef23710f1bfdec083155fed5af554fa454a7ed1e4ab5a5afa297d088c622e207f62472cabf5e7cb2372577f495_1280.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-21T20:51:00.000Z"
+      "publishedAt": "2026-02-22T14:31:39.000Z"
     },
     {
-      "id": "4e1c9942d69f",
-      "title": "Λαμία: Σταματούν λόγω κακοκαιρίας οι έρευνες για τον εντοπισμό του 74χρονου ορειβάτη",
-      "simpleTitle": "Στη Λαμία σταματούν οι έρευνες για τον 74χρονο ορειβάτη",
-      "simpleText": "Ένας 74χρονος ορειβάτης χάθηκε στο Βελούχι ενώ ήταν σε ομάδα 17 ατόμων. Ενημέρωσε τα άλλα μέλη ότι θα περιμένει σε ένα σημείο και δεν θα συνεχίσει. Όταν οι άλλοι ορειβάτες γύρισαν, δεν τον βρήκαν. Οι έρευνες για να τον εντοπίσουν είχαν ξεκινήσει αλλά σταμάτησαν λόγω κακοκαιρίας. Υπάρχουν έντονα καιρικά φαινόμενα με χιόνι, που κάνουν την κατάσταση πολύ επικίνδυνη. Οι αρχές περιμένουν να βελτιωθούν οι συνθήκες για να συνεχίσουν την αναζήτηση του αγνοούμενου. Μέχρι τώρα, δεν έχουν καταφέρει να τον βρουν.",
-      "sourceName": "Kathimerini, TA NEA, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564091462/lamia-stamatoyn-oi-ereynes-gia-ton-entopismo-toy-74chronoy-logo-kakokairias/",
+      "id": "5dd9b313f2c3",
+      "title": "Η Μυστική Υπηρεσία των ΗΠΑ σκότωσε ένα άτομο που προσπάθησε να μπει στο Μαρ α Λάγκο",
+      "simpleTitle": "Άτομο σκοτώθηκε όταν προσπάθησε να μπει στο Μαρ α Λάγκο**",
+      "simpleText": "Η Μυστική Υπηρεσία των Ηνωμένων Πολιτειών σκότωσε έναν άνδρα που πήγε κοντά στο Μαρ α Λάγκο, το σπίτι του πρώην προεδρου Ντόναλντ Τραμπ στη Φλόριντα. Το συμβάν έγινε όταν ο άνδρας βρέθηκε με όπλο και καύσιμο κοντά στην είσοδο του χώρου. Οι πράκτορες τον προειδοποίησαν να αφήσει τα αντικείμενα, αλλά εκείνος σήκωσε το όπλο. Ο Τραμπ δεν ήταν εκεί τη στιγμή του περιστατικού. Η Μυστική Υπηρεσία έχει αναφέρει ότι υπάρχουν κίνδυνοι για την ασφάλεια του πρώην προεδρου, γι' αυτό αντιδρούν γρήγορα σε τέτοιες καταστάσεις. Δεν έχουν δημοσιοποιηθεί πληροφορίες για το όνομα του άνδρα που σκοτώθηκε.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-mystiki-ypiresia-ton-ipa-skotose-ena-atomo-pou-prospathise-na-mpei-sto-mar-a-lagko/",
       "sourceDomains": [
-        "kathimerini.gr",
-        "tanea.gr",
-        "tovima.gr"
+        "ertnews.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564091462/lamia-stamatoyn-oi-ereynes-gia-ton-entopismo-toy-74chronoy-logo-kakokairias/"
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/i-mystiki-ypiresia-ton-ipa-skotose-ena-atomo-pou-prospathise-na-mpei-sto-mar-a-lagko/"
         },
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/greece/veloyxi-stamatoyn-logo-kakokairias-oi-nyxterines-ereynes-gia-ton-entopismo-toy-74xronoy-or/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/21/society/velouxi-stamatisan-oi-ereynes-gia-ton-74xrono-oreivati-logo-kakokairias/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4082341/i-asfalia-tou-trab-skotose-20chrono-pou-prospathise-na-bi-sti-vila-tou-sto-mar-a-lagko.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την αναζήτηση ενός αγνοούμενου ορειβάτη και τις σοβαρές συνθήκες κακοκαιρίας που καθιστούν επικίνδυνη την επιχείρηση διάσωσης.",
+      "categoryReason": "Η είδηση αφορά σοβαρό περιστατικό που σχετίζεται με την ασφάλεια του πρώην προεδρου Ντόναλντ Τραμπ και περιλαμβάνει τη χρήση πυροβολισμών από την Μυστική Υπηρεσία, γεγονός που εγείρει σοβαρά θέματα σχετικά με την ασφάλεια και την πολιτική κατάσταση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-21T20:37:00.000Z"
+      "publishedAt": "2026-02-22T14:26:14.000Z"
     },
     {
-      "id": "fd982c93d3a5",
-      "title": "Ολυμπιακός – Παναθηναϊκός 68-79: «Πράσινο» το Κύπελλο Ελλάδας",
-      "simpleTitle": "Παναθηναϊκός νίκησε τον Ολυμπιακό στο Κύπελλο",
-      "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με σκορ 79-68 στον τελικό του Κυπέλλου Ελλάδας. Ο αγώνας έγινε πρόσφατα και οι πράσινοι έπαιξαν πολύ καλά. Ήταν ιδιαίτερα καλοί οι Νάιτζελ Χέιζ-Ντέιβις και Νίκος Ρογκαβόπουλος, που βοήθησαν την ομάδα τους να κερδίσει. Ο Ολυμπιακός είχε τον Βεζένκοφ ως κορυφαίο σκόρερ, αλλά δεν ήταν αρκετός να αλλάξει την κατάσταση.\n\nΗ νίκη αυτή είναι σημαντική γιατί ο Παναθηναϊκός κατέκτησε το Κύπελλο για δεύτερη χρονιά. Αρκετοί φίλαθλοι και δύο ομάδες επηρεάστηκαν από το αποτέλεσμα. Ο τελικός έδειξε ποια ομάδα είναι πιο δυνατή φέτος.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/21/sports/basketball/olympiakos-panathinaikos-68-79-prasino-to-kypello-elladas/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/sports/basketball/olympiakos-panathinaikos-68-79-prasino-to-kypello-elladas/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/21/sports/olympiakos-panathinaikos-68-79-prasino-to-kypello-me-protagonistes-tous-rogkavopoulo-kai-xeiz-nteivis/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά την νίκη του Παναθηναϊκού επί του Ολυμπιακού στον τελικό του Κυπέλλου Ελλάδας, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τον ανταγωνισμό μεταξύ των δύο ομάδων.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g1146bce5f90b0fcf4d443e35d4a6c45a08487bc51d6db56c1339e73c92b51a6052c21a3e05e0044a611b21b5d5d24d272c62f7fe080cc6ca4f5e40ba154f73f4_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-21T19:56:03.000Z"
-    },
-    {
-      "id": "32ab691790b4",
-      "title": "Νίκος Σοφιανός: Η ταυτότητα των «200» δεν μπορεί να παραποιηθεί, ήταν ήρωες κομμουνιστές",
-      "simpleTitle": "Νίκος Σοφιανός: Οι 200 ήρωες κομμουνιστές δεν μπορούν να αμαυρωθούν",
-      "simpleText": "Ο Νίκος Σοφιανός μίλησε για τους 200 κομμουνιστές που εκτέθηκαν στην Καισαριανή. Είπε ότι αυτοί οι άνθρωποι ήταν ήρωες που αρνήθηκαν να υπογράψουν δηλώσεις μετανοίας. Αν είχαν υπογράψει, ίσως να μην βρίσκονταν στη μάντρα της Καισαριανής. Ζήτησε να είναι προσβάσιμες οι φωτογραφίες τους στο κοινό, καθώς το ελληνικό κράτος χρωστάει σε αυτούς. Ο Σοφιανός τόνισε ότι οι αγώνες τους πρέπει να μείνουν στη μνήμη όλων και ότι η ταυτότητά τους ως κομμουνιστές δεν μπορεί να παραποιηθεί. Επίσης, ανέφερε ότι πρέπει να τιμηθούν οι αγωνιστές αυτής της εποχής και να αναγνωριστούν οι θυσίες τους.",
+      "id": "6da086cf589f",
+      "title": "ΚΚΕ: Είναι τουλάχιστον εμπαιγμός να μιλά ο κ. Μητσοτάκης για «ασφάλεια» όταν η χώρα μετατρέπεται σε πολεμικό ορμητήριο",
+      "simpleTitle": "ΚΚΕ: Κριτική στον Μητσοτάκη για την \"ασφάλεια\"",
+      "simpleText": "Το ΚΚΕ ξέδωσε μια δήλωση που κρίνει τον Πρωθυπουργό, κ. Μητσοτάκη, επειδή μιλάει για \"ασφάλεια\" τη στιγμή που η Ελλάδα γίνεται πολεμικό κέντρο. Αναφέρεται ότι στη βάση της Σούδας στην Κρήτη συγκεντρώνονται δυνάμεις των ΗΠΑ για να συμμετάσχουν σε κινήσεις κατά άλλων χωρών, όπως το Ιράν. Αυτό βάζει σε κίνδυνο την ειρήνη και δεν προσφέρει την ασφάλεια που χρειάζεται ο λαός.\n\nΤο ΚΚΕ επισημαίνει ότι οι συμφωνίες για τους φυσικούς πόρους ευνοούν ξένες εταιρείες και κάνουν τα πράγματα χειρότερα για τους πολίτες, καθώς οι τιμές της ενέργειας αυξάνονται. Επιπλέον, ζητούν από τον κ. Μητσοτάκη να μην στείλει στρατό στη Γάζα και προειδοποιούν ότι η κυβέρνηση θα αντιμετωπίσει την αντίδραση του λαού.",
       "sourceName": "News.gr, 902.gr – Επιλεγμένα",
-      "sourceUrl": "https://www.news.gr/politikh/article/4081936/nikos-sofianos-i-taftotita-ton-200-den-bori-na-parapiithi-itan-iroes-kommounistes.html",
+      "sourceUrl": "https://www.news.gr/politikh/article/4082287/kke-ine-toulachiston-empegmos-na-mila-o-k-mitsotakis-gia-asfalia-otan-i-chora-metatrepete-se-polemiko-ormitirio.html",
       "sourceDomains": [
         "news.gr",
         "902.gr"
@@ -455,25 +188,81 @@
       "sources": [
         {
           "title": "News.gr",
-          "url": "https://www.news.gr/politikh/article/4081936/nikos-sofianos-i-taftotita-ton-200-den-bori-na-parapiithi-itan-iroes-kommounistes.html"
+          "url": "https://www.news.gr/politikh/article/4082287/kke-ine-toulachiston-empegmos-na-mila-o-k-mitsotakis-gia-asfalia-otan-i-chora-metatrepete-se-polemiko-ormitirio.html"
         },
         {
           "title": "902.gr – Επιλεγμένα",
-          "url": "https://www.902.gr/eidisi/politiki/414783/n-sofianos-i-taytotita-ton-200-den-mporei-na-parapoiithei-itan-iroes"
+          "url": "https://www.902.gr/eidisi/politiki/414830/kke-einai-toylahiston-empaigmos-na-mila-o-k-mitsotakis-gia-asfaleia-otan-i"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ιστορία και τις θυσίες κομμουνιστών κατά την Κατοχή στην Ελλάδα, επικεντρώνεται σε θέματα ιστορικής μνήμης, πολιτικής ταυτότητας και κοινωνικών ζητημάτων, γεγονός που την καθιστά σοβαρή.",
+      "categoryReason": "Η είδηση αφορά τη δήλωση του ΚΚΕ που κ крίνει την κυβέρνηση και θέτει σοβαρά ζητήματα σχετικά με την ασφάλεια, τις στρατηγικές συμφωνίες και τους κινδύνους που προέρχονται από την εμπλοκή της χώρας σε πολεμικές καταστάσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-21T14:05:27.000Z"
+      "publishedAt": "2026-02-22T13:54:09.000Z"
+    },
+    {
+      "id": "712660d26233",
+      "title": "Καλαμαράκια: οι καλύτερες συνταγές μας για την Καθαρά Δευτέρα",
+      "simpleTitle": "Συνταγές με καλαμαράκια για την Καθαρά Δευτέρα",
+      "simpleText": "Η Καθαρά Δευτέρα είναι μια ειδική μέρα που σηματοδοτεί την αρχή της Σαρακοστής. Αυτή την ημέρα, πολλοί άνθρωποι ακολουθούν νηστεία, που σημαίνει ότι δεν τρώνε ορισμένα φαγητά. Για να γιορτάσουν, οι άνθρωποι ετοιμάζουν νόστιμα φαγητά.\n\nΜια από τις πιο δημοφιλείς επιλογές είναι τα καλαμαράκια. Υπάρχουν πολλές συνταγές, όπως τηγανητά, γεμιστά ή μαγειρευτά. Αυτές οι συνταγές είναι ιδανικές για να τις δοκιμάσετε στην Καθαρά Δευτέρα και για όλη την Σαρακοστή.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/k/gastronomos/564091729/kalamarakia-oi-kalyteres-syntages-mas-gia-tin-kathara-deytera/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/k/gastronomos/564091729/kalamarakia-oi-kalyteres-syntages-mas-gia-tin-kathara-deytera/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/22/elliniki-kouzina/kathara-deytera-h-nisteia-ta-ethima-kai-3-syntages-gia-ta-koulouma/"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Το άρθρο επικεντρώνεται σε συνταγές και γαστρονομικές προτάσεις που σχετίζονται με την Καθαρά Δευτέρα, γεγονός που εντάσσεται στη διασκέδαση και την απόλαυση του φαγητού.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T13:15:00.000Z"
+    },
+    {
+      "id": "b8620cf8b987",
+      "title": "Λήμνος: Αίτημα να κηρυχθεί σε κατάσταση έκτακτης ανάγκης – Εκτεταμένες ζημιές από την κακοκαιρία",
+      "simpleTitle": "Λήμνος: Κίνδυνος από κακοκαιρία και ζημιές",
+      "simpleText": "Στη Λήμνο, η κακοκαιρία προκάλεσε πολλές ζημιές σε σπίτια και μαγαζιά. Οι καλλιέργειες καταστράφηκαν, ενώ κάποιοι οικισμοί στην περιοχή της Μύρινας δεν έχουν νερό. Οι σωληνώσεις του δικτύου ύδρευσης παρασύρθηκαν. Οι αρχές ζητούν να κηρυχθεί η περιοχή σε κατάσταση έκτακτης ανάγκης, επειδή η κατάσταση είναι σοβαρή. Τα σχολεία θα παραμείνουν κλειστά την Τρίτη για λόγους ασφαλείας. Ελπίζουν ότι έτσι θα βοηθήσουν τους ανθρώπους που έχουν ανάγκη και θα περιορίσουν τα προβλήματα.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/society/564091723/limnos-aitima-na-kirychthei-se-katastasi-ektaktis-anagkis-ektetamenes-zimies-apo-tin-kakokairia/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/society/564091723/limnos-aitima-na-kirychthei-se-katastasi-ektaktis-anagkis-ektetamenes-zimies-apo-tin-kakokairia/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/22/society/limnos-aitima-na-kiryxtei-se-katastasi-ektaktis-anagkis-kleista-ta-sxoleia-tin-triti/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές ζημιές από κακοκαιρία στη Λήμνο, περιγράφοντας τις συνέπειες για τις υποδομές, τους κατοίκους και την αγροτική παραγωγή, και τη σχετική αίτηση για κατάσταση έκτακτης ανάγκης.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g813782edf4cfdbc1cda0d60df83e5817622a0c8a63f686af8dfe302949ac3393969c7f2865bdf2f5aa3ee313064ce46deb346a82dd4f4958305b1a29a88e1aa5_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T12:14:41.000Z"
     },
     {
       "id": "f724e63da9a8",
       "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-      "simpleTitle": "O Keanu Reeves συμμετέχει στη φωνή του νέου παιχνιδιού John Wick",
-      "simpleText": "Ο Keanu Reeves, γνωστός ηθοποιός, συμμετέχει στο νέο video game John Wick. Αυτό το παιχνίδι φέρνει μια καινούργια εμπειρία στους φίλους των παιχνιδιών. Ο Reeves δανείζει τη φωνή του για τον χαρακτήρα John Wick, κάτι που δεν έχει ξαναγίνει σε παιχνίδια. Η εταιρεία Saber Interactive δημιούργησε αυτό το παιχνίδι, που συνδυάζει τον κινηματογράφο με την τεχνολογία παιχνιδιών. Αυτή η συνεργασία είναι σημαντική γιατί δείχνει πώς η ψυχαγωγία μπορεί να εξελίσσεται. Δεν έχουμε ακόμα πληροφορίες για την ημερομηνία κυκλοφορίας του παιχνιδιού.",
+      "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
+      "simpleText": "Ο Keanu Reeves θα δανείσει τη φωνή του στο νέο video game του John Wick. Το παιχνίδι αυτό δημιουργείται από την Saber Interactive και θα είναι πολύ ενδιαφέρον για τους θαυμαστές. Η συμμετοχή του ηθοποιού είναι ξεχωριστή, γιατί είναι η πρώτη φορά που παίζει έτσι σε ένα παιχνίδι. Αυτό δείχνει πώς οι ταινίες μπορούν να συνδυαστούν με τα παιχνίδια για να προσφέρουν μία αυθεντική εμπειρία. Το νέο αυτό παιχνίδι είναι σημαντικό για τον κόσμο της ψυχαγωγίας και οι φίλοι του John Wick θα το απολαύσουν πολύ. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες για το πότε θα κυκλοφορήσει.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
       "sourceDomains": [
@@ -486,17 +275,17 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves στο νέο video game John Wick, συνδυάζοντας στοιχεία από τον κινηματογράφο και τα βιντεοπαιχνίδια. Η ανακοίνωση αυτή σχετίζεται με την ψυχαγωγία μέσω οπτικοακουστικών μέσων, καθιστώντας την κατηγορία 'screen' την πιο κατάλληλη.",
+      "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves σε ένα νέο video game βασισμένο στη σειρά John Wick, συνδυάζοντας στοιχεία από τον κινηματογράφο και τα video games.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gc26ff6cb1479dc5bfd50eb016177297fb2cc149ce88332de8326e56695a0065de972c08cf38734457ed564f430cfd6bbd00c09a4b1839abc9d2b67504a2a084d_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/gbfd4b00dd398d9468f252e672ba8c2c5c7429ce02eb5dcf144424efdf66685d1e6b66843ac79dc91abaf9aaf53aa05706baacb8c0bff1bf53f83120b23907993_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-21T09:46:00.000Z"
     },
     {
       "id": "017b0e5fc632",
       "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-      "simpleTitle": "Νωρίτερα αρχίζει ο κοινωνικός τουρισμός το 2026",
-      "simpleText": "Το πρόγραμμα του κοινωνικού τουρισμού στην Ελλάδα αρχίζει νωρίτερα φέτος, για την περίοδο 2026 - 2027. Η νέα ημερομηνία είναι η 1η Μαΐου. Οι αιτήσεις θα ανοίξουν μετά το Πάσχα και οι πολίτες θα μπορούν να απολαύσουν ανοιξιάτικες διακοπές. Το πρόγραμμα έχει στόχο να στηρίξει οικονομικά τις οικογένειες που χρειάζονται βοήθεια και τις τοπικές κοινότητες. Με κονδύλι 50 εκατομμυρίων ευρώ, θα υπάρχουν 300.000 κουπόνια για διακοπές. Αυτό θα βοηθήσει πολλούς ανθρώπους να ξεκουραστούν και να ταξιδέψουν.",
+      "simpleTitle": "Κοινωνικός τουρισμός 2026: Νωρίτερα ξεκινά το πρόγραμμα",
+      "simpleText": "Καλή είδηση για πολλές οικογένειες στην Ελλάδα! Το πρόγραμμα κοινωνικού τουρισμού για το 2026-2027 αρχίζει νωρίς, συγκεκριμένα στις 1 Μαΐου. Οι αιτήσεις θα γίνονται μετά το Πάσχα. Αυτή η αλλαγή βοηθάει τους ανθρώπους και τις τοπικές οικονομίες, καθώς προσφέρει ευκαιρίες για διακοπές. Ο προϋπολογισμός του προγράμματος είναι 50 εκατομμύρια ευρώ. Σκοπός είναι να δοθούν 300.000 επιταγές, ώστε να μπορέσουν περισσότερα άτομα να ξεκουραστούν σε ωραία μέρη. Είναι μια σημαντική βοήθεια για όσους το χρειάζονται.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
       "sourceDomains": [
@@ -509,7 +298,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά την πρόωρη έναρξη του προγράμματος κοινωνικού τουρισμού, που σκοπεύει να στηρίξει οικονομικά τις οικογένειες και τις τοπικές κοινότητες, προσφέροντας ευχάριστες προοπτικές για καλοκαιρινές διακοπές σε πολλούς ανθρώπους.",
+      "categoryReason": "Η είδηση αφορά το πρόγραμμα κοινωνικού τουρισμού που θα διευκολύνει πολλές οικογένειες στην Ελλάδα να ξεκουραστούν και να κάνουν διακοπές, γεγονός που δημιουργεί θετικά συναισθήματα.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -518,8 +307,8 @@
     {
       "id": "c54fb8d79f04",
       "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-      "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μία κάμερα",
-      "simpleText": "Ένας άνδρας στην Αγγλία έκανε μια πολύ ενδιαφέρουσα ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από ένα κατάστημα που πουλάει μεταχειρισμένα πράγματα. Μέσα στη μηχανή, βρήκε ένα φιλμ που είχε μείνει κρυφό για 70 χρόνια. Έδωσε τη μηχανή σε ειδικούς, που κατάφεραν να κάνουν τις εικόνες από το φιλμ να εμφανιστούν. Αν και η διαδικασία ήταν δύσκολη, οι ειδικοί κατάφεραν να δουν καθαρές φωτογραφίες από το παρελθόν. Αυτή η ανακάλυψη μας θυμίζει πόσες ιστορίες κρύβουν παλιές φωτογραφίες.",
+      "simpleTitle": "Άνδρας βρήκε παλιό φιλμ σε vintage φωτογραφική μηχανή",
+      "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια εντυπωσιακή ανακάλυψη. Αγοράζοντας μια παλιά φωτογραφική μηχανή, βρήκε μέσα της ένα φιλμ που είχε να χρησιμοποιηθεί για 70 χρόνια. Η κάμερα είναι από το 1930 και κόστισε μόνο 13 δολάρια. Ο άνδρας έδωσε τη μηχανή σε ειδικούς που την εξέτασαν προσεκτικά. Παρόλο που το φιλμ είχε υποστεί ζημιές από τον χρόνο, κατάφεραν να εμφανίσουν καθαρές φωτογραφίες. Αυτή η ανακάλυψη μας δίνει εικόνες από το παρελθόν και μας θυμίζει τις ιστορίες των ανθρώπων εκείνης της εποχής.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
       "sourceDomains": [
@@ -532,17 +321,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά μια θετική και ενδιαφέρουσα ανακάλυψη, που προσφέρει ευχάριστες στιγμές και αναμνήσεις από το παρελθόν, κάνοντάς μας να χαμογελάσουμε.",
+      "categoryReason": "Η είδηση αφορά μια θετική και εντυπωσιακή ανακάλυψη που προσφέρει ιστορικές εικόνες και προκαλεί χαρά στον άνθρωπο που την έκανε, συνδυάζοντας έτσι την ανακάλυψη με ευχάριστα συναισθήματα.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://pixabay.com/get/g4e4040afd8d11d0114a925096b6f47a7ef073b2b5458098013b135e679ed9509fcac4f2d219f0ebd085a859af623bc7ee406235f6d48fe3b9696f81c905953df_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-20T10:08:32.000Z"
     },
     {
       "id": "5fcb2e05ddd9",
       "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
-      "simpleTitle": "Έργα ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-      "simpleText": "Στο Μουσείο Μπενάκη, έχουμε μια σπουδαία συνάντηση καλλιτεχνών. Δύο γνωστά έργα από τον 19ο αιώνα εκτίθενται. Αυτά είναι η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία». Τα έργα αυτά μας θυμίζουν το παρελθόν και την ελληνική κουλτούρα. Οι επισκέπτες έχουν την ευκαιρία να τα δουν από κοντά. Αυτό είναι σημαντικό γιατί μας φέρνει πιο κοντά στην ελληνική ιστορία. Δεν γνωρίζουμε ακόμα πόσο θα διαρκέσει η έκθεση, αλλά η εμπειρία σίγουρα αξίζει.",
+      "simpleTitle": "Έργα της ελληνικής τέχνης στο Μουσείο Μπενάκη",
+      "simpleText": "Στο Μουσείο Μπενάκη γίνεται μια ιδιαίτερη έκθεση με σπουδαία έργα τέχνης. Δύο σημαντικά πίνακες από τον 19ο αιώνα είναι η «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και η «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Αυτές οι εικόνες μας δείχνουν την ιστορία και τον πολιτισμό της Ελλάδας. Η έκθεση είναι μια καλή ευκαιρία να δούμε και να μάθουμε περισσότερα για την ελληνική τέχνη. Λόγω της σημασίας αυτών των έργων, οι επισκέπτες θα νιώσουν την ομορφιά και την παράδοση της χώρας μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
       "sourceDomains": [
@@ -555,7 +344,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια καλλιτεχνική έκθεση στο Μουσείο Μπενάκη, εστιάζοντας σε ελληνικά ζωγραφικά έργα που συνδέονται με την πολιτιστική κληρονομιά.",
+      "categoryReason": "Η έκθεση στο Μουσείο Μπενάκη αφορά έργα τέχνης και πολιτιστικά στοιχεία της ελληνικής παράδοσης, γεγονός που την τοποθετεί στην κατηγορία του πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -564,8 +353,8 @@
     {
       "id": "c186e848bd56",
       "title": "Επαναστατικό σπρέυ για την επούλωση πληγών σταματά την αιμορραγία σε ένα μόλις δευτερόλεπτο",
-      "simpleTitle": "Νέο σπρέι που σταματά την αιμορραγία γρήγορα",
-      "simpleText": "Μια νέα ανακάλυψη μπορεί να βοηθήσει πολύ στην ιατρική. Ερευνητές φτιάξανε ένα σπρέι που σταματά την αιμορραγία πολύ γρήγορα. Αυτό είναι σημαντικό, γιατί μπορεί να σώσει ζωές σε επικίνδυνες καταστάσεις, όπως σε πεδία μαχών ή σε ατυχήματα. Το σπρέι λειτουργεί σχεδόν αμέσως και μπορεί να είναι χρήσιμο για όλους μας σε περιπτώσεις έκτακτης ανάγκης. Δεν γνωρίζουμε ακόμα περισσότερες λεπτομέρειες για τη χρήση του ή πόσο θα κοστίσει.",
+      "simpleTitle": "Νέο σπρέι βοηθά στην γρήγορη επούλωση πληγών",
+      "simpleText": "Οι ερευνητές από το ινστιτούτο KAIST δημιούργησαν ένα ειδικό σπρέι που μπορεί να σταματήσει την αιμορραγία πολύ γρήγορα. Αυτό είναι πολύ σημαντικό για άμεσες καταστάσεις, όπως σε ατυχήματα ή σε μάχες. Το σπρέι είναι σε μορφή σκόνης και μπορεί να σώσει ζωές μέσα σε ένα δευτερόλεπτο. Οι επιστήμονες πιστεύουν ότι αυτή η εφεύρεση θα βοηθήσει πολύ στην επείγουσα ιατρική. Οι άνθρωποι που χρειάζονται γρήγορη βοήθεια, θα μπορούν να σώσουν περισσότερους ασθενείς με αυτό το νέο προϊόν. Δεν ξέρουμε ακόμα πότε θα είναι διαθέσιμο για όλους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32119-neo-sprei-gia-tin-epoulosi-pligon-stamatia-tin-aimorragia-se-ena-defterolepto/",
       "sourceDomains": [
@@ -578,7 +367,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική ιατρική ανακάλυψη που έχει άμεσο αντίκτυπο στην υγεία και την ασφάλεια των ανθρώπων σε επικίνδυνες καταστάσεις, γεγονός που την καθιστά σοβαρή.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική επιστημονική ανακάλυψη που έχει άμεσες επιπτώσεις στην ιατρική και την υγεία, ειδικά σε καταστάσεις έκτακτης ανάγκης, άρα ανήκει στις σοβαρές ειδήσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -587,8 +376,8 @@
     {
       "id": "5bff79bb47ab",
       "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-      "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος που απεικόνισε τον εαυτό της",
-      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μία φλαμανδή ζωγράφος που ζωγράφισε τον εαυτό της το 1548. Αυτή είναι η πρώτη γνωστή εικόνα γυναίκας καλλιτέχνη που δείχνει πώς δουλεύει. Με το πινέλο στο χέρι, η Καταρίνα ήθελε να δείξει τη δύναμη των γυναικών στην τέχνη. Υπέγραψε το έργο της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου», κάτι που ήταν πολύ σημαντικό για εκείνη την εποχή. Η κίνησή της αυτή βοηθάει και σήμερα στην κατανόηση της θέσης των γυναικών στον κόσμο της τέχνης.",
+      "simpleTitle": "Καταρίνα βαν Χέμεσεν: Η πρώτη γυναίκα ζωγράφος",
+      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σημαντική ζωγράφος που έζησε το 1548. Είναι γνωστή γιατί ήταν η πρώτη γυναίκα που ζωγράφισε τον εαυτό της, όταν πολλοί άντρες ήταν οι μόνοι καλλιτέχνες. Στη ζωγραφιά της, κρατάει το πινέλο και κάθεται μπροστά σε έναν καβαλέτο. Με το έργο της, ήθελε να δείξει ότι και οι γυναίκες μπορούν να δημιουργούν τέχνη. Υπέγραψε την αυτοπροσωπογραφία της λέγοντας ότι είναι αυτή που τη ζωγράφισε. Η πράξη αυτή ήταν σημαντική για την εποχή της, γιατί έδειξε τη δύναμη και την ικανότητα των γυναικών στον κόσμο της τέχνης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
       "sourceDomains": [
@@ -601,7 +390,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά την Καταρίνα βαν Χέμεσεν, μια σημαντική μορφή στον τομέα της τέχνης, και αναδεικνύει τη συμβολή της στη γυναικεία δημιουργία, κάτι που σχετίζεται με πολιτιστικά θέματα και την ιστορία της τέχνης.",
+      "categoryReason": "Η είδηση αναφέρεται στη ζωή και το έργο μιας σημαντικής καλλιτέχνιδας, της Καταρίνα βαν Χέμεσεν, και εξερευνά τη συμβολή της στον πολιτισμό και την τέχνη, τονίζοντας την επίδραση της γυναικείας δημιουργίας στην ιστορία της τέχνης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -611,7 +400,7 @@
       "id": "8472722905be",
       "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
       "simpleTitle": "Νέος Οργανισμός για Γυναίκες Επιχειρηματίες στην Ελλάδα",
-      "simpleText": "Τον Φεβρουάριο του 2026 ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας. Αυτό είναι πολύ σημαντικό για την Ελλάδα. Ο οργανισμός σκοπεύει να βοηθήσει τις γυναίκες να έχουν καλύτερες ευκαιρίες και να είναι πιο δυνατές στην επιχειρηματικότητα. Συνεργάζεται με πολλές μεγάλες επιχειρηματικές ομάδες της χώρας. Έτσι, οι γυναίκες θα πάρουν τα εργαλεία που χρειάζονται για να πετύχουν. Ο στόχος είναι να υπάρχει περισσότερη ισότητα. Αυτό θα κάνει την οικονομία πιο δυνατή και θα φέρει αλλαγές για το μέλλον.",
+      "simpleText": "Στον Φεβρουάριο του 2026 ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτό δείχνει ότι οι γυναίκες αποκτούν περισσότερες ευκαιρίες στον τομέα της δουλειάς. Ο οργανισμός δημιουργήθηκε από σημαντικές επιχειρήσεις και στόχος του είναι να βοηθήσει τις γυναίκες να είναι πιο δυναμικές στον χώρο τους. Οι δράσεις του θα ενισχύσουν την ισότητα και την καινοτομία. Η στήριξη από γνωστούς φορείς είναι μεγάλη, κάτι που δείχνει την ανάγκη για ίσες ευκαιρίες σε όλους. Αυτό μπορεί να αλλάξει θετικά τη ζωή πολλές γυναικών στην Ελλάδα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
       "sourceDomains": [
@@ -624,17 +413,17 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας αναφέρεται σε σοβαρά κοινωνικά ζητήματα όπως η ισότητα των φύλων και η ενδυνάμωση των γυναικών στην επιχειρηματικότητα, που είναι σημαντικά για την οικονομία και την κοινωνία.",
+      "categoryReason": "Η είδηση αφορά την ίδρυση ενός οργανισμού που προωθεί την ισότητα και την ενδυνάμωση γυναικών στην επιχειρηματικότητα, ένα σοβαρό κοινωνικό ζήτημα που έχει σημασία για την πολιτική και οικονομική κατάσταση στην Ελλάδα.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g3d5b400cd30007d53c173158827b1528deca0ab3aa9e993749e060c23d737daf193d9cb21f90a9bfd77d6d5fcbf106ee6c6a56743794c3c071f93059c747fddf_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/ge4ebb1ba7240384cb56ca01f19800e68f380137fb8659687e09d49e3d87857b96eebc2db91b758d5cdb724a800992017fa281bc365eae41da1d9190a6128e0a5_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T13:22:00.000Z"
     },
     {
       "id": "8e0ce3141016",
       "title": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε 10 σύγχρονα αντιβιοτικά",
-      "simpleTitle": "Βακτήριο 5.000 ετών πολύ ανθεκτικό",
-      "simpleText": "Ερευνητές βρήκαν ένα αρχαίο βακτήριο σε ένα σπήλαιο στη Ρουμανία. Το βακτήριο είναι 5.000 ετών και είναι ανθεκτικό σε 10 σύγχρονα φάρμακα που χρησιμοποιούμε για να πολεμήσουμε μολύνσεις. Το βακτήριο αυτό λέγεται Psychrobacter SC65A.3 και βρίσκεται σε μια περιοχή με πάγο. Αυτή η ανακάλυψη είναι πολύ ενδιαφέρουσα για τους επιστήμονες, γιατί μας δείχνει πώς μπορεί να επιβιώνει η ζωή σε ακραίες συνθήκες. Δεν ξέρουμε ακόμα πώς μπορεί να μας βοηθήσει στο μέλλον.",
+      "simpleTitle": "Αρχαίο βακτήριο 5.000 ετών που δεν επηρεάζεται από αντιβιοτικά",
+      "simpleText": "Μια ομάδα ερευνητών βρήκε ένα βακτήριο που είχε παγιδευτεί κάτω από 5.000 χρόνια πάγου στη Ρουμανία. Αυτό το βακτήριο είναι ανθεκτικό σε 10 διαφορετικά σύγχρονα φάρμακα που χρησιμοποιούνται για τις μολύνσεις. Το βακτήριο ανήκει σε μια ομάδα που λέγεται Psychrobacter και είναι πολύ παλιό. Η ανακάλυψη έγινε σε ένα σπήλαιο που λέγεται Scărișoara, το οποίο είναι ένα από τα πιο παλιά υπόγεια σπήλαια στην Ευρώπη. Αυτή η ανακάλυψη είναι σημαντική γιατί μπορεί να μας δώσει νέες γνώσεις για την αντοχή στα φάρμακα. Δεν ξέρουμε ακόμα πώς μπορεί να επηρεάσει τη θεραπεία των λοιμώξεων στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/",
       "sourceDomains": [
@@ -647,7 +436,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η ανακάλυψη του αρχαίου βακτηρίου με αντοχή σε πολλά σύγχρονα αντιβιοτικά σχετίζεται με σοβαρές επιστημονικές και υγειονομικές προκλήσεις, καθιστώντας την σημαντική για τη δημόσια υγεία και την έρευνα.",
+      "categoryReason": "Η ανακάλυψη ενός αρχαίου βακτηρίου που είναι ανθεκτικό σε σύγχρονα αντιβιοτικά αποτελεί σοβαρή είδηση, καθώς έχει σημαντικές επιπτώσεις για την υγεία και τις θεραπευτικές προσεγγίσεις στις λοιμώξεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -656,8 +445,8 @@
     {
       "id": "faff9794ec94",
       "title": "Η επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια και τα απίστευτα οφέλη για το περιβάλλον",
-      "simpleTitle": "Ο ευρωπαϊκός βίσονας επιστρέφει στα Καρπάθια για να βοηθήσει το περιβάλλον",
-      "simpleText": "Στα βουνά των Καρπαθίων, ένας πολύ παλιός κάτοικος, ο ευρωπαϊκός βίσονας, έχει επιστρέψει. Ο βίσονας είχε χαθεί από τη φύση, αλλά τώρα περιφέρεται πάλι ελεύθερος. Αυτή η επιστροφή είναι σημαντική γιατί βοηθά τη φύση να γίνει πιο υγιής. Ο βίσονας βοηθά στην ανανέωση του εδάφους και στηρίζει τη βιοποικιλότητα, δηλαδή την ποικιλία των ζώων και φυτών στην περιοχή. Αυτό δείχνει πόσο καλή είναι η συνεργασία για τον πλανήτη μας. Η ανάπτυξη της φύσης μας ωφελεί όλους. Δεν ξέρουμε ακόμα πότε θα δούμε περισσότερους βίσονας στην περιοχή.",
+      "simpleTitle": "Ο ευρωπαϊκός βίσονας επιστρέφει στα Καρπάθια",
+      "simpleText": "Στα βουνά των νοτιοδυτικών Καρπαθίων, ο ευρωπαϊκός βίσονας επέστρεψε και περιφέρεται ξανά. Αυτά τα ζώα είχαν εξαφανιστεί, αλλά τώρα είναι πάλι ελεύθερα. Η παρουσία τους βοηθά τη φύση και το περιβάλλον. Οι βίσωνες συμβάλλουν στη βελτίωση του εδάφους και στη διατήρηση περισσότερων ειδών φυτών και ζώων. Αυτή η επιστροφή δείχνει πόσο σημαντική είναι η συνεργασία για τη σωτηρία του πλανήτη. Είναι μια καλή είδηση για όλους μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32115-perivallontika-ofeli-apo-tin-epistrofi-ton-visonon-sta-karpathia/",
       "sourceDomains": [
@@ -670,7 +459,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την επιστροφή ενός είδους που είχε εξαφανιστεί και τα οφέλη του για το οικοσύστημα, εστιάζοντας σε σοβαρά περιβαλλοντικά ζητήματα και τη βιοποικιλότητα.",
+      "categoryReason": "Η επιστροφή του ευρωπαϊκού βίσωνα αφορά σοβαρά ζητήματα περιβάλλοντος και οικοσυστημάτων, τονίζοντας την ανάγκη για συνεργασία στη διατήρηση της βιοποικιλότητας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -679,8 +468,8 @@
     {
       "id": "724bacd1fa93",
       "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
-      "simpleTitle": "Δουλειά τεσσάρων ημερών στην Ολλανδία",
-      "simpleText": "Στην Ολλανδία, οι άνθρωποι δουλεύουν μόνο τέσσερις ημέρες την εβδομάδα. Αυτό έγινε φυσιολογικό και βοηθά τους εργαζόμενους να έχουν πιο ισορροπημένη ζωή. Οι Ολλανδοί εργάζονται κατά μέσο όρο 32,1 ώρες την εβδομάδα, που είναι λιγότερο από οποιαδήποτε άλλη χώρα στην Ευρώπη. Αυτή η αλλαγή δείχνει ότι δεν χρειάζονται πολλές ώρες δουλειάς για να πετύχεις. Σημασία έχει η ποιότητα της εργασίας. Έτσι, οι άνθρωποι έχουν περισσότερο χρόνο για την οικογένειά τους και για να φροντίσουν τον εαυτό τους. Αυτό το μοντέλο μπορεί να είναι καλό και για άλλες χώρες.",
+      "simpleTitle": "Η τετραήμερη εργασία στην Ολλανδία",
+      "simpleText": "Στην Ολλανδία, οι εργαζόμενοι δουλεύουν μόνο τέσσερις ημέρες την εβδομάδα. Αυτό έγινε κανονισμός και έχει δείξει ότι οι εργαζόμενοι είναι πιο ευτυχισμένοι και παραγωγικοί. Η Ολλανδία έχει τον χαμηλότερο χρόνο εργασίας στην Ευρώπη, με 32,1 ώρες την εβδομάδα. Οι άνθρωποι δουλεύουν λιγότερο, αλλά η οικονομία της χώρας παραμένει δυνατή. Αυτό το μοντέλο δείχνει ότι πολλές ώρες δουλειάς δεν είναι πάντα απαραίτητες για να πετύχουμε. Οι εργαζόμενοι έχουν περισσότερο ελεύθερο χρόνο για την οικογένεια και τον εαυτό τους, κάτι που είναι πολύ σημαντικό για τη ζωή τους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
       "sourceDomains": [
@@ -693,190 +482,124 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η τετραήμερη εργασία στην Ολλανδία προάγει μια ισορροπημένη και παραγωγική ζωή, επιτρέποντας στους εργαζόμενους να έχουν περισσότερο χρόνο για την οικογένεια και τον εαυτό τους, κάτι που δημιουργεί μια θετική και χαρούμενη αίσθηση.",
+      "categoryReason": "Η είδηση εστιάζει σε ένα θετικό μοντέλο εργασίας στην Ολλανδία που οδηγεί σε μεγαλύτερη ευτυχία και παραγωγικότητα των εργαζομένων, προάγοντας την ισορροπία μεταξύ επαγγελματικής και προσωπικής ζωής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-17T20:13:04.000Z"
     },
     {
-      "id": "1ca457583e1d",
-      "title": "Μπαρτζώκας: «Ο Παναθηναϊκός το άξιζε»",
-      "simpleTitle": "Μπαρτζώκας: «Ο Παναθηναϊκός ήταν καλύτερος»",
-      "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με 79-68 και πήρε το 22ο Κύπελλό του. Ο Γιώργος Μπαρτζώκας, προπονητής του Ολυμπιακού, είπε πως οι αντίπαλοί τους άξιζαν τη νίκη. Αυτό συνέβη γιατί η ομάδα του είχε προβλήματα. Έλειπαν να παίκτες και κάποιοι τραυματίστηκαν κατά τη διάρκεια του αγώνα. Ο Μπαρτζώκας τόνισε ότι οι αντίπαλοι ήταν πιο έτοιμοι και η ομάδα του δεν έπαιξε καλά.",
+      "id": "5b75bf24bb5f",
+      "title": "Παναθηναϊκός: Με Παντελίδη στο Ηράκλειο!",
+      "simpleTitle": "Παντελίδης στον Παναθηναϊκό για το παιχνίδι στην Κρήτη",
+      "simpleText": "Ο Παντελίδης θα ξεκινήσει βασικός στον Παναθηναϊκό για τον αγώνα με τον ΟΦΗ στην Κρήτη. Ο προπονητής Ράφα Μπενίτεθ ετοίμασε την ομάδα και οι Σιώπης και Κοντούρης επιστρέφουν στην ενδεκάδα. Ο Ερνάντεθ θα παίξει ως κεντρικός αμυντικός. Η ομάδα θα αποτελέσει από τους Λαφόν, Κυριακόπουλος και άλλους παίκτες. Αυτή η αλλαγή είναι σημαντική για τον Παναθηναϊκό, καθώς ελπίζει να πετύχει καλή εμφάνιση στο παιχνίδι. Δεν έχουμε λεπτομέρειες για το πώς θα εξελιχθεί ο αγώνας. Οι φίλοι της ομάδας περιμένουν να δουν αν θα κερδίσουν.",
       "sourceName": "TA NEA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/21/sports/mpartzokas-o-panathinaikos-to-aksize/",
+      "sourceUrl": "https://www.tanea.gr/2026/02/22/sports/panathinaikos-me-pantelidi-sto-irakleio/",
       "sourceDomains": [
         "tanea.gr"
       ],
       "sources": [
         {
           "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/21/sports/mpartzokas-o-panathinaikos-to-aksize/"
+          "url": "https://www.tanea.gr/2026/02/22/sports/panathinaikos-me-pantelidi-sto-irakleio/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αναφέρεται σε έναν αγώνα μπάσκετ μεταξύ Παναθηναϊκού και Ολυμπιακού, όπου ο Παναθηναϊκός κέρδισε το 22ο Κύπελλό του, κάτι που είναι καθαρά αθλητική είδηση. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τον Παναθηναϊκό και την προετοιμασία της ομάδας για τον αγώνα με τον ΟΦΗ, που είναι καθαρά αθλητική και σχετίζεται με ομάδες και παίκτες. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/gc76930152cd78f94b643ff7f0da7a3719091ae4a71b35f03e615d86049a01fb0c0fe1472502c0cb0ffb9d97b4d0d585d55a545a360e5d0dea6c728b56556add5_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T13:10:55.000Z"
+    },
+    {
+      "id": "c7fee3b1b98f",
+      "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Χόκεϊ στον Πάγο-Τελικός (Α) (15:10, ΕΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Δείτε τον τελικό Χόκεϊ στον Πάγο στους Χειμερινούς Ολυμπιακούς Αγώνες",
+      "simpleText": "Σήμερα, στις 15:10, μπορείτε να παρακολουθήσετε τον τελικό Ανδρών στο Χόκεϊ στον Πάγο. Αυτός ο αγώνας είναι μέρος των Χειμερινού Ολυμπιακών Αγώνων «Μιλάνο/Κορτίνα 2026». Η μετάδοση γίνεται ζωντανά από την ΕΡΤ2 ΣΠΟΡ. Μπορείτε επίσης να τον δείτε διαδικτυακά μέσω του ERTFLIX. Είναι μια σπουδαία ευκαιρία να παρακολουθήσετε αθλητές να αγωνίζονται για το χρυσό μετάλλιο.",
+      "sourceName": "ERT News",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-telikos-a-15-10-ert2-spor/",
+      "sourceDomains": [
+        "ertnews.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-telikos-a-15-10-ert2-spor/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Ο τίτλος και το κείμενο αναφέρονται στον τελικό Ανδρών στο Χόκεϊ στον Πάγο, που είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων, άρα ανήκει στην κατηγορία των αθλητικών ειδήσεων. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-21T20:32:11.000Z"
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+      "publishedAt": "2026-02-22T13:05:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "1a346c2548d5",
-        "title": "Νεκρή 45χρονη σε τροχαίο δυστύχημα στην Πάτρα",
-        "simpleTitle": "Θάνατος γυναίκας σε τροχαίο στην Πάτρα",
-        "simpleText": "Ένα σοβαρό τροχαίο ατύχημα συνέβη το πρωί της Κυριακής στην Πάτρα, γύρω στις 2:30. Δύο αυτοκίνητα συγκρούστηκαν με δύναμη στην Οβρυά, στη διασταύρωση Δημοκρατίας και Οδυσσέα Ανδρούτσου. Από τη σύγκρουση, το ένα αυτοκίνητο ανέβηκε στο πεζοδρόμιο και κατέστρεψε μία πινακίδα, πριν σταματήσει λίγα μέτρα πιο πέρα.\n\nΑμέσως ήρθαν αστυνομικοί και ασθενοφόρο. Μία 45χρονη γυναίκα, που ήταν επιβάτης σε ένα από τα αυτοκίνητα, βρέθηκε χωρίς τις αισθήσεις της. Η Τροχαία ερευνά το συμβάν για να καταλάβει τι έχει συμβεί. Υπήρξαν και άλλοι τραυματισμοί από το συμβάν.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/nekri-45xroni-se-troxaio-dystyxima-stin-patra/",
+        "id": "bd0e447077d4",
+        "title": "Σπάτα: Φωτιά σε αποθήκη εταιρείας αθλητικών ειδών (video",
+        "simpleTitle": "Φωτιά σε αποθήκη αθλητικών ειδών στα Σπάτα",
+        "simpleText": "Τη Κυριακή 22 Φεβρουαρίου, ξέσπασε φωτιά σε αποθήκη γνωστής εταιρείας αθλητικών ειδών στα Σπάτα. Η πυρκαγιά προκάλεσε άμεση κινητοποίηση της Πυροσβεστικής Υπηρεσίας. Οι πυροσβέστες χρειάστηκαν 21 άτομα και 9 οχήματα για να σβήσουν τη φωτιά.\n\nΗ φωτιά εκδηλώθηκε στο 18ο χιλιόμετρο της Λεωφόρου Σπάτων, σε μια περιοχή γεμάτη εμπορικές εγκαταστάσεις. Οι αρχές παραμένουν εκεί για να ελέγξουν την κατάσταση και να αποτρέψουν την εξάπλωση της φωτιάς. Δεν έχουμε περισσότερες πληροφορίες για το πώς ξεκίνησε η φωτιά.",
+        "sourceName": "TA NEA, TO BHMA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/22/greece/spata-fotia-se-apothiki-etaireias-athlitikon-eidon/",
         "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/nekri-45xroni-se-troxaio-dystyxima-stin-patra/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/greece/tragodia-stin-patra-nekri-45xroni-se-troxaio-pos-synevi/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά ένα σοβαρό τροχαίο δυστύχημα που έχει θανάσιμες συνέπειες, γεγονός που την κατατάσσει στις σοβαρές ειδήσεις.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g587c3283c39e7ea9845960623eba275ea28e2483bcdded738f9e2de613f367d0f79e81301e05d9291c8d5d2babc178256692c80ca8be9b77481084b0b2c9e124_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T07:31:17.000Z"
-      },
-      {
-        "id": "2c191ed7858e",
-        "title": "Οι 10 γεωτρήσεις για υδρογονάνθρακες που θα γίνουν στην Ελλάδα μέχρι το 2032",
-        "simpleTitle": "Δέκα γεωτρήσεις για φυσικό αέριο στην Ελλάδα έως το 2032",
-        "simpleText": "Στην Ελλάδα, προγραμματίζονται δέκα ερευνητικές γεωτρήσεις για φυσικό αέριο από το 2027 μέχρι το 2032. Οι έρευνες θα γίνουν σε περιοχές όπως το Ιόνιο και νότια της Κρήτης. Μια από αυτές τις γεωτρήσεις θα ξεκινήσει το 2027, και συνολικά θα χρειαστεί περίπου 1 δισ. ευρώ για όλες τις γεωτρήσεις. Αν οι προκαταρκτικές έρευνες δείξουν ότι υπάρχουν κοιτάσματα, αυτό θα είναι σημαντικό για τη χώρα μας. Οι γεωτρήσεις μπορεί να παρέχουν ενέργεια και να ενισχύσουν την οικονομία. Οι σεισμικές έρευνες, που θα είναι οι πρώτες, θα ξεκινήσουν στο τέλος αυτού του χρόνου.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/oi-10-geotriseis-gia-ydrogonanthrakes-pou-tha-ginoun-stin-ellada-mexri-to-2032/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/roi-idiseon/oi-10-geotriseis-gia-ydrogonanthrakes-pou-tha-ginoun-stin-ellada-mexri-to-2032/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/economy/oi-deka-geotriseis-gia-ydrogonanthrakes-poy-tha-ginoyn-stin-ellada-tin-periodo-2027-2032/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά προγραμματισμένες γεωτρήσεις για υδρογονάνθρακες στην Ελλάδα, που έχουν σημαντικές οικονομικές και περιβαλλοντικές επιπτώσεις, καθιστώντας την σοβαρή και μείζονα πολιτική και οικονομική σημασία.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gf0dbccf160fa0480c22d890b260098f656e75c14551d5d01ca9a9738223800a10a3fe11b9e9e437eeb3ec30804890f9d2619a20db81503093394e977b9ff9549_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T07:17:48.000Z"
-      },
-      {
-        "id": "d05ae59aac4f",
-        "title": "Επίθεση λύκου στην Πάρνηθα: «Μου έσκισε τα ρούχα και με έγδαρε στη μέση», λέει περιπατητής",
-        "simpleTitle": "Επίθεση λύκου στην Πάρνηθα",
-        "simpleText": "Στην Πάρνηθα, ένας άνθρωπος δέχτηκε επίθεση από λύκο. Ο περιπατητής είπε ότι ο λύκος του έσκισε τα ρούχα και τον τραυμάτισε. Αυτό συνέβη πρόσφατα και οι αρχές ανησυχούν για την ασφάλεια των επισκεπτών. Ο δήμος Αχαρνών έχει βγάλει ανακοινώσεις και οδηγίες για το πώς να συμπεριφέρεστε αν δείτε λύκο. Είναι σημαντικό να είστε προσεκτικοί όταν περπατάτε στην περιοχή, για να αποφύγετε κινδύνους. Δεν έχουν δοθεί περισσότερες πληροφορίες για τα αίτια της επίθεσης.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/society/564091558/epithesi-lykoy-stin-parnitha-moy-eskise-ta-roycha-kai-me-egdare-sti-mesi-leei-katoikos/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564091558/epithesi-lykoy-stin-parnitha-moy-eskise-ta-roycha-kai-me-egdare-sti-mesi-leei-katoikos/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/22/society/epithesi-lykou-stin-parnitha-mou-eskise-ta-rouxa-me-egdare/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η επίθεση λύκου σε περιπατητή εγείρει σοβαρά ζητήματα ασφάλειας και υγείας για τους πολίτες που επισκέπτονται την περιοχή, γεγονός που σχετίζεται με την πολιτική και τη διαχείριση των φυσικών πόρων.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gabbb9daa0dbd5308ee5b6de8be7c278648d04061462477d89e3dd322c6bcf3c0aa5434f7360b3b3bb8f17a3b92f463fff8d409d7d896d91218799e1e89c29b44_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T06:52:00.000Z"
-      },
-      {
-        "id": "4ba0cc61e7d0",
-        "title": "ΗΠΑ: Ο Τραμπ στέλνει πλωτό νοσοκομείο στη Γροιλανδία",
-        "simpleTitle": "Ο Τραμπ στέλνει πλωτό νοσοκομείο στη Γροιλανδία",
-        "simpleText": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, ανακοίνωσε ότι θα στείλει ένα πλωτό νοσοκομείο στη Γροιλανδία. Αυτή η δήλωση έγινε το Σάββατο, όταν ο Τραμπ μίλησε για αυτό από τη πλατφόρμα Truth Social. Λέει ότι συνεργάζεται με τον κυβερνήτη της Λουιζιάνα, Τζεφ Λάντρι, για να βοηθήσουν τους ανθρώπους που έχουν ανάγκη ιατρικής βοήθειας εκεί.\n\nΟ σκοπός της αποστολής είναι να φροντίσουν ασθενείς που δεν έχουν την απαιτούμενη φροντίδα. Δεν υπάρχει ακόμα πληροφορία αν η Δανία ή η Γροιλανδία ζήτησε αυτή την βοήθεια. Είναι σημαντικό να παρέχεις βοήθεια σε ανθρώπους που υποφέρουν.",
-        "sourceName": "Kathimerini, TA NEA",
-        "sourceUrl": "https://www.kathimerini.gr/world/564091522/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564091522/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/world/ipa-o-tramp-stelnei-ploto-nosokomeio-sti-groilandia/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Αυτή η είδηση ασχολείται με πολιτικά και ιατρικά ζητήματα, όπως η αποστολή βοήθειας σε ασθενείς και οι σχέσεις ΗΠΑ-Γροιλανδίας, που είναι σοβαρές και σχετίζονται με την υγεία και την πολιτική.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g8593a860d0e52ef87ce6aeb3392cb94eec002d6d994482fc87c2bb860e7cd0e44de69e2143118e21799b4f50448a1c059ae800ac5c4c8eb1817ff3b9f561400d_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T06:41:10.000Z"
-      },
-      {
-        "id": "6d5a53903986",
-        "title": "Πτολεμαΐδα: Σοβαρός τραυματισμός 17χρονου από κροτίδα – Κινδυνεύει με ακρωτηριασμό",
-        "simpleTitle": "Πτολεμαΐδα: Τραυματισμός 17χρονου από κροτίδα",
-        "simpleText": "Ένα σοβαρό ατύχημα με κροτίδα συνέβη το απόγευμα του Σαββάτου στην Πτολεμαΐδα. Ένας 17χρονος τραυματίστηκε σοβαρά στα χέρια του και τώρα κινδυνεύει να χάσει δύο ή τρία δάχτυλα. Το περιστατικό συνέβη στο πάρκο, όταν προσπάθησε να ενεργοποιήσει μια φωτοβολίδα και η κροτίδα εξερράγη ξαφνικά. Άμεσα ήρθε ασθενοφόρο και τον μετέφερε στο νοσοκομείο. Εκεί οι γιατροί προσπαθούν να ελέγξουν την αιμορραγία και να σώσουν τα δάχτυλά του. Οι αρχές ερευνούν το τι συνέβη και υπενθυμίζουν στους γονείς και στους νέους να προσέχουν με τις κροτίδες, γιατί μπορεί να είναι πολύ επικίνδυνες.",
-        "sourceName": "ERT News, TA NEA, TO BHMA",
-        "sourceUrl": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/",
-        "sourceDomains": [
-          "ertnews.gr",
           "tanea.gr",
           "tovima.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/"
-          },
-          {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/greece/ptolemaida-sovaros-traymatismos-17xronou-apo-krotida-kindyneyei-me-akrotiriasmo/"
+            "url": "https://www.tanea.gr/2026/02/22/greece/spata-fotia-se-apothiki-etaireias-athlitikon-eidon/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/22/society/ptolemaida-krotida-ekserragi-sta-xeria-17xronou-kindyneyei-me-akrotiriasmo/"
+            "url": "https://www.tovima.gr/2026/02/22/society/fotia-sta-spata-se-apothiki-gnostis-etaireias-athlitikon-eidon/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρό τραυματισμό ενός ανηλίκου από κροτίδα, με κίνδυνο ακρωτηριασμού, γεγονός που εμπεριέχει σοβαρούς κινδύνους και έχει κοινωνικές προεκτάσεις.",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό περιστατικό φωτιάς σε αποθήκη μιας εταιρείας, που απαιτεί άμεση κινητοποίηση των πυροσβεστικών δυνάμεων και θέτει ζητήματα ασφάλειας και προστασίας των ανθρώπων και των εγκαταστάσεων.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g0580f1f6cb48ff9578551aa261130896a4271669d5a499de9302964eddd42a2c638ef1d99038d8af6163acf0edc74980f25c41a880b67dca0d95e135966ba226_1280.jpg",
+        "videoUrl": "https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Flamprou%2Fvideos%2F1430856445195746%2F%3Fidorvanity%3D935098050222771&amp;show_text=false&amp;width=267&amp;t=0",
+        "publishedAt": "2026-02-22T15:24:18.000Z"
+      },
+      {
+        "id": "45d0619b8f8a",
+        "title": "Ζαν Νοέλ Μπαρό: Βαριά και ταπεινωτική ήττα ο απολογισμός του Πούτιν στον πόλεμο με την Ουκρανία",
+        "simpleTitle": "** Ηττημένος ο Πούτιν στον πόλεμο με την Ουκρανία",
+        "simpleText": "** Ο υπουργός Εξωτερικών της Γαλλίας, Ζαν-Νοέλ Μπαρό, είπε ότι ο Βλαντίμιρ Πούτιν έχει πανηγυρικά ηττηθεί στον πόλεμο στην Ουκρανία, μετά από τέσσερα χρόνια συγκρούσεων. Ο ουκρανικός στρατός πήρε πίσω 300 τετραγωνικά χιλιόμετρα εδάφους με γενναιότητα. Ο πρόεδρος της Ουκρανίας, Βολοντίμιρ Ζελένσκι, δήλωσε ότι η Ρωσία έχει υποστεί μεγάλες απώλειες, με χιλιάδες στρατιώτες να σκοτώνονται καθημερινά. Ο Μπαρό ανέφερε επίσης ότι η ρωσική οικονομία έχει μεγάλα προβλήματα, όπως η έλλειψη καυσίμων και η απεργία στις τηλεπικοινωνίες. Η κατάσταση αυτή είναι σοβαρή και μπορεί να επηρεάσει πολλούς ανθρώπους στην περιοχή.",
+        "sourceName": "ERT News, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/zan-noel-mparo-varia-kai-tapeinotiki-itta-o-apologismos-tou-poutin-ston-polemo-me-tin-oukrania/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/zan-noel-mparo-varia-kai-tapeinotiki-itta-o-apologismos-tou-poutin-ston-polemo-me-tin-oukrania/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/22/world/oykrania-varia-kai-tapeinotiki-itta-o-apologismos-gia-ton-poytin-ystera-apo-tessera-xronia/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σοβαρούς πολιτικούς και στρατηγικούς απολογισμούς σχετικά με τον πόλεμο στην Ουκρανία και τις συνέπειές του στην περιοχή.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-22T06:33:08.000Z"
+        "publishedAt": "2026-02-22T15:02:34.000Z"
       },
       {
-        "id": "beffcb06ebf2",
-        "title": "Μετρό – Γραμμή 2: Ποιοι σταθμοί θα κλείνουν νωρίτερα από τη Δευτέρα 23 Φεβρουαρίου",
-        "simpleTitle": "Κλείσιμο Σταθμών στο Μετρό Γραμμή 2",
-        "simpleText": "Από τη Δευτέρα, 23 Φεβρουαρίου, ορισμένοι σταθμοί στη Γραμμή 2 του Μετρό στην Αθήνα θα κλείνουν νωρίτερα. Οι σταθμοί Σύνταγμα, Ακρόπολη και Συγγρού Φιξ θα κλείνουν στις 21:40, δηλαδή δύομισή ώρες νωρίτερα από το κανονικό. Οι εργαζόμενοι θα κάνουν εργασίες για καλύτερη μετακίνηση και εγκατάσταση δικτύου 5G. Οι τελευταίοι συρμοί θα φεύγουν από διαφορετικούς σταθμούς στις 21:25 και 21:37. Για να βοηθηθούν οι επιβάτες, υπάρχει νέα λεωφορειακή γραμμή Χ15 που θα συνδέει Πανεπιστήμιο και Άγιο Ιωάννη τις νύχτες. Αν χρειαστείτε να μετακινηθείτε, ελέγξτε τις ώρες.",
+        "id": "fdf99f22ec3c",
+        "title": "Guardian: Αφιέρωμα στους 200 της Καισαριανής – «Τώρα μπορούμε να δούμε το θάρρος τους»",
+        "simpleTitle": "Αφιέρωμα στον θάρρος των 200 στην Καισαριανή",
+        "simpleText": "Πρόσφατα, η βρετανική εφημερίδα Guardian δημοσίευσε ένα αφιέρωμα για τους 200 Έλληνες που εκτελέστηκαν στο Σκοπευτήριο Καισαριανής στις 1 Μαΐου 1944. Οι ιστορικές φωτογραφίες που βρέθηκαν, δείχνουν τους άνδρες να περπατούν προς το θάνατο με γενναιότητα. Αυτές οι εικόνες αναδεικνύουν την αντίσταση τους και έχουν συγκινήσει πολλούς. Το ελληνικό υπουργείο Πολιτισμού ανακοίνωσε ότι θα αγοράσει αυτές τις φωτογραφίες, που θεωρούνται πολύτιμα ντοκουμέντα.\n\nΗ εκτέλεση αυτών των ανδρών ήταν μια τραγική στιγμή για την Ελλάδα και έχει αφήσει ισχυρό αποτύπωμα στην ιστορία. Οι αντιδράσεις του κόσμου δείχνουν ότι η μνήμη τους ζει ακόμα σήμερα.",
         "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/metro-grammi-2-poioi-stathmoi-tha-kleinoun-noritera-apo-ti-deytera-23-fevrouariou/",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/guardian-afieroma-stous-200-tis-kaisarianis-tora-mporoume-na-doume-to-tharros-tous/",
         "sourceDomains": [
           "ertnews.gr",
           "kathimerini.gr"
@@ -884,27 +607,116 @@
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/metro-grammi-2-poioi-stathmoi-tha-kleinoun-noritera-apo-ti-deytera-23-fevrouariou/"
+            "url": "https://www.ertnews.gr/eidiseis/diethni/guardian-afieroma-stous-200-tis-kaisarianis-tora-mporoume-na-doume-to-tharros-tous/"
           },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564091552/metro-grammi-2-poioi-stathmoi-tha-kleinoyn-noritera-apo-ayrio/"
+            "url": "https://www.kathimerini.gr/society/564091801/afieroma-toy-guardian-stoys-200-tis-kaisarianis/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά κυριολεκτικά σημαντικά ζητήματα σχετικά με τις αλλαγές στη λειτουργία του Μετρό, οι οποίες επηρεάζουν τη δημόσια συγκοινωνία και την καθημερινότητα των πολιτών.",
+        "categoryReason": "Η είδηση αφορά την ιστορική μνήμη και την τραγωδία των 200 Ελλήνων που εκτελέστηκαν κατά τη διάρκεια της ναζιστικής κατοχής, αναδεικνύοντας σοβαρά ζητήματα ιστορίας και ανθρωπίνων δικαιωμάτων.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-22T06:22:39.000Z"
+        "publishedAt": "2026-02-22T14:55:00.000Z"
+      },
+      {
+        "id": "9f35b0de9d2a",
+        "title": "Μπλοκάρει η Ουγγαρία το 20ο πακέτο ευρωπαϊκών κυρώσεων κατά της Ρωσίας",
+        "simpleTitle": "Η Ουγγαρία δεν επιτρέπει το νέο πακέτο κυρώσεων κατά της Ρωσίας",
+        "simpleText": "Η Ουγγαρία ανακοίνωσε ότι θα μπλοκάρει την έγκριση νέων κυρώσεων κατά της Ρωσίας. Αυτό συμβαίνει γιατί οι Ουκρανοί δεν επιτρέπουν την παράδοση ρωσικού πετρελαίου στην Ουγγαρία. Ο υπουργός Εξωτερικών της Ουγγαρίας είπε ότι όσο συμβαίνει αυτό, η χώρα του δεν θα υποστηρίξει αποφάσεις που είναι σημαντικές για την ΕΕ. Οι νέες κυρώσεις αφορούν τον χρηματοπιστωτικό και ενεργειακό τομέα και είναι οι εικοστές από την αρχή της ρωσικής επίθεσης στην Ουκρανία. Η κατάσταση είναι σοβαρή, γιατί οι χώρες στην Κεντρική Ευρώπη χρειάζονται χρόνο για να μειώσουν την εξάρτησή τους από το ρωσικό πετρέλαιο.",
+        "sourceName": "ERT News, Kathimerini, TA NEA",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/mplokarei-i-ouggaria-to-20o-paketo-eyropaikon-kyroseon-kata-tis-rosias/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "kathimerini.gr",
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/eidiseis/diethni/mplokarei-i-ouggaria-to-20o-paketo-eyropaikon-kyroseon-kata-tis-rosias/"
+          },
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564091783/mploko-tis-oyggarias-sto-20o-paketo-kyroseon-kata-tis-rosias/"
+          },
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/22/world/i-oyggaria-tha-mplokarei-to-20o-paketo-kyroseon-kata-tis-rosias/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρει τις κυρώσεις της ΕΕ κατά της Ρωσίας και την πολιτική στάση της Ουγγαρίας, κάτι που σχετίζεται με σοβαρά ζητήματα πολιτικής και διεθνών σχέσεων.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-22T14:42:34.000Z"
+      },
+      {
+        "id": "55f6742b1a3f",
+        "title": "Θεσσαλονίκη: Πρόστιμο σε οδηγό ταξί που χρέωνε με εφαρμογή αντί για ταξίμετρο",
+        "simpleTitle": "Πρόστιμο σε ταξιτζή στη Θεσσαλονίκη για παράβαση",
+        "simpleText": "Στη Θεσσαλονίκη, ένας οδηγός ταξί πήρε πρόστιμο επειδή χρέωνε τις διαδρομές με μια εφαρμογή και όχι με το ταξίμετρο. Οι αστυνομικοί της Τροχαίας το ανακάλυψαν κατά τη διάρκεια ελέγχων. Αυτό είναι σημαντικό γιατί το ταξίμετρο πρέπει να χρησιμοποιείται για να διασφαλίζεται ότι οι επιβάτες πληρώνουν σωστά και δίκαια. Δεν έχει ανακοινωθεί πόσο είναι το πρόστιμο. Είναι σημαντικό οι οδηγοί ταξί να τηρούν τους κανόνες για την ασφάλεια των επιβατών.",
+        "sourceName": "Kathimerini, News.gr",
+        "sourceUrl": "https://www.kathimerini.gr/society/564091699/thessaloniki-prostimo-se-odigo-taxi-poy-chreone-me-efarmogi-anti-gia-taximetro/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/society/564091699/thessaloniki-prostimo-se-odigo-taxi-poy-chreone-me-efarmogi-anti-gia-taximetro/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4082308/taxitzis-stin-thessaloniki-chreone-tis-kourses-apo-efarmogi-ke-ochi-me-to-taximetro.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά παράβαση κανονισμών που σχετίζονται με τη λειτουργία των ταξί και την ασφάλεια των επιβατών, γεγονός που την καθιστά σοβαρή.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/gd4937feeafb1ecbc1c211cbd9bbc25691bcd6cef23710f1bfdec083155fed5af554fa454a7ed1e4ab5a5afa297d088c622e207f62472cabf5e7cb2372577f495_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-22T14:31:39.000Z"
+      },
+      {
+        "id": "5dd9b313f2c3",
+        "title": "Η Μυστική Υπηρεσία των ΗΠΑ σκότωσε ένα άτομο που προσπάθησε να μπει στο Μαρ α Λάγκο",
+        "simpleTitle": "Άτομο σκοτώθηκε όταν προσπάθησε να μπει στο Μαρ α Λάγκο**",
+        "simpleText": "Η Μυστική Υπηρεσία των Ηνωμένων Πολιτειών σκότωσε έναν άνδρα που πήγε κοντά στο Μαρ α Λάγκο, το σπίτι του πρώην προεδρου Ντόναλντ Τραμπ στη Φλόριντα. Το συμβάν έγινε όταν ο άνδρας βρέθηκε με όπλο και καύσιμο κοντά στην είσοδο του χώρου. Οι πράκτορες τον προειδοποίησαν να αφήσει τα αντικείμενα, αλλά εκείνος σήκωσε το όπλο. Ο Τραμπ δεν ήταν εκεί τη στιγμή του περιστατικού. Η Μυστική Υπηρεσία έχει αναφέρει ότι υπάρχουν κίνδυνοι για την ασφάλεια του πρώην προεδρου, γι' αυτό αντιδρούν γρήγορα σε τέτοιες καταστάσεις. Δεν έχουν δημοσιοποιηθεί πληροφορίες για το όνομα του άνδρα που σκοτώθηκε.",
+        "sourceName": "ERT News, News.gr",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/i-mystiki-ypiresia-ton-ipa-skotose-ena-atomo-pou-prospathise-na-mpei-sto-mar-a-lagko/",
+        "sourceDomains": [
+          "ertnews.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/roi-idiseon/i-mystiki-ypiresia-ton-ipa-skotose-ena-atomo-pou-prospathise-na-mpei-sto-mar-a-lagko/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/kosmos/article/4082341/i-asfalia-tou-trab-skotose-20chrono-pou-prospathise-na-bi-sti-vila-tou-sto-mar-a-lagko.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά σοβαρό περιστατικό που σχετίζεται με την ασφάλεια του πρώην προεδρου Ντόναλντ Τραμπ και περιλαμβάνει τη χρήση πυροβολισμών από την Μυστική Υπηρεσία, γεγονός που εγείρει σοβαρά θέματα σχετικά με την ασφάλεια και την πολιτική κατάσταση.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-22T14:26:14.000Z"
       }
     ],
     "happy": [
       {
         "id": "017b0e5fc632",
         "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-        "simpleTitle": "Νωρίτερα αρχίζει ο κοινωνικός τουρισμός το 2026",
-        "simpleText": "Το πρόγραμμα του κοινωνικού τουρισμού στην Ελλάδα αρχίζει νωρίτερα φέτος, για την περίοδο 2026 - 2027. Η νέα ημερομηνία είναι η 1η Μαΐου. Οι αιτήσεις θα ανοίξουν μετά το Πάσχα και οι πολίτες θα μπορούν να απολαύσουν ανοιξιάτικες διακοπές. Το πρόγραμμα έχει στόχο να στηρίξει οικονομικά τις οικογένειες που χρειάζονται βοήθεια και τις τοπικές κοινότητες. Με κονδύλι 50 εκατομμυρίων ευρώ, θα υπάρχουν 300.000 κουπόνια για διακοπές. Αυτό θα βοηθήσει πολλούς ανθρώπους να ξεκουραστούν και να ταξιδέψουν.",
+        "simpleTitle": "Κοινωνικός τουρισμός 2026: Νωρίτερα ξεκινά το πρόγραμμα",
+        "simpleText": "Καλή είδηση για πολλές οικογένειες στην Ελλάδα! Το πρόγραμμα κοινωνικού τουρισμού για το 2026-2027 αρχίζει νωρίς, συγκεκριμένα στις 1 Μαΐου. Οι αιτήσεις θα γίνονται μετά το Πάσχα. Αυτή η αλλαγή βοηθάει τους ανθρώπους και τις τοπικές οικονομίες, καθώς προσφέρει ευκαιρίες για διακοπές. Ο προϋπολογισμός του προγράμματος είναι 50 εκατομμύρια ευρώ. Σκοπός είναι να δοθούν 300.000 επιταγές, ώστε να μπορέσουν περισσότερα άτομα να ξεκουραστούν σε ωραία μέρη. Είναι μια σημαντική βοήθεια για όσους το χρειάζονται.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
         "sourceDomains": [
@@ -917,7 +729,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά την πρόωρη έναρξη του προγράμματος κοινωνικού τουρισμού, που σκοπεύει να στηρίξει οικονομικά τις οικογένειες και τις τοπικές κοινότητες, προσφέροντας ευχάριστες προοπτικές για καλοκαιρινές διακοπές σε πολλούς ανθρώπους.",
+        "categoryReason": "Η είδηση αφορά το πρόγραμμα κοινωνικού τουρισμού που θα διευκολύνει πολλές οικογένειες στην Ελλάδα να ξεκουραστούν και να κάνουν διακοπές, γεγονός που δημιουργεί θετικά συναισθήματα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -926,8 +738,8 @@
       {
         "id": "c54fb8d79f04",
         "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-        "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μία κάμερα",
-        "simpleText": "Ένας άνδρας στην Αγγλία έκανε μια πολύ ενδιαφέρουσα ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από ένα κατάστημα που πουλάει μεταχειρισμένα πράγματα. Μέσα στη μηχανή, βρήκε ένα φιλμ που είχε μείνει κρυφό για 70 χρόνια. Έδωσε τη μηχανή σε ειδικούς, που κατάφεραν να κάνουν τις εικόνες από το φιλμ να εμφανιστούν. Αν και η διαδικασία ήταν δύσκολη, οι ειδικοί κατάφεραν να δουν καθαρές φωτογραφίες από το παρελθόν. Αυτή η ανακάλυψη μας θυμίζει πόσες ιστορίες κρύβουν παλιές φωτογραφίες.",
+        "simpleTitle": "Άνδρας βρήκε παλιό φιλμ σε vintage φωτογραφική μηχανή",
+        "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια εντυπωσιακή ανακάλυψη. Αγοράζοντας μια παλιά φωτογραφική μηχανή, βρήκε μέσα της ένα φιλμ που είχε να χρησιμοποιηθεί για 70 χρόνια. Η κάμερα είναι από το 1930 και κόστισε μόνο 13 δολάρια. Ο άνδρας έδωσε τη μηχανή σε ειδικούς που την εξέτασαν προσεκτικά. Παρόλο που το φιλμ είχε υποστεί ζημιές από τον χρόνο, κατάφεραν να εμφανίσουν καθαρές φωτογραφίες. Αυτή η ανακάλυψη μας δίνει εικόνες από το παρελθόν και μας θυμίζει τις ιστορίες των ανθρώπων εκείνης της εποχής.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
         "sourceDomains": [
@@ -940,17 +752,17 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά μια θετική και ενδιαφέρουσα ανακάλυψη, που προσφέρει ευχάριστες στιγμές και αναμνήσεις από το παρελθόν, κάνοντάς μας να χαμογελάσουμε.",
+        "categoryReason": "Η είδηση αφορά μια θετική και εντυπωσιακή ανακάλυψη που προσφέρει ιστορικές εικόνες και προκαλεί χαρά στον άνθρωπο που την έκανε, συνδυάζοντας έτσι την ανακάλυψη με ευχάριστα συναισθήματα.",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/g4e4040afd8d11d0114a925096b6f47a7ef073b2b5458098013b135e679ed9509fcac4f2d219f0ebd085a859af623bc7ee406235f6d48fe3b9696f81c905953df_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-20T10:08:32.000Z"
       },
       {
         "id": "724bacd1fa93",
         "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
-        "simpleTitle": "Δουλειά τεσσάρων ημερών στην Ολλανδία",
-        "simpleText": "Στην Ολλανδία, οι άνθρωποι δουλεύουν μόνο τέσσερις ημέρες την εβδομάδα. Αυτό έγινε φυσιολογικό και βοηθά τους εργαζόμενους να έχουν πιο ισορροπημένη ζωή. Οι Ολλανδοί εργάζονται κατά μέσο όρο 32,1 ώρες την εβδομάδα, που είναι λιγότερο από οποιαδήποτε άλλη χώρα στην Ευρώπη. Αυτή η αλλαγή δείχνει ότι δεν χρειάζονται πολλές ώρες δουλειάς για να πετύχεις. Σημασία έχει η ποιότητα της εργασίας. Έτσι, οι άνθρωποι έχουν περισσότερο χρόνο για την οικογένειά τους και για να φροντίσουν τον εαυτό τους. Αυτό το μοντέλο μπορεί να είναι καλό και για άλλες χώρες.",
+        "simpleTitle": "Η τετραήμερη εργασία στην Ολλανδία",
+        "simpleText": "Στην Ολλανδία, οι εργαζόμενοι δουλεύουν μόνο τέσσερις ημέρες την εβδομάδα. Αυτό έγινε κανονισμός και έχει δείξει ότι οι εργαζόμενοι είναι πιο ευτυχισμένοι και παραγωγικοί. Η Ολλανδία έχει τον χαμηλότερο χρόνο εργασίας στην Ευρώπη, με 32,1 ώρες την εβδομάδα. Οι άνθρωποι δουλεύουν λιγότερο, αλλά η οικονομία της χώρας παραμένει δυνατή. Αυτό το μοντέλο δείχνει ότι πολλές ώρες δουλειάς δεν είναι πάντα απαραίτητες για να πετύχουμε. Οι εργαζόμενοι έχουν περισσότερο ελεύθερο χρόνο για την οικογένεια και τον εαυτό τους, κάτι που είναι πολύ σημαντικό για τη ζωή τους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
         "sourceDomains": [
@@ -963,7 +775,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η τετραήμερη εργασία στην Ολλανδία προάγει μια ισορροπημένη και παραγωγική ζωή, επιτρέποντας στους εργαζόμενους να έχουν περισσότερο χρόνο για την οικογένεια και τον εαυτό τους, κάτι που δημιουργεί μια θετική και χαρούμενη αίσθηση.",
+        "categoryReason": "Η είδηση εστιάζει σε ένα θετικό μοντέλο εργασίας στην Ολλανδία που οδηγεί σε μεγαλύτερη ευτυχία και παραγωγικότητα των εργαζομένων, προάγοντας την ισορροπία μεταξύ επαγγελματικής και προσωπικής ζωής.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -972,92 +784,59 @@
     ],
     "sports": [
       {
-        "id": "1ca457583e1d",
-        "title": "Μπαρτζώκας: «Ο Παναθηναϊκός το άξιζε»",
-        "simpleTitle": "Μπαρτζώκας: «Ο Παναθηναϊκός ήταν καλύτερος»",
-        "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με 79-68 και πήρε το 22ο Κύπελλό του. Ο Γιώργος Μπαρτζώκας, προπονητής του Ολυμπιακού, είπε πως οι αντίπαλοί τους άξιζαν τη νίκη. Αυτό συνέβη γιατί η ομάδα του είχε προβλήματα. Έλειπαν να παίκτες και κάποιοι τραυματίστηκαν κατά τη διάρκεια του αγώνα. Ο Μπαρτζώκας τόνισε ότι οι αντίπαλοι ήταν πιο έτοιμοι και η ομάδα του δεν έπαιξε καλά.",
+        "id": "5b75bf24bb5f",
+        "title": "Παναθηναϊκός: Με Παντελίδη στο Ηράκλειο!",
+        "simpleTitle": "Παντελίδης στον Παναθηναϊκό για το παιχνίδι στην Κρήτη",
+        "simpleText": "Ο Παντελίδης θα ξεκινήσει βασικός στον Παναθηναϊκό για τον αγώνα με τον ΟΦΗ στην Κρήτη. Ο προπονητής Ράφα Μπενίτεθ ετοίμασε την ομάδα και οι Σιώπης και Κοντούρης επιστρέφουν στην ενδεκάδα. Ο Ερνάντεθ θα παίξει ως κεντρικός αμυντικός. Η ομάδα θα αποτελέσει από τους Λαφόν, Κυριακόπουλος και άλλους παίκτες. Αυτή η αλλαγή είναι σημαντική για τον Παναθηναϊκό, καθώς ελπίζει να πετύχει καλή εμφάνιση στο παιχνίδι. Δεν έχουμε λεπτομέρειες για το πώς θα εξελιχθεί ο αγώνας. Οι φίλοι της ομάδας περιμένουν να δουν αν θα κερδίσουν.",
         "sourceName": "TA NEA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/21/sports/mpartzokas-o-panathinaikos-to-aksize/",
+        "sourceUrl": "https://www.tanea.gr/2026/02/22/sports/panathinaikos-me-pantelidi-sto-irakleio/",
         "sourceDomains": [
           "tanea.gr"
         ],
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/21/sports/mpartzokas-o-panathinaikos-to-aksize/"
+            "url": "https://www.tanea.gr/2026/02/22/sports/panathinaikos-me-pantelidi-sto-irakleio/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αναφέρεται σε έναν αγώνα μπάσκετ μεταξύ Παναθηναϊκού και Ολυμπιακού, όπου ο Παναθηναϊκός κέρδισε το 22ο Κύπελλό του, κάτι που είναι καθαρά αθλητική είδηση. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τον Παναθηναϊκό και την προετοιμασία της ομάδας για τον αγώνα με τον ΟΦΗ, που είναι καθαρά αθλητική και σχετίζεται με ομάδες και παίκτες. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://pixabay.com/get/gc76930152cd78f94b643ff7f0da7a3719091ae4a71b35f03e615d86049a01fb0c0fe1472502c0cb0ffb9d97b4d0d585d55a545a360e5d0dea6c728b56556add5_1280.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-02-21T20:32:11.000Z"
+        "publishedAt": "2026-02-22T13:10:55.000Z"
       },
       {
-        "id": "fd982c93d3a5",
-        "title": "Ολυμπιακός – Παναθηναϊκός 68-79: «Πράσινο» το Κύπελλο Ελλάδας",
-        "simpleTitle": "Παναθηναϊκός νίκησε τον Ολυμπιακό στο Κύπελλο",
-        "simpleText": "Ο Παναθηναϊκός κέρδισε τον Ολυμπιακό με σκορ 79-68 στον τελικό του Κυπέλλου Ελλάδας. Ο αγώνας έγινε πρόσφατα και οι πράσινοι έπαιξαν πολύ καλά. Ήταν ιδιαίτερα καλοί οι Νάιτζελ Χέιζ-Ντέιβις και Νίκος Ρογκαβόπουλος, που βοήθησαν την ομάδα τους να κερδίσει. Ο Ολυμπιακός είχε τον Βεζένκοφ ως κορυφαίο σκόρερ, αλλά δεν ήταν αρκετός να αλλάξει την κατάσταση.\n\nΗ νίκη αυτή είναι σημαντική γιατί ο Παναθηναϊκός κατέκτησε το Κύπελλο για δεύτερη χρονιά. Αρκετοί φίλαθλοι και δύο ομάδες επηρεάστηκαν από το αποτέλεσμα. Ο τελικός έδειξε ποια ομάδα είναι πιο δυνατή φέτος.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/21/sports/basketball/olympiakos-panathinaikos-68-79-prasino-to-kypello-elladas/",
+        "id": "c7fee3b1b98f",
+        "title": "Live streaming: Δείτε τους Χειμερινούς Ολυμπιακούς Αγώνες «Μιλάνο/Κορτίνα 2026» – Χόκεϊ στον Πάγο-Τελικός (Α) (15:10, ΕΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Δείτε τον τελικό Χόκεϊ στον Πάγο στους Χειμερινούς Ολυμπιακούς Αγώνες",
+        "simpleText": "Σήμερα, στις 15:10, μπορείτε να παρακολουθήσετε τον τελικό Ανδρών στο Χόκεϊ στον Πάγο. Αυτός ο αγώνας είναι μέρος των Χειμερινού Ολυμπιακών Αγώνων «Μιλάνο/Κορτίνα 2026». Η μετάδοση γίνεται ζωντανά από την ΕΡΤ2 ΣΠΟΡ. Μπορείτε επίσης να τον δείτε διαδικτυακά μέσω του ERTFLIX. Είναι μια σπουδαία ευκαιρία να παρακολουθήσετε αθλητές να αγωνίζονται για το χρυσό μετάλλιο.",
+        "sourceName": "ERT News",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-telikos-a-15-10-ert2-spor/",
         "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
+          "ertnews.gr"
         ],
         "sources": [
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/21/sports/basketball/olympiakos-panathinaikos-68-79-prasino-to-kypello-elladas/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/21/sports/olympiakos-panathinaikos-68-79-prasino-to-kypello-me-protagonistes-tous-rogkavopoulo-kai-xeiz-nteivis/"
+            "title": "ERT News",
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-tous-xeimerinous-olympiakous-agones-milano-kortina-2026-xokei-ston-pago-telikos-a-15-10-ert2-spor/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά την νίκη του Παναθηναϊκού επί του Ολυμπιακού στον τελικό του Κυπέλλου Ελλάδας, γεγονός που σχετίζεται άμεσα με τον αθλητισμό και τον ανταγωνισμό μεταξύ των δύο ομάδων.",
+        "categoryReason": "Ο τίτλος και το κείμενο αναφέρονται στον τελικό Ανδρών στο Χόκεϊ στον Πάγο, που είναι μέρος των Χειμερινών Ολυμπιακών Αγώνων, άρα ανήκει στην κατηγορία των αθλητικών ειδήσεων. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g1146bce5f90b0fcf4d443e35d4a6c45a08487bc51d6db56c1339e73c92b51a6052c21a3e05e0044a611b21b5d5d24d272c62f7fe080cc6ca4f5e40ba154f73f4_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-21T19:56:03.000Z"
+        "imageUrl": null,
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+        "publishedAt": "2026-02-22T13:05:00.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
-        "id": "079ef6062eb8",
-        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 22 Φεβρουαρίου",
-        "simpleTitle": "Ποιοι γιορτάζουν σήμερα, 22 Φεβρουαρίου",
-        "simpleText": "Σήμερα, 22 Φεβρουαρίου, γιορτάζουν κάποια ονόματα. Αυτά είναι: Θαλάσσιος, Θαλάσσης, Θάλασσα, Θαλασσινή, Θαλασσιά και Θαλασσία. Επίσης, γιορτάζουν και οι Όσιοι Θαλάσσιος και Λιμναίος. Αυτοί οι Όσιοι είναι γνωστοί από παλιά και έχουν σχέση με την Κύρο. Ο Όσιος Θαλάσσιος ζούσε σε ένα βουνό και προσευχόταν. Επίσης, πήγαινε στα χωριά γύρω και μιλούσε για το Θεό. Οι γιορτές είναι σημαντικές γιατί θυμίζουν τους ανθρώπους που έχουν παλέψει για πίστη και αξίες.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-22-fevrouariou-2/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-22-fevrouariou-2/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/greece/eortologio-poioi-giortazoun-simera-22-fevrouariou/"
-          }
-        ],
-        "category": "culture",
-        "categoryReason": "Η είδηση αφορά στο εορτολόγιο και την εορτή των Οσίων, γεγονός που σχετίζεται με τη θρησκεία και τις παραδόσεις, επομένως κατατάσσεται στην κατηγορία του πολιτισμού.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T06:12:25.000Z"
-      },
-      {
         "id": "5fcb2e05ddd9",
         "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
-        "simpleTitle": "Έργα ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-        "simpleText": "Στο Μουσείο Μπενάκη, έχουμε μια σπουδαία συνάντηση καλλιτεχνών. Δύο γνωστά έργα από τον 19ο αιώνα εκτίθενται. Αυτά είναι η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία». Τα έργα αυτά μας θυμίζουν το παρελθόν και την ελληνική κουλτούρα. Οι επισκέπτες έχουν την ευκαιρία να τα δουν από κοντά. Αυτό είναι σημαντικό γιατί μας φέρνει πιο κοντά στην ελληνική ιστορία. Δεν γνωρίζουμε ακόμα πόσο θα διαρκέσει η έκθεση, αλλά η εμπειρία σίγουρα αξίζει.",
+        "simpleTitle": "Έργα της ελληνικής τέχνης στο Μουσείο Μπενάκη",
+        "simpleText": "Στο Μουσείο Μπενάκη γίνεται μια ιδιαίτερη έκθεση με σπουδαία έργα τέχνης. Δύο σημαντικά πίνακες από τον 19ο αιώνα είναι η «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και η «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Αυτές οι εικόνες μας δείχνουν την ιστορία και τον πολιτισμό της Ελλάδας. Η έκθεση είναι μια καλή ευκαιρία να δούμε και να μάθουμε περισσότερα για την ελληνική τέχνη. Λόγω της σημασίας αυτών των έργων, οι επισκέπτες θα νιώσουν την ομορφιά και την παράδοση της χώρας μας.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
         "sourceDomains": [
@@ -1070,7 +849,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια καλλιτεχνική έκθεση στο Μουσείο Μπενάκη, εστιάζοντας σε ελληνικά ζωγραφικά έργα που συνδέονται με την πολιτιστική κληρονομιά.",
+        "categoryReason": "Η έκθεση στο Μουσείο Μπενάκη αφορά έργα τέχνης και πολιτιστικά στοιχεία της ελληνικής παράδοσης, γεγονός που την τοποθετεί στην κατηγορία του πολιτισμού.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -1079,8 +858,8 @@
       {
         "id": "5bff79bb47ab",
         "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-        "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος που απεικόνισε τον εαυτό της",
-        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μία φλαμανδή ζωγράφος που ζωγράφισε τον εαυτό της το 1548. Αυτή είναι η πρώτη γνωστή εικόνα γυναίκας καλλιτέχνη που δείχνει πώς δουλεύει. Με το πινέλο στο χέρι, η Καταρίνα ήθελε να δείξει τη δύναμη των γυναικών στην τέχνη. Υπέγραψε το έργο της με τη φράση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου», κάτι που ήταν πολύ σημαντικό για εκείνη την εποχή. Η κίνησή της αυτή βοηθάει και σήμερα στην κατανόηση της θέσης των γυναικών στον κόσμο της τέχνης.",
+        "simpleTitle": "Καταρίνα βαν Χέμεσεν: Η πρώτη γυναίκα ζωγράφος",
+        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σημαντική ζωγράφος που έζησε το 1548. Είναι γνωστή γιατί ήταν η πρώτη γυναίκα που ζωγράφισε τον εαυτό της, όταν πολλοί άντρες ήταν οι μόνοι καλλιτέχνες. Στη ζωγραφιά της, κρατάει το πινέλο και κάθεται μπροστά σε έναν καβαλέτο. Με το έργο της, ήθελε να δείξει ότι και οι γυναίκες μπορούν να δημιουργούν τέχνη. Υπέγραψε την αυτοπροσωπογραφία της λέγοντας ότι είναι αυτή που τη ζωγράφισε. Η πράξη αυτή ήταν σημαντική για την εποχή της, γιατί έδειξε τη δύναμη και την ικανότητα των γυναικών στον κόσμο της τέχνης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
         "sourceDomains": [
@@ -1093,7 +872,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά την Καταρίνα βαν Χέμεσεν, μια σημαντική μορφή στον τομέα της τέχνης, και αναδεικνύει τη συμβολή της στη γυναικεία δημιουργία, κάτι που σχετίζεται με πολιτιστικά θέματα και την ιστορία της τέχνης.",
+        "categoryReason": "Η είδηση αναφέρεται στη ζωή και το έργο μιας σημαντικής καλλιτέχνιδας, της Καταρίνα βαν Χέμεσεν, και εξερευνά τη συμβολή της στον πολιτισμό και την τέχνη, τονίζοντας την επίδραση της γυναικείας δημιουργίας στην ιστορία της τέχνης.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -1102,10 +881,38 @@
     ],
     "fun": [
       {
+        "id": "712660d26233",
+        "title": "Καλαμαράκια: οι καλύτερες συνταγές μας για την Καθαρά Δευτέρα",
+        "simpleTitle": "Συνταγές με καλαμαράκια για την Καθαρά Δευτέρα",
+        "simpleText": "Η Καθαρά Δευτέρα είναι μια ειδική μέρα που σηματοδοτεί την αρχή της Σαρακοστής. Αυτή την ημέρα, πολλοί άνθρωποι ακολουθούν νηστεία, που σημαίνει ότι δεν τρώνε ορισμένα φαγητά. Για να γιορτάσουν, οι άνθρωποι ετοιμάζουν νόστιμα φαγητά.\n\nΜια από τις πιο δημοφιλείς επιλογές είναι τα καλαμαράκια. Υπάρχουν πολλές συνταγές, όπως τηγανητά, γεμιστά ή μαγειρευτά. Αυτές οι συνταγές είναι ιδανικές για να τις δοκιμάσετε στην Καθαρά Δευτέρα και για όλη την Σαρακοστή.",
+        "sourceName": "Kathimerini, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/k/gastronomos/564091729/kalamarakia-oi-kalyteres-syntages-mas-gia-tin-kathara-deytera/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/k/gastronomos/564091729/kalamarakia-oi-kalyteres-syntages-mas-gia-tin-kathara-deytera/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/22/elliniki-kouzina/kathara-deytera-h-nisteia-ta-ethima-kai-3-syntages-gia-ta-koulouma/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Το άρθρο επικεντρώνεται σε συνταγές και γαστρονομικές προτάσεις που σχετίζονται με την Καθαρά Δευτέρα, γεγονός που εντάσσεται στη διασκέδαση και την απόλαυση του φαγητού.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-22T13:15:00.000Z"
+      },
+      {
         "id": "f724e63da9a8",
         "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-        "simpleTitle": "O Keanu Reeves συμμετέχει στη φωνή του νέου παιχνιδιού John Wick",
-        "simpleText": "Ο Keanu Reeves, γνωστός ηθοποιός, συμμετέχει στο νέο video game John Wick. Αυτό το παιχνίδι φέρνει μια καινούργια εμπειρία στους φίλους των παιχνιδιών. Ο Reeves δανείζει τη φωνή του για τον χαρακτήρα John Wick, κάτι που δεν έχει ξαναγίνει σε παιχνίδια. Η εταιρεία Saber Interactive δημιούργησε αυτό το παιχνίδι, που συνδυάζει τον κινηματογράφο με την τεχνολογία παιχνιδιών. Αυτή η συνεργασία είναι σημαντική γιατί δείχνει πώς η ψυχαγωγία μπορεί να εξελίσσεται. Δεν έχουμε ακόμα πληροφορίες για την ημερομηνία κυκλοφορίας του παιχνιδιού.",
+        "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
+        "simpleText": "Ο Keanu Reeves θα δανείσει τη φωνή του στο νέο video game του John Wick. Το παιχνίδι αυτό δημιουργείται από την Saber Interactive και θα είναι πολύ ενδιαφέρον για τους θαυμαστές. Η συμμετοχή του ηθοποιού είναι ξεχωριστή, γιατί είναι η πρώτη φορά που παίζει έτσι σε ένα παιχνίδι. Αυτό δείχνει πώς οι ταινίες μπορούν να συνδυαστούν με τα παιχνίδια για να προσφέρουν μία αυθεντική εμπειρία. Το νέο αυτό παιχνίδι είναι σημαντικό για τον κόσμο της ψυχαγωγίας και οι φίλοι του John Wick θα το απολαύσουν πολύ. Δεν έχουν ανακοινωθεί άλλες λεπτομέρειες για το πότε θα κυκλοφορήσει.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
         "sourceDomains": [
@@ -1118,9 +925,9 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves στο νέο video game John Wick, συνδυάζοντας στοιχεία από τον κινηματογράφο και τα βιντεοπαιχνίδια. Η ανακοίνωση αυτή σχετίζεται με την ψυχαγωγία μέσω οπτικοακουστικών μέσων, καθιστώντας την κατηγορία 'screen' την πιο κατάλληλη.",
+        "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves σε ένα νέο video game βασισμένο στη σειρά John Wick, συνδυάζοντας στοιχεία από τον κινηματογράφο και τα video games.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gc26ff6cb1479dc5bfd50eb016177297fb2cc149ce88332de8326e56695a0065de972c08cf38734457ed564f430cfd6bbd00c09a4b1839abc9d2b67504a2a084d_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gbfd4b00dd398d9468f252e672ba8c2c5c7429ce02eb5dcf144424efdf66685d1e6b66843ac79dc91abaf9aaf53aa05706baacb8c0bff1bf53f83120b23907993_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-21T09:46:00.000Z"
       }
