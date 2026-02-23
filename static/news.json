@@ -1,140 +1,191 @@
 {
-  "generatedAt": "2026-02-23T08:17:03.400Z",
+  "generatedAt": "2026-02-23T16:13:39.446Z",
   "articles": [
     {
-      "id": "602ae1588b98",
-      "title": "Χρ. Αράπογλου: Υπό έλεγχο η φωτιά στο πρώην στρατόπεδο Κόδρα",
-      "simpleTitle": "Φωτιά στο πρώην στρατόπεδο Κόδρα ελέγχθηκε",
-      "simpleText": "Στην Καλαμαριά, ξέσπασε φωτιά το βράδυ της Κυριακής στο πρώην στρατόπεδο Κόδρα. Η πυροσβεστική δέχθηκε κλήση μετά τις 9:15 και έφτασαν 20 πυροσβέστες με 7 οχήματα. Η φωτιά περιορίστηκε γρήγορα, χάρη στη γρήγορη παρέμβαση της πυροσβεστικής και άλλων αρχών. Δεν κινδύνεψαν άνθρωποι, αλλά οι φλόγες ήταν ορατές από μακριά. Οι αρχές καλούν τον κόσμο να είναι προσεκτικός και να αναφέρουν οποιοδήποτε κίνδυνο. Η έρευνα για τα αίτια της φωτιάς θα συνεχιστεί.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/ert3/xr-arapoglou-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/",
+      "id": "1dd88bef3f00",
+      "title": "Το Ευρωκοινοβούλιο «παγώνει» την επικύρωση της εμπορικής συμφωνίας με τις ΗΠΑ",
+      "simpleTitle": "Το Ευρωκοινοβούλιο σταματά τη συμφωνία εμπορίου με τις ΗΠΑ",
+      "simpleText": "Το Ευρωκοινοβούλιο αποφάσισε να μην προχωρήσει στην επικύρωση της εμπορικής συμφωνίας με τις Ηνωμένες Πολιτείες. Αυτή η απόφαση ήρθε μετά την ακύρωση των δασμών από το ανώτατο δικαστήριο των ΗΠΑ. Οι δασμοί είχαν επιβληθεί το 2025. Είναι σημαντικό γιατί η εμπορική συμφωνία θα μπορούσε να επηρεάσει τιμές και αγορές στην Ευρώπη. Δεν ξέρουμε ακόμα πότε θα εξεταστεί ξανά η συμφωνία. Θα χρειαστεί να περιμένουμε για περισσότερες πληροφορίες.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/economy/564092407/to-eyrokoinovoylio-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-tis-ipa/",
       "sourceDomains": [
-        "ertnews.gr",
         "kathimerini.gr",
-        "tanea.gr"
+        "tovima.gr"
       ],
       "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/xr-arapoglou-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/"
-        },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564092098/thessaloniki-pyrkagia-sto-proin-stratopedo-kodra/"
+          "url": "https://www.kathimerini.gr/economy/564092407/to-eyrokoinovoylio-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-tis-ipa/"
         },
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/23/greece/thessaloniki-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/"
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/23/finance/i-ee-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-ipa-ti-zita/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την κατάσβεση πυρκαγιάς που ξέσπασε σε στρατόπεδο και περιλαμβάνει στοιχεία σχετικά με την ασφάλεια και την παρέμβαση της πυροσβεστικής, σημαντικά ζητήματα για την δημόσια ασφάλεια.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g391f3249d952d3e98379dd9889daf7246505b563b7e4bb71e5e0dbe26f3adebfca7e1c1e8a8db0ef4151b7a167fabe8a46b3ba135d81495f1b8fe8bcf5377736_1280.jpg",
-      "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Farapoglouchrysa%2Fposts%2Fpfbid02a3DuR1BgmJ4W4Me5JvM8Z6KaJkHhwrKG8wURov3TDknL9Addoq8GxjbrRjYqiwnl&#038;show_text=true&#038;width=500",
-      "publishedAt": "2026-02-23T07:46:41.000Z"
-    },
-    {
-      "id": "769e7a270b07",
-      "title": "Πόλεμος στην Ουκρανία: Τρεις νεκροί από ρωσικούς βομβαρδισμούς σε Οδησσό και Ζαπορίζια",
-      "simpleTitle": "** Τρεις νεκροί από ρωσικούς βομβαρδισμούς στην Ουκρανία",
-      "simpleText": "** Σε επιθέσεις μέσα στη νύχτα, τρεις άνθρωποι σκοτώθηκαν στην Οδησσό και τη Ζαπορίζια. Αυτό συνέβη στις 23 Φεβρουαρίου, παραμονή της επετείου από την έναρξη του πολέμου στην Ουκρανία. Δύο άτομα στην Οδησσό σκοτώθηκαν όταν ένα ρωσικό drone έπεσε πάνω σε ένα φορτηγό και προκάλεσε φωτιά. Στη Ζαπορίζια, ένας άνδρας πέθανε από χτύπημα αεροπορικής επιδρομής σε βιομηχανική περιοχή. Οι επιθέσεις συνεχίζονται και επηρεάζουν αθώους ανθρώπους, με πολλές απώλειες. Είναι σημαντικό να προστατευτεί ο κόσμος και οι αρχές προειδοποιούν να παραμείνουμε σε ασφαλή μέρη και να ακολουθούμε οδηγίες ασφαλείας.",
-      "sourceName": "ERT News, TA NEA, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/polemos-stin-oukrania-treis-nekroi-apo-rosikous-vomvardismous-se-odisso-kai-zaporizia/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/polemos-stin-oukrania-treis-nekroi-apo-rosikous-vomvardismous-se-odisso-kai-zaporizia/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/23/world/polemos-stin-oykrania-treis-nekroi-apo-rosikoys-vomvardismoys-se-odisso-kai-zaporizia/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4082414/rosiki-vomvardismi-se-odisso-ke-zaporizia-tris-nekri.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές επιθέσεις με θανάτους αμάχων κατά τη διάρκεια του πολέμου στην Ουκρανία, που αφορά κρίσιμα ζητήματα ασφάλειας και ανθρωπίνων δικαιωμάτων.",
+      "categoryReason": "Η είδηση αφορά τη σοβαρή πολιτική απόφαση του Ευρωκοινοβουλίου να παγώσει την επικύρωση μιας εμπορικής συμφωνίας, μια εξέλιξη που επηρεάζει την οικονομία και τις αγορές μεταξύ ΗΠΑ και ΕΕ.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-23T07:43:50.000Z"
+      "publishedAt": "2026-02-23T15:46:30.000Z"
     },
     {
-      "id": "d940f513b986",
-      "title": "Οι ΗΠΑ σταματούν την είσπραξη δασμών που κρίθηκαν παράνομοι – «Όχι» από την ΕΕ στη νέα αύξηση Τραμπ: «Η συμφωνία είναι συμφωνία»",
-      "simpleTitle": "Οι ΗΠΑ σταματούν να εισπράττουν παράνομους δασμούς",
-      "simpleText": "Από αύριο, η Υπηρεσία Τελωνείων και Προστασίας των Συνόρων των ΗΠΑ θα σταματήσει να εισπράττει δασμούς που κρίθηκαν παράνομοι από το Ανώτατο Δικαστήριο. Αυτοί οι δασμοί είχαν επιβληθεί από τον πρόεδρο Ντόναλντ Τραμπ για προϊόντα που εισάγονται στη χώρα. Οι δασμοί αυτοί καταργούνται γιατί δεν επιτρέπονταν σύμφωνα με τον νόμο. Ταυτόχρονα, ο Τραμπ ανακοίνωσε νέο δασμό 15% για να αντικαταστήσει τους παλιούς.\n\nΗ Ευρωπαϊκή Ένωση αντέτεινε ότι δεν αποδέχεται καμία αύξηση δασμών και ζητάει να τηρηθούν οι συμφωνίες μεταξύ των δύο πλευρών. Αυτό είναι σημαντικό γιατί επηρεάζει το εμπόριο και τις σχέσεις μεταξύ ΗΠΑ και ΕΕ. Οι αλλαγές αυτές μπορούν να φέρουν αναταραχές στην αγορά και οι άνθρωποι ελπίζουν ότι θα υπάρξει σωστός σχεδιασμός για το μέλλον.",
-      "sourceName": "ERT News, Kathimerini, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/oi-ipa-stamatoun-tin-eispraksi-dasmon-pou-krithikan-paranomoi-oxi-apo-tin-ee-sti-nea-ayksisi-tramp-i-symfonia-einai-symfonia/",
+      "id": "4a7db2f10f94",
+      "title": "Βελούχι: Εντοπίστηκε νεκρός ο 74χρονος ορειβάτης",
+      "simpleTitle": "Νεκρός ο 74χρονος ορειβάτης στο Βελούχι**",
+      "simpleText": "Ένας 74χρονος ορειβάτης βρέθηκε νεκρός σε μια χαράδρα κοντά στο Βελούχι. Είχε αγνοηθεί για δύο ημέρες και οι δικές του έρευνες δεν είχαν αποτέλεσμα. Ο γιος του αναγνώρισε τη σορό του πατέρα του. Ο ορειβάτης συμμετείχε σε αναρρίχηση με άλλους και είχε συμφωνήσει να περιμένει σε ένα σημείο, αλλά δεν εμφανίστηκε.\n\nΟι διασώστες από πολλές περιοχές, μαζί με drones, συμμετείχαν στις έρευνες. Η σορός βρέθηκε βορειοανατολικά του βουνού, γύρω στο ένα χιλιόμετρο από το σημείο που χωρίστηκε από την ομάδα του. Αυτή η τραγική ιστορία προκάλεσε μεγάλη λύπη στην οικογένεια και τους φίλους του.",
+      "sourceName": "Kathimerini, TA NEA, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/society/564092221/veloychi-entopistike-nekros-o-74chronos-oreivatis/",
       "sourceDomains": [
-        "ertnews.gr",
         "kathimerini.gr",
-        "news.gr"
+        "tanea.gr",
+        "tovima.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/oi-ipa-stamatoun-tin-eispraksi-dasmon-pou-krithikan-paranomoi-oxi-apo-tin-ee-sti-nea-ayksisi-tramp-i-symfonia-einai-symfonia/"
-        },
-        {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/international/564092146/ipa-stamatoyn-apo-ayrio-tin-eispraxi-dasmon-poy-krithikan-paranomoi-apo-to-anotato-dikastirio/"
+          "url": "https://www.kathimerini.gr/society/564092221/veloychi-entopistike-nekros-o-74chronos-oreivatis/"
         },
         {
-          "title": "News.gr",
-          "url": "https://www.news.gr/kosmos/article/4082404/i-ipa-stamatoun-apo-tin-triti-tin-ispraxi-dasmon-pou-krithikan-paranomi-apo-to-anotato-dikastirio.html"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/23/greece/velouxi-nekros-o-74xronos-oreivatis-pou-agnoountan-anagnoristike-i-soros-apo-ton-gio-tou/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/23/society/entopistike-nekros-o-74xronos-oreivatis-sto-velouxi/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές εξελίξεις στον τομέα των δασμών και των εμπορικών σχέσεων μεταξύ ΗΠΑ και ΕΕ, με νομικές και οικονομικές επιπτώσεις.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια τραγική περίπτωση θανάτου, που περιλαμβάνει κοινωνικά και ασφαλιστικά ζητήματα γύρω από τη διαδικασία αναζήτησης και διάσωσης ενός αγνοούμενου ορειβάτη, γεγονός που την καθιστά σοβαρή.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-23T07:33:42.000Z"
+      "publishedAt": "2026-02-23T15:29:35.000Z"
     },
     {
-      "id": "ccccb4d98469",
-      "title": "Πώς αμείβεται η εργασία την Καθαρά Δευτέρα",
-      "simpleTitle": "Πληροφορίες για αμοιβές την Καθαρά Δευτέρα",
-      "simpleText": "Η Καθαρά Δευτέρα φέτος είναι στις 23 Φεβρουαρίου 2026. Αυτή η ημέρα δεν είναι υποχρεωτική αργία για τους εργαζόμενους στον ιδιωτικό τομέα. Αν κάποιος δουλέψει τότε, δεν θα πάρει περισσότερα χρήματα από όσα συνηθίζει. Αν όμως η επιχείρηση είναι κλειστή λόγω συμφωνίας ή κανονισμού, οι εργαζόμενοι θα λάβουν κανονικά το μισθό τους. Σε περίπτωση που η επιχείρηση δουλέψει ενώ δεν το έκανε πριν, οι εργαζόμενοι θα πάρουν επιπλέον χρήματα. Είναι σημαντικό να ενημερωθούν οι ενδιαφερόμενοι για τις ειδικές ρυθμίσεις τους, αν υπάρχουν.",
-      "sourceName": "TA NEA, Protagon",
-      "sourceUrl": "https://www.tanea.gr/2026/02/23/economy/pos-ameivetai-i-ergasia-tin-kathara-deytera-2/",
+      "id": "62bbd2bef24e",
+      "title": "Τουρκοβούνια: 25χρονος έπεσε από μεγάλο ύψος ενώ πετούσε χαρταετό",
+      "simpleTitle": "Σοβαρό ατύχημα σε χαρταετό στα Τουρκοβούνια",
+      "simpleText": "Ένα σοβαρό ατύχημα συνέβη στα Τουρκοβούνια. Ένας 25χρονος έπεσε από ύψος πέντε μέτρων ενώ πετούσε χαρταετό. Ήταν μαζί με άλλους ανθρώπους την Καθαρή Δευτέρα, όταν έχασε την ισορροπία του και έπεσε. Αμέσως ειδοποιήθηκαν οι αρχές και έφτασε ασθενοφόρο. Ο νεαρός μεταφέρθηκε στο νοσοκομείο Ευαγγελισμός, όπου τώρα είναι σε σοβαρή κατάσταση. Ακόμα δεν γνωρίζουμε πώς συνέβη η πτώση. Η κατάσταση αυτή είναι επικίνδυνη και πρέπει να προσέχουμε όταν είμαστε σε ψηλά μέρη.",
+      "sourceName": "TA NEA, TO BHMA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/23/greece/tourkovounia-25xronos-epese-apo-megalo-ypsos-eno-petouse-xartaeto/",
       "sourceDomains": [
         "tanea.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/23/greece/tourkovounia-25xronos-epese-apo-megalo-ypsos-eno-petouse-xartaeto/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/23/society/petouse-xartaeto-ki-epese-apo-ypsos-5-metron-sto-nosokomeio-25xronos/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα με έναν 25χρονο που νοσηλεύεται λόγω των τραυματισμών του από την πτώση, γεγονός που αναδεικνύει ζητήματα ασφάλειας σε δημόσιους χώρους.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T15:07:54.000Z"
+    },
+    {
+      "id": "7cde14cc0157",
+      "title": "Στη Σούδα το μεγαλύτερο αεροπλανοφόρο στον κόσμο USS Gerald R. Ford (εικόνες – βίντεο)",
+      "simpleTitle": "Το μεγαλύτερο αεροπλανοφόρο στον κόσμο στη Σούδα",
+      "simpleText": "Το USS Gerald R. Ford, το μεγαλύτερο αεροπλανοφόρο στον κόσμο, θα είναι στη Σούδα, στην Κρήτη. Το πλοίο θα μείνει για λίγες ημέρες για να ανεφοδιαστεί. Μετά από αυτό, θα κατευθυνθεί προς το Ισραήλ, όπου αναμένεται να φτάσει σε περίπου 24 ώρες. Αυτή η επίσκεψη είναι σημαντική γιατί ενισχύει τις αμυντικές δυνάμεις των Ηνωμένων Πολιτειών και του Ισραήλ. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για την αποστολή του αεροπλανοφόρου.",
+      "sourceName": "Kathimerini, News.gr, Protagon",
+      "sourceUrl": "https://www.kathimerini.gr/politics/amyna/564092344/sti-soyda-to-megalytero-aeroplanoforo-ston-kosmo-uss-gerald-r-ford-eikones/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "news.gr",
         "protagon.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/23/economy/pos-ameivetai-i-ergasia-tin-kathara-deytera-2/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/politics/amyna/564092344/sti-soyda-to-megalytero-aeroplanoforo-ston-kosmo-uss-gerald-r-ford-eikones/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/ellada/article/4083007/sti-souda-to-aeroplanoforo-uss-gerald-r-ford-dite-fotografies-ke-vinteo.html"
         },
         {
           "title": "Protagon",
-          "url": "https://www.protagon.gr/themata/kathara-deftera-sto-kivwtio-44343317351"
+          "url": "https://www.protagon.gr/epikairotita/sti-souda-to-amerikaniko-aeroplanoforo-gerald-r-ford-44343317534"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά το καθεστώς αμειβόμενης εργασίας κατά την Καθαρά Δευτέρα, που σχετίζεται με νομικές και οικονομικές ρυθμίσεις στον ιδιωτικό τομέα.",
+      "categoryReason": "Η είδηση αφορά την παρουσία ενός αεροπλανοφόρου που ενισχύει τις αμυντικές δυνάμεις των ΗΠΑ και του Ισραήλ, γεγονός που σχετίζεται με σοβαρά θέματα πολιτικής και ασφάλειας.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-23T06:30:27.000Z"
+      "publishedAt": "2026-02-23T14:59:21.000Z"
     },
     {
-      "id": "bc0a43667811",
-      "title": "Ο Κινέζος πρόεδρος Σι δηλώνει έτοιμος να συνεργαστεί με τον Κιμ Γιονγκ Ουν για ένα «νέο κεφάλαιο» στις σχέσεις των δύο χωρών",
-      "simpleTitle": "Συνεργασία Σι και Κιμ για νέες σχέσεις",
-      "simpleText": "Ο πρόεδρος της Κίνας, Σι Τζινπίνγκ, είπε πως θέλει να συνεργαστεί με τον Κιμ Γιονγκ Ουν της Βόρειας Κορέας. Αυτό έγινε σε ένα μήνυμα που έστειλε μετά την επανεκλογή του Κιμ. Ο Σι θέλει να δημιουργήσει ένα νέο κεφάλαιο στη φιλία μεταξύ των δύο χωρών. Αυτή η συνεργασία είναι πολύ σημαντική για τη Βόρεια Κορέα, γιατί η βοήθεια από την Κίνα είναι απαραίτητη για την οικονομία και την πολιτική της. Δεν ξέρουμε ακόμη περισσότερες λεπτομέρειες για το πώς θα προχωρήσουν.",
+      "id": "85dcbd4b1433",
+      "title": "Επίθεση Τραμπ κατά του Ανωτάτου Δικαστηρίου για τους δασμούς: «Γελοία απόφαση»",
+      "simpleTitle": "Τραμπ κατά του Δικαστηρίου για τους δασμούς",
+      "simpleText": "Ο Τραμπ, πρόεδρος των Ηνωμένων Πολιτειών, έκανε νέα επίθεση κατά του Ανώτατου Δικαστηρίου. Έκρινε ότι η απόφαση του δικαστηρίου για τους δασμούς είναι γελοία και κατηγόρησε τους δικαστές ότι εργάζονται για λάθος ανθρώπους. Η δήλωσή του επηρεάζει την κατάσταση των δασμών στη χώρα. Ο Τραμπ είπε ότι σκέφτεται να επιβάλει νέους δασμούς, αν χρειαστεί. Αυτές οι εξελίξεις είναι σημαντικές γιατί επηρεάζουν την οικονομία και τις εμπορικές σχέσεις. Δεν ξέρουμε ακόμα ποιοι θα επηρεαστούν περισσότερο από αυτές τις αλλαγές.",
+      "sourceName": "Kathimerini, TO BHMA",
+      "sourceUrl": "https://www.kathimerini.gr/world/564092305/epithesi-tramp-kata-toy-anotatoy-dikastirioy-gia-toys-dasmoys-geloia-apofasi/",
+      "sourceDomains": [
+        "kathimerini.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564092305/epithesi-tramp-kata-toy-anotatoy-dikastirioy-gia-toys-dasmoys-geloia-apofasi/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/23/world/nea-epithesi-tramp-kata-tou-anotatou-dikastiriou-gia-ti-geloia-kai-poly-polotiki-apofasi/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση σχετίζεται με πολιτική και οικονομικές δηλώσεις του Τραμπ που επηρεάζουν τις εμπορικές σχέσεις και την οικονομία, άρα ανήκει σε σοβαρές ειδήσεις.",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g3e92fbafab99b97fe588a2979b5484fe0440b0f6ff8b279ea55ddc2e0021f1e7b00ebc69659605ae1f1457f727e8daf6961f60e08b546a55e8369a005ad959aa_1280.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T14:36:39.000Z"
+    },
+    {
+      "id": "82b91d02736a",
+      "title": "Συνεδριάζει την Τρίτη υπό τον πρωθυπουργό το Κυβερνητικό Συμβούλιο Οικονομικής Πολιτικής",
+      "simpleTitle": "Συνεδρίαση του Κυβερνητικού Συμβουλίου Οικονομικής Πολιτικής την Τρίτη",
+      "simpleText": "Αύριο, στις 11:30, θα γίνει μια σημαντική συνάντηση στο Μέγαρο Μαξίμου. Ο πρωθυπουργός Κυριάκος Μητσοτάκης θα προεδρεύσει στο Κυβερνητικό Συμβούλιο Οικονομικής Πολιτικής. Στη συνάντηση αυτή, θα συζητηθούν θέματα που αφορούν την οικονομία και τη διαχείριση χρημάτων. Μετά τη συνάντηση, ο πρωθυπουργός θα συμμετάσχει σε τηλεδιάσκεψη με άλλους ηγέτες για την υποστήριξη της Ουκρανίας. Αυτό θα δείξει πόσο σημαντική είναι η συνεργασία μεταξύ των χωρών. Δεν ξέρουμε ακόμα τις λεπτομέρειες για τις αποφάσεις που θα ληφθούν.",
+      "sourceName": "TA NEA, News.gr",
+      "sourceUrl": "https://www.tanea.gr/2026/02/23/politics/synedriazei-tin-triti-ypo-ton-prothypoyrgo-to-kyvernitiko-symvoylio-oikonomikis-politikis/",
+      "sourceDomains": [
+        "tanea.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/23/politics/synedriazei-tin-triti-ypo-ton-prothypoyrgo-to-kyvernitiko-symvoylio-oikonomikis-politikis/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4082963/sinedriazi-tin-triti-ipo-ton-prothipourgo-to-kivernitiko-simvoulio-ikonomikis-politikis.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε σημαντική πολιτική συνάντηση που αφορά την οικονομική πολιτική και τη διεθνή συνεργασία, γεγονότα που εμπίπτουν σε σοβαρές ειδήσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T14:13:18.000Z"
+    },
+    {
+      "id": "34c364f41844",
+      "title": "Ο Μακρόν κάλεσε την Ευρωπαϊκή Ένωση να εγκρίνει το 20ό πακέτο κυρώσεων κατά της Μόσχας",
+      "simpleTitle": "Ο Μακρόν ζητάει από την Ευρώπη να εγκρίνει νέες κυρώσεις κατά της Ρωσίας",
+      "simpleText": "Ο πρόεδρος της Γαλλίας, Εμανουέλ Μακρόν, ζήτησε από την Ευρωπαϊκή Ένωση να συμφωνήσει σε ένα νέο πακέτο κυρώσεων κατά της Ρωσίας. Αυτό συμβαίνει λόγω του πολέμου που έχει ξεκινήσει η Ρωσία στην Ουκρανία και είναι το 20ό πακέτο που προτείνεται. Η Ουγγαρία έχει πει ότι δεν θα το εγκρίνει αν δεν επανέλθουν οι παραδόσεις ρωσικού πετρελαίου. Οι υπουργοί Εξωτερικών της ΕΕ θα συζητήσουν το θέμα τις επόμενες ημέρες. Ο Μακρόν θέλει να συνεχιστεί η πίεση στη Ρωσία, για να αλλάξει η κατάσταση. Είναι σημαντικό για την ασφάλεια και τη στήριξη της Ουκρανίας.",
       "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-kinezos-proedros-si-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oun-gia-ena-neo-kefalaio-stis-sxeseis-ton-dyo-xoron/",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/o-makron-kalese-tin-eyropaiki-enosi-na-egkrinei-to-20o-paketo-kyroseon-kata-tis-mosxas/",
       "sourceDomains": [
         "ertnews.gr",
         "kathimerini.gr"
@@ -142,83 +193,83 @@
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-kinezos-proedros-si-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oun-gia-ena-neo-kefalaio-stis-sxeseis-ton-dyo-xoron/"
+          "url": "https://www.ertnews.gr/roi-idiseon/o-makron-kalese-tin-eyropaiki-enosi-na-egkrinei-to-20o-paketo-kyroseon-kata-tis-mosxas/"
         },
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564092122/si-tzinpingk-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oyn-gia-neo-kefalaio-stis-dimereis-scheseis/"
+          "url": "https://www.kathimerini.gr/world/564092299/o-makron-kalese-tin-e-e-na-egkrinei-to-20o-paketo-kyroseon-kata-tis-rosias/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά τη διπλωματική συνεργασία μεταξύ Κίνας και Βόρειας Κορέας, που έχει σοβαρές πολιτικές και οικονομικές προεκτάσεις για τις χώρες αυτές.",
+      "categoryReason": "Η είδηση αναφέρεται σε πολιτικές κυρώσεις κατά της Ρωσίας και προκύπτει από μια σοβαρή διεθνή κρίση, με επίκεντρο τον πόλεμο στην Ουκρανία και τις πολιτικές αποφάσεις σε επίπεδο Ευρωπαϊκής Ένωσης.",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-23T05:48:00.000Z"
+      "videoUrl": "https://www.youtube.com/embed/03PCmGcg3_k?si=Qm7NPlugy5zd0wr8",
+      "publishedAt": "2026-02-23T14:12:26.000Z"
     },
     {
-      "id": "04fd7da2c57b",
-      "title": "Καθαρά Δευτέρα 2026: Ποια καταστήματα είναι ανοιχτά – Τι ισχύει για σούπερ μάρκετ και Βαρβάκειο",
-      "simpleTitle": "Ανοιχτά Καταστήματα την Καθαρά Δευτέρα 2026",
-      "simpleText": "Την Καθαρά Δευτέρα του 2026, πολλά καταστήματα θα είναι κλειστά, όπως τα εμπορικά και τα πολυκαταστήματα. Η μέρα είναι ημέρα ξεκούρασης και οι περισσότεροι προτιμούν να μείνουν σπίτι. Ωστόσο, ορισμένα σούπερ μάρκετ, όπως τα Lidl, θα είναι ανοιχτά από το πρωί έως το μεσημέρι. Μικρότερα καταστήματα, φούρνοι και ιχθυοπωλεία θα λειτουργήσουν κανονικά, προσφέροντας ειδικά προϊόντα για την γιορτή.\n\nΗ Βαρβάκειος Αγορά και η Αγορά του Ρέντη θα είναι ανοιχτές από το βράδυ της Κυριακής και για τις αγορές, οι άνθρωποι καλό είναι να πηγαίνουν νωρίς το πρωί. Αυτό θα βοηθήσει να μην υπάρχει πολύς κόσμος και να είναι πιο εύκολες οι αγορές.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/23/economy/kathara-deytera-2026-poia-katastimata-einai-anoixta-ti-isxyei-gia-souper-market-kai-varvakeio/",
+      "id": "f336b5f2b83f",
+      "title": "Μερτς: Τέσσερα χρόνια μετά η Ρωσία του Πούτιν έχει φτάσει «στο βαθύτερο επίπεδο βαρβαρότητας»",
+      "simpleTitle": "Ρωσία: Μια πολύ δύσκολη κατάσταση 4 χρόνια μετά",
+      "simpleText": "Ο Γερμανός καγκελάριος Μερτς είπε ότι η Ρωσία του Πούτιν έχει φτάσει σε πολύ σοβαρή κατάσταση. Αυτό συμβαίνει τέσσερα χρόνια μετά την αρχή του πολέμου στην Ουκρανία. Ο Μερτς πιστεύει ότι η Ρωσία δεν κερδίζει αυτόν τον πόλεμο. Είναι μια δύσκολη στιγμή για την Ευρώπη, καθώς οι εξελίξεις μπορεί να αποφασίσουν το μέλλον της περιοχής. Οι πολίτες σε όλη την ήπειρο ανησυχούν για το τι μπορεί να συμβεί. Δεν ξέρουμε ακόμα πώς θα εξελιχθεί η κατάσταση.",
+      "sourceName": "Kathimerini, News.gr",
+      "sourceUrl": "https://www.kathimerini.gr/world/564092275/merts-tessera-chronia-meta-i-rosia-toy-poytin-echei-ftasei-sto-vathytero-epipedo-varvarotitas/",
       "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
+        "kathimerini.gr",
+        "news.gr"
       ],
       "sources": [
         {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/23/economy/kathara-deytera-2026-poia-katastimata-einai-anoixta-ti-isxyei-gia-souper-market-kai-varvakeio/"
+          "title": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564092275/merts-tessera-chronia-meta-i-rosia-toy-poytin-echei-ftasei-sto-vathytero-epipedo-varvarotitas/"
         },
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/23/society/poia-souper-market-einai-anoixta-simera-kathara-deytera-ti-isxyei-gia-laikes-varvakeio/"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αφορά τις αγορές και την αναζήτηση προϊόντων για μια γιορτή, συνδέεται με τη διασκέδαση και την κοινωνική ζωή των ανθρώπων την Καθαρά Δευτέρα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-23T05:31:49.000Z"
-    },
-    {
-      "id": "8349fe05e664",
-      "title": "Έδεσσα: Αιματηρό επεισόδιο στο καρναβάλι – 23χρονος μαχαίρωσε 21χρονο στο πόδι",
-      "simpleTitle": "Έδεσσα: Μάχη με μαχαίρι στο καρναβάλι",
-      "simpleText": "Στην Έδεσσα, κατά τη διάρκεια του καρναβαλιού, έγινε ένα σοβαρό περιστατικό. Ένας 23χρονος μαχαίρωσε έναν 21χρονο στο πόδι. Αυτό συνέβη χθες σε μια γιορτή στην πόλη. Ο 21χρονος τραυματίστηκε και χρειάστηκε ιατρική βοήθεια. Ο 23χρονος, αφού επιτέθηκε, έφυγε αλλά έπεσε και χτύπησε στο κεφάλι. Τώρα και οι δύο είναι στο νοσοκομείο της Έδεσσας. Η αστυνομία ερευνά την υπόθεση για να καταλάβει τι συνέβη. Είναι σημαντικό να είμαστε προσεκτικοί σε τέτοιες εκδηλώσεις και να αποφεύγουμε βίαιες καταστάσεις.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/22/greece/edessa-aimatiro-epeisodio-sto-karnavali-23xronos-maxairose-21xrono-sto-podi/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/22/greece/edessa-aimatiro-epeisodio-sto-karnavali-23xronos-maxairose-21xrono-sto-podi/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/society/aimatiro-epeisodio-sto-karnavali-tis-edessas-23xronos-maxairose-21xrono/"
+          "title": "News.gr",
+          "url": "https://www.news.gr/kosmos/article/4082946/tessera-chronia-meta-i-rosia-tou-poutin-oti-echi-ftasi-sto-vathitero-epipedo-varvarotitas-ke-den-kerdizi-afton-ton-polemo.html"
         }
       ],
       "category": "serious",
-      "categoryReason": "Το περιστατικό περιλαμβάνει βία και ιατρική βοήθεια, συνιστώντας σοβαρή κατάσταση που σχετίζεται με κοινωνικά ζητήματα.",
+      "categoryReason": "Η είδηση αναφέρεται σε σοβαρές πολιτικές εξελίξεις και την κατάσταση της Ρωσίας στον πόλεμο στην Ουκρανία, κάτι που επηρεάζει τη σταθερότητα της Ευρώπης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-22T21:49:53.000Z"
+      "publishedAt": "2026-02-23T14:00:19.000Z"
     },
     {
-      "id": "ebf2396b7360",
-      "title": "BAFTA 2026: Μεγάλος νικητής ο Πολ Τόμας Αντερσον με τη «Μία μάχη μετά την άλλη»",
-      "simpleTitle": "Ο Πολ Τόμας Αντερσον κερδίζει τα BAFTA 2026",
-      "simpleText": "Στα BAFTA 2026, ο σκηνοθέτης Πολ Τόμας Αντερσον κέρδισε το βραβείο καλύτερης σκηνοθεσίας με την ταινία του «Μία μάχη μετά την άλλη». Είναι η πρώτη του νίκη στην κατηγορία αυτή, αφού είχε υποψηφιότητες στο παρελθόν. Η ταινία του κέρδισε συνολικά έξι βραβεία, μεταξύ των οποίων και το βραβείο καλύτερης ταινίας. Σημαντική ανατροπή ήταν η νίκη του Ρόμπερτ Αραμάγιο για το ρόλο του στην ταινία I Swear. Αυτή η βραδιά ήταν σημαντική για τον κινηματογράφο και δείχνει τη δουλειά των καλλιτεχνών στην τέχνη τους.",
+      "id": "eb26bf8418d9",
+      "title": "Κ. Τσιάρας από το Συμβούλιο Υπουργών Γεωργίας: Στήριξη και ανθεκτικότητα αγροτών για βιώσιμη ευρωπαϊκή ανάπτυξη",
+      "simpleTitle": "Στήριξη αγροτών για βιώσιμη ανάπτυξη στην ΕΕ",
+      "simpleText": "Ο Κώστας Τσιάρας, υπουργός Αγροτικής Ανάπτυξης, συμμετείχε σε συνάντηση στην Ευρωπαϊκή Ένωση. Στην εκδήλωση αυτή, οι υπουργοί συζήτησαν πώς θα βοηθήσουν τους αγρότες μέχρι το 2027. Ο κ. Τσιάρας είπε ότι είναι σημαντικό να διασφαλιστεί η ανθεκτικότητα, δηλαδή η ικανότητα των αγροτών να ξεπερνούν δυσκολίες. Αναγνώρισε ότι ο αγροδιατροφικός τομέας είναι πολύ σημαντικός για την ανάπτυξη των ευρωπαϊκών κοινωνιών. Η στήριξη αυτή θα βοηθήσει τους αγρότες να συνεχίσουν τη δουλειά τους και να παράγουν αρκετά προϊόντα για το μέλλον. Δεν έχουν ανακοινωθεί ακόμα λεπτομέρειες για τις συγκεκριμένες προτάσεις που εξετάζονται.",
+      "sourceName": "ERT News, News.gr",
+      "sourceUrl": "https://www.ertnews.gr/eidiseis/k-tsiaras-apo-to-symvoulio-ypourgon-georgias-stiriksi-kai-anthektikotita-agroton-gia-viosimi-eyropaiki-anaptyksi/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "news.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/eidiseis/k-tsiaras-apo-to-symvoulio-ypourgon-georgias-stiriksi-kai-anthektikotita-agroton-gia-viosimi-eyropaiki-anaptyksi/"
+        },
+        {
+          "title": "News.gr",
+          "url": "https://www.news.gr/politikh/article/4082930/tsiaras-apo-to-simvoulio-ipourgon-georgias-diasfalisi-anthektikotitas-ke-stirixi-ton-evropeon-agroton-gia-viosimi-anaptixi-tou-protogenous-tomea-se-evropaiko-epipedo.html"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αφορά τη στήριξη και την ανθεκτικότητα των αγροτών, η οποία σχετίζεται με σοβαρά ζητήματα κυβερνητικής πολιτικής και οικονομικής ανάπτυξης στην Ευρώπη.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T13:48:36.000Z"
+    },
+    {
+      "id": "f37331f15812",
+      "title": "Ομόνοια: Διακοπή της κυκλοφορίας λόγω καθίζησης στην οδό Γερανίου",
+      "simpleTitle": "Κλειστή η οδό Γερανίου στην Ομόνοια λόγω καθίζησης",
+      "simpleText": "Αυτή τη στιγμή, η κυκλοφορία στην οδό Γερανίου έχει σταματήσει. Αυτό συμβαίνει γιατί το οδόστρωμα, δηλαδή ο δρόμος, έχει υποχωρήσει. Η διακοπή ξεκινά από την οδό Σοφοκλέους στην περιοχή της Ομόνοιας. Οι Αρχές κλείνουν τον δρόμο για να είναι ασφαλείς οι οδηγοί και οι πεζοί. Κλιμάκια της Τροχαίας βοηθούν τους οδηγούς να βρουν άλλες διαδρομές. Δεν έχει ανακοινωθεί πότε θα ανοίξει ξανά ο δρόμος. Είναι σημαντικό να τηρούμε τις οδηγίες των Αρχών για την ασφάλειά μας.",
       "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/culture/564092083/bafta-2026-megalos-nikitis-o-pol-tomas-anterson-me-ti-mia-machi-meta-tin-alli/",
+      "sourceUrl": "https://www.kathimerini.gr/society/564092269/omonoia-diakopi-tis-kykloforias-logo-kathizisis-stin-odo-geranioy/",
       "sourceDomains": [
         "kathimerini.gr",
         "tovima.gr"
@@ -226,81 +277,25 @@
       "sources": [
         {
           "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/culture/564092083/bafta-2026-megalos-nikitis-o-pol-tomas-anterson-me-ti-mia-machi-meta-tin-alli/"
+          "url": "https://www.kathimerini.gr/society/564092269/omonoia-diakopi-tis-kykloforias-logo-kathizisis-stin-odo-geranioy/"
         },
         {
           "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/culture/i-tainia-mia-maxi-meta-tin-alli-kyriarxei-sta-bafta-2026-me-6-vraveia/"
-        }
-      ],
-      "category": "fun",
-      "categoryReason": "Η είδηση αφορά τη βραδιά των BAFTA και τις νίκες του Πολ Τόμας Αντερσον σχετικά με την ταινία του, γεγονός που σχετίζεται άμεσα με τον κινηματογράφο και τις βραβεύσεις στον τομέα αυτό.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gab8f7af6185b2d84d4393cd258d9fa9ad4d4890b0306a298e09f269866ae82183c523b2f7c33b5e7be433459bf60c795b7e8ebeafaa85f11f102c9119cf1bf8b_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T20:59:36.000Z"
-    },
-    {
-      "id": "379a88a0b836",
-      "title": "Βελούχι: Ακαρπες οι έρευνες για τον 74χρονο ορειβάτη που αγνοείται",
-      "simpleTitle": "Δυσκολίες στην αναζήτηση του 74χρονου ορειβάτη στο Βελούχι",
-      "simpleText": "Ένας 74χρονος ορειβάτης αγνοείται στο Βελούχι. Οι έρευνες για να τον βρουν είναι πολύ δύσκολες. Αυτό συμβαίνει γιατί τις πρώτες ώρες μετά την εξαφάνιση, είχε πολύ χιόνι στην περιοχή. Η χιονόπτωση εμποδίζει τους διασώστες να βρουν ίχνη του. Αργά το απόγευμα, οι έρευνες σταμάτησαν λόγω πυκνής ομίχλης. Η ομίχλη κάνει την ορατότητα κακή και οι άνθρωποι δεν μπορούν να δουν καθαρά. Δεν γνωρίζουμε ακόμη πότε θα ξαναρχίσουν οι έρευνες. Είναι σημαντικό να βρουν τον ορειβάτη το συντομότερο δυνατό.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564092038/veloychi-akarpes-oi-ereynes-gia-ton-74chrono-oreivati-poy-agnoeitai/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564092038/veloychi-akarpes-oi-ereynes-gia-ton-74chrono-oreivati-poy-agnoeitai/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/society/akarpes-oi-ereynes-sto-velouxi-gia-ton-74xrono-agnooumsno-oreivati/"
+          "url": "https://www.tovima.gr/2026/02/23/society/omonoia-diakopi-tis-kykloforias-kathizisi-odostromatos-stin-odo-geraniou/"
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την αγνοούμενη περίπτωση ενός 74χρονου ορειβάτη, η οποία έχει σοβαρές συνέπειες για την υγεία και την ασφάλεια του ατόμου, καθώς και τις δύσκολες συνθήκες στις οποίες διεξάγονται οι έρευνες.",
+      "categoryReason": "Η είδηση αφορά σοβαρό θέμα με τη διακοπή της κυκλοφορίας λόγω καθίζησης του οδοστρώματος και τις σχετικές ενέργειες των Αρχών για την ασφάλεια των οδηγών και πεζών.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-22T20:01:00.000Z"
-    },
-    {
-      "id": "f8a440acd13d",
-      "title": "Σπάτα: Υπό μερικό έλεγχο η φωτιά σε αποθήκη με αθλητικά είδη",
-      "simpleTitle": "Έγινε φωτιά σε αποθήκη στα Σπάτα",
-      "simpleText": "Στα Σπάτα, μια φωτιά ξέσπασε σε αποθήκη με αθλητικά είδη. Για να τη σβήσουν, δούλεψαν 35 πυροσβέστες με 11 οχήματα και εθελοντές. Η φωτιά πήγε και σε κοντινό κτίριο, αλλά οι πυροσβέστες την έσβησαν πριν γίνει μεγαλύτερη. Η κατάσταση είναι υπό έλεγχο, και δεν έχει ανακοινωθεί λεπτομέρειες για το πώς προκλήθηκε. Είναι σημαντικό να διασφαλιστεί ότι όλοι είναι ασφαλείς και ότι δεν κινδυνεύει κανείς.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/society/564092032/spata-ypo-meriko-elegcho-i-fotia-se-apothiki-me-athlitika-eidi/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564092032/spata-ypo-meriko-elegcho-i-fotia-se-apothiki-me-athlitika-eidi/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/society/ypo-meriko-elegxo-i-fotia-se-xoro-epixeirisis-me-athlitika-eidi-sta-spata/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια φωτιά που ξέσπασε σε αποθήκη με αθλητικά είδη, με κίνδυνο επεκτάσεως σε κοντινό κτίριο, και περιλαμβάνει πληροφορίες για την κινητοποίηση δυνάμεων κατάσβεσης, γεγονός που σχετίζεται με σοβαρά ζητήματα ασφάλειας και υγείας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ge586f0d9b0545f3af5c96c3d2498d7a4d84aa158cd6d3aa8e82e711ff77d49a70c863b6d4a84b5d4cfcf52cfbdd764645381cf62df7c3e9638ac899b56c4647b_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T19:49:56.000Z"
+      "publishedAt": "2026-02-23T12:07:44.000Z"
     },
     {
       "id": "f724e63da9a8",
       "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-      "simpleTitle": "Ο Keanu Reeves συμμετέχει στη νέα παιχνίδι John Wick",
-      "simpleText": "Ο Keanu Reeves, γνωστός για τον ρόλο του John Wick, θα δανείσει τη φωνή του σε ένα νέο video game. Αυτό το παιχνίδι δημιουργεί η Saber Interactive. Θα είναι η πρώτη φορά που ο Reeves θα κάνει τον John Wick πλήρως σε ένα παιχνίδι. Η συμμετοχή του προσφέρει αυθεντικότητα και κάνει την εμπειρία πιο ενδιαφέρουσα. Είναι σημαντικό γιατί συνδυάζει ταινία και παιχνίδια, κάτι που αρέσει σε πολλούς. Δεν ξέρουμε ακόμα πότε θα κυκλοφορήσει το παιχνίδι.",
+      "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
+      "simpleText": "Ο Keanu Reeves, ο διάσημος ηθοποιός, θα δανείσει τη φωνή του στο νέο video game John Wick. Το παιχνίδι αυτό ανακοινώθηκε από την εταιρεία Saber Interactive. Είναι πολύ σημαντικό γιατί είναι η πρώτη φορά που ο Reeves παίρνει τον ρόλο του John Wick σε ένα παιχνίδι. Αυτό δίνει στο παιχνίδι μια πιο αυθεντική αίσθηση. Οι θαυμαστές του John Wick θα μπορέσουν να απολαύσουν την εμπειρία του παιχνιδιού με τη φωνή του αγαπημένου τους ηθοποιού. Ακόμα, συνδυάζει την τέχνη του κινηματογράφου με την τεχνολογία των video games.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
       "sourceDomains": [
@@ -313,17 +308,17 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Η είδηση αφορά την συμμετοχή του Keanu Reeves σε ένα video game που βασίζεται στον κινηματογραφικό χαρακτήρα John Wick, συνδυάζοντας στοιχεία ταινίας και gaming.",
+      "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves στο νέο video game John Wick, το οποίο συνδυάζει την τέχνη του κινηματογράφου με τον κόσμο των video games, κάνοντάς την κατάλληλη για την κατηγορία του screen.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/gb5b2619a75d37b781c6520b00543100bf3bab0ca5e446479982f24253a5c253cc67aa8a936d847bdc6e8af2d4c6adc1a23e18b6b6b5ef1df51866ecb50201cd2_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g1eb74649988aac25bd7a909600a218763888fb9852962a151a8f655157fe9b605236877fb0a34a0791362a951e4053113eb2e897f3c3dd9cbad6c6c0c8c36e8d_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-21T09:46:00.000Z"
     },
     {
       "id": "017b0e5fc632",
       "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-      "simpleTitle": "Νωρίτερα ξεκινά ο κοινωνικός τουρισμός το 2026",
-      "simpleText": "Η τουριστική σεζόν του 2026 θα ξεκινήσει νωρίς, στις 1 Μαΐου. Αυτό θα δώσει τη δυνατότητα σε πολλές οικογένειες να κάνουν διακοπές την άνοιξη. Οι αιτήσεις για το πρόγραμμα θα ανοίξουν αμέσως μετά το Πάσχα. Το πρόγραμμα αυτό έχει προϋπολογισμό 50 εκατομμυρίων ευρώ και θα προσφέρει 300.000 επιταγές. Στόχος είναι να βοηθήσει τις οικογένειες που χρειάζονται πιο πολύ διακοπές. Είναι μια σημαντική ευκαιρία για να στηριχθούν οι πολίτες και οι τοπικές οικονομίες.",
+      "simpleTitle": "Νωρίτερα από ποτέ ο κοινωνικός τουρισμός για το 2026",
+      "simpleText": "Φέτος, το πρόγραμμα κοινωνικού τουρισμού στη Ελλάδα ξεκινά από την 1η Μαΐου. Αυτό είναι νωρίτερα από τις προηγούμενες χρονιές. Οι αιτήσεις θα γίνουν μετά το Πάσχα. Το πρόγραμμα βοηθά πολλούς ανθρώπους και τις τοπικές οικονομίες. Έχει προϋπολογισμό 50 εκατομμυρίων ευρώ και θα προσφέρει 300.000 επιταγές για διακοπές. Είναι μια καλή ευκαιρία για ανθρώπους που χρειάζονται ξεκούραση. Αυτό το πρόγραμμα είναι σημαντικό γιατί στηρίζει τις οικογένειες στην Ελλάδα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
       "sourceDomains": [
@@ -336,7 +331,7 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αφορά την έναρξη ενός προγράμματος κοινωνικού τουρισμού που θα προσφέρει ευκαιρίες σε οικογένειες να κάνουν διακοπές, κάτι που φέρνει χαρά και ανακούφιση σε κοινωνικές ομάδες.",
+      "categoryReason": "Η είδηση αναφέρεται σε μια θετική πρωτοβουλία που προάγει τον κοινωνικό τουρισμό στην Ελλάδα, παρέχοντας ευκαιρίες για διακοπές σε οικογένειες που το χρειάζονται, ενισχύοντας παράλληλα τις τοπικές οικονομίες.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -345,8 +340,8 @@
     {
       "id": "c54fb8d79f04",
       "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-      "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε vintage κάμερα",
-      "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια σπάνια ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα μεταχειρισμένων ειδών. Μέσα στη μηχανή βρήκε ένα φιλμ που είχε μείνει κλεισμένο για 70 χρόνια. Η κάμερα που αγόρασε είναι από το 1930 και κόστισε μόνο 13 δολάρια. Ο άνδρας έδωσε τη μηχανή σε ειδικούς, οι οποίοι με προσοχή εμφάνισαν το φιλμ. Παρόλο που το φιλμ είχε φθορές από τον χρόνο, οι ειδικοί κατάφεραν να αποκαλύψουν καθαρές εικόνες από το παρελθόν. Αυτό δείχνει πόσο πολύτιμες είναι οι παλιές αναμνήσεις.",
+      "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μηχανή 70 χρόνων",
+      "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα μεταχειρισμένων. Η μηχανή είναι από το 1930 και κόστισε 13 δολάρια. Μέσα της, ανακάλυψε ένα παλιό φιλμ που είχε παραμείνει κρυφό για 70 χρόνια. Ο φωτογράφος έδωσε τη μηχανή σε ειδικούς για να δουν αν μπορούν να εμφανίσουν τις εικόνες. Η δουλειά τους ήταν δύσκολη, αλλά κατάφεραν να βγάλουν καθαρές φωτογραφίες από το παρελθόν. Αυτή η ανακάλυψη είναι σπουδαία γιατί μας δείχνει στιγμές από άλλη εποχή.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
       "sourceDomains": [
@@ -359,9 +354,9 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ανακάλυψη του vintage φιλμ και οι καθαρές εικόνες από το παρελθόν προσφέρουν μια θετική και ευχάριστη ιστορία που δημιουργεί αίσθηση θαύματος και χαράς για τις παλιές αναμνήσεις.",
+      "categoryReason": "Η είδηση αφορά μια θετική και χαρούμενη ανακάλυψη, καθώς κάποιος βρήκε κρυμμένες φωτογραφίες από το παρελθόν, κάτι που φέρνει χαρά και νοσταλγία.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ga924d2f9243cc354c5ba3b8803463d77e4261565ef9bc4ac5b5f0c8619fddcdec268e3bc713e466030316e3d4b0072e6b898f77c4237be3c7028dd37bdd325fa_1280.jpg",
+      "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-20T10:08:32.000Z"
     },
@@ -369,7 +364,7 @@
       "id": "5fcb2e05ddd9",
       "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
       "simpleTitle": "Έργα ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-      "simpleText": "Στο Μουσείο Μπενάκη στην Ελλάδα, γίνεται μια ιδιαίτερη εκδήλωση με σπουδαία έργα ζωγραφικής. Δύο σημαντικά έργα από τον 19ο αιώνα παρουσιάζονται στους επισκέπτες. Αυτά είναι η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία». Οι επισκέπτες έχουν την ευκαιρία να δουν αυτές τις ομορφιές και να κατανοήσουν καλύτερα την ελληνική παράδοση. Αυτή η εκδήλωση είναι σημαντική γιατί συνδέει το παρελθόν με το παρόν και προάγει τον πολιτισμό μας. Το μουσείο προτείνει στους επισκέπτες να το επισκεφτούν για να απολαύσουν αυτά τα έργα.",
+      "simpleText": "Στο Μουσείο Μπενάκη γίνεται μια ξεχωριστή έκθεση με σημαντικά έργα ζωγραφικής. Δύο γνωστά έργα από τον 19ο αιώνα, η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία», θα είναι εκεί για τους επισκέπτες. Αυτές οι εικόνες μας δείχνουν την ελληνική πολιτιστική κληρονομιά. Η έκθεση είναι ευκαιρία να μάθουμε περισσότερα για την τέχνη και την ιστορία μας. Εάν επισκεφτείτε το μουσείο, θα ανακαλύψετε κάτι πολύ όμορφο και παλιό.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
       "sourceDomains": [
@@ -382,7 +377,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά την παρουσίαση εμβληματικών έργων ζωγραφικής στο Μουσείο Μπενάκη, η οποία σχετίζεται άμεσα με την ελληνική πολιτιστική κληρονομιά και την τέχνη.",
+      "categoryReason": "Η είδηση αφορά μια έκθεση εμβληματικών έργων ζωγραφικής που αναδεικνύει την ελληνική πολιτιστική κληρονομιά, άρα είναι καταλληλότερη για την κατηγορία του πολιτισμού.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -391,8 +386,8 @@
     {
       "id": "c186e848bd56",
       "title": "Επαναστατικό σπρέυ για την επούλωση πληγών σταματά την αιμορραγία σε ένα μόλις δευτερόλεπτο",
-      "simpleTitle": "Νέο σπρέι που σταματά την αιμορραγία πολύ γρήγορα",
-      "simpleText": "Εξελίσσεται μια νέα τεχνολογία που μπορεί να βοηθήσει σε καταστάσεις έκτακτης ανάγκης. Ερευνητές από το ινστιτούτο KAIST δημιούργησαν ένα σπρέι που σταματά την αιμορραγία σε ένα μόλις δευτερόλεπτο. Αυτό είναι πολύ σημαντικό, γιατί μπορεί να σώσει ζωές σε μέρη όπως πεδία μαχών ή σε ατυχήματα. Το σπρέι αυτό είναι μια καινοτόμος λύση στην επείγουσα ιατρική και μπορεί να αλλάξει τον τρόπο που αντιμετωπίζουμε σοβαρούς τραυματισμούς. Δεν έχουμε περισσότερες λεπτομέρειες για το πόσο αυτό το σπρέι θα διατεθεί στο κοινό.",
+      "simpleTitle": "Νέο σπρέι σταματά την αιμορραγία γρήγορα",
+      "simpleText": "Μια νέα ανακάλυψη από επιστήμονες προσφέρει ένα σπρέι που σταματά την αιμορραγία σε ένα μόνο δευτερόλεπτο. Αυτό είναι πολύ σημαντικό για καταστάσεις έκτακτης ανάγκης, όπως σε πολέμους ή ατυχήματα. Οι ερευνητές εργάζονται στο ινστιτούτο KAIST και πιστεύουν ότι αυτή η ανακάλυψη μπορεί να σώσει πολλές ζωές. Το σπρέι περιέχει μια σκόνη που βοηθά να κλείσουν οι πληγές γρήγορα και με ασφάλεια. Δεν ξέρουμε ακόμα πότε θα είναι διαθέσιμο για όλους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32119-neo-sprei-gia-tin-epoulosi-pligon-stamatia-tin-aimorragia-se-ena-defterolepto/",
       "sourceDomains": [
@@ -405,7 +400,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την ιατρική και την επείγουσα φροντίδα, αναφέροντας μια σημαντική καινοτομία που έχει τη δυνατότητα να σώσει ζωές σε σοβαρές καταστάσεις.",
+      "categoryReason": "Η ανακάλυψη του σπρέι για την επουλωση πληγών και την άμεση διακοπή αιμορραγίας σχετίζεται με σοβαρά ζητήματα υγείας και επείγουσας ιατρικής.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -414,8 +409,8 @@
     {
       "id": "5bff79bb47ab",
       "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-      "simpleTitle": "Καταρίνα βαν Χέμεσεν: Η πρώτη γυναίκα ζωγράφος",
-      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σπουδαία ζωγράφος από τη Φλάνδρα. Το 1548 δημιούργησε μια αυτοπροσωπογραφία, που σημαίνει ότι ζωγράφισε τον εαυτό της. Αυτό είναι σημαντικό γιατί είναι η πρώτη γνωστή γυναίκα καλλιτέχνης που έκανε κάτι τέτοιο. Στην εικόνα, την βλέπουμε να κρατάει ένα πινέλο και να ζωγραφίζει με πάθος. Με αυτήν την κίνηση, ζήτησε να αναγνωριστεί ως καλλιτέχνης στον κόσμο της τέχνης. Η υπογραφή της, που λέει ότι είναι η Καταρίνα βαν Χέμεσεν, είναι ένα μήνυμα ότι οι γυναίκες μπορούν να δημιουργήσουν, όπως και οι άντρες.",
+      "simpleTitle": "Καταρίνα βαν Χέμεσεν: Μια πρωτοπόρος ζωγράφος",
+      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μία σπουδαία ζωγράφος από την Φλάνδρα. Το 1548, ζωγράφισε τον εαυτό της την ώρα που εργαζόταν. Αυτό είναι σημαντικό γιατί είναι η πρώτη γυναίκα καλλιτέχνης που έκανε μια τέτοια εικόνα. Με το πινέλο στο χέρι, θέλησε να δείξει τη δύναμη των γυναικών στην τέχνη. Υπέγραψε τον πίνακά της με τα λόγια «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτή η κίνηση ήταν πολύ σημαντική για την εποχή της. Έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνες και να διεκδικούν τη θέση τους στον κόσμο της τέχνης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
       "sourceDomains": [
@@ -428,7 +423,7 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αναφέρεται στη σημασία της Καταρίνα βαν Χέμεσεν ως καλλιτέχνη και τονίζει την πολιτιστική και ιστορική αξία της αυτοπροσωπογραφίας της, που αγγίζει τη γυναικεία δημιουργία στο πεδίο της τέχνης.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική καλλιτέχνη της ιστορίας, την Καταρίνα βαν Χέμεσεν, και τον αντίκτυπό της στην τέχνη και τη γυναικεία δημιουργία.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -437,8 +432,8 @@
     {
       "id": "8472722905be",
       "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
-      "simpleTitle": "Νέος οργανισμός για τη γυναικεία επιχειρηματικότητα στην Ελλάδα",
-      "simpleText": "Το Φεβρουάριο του 2026 δημιουργείται ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτή η κίνηση είναι σημαντική γιατί βοηθά τις γυναίκες στον κόσμο των επιχειρήσεων. Ο οργανισμός θα προσφέρει υποστήριξη και ευκαιρίες για να γίνουν οι γυναίκες πιο δυναμικές. Υποστηρίζεται από γνωστούς επιχειρηματικούς φορείς, ώστε να εξασφαλιστούν ίσες ευκαιρίες για όλους. Αυτό μπορεί να φέρει καινοτομία και αλλαγές στην οικονομία της χώρας. Είναι μια καλή ευκαιρία για τις γυναίκες να πρωταγωνιστήσουν στο μέλλον.",
+      "simpleTitle": "Νέος οργανισμός για γυναικεία επιχειρηματικότητα στην Ελλάδα",
+      "simpleText": "Στον Φεβρουάριο του 2026 ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτός ο οργανισμός θέλει να βοηθήσει τις γυναίκες να είναι πιο δυνατές στον επιχειρηματικό τομέα. Είναι πολύ σημαντικό γιατί προσφέρει εργαλεία και υποστήριξη, ώστε να έχουν ίσες ευκαιρίες. Πολλοί γνωστοί φορείς, όπως το ΕΒΕΑ και η ΕΕΕ, στηρίζουν αυτή την προσπάθεια. Έτσι, ο οργανισμός θέλει να φέρει αλλαγές και να κάνει τη διαφορά για τις γυναίκες στον κόσμο των επιχειρήσεων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
       "sourceDomains": [
@@ -451,17 +446,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας σηματοδοτεί μια θετική εξέλιξη για τη θέση των γυναικών στον επιχειρηματικό τομέα, προάγοντας την ισότητα και τις ευκαιρίες.",
+      "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας είναι μια θετική εξέλιξη που αποσκοπεί στην ενδυνάμωση των γυναικών στον επιχειρηματικό τομέα, δημιουργώντας ίσες ευκαιρίες.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g6a9d3d3d669bcedc9748c3e2aa5a648192223ed4437233d6540a2299d636d9b360651200090ad68ae1ceeb357611508bf784cb59585777c43d42c31a0a4f7bc0_1280.jpg",
+      "imageUrl": "https://pixabay.com/get/g788c303d1e044841a39fee5855fa58da08ba986df91d7cf5768fddb71d9705e719f89230dd6bfaf4646f01120eb02844aa44149440763016f97e98102cb409cc_1280.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T13:22:00.000Z"
     },
     {
       "id": "8e0ce3141016",
       "title": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε 10 σύγχρονα αντιβιοτικά",
-      "simpleTitle": "Αρχαίο βακτήριο αντέχει σε σύγχρονα φάρμακα",
-      "simpleText": "Ερευνητές βρήκαν ένα πολύ παλιό βακτήριο στην Ρουμανία. Το βακτήριο αυτό είναι 5.000 ετών και βρέθηκε σε ένα σπήλαιο με πάγο. Είναι ιδιαίτερο γιατί αντέχει σε 10 σύγχρονα φάρμακα που χρησιμοποιούμε για τις μολύνσεις. Το βακτήριο ανήκει στην ομάδα Psychrobacter. Η ανακάλυψη αυτή είναι σημαντική, γιατί μπορεί να μας βοηθήσει να καταλάβουμε περισσότερα για τα μικρόβια και την αντοχή τους στα φάρμακα. Δεν γνωρίζουμε ακόμα πώς επηρεάζει αυτό την ιατρική.",
+      "simpleTitle": "Βακτήριο 5.000 ετών που δεν επηρεάζεται από αντιβιοτικά",
+      "simpleText": "Ερευνητές ανακάλυψαν ένα πολύ παλιό βακτήριο που είναι 5.000 χρόνων. Αυτό το βακτήριο βρέθηκε σε μια σπηλιά γεμάτη πάγο στη Ρουμανία. Είναι πολύ ιδιαίτερο γιατί δεν επηρεάζεται από 10 σύγχρονα φάρμακα που χρησιμοποιούμε για να σκοτώσουμε τα μικρόβια. Το βακτήριο λέγεται Psychrobacter και είναι πολύ σημαντικό για την επιστήμη. Αυτή η ανακάλυψη μπορεί να μας βοηθήσει να καταλάβουμε πώς τα μικρόβια επιβιώνουν και πώς μπορούμε να τα αντιμετωπίσουμε στο μέλλον. Τώρα οι επιστήμονες μελετούν πώς ακριβώς λειτουργεί αυτό το παλιό βακτήριο.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/",
       "sourceDomains": [
@@ -474,7 +469,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η ανακάλυψη ενός αρχαίου βακτηρίου που είναι ανθεκτικό σε σύγχρονα αντιβιοτικά αφορά σοβαρά ζητήματα υγειονομικής ασφάλειας και μικροβιολογίας.",
+      "categoryReason": "Η ανακάλυψη ενός 5.000 χρόνων βακτηρίου που είναι ανθεκτικό σε σύγχρονα αντιβιοτικά έχει σημαντικές επιπτώσεις στην επιστήμη και τη δημόσια υγεία, καθιστώντας τη σοβαρή είδηση.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -483,8 +478,8 @@
     {
       "id": "faff9794ec94",
       "title": "Η επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια και τα απίστευτα οφέλη για το περιβάλλον",
-      "simpleTitle": "Ο ευρωπαϊκός βίσωνας επιστρέφει στα Καρπάθια",
-      "simpleText": "Στα νότια βουνά Καρπαθίων, ο ευρωπαϊκός βίσωνας ξανά ελεύθερος στη φύση. Αυτά τα ζώα είχαν εξαφανιστεί, αλλά τώρα επιστρέφουν για να βοηθήσουν το περιβάλλον. Η παρουσία τους είναι σημαντική, γιατί ανανεώνουν το έδαφος και βοηθούν τα φυτά να μεγαλώνουν. Με την επιστροφή τους, το οικοσύστημα γίνεται πιο υγιές και γεμάτο ζωή. Αυτό δείχνει πως οι προσπάθειες για τη φύση μπορούν να έχουν καλές αλλαγές για τον πλανήτη μας. Είναι σημαντικό να προστατεύουμε και να στηρίζουμε την άγρια ζωή.",
+      "simpleTitle": "Επιστροφή του βίσωνα στα Καρπάθια και οφέλη για το περιβάλλον",
+      "simpleText": "Στα βουνά των Καρπαθίων, ο ευρωπαϊκός βίσωνας επέστρεψε μετά από καιρό. Αυτά τα ζώα είχαν εξαφανιστεί, αλλά τώρα περιφέρονται και πάλι ελεύθερα. Η επιστροφή τους είναι σπουδαία για τη φύση. Οι βίσωνες βοηθούν στη φροντίδα του εδάφους και αύριο θα κάνουν τη γη πιο γόνιμη. Η παρουσία τους ενισχύει τη ζωή και την ποικιλία των φυτών και των ζώων γύρω τους. Αυτή η αλλαγή δείχνει πόσο σημαντική είναι η συνεργασία για την προστασία του περιβάλλοντος.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32115-perivallontika-ofeli-apo-tin-epistrofi-ton-visonon-sta-karpathia/",
       "sourceDomains": [
@@ -497,7 +492,7 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά την επιστροφή ενός είδους που είχε εξαφανιστεί και τα οφέλη του για το περιβάλλον, επισημαίνοντας τη σημασία της προστασίας της άγριας ζωής και του οικοσυστήματος.",
+      "categoryReason": "Η επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια σχετίζεται με σοβαρά περιβαλλοντικά ζητήματα και την υποστήριξη της βιοποικιλότητας, επομένως ανήκει στις σοβαρές ειδήσεις.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
@@ -507,7 +502,7 @@
       "id": "724bacd1fa93",
       "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
       "simpleTitle": "Τετραήμερη εργασία στην Ολλανδία: Ένας νέος τρόπος ζωής",
-      "simpleText": "Στην Ολλανδία, οι άνθρωποι εργάζονται μόνο τέσσερις ημέρες την εβδομάδα. Αυτό τους δίνει περισσότερο χρόνο για την οικογένεια και για τον εαυτό τους. Η χώρα έχει τον χαμηλότερο μέσο χρόνο εργασίας στην Ευρώπη, με 32,1 ώρες την εβδομάδα. Αυτή η αλλαγή δείχνει ότι δεν χρειάζονται πολλές ώρες δουλειάς για να είναι οι οικονομίες δυνατές και παραγωγικές. Οι Ολλανδοί αποδεικνύουν ότι η ποιότητα και η καινοτομία είναι πιο σημαντικές από τις πολλές ώρες στο γραφείο. Είναι σημαντικό γιατί οι εργαζόμενοι είναι πιο ευτυχισμένοι και πιο αποτελεσματικοί.",
+      "simpleText": "Στην Ολλανδία, οι άνθρωποι εργάζονται μόνο τέσσερις ημέρες την εβδομάδα. Αυτό σημαίνει λιγότερες ώρες δουλειάς, συγκεκριμένα 32,1 ώρες την εβδομάδα. Έτσι, οι εργαζόμενοι έχουν περισσότερο χρόνο για τις οικογένειές τους και για τον εαυτό τους. Αυτή η αλλαγή δείχνει ότι δεν χρειάζεται να δουλεύουμε πολλές ώρες για να είμαστε επιτυχημένοι. Η Ολλανδία είναι πολύ ανταγωνιστική και αποδεικνύει ότι η ποιότητα στη δουλειά μετράει περισσότερο από την ποσότητα. Αυτό το μοντέλο μπορεί να εμπνεύσει και άλλες χώρες να κάνουν το ίδιο για να έχουν πιο ευτυχισμένους ανθρώπους.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
       "sourceDomains": [
@@ -520,223 +515,129 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση παρουσιάζει τη θετική επίδραση του μοντέλου τετραήμερης εργασίας στην Ολλανδία, που βελτιώνει τη ζωή των εργαζομένων και την ευημερία τους, γεγονός που προσδίδει χαρά και ικανοποίηση.",
+      "categoryReason": "Η είδηση επικεντρώνεται σε μια θετική αλλαγή στην εργασία στην Ολλανδία που προάγει την ισορροπία ανάμεσα στην επαγγελματική και προσωπική ζωή, κάτι που δημιουργεί ευτυχία για τους εργαζόμενους.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
       "publishedAt": "2026-02-17T20:13:04.000Z"
     },
     {
-      "id": "17b43d09bcf1",
-      "title": "Το «arrivederci» της Ιταλίας στους Χειμερινούς Ολυμπιακούς Αγώνες",
-      "simpleTitle": "Η Ιταλία αποχαιρετά τους Χειμερινούς Ολυμπιακούς Αγώνες",
-      "simpleText": "Η Ιταλία ολοκλήρωσε τους Χειμερινούς Ολυμπιακούς Αγώνες με μια μεγάλη τελετή στην Arena di Verona την Κυριακή. Η εκδήλωση είχε τίτλο «Beauty in Action» και γιόρτασε την ιταλική τέχνη και τον αθλητισμό. Στην τελετή, οι αθλητές παρέλασαν και η Ολυμπιακή Σημαία παραδόθηκε στη Διεθνή Ολυμπιακή Επιτροπή. Στην ομιλία της, η πρόεδρος της Ολυμπιακής Επιτροπής δήλωσε ότι οι Αγώνες λήγουν και ανανέωσε το ραντεβού για το 2030 στη Γαλλία. Η Ιταλία κέρδισε συνολικά 30 μετάλλια, κάτι που είναι ρεκόρ για τη χώρα στους Χειμερινούς Αγώνες. Υπήρξαν και διαμαρτυρίες για περιβαλλοντικά ζητήματα πριν την τελετή.",
+      "id": "96b0d2cea7cb",
+      "title": "Λαμπάδιασε μονοθέσιο της Red Bull σε επίδειξη στο Σαν Φραντσίσκο",
+      "simpleTitle": "Αυτοκίνητο της Red Bull πήρε φωτιά σε επίδειξη",
+      "simpleText": "Στην Αμερική, στο Σαν Φρανσίσκο, έγινε μια ειδική εκδήλωση της Red Bull. Ο πιλότος Yuki Tsunoda οδηγούσε ένα αυτοκίνητο της Red Bull από το 2011. Ενώ έκανε εντυπωσιακούς ελιγμούς, το αυτοκίνητο ξαφνικά πιάσε φωτιά. Ο Tsunoda κατάφερε να βγει γρήγορα από το αυτοκίνητο και ευτυχώς δεν τραυματίστηκε. Αυτό το περιστατικό δείχνει πόσο επικίνδυνες μπορεί να είναι τέτοιες επιδείξεις, γι' αυτό είναι σημαντικό οι οδηγοί να προσέχουν πολύ στην ασφάλειά τους.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/23/autonea/agora/lampadiase-monothesio-tis-red-bull-se-epideiksi-sto-san-frantsisko/",
+      "sourceDomains": [
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/23/autonea/agora/lampadiase-monothesio-tis-red-bull-se-epideiksi-sto-san-frantsisko/"
+        }
+      ],
+      "category": "sports",
+      "categoryReason": "Η είδηση αφορά μια επίδειξη οδήγησης μονοθέσιου της Red Bull, η οποία σχετίζεται με τον αθλητισμό και τους αγώνες αυτοκινήτων. | rss_backfill",
+      "isSensitive": false,
+      "imageUrl": "https://pixabay.com/get/g553105f02303a6b0117622d0a3102eafb4d3e14c98bb4e92ef88ed7990c9a40011bfc6ecb6028b0cba98108694c02557ed722996212b42a0b7bdfc3b4e7a89d6_1280.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Hi1i88ya9oE?start=1&#038;feature=oembed",
+      "publishedAt": "2026-02-23T15:06:50.000Z"
+    },
+    {
+      "id": "d12e9ee607dd",
+      "title": "Live streaming: Δείτε τον αγώνα ΑΕΠΣ Μαχητές Πειραματικό-ΑΓΕ Χαλκίδας για την Elite League (16:30, ΕΡΤ2 ΣΠΟΡ)",
+      "simpleTitle": "Ζωντανή μετάδοση του αγώνα Μαχητές Πειραματικό - ΑΓΕ Χαλκίδας",
+      "simpleText": "Σήμερα το απόγευμα, στις 16:30, θα μπορέσετε να παρακολουθήσετε τον αγώνα μπάσκετ ανάμεσα στους Μαχητές Πειραματικό και την ΑΓΕ Χαλκίδας. Αυτός ο αγώνας είναι σημαντικός γιατί είναι μέρος της 23ης αγωνιστικής της Elite League. Η μετάδοση γίνεται ζωντανά από την τηλεόραση ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον δείτε και μέσω του ERTFLIX στο διαδίκτυο. Είναι μια καλή ευκαιρία να δείτε την ομάδα σας και να απολαύσετε το παιχνίδι.",
       "sourceName": "ERT News",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/to-arrivederci-tis-italias-stous-xeimerinous-olympiakous-agones/",
+      "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aeps-maxites-peiramatiko-age-xalkidas-gia-tin-elite-league-16-30-ert2-spor/",
       "sourceDomains": [
         "ertnews.gr"
       ],
       "sources": [
         {
           "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/to-arrivederci-tis-italias-stous-xeimerinous-olympiakous-agones/"
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aeps-maxites-peiramatiko-age-xalkidas-gia-tin-elite-league-16-30-ert2-spor/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Το γεγονός αφορά τη λήξη των Χειμερινών Ολυμπιακών Αγώνων, με έμφαση στα αθλητικά επιτεύγματα και τις σχετικές τελετές, καθιστώντας το κυρίως αθλητική είδηση. | rss_backfill",
+      "categoryReason": "Ο αγώνας μπάσκετ αφορά σημαντική αθλητική διοργάνωση (Elite League) και περιλαμβάνει ζωντανή μετάδοση, κάτι που τον καθιστά σαφή υποψήφιο για την κατηγορία των σπορ. | rss_backfill",
       "isSensitive": false,
       "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/2026-02-23-reuters-olympicend.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/2026-02-23-reuters-olympicend.jpg",
-      "publishedAt": "2026-02-23T07:38:37.000Z"
-    },
-    {
-      "id": "6e00eaf443fc",
-      "title": "ΑΕΚ – Λεβαδειακός 4-0: Άνετη νίκη για την Ένωση",
-      "simpleTitle": "ΑΕΚ νίκησε εύκολα τον Λεβαδειακό",
-      "simpleText": "Η ΑΕΚ κέρδισε τον Λεβαδειακό με σκορ 4-0 σε έναν αγώνα που έγινε πρόσφατα. Το παιχνίδι ξεκίνησε καλά για την ΑΕΚ, καθώς σκόραρε το πρώτο γκολ μόλις 5 λεπτά μετά την έναρξη. Αυτή η νίκη είναι σημαντική γιατί δείχνει ότι η ομάδα είναι σε καλή φόρμα. Οι φίλαθλοι ήταν χαρούμενοι με την απόδοση της ομάδα τους. Δεν έχουν ανακοινωθεί λεπτομέρειες για τα επόμενα παιχνίδια.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/02/22/sports/aek-levadeiakos-4-0-aneti-niki-gia-tin-enosi/",
-      "sourceDomains": [
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/22/sports/aek-levadeiakos-4-0-aneti-niki-gia-tin-enosi/"
-        }
-      ],
-      "category": "sports",
-      "categoryReason": "Η είδηση αφορά έναν ποδοσφαιρικό αγώνα της ΑΕΚ με τον Λεβαδειακό, εστιάζοντας στα αποτελέσματα και τις επιδόσεις των ομάδων. | rss_backfill",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-22T19:27:05.000Z"
+      "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+      "publishedAt": "2026-02-23T14:15:00.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "602ae1588b98",
-        "title": "Χρ. Αράπογλου: Υπό έλεγχο η φωτιά στο πρώην στρατόπεδο Κόδρα",
-        "simpleTitle": "Φωτιά στο πρώην στρατόπεδο Κόδρα ελέγχθηκε",
-        "simpleText": "Στην Καλαμαριά, ξέσπασε φωτιά το βράδυ της Κυριακής στο πρώην στρατόπεδο Κόδρα. Η πυροσβεστική δέχθηκε κλήση μετά τις 9:15 και έφτασαν 20 πυροσβέστες με 7 οχήματα. Η φωτιά περιορίστηκε γρήγορα, χάρη στη γρήγορη παρέμβαση της πυροσβεστικής και άλλων αρχών. Δεν κινδύνεψαν άνθρωποι, αλλά οι φλόγες ήταν ορατές από μακριά. Οι αρχές καλούν τον κόσμο να είναι προσεκτικός και να αναφέρουν οποιοδήποτε κίνδυνο. Η έρευνα για τα αίτια της φωτιάς θα συνεχιστεί.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/ert3/xr-arapoglou-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/",
+        "id": "1dd88bef3f00",
+        "title": "Το Ευρωκοινοβούλιο «παγώνει» την επικύρωση της εμπορικής συμφωνίας με τις ΗΠΑ",
+        "simpleTitle": "Το Ευρωκοινοβούλιο σταματά τη συμφωνία εμπορίου με τις ΗΠΑ",
+        "simpleText": "Το Ευρωκοινοβούλιο αποφάσισε να μην προχωρήσει στην επικύρωση της εμπορικής συμφωνίας με τις Ηνωμένες Πολιτείες. Αυτή η απόφαση ήρθε μετά την ακύρωση των δασμών από το ανώτατο δικαστήριο των ΗΠΑ. Οι δασμοί είχαν επιβληθεί το 2025. Είναι σημαντικό γιατί η εμπορική συμφωνία θα μπορούσε να επηρεάσει τιμές και αγορές στην Ευρώπη. Δεν ξέρουμε ακόμα πότε θα εξεταστεί ξανά η συμφωνία. Θα χρειαστεί να περιμένουμε για περισσότερες πληροφορίες.",
+        "sourceName": "Kathimerini, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/economy/564092407/to-eyrokoinovoylio-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-tis-ipa/",
         "sourceDomains": [
-          "ertnews.gr",
           "kathimerini.gr",
-          "tanea.gr"
+          "tovima.gr"
         ],
         "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/xr-arapoglou-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/"
-          },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564092098/thessaloniki-pyrkagia-sto-proin-stratopedo-kodra/"
+            "url": "https://www.kathimerini.gr/economy/564092407/to-eyrokoinovoylio-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-tis-ipa/"
           },
           {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/23/greece/thessaloniki-ypo-elegxo-i-fotia-sto-proin-stratopedo-kodra/"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/23/finance/i-ee-pagonei-tin-epikyrosi-tis-emporikis-symfonias-me-ipa-ti-zita/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά την κατάσβεση πυρκαγιάς που ξέσπασε σε στρατόπεδο και περιλαμβάνει στοιχεία σχετικά με την ασφάλεια και την παρέμβαση της πυροσβεστικής, σημαντικά ζητήματα για την δημόσια ασφάλεια.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g391f3249d952d3e98379dd9889daf7246505b563b7e4bb71e5e0dbe26f3adebfca7e1c1e8a8db0ef4151b7a167fabe8a46b3ba135d81495f1b8fe8bcf5377736_1280.jpg",
-        "videoUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Farapoglouchrysa%2Fposts%2Fpfbid02a3DuR1BgmJ4W4Me5JvM8Z6KaJkHhwrKG8wURov3TDknL9Addoq8GxjbrRjYqiwnl&#038;show_text=true&#038;width=500",
-        "publishedAt": "2026-02-23T07:46:41.000Z"
-      },
-      {
-        "id": "769e7a270b07",
-        "title": "Πόλεμος στην Ουκρανία: Τρεις νεκροί από ρωσικούς βομβαρδισμούς σε Οδησσό και Ζαπορίζια",
-        "simpleTitle": "** Τρεις νεκροί από ρωσικούς βομβαρδισμούς στην Ουκρανία",
-        "simpleText": "** Σε επιθέσεις μέσα στη νύχτα, τρεις άνθρωποι σκοτώθηκαν στην Οδησσό και τη Ζαπορίζια. Αυτό συνέβη στις 23 Φεβρουαρίου, παραμονή της επετείου από την έναρξη του πολέμου στην Ουκρανία. Δύο άτομα στην Οδησσό σκοτώθηκαν όταν ένα ρωσικό drone έπεσε πάνω σε ένα φορτηγό και προκάλεσε φωτιά. Στη Ζαπορίζια, ένας άνδρας πέθανε από χτύπημα αεροπορικής επιδρομής σε βιομηχανική περιοχή. Οι επιθέσεις συνεχίζονται και επηρεάζουν αθώους ανθρώπους, με πολλές απώλειες. Είναι σημαντικό να προστατευτεί ο κόσμος και οι αρχές προειδοποιούν να παραμείνουμε σε ασφαλή μέρη και να ακολουθούμε οδηγίες ασφαλείας.",
-        "sourceName": "ERT News, TA NEA, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/polemos-stin-oukrania-treis-nekroi-apo-rosikous-vomvardismous-se-odisso-kai-zaporizia/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/polemos-stin-oukrania-treis-nekroi-apo-rosikous-vomvardismous-se-odisso-kai-zaporizia/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/23/world/polemos-stin-oykrania-treis-nekroi-apo-rosikoys-vomvardismoys-se-odisso-kai-zaporizia/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4082414/rosiki-vomvardismi-se-odisso-ke-zaporizia-tris-nekri.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε σοβαρές επιθέσεις με θανάτους αμάχων κατά τη διάρκεια του πολέμου στην Ουκρανία, που αφορά κρίσιμα ζητήματα ασφάλειας και ανθρωπίνων δικαιωμάτων.",
+        "categoryReason": "Η είδηση αφορά τη σοβαρή πολιτική απόφαση του Ευρωκοινοβουλίου να παγώσει την επικύρωση μιας εμπορικής συμφωνίας, μια εξέλιξη που επηρεάζει την οικονομία και τις αγορές μεταξύ ΗΠΑ και ΕΕ.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-23T07:43:50.000Z"
+        "publishedAt": "2026-02-23T15:46:30.000Z"
       },
       {
-        "id": "d940f513b986",
-        "title": "Οι ΗΠΑ σταματούν την είσπραξη δασμών που κρίθηκαν παράνομοι – «Όχι» από την ΕΕ στη νέα αύξηση Τραμπ: «Η συμφωνία είναι συμφωνία»",
-        "simpleTitle": "Οι ΗΠΑ σταματούν να εισπράττουν παράνομους δασμούς",
-        "simpleText": "Από αύριο, η Υπηρεσία Τελωνείων και Προστασίας των Συνόρων των ΗΠΑ θα σταματήσει να εισπράττει δασμούς που κρίθηκαν παράνομοι από το Ανώτατο Δικαστήριο. Αυτοί οι δασμοί είχαν επιβληθεί από τον πρόεδρο Ντόναλντ Τραμπ για προϊόντα που εισάγονται στη χώρα. Οι δασμοί αυτοί καταργούνται γιατί δεν επιτρέπονταν σύμφωνα με τον νόμο. Ταυτόχρονα, ο Τραμπ ανακοίνωσε νέο δασμό 15% για να αντικαταστήσει τους παλιούς.\n\nΗ Ευρωπαϊκή Ένωση αντέτεινε ότι δεν αποδέχεται καμία αύξηση δασμών και ζητάει να τηρηθούν οι συμφωνίες μεταξύ των δύο πλευρών. Αυτό είναι σημαντικό γιατί επηρεάζει το εμπόριο και τις σχέσεις μεταξύ ΗΠΑ και ΕΕ. Οι αλλαγές αυτές μπορούν να φέρουν αναταραχές στην αγορά και οι άνθρωποι ελπίζουν ότι θα υπάρξει σωστός σχεδιασμός για το μέλλον.",
-        "sourceName": "ERT News, Kathimerini, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/oi-ipa-stamatoun-tin-eispraksi-dasmon-pou-krithikan-paranomoi-oxi-apo-tin-ee-sti-nea-ayksisi-tramp-i-symfonia-einai-symfonia/",
+        "id": "4a7db2f10f94",
+        "title": "Βελούχι: Εντοπίστηκε νεκρός ο 74χρονος ορειβάτης",
+        "simpleTitle": "Νεκρός ο 74χρονος ορειβάτης στο Βελούχι**",
+        "simpleText": "Ένας 74χρονος ορειβάτης βρέθηκε νεκρός σε μια χαράδρα κοντά στο Βελούχι. Είχε αγνοηθεί για δύο ημέρες και οι δικές του έρευνες δεν είχαν αποτέλεσμα. Ο γιος του αναγνώρισε τη σορό του πατέρα του. Ο ορειβάτης συμμετείχε σε αναρρίχηση με άλλους και είχε συμφωνήσει να περιμένει σε ένα σημείο, αλλά δεν εμφανίστηκε.\n\nΟι διασώστες από πολλές περιοχές, μαζί με drones, συμμετείχαν στις έρευνες. Η σορός βρέθηκε βορειοανατολικά του βουνού, γύρω στο ένα χιλιόμετρο από το σημείο που χωρίστηκε από την ομάδα του. Αυτή η τραγική ιστορία προκάλεσε μεγάλη λύπη στην οικογένεια και τους φίλους του.",
+        "sourceName": "Kathimerini, TA NEA, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/society/564092221/veloychi-entopistike-nekros-o-74chronos-oreivatis/",
         "sourceDomains": [
-          "ertnews.gr",
           "kathimerini.gr",
-          "news.gr"
+          "tanea.gr",
+          "tovima.gr"
         ],
         "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/oi-ipa-stamatoun-tin-eispraksi-dasmon-pou-krithikan-paranomoi-oxi-apo-tin-ee-sti-nea-ayksisi-tramp-i-symfonia-einai-symfonia/"
-          },
           {
             "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/economy/international/564092146/ipa-stamatoyn-apo-ayrio-tin-eispraxi-dasmon-poy-krithikan-paranomoi-apo-to-anotato-dikastirio/"
+            "url": "https://www.kathimerini.gr/society/564092221/veloychi-entopistike-nekros-o-74chronos-oreivatis/"
           },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/kosmos/article/4082404/i-ipa-stamatoun-apo-tin-triti-tin-ispraxi-dasmon-pou-krithikan-paranomi-apo-to-anotato-dikastirio.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά σοβαρές εξελίξεις στον τομέα των δασμών και των εμπορικών σχέσεων μεταξύ ΗΠΑ και ΕΕ, με νομικές και οικονομικές επιπτώσεις.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-23T07:33:42.000Z"
-      },
-      {
-        "id": "ccccb4d98469",
-        "title": "Πώς αμείβεται η εργασία την Καθαρά Δευτέρα",
-        "simpleTitle": "Πληροφορίες για αμοιβές την Καθαρά Δευτέρα",
-        "simpleText": "Η Καθαρά Δευτέρα φέτος είναι στις 23 Φεβρουαρίου 2026. Αυτή η ημέρα δεν είναι υποχρεωτική αργία για τους εργαζόμενους στον ιδιωτικό τομέα. Αν κάποιος δουλέψει τότε, δεν θα πάρει περισσότερα χρήματα από όσα συνηθίζει. Αν όμως η επιχείρηση είναι κλειστή λόγω συμφωνίας ή κανονισμού, οι εργαζόμενοι θα λάβουν κανονικά το μισθό τους. Σε περίπτωση που η επιχείρηση δουλέψει ενώ δεν το έκανε πριν, οι εργαζόμενοι θα πάρουν επιπλέον χρήματα. Είναι σημαντικό να ενημερωθούν οι ενδιαφερόμενοι για τις ειδικές ρυθμίσεις τους, αν υπάρχουν.",
-        "sourceName": "TA NEA, Protagon",
-        "sourceUrl": "https://www.tanea.gr/2026/02/23/economy/pos-ameivetai-i-ergasia-tin-kathara-deytera-2/",
-        "sourceDomains": [
-          "tanea.gr",
-          "protagon.gr"
-        ],
-        "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/23/economy/pos-ameivetai-i-ergasia-tin-kathara-deytera-2/"
+            "url": "https://www.tanea.gr/2026/02/23/greece/velouxi-nekros-o-74xronos-oreivatis-pou-agnoountan-anagnoristike-i-soros-apo-ton-gio-tou/"
           },
           {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/themata/kathara-deftera-sto-kivwtio-44343317351"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/23/society/entopistike-nekros-o-74xronos-oreivatis-sto-velouxi/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά το καθεστώς αμειβόμενης εργασίας κατά την Καθαρά Δευτέρα, που σχετίζεται με νομικές και οικονομικές ρυθμίσεις στον ιδιωτικό τομέα.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια τραγική περίπτωση θανάτου, που περιλαμβάνει κοινωνικά και ασφαλιστικά ζητήματα γύρω από τη διαδικασία αναζήτησης και διάσωσης ενός αγνοούμενου ορειβάτη, γεγονός που την καθιστά σοβαρή.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-23T06:30:27.000Z"
+        "publishedAt": "2026-02-23T15:29:35.000Z"
       },
       {
-        "id": "bc0a43667811",
-        "title": "Ο Κινέζος πρόεδρος Σι δηλώνει έτοιμος να συνεργαστεί με τον Κιμ Γιονγκ Ουν για ένα «νέο κεφάλαιο» στις σχέσεις των δύο χωρών",
-        "simpleTitle": "Συνεργασία Σι και Κιμ για νέες σχέσεις",
-        "simpleText": "Ο πρόεδρος της Κίνας, Σι Τζινπίνγκ, είπε πως θέλει να συνεργαστεί με τον Κιμ Γιονγκ Ουν της Βόρειας Κορέας. Αυτό έγινε σε ένα μήνυμα που έστειλε μετά την επανεκλογή του Κιμ. Ο Σι θέλει να δημιουργήσει ένα νέο κεφάλαιο στη φιλία μεταξύ των δύο χωρών. Αυτή η συνεργασία είναι πολύ σημαντική για τη Βόρεια Κορέα, γιατί η βοήθεια από την Κίνα είναι απαραίτητη για την οικονομία και την πολιτική της. Δεν ξέρουμε ακόμη περισσότερες λεπτομέρειες για το πώς θα προχωρήσουν.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-kinezos-proedros-si-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oun-gia-ena-neo-kefalaio-stis-sxeseis-ton-dyo-xoron/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/o-kinezos-proedros-si-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oun-gia-ena-neo-kefalaio-stis-sxeseis-ton-dyo-xoron/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564092122/si-tzinpingk-dilonei-etoimos-na-synergastei-me-ton-kim-giongk-oyn-gia-neo-kefalaio-stis-dimereis-scheseis/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά τη διπλωματική συνεργασία μεταξύ Κίνας και Βόρειας Κορέας, που έχει σοβαρές πολιτικές και οικονομικές προεκτάσεις για τις χώρες αυτές.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-23T05:48:00.000Z"
-      },
-      {
-        "id": "8349fe05e664",
-        "title": "Έδεσσα: Αιματηρό επεισόδιο στο καρναβάλι – 23χρονος μαχαίρωσε 21χρονο στο πόδι",
-        "simpleTitle": "Έδεσσα: Μάχη με μαχαίρι στο καρναβάλι",
-        "simpleText": "Στην Έδεσσα, κατά τη διάρκεια του καρναβαλιού, έγινε ένα σοβαρό περιστατικό. Ένας 23χρονος μαχαίρωσε έναν 21χρονο στο πόδι. Αυτό συνέβη χθες σε μια γιορτή στην πόλη. Ο 21χρονος τραυματίστηκε και χρειάστηκε ιατρική βοήθεια. Ο 23χρονος, αφού επιτέθηκε, έφυγε αλλά έπεσε και χτύπησε στο κεφάλι. Τώρα και οι δύο είναι στο νοσοκομείο της Έδεσσας. Η αστυνομία ερευνά την υπόθεση για να καταλάβει τι συνέβη. Είναι σημαντικό να είμαστε προσεκτικοί σε τέτοιες εκδηλώσεις και να αποφεύγουμε βίαιες καταστάσεις.",
+        "id": "62bbd2bef24e",
+        "title": "Τουρκοβούνια: 25χρονος έπεσε από μεγάλο ύψος ενώ πετούσε χαρταετό",
+        "simpleTitle": "Σοβαρό ατύχημα σε χαρταετό στα Τουρκοβούνια",
+        "simpleText": "Ένα σοβαρό ατύχημα συνέβη στα Τουρκοβούνια. Ένας 25χρονος έπεσε από ύψος πέντε μέτρων ενώ πετούσε χαρταετό. Ήταν μαζί με άλλους ανθρώπους την Καθαρή Δευτέρα, όταν έχασε την ισορροπία του και έπεσε. Αμέσως ειδοποιήθηκαν οι αρχές και έφτασε ασθενοφόρο. Ο νεαρός μεταφέρθηκε στο νοσοκομείο Ευαγγελισμός, όπου τώρα είναι σε σοβαρή κατάσταση. Ακόμα δεν γνωρίζουμε πώς συνέβη η πτώση. Η κατάσταση αυτή είναι επικίνδυνη και πρέπει να προσέχουμε όταν είμαστε σε ψηλά μέρη.",
         "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/22/greece/edessa-aimatiro-epeisodio-sto-karnavali-23xronos-maxairose-21xrono-sto-podi/",
+        "sourceUrl": "https://www.tanea.gr/2026/02/23/greece/tourkovounia-25xronos-epese-apo-megalo-ypsos-eno-petouse-xartaeto/",
         "sourceDomains": [
           "tanea.gr",
           "tovima.gr"
@@ -744,27 +645,116 @@
         "sources": [
           {
             "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/22/greece/edessa-aimatiro-epeisodio-sto-karnavali-23xronos-maxairose-21xrono-sto-podi/"
+            "url": "https://www.tanea.gr/2026/02/23/greece/tourkovounia-25xronos-epese-apo-megalo-ypsos-eno-petouse-xartaeto/"
           },
           {
             "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/22/society/aimatiro-epeisodio-sto-karnavali-tis-edessas-23xronos-maxairose-21xrono/"
+            "url": "https://www.tovima.gr/2026/02/23/society/petouse-xartaeto-ki-epese-apo-ypsos-5-metron-sto-nosokomeio-25xronos/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Το περιστατικό περιλαμβάνει βία και ιατρική βοήθεια, συνιστώντας σοβαρή κατάσταση που σχετίζεται με κοινωνικά ζητήματα.",
+        "categoryReason": "Η είδηση αφορά ένα σοβαρό ατύχημα με έναν 25χρονο που νοσηλεύεται λόγω των τραυματισμών του από την πτώση, γεγονός που αναδεικνύει ζητήματα ασφάλειας σε δημόσιους χώρους.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-22T21:49:53.000Z"
+        "publishedAt": "2026-02-23T15:07:54.000Z"
+      },
+      {
+        "id": "7cde14cc0157",
+        "title": "Στη Σούδα το μεγαλύτερο αεροπλανοφόρο στον κόσμο USS Gerald R. Ford (εικόνες – βίντεο)",
+        "simpleTitle": "Το μεγαλύτερο αεροπλανοφόρο στον κόσμο στη Σούδα",
+        "simpleText": "Το USS Gerald R. Ford, το μεγαλύτερο αεροπλανοφόρο στον κόσμο, θα είναι στη Σούδα, στην Κρήτη. Το πλοίο θα μείνει για λίγες ημέρες για να ανεφοδιαστεί. Μετά από αυτό, θα κατευθυνθεί προς το Ισραήλ, όπου αναμένεται να φτάσει σε περίπου 24 ώρες. Αυτή η επίσκεψη είναι σημαντική γιατί ενισχύει τις αμυντικές δυνάμεις των Ηνωμένων Πολιτειών και του Ισραήλ. Δεν έχουν ανακοινωθεί περισσότερες λεπτομέρειες για την αποστολή του αεροπλανοφόρου.",
+        "sourceName": "Kathimerini, News.gr, Protagon",
+        "sourceUrl": "https://www.kathimerini.gr/politics/amyna/564092344/sti-soyda-to-megalytero-aeroplanoforo-ston-kosmo-uss-gerald-r-ford-eikones/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "news.gr",
+          "protagon.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/politics/amyna/564092344/sti-soyda-to-megalytero-aeroplanoforo-ston-kosmo-uss-gerald-r-ford-eikones/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/ellada/article/4083007/sti-souda-to-aeroplanoforo-uss-gerald-r-ford-dite-fotografies-ke-vinteo.html"
+          },
+          {
+            "title": "Protagon",
+            "url": "https://www.protagon.gr/epikairotita/sti-souda-to-amerikaniko-aeroplanoforo-gerald-r-ford-44343317534"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αφορά την παρουσία ενός αεροπλανοφόρου που ενισχύει τις αμυντικές δυνάμεις των ΗΠΑ και του Ισραήλ, γεγονός που σχετίζεται με σοβαρά θέματα πολιτικής και ασφάλειας.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-23T14:59:21.000Z"
+      },
+      {
+        "id": "85dcbd4b1433",
+        "title": "Επίθεση Τραμπ κατά του Ανωτάτου Δικαστηρίου για τους δασμούς: «Γελοία απόφαση»",
+        "simpleTitle": "Τραμπ κατά του Δικαστηρίου για τους δασμούς",
+        "simpleText": "Ο Τραμπ, πρόεδρος των Ηνωμένων Πολιτειών, έκανε νέα επίθεση κατά του Ανώτατου Δικαστηρίου. Έκρινε ότι η απόφαση του δικαστηρίου για τους δασμούς είναι γελοία και κατηγόρησε τους δικαστές ότι εργάζονται για λάθος ανθρώπους. Η δήλωσή του επηρεάζει την κατάσταση των δασμών στη χώρα. Ο Τραμπ είπε ότι σκέφτεται να επιβάλει νέους δασμούς, αν χρειαστεί. Αυτές οι εξελίξεις είναι σημαντικές γιατί επηρεάζουν την οικονομία και τις εμπορικές σχέσεις. Δεν ξέρουμε ακόμα ποιοι θα επηρεαστούν περισσότερο από αυτές τις αλλαγές.",
+        "sourceName": "Kathimerini, TO BHMA",
+        "sourceUrl": "https://www.kathimerini.gr/world/564092305/epithesi-tramp-kata-toy-anotatoy-dikastirioy-gia-toys-dasmoys-geloia-apofasi/",
+        "sourceDomains": [
+          "kathimerini.gr",
+          "tovima.gr"
+        ],
+        "sources": [
+          {
+            "title": "Kathimerini",
+            "url": "https://www.kathimerini.gr/world/564092305/epithesi-tramp-kata-toy-anotatoy-dikastirioy-gia-toys-dasmoys-geloia-apofasi/"
+          },
+          {
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/23/world/nea-epithesi-tramp-kata-tou-anotatou-dikastiriou-gia-ti-geloia-kai-poly-polotiki-apofasi/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση σχετίζεται με πολιτική και οικονομικές δηλώσεις του Τραμπ που επηρεάζουν τις εμπορικές σχέσεις και την οικονομία, άρα ανήκει σε σοβαρές ειδήσεις.",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g3e92fbafab99b97fe588a2979b5484fe0440b0f6ff8b279ea55ddc2e0021f1e7b00ebc69659605ae1f1457f727e8daf6961f60e08b546a55e8369a005ad959aa_1280.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-23T14:36:39.000Z"
+      },
+      {
+        "id": "82b91d02736a",
+        "title": "Συνεδριάζει την Τρίτη υπό τον πρωθυπουργό το Κυβερνητικό Συμβούλιο Οικονομικής Πολιτικής",
+        "simpleTitle": "Συνεδρίαση του Κυβερνητικού Συμβουλίου Οικονομικής Πολιτικής την Τρίτη",
+        "simpleText": "Αύριο, στις 11:30, θα γίνει μια σημαντική συνάντηση στο Μέγαρο Μαξίμου. Ο πρωθυπουργός Κυριάκος Μητσοτάκης θα προεδρεύσει στο Κυβερνητικό Συμβούλιο Οικονομικής Πολιτικής. Στη συνάντηση αυτή, θα συζητηθούν θέματα που αφορούν την οικονομία και τη διαχείριση χρημάτων. Μετά τη συνάντηση, ο πρωθυπουργός θα συμμετάσχει σε τηλεδιάσκεψη με άλλους ηγέτες για την υποστήριξη της Ουκρανίας. Αυτό θα δείξει πόσο σημαντική είναι η συνεργασία μεταξύ των χωρών. Δεν ξέρουμε ακόμα τις λεπτομέρειες για τις αποφάσεις που θα ληφθούν.",
+        "sourceName": "TA NEA, News.gr",
+        "sourceUrl": "https://www.tanea.gr/2026/02/23/politics/synedriazei-tin-triti-ypo-ton-prothypoyrgo-to-kyvernitiko-symvoylio-oikonomikis-politikis/",
+        "sourceDomains": [
+          "tanea.gr",
+          "news.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/23/politics/synedriazei-tin-triti-ypo-ton-prothypoyrgo-to-kyvernitiko-symvoylio-oikonomikis-politikis/"
+          },
+          {
+            "title": "News.gr",
+            "url": "https://www.news.gr/politikh/article/4082963/sinedriazi-tin-triti-ipo-ton-prothipourgo-to-kivernitiko-simvoulio-ikonomikis-politikis.html"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε σημαντική πολιτική συνάντηση που αφορά την οικονομική πολιτική και τη διεθνή συνεργασία, γεγονότα που εμπίπτουν σε σοβαρές ειδήσεις.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-23T14:13:18.000Z"
       }
     ],
     "happy": [
       {
         "id": "017b0e5fc632",
         "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-        "simpleTitle": "Νωρίτερα ξεκινά ο κοινωνικός τουρισμός το 2026",
-        "simpleText": "Η τουριστική σεζόν του 2026 θα ξεκινήσει νωρίς, στις 1 Μαΐου. Αυτό θα δώσει τη δυνατότητα σε πολλές οικογένειες να κάνουν διακοπές την άνοιξη. Οι αιτήσεις για το πρόγραμμα θα ανοίξουν αμέσως μετά το Πάσχα. Το πρόγραμμα αυτό έχει προϋπολογισμό 50 εκατομμυρίων ευρώ και θα προσφέρει 300.000 επιταγές. Στόχος είναι να βοηθήσει τις οικογένειες που χρειάζονται πιο πολύ διακοπές. Είναι μια σημαντική ευκαιρία για να στηριχθούν οι πολίτες και οι τοπικές οικονομίες.",
+        "simpleTitle": "Νωρίτερα από ποτέ ο κοινωνικός τουρισμός για το 2026",
+        "simpleText": "Φέτος, το πρόγραμμα κοινωνικού τουρισμού στη Ελλάδα ξεκινά από την 1η Μαΐου. Αυτό είναι νωρίτερα από τις προηγούμενες χρονιές. Οι αιτήσεις θα γίνουν μετά το Πάσχα. Το πρόγραμμα βοηθά πολλούς ανθρώπους και τις τοπικές οικονομίες. Έχει προϋπολογισμό 50 εκατομμυρίων ευρώ και θα προσφέρει 300.000 επιταγές για διακοπές. Είναι μια καλή ευκαιρία για ανθρώπους που χρειάζονται ξεκούραση. Αυτό το πρόγραμμα είναι σημαντικό γιατί στηρίζει τις οικογένειες στην Ελλάδα.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
         "sourceDomains": [
@@ -777,7 +767,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αφορά την έναρξη ενός προγράμματος κοινωνικού τουρισμού που θα προσφέρει ευκαιρίες σε οικογένειες να κάνουν διακοπές, κάτι που φέρνει χαρά και ανακούφιση σε κοινωνικές ομάδες.",
+        "categoryReason": "Η είδηση αναφέρεται σε μια θετική πρωτοβουλία που προάγει τον κοινωνικό τουρισμό στην Ελλάδα, παρέχοντας ευκαιρίες για διακοπές σε οικογένειες που το χρειάζονται, ενισχύοντας παράλληλα τις τοπικές οικονομίες.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -786,8 +776,8 @@
       {
         "id": "c54fb8d79f04",
         "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-        "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε vintage κάμερα",
-        "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια σπάνια ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα μεταχειρισμένων ειδών. Μέσα στη μηχανή βρήκε ένα φιλμ που είχε μείνει κλεισμένο για 70 χρόνια. Η κάμερα που αγόρασε είναι από το 1930 και κόστισε μόνο 13 δολάρια. Ο άνδρας έδωσε τη μηχανή σε ειδικούς, οι οποίοι με προσοχή εμφάνισαν το φιλμ. Παρόλο που το φιλμ είχε φθορές από τον χρόνο, οι ειδικοί κατάφεραν να αποκαλύψουν καθαρές εικόνες από το παρελθόν. Αυτό δείχνει πόσο πολύτιμες είναι οι παλιές αναμνήσεις.",
+        "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μηχανή 70 χρόνων",
+        "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα μεταχειρισμένων. Η μηχανή είναι από το 1930 και κόστισε 13 δολάρια. Μέσα της, ανακάλυψε ένα παλιό φιλμ που είχε παραμείνει κρυφό για 70 χρόνια. Ο φωτογράφος έδωσε τη μηχανή σε ειδικούς για να δουν αν μπορούν να εμφανίσουν τις εικόνες. Η δουλειά τους ήταν δύσκολη, αλλά κατάφεραν να βγάλουν καθαρές φωτογραφίες από το παρελθόν. Αυτή η ανακάλυψη είναι σπουδαία γιατί μας δείχνει στιγμές από άλλη εποχή.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
         "sourceDomains": [
@@ -800,17 +790,17 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ανακάλυψη του vintage φιλμ και οι καθαρές εικόνες από το παρελθόν προσφέρουν μια θετική και ευχάριστη ιστορία που δημιουργεί αίσθηση θαύματος και χαράς για τις παλιές αναμνήσεις.",
+        "categoryReason": "Η είδηση αφορά μια θετική και χαρούμενη ανακάλυψη, καθώς κάποιος βρήκε κρυμμένες φωτογραφίες από το παρελθόν, κάτι που φέρνει χαρά και νοσταλγία.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ga924d2f9243cc354c5ba3b8803463d77e4261565ef9bc4ac5b5f0c8619fddcdec268e3bc713e466030316e3d4b0072e6b898f77c4237be3c7028dd37bdd325fa_1280.jpg",
+        "imageUrl": null,
         "videoUrl": null,
         "publishedAt": "2026-02-20T10:08:32.000Z"
       },
       {
         "id": "8472722905be",
         "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
-        "simpleTitle": "Νέος οργανισμός για τη γυναικεία επιχειρηματικότητα στην Ελλάδα",
-        "simpleText": "Το Φεβρουάριο του 2026 δημιουργείται ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτή η κίνηση είναι σημαντική γιατί βοηθά τις γυναίκες στον κόσμο των επιχειρήσεων. Ο οργανισμός θα προσφέρει υποστήριξη και ευκαιρίες για να γίνουν οι γυναίκες πιο δυναμικές. Υποστηρίζεται από γνωστούς επιχειρηματικούς φορείς, ώστε να εξασφαλιστούν ίσες ευκαιρίες για όλους. Αυτό μπορεί να φέρει καινοτομία και αλλαγές στην οικονομία της χώρας. Είναι μια καλή ευκαιρία για τις γυναίκες να πρωταγωνιστήσουν στο μέλλον.",
+        "simpleTitle": "Νέος οργανισμός για γυναικεία επιχειρηματικότητα στην Ελλάδα",
+        "simpleText": "Στον Φεβρουάριο του 2026 ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτός ο οργανισμός θέλει να βοηθήσει τις γυναίκες να είναι πιο δυνατές στον επιχειρηματικό τομέα. Είναι πολύ σημαντικό γιατί προσφέρει εργαλεία και υποστήριξη, ώστε να έχουν ίσες ευκαιρίες. Πολλοί γνωστοί φορείς, όπως το ΕΒΕΑ και η ΕΕΕ, στηρίζουν αυτή την προσπάθεια. Έτσι, ο οργανισμός θέλει να φέρει αλλαγές και να κάνει τη διαφορά για τις γυναίκες στον κόσμο των επιχειρήσεων.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
         "sourceDomains": [
@@ -823,9 +813,9 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας σηματοδοτεί μια θετική εξέλιξη για τη θέση των γυναικών στον επιχειρηματικό τομέα, προάγοντας την ισότητα και τις ευκαιρίες.",
+        "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας είναι μια θετική εξέλιξη που αποσκοπεί στην ενδυνάμωση των γυναικών στον επιχειρηματικό τομέα, δημιουργώντας ίσες ευκαιρίες.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g6a9d3d3d669bcedc9748c3e2aa5a648192223ed4437233d6540a2299d636d9b360651200090ad68ae1ceeb357611508bf784cb59585777c43d42c31a0a4f7bc0_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g788c303d1e044841a39fee5855fa58da08ba986df91d7cf5768fddb71d9705e719f89230dd6bfaf4646f01120eb02844aa44149440763016f97e98102cb409cc_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-18T13:22:00.000Z"
       },
@@ -833,7 +823,7 @@
         "id": "724bacd1fa93",
         "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
         "simpleTitle": "Τετραήμερη εργασία στην Ολλανδία: Ένας νέος τρόπος ζωής",
-        "simpleText": "Στην Ολλανδία, οι άνθρωποι εργάζονται μόνο τέσσερις ημέρες την εβδομάδα. Αυτό τους δίνει περισσότερο χρόνο για την οικογένεια και για τον εαυτό τους. Η χώρα έχει τον χαμηλότερο μέσο χρόνο εργασίας στην Ευρώπη, με 32,1 ώρες την εβδομάδα. Αυτή η αλλαγή δείχνει ότι δεν χρειάζονται πολλές ώρες δουλειάς για να είναι οι οικονομίες δυνατές και παραγωγικές. Οι Ολλανδοί αποδεικνύουν ότι η ποιότητα και η καινοτομία είναι πιο σημαντικές από τις πολλές ώρες στο γραφείο. Είναι σημαντικό γιατί οι εργαζόμενοι είναι πιο ευτυχισμένοι και πιο αποτελεσματικοί.",
+        "simpleText": "Στην Ολλανδία, οι άνθρωποι εργάζονται μόνο τέσσερις ημέρες την εβδομάδα. Αυτό σημαίνει λιγότερες ώρες δουλειάς, συγκεκριμένα 32,1 ώρες την εβδομάδα. Έτσι, οι εργαζόμενοι έχουν περισσότερο χρόνο για τις οικογένειές τους και για τον εαυτό τους. Αυτή η αλλαγή δείχνει ότι δεν χρειάζεται να δουλεύουμε πολλές ώρες για να είμαστε επιτυχημένοι. Η Ολλανδία είναι πολύ ανταγωνιστική και αποδεικνύει ότι η ποιότητα στη δουλειά μετράει περισσότερο από την ποσότητα. Αυτό το μοντέλο μπορεί να εμπνεύσει και άλλες χώρες να κάνουν το ίδιο για να έχουν πιο ευτυχισμένους ανθρώπους.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
         "sourceDomains": [
@@ -846,7 +836,7 @@
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση παρουσιάζει τη θετική επίδραση του μοντέλου τετραήμερης εργασίας στην Ολλανδία, που βελτιώνει τη ζωή των εργαζομένων και την ευημερία τους, γεγονός που προσδίδει χαρά και ικανοποίηση.",
+        "categoryReason": "Η είδηση επικεντρώνεται σε μια θετική αλλαγή στην εργασία στην Ολλανδία που προάγει την ισορροπία ανάμεσα στην επαγγελματική και προσωπική ζωή, κάτι που δημιουργεί ευτυχία για τους εργαζόμενους.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -855,50 +845,50 @@
     ],
     "sports": [
       {
-        "id": "17b43d09bcf1",
-        "title": "Το «arrivederci» της Ιταλίας στους Χειμερινούς Ολυμπιακούς Αγώνες",
-        "simpleTitle": "Η Ιταλία αποχαιρετά τους Χειμερινούς Ολυμπιακούς Αγώνες",
-        "simpleText": "Η Ιταλία ολοκλήρωσε τους Χειμερινούς Ολυμπιακούς Αγώνες με μια μεγάλη τελετή στην Arena di Verona την Κυριακή. Η εκδήλωση είχε τίτλο «Beauty in Action» και γιόρτασε την ιταλική τέχνη και τον αθλητισμό. Στην τελετή, οι αθλητές παρέλασαν και η Ολυμπιακή Σημαία παραδόθηκε στη Διεθνή Ολυμπιακή Επιτροπή. Στην ομιλία της, η πρόεδρος της Ολυμπιακής Επιτροπής δήλωσε ότι οι Αγώνες λήγουν και ανανέωσε το ραντεβού για το 2030 στη Γαλλία. Η Ιταλία κέρδισε συνολικά 30 μετάλλια, κάτι που είναι ρεκόρ για τη χώρα στους Χειμερινούς Αγώνες. Υπήρξαν και διαμαρτυρίες για περιβαλλοντικά ζητήματα πριν την τελετή.",
+        "id": "96b0d2cea7cb",
+        "title": "Λαμπάδιασε μονοθέσιο της Red Bull σε επίδειξη στο Σαν Φραντσίσκο",
+        "simpleTitle": "Αυτοκίνητο της Red Bull πήρε φωτιά σε επίδειξη",
+        "simpleText": "Στην Αμερική, στο Σαν Φρανσίσκο, έγινε μια ειδική εκδήλωση της Red Bull. Ο πιλότος Yuki Tsunoda οδηγούσε ένα αυτοκίνητο της Red Bull από το 2011. Ενώ έκανε εντυπωσιακούς ελιγμούς, το αυτοκίνητο ξαφνικά πιάσε φωτιά. Ο Tsunoda κατάφερε να βγει γρήγορα από το αυτοκίνητο και ευτυχώς δεν τραυματίστηκε. Αυτό το περιστατικό δείχνει πόσο επικίνδυνες μπορεί να είναι τέτοιες επιδείξεις, γι' αυτό είναι σημαντικό οι οδηγοί να προσέχουν πολύ στην ασφάλειά τους.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/23/autonea/agora/lampadiase-monothesio-tis-red-bull-se-epideiksi-sto-san-frantsisko/",
+        "sourceDomains": [
+          "tanea.gr"
+        ],
+        "sources": [
+          {
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/23/autonea/agora/lampadiase-monothesio-tis-red-bull-se-epideiksi-sto-san-frantsisko/"
+          }
+        ],
+        "category": "sports",
+        "categoryReason": "Η είδηση αφορά μια επίδειξη οδήγησης μονοθέσιου της Red Bull, η οποία σχετίζεται με τον αθλητισμό και τους αγώνες αυτοκινήτων. | rss_backfill",
+        "isSensitive": false,
+        "imageUrl": "https://pixabay.com/get/g553105f02303a6b0117622d0a3102eafb4d3e14c98bb4e92ef88ed7990c9a40011bfc6ecb6028b0cba98108694c02557ed722996212b42a0b7bdfc3b4e7a89d6_1280.jpg",
+        "videoUrl": "https://www.youtube.com/embed/Hi1i88ya9oE?start=1&#038;feature=oembed",
+        "publishedAt": "2026-02-23T15:06:50.000Z"
+      },
+      {
+        "id": "d12e9ee607dd",
+        "title": "Live streaming: Δείτε τον αγώνα ΑΕΠΣ Μαχητές Πειραματικό-ΑΓΕ Χαλκίδας για την Elite League (16:30, ΕΡΤ2 ΣΠΟΡ)",
+        "simpleTitle": "Ζωντανή μετάδοση του αγώνα Μαχητές Πειραματικό - ΑΓΕ Χαλκίδας",
+        "simpleText": "Σήμερα το απόγευμα, στις 16:30, θα μπορέσετε να παρακολουθήσετε τον αγώνα μπάσκετ ανάμεσα στους Μαχητές Πειραματικό και την ΑΓΕ Χαλκίδας. Αυτός ο αγώνας είναι σημαντικός γιατί είναι μέρος της 23ης αγωνιστικής της Elite League. Η μετάδοση γίνεται ζωντανά από την τηλεόραση ΕΡΤ2 ΣΠΟΡ και μπορείτε να τον δείτε και μέσω του ERTFLIX στο διαδίκτυο. Είναι μια καλή ευκαιρία να δείτε την ομάδα σας και να απολαύσετε το παιχνίδι.",
         "sourceName": "ERT News",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/to-arrivederci-tis-italias-stous-xeimerinous-olympiakous-agones/",
+        "sourceUrl": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aeps-maxites-peiramatiko-age-xalkidas-gia-tin-elite-league-16-30-ert2-spor/",
         "sourceDomains": [
           "ertnews.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/to-arrivederci-tis-italias-stous-xeimerinous-olympiakous-agones/"
+            "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-aeps-maxites-peiramatiko-age-xalkidas-gia-tin-elite-league-16-30-ert2-spor/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Το γεγονός αφορά τη λήξη των Χειμερινών Ολυμπιακών Αγώνων, με έμφαση στα αθλητικά επιτεύγματα και τις σχετικές τελετές, καθιστώντας το κυρίως αθλητική είδηση. | rss_backfill",
+        "categoryReason": "Ο αγώνας μπάσκετ αφορά σημαντική αθλητική διοργάνωση (Elite League) και περιλαμβάνει ζωντανή μετάδοση, κάτι που τον καθιστά σαφή υποψήφιο για την κατηγορία των σπορ. | rss_backfill",
         "isSensitive": false,
         "imageUrl": null,
-        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/2026-02-23-reuters-olympicend.mp4&bgimg=https://www.ert.gr/themata/photos/2026/2602/2026-02-23-reuters-olympicend.jpg",
-        "publishedAt": "2026-02-23T07:38:37.000Z"
-      },
-      {
-        "id": "6e00eaf443fc",
-        "title": "ΑΕΚ – Λεβαδειακός 4-0: Άνετη νίκη για την Ένωση",
-        "simpleTitle": "ΑΕΚ νίκησε εύκολα τον Λεβαδειακό",
-        "simpleText": "Η ΑΕΚ κέρδισε τον Λεβαδειακό με σκορ 4-0 σε έναν αγώνα που έγινε πρόσφατα. Το παιχνίδι ξεκίνησε καλά για την ΑΕΚ, καθώς σκόραρε το πρώτο γκολ μόλις 5 λεπτά μετά την έναρξη. Αυτή η νίκη είναι σημαντική γιατί δείχνει ότι η ομάδα είναι σε καλή φόρμα. Οι φίλαθλοι ήταν χαρούμενοι με την απόδοση της ομάδα τους. Δεν έχουν ανακοινωθεί λεπτομέρειες για τα επόμενα παιχνίδια.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/02/22/sports/aek-levadeiakos-4-0-aneti-niki-gia-tin-enosi/",
-        "sourceDomains": [
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/22/sports/aek-levadeiakos-4-0-aneti-niki-gia-tin-enosi/"
-          }
-        ],
-        "category": "sports",
-        "categoryReason": "Η είδηση αφορά έναν ποδοσφαιρικό αγώνα της ΑΕΚ με τον Λεβαδειακό, εστιάζοντας στα αποτελέσματα και τις επιδόσεις των ομάδων. | rss_backfill",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T19:27:05.000Z"
+        "videoUrl": "https://www.ertflix.gr/embed/index.html?codename=ept2-live&#038;autostart=true",
+        "publishedAt": "2026-02-23T14:15:00.000Z"
       }
     ],
     "screen": [],
@@ -907,7 +897,7 @@
         "id": "5fcb2e05ddd9",
         "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
         "simpleTitle": "Έργα ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-        "simpleText": "Στο Μουσείο Μπενάκη στην Ελλάδα, γίνεται μια ιδιαίτερη εκδήλωση με σπουδαία έργα ζωγραφικής. Δύο σημαντικά έργα από τον 19ο αιώνα παρουσιάζονται στους επισκέπτες. Αυτά είναι η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία». Οι επισκέπτες έχουν την ευκαιρία να δουν αυτές τις ομορφιές και να κατανοήσουν καλύτερα την ελληνική παράδοση. Αυτή η εκδήλωση είναι σημαντική γιατί συνδέει το παρελθόν με το παρόν και προάγει τον πολιτισμό μας. Το μουσείο προτείνει στους επισκέπτες να το επισκεφτούν για να απολαύσουν αυτά τα έργα.",
+        "simpleText": "Στο Μουσείο Μπενάκη γίνεται μια ξεχωριστή έκθεση με σημαντικά έργα ζωγραφικής. Δύο γνωστά έργα από τον 19ο αιώνα, η «Κουλουριώτισσα» και η «Κόρη με εθνική ενδυμασία», θα είναι εκεί για τους επισκέπτες. Αυτές οι εικόνες μας δείχνουν την ελληνική πολιτιστική κληρονομιά. Η έκθεση είναι ευκαιρία να μάθουμε περισσότερα για την τέχνη και την ιστορία μας. Εάν επισκεφτείτε το μουσείο, θα ανακαλύψετε κάτι πολύ όμορφο και παλιό.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
         "sourceDomains": [
@@ -920,7 +910,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά την παρουσίαση εμβληματικών έργων ζωγραφικής στο Μουσείο Μπενάκη, η οποία σχετίζεται άμεσα με την ελληνική πολιτιστική κληρονομιά και την τέχνη.",
+        "categoryReason": "Η είδηση αφορά μια έκθεση εμβληματικών έργων ζωγραφικής που αναδεικνύει την ελληνική πολιτιστική κληρονομιά, άρα είναι καταλληλότερη για την κατηγορία του πολιτισμού.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -929,8 +919,8 @@
       {
         "id": "5bff79bb47ab",
         "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-        "simpleTitle": "Καταρίνα βαν Χέμεσεν: Η πρώτη γυναίκα ζωγράφος",
-        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σπουδαία ζωγράφος από τη Φλάνδρα. Το 1548 δημιούργησε μια αυτοπροσωπογραφία, που σημαίνει ότι ζωγράφισε τον εαυτό της. Αυτό είναι σημαντικό γιατί είναι η πρώτη γνωστή γυναίκα καλλιτέχνης που έκανε κάτι τέτοιο. Στην εικόνα, την βλέπουμε να κρατάει ένα πινέλο και να ζωγραφίζει με πάθος. Με αυτήν την κίνηση, ζήτησε να αναγνωριστεί ως καλλιτέχνης στον κόσμο της τέχνης. Η υπογραφή της, που λέει ότι είναι η Καταρίνα βαν Χέμεσεν, είναι ένα μήνυμα ότι οι γυναίκες μπορούν να δημιουργήσουν, όπως και οι άντρες.",
+        "simpleTitle": "Καταρίνα βαν Χέμεσεν: Μια πρωτοπόρος ζωγράφος",
+        "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μία σπουδαία ζωγράφος από την Φλάνδρα. Το 1548, ζωγράφισε τον εαυτό της την ώρα που εργαζόταν. Αυτό είναι σημαντικό γιατί είναι η πρώτη γυναίκα καλλιτέχνης που έκανε μια τέτοια εικόνα. Με το πινέλο στο χέρι, θέλησε να δείξει τη δύναμη των γυναικών στην τέχνη. Υπέγραψε τον πίνακά της με τα λόγια «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτή η κίνηση ήταν πολύ σημαντική για την εποχή της. Έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνες και να διεκδικούν τη θέση τους στον κόσμο της τέχνης.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
         "sourceDomains": [
@@ -943,7 +933,7 @@
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αναφέρεται στη σημασία της Καταρίνα βαν Χέμεσεν ως καλλιτέχνη και τονίζει την πολιτιστική και ιστορική αξία της αυτοπροσωπογραφίας της, που αγγίζει τη γυναικεία δημιουργία στο πεδίο της τέχνης.",
+        "categoryReason": "Η είδηση αφορά μια σημαντική καλλιτέχνη της ιστορίας, την Καταρίνα βαν Χέμεσεν, και τον αντίκτυπό της στην τέχνη και τη γυναικεία δημιουργία.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
@@ -952,66 +942,10 @@
     ],
     "fun": [
       {
-        "id": "04fd7da2c57b",
-        "title": "Καθαρά Δευτέρα 2026: Ποια καταστήματα είναι ανοιχτά – Τι ισχύει για σούπερ μάρκετ και Βαρβάκειο",
-        "simpleTitle": "Ανοιχτά Καταστήματα την Καθαρά Δευτέρα 2026",
-        "simpleText": "Την Καθαρά Δευτέρα του 2026, πολλά καταστήματα θα είναι κλειστά, όπως τα εμπορικά και τα πολυκαταστήματα. Η μέρα είναι ημέρα ξεκούρασης και οι περισσότεροι προτιμούν να μείνουν σπίτι. Ωστόσο, ορισμένα σούπερ μάρκετ, όπως τα Lidl, θα είναι ανοιχτά από το πρωί έως το μεσημέρι. Μικρότερα καταστήματα, φούρνοι και ιχθυοπωλεία θα λειτουργήσουν κανονικά, προσφέροντας ειδικά προϊόντα για την γιορτή.\n\nΗ Βαρβάκειος Αγορά και η Αγορά του Ρέντη θα είναι ανοιχτές από το βράδυ της Κυριακής και για τις αγορές, οι άνθρωποι καλό είναι να πηγαίνουν νωρίς το πρωί. Αυτό θα βοηθήσει να μην υπάρχει πολύς κόσμος και να είναι πιο εύκολες οι αγορές.",
-        "sourceName": "TA NEA, TO BHMA",
-        "sourceUrl": "https://www.tanea.gr/2026/02/23/economy/kathara-deytera-2026-poia-katastimata-einai-anoixta-ti-isxyei-gia-souper-market-kai-varvakeio/",
-        "sourceDomains": [
-          "tanea.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/23/economy/kathara-deytera-2026-poia-katastimata-einai-anoixta-ti-isxyei-gia-souper-market-kai-varvakeio/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/23/society/poia-souper-market-einai-anoixta-simera-kathara-deytera-ti-isxyei-gia-laikes-varvakeio/"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση αφορά τις αγορές και την αναζήτηση προϊόντων για μια γιορτή, συνδέεται με τη διασκέδαση και την κοινωνική ζωή των ανθρώπων την Καθαρά Δευτέρα.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-23T05:31:49.000Z"
-      },
-      {
-        "id": "ebf2396b7360",
-        "title": "BAFTA 2026: Μεγάλος νικητής ο Πολ Τόμας Αντερσον με τη «Μία μάχη μετά την άλλη»",
-        "simpleTitle": "Ο Πολ Τόμας Αντερσον κερδίζει τα BAFTA 2026",
-        "simpleText": "Στα BAFTA 2026, ο σκηνοθέτης Πολ Τόμας Αντερσον κέρδισε το βραβείο καλύτερης σκηνοθεσίας με την ταινία του «Μία μάχη μετά την άλλη». Είναι η πρώτη του νίκη στην κατηγορία αυτή, αφού είχε υποψηφιότητες στο παρελθόν. Η ταινία του κέρδισε συνολικά έξι βραβεία, μεταξύ των οποίων και το βραβείο καλύτερης ταινίας. Σημαντική ανατροπή ήταν η νίκη του Ρόμπερτ Αραμάγιο για το ρόλο του στην ταινία I Swear. Αυτή η βραδιά ήταν σημαντική για τον κινηματογράφο και δείχνει τη δουλειά των καλλιτεχνών στην τέχνη τους.",
-        "sourceName": "Kathimerini, TO BHMA",
-        "sourceUrl": "https://www.kathimerini.gr/culture/564092083/bafta-2026-megalos-nikitis-o-pol-tomas-anterson-me-ti-mia-machi-meta-tin-alli/",
-        "sourceDomains": [
-          "kathimerini.gr",
-          "tovima.gr"
-        ],
-        "sources": [
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/culture/564092083/bafta-2026-megalos-nikitis-o-pol-tomas-anterson-me-ti-mia-machi-meta-tin-alli/"
-          },
-          {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/22/culture/i-tainia-mia-maxi-meta-tin-alli-kyriarxei-sta-bafta-2026-me-6-vraveia/"
-          }
-        ],
-        "category": "fun",
-        "categoryReason": "Η είδηση αφορά τη βραδιά των BAFTA και τις νίκες του Πολ Τόμας Αντερσον σχετικά με την ταινία του, γεγονός που σχετίζεται άμεσα με τον κινηματογράφο και τις βραβεύσεις στον τομέα αυτό.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gab8f7af6185b2d84d4393cd258d9fa9ad4d4890b0306a298e09f269866ae82183c523b2f7c33b5e7be433459bf60c795b7e8ebeafaa85f11f102c9119cf1bf8b_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-22T20:59:36.000Z"
-      },
-      {
         "id": "f724e63da9a8",
         "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-        "simpleTitle": "Ο Keanu Reeves συμμετέχει στη νέα παιχνίδι John Wick",
-        "simpleText": "Ο Keanu Reeves, γνωστός για τον ρόλο του John Wick, θα δανείσει τη φωνή του σε ένα νέο video game. Αυτό το παιχνίδι δημιουργεί η Saber Interactive. Θα είναι η πρώτη φορά που ο Reeves θα κάνει τον John Wick πλήρως σε ένα παιχνίδι. Η συμμετοχή του προσφέρει αυθεντικότητα και κάνει την εμπειρία πιο ενδιαφέρουσα. Είναι σημαντικό γιατί συνδυάζει ταινία και παιχνίδια, κάτι που αρέσει σε πολλούς. Δεν ξέρουμε ακόμα πότε θα κυκλοφορήσει το παιχνίδι.",
+        "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
+        "simpleText": "Ο Keanu Reeves, ο διάσημος ηθοποιός, θα δανείσει τη φωνή του στο νέο video game John Wick. Το παιχνίδι αυτό ανακοινώθηκε από την εταιρεία Saber Interactive. Είναι πολύ σημαντικό γιατί είναι η πρώτη φορά που ο Reeves παίρνει τον ρόλο του John Wick σε ένα παιχνίδι. Αυτό δίνει στο παιχνίδι μια πιο αυθεντική αίσθηση. Οι θαυμαστές του John Wick θα μπορέσουν να απολαύσουν την εμπειρία του παιχνιδιού με τη φωνή του αγαπημένου τους ηθοποιού. Ακόμα, συνδυάζει την τέχνη του κινηματογράφου με την τεχνολογία των video games.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
         "sourceDomains": [
@@ -1024,9 +958,9 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά την συμμετοχή του Keanu Reeves σε ένα video game που βασίζεται στον κινηματογραφικό χαρακτήρα John Wick, συνδυάζοντας στοιχεία ταινίας και gaming.",
+        "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves στο νέο video game John Wick, το οποίο συνδυάζει την τέχνη του κινηματογράφου με τον κόσμο των video games, κάνοντάς την κατάλληλη για την κατηγορία του screen.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/gb5b2619a75d37b781c6520b00543100bf3bab0ca5e446479982f24253a5c253cc67aa8a936d847bdc6e8af2d4c6adc1a23e18b6b6b5ef1df51866ecb50201cd2_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/g1eb74649988aac25bd7a909600a218763888fb9852962a151a8f655157fe9b605236877fb0a34a0791362a951e4053113eb2e897f3c3dd9cbad6c6c0c8c36e8d_1280.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-21T09:46:00.000Z"
       }
