@@ -107,6 +107,18 @@ const TARGET_CATEGORIES = CATEGORY_KEYS.filter((key) => key !== "other");
 
 const MIN_ARTICLES_PER_CATEGORY = 2;
 const MAX_ARTICLES_PER_CATEGORY = 6;
+const RSS_FEED_TIMEOUT_MS = Number(process.env.RSS_FEED_TIMEOUT_MS || "20000");
+const FEED_ITEM_LIMIT = Math.max(1, Number(process.env.FEED_ITEM_LIMIT || "30"));
+const GATEKEEPER_PROGRESS_EVERY = Math.max(
+  1,
+  Number(process.env.GATEKEEPER_PROGRESS_EVERY || "10")
+);
+const TOPIC_PROGRESS_EVERY = Math.max(1, Number(process.env.TOPIC_PROGRESS_EVERY || "5"));
+const BACKFILL_MAX_ATTEMPTS_PER_CATEGORY = Math.max(
+  1,
+  Number(process.env.BACKFILL_MAX_ATTEMPTS_PER_CATEGORY || "12")
+);
+const BACKFILL_ALLOW_BROAD_PASS = process.env.BACKFILL_ALLOW_BROAD_PASS === "true";
 
 // 👉 Θα γράφουμε το news.json δίπλα στο αρχείο αυτό
 const NEWS_JSON_PATH = new URL("./static/news.json", import.meta.url);
@@ -250,6 +262,13 @@ const OPEN_DATA_SOURCES = {
 
 // Ρυθμίζουμε το parser να κρατά και extra πεδία για εικόνες/HTML
 const parser = new Parser({
+  timeout: RSS_FEED_TIMEOUT_MS,
+  headers: {
+    "User-Agent":
+      process.env.RSS_USER_AGENT ||
+      "Mozilla/5.0 (compatible; efkola-nea-bot/1.0; +https://github.com)",
+    Accept: "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+  },
   customFields: {
     item: [
       ["content:encoded", "contentEncoded"],
@@ -625,6 +644,11 @@ function countByCategory(articles) {
   return counts;
 }
 
+function hasMissingCategoryMinimum(articles) {
+  const counts = countByCategory(articles);
+  return TARGET_CATEGORIES.some((category) => (counts[category] || 0) < MIN_ARTICLES_PER_CATEGORY);
+}
+
 // “φθηνό” guess για να μειώσουμε LLM calls στο backfill
 function guessCategoryFromTopic(topic) {
   const hinted =
@@ -755,6 +779,11 @@ async function buildFinalArticleFromTopic(topic, { tag = "" } = {}) {
 
 // RSS-only backfill: συμπληρώνουμε κατηγορίες από single-source topics (χωρίς web search)
 async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopicIds) {
+  if (!Array.isArray(topics) || topics.length === 0) {
+    console.log("ℹ️ RSS backfill παραλείπεται: δεν υπάρχουν fallback topics.");
+    return;
+  }
+
   const counts = countByCategory(allArticles);
 
   for (const category of TARGET_CATEGORIES) {
@@ -770,6 +799,7 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
     );
 
     let added = 0;
+    let attempts = 0;
 
     const candidates = [...topics].sort((a, b) => {
       const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
@@ -777,18 +807,38 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
       return db - da;
     });
 
-    // 3 περάσματα: hints -> guess -> οποιοδήποτε
+    const hintCandidates = candidates.filter((t) =>
+      (t.categoryHints || []).some((h) => normalizeCategory(h) === category)
+    );
+    const guessCandidates = candidates.filter((t) => guessCategoryFromTopic(t) === category);
+    const likelyCandidatesCount = new Set(
+      [...hintCandidates, ...guessCandidates].map((t) => t.id)
+    ).size;
+
+    console.log(
+      `🧪 Backfill ${category}: πιθανές υποψήφιες=${likelyCandidatesCount}, maxAttempts=${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}, broadPass=${BACKFILL_ALLOW_BROAD_PASS}`
+    );
+
+    // 2 ή 3 περάσματα: hints -> guess -> (προαιρετικά) οποιοδήποτε
     const passes = [
       (t) => (t.categoryHints || []).some((h) => normalizeCategory(h) === category),
       (t) => guessCategoryFromTopic(t) === category,
-      () => true,
     ];
+    if (BACKFILL_ALLOW_BROAD_PASS) passes.push(() => true);
 
     for (const pass of passes) {
       for (const topic of candidates) {
         if (added >= toGenerate) break;
+        if (attempts >= BACKFILL_MAX_ATTEMPTS_PER_CATEGORY) break;
         if (usedTopicIds.has(topic.id)) continue;
         if (!pass(topic)) continue;
+
+        attempts += 1;
+        if (attempts % 3 === 0) {
+          console.log(
+            `⏱️ Backfill ${category}: προσπάθειες ${attempts}/${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}`
+          );
+        }
 
         try {
           const built = await buildFinalArticleFromTopic(topic, { tag: "rss_backfill" });
@@ -803,8 +853,14 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
 
           console.log(`✅ Backfill άρθρο για ${category}: ${built.simpleTitle}`);
         } catch (err) {
-          console.error(`❌ Αποτυχία RSS backfill για ${category}:`, err);
+          console.error(`❌ Αποτυχία RSS backfill για ${category}:`, err?.message || err);
         }
+      }
+      if (attempts >= BACKFILL_MAX_ATTEMPTS_PER_CATEGORY) {
+        console.log(
+          `⏹️ Backfill ${category}: έφτασε το όριο προσπαθειών (${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}).`
+        );
+        break;
       }
       if (added >= toGenerate) break;
     }
@@ -923,6 +979,7 @@ function groupArticlesByTopic(rawArticles) {
 }
 
 async function run() {
+  const runStartedAt = Date.now();
   const rawArticles = [];
   const ingestStats = {
     totalFetched: 0,
@@ -936,18 +993,33 @@ async function run() {
   // 1️⃣ Fetch RSS items
   for (const feed of FEEDS) {
     console.log("Διαβάζω feed:", feed.url);
+    const feedStartedAt = Date.now();
     let rss;
     try {
       rss = await parser.parseURL(feed.url);
     } catch (err) {
-      console.error("Σφάλμα στο feed", feed.url, err);
+      console.error(
+        "Σφάλμα στο feed",
+        feed.url,
+        `(${Date.now() - feedStartedAt}ms)`,
+        err?.message || err
+      );
       continue;
     }
 
-    const items = (rss.items || []).slice(0, 30);
+    const items = (rss.items || []).slice(0, FEED_ITEM_LIMIT);
+    console.log(`🧾 ${feed.sourceName}: ${items.length} items για έλεγχο`);
+    let feedProcessed = 0;
 
     for (const item of items) {
+      feedProcessed += 1;
       ingestStats.totalFetched += 1;
+
+      if (feedProcessed % GATEKEEPER_PROGRESS_EVERY === 0 || feedProcessed === items.length) {
+        console.log(
+          `⏱️ ${feed.sourceName}: ${feedProcessed}/${items.length} items (accepted συνολικά: ${ingestStats.accepted})`
+        );
+      }
 
       const title = item.title || "";
       const link = item.link || "";
@@ -983,7 +1055,11 @@ async function run() {
         });
       } catch (err) {
         ingestStats.gatekeeperErrors += 1;
-        console.error("❌ Gatekeeper error:", title || link || "(χωρίς τίτλο)", err);
+        console.error(
+          "❌ Gatekeeper error:",
+          title || link || "(χωρίς τίτλο)",
+          err?.message || err
+        );
         continue;
       }
 
@@ -1017,6 +1093,10 @@ async function run() {
 
       ingestStats.accepted += 1;
     }
+
+    console.log(
+      `✅ Ολοκληρώθηκε feed ${feed.sourceName} σε ${Date.now() - feedStartedAt}ms`
+    );
   }
 
   if (rawArticles.length === 0) {
@@ -1045,20 +1125,34 @@ async function run() {
     return db - da;
   });
 
-  for (const topic of importantSorted) {
+  for (const [idx, topic] of importantSorted.entries()) {
     console.log(
       "Απλοποιώ & συνθέτω για θέμα:",
       topic.title,
+      `(${idx + 1}/${importantSorted.length})`,
       "| άρθρα στο θέμα:",
       topic.articles.length
     );
 
-    const built = await buildFinalArticleFromTopic(topic);
+    let built = null;
+    try {
+      built = await buildFinalArticleFromTopic(topic);
+    } catch (err) {
+      console.error(
+        "❌ Αποτυχία σύνθεσης θέματος:",
+        topic.title,
+        err?.message || err
+      );
+    }
     usedTopicIds.add(topic.id);
     if (!built) continue;
 
     allArticles.push(built);
     console.log(`✅ Προστέθηκε άρθρο κατηγορίας ${built.category} στο news.json`);
+
+    if ((idx + 1) % TOPIC_PROGRESS_EVERY === 0 || idx + 1 === importantSorted.length) {
+      console.log(`📈 Πρόοδος σύνθεσης: ${idx + 1}/${importantSorted.length} θέματα`);
+    }
   }
 
   // 4️⃣ Dedupe
@@ -1079,7 +1173,13 @@ async function run() {
   }
 
   // 7️⃣ Αν μετά το dedupe ξαναλείπει κάτι, κάνε ένα ακόμα πέρασμα backfill (χωρίς να “κάψεις” τα ίδια topics)
-  await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+  if (fallbackTopicGroups.length > 0 && hasMissingCategoryMinimum(allArticles)) {
+    await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+  } else {
+    console.log(
+      "ℹ️ Παραλείπεται 2ο backfill pass: δεν χρειάζεται ή δεν υπάρχουν διαθέσιμα fallback topics."
+    );
+  }
 
   {
     const deduped = dedupeArticlesByUrlOrTitle(allArticles);
@@ -1089,12 +1189,16 @@ async function run() {
 
   const finalArticles = [];
 
-  for (const article of allArticles) {
+  for (const [idx, article] of allArticles.entries()) {
     const base = { ...article };
 
     base.imageUrl = await resolveArticleImage(base);
 
     finalArticles.push(base);
+
+    if ((idx + 1) % 10 === 0 || idx + 1 === allArticles.length) {
+      console.log(`🖼️ Πρόοδος εικόνων: ${idx + 1}/${allArticles.length}`);
+    }
   }
 
   // ✅ Φτιάχνουμε αντικείμενο με μέχρι MAX_ARTICLES_PER_CATEGORY άρθρα ανά κατηγορία
@@ -1106,6 +1210,26 @@ async function run() {
     articlesByCategory,
   };
 
+  if (finalArticles.length === 0) {
+    try {
+      const existingRaw = await fs.readFile(NEWS_JSON_PATH, "utf8");
+      const existingPayload = JSON.parse(existingRaw);
+      const existingCount = Array.isArray(existingPayload?.articles)
+        ? existingPayload.articles.length
+        : 0;
+
+      if (existingCount > 0) {
+        console.warn(
+          `⚠️ Δεν παρήχθησαν άρθρα σε αυτό το run. Κρατάω το υπάρχον news.json (${existingCount} άρθρα).`
+        );
+        console.log(`🏁 Συνολικός χρόνος run: ${Date.now() - runStartedAt}ms`);
+        return;
+      }
+    } catch {
+      // Αν δεν υπάρχει παλιό αρχείο/parseable JSON, συνεχίζουμε και γράφουμε κανονικά.
+    }
+  }
+
   await fs.writeFile(NEWS_JSON_PATH, JSON.stringify(payload, null, 2), "utf8");
   console.log(
     "Έγραψα news.json με",
@@ -1113,9 +1237,14 @@ async function run() {
     "άρθρα συνολικά. Ανά κατηγορία:",
     Object.fromEntries(Object.entries(articlesByCategory).map(([k, v]) => [k, v.length]))
   );
+  console.log(`🏁 Συνολικός χρόνος run: ${Date.now() - runStartedAt}ms`);
 }
 
-run().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+run()
+  .then(() => {
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });

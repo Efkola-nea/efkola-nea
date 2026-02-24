@@ -456,7 +456,11 @@ async function main() {
   );
 }
 
-main().catch((err) => {
-  console.error("❌ Σφάλμα στο generate-serious-digest:", err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error("❌ Σφάλμα στο generate-serious-digest:", err);
+    process.exit(1);
+  });

@@ -17,6 +17,13 @@ jobs:
       ENABLE_PIXABAY_IMAGES: "true"
       MAX_PIXABAY_CALLS: "25"
       IMAGE_SCORE_THRESHOLD: "3"
+      OPENAI_TIMEOUT_MS: "45000"
+      OPENAI_MAX_RETRIES: "1"
+      RSS_FEED_TIMEOUT_MS: "20000"
+      GATEKEEPER_PROGRESS_EVERY: "10"
+      TOPIC_PROGRESS_EVERY: "5"
+      BACKFILL_MAX_ATTEMPTS_PER_CATEGORY: "12"
+      BACKFILL_ALLOW_BROAD_PASS: "false"
       # DEBUG_IMAGES: "true" # (προαιρετικό) για logs στο imageResolver
 
     steps:
@@ -29,7 +36,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: npm install openai rss-parser
+        run: npm ci
 
       - name: Run fetch script (news.json)
         run: node fetch-news.mjs

@@ -353,7 +353,11 @@ async function main() {
 }
 
 // Εκτέλεση script
-main().catch((err) => {
-  console.error("❌ Σφάλμα στο generate-lifestyle:", err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error("❌ Σφάλμα στο generate-lifestyle:", err);
+    process.exit(1);
+  });
