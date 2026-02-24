@@ -1,362 +1,680 @@
 {
-  "generatedAt": "2026-02-24T08:15:18.803Z",
+  "generatedAt": "2026-02-24T17:38:51.601Z",
   "articles": [
     {
-      "id": "1a01cbf22b36",
-      "title": "Θεσσαλονίκη: Λήστεψαν πεζούς με την απειλή χρήσης γκλοπ, συνελήφθησαν τρεις νεαροί",
-      "simpleTitle": "Τρεις νεαροί λήστεψαν πεζούς στη Θεσσαλονίκη",
-      "simpleText": "Τρεις νέοι άνθρωποι συνελήφθησαν στη Θεσσαλονίκη μετά από μια ληστεία χθες τα ξημερώματα. Λήστεψαν δύο πεζούς, χρησιμοποιώντας γκλοπ, και αφαίρεσαν χρυσές αλυσίδες. Οι νεαροί είναι δύο Έλληνες 18 και 19 χρονών και ένας 19χρονος από την Αλβανία. Όταν τους βρήκαν οι αστυνομικοί, οι δράστες πέταξαν τις αλυσίδες και τα γκλοπ σε έναν κάδο. Ένας από αυτούς είχε και μικρή ποσότητα κάνναβης, ενώ ο Αλβανός βρέθηκε παράνομα στη χώρα. Είναι σημαντικό να είμαστε προσεκτικοί και να αποφεύγουμε επικίνδυνες καταστάσεις στις πόλεις μας.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-listepsan-pezous-me-tin-apeili-xrisis-gklop-synelifthisan-treis-nearoi/",
+      "id": "10123bc21516",
+      "title": "Ταξίδι στο Κέντρο της Μουσικής – Βαλς: Συναυλία με την Κρατική Ορχήστρα Αθηνών στο Μέγαρο Μουσικής",
+      "simpleTitle": "Συναυλία Βαλς με την Κρατική Ορχήστρα στο Μέγαρο Μουσικής",
+      "simpleText": "Η Κρατική Ορχήστρα Αθηνών επιστρέφει στο Μέγαρο Μουσικής με μια δημοφιλή συναυλία που ονομάζεται \"Βαλς\". Αυτή η εκδήλωση είναι μία από τις μεγαλύτερες επιτυχίες της ορχήστρας και το κοινό την περιμένει κάθε χρόνο. Η συναυλία θα γίνει σύντομα και σηματοδοτεί την αρχή της άνοιξης.\n\nΕίναι μια καλή ευκαιρία να απολαύσετε ωραία μουσική και να νιώσετε τη χαρά της στιγμής. Προγραμματίστε να παρακολουθήσετε τη συναυλία και αφεθείτε στη μαγεία της μουσικής.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/taxidi-sto-kentro-tis-moysikis-vals-synaylia-me-tin-kratiki-orxistra-athinon-sto-megaro-moysikis/",
       "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
+        "culturenow.gr"
       ],
       "sources": [
         {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-listepsan-pezous-me-tin-apeili-xrisis-gklop-synelifthisan-treis-nearoi/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/society/564092752/thessaloniki-arpaxan-chryses-alysides-apo-pezoys-me-tin-apeili-gklop-treis-syllipseis/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια ληστεία με χρήση βίας στη Θεσσαλονίκη, η οποία έχει σοβαρές συνέπειες για την ασφάλεια των πολιτών και θίγει θέματα εγκληματικότητας.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/ge62271067cb9dc90d7ccc592c6ba55337e317c4faa7ada98619005670ba02c6a85110b9fc3ae2caae8fc21a47f1875a3c346ee31b9ee820ec80bdcc39fe20cc4_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:44:28.000Z"
-    },
-    {
-      "id": "d444a0e9ec94",
-      "title": "Ο Πούτιν «δεν έχει πετύχει τους στόχους του», δήλωσε ο Ζελένσκι με αφορμή την 4η επέτειο από την έναρξη του πολέμου",
-      "simpleTitle": "Ζελένσκι: Ο Πούτιν δεν πέτυχε τους στόχους του",
-      "simpleText": "Ο Ουκρανός πρόεδρος, Βολοντίμιρ Ζελένσκι, είπε ότι ο Ρώσος πρόεδρος, Βλαντίμιρ Πούτιν, δεν έχει πετύχει τους στόχους του στο πόλεμο που γίνεται στην Ουκρανία. Η δήλωση αυτή έγινε με αφορμή την τέταρτη επέτειο από την αρχή της ρωσικής εισβολής. Ο Ζελένσκι τόνισε ότι οι Ουκρανοί παραμένουν δυνατοί και δεν έχουν σπάσει ψυχολογικά από την επίθεση.\n\nΗ Ουκρανία συνεχίζει να προσπαθεί για ειρήνη, που θα είναι ισχυρή και διαρκής. Σημαντικοί ηγέτες της Ευρώπης, όπως η πρόεδρος της Κομισιόν, Ούρσουλα φον ντερ Λάιεν, επισκέπτονται το Κίεβο για να δείξουν τη στήριξή τους στη χώρα. Οι δηλώσεις αυτές ενισχύουν την αναγνώριση του αγώνα των Ουκρανών.",
-      "sourceName": "ERT News, TA NEA, Protagon",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-den-exei-petyxei-tous-stoxous-tou-dilose-o-zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-tou-polemou/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr",
-        "protagon.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-den-exei-petyxei-tous-stoxous-tou-dilose-o-zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-tou-polemou/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/world/zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-toy-polemoy-o-poytin-den-exei-petyxei-to/"
-        },
-        {
-          "title": "Protagon",
-          "url": "https://www.protagon.gr/epikairotita/zelenski-gia-ta-tessera-xronia-tou-polemou-o-poutin-den-petyxe-tous-stoxous-tou-44343317639"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά τις δηλώσεις του Ουκρανού προέδρου για την τρέχουσα κατάσταση του πολέμου και τις επιπτώσεις του, που αποτελούν σοβαρό κοινωνικό και πολιτικό ζήτημα.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:42:47.000Z"
-    },
-    {
-      "id": "a498c823038d",
-      "title": "Οι αρχές της Ρωσίας διενεργούν ποινική έρευνα σε βάρος του ιδρυτή του Telegram, Π. Ντούροφ",
-      "simpleTitle": "Ρωσία: Έρευνα για τον ιδρυτή του Telegram",
-      "simpleText": "Οι ρωσικές αρχές κάνουν έρευνα για τον Πάβελ Ντούροφ, που είναι ο ιδρυτής του Telegram. Η έρευνα αφορά τη βοήθειά του σε τρομοκρατικές ενέργειες. Οι πληροφορίες προέρχονται από μια κρατική εφημερίδα και την FSB, που είναι η ασφάλεια της Ρωσίας. Οι αρχές λένε ότι η πλατφόρμα Telegram δεν διαγράφει περιεχόμενο που θεωρούν επικίνδυνο. Η Telegram έχει πάνω από 1 δισεκατομμύριο χρήστες σε όλο τον κόσμο. Οι ρωσικές αρχές προσπαθούν να πείσουν τους πολίτες να χρησιμοποιούν μια άλλη υπερεθνική πλατφόρμα. Δεν έχουν δοθεί λεπτομέρειες για το τι θα συμβεί στη συνέχεια.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/oi-arxes-tis-rosias-dienergoun-poiniki-ereyna-se-varos-tou-idryti-tou-telegram-p-ntourof/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/oi-arxes-tis-rosias-dienergoun-poiniki-ereyna-se-varos-tou-idryti-tou-telegram-p-ntourof/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564092698/rosia-poiniki-ereyna-se-varos-toy-idryti-toy-telegram-pavel-ntoyrof/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά ποινική έρευνα σε βάρος του ιδρυτή του Telegram για την υποτιθέμενη διευκόλυνση τρομοκρατικών ενεργειών, που σχετίζεται με σοβαρά ζητήματα ασφάλειας και δικαιωμάτων, καθιστώντας τη σοβαρή και σημαντική.",
-      "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g26b145b5efaf7a438e86349808997d7e9445e3ad0b2e0ddb5576bfcbe356840a022cfe6dae25023cb37feab150548b9bc9573251a1780ea77670dd06d35ee818_1280.jpg",
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:28:51.000Z"
-    },
-    {
-      "id": "0f7ecdc4f9c4",
-      "title": "Καιρός: Λιακάδα και άνοδος της θερμοκρασίας – Τοπικές βροχές στα βόρεια το απόγευμα",
-      "simpleTitle": "Καλοκαιρία με λίγες βροχές στα βόρεια",
-      "simpleText": "Σήμερα, Τρίτη 24 Φεβρουαρίου, ο καιρός είναι καλός με ήλιο στη μεγαλύτερη μέρος της χώρας. Από το απόγευμα, όμως, αναμένονται τοπικές βροχές κυρίως στη βόρεια Ελλάδα. Στο βορειοδυτικό μέρος, μπορεί να έχουμε και παγετό το πρωί, δηλαδή πολύ κρύο. Οι θερμοκρασίες θα κυμανθούν από 4 έως 19 βαθμούς Κελσίου, με τις πιο ζεστές περιοχές να είναι τα Δωδεκάνησα και η Κρήτη.\n\nΤα βόρεια θα έχουν ανέμους που θα φτάσουν μέχρι και 6 μποφόρ, δηλαδή αρκετά δυνατοί. Είναι καλό να προσέχουμε την αλλαγή του καιρού και να ντυθούμε ζεστά, αν βγούμε το βράδυ.",
-      "sourceName": "ERT News, News.gr",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-liakada-kai-anodos-tis-thermokrasias-topikes-vroxes-sta-voreia-to-apogeyma/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "news.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/kairos-liakada-kai-anodos-tis-thermokrasias-topikes-vroxes-sta-voreia-to-apogeyma/"
-        },
-        {
-          "title": "News.gr",
-          "url": "https://www.news.gr/ellada/article/4083091/allazi-o-keros-to-apogevma-me-vroches-sta-voria-ke-ptosi-tis-thermokrasia.html"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την πρόγνωση του καιρού, με πληροφορίες για κλιματικές συνθήκες και πιθανές αλλαγές, που είναι σοβαρές και σημαντικές για την καθημερινότητα των πολιτών.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:15:46.000Z"
-    },
-    {
-      "id": "99b13f35ab81",
-      "title": "Οι νέοι δασμοί 10% που ανήγγειλε ο Τραμπ τέθηκαν σε ισχύ",
-      "simpleTitle": "Νέοι δασμοί 10% στις ΗΠΑ",
-      "simpleText": "Οι Ηνωμένες Πολιτείες έχουν επιβάλει νέους δασμούς 10% σε κάποιες εισαγωγές. Η απόφαση αυτή ανακοινώθηκε από τον πρόεδρο Ντόναλντ Τραμπ και τέθηκε σε ισχύ πρόσφατα. Οι νέοι αυτοί δασμοί θέλουν να αντικαταστήσουν προηγούμενους, που ίσχυαν άδικα για κάποιες χώρες. Οι δασμοί αυτοί δεν αφορούν κάποιες ειδικές κατηγορίες προϊόντων, όπως αυτοκίνητα και χαλκό, που έχουν διαφορετικούς κανόνες. Η απόφαση αυτή μπορεί να επηρεάσει τις τιμές των προϊόντων για τους καταναλωτές και τις επιχειρήσεις. Είναι σημαντικό να παρακολουθούν οι εταιρείες πώς θα επηρεαστούν από αυτή την αλλαγή.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/oi-neoi-dasmoi-10-pou-aniggeile-o-tramp-tethikan-se-isxy/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/oi-neoi-dasmoi-10-pou-aniggeile-o-tramp-tethikan-se-isxy/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/economy/564092629/ipa-se-ischy-oi-neoi-dasmoi-tramp-ypsoys-10/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/economy/diethni/se-isxy-oi-neoi-dasmoi-10-poy-aniggeile-o-ntonalnt-tramp/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε οικονομικά μέτρα, συγκεκριμένα σε νέους δασμούς που επιβλήθηκαν από την αμερικανική κυβέρνηση, γεγονός που έχει σημαντικές επιπτώσεις στην οικονομία και το εμπόριο.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:09:45.000Z"
-    },
-    {
-      "id": "8c60c87e72e9",
-      "title": "Επίσκεψη ΥΠΕΞ Γ. Γεραπετρίτη στην Ουάσινγκτον – Συνάντηση με το Μ. Ρούμπιο",
-      "simpleTitle": "Επίσκεψη Γ. Γεραπετρίτη στην Ουάσινγκτον",
-      "simpleText": "Ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης θα ταξιδέψει στην Ουάσινγκτον από τις 25 έως τις 27 Φεβρουαρίου. Εκεί θα συναντήσει τον υπουργό Εξωτερικών των ΗΠΑ, Μάρκο Ρούμπιο. Στην επίσκεψή του, θα μιλήσει σε μια ομάδα που ονομάζεται Atlantic Council και θα έχει επαφές με άλλους Αμερικανούς αξιωματούχους. Επίσης, θα παρακολουθήσει μια τελετή υπογραφής συμφωνίας ανάμεσα σε δύο εταιρείες. Αυτή η επίσκεψη είναι σημαντική για τις σχέσεις ανάμεσα στην Ελλάδα και τις Ηνωμένες Πολιτείες.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/episkepsi-ypeks-g-gerapetriti-stin-ouasingkton-synantisi-me-to-m-roumpio/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/episkepsi-ypeks-g-gerapetriti-stin-ouasingkton-synantisi-me-to-m-roumpio/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/politics/ektakti-episkepsi-tou-giorgou-gerapetriti-stin-ouasigkton-tha-exei-synantisi-kai-me-ton-marko-roumpio/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η επίσκεψη του Υπουργού Εξωτερικών Γ. Γεραπετρίτη στην Ουάσινγκτον αφορά σχέσεις μεταξύ κρατών και περιλαμβάνει σημαντικές πολιτικές επαφές.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T07:04:47.000Z"
-    },
-    {
-      "id": "25edeb83d062",
-      "title": "Κατώτατος μισθός: Κλειδώνει η αύξηση από 1η Απριλίου – Πόσα ευρώ θα δούμε στην τσέπη μας",
-      "simpleTitle": "Αύξηση του κατώτατου μισθού από 1η Απριλίου",
-      "simpleText": "Στις 1 Απριλίου 2026, θα υπάρξει αύξηση στον κατώτατο μισθό στην Ελλάδα. Οι ειδικοί έχουν κάνει προτάσεις για το πόσο θα αυξηθεί αυτός ο μισθός. Ο στόχος είναι να φτάσει τα 950 ευρώ μέσα στο 2027. Αναμένουμε ότι η αύξηση αυτή θα είναι γύρω στο 4%, που σημαίνει περίπου 35 ευρώ παραπάνω το μήνα. Αυτό είναι σημαντικό γιατί θα βοηθήσει περισσότερους ανθρώπους να ζουν καλύτερα. Υπάρχουν συζητήσεις μεταξύ εργοδοτών και εργαζομένων για το πώς θα γίνει αυτή η αύξηση. Όλα δείχνουν ότι η ελληνική οικονομία μπορεί να αντέξει αυτή την αλλαγή.",
-      "sourceName": "TA NEA, TO BHMA",
-      "sourceUrl": "https://www.tanea.gr/2026/02/24/economy/katotatos-misthos-kleidonei-i-ayksisi-apo-1i-apriliou-posa-eyro-tha-doume-stin-tsepi-mas/",
-      "sourceDomains": [
-        "tanea.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/economy/katotatos-misthos-kleidonei-i-ayksisi-apo-1i-apriliou-posa-eyro-tha-doume-stin-tsepi-mas/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/24/finance/katotatos-misthos-posa-tha-deite-stin-tsepi-sas-apo-1i-apriliou-ta-tria-senaria/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά αύξηση του κατώτατου μισθού και τις σχετικές διαβουλεύσεις που συνδέονται με σοβαρά οικονομικά ζητήματα, όπως η αγοραστική δύναμη, η οικονομία και οι επιπτώσεις στην αγορά εργασίας.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T06:58:53.000Z"
-    },
-    {
-      "id": "430ea377fad6",
-      "title": "Στη Διατλαντική Σύνοδο για την Ασφάλεια Φυσικού Αερίου ο Στ. Παπασταύρου: Στρατηγικής σημασίας έργο και «αρτηρία ειρήνης» ο Κάθετος Διάδρομος",
-      "simpleTitle": "**Τίτλος: Ο Κάθετος Διάδρομος είναι σημαντικός για την ενέργεια και την ειρήνη**",
-      "simpleText": "Ο υπουργός Ενέργειας, Σταύρος Παπασταύρου, βρίσκεται στην Ουάσινγκτον για μια συνάντηση που μιλάει για την ασφάλεια του φυσικού αερίου. Εκεί, τόνισε τη σημασία του Κάθετου Διάδρομου, που συνδέει την Ελλάδα με άλλες χώρες, σαν ένα έργο που μπορεί να φέρει ειρήνη και ευημερία στην περιοχή. Αυτός ο διάδρομος είναι σημαντικός γιατί βοηθά τις ευρωπαϊκές χώρες να μην εξαρτώνται από το ρωσικό φυσικό αέριο.\n\nΗ ασφάλεια της ενέργειας σχετίζεται με την πολιτική κατάσταση. Όταν υπάρχει πόλεμος, η ενέργεια μπορεί να γίνει εργαλείο πίεσης. Ο Παπασταύρου είπε ότι οι χώρες πρέπει να συνεργαστούν για να βεβαιωθούν ότι δεν θα αφήσουν το ρωσικό αέριο να ξαναμπεί στην αγορά. Αυτό είναι πολύ σημαντικό για τη σταθερότητα και την ασφάλεια στην Ευρώπη.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/politiki/sti-diatlantiki-synodo-gia-tin-asfaleia-fysikou-aeriou-o-st-papastayrou-stratigikis-simasias-ergo-kai-artiria-eirinis-o-kathetos-diadromos/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sti-diatlantiki-synodo-gia-tin-asfaleia-fysikou-aeriou-o-st-papastayrou-stratigikis-simasias-ergo-kai-artiria-eirinis-o-kathetos-diadromos/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/politics/st-papastayroy-apo-oyasingkton-o-kathetos-diadromos-artiria-eirinis-kai-eyimerias-gia-tin/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αναφέρεται σε σοβαρά ζητήματα ενέργειας και γεωπολιτικής, επικεντρωμένη στην ασφάλεια του φυσικού αερίου και τη στρατηγική συνεργασία μεταξύ ΗΠΑ και ΕΕ, ιδίως λόγω της τρέχουσας πολιτικής κατάστασης στην Ουκρανία.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T06:35:42.000Z"
-    },
-    {
-      "id": "067718159aba",
-      "title": "Από σήμερα το νέο μοντέλο στρατιωτικής θητείας: Τι αλλάζει σε εκπαίδευση, μεταθέσεις και μηνιαία αποζημίωση, αναβαθμίζεται και το συσσίτιο",
-      "simpleTitle": "Νέες αλλαγές στη στρατιωτική θητεία από σήμερα**",
-      "simpleText": "Από σήμερα, οι αλλαγές στη στρατιωτική θητεία ξεκινούν. Οι στρατεύσιμοι θα παρουσιαστούν στις μονάδες τους από τις 24 έως τις 27 Φεβρουαρίου. Αυτές οι αλλαγές γίνονται λόγω των νέων αναγκών και τεχνολογιών. Η βασική εκπαίδευση θα διαρκεί 10 εβδομάδες και θα περιλαμβάνει νέες δεξιότητες, όπως ο χειρισμός drones και οι πρώτες βοήθειες. Οι στρατιώτες που υπηρετούν στη Θράκη και στα νησιά θα λαμβάνουν περισσότερα χρήματα κάθε μήνα. Επίσης, έχουν προβλεφθεί βελτιωμένα γεύματα και υγειονομικές εξετάσεις. Όλοι οι στρατεύσιμοι θα εκπαιδεύονται και θα μετατίθενται σε επιχειρησιακές μονάδες μετά την εκπαίδευση τους.",
-      "sourceName": "ERT News, Kathimerini, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/ellada/apo-simera-to-neo-montelo-stratiotikis-thiteias-ti-allazei-se-ekpaideysi-metatheseis-kai-miniaia-apozimiosi-anavathmizetai-kai-to-syssitio/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/apo-simera-to-neo-montelo-stratiotikis-thiteias-ti-allazei-se-ekpaideysi-metatheseis-kai-miniaia-apozimiosi-anavathmizetai-kai-to-syssitio/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/politics/amyna/564092650/apo-simera-i-nea-thiteia-ti-allazei-se-ekpaideysi-apozimiosi-syssitio/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/greece/stratiotiki-thiteia-apo-simera-se-efarmogi-to-neo-montelo-ti-allazei-se-ekpaideysi-kai-min/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές αλλαγές στο στρατιωτικό μοντέλο θητείας που επηρεάζουν την εκπαίδευση, τις μεταθέσεις και την αποζημίωση των στρατευσίμων, γεγονός που σχετίζεται με πολιτικές και κοινωνικές παραμέτρους.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/20260224-sundeseis-krassas.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/20260224-sundeseis-krassas.jpg",
-      "publishedAt": "2026-02-24T06:10:40.000Z"
-    },
-    {
-      "id": "6cf4e7b511a0",
-      "title": "Ομιλία Τραμπ το βράδυ της Τρίτης στο Καπιτώλιο: Θα διακηρύξει τη «χρυσή εποχή» που οι Αμερικανοί δυσκολεύονται να δουν",
-      "simpleTitle": "Ομιλία Τραμπ στο Καπιτώλιο για τη «χρυσή εποχή»",
-      "simpleText": "Ο Ντόναλντ Τραμπ θα μιλήσει τη βράδυ της Τρίτης στο Καπιτώλιο στην Αμερική. Θέλει να πει στους Αμερικανούς ότι έχει έρθει μια «χρυσή εποχή». Αυτή η ομιλία είναι σημαντική γιατί οι περισσότεροι άνθρωποι έχουν ανησυχίες και αμφιβολίες. Ο Τραμπ θα προσπαθήσει να τους πείσει να πιστέψουν σε καλύτερες μέρες. Μαζί του θα είναι μέλη του Κογκρέσου και άλλοι πολιτικοί. Οι άνθρωποι περιμένουν να ακούσουν πώς σκοπεύει να αντιμετωπίσει τα οικονομικά προβλήματα στη χώρα. Δεν είναι ακόμα σίγουρο τι θα πει για τις μεταναστευτικές πολιτικές του.",
-      "sourceName": "ERT News, Kathimerini",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/omilia-tramp-to-vrady-tis-tritis-sto-kapitolio-tha-diakiryksei-ti-xrysi-epoxi-pou-oi-amerikanoi-dyskoleyontai-na-doun/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "kathimerini.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/omilia-tramp-to-vrady-tis-tritis-sto-kapitolio-tha-diakiryksei-ti-xrysi-epoxi-pou-oi-amerikanoi-dyskoleyontai-na-doun/"
-        },
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564092644/megali-omilia-toy-tramp-sto-kapitolio-to-vrady-tis-tritis-ti-anamenetai/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση σχετίζεται με πολιτική και οικονομικά ζητήματα, όπως η κατάσταση της ένωσης και οι προκλήσεις που αντιμετωπίζει ο Τραμπ, οπότε ανήκει σε σοβαρές ειδήσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T06:07:08.000Z"
-    },
-    {
-      "id": "e47d47846aa4",
-      "title": "Υπόθεση Επσταϊν: Ελεύθερος με εγγύηση ο πρώην πρέσβης της Βρετανίας στις ΗΠΑ, Πίτερ Μάντελσον",
-      "simpleTitle": "Ελεύθερος με εγγύηση ο Πίτερ Μάντελσον",
-      "simpleText": "Ο πρώην πρέσβης της Βρετανίας στις ΗΠΑ, Πίτερ Μάντελσον, αφέθηκε ελεύθερος με εγγύηση. Συνελήφθη τη Δευτέρα, καθώς κατηγορείται για παράβαση των καθηκόντων του. Στις αρχές Σεπτεμβρίου, είχε απομακρυνθεί από τη θέση του λόγω των σχέσεών του με τον καταδικασμένο Τζέφρι Έπστιν. Η κατάσταση αυτή είναι σημαντική, γιατί αφορά τη διαφάνεια και την εμπιστοσύνη στις κυβερνητικές θέσεις. Δεν ξέρουμε ακόμα αν θα υπάρξουν περαιτέρω εξελίξεις στην υπόθεση.",
-      "sourceName": "Kathimerini, TO BHMA",
-      "sourceUrl": "https://www.kathimerini.gr/world/564092602/ypothesi-epstain-eleytheros-me-eggyisi-o-proin-presvis-tis-vretanias-stis-ipa-piter-mantelson/",
-      "sourceDomains": [
-        "kathimerini.gr",
-        "tovima.gr"
-      ],
-      "sources": [
-        {
-          "title": "Kathimerini",
-          "url": "https://www.kathimerini.gr/world/564092602/ypothesi-epstain-eleytheros-me-eggyisi-o-proin-presvis-tis-vretanias-stis-ipa-piter-mantelson/"
-        },
-        {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/23/world/skandalo-epstin-synelifthi-o-proin-presvis-tis-vretanias-stis-ipa-piter-mantelson/"
-        }
-      ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά σοβαρές κατηγορίες κατά του πρώην πρέσβη που σχετίζονται με τη διαφάνεια και τις δημόσιες ευθύνες, γεγονότα που έχουν σημαντικές πολιτικές και κοινωνικές επιπτώσεις.",
-      "isSensitive": false,
-      "imageUrl": null,
-      "videoUrl": null,
-      "publishedAt": "2026-02-24T05:43:39.000Z"
-    },
-    {
-      "id": "13a5d30a02f1",
-      "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 24 Φεβρουαρίου",
-      "simpleTitle": "Ποιοι γιορτάζουν σήμερα, 24 Φεβρουαρίου",
-      "simpleText": "Σήμερα, 24 Φεβρουαρίου, είναι μια γιορτή για τον Ιωάννη, ο οποίος είναι Άγιος και ονομάζεται Πρόδρομος. Αυτή η γιορτή είναι η Πρώτη και Δευτέρα εύρεσις της τιμίας κεφαλής του. Δεν γιορτάζει κάποιο γνωστό όνομα. Ο Ιωάννης είχε μια ενδιαφέρουσα ζωή. Ήταν ένας Άγιος που βάπτισε τον Χριστό στον ποταμό Ιορδάνη.\n\nΕίναι σημαντικό να θυμόμαστε τους Αγίους και τις ιστορίες τους, γιατί μας διδάσκουν πράγματα για την πίστη. Για σήμερα, οι ώρες της ημέρας είναι: η ανατολή του ήλιου είναι στις 07:03 και η δύση στις 18:13.",
-      "sourceName": "ERT News, TA NEA",
-      "sourceUrl": "https://www.ertnews.gr/eidiseis/eortologio-poioi-giortazoun-simera-24-fevrouariou-2/",
-      "sourceDomains": [
-        "ertnews.gr",
-        "tanea.gr"
-      ],
-      "sources": [
-        {
-          "title": "ERT News",
-          "url": "https://www.ertnews.gr/eidiseis/eortologio-poioi-giortazoun-simera-24-fevrouariou-2/"
-        },
-        {
-          "title": "TA NEA",
-          "url": "https://www.tanea.gr/2026/02/24/greece/eortologio-poioi-giortazoun-simera-24-fevrouariou/"
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/taxidi-sto-kentro-tis-moysikis-vals-synaylia-me-tin-kratiki-orxistra-athinon-sto-megaro-moysikis/"
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια θρησκευτική γιορτή και την ιστορία του Αγίου Ιωάννη, που είναι πολιτιστικό και θρησκευτικό θέμα, ταιριάζει καλύτερα στην κατηγορία του πολιτισμού.",
+      "categoryReason": "Η συναυλία της Κρατικής Ορχήστρας Αθηνών είναι πολιτιστική εκδήλωση που εστιάζει στη μουσική.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-24T05:05:34.000Z"
+      "publishedAt": "2026-02-24T17:01:36.000Z"
+    },
+    {
+      "id": "0590014c2a5a",
+      "title": "Η Αισθητική της Απώθησης: Ομαδική έκθεση στο Mosaico Fine Art Studio",
+      "simpleTitle": "Ομαδική έκθεση στο Mosaico Fine Art Studio",
+      "simpleText": "Στο Mosaico Fine Art Studio γίνεται μια ομαδική έκθεση με τίτλο \"Η Αισθητική της Απώθησης\". Αυτή η έκθεση προσκαλεί τους επισκέπτες να εξερευνήσουν έργα τέχνης που αφορούν την απώθηση και τις επιθυμίες.\n\nΗ εκδήλωση είναι μια ευκαιρία για τους καλλιτέχνες να παρουσιάσουν τις απόψεις τους μέσα από τη δημιουργικότητά τους. Οι επισκέπτες μπορούν να θαυμάσουν τα έργα και να σκεφτούν την έννοια πίσω από αυτά. Είναι σημαντικό να συμμετέχετε και να υποστηρίξετε τη σύγχρονη τέχνη στην περιοχή μας.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/h-aisthitiki-tis-apothisis-omadiki-ekthesi-sto-mosaico-fine-art-studio/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/h-aisthitiki-tis-apothisis-omadiki-ekthesi-sto-mosaico-fine-art-studio/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η έκθεση αφορά τη σύγχρονη τέχνη και πολιτιστικές εκδηλώσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T16:03:38.000Z"
+    },
+    {
+      "id": "5dbaf22dfc69",
+      "title": "Σε Red Code ξανά ο Έβρος – Συναγερμός για νέες πλημμύρες",
+      "simpleTitle": "Επικίνδυνες πλημμύρες στον Έβρο",
+      "simpleText": "Ο Έβρος βρίσκεται και πάλι σε κατάσταση «Red Code» από σήμερα, 24 Φεβρουαρίου, λόγω υψηλού κινδύνου πλημμυρών. Η στάθμη του ποταμού έχει ανέβει πολύ, φτάνοντας 7,15 μέτρα, και είναι κρίσιμη η κατάσταση στο Πύθιο Διδυμοτείχου. Δεκάδες χιλιάδες στρέμματα έχουν ήδη πλημμυρίσει, και οι αρχές προχωρούν σε παρεμβάσεις για να προστατεύσουν τα κοντινά χωριά.\n\nΕίναι σημαντικό να παρακολουθείτε τις ανακοινώσεις από τις αρχές. Αν βρίσκεστε στην περιοχή, μπορείτε να κάνετε τα εξής:\n- Μείνετε μακριά από πλημμυρισμένες περιοχές.\n- Ενημερωθείτε για τις οδηγίες των τοπικών αρχών.\n- Ετοιμάστε ένα σχέδιο σε περίπτωση εκκένωσης.",
+      "sourceName": "ERT News, TO BHMA",
+      "sourceUrl": "https://www.ertnews.gr/roi-idiseon/se-red-code-ksana-o-evros-synagermos-gia-nees-plimmyres/",
+      "sourceDomains": [
+        "ertnews.gr",
+        "tovima.gr"
+      ],
+      "sources": [
+        {
+          "title": "ERT News",
+          "url": "https://www.ertnews.gr/roi-idiseon/se-red-code-ksana-o-evros-synagermos-gia-nees-plimmyres/"
+        },
+        {
+          "title": "TO BHMA",
+          "url": "https://www.tovima.gr/2026/02/24/society/se-red-code-ksana-o-evros-synagermos-gia-nea-plimmyrika-fainomena/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση σχετικά με την πλημμύρα στον Έβρο και τον συναγερμό περιλαμβάνει σοβαρές προειδοποιήσεις για την ασφάλεια των κατοίκων.",
+      "isSensitive": false,
+      "imageUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/evros4.jpg",
+      "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/2026-02-24-STAMATAKIS-ARAXNI.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/2026-02-24-STAMATAKIS-ARAXNI.jpg",
+      "publishedAt": "2026-02-24T15:27:52.000Z"
+    },
+    {
+      "id": "0e198df31dd9",
+      "title": "Ο Γιάννης Κασέτας με το άλμπουμ “Far” στο Theatre Of The No",
+      "simpleTitle": "Ο Γιάννης Κασέτας παρουσιάζει το άλμπουμ “Far”",
+      "simpleText": "Ο Γιάννης Κασέτας, συνθέτης και σαξοφωνίστας, θα εμφανιστεί στο Theatre Of The No. Θα παρουσιάσει το νέο του άλμπουμ που έχει τον τίτλο \"Far\". Αυτή είναι μια ευκαιρία για τους φίλους της μουσικής να ακούσουν καινούργια κομμάτια και να απολαύσουν τη ζωντανή του ερμηνεία. Αν σου αρέσει η μουσική, μπορείς να παρακολουθήσεις την εκδήλωση και να ζήσεις μια όμορφη εμπειρία.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/o-giannis-kasetas-me-to-almpoym-far-sto-theatre-of-the-no/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/o-giannis-kasetas-me-to-almpoym-far-sto-theatre-of-the-no/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Είναι ένα μουσικό γεγονός που περιλαμβάνει συναυλία και πολιτιστική εκδήλωση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T15:24:47.000Z"
+    },
+    {
+      "id": "43fb6d30dda2",
+      "title": "Διαγωνισμοί – Κερδίστε δωρεάν προσκλήσεις από 28 Φεβρουαρίου έως 6 Μαρτίου",
+      "simpleTitle": "Διαγωνισμοί για δωρεάν προσκλήσεις στην Αθήνα",
+      "simpleText": "Από τις 28 Φεβρουαρίου έως τις 6 Μαρτίου, μπορείτε να συμμετάσχετε σε διαγωνισμούς του CultureNow. Οι διαγωνισμοί προσφέρουν δωρεάν προσκλήσεις για πολλές εκδηλώσεις στην Αθήνα. Είναι μια καλή ευκαιρία να απολαύσετε διάφορες πολιτιστικές δραστηριότητες. Αν σας ενδιαφέρει, μπορείτε να συμμετάσχετε και να προσπαθήσετε να κερδίσετε.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/diagonismoi-kerdiste-dorean-proskliseis-apo-28-fevroyarioy-eos-6-martioy/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/diagonismoi-kerdiste-dorean-proskliseis-apo-28-fevroyarioy-eos-6-martioy/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Ο διαγωνισμός προσφέρει προσκλήσεις για πολιτιστικές εκδηλώσεις, εστιασμένος σε πολιτιστικές δραστηριότητες.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T14:59:59.000Z"
+    },
+    {
+      "id": "5618333cdf75",
+      "title": "Φαίδρα, του Γιάννη Ρίτσου σε σκηνοθεσία Κωνσταντίνου Κωνσταντόπουλου στο θέατρο Αλκμήνη",
+      "simpleTitle": "Παράσταση \"Φαίδρα\" στο θέατρο Αλκμήνη",
+      "simpleText": "Ο Κωνσταντίνος Κωνσταντόπουλος σκηνοθετεί την παράσταση \"Φαίδρα\" του Γιάννη Ρίτσου. Η παράσταση ανεβαίνει στο θέατρο Αλκμήνη. Είναι μια σπουδαία ευκαιρία να δούμε ένα κλασικό έργο. Η \"Φαίδρα\" έχει ενδιαφέρον θέμα που αφορά τις σχέσεις και τα συναισθήματα. Αν ενδιαφέρεστε για το θέατρο, μπορείτε να παρακολουθήσετε αυτή την παράσταση.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/faidra-toy-gianni-ritsoy-se-skinothesia-konstantinoy-konstantopoyloy-sto-theatro-alkmini/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/faidra-toy-gianni-ritsoy-se-skinothesia-konstantinoy-konstantopoyloy-sto-theatro-alkmini/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η είδηση αφορά μια θεατρική παράσταση, που σχετίζεται με τον πολιτισμό.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T14:37:22.000Z"
+    },
+    {
+      "id": "ae7b6a9d15e6",
+      "title": "Το Spyros Manesis Trio ξανά στο Half Note Jazz Club",
+      "simpleTitle": "Το Spyros Manesis Trio επιστρέφει στο Half Note Jazz Club",
+      "simpleText": "Ο Σπύρος Μάνεσης και το τρίο του εμφανίζονται ξανά στο Half Note Jazz Club. Η συναυλία θα πραγματοποιηθεί σύντομα και αναμένεται να φέρει κοντά τους λάτρεις της τζαζ μουσικής. Είναι μια καλή ευκαιρία να απολαύσει κανείς καλές ερμηνείες σε μια ζεστή ατμόσφαιρα. Αν σου αρέσει η τζαζ, σκέψου να συμμετάσχεις και να ζήσεις αυτή την εμπειρία.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/to-spyros-manesis-trio-xana-sto-half-note-jazz-club/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/to-spyros-manesis-trio-xana-sto-half-note-jazz-club/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Αφορά μουσική εκδήλωση που προβάλλει την τζαζ κουλτούρα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T14:12:08.000Z"
+    },
+    {
+      "id": "3a6b4042cc0f",
+      "title": "China’s Yangtze River Rebounds After Fishing Ban and Investment to Reemploy 200,000 Fishermen",
+      "simpleTitle": "Ανάκαμψη του ποταμού Γιανγκτσέ στην Κίνα",
+      "simpleText": "Ο ποταμός Γιανγκτσέ στην Κίνα δείχνει σημάδια βελτίωσης μετά από απαγόρευση αλιείας. Αυτή η απαγόρευση είναι μέρος ενός προγράμματος αποκατάστασης που διαρκεί 10 χρόνια και κοστίζει 2,7 δισεκατομμύρια δολάρια. Ο ποταμός υπέφερε για χρόνια από την υπεραλίευση και την ρύπανση.\n\nΜια νέα μελέτη δείχνει ότι η ποσότητα των ψαριών έχει τριπλασιαστεί. Αυτό είναι καλό νέο για την οικολογία και τους ανθρώπους που εξαρτώνται από τον ποταμό. Εκτός από την αποκατάσταση, το πρόγραμμα προσφέρει δουλειές σε 200.000 πρώην ψαράδες, βοηθώντας τους να επανενταχθούν στην κοινωνία.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/chinas-yangtze-river-rebounds-after-fishing-ban-and-investment-to-reemploy-200000-fishermen/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/chinas-yangtze-river-rebounds-after-fishing-ban-and-investment-to-reemploy-200000-fishermen/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η βελτίωση του ποταμού Γιανγκτσέ και η δημιουργία θέσεων εργασίας για πρώην ψαράδες είναι θετικά νέα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T14:00:53.000Z"
+    },
+    {
+      "id": "aa5a2b79d47f",
+      "title": "Ο Τομ Χανκς πρόκειται να υποδυθεί τον Αβραάμ Λίνκολν στην ταινία «Lincoln in the Bardo»",
+      "simpleTitle": "Ο Τομ Χανκς θα παίξει τον Αβραάμ Λίνκολν σε νέα ταινία",
+      "simpleText": "Ο Τομ Χανκς θα αναλάβει τον ρόλο του Αβραάμ Λίνκολν στην επόμενη ταινία «Lincoln in the Bardo». Η ταινία σκηνοθετείται από τον Ντιουκ Τζόνσον. Είναι σημαντικό γιατί ο Λίνκολν είναι μία εμβληματική προσωπικότητα της αμερικανικής ιστορίας. Η ταινία αυτή αναμένεται να προσφέρει μια νέα οπτική για τη ζωή του σημαντικού αυτού προεδρικού προσώπου.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/o-tom-xanks-prokeitai-na-ypodythei-ton-avraam-linkoln-stin-tainia-lincoln-in-the-bardo/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/o-tom-xanks-prokeitai-na-ypodythei-ton-avraam-linkoln-stin-tainia-lincoln-in-the-bardo/"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η είδηση αφορά την επερχόμενη ταινία και τον πρωταγωνιστή της.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T13:57:44.000Z"
+    },
+    {
+      "id": "7eed5bddf042",
+      "title": "Astoria: Η μουσική παράσταση του Κωνσταντίνου Σαμαρά σε σκηνοθεσία Βασίλη Μαυρογεωργίου στο Θέατρο Παλλάς",
+      "simpleTitle": "«Astoria»: Μουσική παράσταση στο Θέατρο Παλλάς",
+      "simpleText": "Στο Θέατρο Παλλάς, παρουσιάζεται η μουσική παράσταση «Astoria». Ο Κωνσταντίνος Σαμαράς αφηγείται την ιστορία της ξενιτιάς. Η παράσταση συνδυάζει ζωντανή μουσική και συναισθηματικές στιγμές. Οι θεατές θα νιώσουν τον πόνο και τη συγκίνηση που φέρνει η ξενιτιά. Είναι μια ευκαιρία να απολαύσουν έναν ιδιαίτερο συνδυασμό τέχνης και συναισθήματος.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/astoria-h-moysiki-parastasi-toy-konstantinoy-samara-se-skinothesia-vasili-mayrogeorgioy-sto-theatro-pallas/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/astoria-h-moysiki-parastasi-toy-konstantinoy-samara-se-skinothesia-vasili-mayrogeorgioy-sto-theatro-pallas/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η παράσταση είναι πολιτιστική εκδήλωση που συνδυάζει μουσική και συναισθηματική αφήγηση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T13:46:58.000Z"
+    },
+    {
+      "id": "45e75e740a06",
+      "title": "The Mr and Mrs Bubble Show: Παράσταση με Σαπουνόφουσκες στο Ρεκτιφιέ!",
+      "simpleTitle": "Παράσταση με Σαπουνόφουσκες στο Ρεκτιφιέ",
+      "simpleText": "Η δημοφιλής παράσταση \"The Mr and Mrs Bubble Show\" έρχεται στο Ρεκτιφιέ. Είναι μια διασκεδαστική παράσταση με σαπουνόφουσκες που ενθουσιάζει μικρούς και μεγάλους. Η εκδήλωση θα προσφέρει μοναδικές στιγμές και εκπλήξεις για όλους τους θεατές. Είναι μια ωραία ευκαιρία να απολαύσετε ποιοτικό θέαμα και να περάσετε ευχάριστα. Αν σας αρέσουν οι σαπουνόφουσκες, μην την χάσετε!",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/the-mr-and-mrs-bubble-show-parastasi-me-sapoynofoyskes-sto-rektifie/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/the-mr-and-mrs-bubble-show-parastasi-me-sapoynofoyskes-sto-rektifie/"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η παράσταση προσφέρει διασκέδαση και ευχάριστες στιγμές για το κοινό.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T13:21:06.000Z"
+    },
+    {
+      "id": "f2a326b923f2",
+      "title": "DISFF Writing Residency 2026 – Open Call: Πρόγραμμα Φιλοξενίας για την Ανάπτυξη Σεναρίων Μικρού Μήκους Ταινιών",
+      "simpleTitle": "Πρόγραμμα Φιλοξενίας για Σεναριογράφους το 2026",
+      "simpleText": "Το Διεθνές Φεστιβάλ Ταινιών Μικρού Μήκους Δράμας προχωρά σε ένα νέο πρόγραμμα φιλοξενίας. Το πρόγραμμα αυτό θα βοηθήσει στη δημιουργία σεναρίων για ταινίες μικρού μήκους. Η δράση θα γίνει τον Απρίλιο του 2026, στο Γρανίτη Δράμας. Αυτή η πρωτοβουλία είναι σημαντική γιατί στηρίζει τους νέους δημιουργούς στον τομέα του κινηματογράφου. Αν σας ενδιαφέρει να συμμετάσχετε, κρατήστε το μυαλό σας ανοικτό για περισσότερες πληροφορίες κοντά στην ημερομηνία.",
+      "sourceName": "CultureNow",
+      "sourceUrl": "https://www.culturenow.gr/disff-writing-residency-2026-open-call-programma-filoxenias-gia-tin-anaptyxi-senarion-mikroy-mikoys-tainion/",
+      "sourceDomains": [
+        "culturenow.gr"
+      ],
+      "sources": [
+        {
+          "title": "CultureNow",
+          "url": "https://www.culturenow.gr/disff-writing-residency-2026-open-call-programma-filoxenias-gia-tin-anaptyxi-senarion-mikroy-mikoys-tainion/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Το πρόγραμμα στηρίζει τη δημιουργία σεναρίων για ταινίες μικρού μήκους, σχετίζεται με τον τομέα του κινηματογράφου και τον πολιτισμό.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T13:02:23.000Z"
+    },
+    {
+      "id": "8786455d0fcd",
+      "title": "Ancient Egyptian Artifacts Recovered Just One Day After Being Stolen from Australian Museum",
+      "simpleTitle": "Αντικείμενα της Αρχαίας Αιγύπτου βρέθηκαν μόλις μία μέρα μετά την κλοπή τους",
+      "simpleText": "Η αστυνομία στο Κουίνσλαντ ανακοίνωσε ότι βρέθηκαν 4 πολύτιμα αντικείμενα από την αρχαία Αίγυπτο. Αυτά είχαν κλαπεί από μουσείο στις αρχές του μήνα. Οι πολλές κλοπές σε μουσεία προκάλεσαν ανησυχία, αλλά η γρήγορη δράση της αστυνομίας απέτρεψε να προστεθεί αυτή η κλοπή στη λίστα των άλυτων περιστατικών.\n\nΤο συμβάν συνέβη περίπου στις 3 τα ξημερώματα. Η επαναφορά αυτών των αντικειμένων είναι σημαντική γιατί διατηρεί την πολιτιστική κληρονομιά και την ιστορία ασφαλή.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/ancient-egyptian-artifacts-recovered-just-one-day-after-being-stolen-from-australian-museum/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/ancient-egyptian-artifacts-recovered-just-one-day-after-being-stolen-from-australian-museum/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η γρήγορη επαναφορά των κλεμμένων αντικειμένων υπερτονίζει την προστασία της πολιτιστικής κληρονομιάς και αποτελεί θετική εξέλιξη.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T12:00:42.000Z"
+    },
+    {
+      "id": "a7109f016996",
+      "title": "Εθνικό Αστεροσκοπείο Αθηνών: Έλληνες επιστήμονες παρατηρούν τη θεαματική μεταμόρφωση ενός υπεργίγαντα αστέρα",
+      "simpleTitle": "Έλληνες επιστήμονες μελετούν έναν γίγαντα αστέρα",
+      "simpleText": "Μια σημαντική ανακάλυψη έγινε από την ομάδα του Εθνικού Αστεροσκοπείου Αθηνών. Οι επιστήμονες παρακολουθούν τις εντυπωσιακές αλλαγές του υπεργίγαντα αστέρα WOH G64, που βρίσκεται στον γαλαξία Μεγάλο Νέφος του Μαγγελάνου.\n\nΑυτή η παρατήρηση είναι μοναδική γιατί δίνει την ευκαιρία στους επιστήμονες να κατανοήσουν καλύτερα την εξέλιξη των άστρων. Αυτές οι μελέτες δείχνουν πως το διάστημα είναι ζωντανός και συνεχώς μεταβαλλόμενος οργανισμός. Αυτό είναι σημαντικό για την κατανόησή μας σχετικά με το Σύμπαν.",
+      "sourceName": "The Happy News",
+      "sourceUrl": "https://thehappynews.gr/32211-ethniko-asteroskopeio-athinon-ypergigantas-astera-woh-g64/",
+      "sourceDomains": [
+        "thehappynews.gr"
+      ],
+      "sources": [
+        {
+          "title": "The Happy News",
+          "url": "https://thehappynews.gr/32211-ethniko-asteroskopeio-athinon-ypergigantas-astera-woh-g64/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση ανακοινώνει μια θετική και εντυπωσιακή ανακάλυψη στον τομέα της αστρονομίας.",
+      "isSensitive": false,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/ipergigantas-asteras-woh-g64-800x600.jpg",
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T10:41:27.000Z"
+    },
+    {
+      "id": "245a1333834d",
+      "title": "Good News in History, February 24",
+      "simpleTitle": "Επέτειοι Σημαντικών Γεγονότων στις 24 Φεβρουαρίου",
+      "simpleText": "Στις 24 Φεβρουαρίου γιορτάζουμε την επέτειο από τη γέννηση του Winslow Homer, ενός σπουδαίου ζωγράφου του 19ου αιώνα. Γεννήθηκε στη Βοστώνη και η μητέρα του τον ενέπνευσε με τις καλλιτεχνικές της ικανότητες. Η καριέρα του εξελίχθηκε κυρίως όταν μετακόμισε στο Μέιν.\n\nΑυτή η ημέρα θυμίζει και άλλες σημαντικές στιγμές στην ιστορία, όπως η ανακάλυψη της ηλεκτρόλυσης για την παραγωγή αλουμινίου πριν από 140 χρόνια, που κατέστησε το υλικό πιο προσιτό για όλους. Οι εξελίξεις αυτές έχουν επηρεάσει τη ζωή μας προς το καλύτερο, κάνοντάς την πιο άνετη και δημιουργική.",
+      "sourceName": "Good News Network, Good News Network, Good News Network, Good News Network, Good News Network, Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events070224/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070224/"
+        },
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070223/"
+        },
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070222/"
+        },
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070221/"
+        },
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070220/"
+        },
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events070219/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η αναφορά σε θετικές ιστορίες και εξελίξεις στην ιστορία φέρνει αισιοδοξία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-24T08:00:00.000Z"
+    },
+    {
+      "id": "38ad48a123ab",
+      "title": "Infecting Mosquitoes with Natural Bacteria Lowered Dengue Risk by 70% in Citywide Experiment",
+      "simpleTitle": "Λιγότεροι κίνδυνοι από δάγκειο πυρετό λόγω βακτηρίων στους κουνουπιών",
+      "simpleText": "Σε μια πρόσφατη μελέτη, επιστήμονες χρησιμοποίησαν φυσικά βακτήρια για να μειώσουν τους κινδύνους από τον δάγκειο πυρετό. Ο δάγκειος πυρετός είναι μια σοβαρή λοίμωξη που μεταδίδεται από κουνουπιές και μπορεί να προκαλέσει σοβαρά προβλήματα υγείας.\n\nΟι ερευνητές στο Σινγκαπούρο είδαν ότι η μέθοδος αυτή δεν βοηθά μόνο στη μείωση του αριθμού των κουνουπιών, αλλά και των περιπτώσεων του δάγκειου πυρετού στην περιοχή κατά 70%. Είναι μια ενθαρρυντική είδηση, καθώς μπορεί να βελτιώσει την υγεία των κατοίκων και να μειώσει την εξάπλωση της ασθένειας.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/infecting-mosquitoes-with-natural-bacteria-lowered-dengue-risk-by-70-in-citywide-experiment/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/infecting-mosquitoes-with-natural-bacteria-lowered-dengue-risk-by-70-in-citywide-experiment/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η μέθοδος μείωσης των περιστατικών δάγκειου πυρετού είναι θετική και ενθαρρυντική για την υγεία των κατοίκων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T19:30:42.000Z"
+    },
+    {
+      "id": "88aa307e57c2",
+      "title": "Diseased Rhino Recovers After Florida Zoo Team Surprise Locals with Pioneering Veterinary Tactics",
+      "simpleTitle": "Ο αναγεννημένος ρινόκερος στη Φλόριντα με την βοήθεια ντόπιων",
+      "simpleText": "Μια ομάδα από ζωολογικό κήπο της Φλόριντα ταξίδεψε στη Ζιμπάμπουε για να βοηθήσει έναν λευκό ρινόκερο που είχε πρόβλημα με μολυσμένο μάτι. Η ομάδα χρησιμοποίησε καινοτόμες μεθόδους για να κερδίσει την εμπιστοσύνη του ζώου, όπως θα έκανε με ένα άλογο ή ένα σκύλο. Έτσι, κατάφεραν να του δώσουν σταγόνες ματιών και να του παρέχουν την κατάλληλη φροντίδα.\n\nΗ στήριξη αυτής της ομάδας είναι σημαντική, καθώς δείχνει πώς μπορούμε να βοηθήσουμε τα άγρια ζώα. Η επιτυχία της διαδικασίας φέρνει ελπίδα και στους ντόπιους που επιθυμούν να δουν πιο υγιή ζώα στη φύση.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/diseased-rhino-recovers-after-florida-zoo-team-surprise-locals-with-pioneering-veterinary-tactics/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/diseased-rhino-recovers-after-florida-zoo-team-surprise-locals-with-pioneering-veterinary-tactics/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η επιτυχής φροντίδα του ρινόκερου φέρνει ελπίδα και χαρά στους ντόπιους.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T16:30:11.000Z"
+    },
+    {
+      "id": "5f3f1236dfac",
+      "title": "Osaka Stunned by Anonymous Gift of Gold Bars to Fix Aging Water Pipes",
+      "simpleTitle": "Χρυσά Bars για Επισκευές Νερού στην Οσάκα",
+      "simpleText": "Στην πόλη Οσάκα της Ιαπωνίας, ένας ανώνυμος κάτοικος προσέφερε 21 κιλά χρυσών bars για να βοηθήσει στην επισκευή των παλιών σωλήνων νερού. Ο δήμαρχος και η ομάδα του έμειναν έκπληκτοι από την κίνηση αυτή.\n\nΑυτή η δωρεά είναι σημαντική γιατί οι παλιοί σωλήνες νερού χρειάζονται επισκευές για να διασφαλιστεί η ποιότητα του νερού. Ο κοινοτικός δεσμός και η προσφορά του πολίτη ενισχύουν την αλληλεγγύη στην Οσάκα.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/osaka-stunned-by-anonymous-gift-of-gold-bars-to-fix-aging-water-pipes/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/osaka-stunned-by-anonymous-gift-of-gold-bars-to-fix-aging-water-pipes/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ανώνυμη δωρεά χρυσού για την επισκευή σωλήνων είναι μια θετική πράξη που ενισχύει την αλληλεγγύη στην κοινότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T14:00:15.000Z"
+    },
+    {
+      "id": "c1766c8fa138",
+      "title": "Man’s Dream About Having Heart Attack Leads to Real-Life Diagnosis and Life-Saving Surgery",
+      "simpleTitle": "Όνειρο για καρδιακή προσβολή οδήγησε σε σημαντική διάγνωση και χειρουργείο",
+      "simpleText": "Ένας άντρας, ο Τζέρεμι Σουάρτζ, ονειρεύτηκε ότι πέθανε από καρδιακή προσβολή. Το όνειρό του τον προειδοποίησε και αποφάσισε να επισκεφθεί έναν γιατρό. Έτσι, διαγνώστηκε με μια επικίνδυνη καρδιοπάθεια. Αυτή η διάγνωση τον βοήθησε να υποβληθεί σε μια ζωή-σωστική χειρουργική επέμβαση.\n\nΤο γεγονός αυτό δείχνει πόσο σημαντικό είναι να προσέχουμε τα σήματα που μας δίνει το σώμα μας ή ακόμη και τα όνειρά μας. Αν νιώθεις αβέβαιος για την υγεία σου, καλό είναι να μιλήσεις με τον γιατρό σου.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mans-dream-about-having-heart-attack-leads-to-real-life-diagnosis-and-life-saving-surgery/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/mans-dream-about-having-heart-attack-leads-to-real-life-diagnosis-and-life-saving-surgery/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ιστορία περιγράφει μια σωτήρια διάγνωση που προήλθε από όνειρο, γεγονός που τις δίνει θετική διάσταση.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T12:00:25.000Z"
+    },
+    {
+      "id": "8b119fad8cdd",
+      "title": "Regenerative agriculture sows success in Kenya",
+      "simpleTitle": "Επιτυχία της αναγεννητικής γεωργίας στην Κένυα",
+      "simpleText": "Στην Κένυα, η αναγεννητική γεωργία έχει φέρει θετικά αποτελέσματα. Αυτή η προσέγγιση στη γεωργία αποκαθιστά το έδαφος και βελτιώνει την παραγωγή τροφίμων. Πολλοί αγρότες αποκτούν πλέον καλύτερες καλλιέργειες και κερδίζουν περισσότερα εισοδήματα.\n\nΑυτό το μοντέλο γεωργίας είναι σημαντικό για την ανάπτυξη της περιοχής και την καταπολέμηση της φτώχειας. Η κοινότητα μπορεί να συνεχίσει να επενδύει σε βιώσιμες πρακτικές που βοηθούν το περιβάλλον και ενισχύουν την οικονομία.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/society/regenerative-agriculture-sows-success-in-kenya/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/society/regenerative-agriculture-sows-success-in-kenya/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η αναγεννητική γεωργία στην Κένυα φέρνει θετικά αποτελέσματα στην παραγωγή τροφίμων και στη βελτίωση του εισοδήματος των αγροτών.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-23T10:40:23.000Z"
+    },
+    {
+      "id": "547b3108bd4c",
+      "title": "Moving Companies Offer Free Moves to Domestic Violence Victims in 8 States – Thousands, So Far",
+      "simpleTitle": "Εταιρείες Μεταφορών Προσφέρουν Δωρεάν Μετακομίσεις σε Θύματα Ενδοοικογενειακής Βίας",
+      "simpleText": "Εταιρείες μεταφορών προσφέρουν δωρεάν υπηρεσίες σε άτομα που έχουν υποστεί ενδοοικογενειακή βία. Αυτή η πρωτοβουλία βοηθά πολλούς ανθρώπους να φύγουν από κακοποιητικές σχέσεις. Η Meathead Movers, η μεγαλύτερη ανεξάρτητη εταιρεία μεταφορών στην Καλιφόρνια, συμμετέχει σε αυτή την προσπάθεια εδώ και 25 χρόνια.\n\nΑυτή η βοήθεια είναι σημαντική, καθώς η μετακόμιση μπορεί να είναι δύσκολη και ακριβή. Οι εταιρείες στηρίζουν τους πάσχοντες, επιτρέποντάς τους να ξεκινήσουν μια νέα ζωή χωρίς φόβο. Είναι σημαντικό για αυτούς τους ανθρώπους να νιώσουν ασφαλείς και υποστηριγμένοι.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/these-moving-companies-offer-free-services-to-domestic-violence-victims-in-8-states/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/these-moving-companies-offer-free-services-to-domestic-violence-victims-in-8-states/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η πρωτοβουλία αυτή προσφέρει υποστήριξη σε θύματα ενδοοικογενειακής βίας, βοηθώντας τους να ξεκινήσουν μια νέα ζωή.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T22:16:45.000Z"
+    },
+    {
+      "id": "0707cd9e111a",
+      "title": "Plastic Mardi Gras Beads Just End up in Landfill, So Coalition Swaps in Seed Beads and Jambalaya Spice Packets",
+      "simpleTitle": "Αντικατάσταση πλαστικών κοσμημάτων του Μάρντι Γκρα με βιοδιασπώμενα",
+      "simpleText": "Στο Μάρντι Γκρα, τα πλαστικά κοσμήματα συχνά καταλήγουν στα σκουπίδια. Σε μια προσπάθεια να μειωθεί η ρύπανση, μια ομάδα από δημόσιους φορείς και μη κερδοσκοπικούς οργανισμούς παρήγαγε βιοδιασπώμενα κοσμήματα από σπόρους. Αυτές οι εναλλακτικές επιλογές είναι καλύτερες για το περιβάλλον και είναι πιο πολιτιστικά ευαίσθητες.\n\nΑυτή η αλλαγή μπορεί να βοηθήσει στη διατήρηση της καθαριότητας των δρόμων. Αν σας ενδιαφέρει, μπορείτε να στηρίξετε αντίστοιχες πρωτοβουλίες και να επιλέγετε προϊόντα φιλικά προς το περιβάλλον.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/plastic-mardi-gras-beads-swapped-out-for-seed-beads-and-spice-packets/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/plastic-mardi-gras-beads-swapped-out-for-seed-beads-and-spice-packets/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η πρωτοβουλία για τη χρήση βιοδιασπώμενων κοσμημάτων είναι θετική για το περιβάλλον και προάγει πολιτιστική ευαισθησία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T16:00:41.000Z"
+    },
+    {
+      "id": "362f17bd24d8",
+      "title": "Town Enthusiastically Switches to Restorative Justice and Reoffending Almost Vanishes",
+      "simpleTitle": "Μικρή πόλη εφαρμόζει αποκαταστατική δικαιοσύνη και μειώνει τις επαναλαμβανόμενες παραβάσεις",
+      "simpleText": "Σε μια μικρή πόλη στον βόρειο Καναδά, η αποκαταστατική δικαιοσύνη κάνει τη διαφορά. Η Fort McMurray, που έχει 68.000 κατοίκους, εφάρμοσε πρόγραμμα αποκαταστατικής δικαιοσύνης το 2022 για νέους. Αυτό το πρόγραμμα επεκτάθηκε και στους ενήλικες. Τα αποτελέσματα είναι εντυπωσιακά, καθώς οι επαναλαμβανόμενες παραβάσεις έχουν σχεδόν σχεδόν εξαφανιστεί.\n\nΑυτή η νέα προσέγγιση βοηθά τον κόσμο να κατανοήσει τις επιπτώσεις των πράξεών του και να αντιμετωπίσει τις συνέπειές τους. Είναι σημαντικό για την κοινότητα, καθώς μειώνει την ανάγκη φυλάκισης και προάγει την αποκατάσταση των παραβατών.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/rural-town-enthusiastically-switches-to-restorative-justice-and-recidivism-almost-vanishes/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/rural-town-enthusiastically-switches-to-restorative-justice-and-recidivism-almost-vanishes/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η αποκαταστατική δικαιοσύνη έχει σχεδόν εξαφανίσει τις επαναλαμβανόμενες παραβάσεις, προάγοντας την αποκατάσταση και τη συμφιλίωση στην κοινότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T14:00:39.000Z"
+    },
+    {
+      "id": "500dbd6e4896",
+      "title": "Overcoming 3D-Printer Challenges, MIT Produces an Electric Motor in Just 3 Hours",
+      "simpleTitle": "MIT Φτιάχνει Ηλεκτρικό Κινητήρα με Εκτυπωτή 3D σε 3 Ώρες",
+      "simpleText": "Ερευνητές από το MIT ανακοίνωσαν ότι δημιούργησαν έναν ηλεκτρικό κινητήρα με τη βοήθεια εκτυπωτή 3D σε μόλις τρεις ώρες. Αυτό είναι σημαντικό γιατί μπορεί να βοηθήσει σε εργοστάσια που χρειάζονται γρήγορες επισκευές. Αν ένα μηχάνημα σταματήσει λόγω σπασμένου κινητήρα, η παραγωγή μπορεί να καθυστερήσει και να κοστίσει χρήματα.\n\nΜε αυτή την τεχνολογία, οι εταιρείες μπορούν να φτιάχνουν τα εξαρτήματα στον τόπο εργασίας τους, μειώνοντας τον χρόνο και το κόστος. Αυτό αλλάζει την παραγωγή και βοηθά στο να παραμένουν τα εργοστάσια σε λειτουργία.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/overcoming-3d-printer-challenges-mit-produces-an-electric-motor-in-just-3-hours/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/overcoming-3d-printer-challenges-mit-produces-an-electric-motor-in-just-3-hours/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ανακάλυψη του MIT επιτρέπει ταχύτερες και φθηνότερες επισκευές, κάτι που είναι θετικό για τη βιομηχανία.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-22T12:00:09.000Z"
+    },
+    {
+      "id": "33086f5c38dc",
+      "title": "Teacher Wins $1M Prize for Turning India’s Slums Into Hundreds of Open-Air Classrooms",
+      "simpleTitle": "Καθηγητής κερδίζει 1 εκατομμύριο δολάρια για τη δημιουργία σχολικών αιθουσών σε παραγκουπόλεις της Ινδίας",
+      "simpleText": "Ένας Ινδός καθηγητής, ο Ρούμπλ Νάγκι, κέρδισε 1 εκατομμύριο δολάρια για το έργο του στη δημιουργία περισσότερων από 800 μαθησιακών κέντρων. Αυτά τα κέντρα βρίσκονται σε παραγκουπόλεις και χωριά στην Ινδία. Προσφέρουν ασφαλείς και ενθαρρυντικές αίθουσες διδασκαλίας για παιδιά που δεν έχουν πάει ποτέ σχολείο.\n\nΗ πρωτοβουλία αυτή είναι σημαντική, γιατί βοηθάει πολλούς μαθητές να αποκτήσουν εκπαίδευση σε δύσκολες συνθήκες. Οι αίθουσες αυτές παρέχουν την ευκαιρία σε παιδιά που το χρειάζονται πραγματικά να μάθουν και να προχωρήσουν στη ζωή τους.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/teacher-wins-1m-prize-for-turning-indias-slums-into-hundreds-of-open-air-classrooms/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/teacher-wins-1m-prize-for-turning-indias-slums-into-hundreds-of-open-air-classrooms/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση αφορά ένα θετικό επίτευγμα που βελτιώνει την εκπαίδευση για παιδιά σε παραγκουπόλεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-21T19:18:40.000Z"
+    },
+    {
+      "id": "7d2b06925b31",
+      "title": "High Schoolers and Seniors Build Unlikely Friendships Through Chair Volleyball",
+      "simpleTitle": "Φιλία Μέσω Βόλεϊ Καθιστών",
+      "simpleText": "Στην πόλη Belton του Τέξας, μια απλή δραστηριότητα βόλεϊ καθιστών έγινε πηγή φιλίας μεταξύ ηλικιωμένων και μαθητών. Οι ηλικιωμένοι, που ονομάζονται “Η Ομάδα Χτύπημα”, διοργανώνουν συχνά φιλικά παιχνίδια με την ομάδα βόλεϊ του Λυκείου Lake Belton. Αυτές οι δραστηριότητες φέρνουν κοντά τις δύο γενιές και δημιουργούν ιδιαίτερους δεσμούς.\n\nΑυτές οι συναντήσεις έχουν γίνει αγαπημένη συνήθεια και προσφέρουν χαρά στους συμμετέχοντες. Ενώνουν τους νέους με τους ηλικιωμένους και δημιουργούν ευχάριστες αναμνήσεις για όλους.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/high-schoolers-and-seniors-build-unlikely-friendship-through-chair-volleyball/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/high-schoolers-and-seniors-build-unlikely-friendship-through-chair-volleyball/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η δραστηριότητα βόλεϊ καθιστών φέρνει κοντά ηλικιωμένους και μαθητές, δημιουργώντας φιλίες και ευχάριστες αναμνήσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-21T16:46:53.000Z"
+    },
+    {
+      "id": "b70031f60fa4",
+      "title": "Newborn Giraffe With Distinctive Hair-do is Charming Visitors to Ohio Zoo–And They Gave Him the Perfect Name",
+      "simpleTitle": "Γέννηση μικρού καμηλοπάρδαλη με μοναδικά μαλλιά στην Οχάιο",
+      "simpleText": "Μια καμηλοπάρδαλη μόλις τεσσάρων εβδομάδων κλέβει τις εντυπώσεις στο ζωολογικό κήπο του Τολέντο στην Οχάιο. Το χαρακτηριστικό της είναι μια όμορφη τούφα μαλλιών. Οι επισκέπτες την αγαπούν και της έδωσαν το όνομα Εύγενιος, που ταιριάζει καλά με την προσωπικότητά της. Η καμηλοπάρδαλη γεννήθηκε στις 17 Ιανουαρίου και ζυγίζει 130 κιλά. Οι άνθρωποι τον παρατηρούν και τον χαίρονται, κάνοντάς τον διάσημο στα μέσα κοινωνικής δικτύωσης.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/newborn-giraffe-with-distinctive-hair-do-is-charming-visitors-to-ohio-zoo/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/newborn-giraffe-with-distinctive-hair-do-is-charming-visitors-to-ohio-zoo/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ιστορία περιγράφει τη χαρά και την αγάπη που φέρνει η νεαρή καμηλοπάρδαλη στους επισκέπτες του ζωολογικού κήπου.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-21T14:51:45.000Z"
+    },
+    {
+      "id": "eaff6acc4e9d",
+      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "simpleTitle": "Πρόβλεψη Εβδομάδας από τον Ρομπ Μπρέζνι",
+      "simpleText": "Ο Ρομπ Μπρέζνι, γνωστός αστρολόγος, έχει νέο βιβλίο με τίτλο \"Η Αστρολογία Είναι Πραγματική\". Σε αυτό, μοιράζεται τη σοφία του για να μας βοηθήσει να σκεφτόμαστε καλύτερα και να νιώθουμε πιο αισιόδοξα. Η στήλη του, \"Μηχανισμός Ελεύθερης Βούλησης στην Αστρολογία\", δημοσιεύεται σε πολλές εφημερίδες και περιοδικά. Αν θέλεις να διαβάσεις τις προβλέψεις του, μπορείς να τις βρεις στην εβδομαδιαία στήλη του.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-2-21-2026/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-2-21-2026/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Ο Ρομπ Μπρέζνι παρέχει σοφία και αισιοδοξία μέσω της αστρολογίας, προάγοντας μια θετική προσέγγιση στη ζωή.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-21T11:00:45.000Z"
     },
     {
       "id": "f724e63da9a8",
       "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-      "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
-      "simpleText": "Ο Keanu Reeves θα είναι η φωνή του χαρακτήρα John Wick σε ένα νέο βιντεοπαιχνίδι. Οι δημιουργοί του παιχνιδιού, Saber Interactive, ανακοίνωσαν ότι αυτό θα είναι κάτι ξεχωριστό. Ο κόσμος των βιντεοπαιχνιδιών θα συνδυαστεί με την τέχνη του κινηματογράφου. Είναι η πρώτη φορά που ο ηθοποιός αναλαμβάνει πλήρως τον ρόλο του σε ένα παιχνίδι. Αυτή η συνεργασία είναι σημαντική γιατί προσφέρει μια αυθεντική εμπειρία στους fans του John Wick. Δεν ξέρουμε ακόμα πότε ακριβώς θα κυκλοφορήσει το παιχνίδι.",
+      "simpleTitle": "Ο Keanu Reeves φτιάχνει φωνή για το νέο παιχνίδι John Wick",
+      "simpleText": "Ο Keanu Reeves συμμετέχει στο νέο video game John Wick, το οποίο δημιουργεί η εταιρεία Saber Interactive. Αυτό το παιχνίδι είναι σημαντικό γιατί ο Reeves δεν δανείζει μόνο την εμφάνισή του, αλλά και τη φωνή του, κάτι που δεν έχει γίνει ποτέ πριν σε ένα παιχνίδι αυτού του είδους. Η συμμετοχή του προσθέτει αυθεντικότητα στην εμπειρία παιχνιδιού.\n\nΑυτή η συνεργασία συνδυάζει κινηματογράφο και τεχνολογία, φέρνοντας νέες ευκαιρίες στη βιομηχανία της ψυχαγωγίας. Οι φαν του John Wick θα απολαύσουν την αναβαθμισμένη εμπειρία του αγαπημένου τους ήρωα σε ένα νέο ψηφιακό περιβάλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
       "sourceDomains": [
@@ -369,17 +687,63 @@
         }
       ],
       "category": "fun",
-      "categoryReason": "Η είδηση αφορά τον Keanu Reeves και τη συμμετοχή του σε ένα νέο video game που βασίζεται στον χαρακτήρα John Wick, κάτι που συνδυάζει στοιχεία κινηματογράφου και βιντεοπαιχνιδιών.",
+      "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves σε ένα video game, που συνδυάζει τον κινηματογράφο με τα ηλεκτρονικά παιχνίδια.",
       "isSensitive": false,
-      "imageUrl": "https://pixabay.com/get/g2ea00fde14d5257da0770ff5afb7ea9fe0c39cf181d2497922945868ce1122cca841c50ac37b0e327397873c11d4a7c5dbb28ea7bcb8d0e6679474f615c54ac2_1280.jpg",
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/john-wick-voice-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-21T09:46:00.000Z"
     },
     {
+      "id": "08b5bb25f265",
+      "title": "158 Giant Endangered Tortoises Released on Galápagos Island Where They’d Been Extinct for 180 Years",
+      "simpleTitle": "158 Χαμένες Χελώνες Επιστρέφουν στη Νήσο Φλορεάνα",
+      "simpleText": "Για πρώτη φορά ύστερα από 180 χρόνια, 158 χελώνες επιστρέφουν στη νήσο Φλορεάνα. Αυτές οι χελώνες είναι σπάνιες και ανήκουν σε αρχαία οικογένεια της νήσου. Η επιστροφή τους σηματοδοτεί μια μεγάλη προσπάθεια αποκατάστασης στο αρχιπέλαγος των Γκαλάπαγκος. Οι νέες χελώνες θα βρεθούν πάλι στο φυσικό τους περιβάλλον και αυτό είναι σημαντικό για την οικολογία της περιοχής. Η δράση αυτή μπορεί να βοηθήσει στη διατήρηση της βιοποικιλότητας των Γκαλάπαγκος.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/158-giant-endangered-tortoises-released-on-galapagos-island-for-first-time-in-180-years/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/158-giant-endangered-tortoises-released-on-galapagos-island-for-first-time-in-180-years/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η επιστροφή των χελωνών σηματοδοτεί θετική πρωτοβουλία για την αποκατάσταση της βιοποικιλότητας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T22:41:45.000Z"
+    },
+    {
+      "id": "1f068994be4f",
+      "title": "‘Astonishing” New Scimitar-Shaped Crested Dinosaur Discovered in Sahara Desert: ‘You might uncover a lost world’",
+      "simpleTitle": "Νέα ανακάλυψη: Δεινόσαυρος με σπαθί στο Σαχάρα",
+      "simpleText": "Επιστήμονες ανακάλυψαν έναν νέο τύπο δεινοσαύρου στην έρημο Σαχάρα. Αυτός ο δεινόσαυρος έχει σχήμα σπαθιού και ονομάζεται \"hell heron\". Είναι σημαντική αυτή η ανακάλυψη γιατί είναι η πρώτη απόδειξη για αυτή τη νέα ομάδα δεινοσαύρων εδώ και πάνω από 100 χρόνια.\n\nΟ δεινόσαυρος αυτός ζούσε μακριά από τη θάλασσα, αλλά έτρωγε ψάρια. Οι παλαιοντολόγοι πιστεύουν ότι μπορεί να φέρει νέες γνώσεις για τον κόσμο των δεινοσαύρων. Αυτό δείχνει πόσο ακόμα έχουμε να μάθουμε για την ιστορία της Γης.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/astonishing-new-scimitar-shaped-crested-dinosaur-discovered-in-sahara-desert/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/astonishing-new-scimitar-shaped-crested-dinosaur-discovered-in-sahara-desert/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ανακάλυψη ενός νέου δεινοσαύρου είναι θετική και προσφέρει ελπίδες για νέες γνώσεις.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T17:00:39.000Z"
+    },
+    {
       "id": "017b0e5fc632",
       "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-      "simpleTitle": "Κοινωνικός τουρισμός 2026: Νωρίτερη έναρξη και νέες ευκαιρίες",
-      "simpleText": "Το πρόγραμμα κοινωνικού τουρισμού για το 2026 ξεκινά νωρίς, στις 1 Μαΐου. Αυτό θα βοηθήσει πολλές οικογένειες στην Ελλάδα να απολαύσουν διακοπές την άνοιξη. Οι αιτήσεις θα γίνουν αμέσως μετά το Πάσχα. Το πρόγραμμα θέλει να στηρίξει τους πολίτες και την τοπική οικονομία με 50 εκατομμύρια ευρώ. Θα προσφέρει 300.000 επιταγές για διακοπές, ειδικά για ανθρώπους που το χρειάζονται. Είναι μια καλή ευκαιρία για να ξεκουραστούν και να χαλαρώσουν.",
+      "simpleTitle": "Νωρίτερα ξεκινά ο κοινωνικός τουρισμός 2026",
+      "simpleText": "Ο κοινωνικός τουρισμός για το 2026 στην Ελλάδα ξεκινά νωρίτερα, από την 1η Μαΐου. Αυτή η αλλαγή προσφέρει νέες δυνατότητες για καλοκαιρινές διακοπές σε πολλές οικογένειες. Οι αιτήσεις για συμμετοχή θα ανοίξουν αμέσως μετά το Πάσχα.\n\nΤο πρόγραμμα διαθέτει προϋπολογισμό 50 εκατομμυρίων ευρώ και θα προσφέρει 300.000 επιταγές, που θα βοηθήσουν κοινωνικές ομάδες που χρειάζονται υποστήριξη. Αυτό θα ενισχύσει και την τοπική οικονομία. Αν σε ενδιαφέρει, ενημερώσου εγκαίρως για την υποβολή αίτησης.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
       "sourceDomains": [
@@ -392,17 +756,63 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η είδηση αναφέρεται σε ένα πρόγραμμα κοινωνικού τουρισμού που προσφέρει ευκαιρίες για διακοπές σε οικογένειες και στηρίζει την τοπική οικονομία, γεγονός που έχει θετικό αντίκτυπο και βοηθά τους πολίτες να ξεκουραστούν.",
+      "categoryReason": "Η έναρξη του κοινωνικού τουρισμού προσφέρει ευχάριστες ευκαιρίες για διακοπές σε οικογένειες που το χρειάζονται.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/koinonikos-tourismos-2026-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-20T14:21:00.000Z"
     },
     {
+      "id": "a51c39a6305a",
+      "title": "Mountain Rescue Script Flipped as Hiker Saves Lost Dog Instead of a Dog Saving Hiker",
+      "simpleTitle": "Πεζοπόρος Σώζει Χαμένο Σκύλο σε Βουνό",
+      "simpleText": "Πρόσφατα, μια ομάδα πεζοπόρων στη Σκωτία έσωσε ένα σκύλο που είχε χαθεί. Ο σκύλος πέρασε τη νύχτα σε ένα κρύο κενό κάτω από την κορυφή του βουνού Fionn Bheinn. Πέντε σκύλοι και τέσσερις πεζοπόροι ανέβαιναν το βουνό κοντά στο Achnasheen, όταν οι σκύλοι τους έπεσαν σε αυτό το σημείο. Η πράξη αυτή θυμίζει πως οι ρόλοι συχνά αναστρέφονται στη φύση, με τα ζώα να βοηθούν τους ανθρώπους. Αυτή η περίπτωση είναι μια υπενθύμιση της σημασίας της φροντίδας και της προσοχής στα κατοικίδια.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mountain-rescue-script-flipped-as-hiker-saves-lost-dog-instead-of-a-dog-saving-a-hiker/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/mountain-rescue-script-flipped-as-hiker-saves-lost-dog-instead-of-a-dog-saving-a-hiker/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η είδηση περιγράφει μια θετική πράξη διάσωσης που αναστρέφει τους παραδοσιακούς ρόλους ανθρώπων και ζώων.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T14:00:35.000Z"
+    },
+    {
+      "id": "ef191d1b0960",
+      "title": "Watch Thai Cops Literally Go ‘Undercover’ Dancing as a Lion to Nab Suspect at Lunar New Year Fest",
+      "simpleTitle": "Ταϊλανδοί αστυνομικοί ντύνονται λιοντάρια για να συλλάβουν έναν ύποπτο",
+      "simpleText": "Στην Ταϊλάνδη, αστυνομικοί ντύθηκαν λιοντάρια για να συλλάβουν έναν ύποπτο κλέφτη τέχνης. Το περιστατικό συνέβη κατά τη διάρκεια των εορτασμών του Κινεζικού Νέου Έτους. Οι αστυνομικοί φορούσαν μια μεγάλη στολή λιονταριού και ξαφνικά πιάσανε τον ύποπτο. Αυτή η δράση των αστυνομικών κέρδισε την προσοχή του κοινού, αφού πολλοί την κατέγραψαν στα τηλέφωνά τους.\n\nΗ ιδέα αυτή είχε σκοπό να εκπλήξει τον ύποπτο και να διευκολύνει τη σύλληψη, αποδεικνύοντας ότι η δημιουργικότητα μπορεί να βοηθήσει στη δημόσια ασφάλεια.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/thai-cops-go-undercover-literally-as-lion-dancers-to-nab-suspect-at-lunar-new-year-festival/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/thai-cops-go-undercover-literally-as-lion-dancers-to-nab-suspect-at-lunar-new-year-festival/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η δημιουργική σύλληψη του υπόπτου από αστυνομικούς με τη χρήση παράδοσης προκαλεί θετικά συναισθήματα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T12:00:44.000Z"
+    },
+    {
       "id": "c54fb8d79f04",
       "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-      "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μηχανή 70 χρόνων",
-      "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια πολύ σπουδαία ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα με μεταχειρισμένα πράγματα. Η μηχανή, που είναι 70 χρόνων, είχε μέσα της ένα φιλμ που δεν είχε χρησιμοποιηθεί. Ο άνδρας πήγε τη μηχανή σε ειδικούς, οι οποίοι κατάφεραν να εμφανίσουν τις φωτογραφίες. Παρά τις δυσκολίες, οι εικόνες που βρήκαν ήταν καθαρές και έδειχναν στιγμές από το παρελθόν. Αυτή η ανακάλυψη είναι σημαντική, γιατί μας φέρνει κοντά σε ιστορίες και αναμνήσεις που είχαν ξεχαστεί.",
+      "simpleTitle": "Άνδρας βρήκε παλιό φιλμ σε vintage κάμερα",
+      "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια μοναδική ανακάλυψη. Όταν αγόρασε μια παλιά φωτογραφική μηχανή, ανακάλυψε μέσα της ένα φιλμ που ήταν κλεισμένο για 70 χρόνια. Η μηχανή, μοντέλο Zeiss Ikon Baby Ikonta από το 1930, κόστισε μόλις 13 δολάρια.\n\nΠαρέδωσε το φιλμ σε ειδικούς στο Salisbury Photo Center, οι οποίοι εργάστηκαν υπομονετικά για να το εμφανίσουν. Αν και το φιλμ είχε υποστεί φθορές, κατάφεραν να βγάλουν καθαρές εικόνες από το παρελθόν. Αυτή η ανακάλυψη μας θυμίζει τη μαγεία της φωτογραφίας και την αξία των παλιών αναμνήσεων.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
       "sourceDomains": [
@@ -415,17 +825,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ιστορία περιγράφει μια θετική και ευχάριστη ανακάλυψη από έναν ερασιτέχνη φωτογράφο, ο οποίος βρήκε άθικτο φιλμ μετά από 70 χρόνια, αποκαλύπτοντας καθαρές εικόνες από το παρελθόν. Αυτό συνιστά μια χαρούμενη ιστορία για την επανασύνδεση με αναμνήσεις.",
+      "categoryReason": "Η ανακάλυψη του φιλμ μετά από 70 χρόνια είναι μια θετική και συγκινητική ιστορία που φέρνει στο φως παλιές αναμνήσεις.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/old-photo-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-20T10:08:32.000Z"
     },
     {
       "id": "5fcb2e05ddd9",
       "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
-      "simpleTitle": "Έκθεση ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-      "simpleText": "Στο Μουσείο Μπενάκη Ελληνικού Πολιτισμού γίνεται μια ιδιαίτερη καλλιτεχνική εκδήλωση. Δύο σημαντικά έργα από τον 19ο αιώνα εκτίθενται εκεί. Αυτό περιλαμβάνει την «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και την «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Οι επισκέπτες έχουν την ευκαιρία να δουν αυτές τις εικόνες που μας φέρνουν αναμνήσεις από το παρελθόν. Η έκθεση είναι σημαντική γιατί μας συνδέει με την ελληνική πολιτιστική κληρονομιά. Δεν υπάρχουν ακόμα πληροφορίες για τις ημερομηνίες ή άλλες λεπτομέρειες.",
+      "simpleTitle": "Εμβληματικά έργα στην έκθεση του Μουσείου Μπενάκη",
+      "simpleText": "Στο Μουσείο Μπενάκη Ελληνικού Πολιτισμού, δύο σημαντικά έργα της ελληνικής ζωγραφικής προσελκύουν το ενδιαφέρον των επισκεπτών. Πρόκειται για την «Κουλουριώτισσα» από τον Πολυχρόνη Λεμπέση και την «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Αυτές οι δημιουργίες μας ταξιδεύουν σε άλλη εποχή, αναδεικνύοντας την ελληνική πολιτιστική κληρονομιά. Είναι μια σπουδαία ευκαιρία να γνωρίσουμε την τέχνη του 19ου αιώνα και να εκτιμήσουμε τις ρίζες μας. Συνιστούμε στους επισκέπτες να απολαύσουν αυτή την έκθεση και να συμμετάσχουν σε πολιτιστικές δραστηριότητες του μουσείου.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
       "sourceDomains": [
@@ -438,17 +848,109 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά μια πολιτιστική εκδήλωση που σχετίζεται με έργα τέχνης και την ελληνική πολιτιστική κληρονομιά, είναι κατάλληλη για την κατηγορία πολιτισμού.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική πολιτιστική έκθεση ελληνικής ζωγραφικής.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/kori-koulouriotissa-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-20T07:19:00.000Z"
     },
     {
+      "id": "e161f704cedd",
+      "title": "How a football cup run helped unite a town",
+      "simpleTitle": "Πώς το ποδοσφαιρικό Κύπελλο ενώνει μια πόλη",
+      "simpleText": "Ένα ποδοσφαιρικό Κύπελλο μπορεί να φέρει κοντά μια κοινότητα. Στην περίπτωση αυτής της πόλης, η ομάδα τους έκανε μια σπουδαία πορεία στην διοργάνωση. Αυτό δημιούργησε ενθουσιασμό και ένωσε τους κατοίκους.\n\nΟι φίλαθλοι σχημάτισαν σχέσεις και συνεργάστηκαν για τη στήριξη της ομάδας τους. Η επιτυχία στον αθλητισμό δεν φέρνει μόνο χαρά, αλλά και κοινωνική συνοχή. Η θετική αυτή εμπειρία δείχνει πόσο σημαντικός είναι ο αθλητισμός για τις κοινότητες.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/society/how-a-football-cup-run-helped-unite-a-town/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/society/how-a-football-cup-run-helped-unite-a-town/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η πορεία της ομάδας στο Κύπελλο ενίσχυσε την κοινωνική συνοχή και έφερε χαρά στην κοινότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-20T07:17:01.000Z"
+    },
+    {
+      "id": "0e644970e161",
+      "title": "A ‘Planet Parade’ is Now in Alignment for Viewing Our Solar System This Week",
+      "simpleTitle": "Ευκαιρία να Δεις Πλανήτες Μαζί στον Ουρανό",
+      "simpleText": "Την επόμενη Σάββατο, 28 Φεβρουαρίου, οι λάτρεις των άστρων θα μπορούν να δουν αρκετούς πλανήτες μαζί στον ουρανό. Οι πλανήτες που θα είναι ορατοί είναι ο Ερμής, η Αφροδίτη, ο Δίας, ο Κρόνος, ο Ουρανός και ο Ποσειδώνας.\n\nΑυτό το φαινόμενο λέγεται ευθυγράμμιση πλανητών και συμβαίνει όταν οι πλανήτες βρίσκονται στην ίδια γραμμή στον ουρανό. Είναι μια καλή ευκαιρία να παρατηρήσεις τους πλανήτες όλοι μαζί, κάτι που δεν συμβαίνει συχνά. Καλή παρατήρηση!",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/next-weekends-planet-parade-to-offer-best-chance-this-year-to-see-our-solar-system/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/next-weekends-planet-parade-to-offer-best-chance-this-year-to-see-our-solar-system/"
+        }
+      ],
+      "category": "fun",
+      "categoryReason": "Η παρατήρηση πλανητών είναι μια ευχάριστη και διασκεδαστική δραστηριότητα για τους λάτρεις του ουρανού.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-19T19:30:05.000Z"
+    },
+    {
+      "id": "9e5c2f508f22",
+      "title": "Mystery of Armenia’s Giant 6,000-Year-old ‘Dragon Stones’ is Finally Solved",
+      "simpleTitle": "Λύθηκε το μυστήριο των «Δράκων» της Αρμενίας",
+      "simpleText": "Έγινε μια λεπτομερής ανάλυση των «δράκων» της Αρμενίας, που είναι μεγάλες, προϊστορικές πέτρες. Αυτές οι πέτρες δημιουργήθηκαν μεταξύ 4200 και 4000 π.Χ. και έχουν βρεθεί στη χώρα. Οι «δράκοι» ζυγίζουν από 3 έως 8 τόνους και συνδέονται με τα μνημεία του Στόουνχεντζ.\n\nΗ ανάλυση αυτή είναι σημαντική γιατί βοηθά στην κατανόηση της ιστορίας και του πολιτισμού της περιοχής. Μέσα από τη μελέτη τους, οι επιστήμονες ελπίζουν να μάθουν περισσότερα για τη ζωή των ανθρώπων εκείνης της εποχής.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mystery-of-armenias-6000-year-old-dragon-stones-believed-solved/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/mystery-of-armenias-6000-year-old-dragon-stones-believed-solved/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η ανάλυση των προϊστορικών πέτρινων μνημείων σχετίζεται με την κατανόηση του πολιτισμού της Αρμενίας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-19T14:01:27.000Z"
+    },
+    {
+      "id": "16e2b7ff3a1d",
+      "title": "Thrift Shop Buried Under ‘Rags’ Gets Helping Hand from Designer Who Wants to Reduce Landfill Waste",
+      "simpleTitle": "Σχεδιάστρια βοηθά παλαιοπωλείο να αξιοποιήσει παλιά ρούχα",
+      "simpleText": "Ένα παλαιοπωλείο στην Αγγλία αντιμετώπισε το πρόβλημα πολλών παλιών ρούχων που είχαν δοθεί. Η σχεδιάστρια μόδας Βικτόρια Φορντ προσφέρθηκε να βοηθήσει. Θα μετατρέψει κάποια από αυτά τα ρούχα σε μοναδικά κομμάτια, που θα πωλούνται σε καλύτερες τιμές.\n\nΑυτή η προσπάθεια βοηθά το κατάστημα να κερδίζει και μειώνει τα απόβλητα. Η Βικτόρια θέλει να δείξει πως μπορούμε να επαναχρησιμοποιούμε τα ρούχα αντί να τα πετάμε.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/thrift-shop-buried-under-rags-gets-helping-hand-from-designer-who-wants-to-reduce-landfill-waste/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/thrift-shop-buried-under-rags-gets-helping-hand-from-designer-who-wants-to-reduce-landfill-waste/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η βοήθεια της σχεδιάστριας μειώνει τα απόβλητα και ενισχύει το παλαιοπωλείο, προάγοντας τη βιωσιμότητα.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-19T12:00:29.000Z"
+    },
+    {
       "id": "c186e848bd56",
       "title": "Επαναστατικό σπρέυ για την επούλωση πληγών σταματά την αιμορραγία σε ένα μόλις δευτερόλεπτο",
-      "simpleTitle": "Νέο σπρέι για γρήγορη επούλωση πληγών",
-      "simpleText": "Μια νέα ανακάλυψη από επιστήμονες μπορεί να αλλάξει την επείγουσα ιατρική. Δημιούργησαν ένα σπρέι που σταματά την αιμορραγία σε μόλις ένα δευτερόλεπτο. Αυτό το προϊόν είναι πολύ σημαντικό για άτομα που βρίσκονται σε κίνδυνο, όπως στρατιώτες ή σε καταστάσεις έκτακτης ανάγκης. Η γρήγορη εφαρμογή του σπρέι μπορεί να σώσει ζωές. Αυτή η νέα τεχνολογία προσφέρει ελπίδα και ασφάλεια σε δύσκολες στιγμές. Δεν υπάρχουν ακόμα περισσότερες λεπτομέρειες για το πότε θα χρησιμοποιηθεί ευρέως.",
+      "simpleTitle": "Νέο σπρέι σταματά γρήγορα την αιμορραγία",
+      "simpleText": "Μια νέα ανακάλυψη από το ινστιτούτο KAIST μπορεί να αλλάξει την επείγουσα ιατρική. Δημιούργησαν ένα ειδικό σπρέι που βοηθά στην άμεση επούλωση πληγών. Αυτό το σπρέι σταματά την αιμορραγία σε μόνο ένα δευτερόλεπτο.\n\nΗ νέα αυτή τεχνολογία είναι πολύ σημαντική, γιατί μπορεί να σώσει ζωές σε καταστάσεις έκτακτης ανάγκης, όπως σε πεδία μαχών. Οι γιατροί και οι διασώστες μπορούν να χρησιμοποιούν αυτό το σπρέι για να βοηθούν ανθρώπους που έχουν σοβαρές πληγές.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32119-neo-sprei-gia-tin-epoulosi-pligon-stamatia-tin-aimorragia-se-ena-defterolepto/",
       "sourceDomains": [
@@ -460,18 +962,18 @@
           "url": "https://thehappynews.gr/32119-neo-sprei-gia-tin-epoulosi-pligon-stamatia-tin-aimorragia-se-ena-defterolepto/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια νέα ιατρική ανακάλυψη που έχει σοβαρές επιπτώσεις στην επείγουσα ιατρική και τη δημόσια υγεία, καθώς μπορεί να σώσει ζωές σε επικίνδυνες καταστάσεις.",
+      "category": "happy",
+      "categoryReason": "Η νέα ανακάλυψη έχει τη δυνατότητα να σώσει ζωές σε επείγουσες καταστάσεις, παρέχοντας ελπίδα και θετικά αποτελέσματα.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/spray-wounds-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-19T09:10:00.000Z"
     },
     {
       "id": "5bff79bb47ab",
       "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-      "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος",
-      "simpleText": "Η Καταρίνα βαν Χέμεσεν είναι μια πολύ σημαντική καλλιτέχνης. Το 1548 ζωγράφισε τον εαυτό της, κάτι που είναι μοναδικό για γυναίκες της εποχής. Με το πινέλο στο χέρι, η Καταρίνα έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνες. Υπέγραψε το έργο της με την πρόταση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτό ήταν κάτι πολύ σπουδαίο για τη στιγμή εκείνη, γιατί έδειξε τη θέση της στις τέχνες. Η ιστορία της μας υπενθυμίζει τη δύναμη των γυναικών στη δημιουργία και πώς μπορούν να ρίξουν φως στον κόσμο της τέχνης.",
+      "simpleTitle": "Η Καταρίνα βαν Χέμεσεν και η γυναικεία δημιουργία το 1548",
+      "simpleText": "Η Καταρίνα βαν Χέμεσεν ήταν μια σπουδαία φλαμανδή ζωγράφος του 16ου αιώνα. Το 1548 δημιούργησε την αυτοπροσωπογραφία της, η οποία είναι η πρώτη γνωστή εικόνα γυναίκας καλλιτέχνη που ζωγραφίζει τον εαυτό της κατά τη δουλειά. Με το πινέλο στο χέρι, παρουσίασε τη δύναμη των γυναικών στην τέχνη, σε μια εποχή που οι δημιουργίες ήταν κυρίως ανδρικό προνόμιο.\n\nΑυτή η κίνηση ήταν σημαντική, καθώς διεκδίκησε τη θέση της Καταρίνας στον καλλιτεχνικό κόσμο. Υπέγραψε το έργο της με μια φράση στα λατινικά, δηλώνοντας την ταυτότητά της. Με αυτό τον τρόπο, ενίσχυσε τη φωνή των γυναικών καλλιτεχνών στην ιστορία.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
       "sourceDomains": [
@@ -484,17 +986,63 @@
         }
       ],
       "category": "culture",
-      "categoryReason": "Η είδηση αφορά την Καταρίνα βαν Χέμεσεν, μια σημαντική καλλιτέχνη που σφράγισε την ιστορία της τέχνης με την αυτοπροσωπογραφία της, κάνοντάς την κεντρικό θέμα πολιτισμού και καλλιτεχνικής έκφρασης.",
+      "categoryReason": "Η είδηση αφορά μια σημαντική καλλιτεχνική προσωπικότητα και την επίδρασή της στον πολιτισμό.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/ginaika-proti-prosopografia-1-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-19T06:24:00.000Z"
     },
     {
+      "id": "155acf69f80e",
+      "title": "Ancient Blocks From the Lighthouse of Alexandria Raised from the Sea to Better Understand Their Wondrous Construction",
+      "simpleTitle": "Αρχαίοι Βράχοι από το Φάρο της Αλεξάνδρειας Ανασύρθηκαν από τη Θάλασσα",
+      "simpleText": "Πρόσφατα, 22 μεγάλοι γρανίτες ανασύρθηκαν από το παλιό λιμάνι της Αλεξάνδρειας. Αυτοί οι βράχοι, που ζυγίζουν πολλές τόνους, ήταν μέρος του διάσημου Φάρου της Αλεξάνδρειας, ενός από τα επτά θαύματα του κόσμου. Οι βράχοι περιλαμβάνουν κολόνες και δοκούς που στήριζαν την είσοδο του φάρου.\n\nΗ ανακάλυψη αυτή είναι σημαντική γιατί βοηθά στην καλύτερη κατανόηση της κατασκευής του φάρου. Οι ερευνητές μπορούν να χρησιμοποιήσουν αυτές τις πληροφορίες για να μελετήσουν την αρχαία αρχιτεκτονική και να διατηρήσουν την ιστορία αυτού του εντυπωσιακού μνημείου.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/ancient-blocks-of-the-lighthouse-of-alexandria-raised-from-the-sea-to-inform-digitization-of-the-wonder/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/ancient-blocks-of-the-lighthouse-of-alexandria-raised-from-the-sea-to-inform-digitization-of-the-wonder/"
+        }
+      ],
+      "category": "culture",
+      "categoryReason": "Η ανακάλυψη των βράχων συνδέεται με την αρχαία αρχιτεκτονική και την ιστορία του Φάρου της Αλεξάνδρειας.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-18T19:30:47.000Z"
+    },
+    {
+      "id": "9a1564c8e5ca",
+      "title": "Hero Stranger Rescues Mom and 3 Kids After Car Flips into Canal Waters: ‘Nobody was around’",
+      "simpleTitle": "Άγνωστος ήρωας σώζει μητέρα και 3 παιδιά από κανάλι",
+      "simpleText": "Ένας άγνωστος ήρωας, ονόματι Casey Curtis, έσωσε μια μητέρα και τα τρία παιδιά της, όταν η μητέρα υπέστη κρίση και το αυτοκίνητό της έπεσε στο κανάλι. Το περιστατικό συνέβη κατά τη διάρκεια μιας ήρεμης Κυριακάτικης βόλτας. Ο Curtis είδε το αυτοκίνητο στο κανάλι και έσπευσε να βοηθήσει, καθώς δεν υπήρχε κανείς άλλος γύρω.\n\nΗ πράξη του δείχνει πόσο σημαντικό είναι να είμαστε προσεκτικοί και να βοηθάμε τους άλλους, ειδικά σε δύσκολες στιγμές. Αν βρεθείτε σε παρόμοια κατάσταση, θυμηθείτε να ζητήσετε βοήθεια αμέσως.",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/good-samaritan-rescues-mother-3-kids-after-car-crashes-into-canal-there-was-nobody-around/",
+      "sourceDomains": [
+        "goodnewsnetwork.org"
+      ],
+      "sources": [
+        {
+          "title": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/good-samaritan-rescues-mother-3-kids-after-car-crashes-into-canal-there-was-nobody-around/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η ιστορία ενός ήρωα που έσωσε μια μητέρα και τα παιδιά της έχει θετική προοπτική και δείχνει ηρωισμό.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-18T16:30:45.000Z"
+    },
+    {
       "id": "8472722905be",
       "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
-      "simpleTitle": "Νέος Οργανισμός για Γυναίκες στην Επιχειρηματικότητα",
-      "simpleText": "Το 2026, ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτή είναι μια σπουδαία στιγμή για τις γυναίκες που θέλουν να πετύχουν στον κόσμο των επιχειρήσεων. Ο οργανισμός έχει στόχο να βοηθήσει τις γυναίκες να αποκτήσουν ίσες ευκαιρίες και να αναδείξουν τις ικανότητές τους. Υποστηρίζεται από σημαντικούς φορείς, όπως ο ΕΒΕΑ και η ΕΕΕ. Είναι σημαντικό γιατί προσφέρει υποστήριξη και εκπαιδευτικά εργαλεία. Έτσι, οι γυναίκες θα έχουν περισσότερες δυνατότητες να ηγηθούν και να επιτύχουν.",
+      "simpleTitle": "Νέος Οργανισμός για γυναίκες επιχειρηματίες στην Ελλάδα",
+      "simpleText": "Ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας (ΟΓΕΗ) ιδρύθηκε τον Φεβρουάριο του 2026 στην Ελλάδα. Αυτός ο οργανισμός δημιουργεί ένα νέο περιβάλλον που θα στηρίζει τις γυναίκες στον επιχειρηματικό τομέα. Στόχος του είναι να προσφέρει τα απαραίτητα εργαλεία για να ενδυναμωθούν οι γυναίκες και να έχουν ίσες ευκαιρίες στην αγορά εργασίας.\n\nΗ πρωτοβουλία αυτή υποστηρίζεται από σημαντικούς οργανισμούς και επιχειρήσεις, δημιουργώντας έτσι ένα δίκτυο υποστήριξης. Είναι σημαντική γιατί προάγει την ισότητα και την καινοτομία, ενισχύοντας τη γυναικεία ηγεσία στην Ελλάδα.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
       "sourceDomains": [
@@ -507,17 +1055,17 @@
         }
       ],
       "category": "happy",
-      "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας αποτελεί μία θετική ιστορία που προάγει την ισότητα και ενδυναμώνει τις γυναίκες στον επιχειρηματικό τομέα. Αυτή η πρωτοβουλία φέρνει ελπίδα και δυνατότητες για το μέλλον.",
+      "categoryReason": "Η ίδρυση του Οργανισμού προάγει την ισότητα και ενδυναμώνει τις γυναίκες στον επιχειρηματικό τομέα.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/organismos-ginaikeias-epixeirimatikotitas-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T13:22:00.000Z"
     },
     {
       "id": "8e0ce3141016",
       "title": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε 10 σύγχρονα αντιβιοτικά",
-      "simpleTitle": "Ανακάλυψη παλιού βακτηρίου ανθεκτικού σε φάρμακα",
-      "simpleText": "Ερευνητές βρήκαν ένα αρχαίο βακτήριο που είναι 5.000 ετών. Είναι κρυμμένο σε ένα σπήλαιο στη Ρουμανία, κάτω από πάγο. Αυτό το βακτήριο μπορεί να αντέξει σε 10 σύγχρονα φάρμακα που χρησιμοποιούμε σήμερα για να σκοτώσουμε τα μικρόβια. Το βακτήριο ονομάζεται Psychrobacter. Αυτή η ανακάλυψη είναι σημαντική γιατί μας δείχνει πώς τα μικρόβια μπορούν να επιβιώνουν για πολύ καιρό. Δεν ξέρουμε ακόμα πώς μπορεί να επηρεάσει τη θεραπεία ασθενειών στον κόσμο.",
+      "simpleTitle": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε αντιβιοτικά",
+      "simpleText": "Ερευνητές ανακάλυψαν ένα αρχαίο βακτήριο που είχε παγιδευτεί κάτω από 5.000 χρόνια πάγου σε μια σπηλιά στη Ρουμανία. Το βακτήριο αυτό είναι ανθεκτικό σε 10 σύγχρονα αντιβιοτικά. Συγκεκριμένα, ανήκει στο γένος Psychrobacter και ονομάζεται Psychrobacter SC65A.3.\n\nΑυτή η ανακάλυψη είναι σημαντική για τη μικροβιολογία, καθώς μπορεί να μας βοηθήσει να κατανοήσουμε τη διαδικασία της αντοχής των βακτηρίων. Οι ερευνητές μπορεί να ανακαλύψουν νέες θεραπείες στο μέλλον.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/",
       "sourceDomains": [
@@ -530,17 +1078,40 @@
         }
       ],
       "category": "serious",
-      "categoryReason": "Η είδηση αφορά μια σημαντική επιστημονική ανακάλυψη σχετικά με την αντοχή βακτηρίων σε αντιβιοτικά, η οποία μπορεί να έχει σοβαρές επιπτώσεις στην υγειονομική περίθαλψη και τη θεραπεία ασθενειών.",
+      "categoryReason": "Η ανακάλυψη του ανθεκτικού βακτηρίου έχει σοβαρές επιπτώσεις για την ιατρική και τη μικροβιολογία.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/psychobacter-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T08:35:00.000Z"
     },
     {
+      "id": "370479ae7ccf",
+      "title": "Fish biology inspires laundry microplastics clean up",
+      "simpleTitle": "Βιολογία ψαριών βοηθά στον καθαρισμό μικροπλαστικών από πλυντήρια",
+      "simpleText": "Επιστήμονες ανακάλυψαν ότι η βιολογία των ψαριών μπορεί να βοηθήσει στον καθαρισμό των μικροπλαστικών που προέρχονται από τα πλυντήρια ρούχων. Αυτά τα μικροπλαστικά μολύνουν το νερό και βλάπτουν το περιβάλλον. Μέσα από αυτήν την έρευνα, οι ειδικοί προσπάθησαν να βρουν τρόπους να μειώσουν τη ρύπανση.\n\nΗ εφαρμογή αυτών των γνώσεων σε ειδικές συσκευές μπορεί να κάνει τα πλυντήρια πιο φιλικά προς το περιβάλλον. Αυτό είναι σημαντικό για την προστασία των υδάτινων οικοσυστημάτων. Αν έχετε πλυντήριο, μπορείτε να το χρησιμοποιείτε με τρόπο υπεύθυνο. Μην πλένετε ρούχα που περιέχουν μικροπλαστικά, αν μπορείτε.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/environment/fish-biology-inspires-laundry-microplastics-clean-up/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/environment/fish-biology-inspires-laundry-microplastics-clean-up/"
+        }
+      ],
+      "category": "serious",
+      "categoryReason": "Η είδηση αναφέρεται σε περιβαλλοντική έρευνα σχετικά με τη ρύπανση από μικροπλαστικά.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-18T07:00:39.000Z"
+    },
+    {
       "id": "faff9794ec94",
       "title": "Η επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια και τα απίστευτα οφέλη για το περιβάλλον",
-      "simpleTitle": "Ο ευρωπαϊκός βίσονας επιστρέφει στα Καρπάθια",
-      "simpleText": "Στα όμορφα βουνά των Καρπαθίων, ο ευρωπαϊκός βίσονας επέστρεψε. Αυτό το ζώο, που κάποτε είχε εξαφανιστεί, τώρα περιφέρεται ελεύθερα. Η παρουσία του είναι σημαντική γιατί βοηθά τη φύση. Οι βίσωνες ανανεώνουν το έδαφος και ενισχύουν τη ζωή γύρω τους. Η επιστροφή τους δείχνει πόσο καλές μπορεί να είναι οι συνεργασίες για το περιβάλλον. Αυτή η κίνηση δεν είναι μόνο χρήσιμη για τα ζώα, αλλά και για όλο το οικοσύστημα.",
+      "simpleTitle": "Ο ευρωπαϊκός βίσωνας επιστρέφει στα Καρπάθια",
+      "simpleText": "Στα Καρπάθια, ο ευρωπαϊκός βίσωνας επιστρέφει στη φύση, μετά από χρόνια εξαφάνισης. Η επιστροφή του είναι σημαντική γιατί βοηθά στην αποκατάσταση του οικοσυστήματος. Αυτά τα ζώα δρουν ως φυσικοί μηχανικοί, βελτιώνοντας το έδαφος και ενισχύοντας τη βιοποικιλότητα γύρω τους.\n\nΗ δράση αυτή δείχνει τη σημασία της συνεργασίας για την προστασία της φύσης. Οι βίσωνες συμβάλλουν στο να διατηρηθεί η ισορροπία στο περιβάλλον. Αυτό το γεγονός μας θυμίζει πόσο σημαντική είναι η φυσική ζωή για τον πλανήτη μας.",
       "sourceName": "The Happy News",
       "sourceUrl": "https://thehappynews.gr/32115-perivallontika-ofeli-apo-tin-epistrofi-ton-visonon-sta-karpathia/",
       "sourceDomains": [
@@ -552,466 +1123,653 @@
           "url": "https://thehappynews.gr/32115-perivallontika-ofeli-apo-tin-epistrofi-ton-visonon-sta-karpathia/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την επιστροφή του ευρωπαϊκού βίσωνα στα Καρπάθια, με σημαντικά περιβαλλοντικά οφέλη, κάτι που σχετίζεται με σοβαρά ζητήματα οικολογίας και βιωσιμότητας.",
+      "category": "happy",
+      "categoryReason": "Η επιστροφή του ευρωπαϊκού βίσωνα είναι θετική για το περιβάλλον και δείχνει τα οφέλη της συνεργασίας στην αναγέννηση της φύσης.",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/evropaikos-visonas-800x600.jpg",
       "videoUrl": null,
       "publishedAt": "2026-02-18T05:04:00.000Z"
     },
     {
-      "id": "724bacd1fa93",
-      "title": "Τετραήμερη εργασία στην Ολλανδία: Το μυστικό για μια ισορροπημένη και παραγωγική ζωή",
-      "simpleTitle": "Τετραήμερη εργασία στην Ολλανδία για πιο ευτυχισμένους ανθρώπους",
-      "simpleText": "Στην Ολλανδία, οι άνθρωποι εργάζονται πλέον μόνο τέσσερις ημέρες την εβδομάδα. Αυτό τους δίνει περισσότερο χρόνο για την οικογένεια και τις προσωπικές τους ανάγκες. Η χώρα έχει τον χαμηλότερο χρόνο εργασίας στην Ευρώπη, με περίπου 32 ώρες την εβδομάδα. Η νέα αυτή προσέγγιση δείχνει ότι οι λιγότερες ώρες εργασίας δεν σημαίνουν λιγότερη επιτυχία. Αντίθετα, οι Ολλανδοί αποδεικνύουν πως η καλή οργάνωση και η δημιουργικότητα φέρνουν καλύτερα αποτελέσματα. Αυτή η αλλαγή είναι σημαντική γιατί μπορεί να εμπνεύσει και άλλες χώρες να δώσουν προτεραιότητα στην ευημερία των εργαζομένων.",
-      "sourceName": "The Happy News",
-      "sourceUrl": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/",
+      "id": "8ca0c63a2bda",
+      "title": "How species spotting took hold of a rural community",
+      "simpleTitle": "Η παρατήρηση ειδών στην ύπαιθρο",
+      "simpleText": "Σε μια αγροτική κοινότητα, οι κάτοικοι άρχισαν να παρατηρούν διάφορα είδη ζώων και φυτών. Αυτή η δραστηριότητα βοηθά τους ανθρώπους να συνδεθούν με τη φύση και να μάθουν περισσότερα για το περιβάλλον τους. Οι συμμετοχές αυξάνονται καθώς οι κάτοικοι μοιράζονται τις παρατηρήσεις τους.\n\nΑυτή η πρωτοβουλία φέρνει την κοινότητα πιο κοντά και ενθαρρύνει τους ανθρώπους να γίνουν πιο προσεκτικοί στην προστασία της φύσης. Είναι σημαντικό να διατηρούμε τη βιοποικιλότητα στον τόπο μας. Μπορείτε κι εσείς να συμμετάσχετε φτιάχνοντας μια απλή λίστα με τα είδη που παρατηρείτε στη γύρω περιοχή σας.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/society/how-species-spotting-took-hold-rural-community/",
       "sourceDomains": [
-        "thehappynews.gr"
+        "positive.news"
       ],
       "sources": [
         {
-          "title": "The Happy News",
-          "url": "https://thehappynews.gr/32114-tetraimeri-ergasia-stin-ollandia-to-ollandiko-montelo-gia-tin-eytyxia/"
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/society/how-species-spotting-took-hold-rural-community/"
         }
       ],
-      "category": "serious",
-      "categoryReason": "Η είδηση αφορά την εφαρμογή της τετραήμερης εργασίας στην Ολλανδία, με σοβαρές επιπτώσεις στην ισορροπία εργασίας-ζωής και την οικονομία, κάτι που θίγει σημαντικά κοινωνικά και εργασιακά ζητήματα.",
+      "category": "happy",
+      "categoryReason": "Η δραστηριότητα παρατήρησης ειδών φέρνει την κοινότητα πιο κοντά και ενθαρρύνει τη προστασία της φύσης.",
       "isSensitive": false,
       "imageUrl": null,
       "videoUrl": null,
-      "publishedAt": "2026-02-17T20:13:04.000Z"
+      "publishedAt": "2026-02-17T14:54:50.000Z"
     },
     {
-      "id": "a6a8f011a16c",
-      "title": "Ο Ολυμπιακός κυνηγά την ανατροπή κόντρα στη Λεβερκούζεν με οδηγό την ιστορία του",
-      "simpleTitle": "Ο Ολυμπιακός θέλει μια μεγάλη νίκη εναντίον της Λεβερκούζεν",
-      "simpleText": "Ο Ολυμπιακός θα προσπαθήσει να κερδίσει τη Λεβερκούζεν. Αυτή η αγώνα θα γίνει το βράδυ της Τρίτης. Ο Ολυμπιακός έχει δείξει πολλές φορές ότι μπορεί να γυρίσει το σκορ σε δύσκολες καταστάσεις. Αυτή η ανατροπή θα είναι πολύ σημαντική για την ομάδα και τους φιλάθλους της. Όλοι περιμένουν με αγωνία να δουν τι θα συμβεί στο γήπεδο. Προσευχόμαστε να έχουμε καλή τύχη και να είμαστε ασφαλείς όλοι στο παιχνίδι.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/02/24/sports/o-olympiakos-kyniga-tin-anatropi-kontra-sti-leverkouzen-me-odigo-tin-istoria-tou/",
+      "id": "96fc3a266702",
+      "title": "Web of undersea cables poised to become marine observatory",
+      "simpleTitle": "Υποβρύχια καλώδια γίνονται παρατηρητήριο της θάλασσας",
+      "simpleText": "Υπάρχουν σχέδια να γίνουν υποβρύχια καλώδια παρατηρητήριο της θάλασσας. Αυτά τα καλώδια συνδέουν πολλές χώρες και ήδη βρίσκονται στον βυθό της θάλασσας.\n\nΑυτό θα επιτρέψει την παρακολούθηση σημαντικών πληροφοριών για το θαλάσσιο περιβάλλον. Η πρωτοβουλία αυτή μπορεί να βοηθήσει στην κατανόηση και προστασία των ωκεανών. Οι επιστήμονες θα μπορέσουν να συλλέγουν δεδομένα πιο εύκολα και γρήγορα.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/environment/conservation/web-of-undersea-cables-poised-to-become-marine-observatory/",
       "sourceDomains": [
-        "tovima.gr"
+        "positive.news"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/24/sports/o-olympiakos-kyniga-tin-anatropi-kontra-sti-leverkouzen-me-odigo-tin-istoria-tou/"
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/environment/conservation/web-of-undersea-cables-poised-to-become-marine-observatory/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η πρωτοβουλία για τη δημιουργία παρατηρητηρίου θαλάσσιων καλωδίων προάγει την κατανόηση και προστασία του θαλάσσιου περιβάλλοντος.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-16T10:23:21.000Z"
+    },
+    {
+      "id": "d118b63908b8",
+      "title": "Can wild swimming unite communities against single-use plastics?",
+      "simpleTitle": "Μπορεί η κολύμβηση στην φύση να ενώσει τις κοινότητες κατά των πλαστικών μίας χρήσης;",
+      "simpleText": "Κάποιες κοινότητες προσπαθούν να ενώσουν τους ανθρώπους μέσα από τη δραστηριότητα της κολύμβησης στη φύση. Αυτή η πρωτοβουλία βοηθά να ευαισθητοποιηθούν οι πολίτες για τα πλαστικά μίας χρήσης. Είναι μια ευκαιρία να μιλήσουν για τα προβλήματα που προκαλούν τα πλαστικά στο περιβάλλον.\n\nΗ συμμετοχή σε αυτές τις δράσεις προσφέρει επίσης τη δυνατότητα για συνεργασία και αλληλεγγύη. Μέσω αυτής της κίνησης, οι άνθρωποι συνειδητοποιούν τη σημασία της καθαριότητας στη φύση και προτείνουν λύσεις για την μείωση της ρύπανσης. Οι κοινότητες μπορούν να προγραμματίσουν κολυμβητικούς αγώνες και καθαρισμούς παραλιών.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/society/can-wild-swimming-unite-communities-single-use-plastics/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/society/can-wild-swimming-unite-communities-single-use-plastics/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η πρωτοβουλία για την κολύμβηση στη φύση προάγει τη συνεργασία και την ευαισθητοποίηση κατά των πλαστικών μίας χρήσης.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-14T08:00:28.000Z"
+    },
+    {
+      "id": "4d6764523e31",
+      "title": "What went right this week: a basic income for artists, plus more",
+      "simpleTitle": "Καλή είδηση για καλλιτέχνες: Βασικό εισόδημα",
+      "simpleText": "Αυτή την εβδομάδα, ανακοινώθηκε ένα νέο πρόγραμμα που δίνει βασικό εισόδημα στους καλλιτέχνες. Αυτό θα τους βοηθήσει να συνεχίσουν τη δουλειά τους και να δημιουργούν τέχνη. Το πρόγραμμα έχει στόχο να στηρίξει τη δημιουργικότητα και να αναγνωρίσει τη σημασία της τέχνης στην κοινωνία.\n\nΗ υποστήριξη αυτή είναι σημαντική, καθώς οι καλλιτέχνες συχνά αντιμετωπίζουν οικονομικές δυσκολίες. Το βασικό εισόδημα τους προσφέρει ασφάλεια και σταθερότητα για να εργάζονται με περισσότερη ηρεμία.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/lifestyle/arts/good-news-stories-from-week-7-of-2026/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/lifestyle/arts/good-news-stories-from-week-7-of-2026/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Το πρόγραμμα βασικού εισοδήματος για καλλιτέχνες ενισχύει τη δημιουργικότητα και υποστηρίζει τις οικονομικές τους ανάγκες.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-13T05:00:39.000Z"
+    },
+    {
+      "id": "f3164cbc3c60",
+      "title": "Novel paint could aid drought-hit regions",
+      "simpleTitle": "Νέα μπογιά μπορεί να βοηθήσει περιοχές με ξηρασία",
+      "simpleText": "Μια νέα ειδική μπογιά μπορεί να βοηθήσει περιοχές που πλήττονται από ξηρασία. Αυτή η μπογιά έχει σχεδιαστεί για να αντανακλά τον ήλιο και να διατηρεί τη θερμοκρασία κτίριων και εδαφών πιο χαμηλή. Αυτό είναι σημαντικό γιατί μπορεί να μειώσει την ανάγκη για νερό σε ξηρές περιοχές.\n\nΠολίτες και αγρότες που ζουν σε αυτές τις περιοχές μπορούν να επωφεληθούν. Μπορούν να χρησιμοποιούν αυτή τη μπογιά σε σπίτια και αγροκτήματα. Έτσι, θα χρειάζονται λιγότερο νερό για τη φροντίδα των φυτών τους.",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/",
+      "sourceDomains": [
+        "positive.news"
+      ],
+      "sources": [
+        {
+          "title": "Positive News UK",
+          "url": "https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/"
+        }
+      ],
+      "category": "happy",
+      "categoryReason": "Η νέα μπογιά μπορεί να βελτιώσει τις συνθήκες ζωής σε ξηρές περιοχές, προσφέροντας οφέλη στους πολίτες και τους αγρότες.",
+      "isSensitive": false,
+      "imageUrl": null,
+      "videoUrl": null,
+      "publishedAt": "2026-02-12T07:00:20.000Z"
+    },
+    {
+      "id": "ad29d25cfe23",
+      "title": "Οι οπαδοί του Ολυμπιακού «έντυσαν» το Λεβερκούζεν στα «ερυθρόλευκα» (vid)",
+      "simpleTitle": "Οπαδοί του Ολυμπιακού ντύνουν το Λεβερκούζεν στα «ερυθρόλευκα»",
+      "simpleText": "Ο Ολυμπιακός βρίσκεται στο Λεβερκούζεν για να παίξει με τη Μπάγερ. Ο αγώνας είναι πολύ σημαντικός, καθώς οι παίκτες προσπαθούν να ανατρέψουν την ήττα τους με 0-2 από τον πρώτο αγώνα. Το παιχνίδι θα ξεκινήσει στις 22:00.\n\nΟι οπαδοί του Ολυμπιακού έχουν συγκεντρωθεί ήδη στην πόλη και ντύνουν το Λεβερκούζεν με τα χρώματα της ομάδας τους. Τραγουδούν και δείχνουν την υποστήριξή τους, ελπίζοντας σε μια μεγάλη νίκη.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/24/sports/football/oi-opadoi-tou-olympiakou-entysan-to-leverkouzen-sta-erythroleyka-vid/",
+      "sourceDomains": [
+        "tanea.gr"
+      ],
+      "sources": [
+        {
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/24/sports/football/oi-opadoi-tou-olympiakou-entysan-to-leverkouzen-sta-erythroleyka-vid/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Η είδηση αφορά τον αγώνα του Ολυμπιακού με τη Λεβερκούζεν, εστιάζοντας στους αγωνιστικούς στόχους και τις πιθανότητες νίκης της ομάδας. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά τον αγώνα του Ολυμπιακού και την υποστήριξη των οπαδών του στην ομάδα. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://www.tanea.gr/wp-content/uploads/2026/02/6859792-1-1024x683.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-24T05:32:51.000Z"
+      "publishedAt": "2026-02-24T17:27:20.000Z"
     },
     {
-      "id": "443691667791",
-      "title": "Λεβερκούζεν – Ολυμπιακός: Η ώρα και το κανάλι του μεγάλου αγώνα",
-      "simpleTitle": "Ο Ολυμπιακός παίζει με τη Λεβερκούζεν",
-      "simpleText": "Ο Ολυμπιακός ετοιμάζεται για έναν σημαντικό αγώνα με τη Λεβερκούζεν. Θέλει να νικήσει για να προχωρήσει στους «16» της διοργάνωσης Champions League. Ο αγώνας θα γίνει σύντομα, αλλά δεν έχει ανακοινωθεί η ακριβής ημερομηνία. Μπορείτε να παρακολουθήσετε το παιχνίδι από την τηλεόραση. Είναι πολύ σημαντικός αγώνας και όλοι περιμένουν να δουν αν θα καταφέρει ο Ολυμπιακός να κάνει την ανατροπή.",
-      "sourceName": "TO BHMA",
-      "sourceUrl": "https://www.tovima.gr/2026/02/24/sports/leverkouzen-olympiakos-i-ora-kai-to-kanali-tou-megalou-agona/",
+      "id": "58265e71cddc",
+      "title": "Παναθηναϊκός – Παρί: Νέα ώρα έναρξης μετά από αίτημα του «τριφυλλιού»",
+      "simpleTitle": "Νέα ώρα για τον αγώνα Παναθηναϊκού με Παρί",
+      "simpleText": "Η EuroLeague αποδέχθηκε το αίτημα του Παναθηναϊκού για αλλαγή ώρας στον αγώνα με την Παρί. Ο αγώνας θα γίνει την Πέμπτη, 26 Φεβρουαρίου, και θα ξεκινήσει στις 21:45, αντί για την αρχική ώρα. Οι φίλαθλοι ζήτησαν αυτή την αλλαγή γιατί εκείνη την ώρα παίζεται και ποδοσφαιρικός αγώνας με τη Βικτόρια Πλζεν. Έτσι, οι fans μπορούν να παρακολουθήσουν και τα δύο παιχνίδια πιο εύκολα.",
+      "sourceName": "TA NEA",
+      "sourceUrl": "https://www.tanea.gr/2026/02/24/sports/basketball/panathinaikos-pari-nea-ora-enarksis-meta-apo-aitima-tou-trifylliou/",
       "sourceDomains": [
-        "tovima.gr"
+        "tanea.gr"
       ],
       "sources": [
         {
-          "title": "TO BHMA",
-          "url": "https://www.tovima.gr/2026/02/24/sports/leverkouzen-olympiakos-i-ora-kai-to-kanali-tou-megalou-agona/"
+          "title": "TA NEA",
+          "url": "https://www.tanea.gr/2026/02/24/sports/basketball/panathinaikos-pari-nea-ora-enarksis-meta-apo-aitima-tou-trifylliou/"
         }
       ],
       "category": "sports",
-      "categoryReason": "Το άρθρο αναφέρεται σε έναν σημαντικό αγώνα ποδοσφαίρου μεταξύ του Ολυμπιακού και της Λεβερκούζεν για το Champions League, που κατηγοριοποιείται σαφώς ως αθλητική είδηση. | rss_backfill",
+      "categoryReason": "Η είδηση αφορά αλλαγή ώρας αγώνα μπάσκετ λόγω των επιθυμιών των φιλάθλων για να παρακολουθήσουν και ποδοσφαιρικό αγώνα. | rss_backfill",
       "isSensitive": false,
-      "imageUrl": null,
+      "imageUrl": "https://www.tanea.gr/wp-content/uploads/2026/02/pari-pao-1024x683.jpg",
       "videoUrl": null,
-      "publishedAt": "2026-02-24T05:10:49.000Z"
+      "publishedAt": "2026-02-24T16:52:20.000Z"
     }
   ],
   "articlesByCategory": {
     "serious": [
       {
-        "id": "1a01cbf22b36",
-        "title": "Θεσσαλονίκη: Λήστεψαν πεζούς με την απειλή χρήσης γκλοπ, συνελήφθησαν τρεις νεαροί",
-        "simpleTitle": "Τρεις νεαροί λήστεψαν πεζούς στη Θεσσαλονίκη",
-        "simpleText": "Τρεις νέοι άνθρωποι συνελήφθησαν στη Θεσσαλονίκη μετά από μια ληστεία χθες τα ξημερώματα. Λήστεψαν δύο πεζούς, χρησιμοποιώντας γκλοπ, και αφαίρεσαν χρυσές αλυσίδες. Οι νεαροί είναι δύο Έλληνες 18 και 19 χρονών και ένας 19χρονος από την Αλβανία. Όταν τους βρήκαν οι αστυνομικοί, οι δράστες πέταξαν τις αλυσίδες και τα γκλοπ σε έναν κάδο. Ένας από αυτούς είχε και μικρή ποσότητα κάνναβης, ενώ ο Αλβανός βρέθηκε παράνομα στη χώρα. Είναι σημαντικό να είμαστε προσεκτικοί και να αποφεύγουμε επικίνδυνες καταστάσεις στις πόλεις μας.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-listepsan-pezous-me-tin-apeili-xrisis-gklop-synelifthisan-treis-nearoi/",
+        "id": "5dbaf22dfc69",
+        "title": "Σε Red Code ξανά ο Έβρος – Συναγερμός για νέες πλημμύρες",
+        "simpleTitle": "Επικίνδυνες πλημμύρες στον Έβρο",
+        "simpleText": "Ο Έβρος βρίσκεται και πάλι σε κατάσταση «Red Code» από σήμερα, 24 Φεβρουαρίου, λόγω υψηλού κινδύνου πλημμυρών. Η στάθμη του ποταμού έχει ανέβει πολύ, φτάνοντας 7,15 μέτρα, και είναι κρίσιμη η κατάσταση στο Πύθιο Διδυμοτείχου. Δεκάδες χιλιάδες στρέμματα έχουν ήδη πλημμυρίσει, και οι αρχές προχωρούν σε παρεμβάσεις για να προστατεύσουν τα κοντινά χωριά.\n\nΕίναι σημαντικό να παρακολουθείτε τις ανακοινώσεις από τις αρχές. Αν βρίσκεστε στην περιοχή, μπορείτε να κάνετε τα εξής:\n- Μείνετε μακριά από πλημμυρισμένες περιοχές.\n- Ενημερωθείτε για τις οδηγίες των τοπικών αρχών.\n- Ετοιμάστε ένα σχέδιο σε περίπτωση εκκένωσης.",
+        "sourceName": "ERT News, TO BHMA",
+        "sourceUrl": "https://www.ertnews.gr/roi-idiseon/se-red-code-ksana-o-evros-synagermos-gia-nees-plimmyres/",
         "sourceDomains": [
           "ertnews.gr",
-          "kathimerini.gr"
+          "tovima.gr"
         ],
         "sources": [
           {
             "title": "ERT News",
-            "url": "https://www.ertnews.gr/ert3/thessaloniki/thessaloniki-listepsan-pezous-me-tin-apeili-xrisis-gklop-synelifthisan-treis-nearoi/"
+            "url": "https://www.ertnews.gr/roi-idiseon/se-red-code-ksana-o-evros-synagermos-gia-nees-plimmyres/"
           },
           {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/society/564092752/thessaloniki-arpaxan-chryses-alysides-apo-pezoys-me-tin-apeili-gklop-treis-syllipseis/"
+            "title": "TO BHMA",
+            "url": "https://www.tovima.gr/2026/02/24/society/se-red-code-ksana-o-evros-synagermos-gia-nea-plimmyrika-fainomena/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά μια ληστεία με χρήση βίας στη Θεσσαλονίκη, η οποία έχει σοβαρές συνέπειες για την ασφάλεια των πολιτών και θίγει θέματα εγκληματικότητας.",
+        "categoryReason": "Η είδηση σχετικά με την πλημμύρα στον Έβρο και τον συναγερμό περιλαμβάνει σοβαρές προειδοποιήσεις για την ασφάλεια των κατοίκων.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/ge62271067cb9dc90d7ccc592c6ba55337e317c4faa7ada98619005670ba02c6a85110b9fc3ae2caae8fc21a47f1875a3c346ee31b9ee820ec80bdcc39fe20cc4_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-24T07:44:28.000Z"
+        "imageUrl": "https://www.ertnews.gr/wp-content/uploads/2026/02/evros4.jpg",
+        "videoUrl": "https://www.ert.gr/webtv/live-uni/vod/dt-uni-vod.php?f=2026/tv/02/2026-02-24-STAMATAKIS-ARAXNI.mp4&amp;bgimg=https://www.ert.gr/themata/photos/2026/2602/2026-02-24-STAMATAKIS-ARAXNI.jpg",
+        "publishedAt": "2026-02-24T15:27:52.000Z"
       },
       {
-        "id": "d444a0e9ec94",
-        "title": "Ο Πούτιν «δεν έχει πετύχει τους στόχους του», δήλωσε ο Ζελένσκι με αφορμή την 4η επέτειο από την έναρξη του πολέμου",
-        "simpleTitle": "Ζελένσκι: Ο Πούτιν δεν πέτυχε τους στόχους του",
-        "simpleText": "Ο Ουκρανός πρόεδρος, Βολοντίμιρ Ζελένσκι, είπε ότι ο Ρώσος πρόεδρος, Βλαντίμιρ Πούτιν, δεν έχει πετύχει τους στόχους του στο πόλεμο που γίνεται στην Ουκρανία. Η δήλωση αυτή έγινε με αφορμή την τέταρτη επέτειο από την αρχή της ρωσικής εισβολής. Ο Ζελένσκι τόνισε ότι οι Ουκρανοί παραμένουν δυνατοί και δεν έχουν σπάσει ψυχολογικά από την επίθεση.\n\nΗ Ουκρανία συνεχίζει να προσπαθεί για ειρήνη, που θα είναι ισχυρή και διαρκής. Σημαντικοί ηγέτες της Ευρώπης, όπως η πρόεδρος της Κομισιόν, Ούρσουλα φον ντερ Λάιεν, επισκέπτονται το Κίεβο για να δείξουν τη στήριξή τους στη χώρα. Οι δηλώσεις αυτές ενισχύουν την αναγνώριση του αγώνα των Ουκρανών.",
-        "sourceName": "ERT News, TA NEA, Protagon",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-den-exei-petyxei-tous-stoxous-tou-dilose-o-zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-tou-polemou/",
+        "id": "8e0ce3141016",
+        "title": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε 10 σύγχρονα αντιβιοτικά",
+        "simpleTitle": "Αρχαίο βακτήριο 5.000 ετών ανθεκτικό σε αντιβιοτικά",
+        "simpleText": "Ερευνητές ανακάλυψαν ένα αρχαίο βακτήριο που είχε παγιδευτεί κάτω από 5.000 χρόνια πάγου σε μια σπηλιά στη Ρουμανία. Το βακτήριο αυτό είναι ανθεκτικό σε 10 σύγχρονα αντιβιοτικά. Συγκεκριμένα, ανήκει στο γένος Psychrobacter και ονομάζεται Psychrobacter SC65A.3.\n\nΑυτή η ανακάλυψη είναι σημαντική για τη μικροβιολογία, καθώς μπορεί να μας βοηθήσει να κατανοήσουμε τη διαδικασία της αντοχής των βακτηρίων. Οι ερευνητές μπορεί να ανακαλύψουν νέες θεραπείες στο μέλλον.",
+        "sourceName": "The Happy News",
+        "sourceUrl": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/",
         "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr",
-          "protagon.gr"
+          "thehappynews.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/diethni/o-poutin-den-exei-petyxei-tous-stoxous-tou-dilose-o-zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-tou-polemou/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/24/world/zelenski-me-aformi-tin-4i-epeteio-apo-tin-enarksi-toy-polemoy-o-poytin-den-exei-petyxei-to/"
-          },
-          {
-            "title": "Protagon",
-            "url": "https://www.protagon.gr/epikairotita/zelenski-gia-ta-tessera-xronia-tou-polemou-o-poutin-den-petyxe-tous-stoxous-tou-44343317639"
+            "title": "The Happy News",
+            "url": "https://thehappynews.gr/32131-arxaio-vaktirio-5000-xronia/"
           }
         ],
         "category": "serious",
-        "categoryReason": "Η είδηση αφορά τις δηλώσεις του Ουκρανού προέδρου για την τρέχουσα κατάσταση του πολέμου και τις επιπτώσεις του, που αποτελούν σοβαρό κοινωνικό και πολιτικό ζήτημα.",
+        "categoryReason": "Η ανακάλυψη του ανθεκτικού βακτηρίου έχει σοβαρές επιπτώσεις για την ιατρική και τη μικροβιολογία.",
+        "isSensitive": false,
+        "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/psychobacter-800x600.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-18T08:35:00.000Z"
+      },
+      {
+        "id": "370479ae7ccf",
+        "title": "Fish biology inspires laundry microplastics clean up",
+        "simpleTitle": "Βιολογία ψαριών βοηθά στον καθαρισμό μικροπλαστικών από πλυντήρια",
+        "simpleText": "Επιστήμονες ανακάλυψαν ότι η βιολογία των ψαριών μπορεί να βοηθήσει στον καθαρισμό των μικροπλαστικών που προέρχονται από τα πλυντήρια ρούχων. Αυτά τα μικροπλαστικά μολύνουν το νερό και βλάπτουν το περιβάλλον. Μέσα από αυτήν την έρευνα, οι ειδικοί προσπάθησαν να βρουν τρόπους να μειώσουν τη ρύπανση.\n\nΗ εφαρμογή αυτών των γνώσεων σε ειδικές συσκευές μπορεί να κάνει τα πλυντήρια πιο φιλικά προς το περιβάλλον. Αυτό είναι σημαντικό για την προστασία των υδάτινων οικοσυστημάτων. Αν έχετε πλυντήριο, μπορείτε να το χρησιμοποιείτε με τρόπο υπεύθυνο. Μην πλένετε ρούχα που περιέχουν μικροπλαστικά, αν μπορείτε.",
+        "sourceName": "Positive News UK",
+        "sourceUrl": "https://www.positive.news/environment/fish-biology-inspires-laundry-microplastics-clean-up/",
+        "sourceDomains": [
+          "positive.news"
+        ],
+        "sources": [
+          {
+            "title": "Positive News UK",
+            "url": "https://www.positive.news/environment/fish-biology-inspires-laundry-microplastics-clean-up/"
+          }
+        ],
+        "category": "serious",
+        "categoryReason": "Η είδηση αναφέρεται σε περιβαλλοντική έρευνα σχετικά με τη ρύπανση από μικροπλαστικά.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-24T07:42:47.000Z"
-      },
-      {
-        "id": "a498c823038d",
-        "title": "Οι αρχές της Ρωσίας διενεργούν ποινική έρευνα σε βάρος του ιδρυτή του Telegram, Π. Ντούροφ",
-        "simpleTitle": "Ρωσία: Έρευνα για τον ιδρυτή του Telegram",
-        "simpleText": "Οι ρωσικές αρχές κάνουν έρευνα για τον Πάβελ Ντούροφ, που είναι ο ιδρυτής του Telegram. Η έρευνα αφορά τη βοήθειά του σε τρομοκρατικές ενέργειες. Οι πληροφορίες προέρχονται από μια κρατική εφημερίδα και την FSB, που είναι η ασφάλεια της Ρωσίας. Οι αρχές λένε ότι η πλατφόρμα Telegram δεν διαγράφει περιεχόμενο που θεωρούν επικίνδυνο. Η Telegram έχει πάνω από 1 δισεκατομμύριο χρήστες σε όλο τον κόσμο. Οι ρωσικές αρχές προσπαθούν να πείσουν τους πολίτες να χρησιμοποιούν μια άλλη υπερεθνική πλατφόρμα. Δεν έχουν δοθεί λεπτομέρειες για το τι θα συμβεί στη συνέχεια.",
-        "sourceName": "ERT News, Kathimerini",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/oi-arxes-tis-rosias-dienergoun-poiniki-ereyna-se-varos-tou-idryti-tou-telegram-p-ntourof/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/oi-arxes-tis-rosias-dienergoun-poiniki-ereyna-se-varos-tou-idryti-tou-telegram-p-ntourof/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/world/564092698/rosia-poiniki-ereyna-se-varos-toy-idryti-toy-telegram-pavel-ntoyrof/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά ποινική έρευνα σε βάρος του ιδρυτή του Telegram για την υποτιθέμενη διευκόλυνση τρομοκρατικών ενεργειών, που σχετίζεται με σοβαρά ζητήματα ασφάλειας και δικαιωμάτων, καθιστώντας τη σοβαρή και σημαντική.",
-        "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g26b145b5efaf7a438e86349808997d7e9445e3ad0b2e0ddb5576bfcbe356840a022cfe6dae25023cb37feab150548b9bc9573251a1780ea77670dd06d35ee818_1280.jpg",
-        "videoUrl": null,
-        "publishedAt": "2026-02-24T07:28:51.000Z"
-      },
-      {
-        "id": "0f7ecdc4f9c4",
-        "title": "Καιρός: Λιακάδα και άνοδος της θερμοκρασίας – Τοπικές βροχές στα βόρεια το απόγευμα",
-        "simpleTitle": "Καλοκαιρία με λίγες βροχές στα βόρεια",
-        "simpleText": "Σήμερα, Τρίτη 24 Φεβρουαρίου, ο καιρός είναι καλός με ήλιο στη μεγαλύτερη μέρος της χώρας. Από το απόγευμα, όμως, αναμένονται τοπικές βροχές κυρίως στη βόρεια Ελλάδα. Στο βορειοδυτικό μέρος, μπορεί να έχουμε και παγετό το πρωί, δηλαδή πολύ κρύο. Οι θερμοκρασίες θα κυμανθούν από 4 έως 19 βαθμούς Κελσίου, με τις πιο ζεστές περιοχές να είναι τα Δωδεκάνησα και η Κρήτη.\n\nΤα βόρεια θα έχουν ανέμους που θα φτάσουν μέχρι και 6 μποφόρ, δηλαδή αρκετά δυνατοί. Είναι καλό να προσέχουμε την αλλαγή του καιρού και να ντυθούμε ζεστά, αν βγούμε το βράδυ.",
-        "sourceName": "ERT News, News.gr",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/kairos-liakada-kai-anodos-tis-thermokrasias-topikes-vroxes-sta-voreia-to-apogeyma/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "news.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/kairos-liakada-kai-anodos-tis-thermokrasias-topikes-vroxes-sta-voreia-to-apogeyma/"
-          },
-          {
-            "title": "News.gr",
-            "url": "https://www.news.gr/ellada/article/4083091/allazi-o-keros-to-apogevma-me-vroches-sta-voria-ke-ptosi-tis-thermokrasia.html"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αφορά την πρόγνωση του καιρού, με πληροφορίες για κλιματικές συνθήκες και πιθανές αλλαγές, που είναι σοβαρές και σημαντικές για την καθημερινότητα των πολιτών.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-24T07:15:46.000Z"
-      },
-      {
-        "id": "99b13f35ab81",
-        "title": "Οι νέοι δασμοί 10% που ανήγγειλε ο Τραμπ τέθηκαν σε ισχύ",
-        "simpleTitle": "Νέοι δασμοί 10% στις ΗΠΑ",
-        "simpleText": "Οι Ηνωμένες Πολιτείες έχουν επιβάλει νέους δασμούς 10% σε κάποιες εισαγωγές. Η απόφαση αυτή ανακοινώθηκε από τον πρόεδρο Ντόναλντ Τραμπ και τέθηκε σε ισχύ πρόσφατα. Οι νέοι αυτοί δασμοί θέλουν να αντικαταστήσουν προηγούμενους, που ίσχυαν άδικα για κάποιες χώρες. Οι δασμοί αυτοί δεν αφορούν κάποιες ειδικές κατηγορίες προϊόντων, όπως αυτοκίνητα και χαλκό, που έχουν διαφορετικούς κανόνες. Η απόφαση αυτή μπορεί να επηρεάσει τις τιμές των προϊόντων για τους καταναλωτές και τις επιχειρήσεις. Είναι σημαντικό να παρακολουθούν οι εταιρείες πώς θα επηρεαστούν από αυτή την αλλαγή.",
-        "sourceName": "ERT News, Kathimerini, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/oi-neoi-dasmoi-10-pou-aniggeile-o-tramp-tethikan-se-isxy/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "kathimerini.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/oi-neoi-dasmoi-10-pou-aniggeile-o-tramp-tethikan-se-isxy/"
-          },
-          {
-            "title": "Kathimerini",
-            "url": "https://www.kathimerini.gr/economy/564092629/ipa-se-ischy-oi-neoi-dasmoi-tramp-ypsoys-10/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/24/economy/diethni/se-isxy-oi-neoi-dasmoi-10-poy-aniggeile-o-ntonalnt-tramp/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η είδηση αναφέρεται σε οικονομικά μέτρα, συγκεκριμένα σε νέους δασμούς που επιβλήθηκαν από την αμερικανική κυβέρνηση, γεγονός που έχει σημαντικές επιπτώσεις στην οικονομία και το εμπόριο.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-24T07:09:45.000Z"
-      },
-      {
-        "id": "8c60c87e72e9",
-        "title": "Επίσκεψη ΥΠΕΞ Γ. Γεραπετρίτη στην Ουάσινγκτον – Συνάντηση με το Μ. Ρούμπιο",
-        "simpleTitle": "Επίσκεψη Γ. Γεραπετρίτη στην Ουάσινγκτον",
-        "simpleText": "Ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης θα ταξιδέψει στην Ουάσινγκτον από τις 25 έως τις 27 Φεβρουαρίου. Εκεί θα συναντήσει τον υπουργό Εξωτερικών των ΗΠΑ, Μάρκο Ρούμπιο. Στην επίσκεψή του, θα μιλήσει σε μια ομάδα που ονομάζεται Atlantic Council και θα έχει επαφές με άλλους Αμερικανούς αξιωματούχους. Επίσης, θα παρακολουθήσει μια τελετή υπογραφής συμφωνίας ανάμεσα σε δύο εταιρείες. Αυτή η επίσκεψη είναι σημαντική για τις σχέσεις ανάμεσα στην Ελλάδα και τις Ηνωμένες Πολιτείες.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/episkepsi-ypeks-g-gerapetriti-stin-ouasingkton-synantisi-me-to-m-roumpio/",
-        "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
-        ],
-        "sources": [
-          {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/episkepsi-ypeks-g-gerapetriti-stin-ouasingkton-synantisi-me-to-m-roumpio/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/24/politics/ektakti-episkepsi-tou-giorgou-gerapetriti-stin-ouasigkton-tha-exei-synantisi-kai-me-ton-marko-roumpio/"
-          }
-        ],
-        "category": "serious",
-        "categoryReason": "Η επίσκεψη του Υπουργού Εξωτερικών Γ. Γεραπετρίτη στην Ουάσινγκτον αφορά σχέσεις μεταξύ κρατών και περιλαμβάνει σημαντικές πολιτικές επαφές.",
-        "isSensitive": false,
-        "imageUrl": null,
-        "videoUrl": null,
-        "publishedAt": "2026-02-24T07:04:47.000Z"
+        "publishedAt": "2026-02-18T07:00:39.000Z"
       }
     ],
     "happy": [
       {
-        "id": "017b0e5fc632",
-        "title": "Κοινωνικός τουρισμός 2026: όλα όσα πρέπει να γνωρίζετε για την πρόωρη έναρξη και τις νέες παροχές",
-        "simpleTitle": "Κοινωνικός τουρισμός 2026: Νωρίτερη έναρξη και νέες ευκαιρίες",
-        "simpleText": "Το πρόγραμμα κοινωνικού τουρισμού για το 2026 ξεκινά νωρίς, στις 1 Μαΐου. Αυτό θα βοηθήσει πολλές οικογένειες στην Ελλάδα να απολαύσουν διακοπές την άνοιξη. Οι αιτήσεις θα γίνουν αμέσως μετά το Πάσχα. Το πρόγραμμα θέλει να στηρίξει τους πολίτες και την τοπική οικονομία με 50 εκατομμύρια ευρώ. Θα προσφέρει 300.000 επιταγές για διακοπές, ειδικά για ανθρώπους που το χρειάζονται. Είναι μια καλή ευκαιρία για να ξεκουραστούν και να χαλαρώσουν.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/",
+        "id": "3a6b4042cc0f",
+        "title": "China’s Yangtze River Rebounds After Fishing Ban and Investment to Reemploy 200,000 Fishermen",
+        "simpleTitle": "Ανάκαμψη του ποταμού Γιανγκτσέ στην Κίνα",
+        "simpleText": "Ο ποταμός Γιανγκτσέ στην Κίνα δείχνει σημάδια βελτίωσης μετά από απαγόρευση αλιείας. Αυτή η απαγόρευση είναι μέρος ενός προγράμματος αποκατάστασης που διαρκεί 10 χρόνια και κοστίζει 2,7 δισεκατομμύρια δολάρια. Ο ποταμός υπέφερε για χρόνια από την υπεραλίευση και την ρύπανση.\n\nΜια νέα μελέτη δείχνει ότι η ποσότητα των ψαριών έχει τριπλασιαστεί. Αυτό είναι καλό νέο για την οικολογία και τους ανθρώπους που εξαρτώνται από τον ποταμό. Εκτός από την αποκατάσταση, το πρόγραμμα προσφέρει δουλειές σε 200.000 πρώην ψαράδες, βοηθώντας τους να επανενταχθούν στην κοινωνία.",
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/chinas-yangtze-river-rebounds-after-fishing-ban-and-investment-to-reemploy-200000-fishermen/",
         "sourceDomains": [
-          "thehappynews.gr"
+          "goodnewsnetwork.org"
         ],
         "sources": [
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32112-koinonikos-toyrismos-2026-aitiseis-proori-ekkinisi/"
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/chinas-yangtze-river-rebounds-after-fishing-ban-and-investment-to-reemploy-200000-fishermen/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η είδηση αναφέρεται σε ένα πρόγραμμα κοινωνικού τουρισμού που προσφέρει ευκαιρίες για διακοπές σε οικογένειες και στηρίζει την τοπική οικονομία, γεγονός που έχει θετικό αντίκτυπο και βοηθά τους πολίτες να ξεκουραστούν.",
+        "categoryReason": "Η βελτίωση του ποταμού Γιανγκτσέ και η δημιουργία θέσεων εργασίας για πρώην ψαράδες είναι θετικά νέα.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-20T14:21:00.000Z"
+        "publishedAt": "2026-02-24T14:00:53.000Z"
       },
       {
-        "id": "c54fb8d79f04",
-        "title": "Άνδρας αγόρασε vintage φωτογραφική μηχανή και βρήκε μέσα άθικτο φιλμ μετά από 70 χρόνια",
-        "simpleTitle": "Άνδρας βρήκε παλιές φωτογραφίες σε μηχανή 70 χρόνων",
-        "simpleText": "Ένας ερασιτέχνης φωτογράφος στην Αγγλία έκανε μια πολύ σπουδαία ανακάλυψη. Αγόρασε μια παλιά φωτογραφική μηχανή από κατάστημα με μεταχειρισμένα πράγματα. Η μηχανή, που είναι 70 χρόνων, είχε μέσα της ένα φιλμ που δεν είχε χρησιμοποιηθεί. Ο άνδρας πήγε τη μηχανή σε ειδικούς, οι οποίοι κατάφεραν να εμφανίσουν τις φωτογραφίες. Παρά τις δυσκολίες, οι εικόνες που βρήκαν ήταν καθαρές και έδειχναν στιγμές από το παρελθόν. Αυτή η ανακάλυψη είναι σημαντική, γιατί μας φέρνει κοντά σε ιστορίες και αναμνήσεις που είχαν ξεχαστεί.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/",
+        "id": "8786455d0fcd",
+        "title": "Ancient Egyptian Artifacts Recovered Just One Day After Being Stolen from Australian Museum",
+        "simpleTitle": "Αντικείμενα της Αρχαίας Αιγύπτου βρέθηκαν μόλις μία μέρα μετά την κλοπή τους",
+        "simpleText": "Η αστυνομία στο Κουίνσλαντ ανακοίνωσε ότι βρέθηκαν 4 πολύτιμα αντικείμενα από την αρχαία Αίγυπτο. Αυτά είχαν κλαπεί από μουσείο στις αρχές του μήνα. Οι πολλές κλοπές σε μουσεία προκάλεσαν ανησυχία, αλλά η γρήγορη δράση της αστυνομίας απέτρεψε να προστεθεί αυτή η κλοπή στη λίστα των άλυτων περιστατικών.\n\nΤο συμβάν συνέβη περίπου στις 3 τα ξημερώματα. Η επαναφορά αυτών των αντικειμένων είναι σημαντική γιατί διατηρεί την πολιτιστική κληρονομιά και την ιστορία ασφαλή.",
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/ancient-egyptian-artifacts-recovered-just-one-day-after-being-stolen-from-australian-museum/",
         "sourceDomains": [
-          "thehappynews.gr"
+          "goodnewsnetwork.org"
         ],
         "sources": [
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32193-andras-agora-palia-mixani-film-athikto-70-xronia/"
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/ancient-egyptian-artifacts-recovered-just-one-day-after-being-stolen-from-australian-museum/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ιστορία περιγράφει μια θετική και ευχάριστη ανακάλυψη από έναν ερασιτέχνη φωτογράφο, ο οποίος βρήκε άθικτο φιλμ μετά από 70 χρόνια, αποκαλύπτοντας καθαρές εικόνες από το παρελθόν. Αυτό συνιστά μια χαρούμενη ιστορία για την επανασύνδεση με αναμνήσεις.",
+        "categoryReason": "Η γρήγορη επαναφορά των κλεμμένων αντικειμένων υπερτονίζει την προστασία της πολιτιστικής κληρονομιάς και αποτελεί θετική εξέλιξη.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-20T10:08:32.000Z"
+        "publishedAt": "2026-02-24T12:00:42.000Z"
       },
       {
-        "id": "8472722905be",
-        "title": "Οργανισμός γυναικείας επιχειρηματικότητας: ένα νέο κεφάλαιο για την ηγεσία στην Ελλάδα",
-        "simpleTitle": "Νέος Οργανισμός για Γυναίκες στην Επιχειρηματικότητα",
-        "simpleText": "Το 2026, ιδρύθηκε ο Οργανισμός Γυναικείας Επιχειρηματικότητας και Ηγεσίας στην Ελλάδα. Αυτή είναι μια σπουδαία στιγμή για τις γυναίκες που θέλουν να πετύχουν στον κόσμο των επιχειρήσεων. Ο οργανισμός έχει στόχο να βοηθήσει τις γυναίκες να αποκτήσουν ίσες ευκαιρίες και να αναδείξουν τις ικανότητές τους. Υποστηρίζεται από σημαντικούς φορείς, όπως ο ΕΒΕΑ και η ΕΕΕ. Είναι σημαντικό γιατί προσφέρει υποστήριξη και εκπαιδευτικά εργαλεία. Έτσι, οι γυναίκες θα έχουν περισσότερες δυνατότητες να ηγηθούν και να επιτύχουν.",
+        "id": "a7109f016996",
+        "title": "Εθνικό Αστεροσκοπείο Αθηνών: Έλληνες επιστήμονες παρατηρούν τη θεαματική μεταμόρφωση ενός υπεργίγαντα αστέρα",
+        "simpleTitle": "Έλληνες επιστήμονες μελετούν έναν γίγαντα αστέρα",
+        "simpleText": "Μια σημαντική ανακάλυψη έγινε από την ομάδα του Εθνικού Αστεροσκοπείου Αθηνών. Οι επιστήμονες παρακολουθούν τις εντυπωσιακές αλλαγές του υπεργίγαντα αστέρα WOH G64, που βρίσκεται στον γαλαξία Μεγάλο Νέφος του Μαγγελάνου.\n\nΑυτή η παρατήρηση είναι μοναδική γιατί δίνει την ευκαιρία στους επιστήμονες να κατανοήσουν καλύτερα την εξέλιξη των άστρων. Αυτές οι μελέτες δείχνουν πως το διάστημα είναι ζωντανός και συνεχώς μεταβαλλόμενος οργανισμός. Αυτό είναι σημαντικό για την κατανόησή μας σχετικά με το Σύμπαν.",
         "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/",
+        "sourceUrl": "https://thehappynews.gr/32211-ethniko-asteroskopeio-athinon-ypergigantas-astera-woh-g64/",
         "sourceDomains": [
           "thehappynews.gr"
         ],
         "sources": [
           {
             "title": "The Happy News",
-            "url": "https://thehappynews.gr/32126-organismos-gynaikeias-epixeirimatikotitas-kai-iglesias-2026/"
+            "url": "https://thehappynews.gr/32211-ethniko-asteroskopeio-athinon-ypergigantas-astera-woh-g64/"
           }
         ],
         "category": "happy",
-        "categoryReason": "Η ίδρυση του Οργανισμού Γυναικείας Επιχειρηματικότητας και Ηγεσίας αποτελεί μία θετική ιστορία που προάγει την ισότητα και ενδυναμώνει τις γυναίκες στον επιχειρηματικό τομέα. Αυτή η πρωτοβουλία φέρνει ελπίδα και δυνατότητες για το μέλλον.",
+        "categoryReason": "Η είδηση ανακοινώνει μια θετική και εντυπωσιακή ανακάλυψη στον τομέα της αστρονομίας.",
+        "isSensitive": false,
+        "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/ipergigantas-asteras-woh-g64-800x600.jpg",
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T10:41:27.000Z"
+      },
+      {
+        "id": "245a1333834d",
+        "title": "Good News in History, February 24",
+        "simpleTitle": "Επέτειοι Σημαντικών Γεγονότων στις 24 Φεβρουαρίου",
+        "simpleText": "Στις 24 Φεβρουαρίου γιορτάζουμε την επέτειο από τη γέννηση του Winslow Homer, ενός σπουδαίου ζωγράφου του 19ου αιώνα. Γεννήθηκε στη Βοστώνη και η μητέρα του τον ενέπνευσε με τις καλλιτεχνικές της ικανότητες. Η καριέρα του εξελίχθηκε κυρίως όταν μετακόμισε στο Μέιν.\n\nΑυτή η ημέρα θυμίζει και άλλες σημαντικές στιγμές στην ιστορία, όπως η ανακάλυψη της ηλεκτρόλυσης για την παραγωγή αλουμινίου πριν από 140 χρόνια, που κατέστησε το υλικό πιο προσιτό για όλους. Οι εξελίξεις αυτές έχουν επηρεάσει τη ζωή μας προς το καλύτερο, κάνοντάς την πιο άνετη και δημιουργική.",
+        "sourceName": "Good News Network, Good News Network, Good News Network, Good News Network, Good News Network, Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events070224/",
+        "sourceDomains": [
+          "goodnewsnetwork.org"
+        ],
+        "sources": [
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070224/"
+          },
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070223/"
+          },
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070222/"
+          },
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070221/"
+          },
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070220/"
+          },
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/events070219/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η αναφορά σε θετικές ιστορίες και εξελίξεις στην ιστορία φέρνει αισιοδοξία.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-18T13:22:00.000Z"
+        "publishedAt": "2026-02-24T08:00:00.000Z"
+      },
+      {
+        "id": "38ad48a123ab",
+        "title": "Infecting Mosquitoes with Natural Bacteria Lowered Dengue Risk by 70% in Citywide Experiment",
+        "simpleTitle": "Λιγότεροι κίνδυνοι από δάγκειο πυρετό λόγω βακτηρίων στους κουνουπιών",
+        "simpleText": "Σε μια πρόσφατη μελέτη, επιστήμονες χρησιμοποίησαν φυσικά βακτήρια για να μειώσουν τους κινδύνους από τον δάγκειο πυρετό. Ο δάγκειος πυρετός είναι μια σοβαρή λοίμωξη που μεταδίδεται από κουνουπιές και μπορεί να προκαλέσει σοβαρά προβλήματα υγείας.\n\nΟι ερευνητές στο Σινγκαπούρο είδαν ότι η μέθοδος αυτή δεν βοηθά μόνο στη μείωση του αριθμού των κουνουπιών, αλλά και των περιπτώσεων του δάγκειου πυρετού στην περιοχή κατά 70%. Είναι μια ενθαρρυντική είδηση, καθώς μπορεί να βελτιώσει την υγεία των κατοίκων και να μειώσει την εξάπλωση της ασθένειας.",
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/infecting-mosquitoes-with-natural-bacteria-lowered-dengue-risk-by-70-in-citywide-experiment/",
+        "sourceDomains": [
+          "goodnewsnetwork.org"
+        ],
+        "sources": [
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/infecting-mosquitoes-with-natural-bacteria-lowered-dengue-risk-by-70-in-citywide-experiment/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η μέθοδος μείωσης των περιστατικών δάγκειου πυρετού είναι θετική και ενθαρρυντική για την υγεία των κατοίκων.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-23T19:30:42.000Z"
+      },
+      {
+        "id": "88aa307e57c2",
+        "title": "Diseased Rhino Recovers After Florida Zoo Team Surprise Locals with Pioneering Veterinary Tactics",
+        "simpleTitle": "Ο αναγεννημένος ρινόκερος στη Φλόριντα με την βοήθεια ντόπιων",
+        "simpleText": "Μια ομάδα από ζωολογικό κήπο της Φλόριντα ταξίδεψε στη Ζιμπάμπουε για να βοηθήσει έναν λευκό ρινόκερο που είχε πρόβλημα με μολυσμένο μάτι. Η ομάδα χρησιμοποίησε καινοτόμες μεθόδους για να κερδίσει την εμπιστοσύνη του ζώου, όπως θα έκανε με ένα άλογο ή ένα σκύλο. Έτσι, κατάφεραν να του δώσουν σταγόνες ματιών και να του παρέχουν την κατάλληλη φροντίδα.\n\nΗ στήριξη αυτής της ομάδας είναι σημαντική, καθώς δείχνει πώς μπορούμε να βοηθήσουμε τα άγρια ζώα. Η επιτυχία της διαδικασίας φέρνει ελπίδα και στους ντόπιους που επιθυμούν να δουν πιο υγιή ζώα στη φύση.",
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/diseased-rhino-recovers-after-florida-zoo-team-surprise-locals-with-pioneering-veterinary-tactics/",
+        "sourceDomains": [
+          "goodnewsnetwork.org"
+        ],
+        "sources": [
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/diseased-rhino-recovers-after-florida-zoo-team-surprise-locals-with-pioneering-veterinary-tactics/"
+          }
+        ],
+        "category": "happy",
+        "categoryReason": "Η επιτυχής φροντίδα του ρινόκερου φέρνει ελπίδα και χαρά στους ντόπιους.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-23T16:30:11.000Z"
       }
     ],
     "sports": [
       {
-        "id": "a6a8f011a16c",
-        "title": "Ο Ολυμπιακός κυνηγά την ανατροπή κόντρα στη Λεβερκούζεν με οδηγό την ιστορία του",
-        "simpleTitle": "Ο Ολυμπιακός θέλει μια μεγάλη νίκη εναντίον της Λεβερκούζεν",
-        "simpleText": "Ο Ολυμπιακός θα προσπαθήσει να κερδίσει τη Λεβερκούζεν. Αυτή η αγώνα θα γίνει το βράδυ της Τρίτης. Ο Ολυμπιακός έχει δείξει πολλές φορές ότι μπορεί να γυρίσει το σκορ σε δύσκολες καταστάσεις. Αυτή η ανατροπή θα είναι πολύ σημαντική για την ομάδα και τους φιλάθλους της. Όλοι περιμένουν με αγωνία να δουν τι θα συμβεί στο γήπεδο. Προσευχόμαστε να έχουμε καλή τύχη και να είμαστε ασφαλείς όλοι στο παιχνίδι.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/02/24/sports/o-olympiakos-kyniga-tin-anatropi-kontra-sti-leverkouzen-me-odigo-tin-istoria-tou/",
+        "id": "ad29d25cfe23",
+        "title": "Οι οπαδοί του Ολυμπιακού «έντυσαν» το Λεβερκούζεν στα «ερυθρόλευκα» (vid)",
+        "simpleTitle": "Οπαδοί του Ολυμπιακού ντύνουν το Λεβερκούζεν στα «ερυθρόλευκα»",
+        "simpleText": "Ο Ολυμπιακός βρίσκεται στο Λεβερκούζεν για να παίξει με τη Μπάγερ. Ο αγώνας είναι πολύ σημαντικός, καθώς οι παίκτες προσπαθούν να ανατρέψουν την ήττα τους με 0-2 από τον πρώτο αγώνα. Το παιχνίδι θα ξεκινήσει στις 22:00.\n\nΟι οπαδοί του Ολυμπιακού έχουν συγκεντρωθεί ήδη στην πόλη και ντύνουν το Λεβερκούζεν με τα χρώματα της ομάδας τους. Τραγουδούν και δείχνουν την υποστήριξή τους, ελπίζοντας σε μια μεγάλη νίκη.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/24/sports/football/oi-opadoi-tou-olympiakou-entysan-to-leverkouzen-sta-erythroleyka-vid/",
         "sourceDomains": [
-          "tovima.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/24/sports/o-olympiakos-kyniga-tin-anatropi-kontra-sti-leverkouzen-me-odigo-tin-istoria-tou/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/24/sports/football/oi-opadoi-tou-olympiakou-entysan-to-leverkouzen-sta-erythroleyka-vid/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Η είδηση αφορά τον αγώνα του Ολυμπιακού με τη Λεβερκούζεν, εστιάζοντας στους αγωνιστικούς στόχους και τις πιθανότητες νίκης της ομάδας. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά τον αγώνα του Ολυμπιακού και την υποστήριξη των οπαδών του στην ομάδα. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://www.tanea.gr/wp-content/uploads/2026/02/6859792-1-1024x683.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-02-24T05:32:51.000Z"
+        "publishedAt": "2026-02-24T17:27:20.000Z"
       },
       {
-        "id": "443691667791",
-        "title": "Λεβερκούζεν – Ολυμπιακός: Η ώρα και το κανάλι του μεγάλου αγώνα",
-        "simpleTitle": "Ο Ολυμπιακός παίζει με τη Λεβερκούζεν",
-        "simpleText": "Ο Ολυμπιακός ετοιμάζεται για έναν σημαντικό αγώνα με τη Λεβερκούζεν. Θέλει να νικήσει για να προχωρήσει στους «16» της διοργάνωσης Champions League. Ο αγώνας θα γίνει σύντομα, αλλά δεν έχει ανακοινωθεί η ακριβής ημερομηνία. Μπορείτε να παρακολουθήσετε το παιχνίδι από την τηλεόραση. Είναι πολύ σημαντικός αγώνας και όλοι περιμένουν να δουν αν θα καταφέρει ο Ολυμπιακός να κάνει την ανατροπή.",
-        "sourceName": "TO BHMA",
-        "sourceUrl": "https://www.tovima.gr/2026/02/24/sports/leverkouzen-olympiakos-i-ora-kai-to-kanali-tou-megalou-agona/",
+        "id": "58265e71cddc",
+        "title": "Παναθηναϊκός – Παρί: Νέα ώρα έναρξης μετά από αίτημα του «τριφυλλιού»",
+        "simpleTitle": "Νέα ώρα για τον αγώνα Παναθηναϊκού με Παρί",
+        "simpleText": "Η EuroLeague αποδέχθηκε το αίτημα του Παναθηναϊκού για αλλαγή ώρας στον αγώνα με την Παρί. Ο αγώνας θα γίνει την Πέμπτη, 26 Φεβρουαρίου, και θα ξεκινήσει στις 21:45, αντί για την αρχική ώρα. Οι φίλαθλοι ζήτησαν αυτή την αλλαγή γιατί εκείνη την ώρα παίζεται και ποδοσφαιρικός αγώνας με τη Βικτόρια Πλζεν. Έτσι, οι fans μπορούν να παρακολουθήσουν και τα δύο παιχνίδια πιο εύκολα.",
+        "sourceName": "TA NEA",
+        "sourceUrl": "https://www.tanea.gr/2026/02/24/sports/basketball/panathinaikos-pari-nea-ora-enarksis-meta-apo-aitima-tou-trifylliou/",
         "sourceDomains": [
-          "tovima.gr"
+          "tanea.gr"
         ],
         "sources": [
           {
-            "title": "TO BHMA",
-            "url": "https://www.tovima.gr/2026/02/24/sports/leverkouzen-olympiakos-i-ora-kai-to-kanali-tou-megalou-agona/"
+            "title": "TA NEA",
+            "url": "https://www.tanea.gr/2026/02/24/sports/basketball/panathinaikos-pari-nea-ora-enarksis-meta-apo-aitima-tou-trifylliou/"
           }
         ],
         "category": "sports",
-        "categoryReason": "Το άρθρο αναφέρεται σε έναν σημαντικό αγώνα ποδοσφαίρου μεταξύ του Ολυμπιακού και της Λεβερκούζεν για το Champions League, που κατηγοριοποιείται σαφώς ως αθλητική είδηση. | rss_backfill",
+        "categoryReason": "Η είδηση αφορά αλλαγή ώρας αγώνα μπάσκετ λόγω των επιθυμιών των φιλάθλων για να παρακολουθήσουν και ποδοσφαιρικό αγώνα. | rss_backfill",
         "isSensitive": false,
-        "imageUrl": null,
+        "imageUrl": "https://www.tanea.gr/wp-content/uploads/2026/02/pari-pao-1024x683.jpg",
         "videoUrl": null,
-        "publishedAt": "2026-02-24T05:10:49.000Z"
+        "publishedAt": "2026-02-24T16:52:20.000Z"
       }
     ],
     "screen": [],
     "culture": [
       {
-        "id": "13a5d30a02f1",
-        "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 24 Φεβρουαρίου",
-        "simpleTitle": "Ποιοι γιορτάζουν σήμερα, 24 Φεβρουαρίου",
-        "simpleText": "Σήμερα, 24 Φεβρουαρίου, είναι μια γιορτή για τον Ιωάννη, ο οποίος είναι Άγιος και ονομάζεται Πρόδρομος. Αυτή η γιορτή είναι η Πρώτη και Δευτέρα εύρεσις της τιμίας κεφαλής του. Δεν γιορτάζει κάποιο γνωστό όνομα. Ο Ιωάννης είχε μια ενδιαφέρουσα ζωή. Ήταν ένας Άγιος που βάπτισε τον Χριστό στον ποταμό Ιορδάνη.\n\nΕίναι σημαντικό να θυμόμαστε τους Αγίους και τις ιστορίες τους, γιατί μας διδάσκουν πράγματα για την πίστη. Για σήμερα, οι ώρες της ημέρας είναι: η ανατολή του ήλιου είναι στις 07:03 και η δύση στις 18:13.",
-        "sourceName": "ERT News, TA NEA",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/eortologio-poioi-giortazoun-simera-24-fevrouariou-2/",
+        "id": "10123bc21516",
+        "title": "Ταξίδι στο Κέντρο της Μουσικής – Βαλς: Συναυλία με την Κρατική Ορχήστρα Αθηνών στο Μέγαρο Μουσικής",
+        "simpleTitle": "Συναυλία Βαλς με την Κρατική Ορχήστρα στο Μέγαρο Μουσικής",
+        "simpleText": "Η Κρατική Ορχήστρα Αθηνών επιστρέφει στο Μέγαρο Μουσικής με μια δημοφιλή συναυλία που ονομάζεται \"Βαλς\". Αυτή η εκδήλωση είναι μία από τις μεγαλύτερες επιτυχίες της ορχήστρας και το κοινό την περιμένει κάθε χρόνο. Η συναυλία θα γίνει σύντομα και σηματοδοτεί την αρχή της άνοιξης.\n\nΕίναι μια καλή ευκαιρία να απολαύσετε ωραία μουσική και να νιώσετε τη χαρά της στιγμής. Προγραμματίστε να παρακολουθήσετε τη συναυλία και αφεθείτε στη μαγεία της μουσικής.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/taxidi-sto-kentro-tis-moysikis-vals-synaylia-me-tin-kratiki-orxistra-athinon-sto-megaro-moysikis/",
         "sourceDomains": [
-          "ertnews.gr",
-          "tanea.gr"
+          "culturenow.gr"
         ],
         "sources": [
           {
-            "title": "ERT News",
-            "url": "https://www.ertnews.gr/eidiseis/eortologio-poioi-giortazoun-simera-24-fevrouariou-2/"
-          },
-          {
-            "title": "TA NEA",
-            "url": "https://www.tanea.gr/2026/02/24/greece/eortologio-poioi-giortazoun-simera-24-fevrouariou/"
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/taxidi-sto-kentro-tis-moysikis-vals-synaylia-me-tin-kratiki-orxistra-athinon-sto-megaro-moysikis/"
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια θρησκευτική γιορτή και την ιστορία του Αγίου Ιωάννη, που είναι πολιτιστικό και θρησκευτικό θέμα, ταιριάζει καλύτερα στην κατηγορία του πολιτισμού.",
+        "categoryReason": "Η συναυλία της Κρατικής Ορχήστρας Αθηνών είναι πολιτιστική εκδήλωση που εστιάζει στη μουσική.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-24T05:05:34.000Z"
+        "publishedAt": "2026-02-24T17:01:36.000Z"
       },
       {
-        "id": "5fcb2e05ddd9",
-        "title": "Το Μουσείο Μπενάκη υποδέχεται εμβληματικά έργα της ελληνικής ζωγραφικής",
-        "simpleTitle": "Έκθεση ελληνικής ζωγραφικής στο Μουσείο Μπενάκη",
-        "simpleText": "Στο Μουσείο Μπενάκη Ελληνικού Πολιτισμού γίνεται μια ιδιαίτερη καλλιτεχνική εκδήλωση. Δύο σημαντικά έργα από τον 19ο αιώνα εκτίθενται εκεί. Αυτό περιλαμβάνει την «Κουλουριώτισσα» του Πολυχρόνη Λεμπέση και την «Κόρη με εθνική ενδυμασία» του Ιωάννη Δούκα. Οι επισκέπτες έχουν την ευκαιρία να δουν αυτές τις εικόνες που μας φέρνουν αναμνήσεις από το παρελθόν. Η έκθεση είναι σημαντική γιατί μας συνδέει με την ελληνική πολιτιστική κληρονομιά. Δεν υπάρχουν ακόμα πληροφορίες για τις ημερομηνίες ή άλλες λεπτομέρειες.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/",
+        "id": "0590014c2a5a",
+        "title": "Η Αισθητική της Απώθησης: Ομαδική έκθεση στο Mosaico Fine Art Studio",
+        "simpleTitle": "Ομαδική έκθεση στο Mosaico Fine Art Studio",
+        "simpleText": "Στο Mosaico Fine Art Studio γίνεται μια ομαδική έκθεση με τίτλο \"Η Αισθητική της Απώθησης\". Αυτή η έκθεση προσκαλεί τους επισκέπτες να εξερευνήσουν έργα τέχνης που αφορούν την απώθηση και τις επιθυμίες.\n\nΗ εκδήλωση είναι μια ευκαιρία για τους καλλιτέχνες να παρουσιάσουν τις απόψεις τους μέσα από τη δημιουργικότητά τους. Οι επισκέπτες μπορούν να θαυμάσουν τα έργα και να σκεφτούν την έννοια πίσω από αυτά. Είναι σημαντικό να συμμετέχετε και να υποστηρίξετε τη σύγχρονη τέχνη στην περιοχή μας.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/h-aisthitiki-tis-apothisis-omadiki-ekthesi-sto-mosaico-fine-art-studio/",
         "sourceDomains": [
-          "thehappynews.gr"
+          "culturenow.gr"
         ],
         "sources": [
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32122-mousio-mpenaki-2026-koulouriotissa-kori-me-ethniki-endymasia/"
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/h-aisthitiki-tis-apothisis-omadiki-ekthesi-sto-mosaico-fine-art-studio/"
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά μια πολιτιστική εκδήλωση που σχετίζεται με έργα τέχνης και την ελληνική πολιτιστική κληρονομιά, είναι κατάλληλη για την κατηγορία πολιτισμού.",
+        "categoryReason": "Η έκθεση αφορά τη σύγχρονη τέχνη και πολιτιστικές εκδηλώσεις.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-20T07:19:00.000Z"
+        "publishedAt": "2026-02-24T16:03:38.000Z"
       },
       {
-        "id": "5bff79bb47ab",
-        "title": "Καταρίνα βαν Χέμεσεν: η πρωτοπόρος που ζωγράφισε τη γυναικεία δημιουργία το 1548",
-        "simpleTitle": "Καταρίνα βαν Χέμεσεν: η πρώτη γυναίκα ζωγράφος",
-        "simpleText": "Η Καταρίνα βαν Χέμεσεν είναι μια πολύ σημαντική καλλιτέχνης. Το 1548 ζωγράφισε τον εαυτό της, κάτι που είναι μοναδικό για γυναίκες της εποχής. Με το πινέλο στο χέρι, η Καταρίνα έδειξε ότι οι γυναίκες μπορούν να είναι καλλιτέχνες. Υπέγραψε το έργο της με την πρόταση «Εγώ η Καταρίνα βαν Χέμεσεν ζωγράφισα τον εαυτό μου». Αυτό ήταν κάτι πολύ σπουδαίο για τη στιγμή εκείνη, γιατί έδειξε τη θέση της στις τέχνες. Η ιστορία της μας υπενθυμίζει τη δύναμη των γυναικών στη δημιουργία και πώς μπορούν να ρίξουν φως στον κόσμο της τέχνης.",
-        "sourceName": "The Happy News",
-        "sourceUrl": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/",
+        "id": "0e198df31dd9",
+        "title": "Ο Γιάννης Κασέτας με το άλμπουμ “Far” στο Theatre Of The No",
+        "simpleTitle": "Ο Γιάννης Κασέτας παρουσιάζει το άλμπουμ “Far”",
+        "simpleText": "Ο Γιάννης Κασέτας, συνθέτης και σαξοφωνίστας, θα εμφανιστεί στο Theatre Of The No. Θα παρουσιάσει το νέο του άλμπουμ που έχει τον τίτλο \"Far\". Αυτή είναι μια ευκαιρία για τους φίλους της μουσικής να ακούσουν καινούργια κομμάτια και να απολαύσουν τη ζωντανή του ερμηνεία. Αν σου αρέσει η μουσική, μπορείς να παρακολουθήσεις την εκδήλωση και να ζήσεις μια όμορφη εμπειρία.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/o-giannis-kasetas-me-to-almpoym-far-sto-theatre-of-the-no/",
         "sourceDomains": [
-          "thehappynews.gr"
+          "culturenow.gr"
         ],
         "sources": [
           {
-            "title": "The Happy News",
-            "url": "https://thehappynews.gr/32127-proti-gynaika-zografos-aytoprosopografia-katarina-van-xemesen/"
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/o-giannis-kasetas-me-to-almpoym-far-sto-theatre-of-the-no/"
           }
         ],
         "category": "culture",
-        "categoryReason": "Η είδηση αφορά την Καταρίνα βαν Χέμεσεν, μια σημαντική καλλιτέχνη που σφράγισε την ιστορία της τέχνης με την αυτοπροσωπογραφία της, κάνοντάς την κεντρικό θέμα πολιτισμού και καλλιτεχνικής έκφρασης.",
+        "categoryReason": "Είναι ένα μουσικό γεγονός που περιλαμβάνει συναυλία και πολιτιστική εκδήλωση.",
         "isSensitive": false,
         "imageUrl": null,
         "videoUrl": null,
-        "publishedAt": "2026-02-19T06:24:00.000Z"
+        "publishedAt": "2026-02-24T15:24:47.000Z"
+      },
+      {
+        "id": "43fb6d30dda2",
+        "title": "Διαγωνισμοί – Κερδίστε δωρεάν προσκλήσεις από 28 Φεβρουαρίου έως 6 Μαρτίου",
+        "simpleTitle": "Διαγωνισμοί για δωρεάν προσκλήσεις στην Αθήνα",
+        "simpleText": "Από τις 28 Φεβρουαρίου έως τις 6 Μαρτίου, μπορείτε να συμμετάσχετε σε διαγωνισμούς του CultureNow. Οι διαγωνισμοί προσφέρουν δωρεάν προσκλήσεις για πολλές εκδηλώσεις στην Αθήνα. Είναι μια καλή ευκαιρία να απολαύσετε διάφορες πολιτιστικές δραστηριότητες. Αν σας ενδιαφέρει, μπορείτε να συμμετάσχετε και να προσπαθήσετε να κερδίσετε.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/diagonismoi-kerdiste-dorean-proskliseis-apo-28-fevroyarioy-eos-6-martioy/",
+        "sourceDomains": [
+          "culturenow.gr"
+        ],
+        "sources": [
+          {
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/diagonismoi-kerdiste-dorean-proskliseis-apo-28-fevroyarioy-eos-6-martioy/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Ο διαγωνισμός προσφέρει προσκλήσεις για πολιτιστικές εκδηλώσεις, εστιασμένος σε πολιτιστικές δραστηριότητες.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T14:59:59.000Z"
+      },
+      {
+        "id": "5618333cdf75",
+        "title": "Φαίδρα, του Γιάννη Ρίτσου σε σκηνοθεσία Κωνσταντίνου Κωνσταντόπουλου στο θέατρο Αλκμήνη",
+        "simpleTitle": "Παράσταση \"Φαίδρα\" στο θέατρο Αλκμήνη",
+        "simpleText": "Ο Κωνσταντίνος Κωνσταντόπουλος σκηνοθετεί την παράσταση \"Φαίδρα\" του Γιάννη Ρίτσου. Η παράσταση ανεβαίνει στο θέατρο Αλκμήνη. Είναι μια σπουδαία ευκαιρία να δούμε ένα κλασικό έργο. Η \"Φαίδρα\" έχει ενδιαφέρον θέμα που αφορά τις σχέσεις και τα συναισθήματα. Αν ενδιαφέρεστε για το θέατρο, μπορείτε να παρακολουθήσετε αυτή την παράσταση.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/faidra-toy-gianni-ritsoy-se-skinothesia-konstantinoy-konstantopoyloy-sto-theatro-alkmini/",
+        "sourceDomains": [
+          "culturenow.gr"
+        ],
+        "sources": [
+          {
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/faidra-toy-gianni-ritsoy-se-skinothesia-konstantinoy-konstantopoyloy-sto-theatro-alkmini/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Η είδηση αφορά μια θεατρική παράσταση, που σχετίζεται με τον πολιτισμό.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T14:37:22.000Z"
+      },
+      {
+        "id": "ae7b6a9d15e6",
+        "title": "Το Spyros Manesis Trio ξανά στο Half Note Jazz Club",
+        "simpleTitle": "Το Spyros Manesis Trio επιστρέφει στο Half Note Jazz Club",
+        "simpleText": "Ο Σπύρος Μάνεσης και το τρίο του εμφανίζονται ξανά στο Half Note Jazz Club. Η συναυλία θα πραγματοποιηθεί σύντομα και αναμένεται να φέρει κοντά τους λάτρεις της τζαζ μουσικής. Είναι μια καλή ευκαιρία να απολαύσει κανείς καλές ερμηνείες σε μια ζεστή ατμόσφαιρα. Αν σου αρέσει η τζαζ, σκέψου να συμμετάσχεις και να ζήσεις αυτή την εμπειρία.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/to-spyros-manesis-trio-xana-sto-half-note-jazz-club/",
+        "sourceDomains": [
+          "culturenow.gr"
+        ],
+        "sources": [
+          {
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/to-spyros-manesis-trio-xana-sto-half-note-jazz-club/"
+          }
+        ],
+        "category": "culture",
+        "categoryReason": "Αφορά μουσική εκδήλωση που προβάλλει την τζαζ κουλτούρα.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T14:12:08.000Z"
       }
     ],
     "fun": [
       {
+        "id": "aa5a2b79d47f",
+        "title": "Ο Τομ Χανκς πρόκειται να υποδυθεί τον Αβραάμ Λίνκολν στην ταινία «Lincoln in the Bardo»",
+        "simpleTitle": "Ο Τομ Χανκς θα παίξει τον Αβραάμ Λίνκολν σε νέα ταινία",
+        "simpleText": "Ο Τομ Χανκς θα αναλάβει τον ρόλο του Αβραάμ Λίνκολν στην επόμενη ταινία «Lincoln in the Bardo». Η ταινία σκηνοθετείται από τον Ντιουκ Τζόνσον. Είναι σημαντικό γιατί ο Λίνκολν είναι μία εμβληματική προσωπικότητα της αμερικανικής ιστορίας. Η ταινία αυτή αναμένεται να προσφέρει μια νέα οπτική για τη ζωή του σημαντικού αυτού προεδρικού προσώπου.",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/o-tom-xanks-prokeitai-na-ypodythei-ton-avraam-linkoln-stin-tainia-lincoln-in-the-bardo/",
+        "sourceDomains": [
+          "culturenow.gr"
+        ],
+        "sources": [
+          {
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/o-tom-xanks-prokeitai-na-ypodythei-ton-avraam-linkoln-stin-tainia-lincoln-in-the-bardo/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η είδηση αφορά την επερχόμενη ταινία και τον πρωταγωνιστή της.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T13:57:44.000Z"
+      },
+      {
+        "id": "45e75e740a06",
+        "title": "The Mr and Mrs Bubble Show: Παράσταση με Σαπουνόφουσκες στο Ρεκτιφιέ!",
+        "simpleTitle": "Παράσταση με Σαπουνόφουσκες στο Ρεκτιφιέ",
+        "simpleText": "Η δημοφιλής παράσταση \"The Mr and Mrs Bubble Show\" έρχεται στο Ρεκτιφιέ. Είναι μια διασκεδαστική παράσταση με σαπουνόφουσκες που ενθουσιάζει μικρούς και μεγάλους. Η εκδήλωση θα προσφέρει μοναδικές στιγμές και εκπλήξεις για όλους τους θεατές. Είναι μια ωραία ευκαιρία να απολαύσετε ποιοτικό θέαμα και να περάσετε ευχάριστα. Αν σας αρέσουν οι σαπουνόφουσκες, μην την χάσετε!",
+        "sourceName": "CultureNow",
+        "sourceUrl": "https://www.culturenow.gr/the-mr-and-mrs-bubble-show-parastasi-me-sapoynofoyskes-sto-rektifie/",
+        "sourceDomains": [
+          "culturenow.gr"
+        ],
+        "sources": [
+          {
+            "title": "CultureNow",
+            "url": "https://www.culturenow.gr/the-mr-and-mrs-bubble-show-parastasi-me-sapoynofoyskes-sto-rektifie/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η παράσταση προσφέρει διασκέδαση και ευχάριστες στιγμές για το κοινό.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-24T13:21:06.000Z"
+      },
+      {
         "id": "f724e63da9a8",
         "title": "Ο Keanu Reeves δανείζει τη φωνή του στο νέο video game John Wick",
-        "simpleTitle": "Ο Keanu Reeves συμμετέχει στο νέο παιχνίδι John Wick",
-        "simpleText": "Ο Keanu Reeves θα είναι η φωνή του χαρακτήρα John Wick σε ένα νέο βιντεοπαιχνίδι. Οι δημιουργοί του παιχνιδιού, Saber Interactive, ανακοίνωσαν ότι αυτό θα είναι κάτι ξεχωριστό. Ο κόσμος των βιντεοπαιχνιδιών θα συνδυαστεί με την τέχνη του κινηματογράφου. Είναι η πρώτη φορά που ο ηθοποιός αναλαμβάνει πλήρως τον ρόλο του σε ένα παιχνίδι. Αυτή η συνεργασία είναι σημαντική γιατί προσφέρει μια αυθεντική εμπειρία στους fans του John Wick. Δεν ξέρουμε ακόμα πότε ακριβώς θα κυκλοφορήσει το παιχνίδι.",
+        "simpleTitle": "Ο Keanu Reeves φτιάχνει φωνή για το νέο παιχνίδι John Wick",
+        "simpleText": "Ο Keanu Reeves συμμετέχει στο νέο video game John Wick, το οποίο δημιουργεί η εταιρεία Saber Interactive. Αυτό το παιχνίδι είναι σημαντικό γιατί ο Reeves δεν δανείζει μόνο την εμφάνισή του, αλλά και τη φωνή του, κάτι που δεν έχει γίνει ποτέ πριν σε ένα παιχνίδι αυτού του είδους. Η συμμετοχή του προσθέτει αυθεντικότητα στην εμπειρία παιχνιδιού.\n\nΑυτή η συνεργασία συνδυάζει κινηματογράφο και τεχνολογία, φέρνοντας νέες ευκαιρίες στη βιομηχανία της ψυχαγωγίας. Οι φαν του John Wick θα απολαύσουν την αναβαθμισμένη εμπειρία του αγαπημένου τους ήρωα σε ένα νέο ψηφιακό περιβάλλον.",
         "sourceName": "The Happy News",
         "sourceUrl": "https://thehappynews.gr/32049-john-wick-video-game-me-ti-foni-tou-keanu-reeves/",
         "sourceDomains": [
@@ -1024,11 +1782,34 @@
           }
         ],
         "category": "fun",
-        "categoryReason": "Η είδηση αφορά τον Keanu Reeves και τη συμμετοχή του σε ένα νέο video game που βασίζεται στον χαρακτήρα John Wick, κάτι που συνδυάζει στοιχεία κινηματογράφου και βιντεοπαιχνιδιών.",
+        "categoryReason": "Η είδηση αφορά τη συμμετοχή του Keanu Reeves σε ένα video game, που συνδυάζει τον κινηματογράφο με τα ηλεκτρονικά παιχνίδια.",
         "isSensitive": false,
-        "imageUrl": "https://pixabay.com/get/g2ea00fde14d5257da0770ff5afb7ea9fe0c39cf181d2497922945868ce1122cca841c50ac37b0e327397873c11d4a7c5dbb28ea7bcb8d0e6679474f615c54ac2_1280.jpg",
+        "imageUrl": "https://cdn.thehappynews.gr/wp-content/uploads/2026/02/john-wick-voice-800x600.jpg",
         "videoUrl": null,
         "publishedAt": "2026-02-21T09:46:00.000Z"
+      },
+      {
+        "id": "0e644970e161",
+        "title": "A ‘Planet Parade’ is Now in Alignment for Viewing Our Solar System This Week",
+        "simpleTitle": "Ευκαιρία να Δεις Πλανήτες Μαζί στον Ουρανό",
+        "simpleText": "Την επόμενη Σάββατο, 28 Φεβρουαρίου, οι λάτρεις των άστρων θα μπορούν να δουν αρκετούς πλανήτες μαζί στον ουρανό. Οι πλανήτες που θα είναι ορατοί είναι ο Ερμής, η Αφροδίτη, ο Δίας, ο Κρόνος, ο Ουρανός και ο Ποσειδώνας.\n\nΑυτό το φαινόμενο λέγεται ευθυγράμμιση πλανητών και συμβαίνει όταν οι πλανήτες βρίσκονται στην ίδια γραμμή στον ουρανό. Είναι μια καλή ευκαιρία να παρατηρήσεις τους πλανήτες όλοι μαζί, κάτι που δεν συμβαίνει συχνά. Καλή παρατήρηση!",
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/next-weekends-planet-parade-to-offer-best-chance-this-year-to-see-our-solar-system/",
+        "sourceDomains": [
+          "goodnewsnetwork.org"
+        ],
+        "sources": [
+          {
+            "title": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/next-weekends-planet-parade-to-offer-best-chance-this-year-to-see-our-solar-system/"
+          }
+        ],
+        "category": "fun",
+        "categoryReason": "Η παρατήρηση πλανητών είναι μια ευχάριστη και διασκεδαστική δραστηριότητα για τους λάτρεις του ουρανού.",
+        "isSensitive": false,
+        "imageUrl": null,
+        "videoUrl": null,
+        "publishedAt": "2026-02-19T19:30:05.000Z"
       }
     ]
   }
