@@ -14,95 +14,6 @@ import {
 
 export { CATEGORY_KEYS };
 
-// Generic Pixabay queries per category (fallback if feeds don't provide images)
-const CATEGORY_IMAGE_QUERIES = {
-  serious: "breaking news newspaper city",
-  sports: "sports football soccer stadium",
-  screen: "cinema movie theater screen",
-  culture: "concert stage music band",
-  fun: "friends fun night city",
-  happy: "happy people sunshine",
-  other: "news abstract background",
-};
-
-let hasWarnedMissingPixabayKey = false;
-const pixabayCache = new Map(); // categoryKey -> { dayKey, hits }
-
-function stableIndex(seedStr, modulo) {
-  if (!modulo || modulo <= 0) return 0;
-  const h = crypto.createHash("sha1").update(String(seedStr || "seed")).digest();
-  const n = h.readUInt32BE(0);
-  return n % modulo;
-}
-
-function todayKey() {
-  // YYYY-MM-DD (σταθερό μέσα στο ίδιο run/ημέρα)
-  return new Date().toISOString().slice(0, 10);
-}
-
-function pickPixabayUrl(hits, seed) {
-  const urls = (Array.isArray(hits) ? hits : [])
-    .map((h) => h?.largeImageURL || h?.webformatURL || h?.previewURL)
-    .filter(Boolean);
-  if (!urls.length) return null;
-  const idx = stableIndex(seed, urls.length);
-  return urls[idx] || null;
-}
-
-async function fetchPixabayHitsForCategory(categoryKey) {
-  const apiKey = process.env.PIXABAY_API_KEY;
-  if (!apiKey) {
-    if (!hasWarnedMissingPixabayKey) {
-      console.warn("⚠️ PIXABAY_API_KEY is not set. Skipping images.");
-      hasWarnedMissingPixabayKey = true;
-    }
-    return [];
-  }
-
-  const baseQuery =
-    CATEGORY_IMAGE_QUERIES[categoryKey] || "news abstract background";
-
-  const day = todayKey();
-  // αλλάζουμε σελίδα ανά μέρα/κατηγορία για περισσότερη ποικιλία
-  const page = 1 + stableIndex(`${day}:${categoryKey}`, 5); // 1..5
-
-  const url = new URL("https://pixabay.com/api/");
-  url.searchParams.set("key", apiKey);
-  url.searchParams.set("q", baseQuery);
-  url.searchParams.set("image_type", "photo");
-  url.searchParams.set("orientation", "horizontal");
-  url.searchParams.set("safesearch", "true");
-  url.searchParams.set("order", "latest");
-  url.searchParams.set("per_page", "100");
-  url.searchParams.set("page", String(page));
-
-  try {
-    const res = await fetch(url.toString());
-    if (!res.ok) {
-      console.warn("Pixabay API error", res.status, await res.text());
-      return [];
-    }
-
-    const data = await res.json();
-    return Array.isArray(data.hits) ? data.hits : [];
-  } catch (err) {
-    console.error("Pixabay fetch failed", err);
-    return [];
-  }
-}
-
-async function fetchPixabayImageForCategory(categoryKey, seed) {
-  const day = todayKey();
-  const cached = pixabayCache.get(categoryKey);
-  if (cached && cached.dayKey === day) {
-    return pickPixabayUrl(cached.hits, seed);
-  }
-
-  const hits = await fetchPixabayHitsForCategory(categoryKey);
-  pixabayCache.set(categoryKey, { dayKey: day, hits });
-  return pickPixabayUrl(hits, seed);
-}
-
 const TARGET_CATEGORIES = CATEGORY_KEYS.filter((key) => key !== "other");
 
 const MIN_ARTICLES_PER_CATEGORY = 2;
@@ -333,6 +244,17 @@ function stripHtml(html) {
   return html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+function isPixabayUrl(url) {
+  return /(^|\/\/)(cdn\.)?pixabay\.com/i.test(String(url || ""));
+}
+
+function sanitizeSourceImageUrl(url) {
+  const v = String(url || "").trim();
+  if (!v) return null;
+  if (isPixabayUrl(v)) return null;
+  return v;
+}
+
 // Σταθερό id άρθρου με βάση guid/link κτλ. (για raw άρθρα ανά feed)
 function makeArticleId(feedUrl, item) {
   const base =
@@ -353,7 +275,8 @@ function extractImageUrl(item, html = "") {
       const medium = (m?.$?.medium || "").toLowerCase();
       const type = m?.$?.type || "";
       if (url && (medium === "image" || (type && type.startsWith("image/")))) {
-        return url;
+        const safeUrl = sanitizeSourceImageUrl(url);
+        if (safeUrl) return safeUrl;
       }
     }
   }
@@ -362,20 +285,27 @@ function extractImageUrl(item, html = "") {
   if (Array.isArray(item.mediaThumbnail)) {
     for (const t of item.mediaThumbnail) {
       const url = t?.$?.url || t?.url;
-      if (url) return url;
+      if (url) {
+        const safeUrl = sanitizeSourceImageUrl(url);
+        if (safeUrl) return safeUrl;
+      }
     }
   }
 
   // 3) enclosure με τύπο εικόνας
   const enclosure = item.enclosure;
   if (enclosure && enclosure.url && /^image\//.test(enclosure.type || "")) {
-    return enclosure.url;
+    const safeUrl = sanitizeSourceImageUrl(enclosure.url);
+    if (safeUrl) return safeUrl;
   }
 
   // 4) Πρώτο <img ... src="..."> μέσα στο HTML (αν υπάρχει)
   if (html) {
     const imgMatch = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-    if (imgMatch) return imgMatch[1];
+    if (imgMatch) {
+      const safeUrl = sanitizeSourceImageUrl(imgMatch[1]);
+      if (safeUrl) return safeUrl;
+    }
   }
 
   return null;

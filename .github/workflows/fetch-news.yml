@@ -13,10 +13,6 @@ jobs:
       contents: write # για να μπορεί να κάνει commit τα json
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
-      ENABLE_PIXABAY_IMAGES: "true"
-      MAX_PIXABAY_CALLS: "25"
-      IMAGE_SCORE_THRESHOLD: "3"
       OPENAI_TIMEOUT_MS: "45000"
       OPENAI_MAX_RETRIES: "1"
       RSS_FEED_TIMEOUT_MS: "20000"

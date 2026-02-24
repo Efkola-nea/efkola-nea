@@ -295,8 +295,8 @@
         .replace(/'/g, "&#39;");
     }
 
-    // ✅ Allowlist: δεχόμαστε ΜΟΝΟ Pixabay URLs
-    function isPixabayUrl(url) {
+    // ✅ Επιτρέπουμε source εικόνες, αλλά μπλοκάρουμε Pixabay
+    function isBlockedImageUrl(url) {
       return /(^|\/\/)(cdn\.)?pixabay\.com/i.test(String(url || ""));
     }
 
@@ -305,7 +305,7 @@
       if (!imageWrapper || !imageEl) return;
 
       const url = (imageUrl || "").trim();
-      const ok = url && isPixabayUrl(url);
+      const ok = url && !isBlockedImageUrl(url);
 
       if (!ok) {
         imageEl.removeAttribute("src");

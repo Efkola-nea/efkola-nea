@@ -313,6 +313,10 @@
         });
       }
 
+      function isBlockedImageUrl(url) {
+        return /(^|\/\/)(cdn\.)?pixabay\.com/i.test(String(url || ""));
+      }
+
       // opts:
       // - layout: "list" | "grid"
       // - showText: boolean  (προεπισκόπηση κειμένου)
@@ -344,7 +348,7 @@
             : null;
 
           // Εικόνα (ή placeholder αν λείπει)
-          if (article.imageUrl) {
+          if (article.imageUrl && !isBlockedImageUrl(article.imageUrl)) {
             const imgEl = document.createElement("img");
             imgEl.className = "article-thumb";
             imgEl.loading = "lazy";
