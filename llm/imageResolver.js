@@ -2,8 +2,8 @@
 import crypto from "crypto";
 import { TOPIC_IMAGE_RULES } from "./imageRules.js";
 
-// Δεν βάζουμε fallback εικόνες ακόμα.
-// Εικόνα μπαίνει ΜΟΝΟ αν ενεργοποιηθεί Pixabay και περάσει threshold.
+// Προς το παρόν δεν βάζουμε fallback εικόνες.
+// Εικόνα μπαίνει ΜΟΝΟ αν υπάρχει στο original άρθρο/feed.
 
 const STOPWORDS = new Set([
   "ο","η","το","οι","τα","του","της","των","στο","στη","στην","στον","με","και","για","από","απο",
@@ -136,42 +136,10 @@ async function fetchPixabayHits(query, { order = "popular", perPage = 100 } = {}
 /**
  * Returns: imageUrl string or null
  * Πολιτική:
- * - Κρατάμε έτοιμο topicKey (για μελλοντικά assets), αλλά προς το παρόν δεν επιστρέφουμε local images.
- * - Αν είναι ενεργό Pixabay, δοκιμάζουμε keyword search + scoring + threshold, αλλιώς null.
+ * - Προς το παρόν χρησιμοποιούμε ΜΟΝΟ εικόνα από το original άρθρο.
+ * - Δεν χρησιμοποιούμε fallback εικόνες από Pixabay.
  */
 export async function resolveArticleImage(article) {
-  // 1) Topic rules (προς το παρόν δεν δίνουν εικόνα, απλά “αναγνωρίζουν” topic)
-  const topicKey = getTopicKey(article);
-  void topicKey; // κρατιέται για μελλοντική χρήση χωρίς lint warnings
-
-  // 2) Pixabay (μόνο αν ENABLE_PIXABAY_IMAGES=true)
-  const keywords = pickKeywordsFromTitle(article);
-  const query = keywords.join(" ").trim();
-
-  const hits = await fetchPixabayHits(query, { order: "popular", perPage: 100 });
-  if (!hits.length) return null;
-
-  let best = null;
-  let bestScore = -1;
-
-  for (const h of hits) {
-    const s = scorePixabayHit(h, keywords);
-    if (s > bestScore) {
-      bestScore = s;
-      best = h;
-    }
-  }
-
-  // Threshold για να μη βάζουμε άσχετες εικόνες
-  if (!best || bestScore < 3) return null;
-
-  // Σταθερότητα επιλογής όταν υπάρχουν “ισοβαθμίες”/πολύ κοντινά
-  // (ελαφρύ shuffle μέσω stableIndex)
-  const bestUrl = pickPixabayUrl(best);
-  if (bestUrl) return bestUrl;
-
-  // fallback: διάλεξε ένα σταθερό hit
-  const idx = stableIndex(article?.id || article?.title || "seed", hits.length);
-  return pickPixabayUrl(hits[idx]) || null;
+  const originalImageUrl = String(article?.imageUrl || "").trim();
+  return originalImageUrl || null;
 }
-

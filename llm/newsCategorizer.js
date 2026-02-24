@@ -39,9 +39,10 @@ async function classifyNewsArticle({ title, simpleText, rawText }) {
           type: "object",
           properties: {
             category: { type: "string", enum: CATEGORY_KEYS },
-            reason: { type: "string" },
+            confidence: { type: "number", minimum: 0, maximum: 1 },
+            brief_reason: { type: "string" },
           },
-          required: ["category", "reason"],
+          required: ["category", "confidence", "brief_reason"],
           additionalProperties: false,
         },
         strict: true,
@@ -54,16 +55,31 @@ async function classifyNewsArticle({ title, simpleText, rawText }) {
   try {
     const parsed = JSON.parse(text);
     const category = typeof parsed.category === "string" ? parsed.category : "";
-    const reason = typeof parsed.reason === "string" ? parsed.reason : "";
+    const confidence = Number.isFinite(parsed.confidence)
+      ? Math.max(0, Math.min(1, Number(parsed.confidence)))
+      : 0;
+    const briefReason =
+      typeof parsed.brief_reason === "string" ? parsed.brief_reason.trim() : "";
 
     if (CATEGORY_SET.has(category)) {
-      return { category, reason: reason || "" };
+      return {
+        category,
+        confidence,
+        briefReason: briefReason || "",
+        // Backward-compatible alias for existing callers.
+        reason: briefReason || "",
+      };
     }
   } catch (err) {
     // fall through to fallback
   }
 
-  return { category: FALLBACK_CATEGORY, reason: "JSON parse fallback" };
+  return {
+    category: FALLBACK_CATEGORY,
+    confidence: 0,
+    briefReason: "JSON parse fallback",
+    reason: "JSON parse fallback",
+  };
 }
 
 export { classifyNewsArticle };

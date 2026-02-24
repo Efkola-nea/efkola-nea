@@ -4,6 +4,7 @@ import crypto from "crypto";
 import { CATEGORY_KEYS } from "./llm/newsCategories.js";
 import { simplifyNewsArticle } from "./llm/newsSimplifier.js";
 import { classifyNewsArticle } from "./llm/newsCategorizer.js";
+import { gatekeepNewsArticle } from "./llm/newsFilter.js";
 import { resolveArticleImage } from "./llm/imageResolver.js";
 import {
   cleanSimplifiedText,
@@ -140,10 +141,103 @@ const FEEDS = [
   // 🔹 Χαρούμενες ειδήσεις
   { url: "https://thehappynews.gr/feed/", sourceName: "The Happy News", categoryHints: ["happy"] },
 
+  // 🔹 Νέα ελληνικά feeds
+  { url: "https://www.athinorama.gr/feeds/articles.ashx", sourceName: "Athinorama", categoryHints: ["culture"] },
+  { url: "https://www.culturenow.gr/feed/", sourceName: "CultureNow", categoryHints: ["culture"] },
+  { url: "https://www.iatronet.gr/feed/", sourceName: "Iatronet", categoryHints: ["serious"] },
+
+  // 🔹 International θετικές/ανθρώπινες ειδήσεις
+  { url: "https://www.goodnewsnetwork.org/feed/", sourceName: "Good News Network", categoryHints: ["happy"] },
+  { url: "https://www.thedodo.com/feeds/feed.rss", sourceName: "The Dodo", categoryHints: ["happy"] },
+  { url: "https://www.positive.news/feed/", sourceName: "Positive News UK", categoryHints: ["happy"] },
+
   // (ΠΡΟΑΙΡΕΤΙΚΟ) Euro2day RSS endpoints: αν σου δουλεύουν στον runner, κράτα τα.
   // { url: "https://www.euro2day.gr/rss.ashx?catid=148", sourceName: "Euro2day – NewsWire" },
   // { url: "https://www.euro2day.gr/rss.ashx?catid=124", sourceName: "Euro2day – Οικονομία" },
 ];
+
+const KEYWORD_BLACKLIST = [
+  // English
+  "murder",
+  "homicide",
+  "kill",
+  "death",
+  "dead",
+  "fatal",
+  "accident",
+  "crash",
+  "war",
+  "bomb",
+  "suicide",
+  "rape",
+  "abuse",
+  "terror",
+  "terrorist",
+  "massacre",
+  "shooting",
+  "explosion",
+  "hostage",
+  "kidnapping",
+  "assault",
+  "stab",
+  "corpse",
+  "funeral",
+  "tragedy",
+  // Greek stems / variants
+  "δολοφον",
+  "φονος",
+  "θανατ",
+  "νεκρ",
+  "σκοτω",
+  "τροχαιο",
+  "δυστυχημ",
+  "πολεμ",
+  "βομβ",
+  "αυτοκτον",
+  "βιασμ",
+  "κακοποι",
+  "τρομοκρατ",
+  "μακελει",
+  "πυροβολ",
+  "εκρηξ",
+  "ομηρ",
+  "απαγωγ",
+  "επιθεσ",
+  "μαχαιρ",
+  "αιμα",
+  "πτωμ",
+  "κηδει",
+  "τραγωδι",
+];
+
+function normalizeForKeywordMatch(text) {
+  return String(text || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function shouldSkipArticle(title, description) {
+  const haystack = normalizeForKeywordMatch(`${title || ""} ${description || ""}`);
+  if (!haystack) return false;
+  const words = haystack.split(" ").filter(Boolean);
+
+  for (const rawKeyword of KEYWORD_BLACKLIST) {
+    const keyword = normalizeForKeywordMatch(rawKeyword);
+    if (!keyword) continue;
+    if (keyword.includes(" ")) {
+      if (haystack.includes(keyword)) return true;
+      continue;
+    }
+
+    if (words.some((w) => w === keyword || w.startsWith(keyword))) return true;
+  }
+
+  return false;
+}
 
 // 🔹 Πηγές με πιο "ελαστικό" copyright (open data)
 // Δεν τις καλούμε ακόμη, απλά τις δηλώνουμε για μελλοντική χρήση.
@@ -431,6 +525,7 @@ async function simplifyAndClassifyText(topicGroup) {
   const baseTitle = topicGroup.title || articles[0]?.title || "Είδηση";
   const primarySourceUrl = articles[0]?.sourceUrl;
 
+  // 4️⃣ Simplify + translate σε Easy-to-Read Ελληνικά
   const { text: simplifiedText, title: simplifiedTitle } = await simplifyNewsArticle({
     title: baseTitle,
     rawText: combinedRawText,
@@ -829,8 +924,16 @@ function groupArticlesByTopic(rawArticles) {
 
 async function run() {
   const rawArticles = [];
+  const ingestStats = {
+    totalFetched: 0,
+    skippedByKeyword: 0,
+    skippedByGatekeeper: 0,
+    skippedEmptyText: 0,
+    gatekeeperErrors: 0,
+    accepted: 0,
+  };
 
-  // 1️⃣ Μαζεύουμε ΟΛΑ τα raw άρθρα από ΟΛΑ τα feeds
+  // 1️⃣ Fetch RSS items
   for (const feed of FEEDS) {
     console.log("Διαβάζω feed:", feed.url);
     let rss;
@@ -844,8 +947,19 @@ async function run() {
     const items = (rss.items || []).slice(0, 30);
 
     for (const item of items) {
+      ingestStats.totalFetched += 1;
+
       const title = item.title || "";
       const link = item.link || "";
+      const descriptionForFilter = stripHtml(
+        item.contentSnippet || item.summary || item.content || item.contentEncoded || ""
+      );
+
+      // 2️⃣ Local keyword filter (χωρίς AI cost)
+      if (shouldSkipArticle(title, descriptionForFilter)) {
+        ingestStats.skippedByKeyword += 1;
+        continue;
+      }
 
       const htmlContent =
         item.contentEncoded ||
@@ -855,7 +969,28 @@ async function run() {
         "";
 
       const rawText = stripHtml(htmlContent);
-      if (!rawText) continue;
+      if (!rawText) {
+        ingestStats.skippedEmptyText += 1;
+        continue;
+      }
+
+      // 3️⃣ AI gatekeeper filter (context-aware)
+      let gate;
+      try {
+        gate = await gatekeepNewsArticle({
+          title,
+          rawText: rawText.slice(0, 4000),
+        });
+      } catch (err) {
+        ingestStats.gatekeeperErrors += 1;
+        console.error("❌ Gatekeeper error:", title || link || "(χωρίς τίτλο)", err);
+        continue;
+      }
+
+      if (!gate?.accepted) {
+        ingestStats.skippedByGatekeeper += 1;
+        continue;
+      }
 
       const publishedAtDate =
         (item.isoDate && new Date(item.isoDate)) ||
@@ -879,6 +1014,8 @@ async function run() {
         publishedAt,
         categoryHints: Array.isArray(feed.categoryHints) ? feed.categoryHints : [],
       });
+
+      ingestStats.accepted += 1;
     }
   }
 
@@ -886,7 +1023,9 @@ async function run() {
     console.warn("Δεν βρέθηκαν raw άρθρα από τα feeds.");
   }
 
-  // 2️⃣ Ομαδοποιούμε σε "θέματα"
+  console.log("📊 Ingest stats:", ingestStats);
+
+  // Μετά τα local + AI filters, ομαδοποιούμε σε "θέματα"
   const topicGroups = groupArticlesByTopic(rawArticles);
   const importantTopicGroups = topicGroups.filter((g) => g.isImportant);
   const fallbackTopicGroups = topicGroups.filter((g) => !g.isImportant);
