@@ -108,7 +108,7 @@ const TARGET_CATEGORIES = CATEGORY_KEYS.filter((key) => key !== "other");
 const MIN_ARTICLES_PER_CATEGORY = 2;
 const MAX_ARTICLES_PER_CATEGORY = 6;
 const RSS_FEED_TIMEOUT_MS = Number(process.env.RSS_FEED_TIMEOUT_MS || "20000");
-const FEED_ITEM_LIMIT = Math.max(1, Number(process.env.FEED_ITEM_LIMIT || "30"));
+const FEED_ITEM_LIMIT = Math.max(1, Number(process.env.FEED_ITEM_LIMIT || "24"));
 const GATEKEEPER_PROGRESS_EVERY = Math.max(
   1,
   Number(process.env.GATEKEEPER_PROGRESS_EVERY || "10")
@@ -119,6 +119,19 @@ const BACKFILL_MAX_ATTEMPTS_PER_CATEGORY = Math.max(
   Number(process.env.BACKFILL_MAX_ATTEMPTS_PER_CATEGORY || "12")
 );
 const BACKFILL_ALLOW_BROAD_PASS = process.env.BACKFILL_ALLOW_BROAD_PASS === "true";
+const PRIORITY_BACKFILL_MAX_ATTEMPTS = Math.max(
+  BACKFILL_MAX_ATTEMPTS_PER_CATEGORY,
+  Number(process.env.PRIORITY_BACKFILL_MAX_ATTEMPTS || "24")
+);
+const CATEGORY_HINT_CONFIDENCE_FLOOR = Number(
+  process.env.CATEGORY_HINT_CONFIDENCE_FLOOR || "0.62"
+);
+const PRIORITY_CATEGORY_MIN_TARGETS = {
+  screen: Math.max(MIN_ARTICLES_PER_CATEGORY, Number(process.env.MIN_ARTICLES_SCREEN || "3")),
+  culture: Math.max(MIN_ARTICLES_PER_CATEGORY, Number(process.env.MIN_ARTICLES_CULTURE || "3")),
+  fun: Math.max(MIN_ARTICLES_PER_CATEGORY, Number(process.env.MIN_ARTICLES_FUN || "3")),
+};
+const PRIORITY_LIFESTYLE_CATEGORIES = new Set(["screen", "culture", "fun"]);
 
 // 👉 Θα γράφουμε το news.json δίπλα στο αρχείο αυτό
 const NEWS_JSON_PATH = new URL("./static/news.json", import.meta.url);
@@ -147,26 +160,62 @@ const FEEDS = [
   // Protagon
   { url: "https://www.protagon.gr/feed", sourceName: "Protagon" },
 
-  // Αγγλόφωνη κάλυψη για Ελλάδα
-  { url: "https://greekreporter.com/greece/feed", sourceName: "Greek Reporter – Greece" },
-
   // 🔹 Χαρούμενες ειδήσεις
-  { url: "https://thehappynews.gr/feed/", sourceName: "The Happy News", categoryHints: ["happy"] },
+  {
+    url: "https://thehappynews.gr/feed/",
+    sourceName: "The Happy News",
+    categoryHints: ["happy"],
+    itemLimit: 12,
+  },
 
-  // 🔹 Νέα ελληνικά feeds
-  { url: "https://www.athinorama.gr/feeds/articles.ashx", sourceName: "Athinorama", categoryHints: ["culture"] },
-  { url: "https://www.culturenow.gr/feed/", sourceName: "CultureNow", categoryHints: ["culture"] },
-  { url: "https://www.iatronet.gr/feed/", sourceName: "Iatronet", categoryHints: ["serious"] },
+  // 🔹 Culture / arts (για να γεμίζει συστηματικά η κατηγορία culture)
+  { url: "https://www.culturenow.gr/feed/", sourceName: "CultureNow", categoryHints: ["culture"], itemLimit: 14 },
+  { url: "https://www.nme.com/feed/", sourceName: "NME", categoryHints: ["culture"], itemLimit: 12 },
+  { url: "https://pitchfork.com/feed/feed-news/rss", sourceName: "Pitchfork", categoryHints: ["culture"], itemLimit: 12 },
+  {
+    url: "https://www.rollingstone.com/music/music-news/feed/",
+    sourceName: "Rolling Stone Music",
+    categoryHints: ["culture"],
+    itemLimit: 12,
+  },
+  { url: "https://www.billboard.com/feed/", sourceName: "Billboard", categoryHints: ["culture"], itemLimit: 12 },
+
+  // 🔹 Screen (ταινίες / σειρές / TV)
+  { url: "https://deadline.com/feed/", sourceName: "Deadline", categoryHints: ["screen"], itemLimit: 12 },
+  { url: "https://variety.com/feed/", sourceName: "Variety", categoryHints: ["screen"], itemLimit: 12 },
+  {
+    url: "https://www.hollywoodreporter.com/feed/",
+    sourceName: "Hollywood Reporter",
+    categoryHints: ["screen"],
+    itemLimit: 12,
+  },
+  {
+    url: "https://www.cinemablend.com/rss",
+    sourceName: "CinemaBlend",
+    categoryHints: ["screen"],
+    itemLimit: 12,
+  },
+
+  // 🔹 Fun / entertainment aggregation (ελληνικό locale)
+  {
+    url: "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=el&gl=GR&ceid=GR:el",
+    sourceName: "Google News Entertainment (GR)",
+    categoryHints: ["fun", "screen"],
+    itemLimit: 15,
+  },
 
   // 🔹 International θετικές/ανθρώπινες ειδήσεις
   { url: "https://www.goodnewsnetwork.org/feed/", sourceName: "Good News Network", categoryHints: ["happy"] },
-  { url: "https://www.thedodo.com/feeds/feed.rss", sourceName: "The Dodo", categoryHints: ["happy"] },
-  { url: "https://www.positive.news/feed/", sourceName: "Positive News UK", categoryHints: ["happy"] },
+  { url: "https://www.positive.news/feed/", sourceName: "Positive News UK", categoryHints: ["happy"], itemLimit: 14 },
 
   // (ΠΡΟΑΙΡΕΤΙΚΟ) Euro2day RSS endpoints: αν σου δουλεύουν στον runner, κράτα τα.
   // { url: "https://www.euro2day.gr/rss.ashx?catid=148", sourceName: "Euro2day – NewsWire" },
   // { url: "https://www.euro2day.gr/rss.ashx?catid=124", sourceName: "Euro2day – Οικονομία" },
 ];
+
+function minTargetForCategory(category) {
+  return PRIORITY_CATEGORY_MIN_TARGETS[category] || MIN_ARTICLES_PER_CATEGORY;
+}
 
 const KEYWORD_BLACKLIST = [
   // English
@@ -551,23 +600,34 @@ async function simplifyAndClassifyText(topicGroup) {
     sourceUrl: primarySourceUrl,
   });
 
-  const { category, reason } = await classifyNewsArticle({
+  const { category, reason, confidence } = await classifyNewsArticle({
     title: baseTitle,
     simpleText: simplifiedText || "",
     rawText: combinedRawText,
   });
 
-  const hintedCategory =
-    (topicGroup.categoryHints || []).find((c) => c && c !== "other") || null;
+  const hintedCategoryRaw =
+    (topicGroup.categoryHints || []).find((c) => c && normalizeCategory(c) !== "other") || null;
+  const hintedCategory = hintedCategoryRaw ? normalizeCategory(hintedCategoryRaw) : null;
 
   const normalizedClassified = normalizeCategory(category);
+  const numericConfidence = Number.isFinite(confidence) ? Number(confidence) : 0;
+  const shouldPreferHint =
+    hintedCategory &&
+    numericConfidence < CATEGORY_HINT_CONFIDENCE_FLOOR &&
+    PRIORITY_LIFESTYLE_CATEGORIES.has(hintedCategory);
+
   const finalCategory =
-    normalizedClassified !== "other"
+    shouldPreferHint
+      ? hintedCategory
+      : normalizedClassified !== "other"
       ? normalizedClassified
       : hintedCategory || "other";
 
   const categoryReason =
-    normalizedClassified !== "other"
+    shouldPreferHint
+      ? `${reason || ""}${reason ? " | " : ""}hint_override:${hintedCategory}@${numericConfidence.toFixed(2)}`
+      : normalizedClassified !== "other"
       ? reason || ""
       : hintedCategory
       ? `${reason || "Κατηγορία από hints feed"} (hint: ${hintedCategory})`
@@ -646,7 +706,7 @@ function countByCategory(articles) {
 
 function hasMissingCategoryMinimum(articles) {
   const counts = countByCategory(articles);
-  return TARGET_CATEGORIES.some((category) => (counts[category] || 0) < MIN_ARTICLES_PER_CATEGORY);
+  return TARGET_CATEGORIES.some((category) => (counts[category] || 0) < minTargetForCategory(category));
 }
 
 // “φθηνό” guess για να μειώσουμε LLM calls στο backfill
@@ -675,11 +735,19 @@ function guessCategoryFromTopic(topic) {
     return "sports";
 
   // screen
-  if (/(ταιν(ί|ι)α|σινεμ(ά|α)|box office|netflix|σειρ(ά|α)|streaming|hbo|disney)/i.test(t))
+  if (
+    /(ταιν(ί|ι)α|σινεμ(ά|α)|κινηματογρ|box office|netflix|σειρ(ά|α)|streaming|hbo|disney|prime video|apple tv|trailer|ηθοποι|σκηνοθετ|oscar|emmy|cannes|venice|hollywood|marvel)/i.test(
+      t
+    )
+  )
     return "screen";
 
   // culture
-  if (/(συναυλ(ί|ι)α|τραγο(ύ|υ)δι|άλμπουμ|μουσικ(ή|η)|θέατρ|παρ(ά|α)σταση|φεστιβ(ά|α)λ|πολιτισμ)/i.test(t))
+  if (
+    /(συναυλ(ί|ι)α|τραγο(ύ|υ)δι|άλμπουμ|μουσικ(ή|η)|θέατρ|παρ(ά|α)σταση|φεστιβ(ά|α)λ|πολιτισμ|μουσε(ί|ι)ο|εκθεσ|βιβλ(ί|ι)ο|λογοτεχν|ποίηση|χορ(ό|ο)|τζαζ|rock|art|gallery)/i.test(
+      t
+    )
+  )
     return "culture";
 
   // serious
@@ -687,7 +755,11 @@ function guessCategoryFromTopic(topic) {
     return "serious";
 
   // fun
-  if (/(εκδ(ή|η)λωση|β(ό|ο)λτα|εστιατ(ό|ο)ριο|bar|π(ά|a)ρτι|nightlife|διασκ(έ|ε)δαση)/i.test(t))
+  if (
+    /(εκδ(ή|η)λωση|β(ό|ο)λτα|εστιατ(ό|ο)ριο|bar|π(ά|a)ρτι|nightlife|διασκ(έ|ε)δαση|festival|club|cocktail|travel|weekend|viral|χορο|party)/i.test(
+      t
+    )
+  )
     return "fun";
 
   return null;
@@ -788,14 +860,19 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
 
   for (const category of TARGET_CATEGORIES) {
     const current = counts[category] || 0;
-    const missing = Math.max(0, MIN_ARTICLES_PER_CATEGORY - current);
+    const minTarget = minTargetForCategory(category);
+    const missing = Math.max(0, minTarget - current);
     const availableSlots = Math.max(0, MAX_ARTICLES_PER_CATEGORY - current);
     const toGenerate = Math.min(missing, availableSlots);
+    const maxAttemptsForCategory = PRIORITY_LIFESTYLE_CATEGORIES.has(category)
+      ? PRIORITY_BACKFILL_MAX_ATTEMPTS
+      : BACKFILL_MAX_ATTEMPTS_PER_CATEGORY;
+    const useBroadPass = BACKFILL_ALLOW_BROAD_PASS || PRIORITY_LIFESTYLE_CATEGORIES.has(category);
 
     if (toGenerate <= 0) continue;
 
     console.log(
-      `ℹ️ RSS backfill για την κατηγορία ${category} (λείπουν ${missing} άρθρα).`
+      `ℹ️ RSS backfill για την κατηγορία ${category} (λείπουν ${missing} άρθρα για target=${minTarget}).`
     );
 
     let added = 0;
@@ -816,7 +893,7 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
     ).size;
 
     console.log(
-      `🧪 Backfill ${category}: πιθανές υποψήφιες=${likelyCandidatesCount}, maxAttempts=${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}, broadPass=${BACKFILL_ALLOW_BROAD_PASS}`
+      `🧪 Backfill ${category}: πιθανές υποψήφιες=${likelyCandidatesCount}, maxAttempts=${maxAttemptsForCategory}, broadPass=${useBroadPass}`
     );
 
     // 2 ή 3 περάσματα: hints -> guess -> (προαιρετικά) οποιοδήποτε
@@ -824,19 +901,19 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
       (t) => (t.categoryHints || []).some((h) => normalizeCategory(h) === category),
       (t) => guessCategoryFromTopic(t) === category,
     ];
-    if (BACKFILL_ALLOW_BROAD_PASS) passes.push(() => true);
+    if (useBroadPass) passes.push(() => true);
 
     for (const pass of passes) {
       for (const topic of candidates) {
         if (added >= toGenerate) break;
-        if (attempts >= BACKFILL_MAX_ATTEMPTS_PER_CATEGORY) break;
+        if (attempts >= maxAttemptsForCategory) break;
         if (usedTopicIds.has(topic.id)) continue;
         if (!pass(topic)) continue;
 
         attempts += 1;
         if (attempts % 3 === 0) {
           console.log(
-            `⏱️ Backfill ${category}: προσπάθειες ${attempts}/${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}`
+            `⏱️ Backfill ${category}: προσπάθειες ${attempts}/${maxAttemptsForCategory}`
           );
         }
 
@@ -856,9 +933,9 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
           console.error(`❌ Αποτυχία RSS backfill για ${category}:`, err?.message || err);
         }
       }
-      if (attempts >= BACKFILL_MAX_ATTEMPTS_PER_CATEGORY) {
+      if (attempts >= maxAttemptsForCategory) {
         console.log(
-          `⏹️ Backfill ${category}: έφτασε το όριο προσπαθειών (${BACKFILL_MAX_ATTEMPTS_PER_CATEGORY}).`
+          `⏹️ Backfill ${category}: έφτασε το όριο προσπαθειών (${maxAttemptsForCategory}).`
         );
         break;
       }
@@ -1007,7 +1084,8 @@ async function run() {
       continue;
     }
 
-    const items = (rss.items || []).slice(0, FEED_ITEM_LIMIT);
+    const feedItemLimit = Math.max(1, Number(feed.itemLimit || FEED_ITEM_LIMIT));
+    const items = (rss.items || []).slice(0, feedItemLimit);
     console.log(`🧾 ${feed.sourceName}: ${items.length} items για έλεγχο`);
     let feedProcessed = 0;
 
