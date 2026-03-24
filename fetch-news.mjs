@@ -7,6 +7,17 @@ import { classifyNewsArticle } from "./llm/newsCategorizer.js";
 import { gatekeepNewsArticle } from "./llm/newsFilter.js";
 import { resolveArticleImage } from "./llm/imageResolver.js";
 import {
+  APPROVED_FALLBACK_CATEGORIES,
+  APPROVED_FALLBACK_FEEDS,
+  PRIMARY_GREEK_FEEDS,
+  hasApprovedFallbackGap,
+} from "./llm/feedConfig.js";
+import {
+  editorialPriorityScoreText,
+  isUsefulSeriousText,
+  shouldSkipArticle,
+} from "./llm/editorialPolicy.js";
+import {
   cleanSimplifiedText,
   extractSourceDomains,
   dedupeArticlesByUrlOrTitle,
@@ -42,173 +53,13 @@ const PRIORITY_CATEGORY_MIN_TARGETS = {
   culture: Math.max(MIN_ARTICLES_PER_CATEGORY, Number(process.env.MIN_ARTICLES_CULTURE || "3")),
   fun: Math.max(MIN_ARTICLES_PER_CATEGORY, Number(process.env.MIN_ARTICLES_FUN || "3")),
 };
-const PRIORITY_LIFESTYLE_CATEGORIES = new Set(["screen", "culture", "fun"]);
+const PRIORITY_LIFESTYLE_CATEGORIES = new Set(["happy", "screen", "culture", "fun"]);
 
 // 👉 Θα γράφουμε το news.json δίπλα στο αρχείο αυτό
 const NEWS_JSON_PATH = new URL("./static/news.json", import.meta.url);
 
-// RSS feeds που θα διαβάζουμε
-// ⚠️ Πολλά sites περιορίζουν τη χρήση (συχνά «μόνο για προσωπική χρήση»).
-// Εδώ τα βάζουμε τεχνικά για να δουλεύει το pipeline· για δημόσια/εμπορική χρήση
-// είναι καλό να έχεις ρητή άδεια από τα μέσα.
-const FEEDS = [
-  // Δημόσιος ραδιοτηλεοπτικός φορέας
-  { url: "https://www.ertnews.gr/feed", sourceName: "ERT News" },
-
-  // Kathimerini (σταθερό endpoint από robots/sitemaps)
-  { url: "https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml", sourceName: "Kathimerini" },
-
-  // 🔹 Μεγάλες εφημερίδες / portals
-  { url: "https://www.tanea.gr/feed", sourceName: "TA NEA" },
-  { url: "https://www.tovima.gr/feed", sourceName: "TO BHMA" },
-
-  // Γενική ροή του news.gr
-  { url: "https://www.news.gr/rss.ashx", sourceName: "News.gr" },
-
-  // 902
-  { url: "https://www.902.gr/feed/featured", sourceName: "902.gr – Επιλεγμένα" },
-
-  // Protagon
-  { url: "https://www.protagon.gr/feed", sourceName: "Protagon" },
-
-  // 🔹 Χαρούμενες ειδήσεις
-  {
-    url: "https://thehappynews.gr/feed/",
-    sourceName: "The Happy News",
-    categoryHints: ["happy"],
-    itemLimit: 12,
-  },
-
-  // 🔹 Culture / arts (για να γεμίζει συστηματικά η κατηγορία culture)
-  { url: "https://www.culturenow.gr/feed/", sourceName: "CultureNow", categoryHints: ["culture"], itemLimit: 14 },
-  { url: "https://www.nme.com/feed/", sourceName: "NME", categoryHints: ["culture"], itemLimit: 12 },
-  { url: "https://pitchfork.com/feed/feed-news/rss", sourceName: "Pitchfork", categoryHints: ["culture"], itemLimit: 12 },
-  {
-    url: "https://www.rollingstone.com/music/music-news/feed/",
-    sourceName: "Rolling Stone Music",
-    categoryHints: ["culture"],
-    itemLimit: 12,
-  },
-  { url: "https://www.billboard.com/feed/", sourceName: "Billboard", categoryHints: ["culture"], itemLimit: 12 },
-
-  // 🔹 Screen (ταινίες / σειρές / TV)
-  { url: "https://deadline.com/feed/", sourceName: "Deadline", categoryHints: ["screen"], itemLimit: 12 },
-  { url: "https://variety.com/feed/", sourceName: "Variety", categoryHints: ["screen"], itemLimit: 12 },
-  {
-    url: "https://www.hollywoodreporter.com/feed/",
-    sourceName: "Hollywood Reporter",
-    categoryHints: ["screen"],
-    itemLimit: 12,
-  },
-  {
-    url: "https://www.cinemablend.com/rss",
-    sourceName: "CinemaBlend",
-    categoryHints: ["screen"],
-    itemLimit: 12,
-  },
-
-  // 🔹 Fun / entertainment aggregation (ελληνικό locale)
-  {
-    url: "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=el&gl=GR&ceid=GR:el",
-    sourceName: "Google News Entertainment (GR)",
-    categoryHints: ["fun", "screen"],
-    itemLimit: 15,
-  },
-
-  // 🔹 International θετικές/ανθρώπινες ειδήσεις
-  { url: "https://www.goodnewsnetwork.org/feed/", sourceName: "Good News Network", categoryHints: ["happy"] },
-  { url: "https://www.positive.news/feed/", sourceName: "Positive News UK", categoryHints: ["happy"], itemLimit: 14 },
-
-  // (ΠΡΟΑΙΡΕΤΙΚΟ) Euro2day RSS endpoints: αν σου δουλεύουν στον runner, κράτα τα.
-  // { url: "https://www.euro2day.gr/rss.ashx?catid=148", sourceName: "Euro2day – NewsWire" },
-  // { url: "https://www.euro2day.gr/rss.ashx?catid=124", sourceName: "Euro2day – Οικονομία" },
-];
-
 function minTargetForCategory(category) {
   return PRIORITY_CATEGORY_MIN_TARGETS[category] || MIN_ARTICLES_PER_CATEGORY;
-}
-
-const KEYWORD_BLACKLIST = [
-  // English
-  "murder",
-  "homicide",
-  "kill",
-  "death",
-  "dead",
-  "fatal",
-  "accident",
-  "crash",
-  "war",
-  "bomb",
-  "suicide",
-  "rape",
-  "abuse",
-  "terror",
-  "terrorist",
-  "massacre",
-  "shooting",
-  "explosion",
-  "hostage",
-  "kidnapping",
-  "assault",
-  "stab",
-  "corpse",
-  "funeral",
-  "tragedy",
-  // Greek stems / variants
-  "δολοφον",
-  "φονος",
-  "θανατ",
-  "νεκρ",
-  "σκοτω",
-  "τροχαιο",
-  "δυστυχημ",
-  "πολεμ",
-  "βομβ",
-  "αυτοκτον",
-  "βιασμ",
-  "κακοποι",
-  "τρομοκρατ",
-  "μακελει",
-  "πυροβολ",
-  "εκρηξ",
-  "ομηρ",
-  "απαγωγ",
-  "επιθεσ",
-  "μαχαιρ",
-  "αιμα",
-  "πτωμ",
-  "κηδει",
-  "τραγωδι",
-];
-
-function normalizeForKeywordMatch(text) {
-  return String(text || "")
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^\p{L}\p{N}\s]/gu, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function shouldSkipArticle(title, description) {
-  const haystack = normalizeForKeywordMatch(`${title || ""} ${description || ""}`);
-  if (!haystack) return false;
-  const words = haystack.split(" ").filter(Boolean);
-
-  for (const rawKeyword of KEYWORD_BLACKLIST) {
-    const keyword = normalizeForKeywordMatch(rawKeyword);
-    if (!keyword) continue;
-    if (keyword.includes(" ")) {
-      if (haystack.includes(keyword)) return true;
-      continue;
-    }
-
-    if (words.some((w) => w === keyword || w.startsWith(keyword))) return true;
-  }
-
-  return false;
 }
 
 // 🔹 Πηγές με πιο "ελαστικό" copyright (open data)
@@ -639,6 +490,157 @@ function hasMissingCategoryMinimum(articles) {
   return TARGET_CATEGORIES.some((category) => (counts[category] || 0) < minTargetForCategory(category));
 }
 
+function topicPriorityScore(topic) {
+  const text = [
+    topic?.title || "",
+    ...(topic?.categoryHints || []),
+    ...(topic?.articles || []).flatMap((article) => [article?.title || "", article?.rawText || ""]),
+  ]
+    .filter(Boolean)
+    .join("\n");
+
+  return editorialPriorityScoreText(text, {
+    categoryHints: topic?.categoryHints || [],
+  });
+}
+
+function compareTopicsByPriority(a, b) {
+  const editorial = topicPriorityScore(b) - topicPriorityScore(a);
+  if (editorial !== 0) return editorial;
+
+  const sourceCount = (b?.totalSourcesCount || 0) - (a?.totalSourcesCount || 0);
+  if (sourceCount !== 0) return sourceCount;
+
+  const da = a?.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+  const db = b?.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+  return db - da;
+}
+
+function createIngestStats() {
+  return {
+    totalFetched: 0,
+    skippedByKeyword: 0,
+    skippedByGatekeeper: 0,
+    skippedEmptyText: 0,
+    gatekeeperErrors: 0,
+    accepted: 0,
+  };
+}
+
+async function ingestFeeds(feeds, ingestStats, label) {
+  const rawArticles = [];
+
+  for (const feed of feeds) {
+    console.log(`Διαβάζω feed [${label}]:`, feed.url);
+    const feedStartedAt = Date.now();
+    let rss;
+    try {
+      rss = await parser.parseURL(feed.url);
+    } catch (err) {
+      console.error(
+        "Σφάλμα στο feed",
+        feed.url,
+        `(${Date.now() - feedStartedAt}ms)`,
+        err?.message || err
+      );
+      continue;
+    }
+
+    const feedItemLimit = Math.max(1, Number(feed.itemLimit || FEED_ITEM_LIMIT));
+    const items = (rss.items || []).slice(0, feedItemLimit);
+    console.log(`🧾 ${feed.sourceName} [${label}]: ${items.length} items για έλεγχο`);
+    let feedProcessed = 0;
+
+    for (const item of items) {
+      feedProcessed += 1;
+      ingestStats.totalFetched += 1;
+
+      if (feedProcessed % GATEKEEPER_PROGRESS_EVERY === 0 || feedProcessed === items.length) {
+        console.log(
+          `⏱️ ${feed.sourceName} [${label}]: ${feedProcessed}/${items.length} items (accepted συνολικά: ${ingestStats.accepted})`
+        );
+      }
+
+      const title = item.title || "";
+      const link = item.link || "";
+      const descriptionForFilter = stripHtml(
+        item.contentSnippet || item.summary || item.content || item.contentEncoded || ""
+      );
+
+      if (shouldSkipArticle(title, descriptionForFilter)) {
+        ingestStats.skippedByKeyword += 1;
+        continue;
+      }
+
+      const htmlContent =
+        item.contentEncoded ||
+        item.content ||
+        item.summary ||
+        item.contentSnippet ||
+        "";
+
+      const rawText = stripHtml(htmlContent);
+      if (!rawText) {
+        ingestStats.skippedEmptyText += 1;
+        continue;
+      }
+
+      let gate;
+      try {
+        gate = await gatekeepNewsArticle({
+          title,
+          rawText: rawText.slice(0, 4000),
+        });
+      } catch (err) {
+        ingestStats.gatekeeperErrors += 1;
+        console.error(
+          "❌ Gatekeeper error:",
+          title || link || "(χωρίς τίτλο)",
+          err?.message || err
+        );
+        continue;
+      }
+
+      if (!gate?.accepted) {
+        ingestStats.skippedByGatekeeper += 1;
+        continue;
+      }
+
+      const publishedAtDate =
+        (item.isoDate && new Date(item.isoDate)) ||
+        (item.pubDate && new Date(item.pubDate)) ||
+        new Date();
+
+      rawArticles.push({
+        id: makeArticleId(feed.url, item),
+        sourceName: feed.sourceName,
+        sourceUrl: link,
+        title,
+        rawText,
+        htmlContent,
+        imageUrl: extractImageUrl(item, htmlContent) || null,
+        videoUrl: extractVideoUrl(item, htmlContent) || null,
+        publishedAt: publishedAtDate.toISOString(),
+        categoryHints: Array.isArray(feed.categoryHints) ? feed.categoryHints : [],
+      });
+
+      ingestStats.accepted += 1;
+    }
+
+    console.log(
+      `✅ Ολοκληρώθηκε feed ${feed.sourceName} [${label}] σε ${Date.now() - feedStartedAt}ms`
+    );
+  }
+
+  return rawArticles;
+}
+
+function dedupeAllArticlesInPlace(allArticles) {
+  const deduped = dedupeArticlesByUrlOrTitle(allArticles);
+  allArticles.length = 0;
+  allArticles.push(...deduped);
+}
+
 // “φθηνό” guess για να μειώσουμε LLM calls στο backfill
 function guessCategoryFromTopic(topic) {
   const hinted =
@@ -680,8 +682,12 @@ function guessCategoryFromTopic(topic) {
   )
     return "culture";
 
-  // serious
-  if (/(κυβ(έ|ε)ρνηση|βουλ(ή|η)|υπουργ|πολιτικ|οικονομ|πληθωρισμ|επιτ(ό|ο)κ|ευρ(ώ|ω)|φορο|δικασ|ένταση|σύγκρουση|σεισμ|πυρκαγι(ά|α)|κακοκαιρ)/i.test(t))
+  // serious = χρήσιμα νέα της καθημερινότητας
+  if (
+    /(καιρ|κακοκαιρ|δρομολογ|μετρο|λεωφορει|κυκλοφορ|κινηση|μετακινησ|σχολ|πανεπιστη|υγει|νοσοκομ|επιδομ|πληρωμ|συνταξ|εφκα|δυπα|δημοτ|υπηρεσι|πλατφορμ|προθεσμι|λογαριασμ|ενεργει|προγραμμα)/i.test(
+      t
+    )
+  )
     return "serious";
 
   // fun
@@ -755,6 +761,10 @@ async function buildFinalArticleFromTopic(topic, { tag = "" } = {}) {
   const cleanedText = stripSourcesBlock(cleanSimplifiedText(result.simplifiedText || ""));
   const simpleText = cleanedText;
 
+  if (categoryKey === "serious" && !isUsefulSeriousText(result.simplifiedTitle || topic.title, simpleText)) {
+    return null;
+  }
+
   const reason = (result.categoryReason || "").trim();
   const categoryReason = tag ? `${reason}${reason ? " | " : ""}${tag}` : reason;
 
@@ -780,7 +790,12 @@ async function buildFinalArticleFromTopic(topic, { tag = "" } = {}) {
 }
 
 // RSS-only backfill: συμπληρώνουμε κατηγορίες από single-source topics (χωρίς web search)
-async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopicIds) {
+async function backfillMissingCategoriesFromTopics(
+  allArticles,
+  topics,
+  usedTopicIds,
+  { targetCategories = TARGET_CATEGORIES, tag = "rss_backfill" } = {}
+) {
   if (!Array.isArray(topics) || topics.length === 0) {
     console.log("ℹ️ RSS backfill παραλείπεται: δεν υπάρχουν fallback topics.");
     return;
@@ -788,7 +803,7 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
 
   const counts = countByCategory(allArticles);
 
-  for (const category of TARGET_CATEGORIES) {
+  for (const category of targetCategories) {
     const current = counts[category] || 0;
     const minTarget = minTargetForCategory(category);
     const missing = Math.max(0, minTarget - current);
@@ -808,11 +823,7 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
     let added = 0;
     let attempts = 0;
 
-    const candidates = [...topics].sort((a, b) => {
-      const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-      const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-      return db - da;
-    });
+    const candidates = [...topics].sort(compareTopicsByPriority);
 
     const hintCandidates = candidates.filter((t) =>
       (t.categoryHints || []).some((h) => normalizeCategory(h) === category)
@@ -848,7 +859,7 @@ async function backfillMissingCategoriesFromTopics(allArticles, topics, usedTopi
         }
 
         try {
-          const built = await buildFinalArticleFromTopic(topic, { tag: "rss_backfill" });
+          const built = await buildFinalArticleFromTopic(topic, { tag });
           usedTopicIds.add(topic.id);
 
           if (!built) continue;
@@ -987,134 +998,19 @@ function groupArticlesByTopic(rawArticles) {
 
 async function run() {
   const runStartedAt = Date.now();
-  const rawArticles = [];
-  const ingestStats = {
-    totalFetched: 0,
-    skippedByKeyword: 0,
-    skippedByGatekeeper: 0,
-    skippedEmptyText: 0,
-    gatekeeperErrors: 0,
-    accepted: 0,
-  };
+  const ingestStats = createIngestStats();
 
-  // 1️⃣ Fetch RSS items
-  for (const feed of FEEDS) {
-    console.log("Διαβάζω feed:", feed.url);
-    const feedStartedAt = Date.now();
-    let rss;
-    try {
-      rss = await parser.parseURL(feed.url);
-    } catch (err) {
-      console.error(
-        "Σφάλμα στο feed",
-        feed.url,
-        `(${Date.now() - feedStartedAt}ms)`,
-        err?.message || err
-      );
-      continue;
-    }
+  // 1️⃣ Primary Greek pass
+  const primaryRawArticles = await ingestFeeds(PRIMARY_GREEK_FEEDS, ingestStats, "primaryGreek");
 
-    const feedItemLimit = Math.max(1, Number(feed.itemLimit || FEED_ITEM_LIMIT));
-    const items = (rss.items || []).slice(0, feedItemLimit);
-    console.log(`🧾 ${feed.sourceName}: ${items.length} items για έλεγχο`);
-    let feedProcessed = 0;
-
-    for (const item of items) {
-      feedProcessed += 1;
-      ingestStats.totalFetched += 1;
-
-      if (feedProcessed % GATEKEEPER_PROGRESS_EVERY === 0 || feedProcessed === items.length) {
-        console.log(
-          `⏱️ ${feed.sourceName}: ${feedProcessed}/${items.length} items (accepted συνολικά: ${ingestStats.accepted})`
-        );
-      }
-
-      const title = item.title || "";
-      const link = item.link || "";
-      const descriptionForFilter = stripHtml(
-        item.contentSnippet || item.summary || item.content || item.contentEncoded || ""
-      );
-
-      // 2️⃣ Local keyword filter (χωρίς AI cost)
-      if (shouldSkipArticle(title, descriptionForFilter)) {
-        ingestStats.skippedByKeyword += 1;
-        continue;
-      }
-
-      const htmlContent =
-        item.contentEncoded ||
-        item.content ||
-        item.summary ||
-        item.contentSnippet ||
-        "";
-
-      const rawText = stripHtml(htmlContent);
-      if (!rawText) {
-        ingestStats.skippedEmptyText += 1;
-        continue;
-      }
-
-      // 3️⃣ AI gatekeeper filter (context-aware)
-      let gate;
-      try {
-        gate = await gatekeepNewsArticle({
-          title,
-          rawText: rawText.slice(0, 4000),
-        });
-      } catch (err) {
-        ingestStats.gatekeeperErrors += 1;
-        console.error(
-          "❌ Gatekeeper error:",
-          title || link || "(χωρίς τίτλο)",
-          err?.message || err
-        );
-        continue;
-      }
-
-      if (!gate?.accepted) {
-        ingestStats.skippedByGatekeeper += 1;
-        continue;
-      }
-
-      const publishedAtDate =
-        (item.isoDate && new Date(item.isoDate)) ||
-        (item.pubDate && new Date(item.pubDate)) ||
-        new Date();
-
-      const publishedAt = publishedAtDate.toISOString();
-      const imageUrl = extractImageUrl(item, htmlContent);
-      const videoUrl = extractVideoUrl(item, htmlContent);
-      const id = makeArticleId(feed.url, item);
-
-      rawArticles.push({
-        id,
-        sourceName: feed.sourceName,
-        sourceUrl: link,
-        title,
-        rawText,
-        htmlContent,
-        imageUrl: imageUrl || null,
-        videoUrl: videoUrl || null,
-        publishedAt,
-        categoryHints: Array.isArray(feed.categoryHints) ? feed.categoryHints : [],
-      });
-
-      ingestStats.accepted += 1;
-    }
-
-    console.log(
-      `✅ Ολοκληρώθηκε feed ${feed.sourceName} σε ${Date.now() - feedStartedAt}ms`
-    );
+  if (primaryRawArticles.length === 0) {
+    console.warn("Δεν βρέθηκαν raw άρθρα από τα primary Greek feeds.");
   }
 
-  if (rawArticles.length === 0) {
-    console.warn("Δεν βρέθηκαν raw άρθρα από τα feeds.");
-  }
-
-  console.log("📊 Ingest stats:", ingestStats);
+  console.log("📊 Ingest stats μετά το primaryGreek:", ingestStats);
 
   // Μετά τα local + AI filters, ομαδοποιούμε σε "θέματα"
-  const topicGroups = groupArticlesByTopic(rawArticles);
+  const topicGroups = groupArticlesByTopic(primaryRawArticles);
   const importantTopicGroups = topicGroups.filter((g) => g.isImportant);
   const fallbackTopicGroups = topicGroups.filter((g) => !g.isImportant);
 
@@ -1127,11 +1023,7 @@ async function run() {
   const usedTopicIds = new Set();
 
   // 3️⃣ Πρώτα παράγουμε άρθρα από τα “important” topics (πολλαπλές πηγές ή hints)
-  const importantSorted = [...importantTopicGroups].sort((a, b) => {
-    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return db - da;
-  });
+  const importantSorted = [...importantTopicGroups].sort(compareTopicsByPriority);
 
   for (const [idx, topic] of importantSorted.entries()) {
     console.log(
@@ -1164,35 +1056,80 @@ async function run() {
   }
 
   // 4️⃣ Dedupe
-  {
-    const deduped = dedupeArticlesByUrlOrTitle(allArticles);
-    allArticles.length = 0;
-    allArticles.push(...deduped);
-  }
+  dedupeAllArticlesInPlace(allArticles);
 
   // 5️⃣ RSS-only backfill: συμπληρώνουμε κατηγορίες από single-source topics (χωρίς web search)
-  await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+  await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds, {
+    tag: "rss_backfill_primary",
+  });
 
   // 6️⃣ Dedupe ξανά (σε περίπτωση που το backfill έφερε κάτι πολύ κοντινό)
-  {
-    const deduped = dedupeArticlesByUrlOrTitle(allArticles);
-    allArticles.length = 0;
-    allArticles.push(...deduped);
-  }
+  dedupeAllArticlesInPlace(allArticles);
 
   // 7️⃣ Αν μετά το dedupe ξαναλείπει κάτι, κάνε ένα ακόμα πέρασμα backfill (χωρίς να “κάψεις” τα ίδια topics)
   if (fallbackTopicGroups.length > 0 && hasMissingCategoryMinimum(allArticles)) {
-    await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds);
+    await backfillMissingCategoriesFromTopics(allArticles, fallbackTopicGroups, usedTopicIds, {
+      tag: "rss_backfill_primary_second_pass",
+    });
   } else {
     console.log(
       "ℹ️ Παραλείπεται 2ο backfill pass: δεν χρειάζεται ή δεν υπάρχουν διαθέσιμα fallback topics."
     );
   }
 
-  {
-    const deduped = dedupeArticlesByUrlOrTitle(allArticles);
-    allArticles.length = 0;
-    allArticles.push(...deduped);
+  dedupeAllArticlesInPlace(allArticles);
+
+  const countsAfterPrimary = countByCategory(allArticles);
+  console.log("📊 Κατανομή μετά το Greek-first pass:", countsAfterPrimary);
+
+  // 8️⃣ Approved fallback μόνο αν λείπουν lighter κατηγορίες
+  if (hasApprovedFallbackGap(countsAfterPrimary, minTargetForCategory)) {
+    console.log(
+      "🟡 Λείπει υλικό σε happy/screen/culture/fun. Ενεργοποιώ approved fallback feeds."
+    );
+
+    const approvedFallbackRawArticles = await ingestFeeds(
+      APPROVED_FALLBACK_FEEDS,
+      ingestStats,
+      "approvedFallback"
+    );
+
+    console.log("📊 Ingest stats μετά το approvedFallback:", ingestStats);
+
+    const approvedFallbackTopicGroups = groupArticlesByTopic(approvedFallbackRawArticles);
+    if (approvedFallbackTopicGroups.length > 0) {
+      await backfillMissingCategoriesFromTopics(
+        allArticles,
+        approvedFallbackTopicGroups,
+        usedTopicIds,
+        {
+          targetCategories: APPROVED_FALLBACK_CATEGORIES,
+          tag: "approved_fallback",
+        }
+      );
+
+      dedupeAllArticlesInPlace(allArticles);
+
+      const countsAfterFallback = countByCategory(allArticles);
+      if (hasApprovedFallbackGap(countsAfterFallback, minTargetForCategory)) {
+        await backfillMissingCategoriesFromTopics(
+          allArticles,
+          approvedFallbackTopicGroups,
+          usedTopicIds,
+          {
+            targetCategories: APPROVED_FALLBACK_CATEGORIES,
+            tag: "approved_fallback_second_pass",
+          }
+        );
+        dedupeAllArticlesInPlace(allArticles);
+      } else {
+        console.log("ℹ️ Το approved fallback γέμισε τις lighter κατηγορίες όσο χρειαζόταν.");
+      }
+    } else {
+      console.log("ℹ️ Δεν προέκυψαν κατάλληλα approved fallback topics.");
+    }
+  } else {
+    console.log("ℹ️ Δεν χρειάστηκε approved fallback. Το Greek-first pass κάλυψε τις κατηγορίες.");
   }
 
   const finalArticles = [];

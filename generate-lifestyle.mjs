@@ -46,6 +46,8 @@ function stripSourcesAndInlineLinks(text) {
   let body = idx === -1 ? text : text.slice(0, idx);
 
   body = body.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
+  body = body.replace(/^\s*#{1,6}\s+.+?(?:\n+|$)/, "");
+  body = body.replace(/^\s*Τίτλος\s*:\s*.+?(?:\n+|$)/i, "");
 
   return body.trimEnd();
 }
@@ -248,8 +250,15 @@ ${JSON.stringify(payload, null, 2)}
   });
 
   let rawText = extractTextFromResponse(response).trim();
+  if (rawText.toUpperCase() === "SKIP") {
+    return null;
+  }
   rawText = stripSourcesAndInlineLinks(rawText);
   const simpleText = cleanSimplifiedText(rawText);
+
+  if (!simpleText) {
+    return null;
+  }
 
   // Πηγές ΜΟΝΟ από mainItem (RSS)
   const { sources, sourceDomains } = buildSourcesFromMainItem(mainItem, { max: 4 });

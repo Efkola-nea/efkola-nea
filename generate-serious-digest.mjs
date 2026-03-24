@@ -10,6 +10,7 @@ import {
   extractSourceDomains,
   extractHostname,
 } from "./llm/textUtils.js";
+import { editorialPriorityScoreText, isUsefulSeriousText } from "./llm/editorialPolicy.js";
 
 if (process.env.ENABLE_DIGESTS !== "true") {
   console.log(
@@ -20,14 +21,14 @@ if (process.env.ENABLE_DIGESTS !== "true") {
 
 // Paths
 const NEWS_PATH = new URL("./static/news.json", import.meta.url);
-const SERIOUS_DIGEST_PATH = new URL("./serious-digest.json", import.meta.url);
+const SERIOUS_DIGEST_PATH = new URL("./static/serious-digest.json", import.meta.url);
 
 // Θεματικές για τις σοβαρές ειδήσεις
 const SERIOUS_TOPICS = ["politics_economy", "social", "world"];
 const SERIOUS_TOPIC_LABELS = {
-  politics_economy: "πολιτική και οικονομική επικαιρότητα",
-  social: "κοινωνικά θέματα",
-  world: "παγκόσμια επικαιρότητα",
+  politics_economy: "χρήσιμες αλλαγές σε πολιτική και οικονομία",
+  social: "κοινωνία και καθημερινότητα",
+  world: "ήπιες διεθνείς εξελίξεις",
 };
 
 // Πόσα θέματα (max) θα εξετάζουμε ανά θεματική πριν διαλέξουμε το καλύτερο mainArticle
@@ -57,6 +58,8 @@ function stripSourcesAndInlineLinks(text) {
   let body = idx === -1 ? text : text.slice(0, idx);
 
   body = body.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, "$1");
+  body = body.replace(/^\s*#{1,6}\s+.+?(?:\n+|$)/, "");
+  body = body.replace(/^\s*Τίτλος\s*:\s*.+?(?:\n+|$)/i, "");
 
   return body.trimEnd();
 }
@@ -135,13 +138,13 @@ function buildSourcesFromMainArticle(mainArticle, { max = 4 } = {}) {
 function digestTitleForTopic(topic) {
   switch (topic) {
     case "politics_economy":
-      return "Πολιτική και οικονομική επικαιρότητα σε απλά λόγια";
+      return "Χρήσιμες αλλαγές σε πολιτική και οικονομία";
     case "social":
-      return "Ένα σημαντικό κοινωνικό θέμα σε απλά λόγια";
+      return "Κοινωνία και καθημερινότητα σε απλά λόγια";
     case "world":
-      return "Παγκόσμια επικαιρότητα σε απλά λόγια";
+      return "Ήπιες διεθνείς εξελίξεις σε απλά λόγια";
     default:
-      return "Σοβαρή είδηση σε απλά λόγια";
+      return "Χρήσιμη είδηση σε απλά λόγια";
   }
 }
 
@@ -149,7 +152,12 @@ function digestTitleForTopic(topic) {
 function scoreSeriousArticle(article) {
   const sourcesCount = Array.isArray(article.sources) ? article.sources.length : 1;
   const timeMs = article.publishedAt ? new Date(article.publishedAt).getTime() : 0;
-  return sourcesCount * 1_000_000_000_000 + timeMs;
+  const editorialScore = editorialPriorityScoreText(
+    `${article.simpleTitle || article.title || ""}\n${article.simpleText || ""}`,
+    { categoryHints: [article.category].filter(Boolean) }
+  );
+
+  return editorialScore * 1_000_000_000_000_000 + sourcesCount * 1_000_000_000_000 + timeMs;
 }
 
 // Διαβάζει JSON αν υπάρχει (για "κρατάω το προηγούμενο")
@@ -331,8 +339,15 @@ ${JSON.stringify(payload, null, 2)}
   });
 
   let simpleText = extractTextFromResponse(response).trim();
+  if (simpleText.toUpperCase() === "SKIP") {
+    return null;
+  }
   simpleText = stripSourcesAndInlineLinks(simpleText);
   simpleText = cleanSimplifiedText(simpleText);
+
+  if (!simpleText) {
+    return null;
+  }
 
   // Πηγές ΜΟΝΟ από mainArticle (RSS)
   const { sources, sourceDomains } = buildSourcesFromMainArticle(mainArticle, { max: 4 });
@@ -384,7 +399,12 @@ async function main() {
   }
 
   const allArticles = Array.isArray(json.articles) ? json.articles : [];
-  const serious = allArticles.filter((a) => a.category === "serious" && !a.isSensitive);
+  const serious = allArticles.filter(
+    (a) =>
+      a.category === "serious" &&
+      !a.isSensitive &&
+      isUsefulSeriousText(a.simpleTitle || a.title, a.simpleText || "")
+  );
 
   if (!serious.length) {
     console.log("ℹ️ Δεν υπάρχουν σοβαρές ειδήσεις στο news.json (RSS-only).");

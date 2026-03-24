@@ -1,0 +1,102 @@
+{
+  "final_article": "Ο δήμος της Νέας Πόλης ανακοίνωσε νέο πρόγραμμα για την ενέργεια. Το πρόγραμμα ξεκινά τον Ιούνιο του 2026.\n\nΤο σχέδιο αφορά δημοτικά κτίρια και τον δημόσιο φωτισμό.\n\nΟ προϋπολογισμός είναι 5 εκατ. ευρώ. Η διάρκεια είναι 18 μήνες.\n\nΟ στόχος είναι χαμηλότερη κατανάλωση ενέργειας και λιγότερες εκπομπές.",
+  "final_title": "Νέο πρόγραμμα ενέργειας στη Νέα Πόλη",
+  "category": "local",
+  "extractor_json": {
+    "headline_from_source": "Ο δήμος της Νέας Πόλης ανακοίνωσε την Τρίτη νέο πρόγραμμα ενεργειακής αναβάθμισης.",
+    "main_topic": "Δημοτικό πρόγραμμα ενεργειακής αναβάθμισης",
+    "category_candidate": "local",
+    "summary_facts": [
+      "Το πρόγραμμα ξεκινά τον Ιούνιο του 2026.",
+      "Ο προϋπολογισμός του προγράμματος είναι 5 εκατ. ευρώ.",
+      "Η διάρκεια υλοποίησης είναι 18 μήνες."
+    ],
+    "who": "Δήμος Νέας Πόλης",
+    "what": "Πρόγραμμα ενεργειακής αναβάθμισης",
+    "when": "Ιούνιος 2026",
+    "where": "Δημοτικά κτίρια και δημόσιος φωτισμός",
+    "why": "Μείωση κατανάλωσης και εκπομπών",
+    "key_numbers": [
+      {
+        "label": "Προϋπολογισμός",
+        "value": "5",
+        "context": "εκατ. ευρώ"
+      },
+      {
+        "label": "Διάρκεια",
+        "value": "18",
+        "context": "μήνες"
+      }
+    ],
+    "uncertainty_flags": [],
+    "sensitive_or_disturbing_content_flag": false,
+    "difficult_terms": [
+      {
+        "term": "ενεργειακή αναβάθμιση",
+        "simple_explanation": "βελτιώσεις για να καταναλώνεται λιγότερη ενέργεια"
+      }
+    ],
+    "source_confidence_notes": "Η ανακοίνωση δίνει σαφές χρονοδιάγραμμα και ποσά.",
+    "should_publish_candidate": true,
+    "publish_reasoning_short": "Το θέμα έχει σαφή στοιχεία και πρακτικό ενδιαφέρον."
+  },
+  "validator_json": {
+    "pass": true,
+    "scores": {
+      "fidelity": 5,
+      "simplicity": 4,
+      "readability": 4,
+      "naturalness": 4,
+      "policy_fit": 5
+    },
+    "violations": [],
+    "human_readable_feedback": [
+      "Το κείμενο είναι σαφές και συνεπές με την εξαγωγή."
+    ],
+    "repair_instructions": [
+      "Δεν απαιτείται επιδιόρθωση."
+    ],
+    "must_retry_writer": false
+  },
+  "pipeline_metadata": {
+    "started_at": "2026-03-24T10:00:00.000Z",
+    "completed_at": "2026-03-24T10:00:02.100Z",
+    "duration_ms": 2100,
+    "models": {
+      "extractor": "gpt-5.4-mini",
+      "writer": "gpt-5.4",
+      "validator": "gpt-5.4-mini"
+    },
+    "stage_timings_ms": {
+      "clean_source": 5,
+      "extract_facts": 640,
+      "topic_gate": 35,
+      "write_article": 920,
+      "validate_article": 500
+    },
+    "stage_usage": {
+      "extract_facts": {
+        "input_tokens": 830,
+        "output_tokens": 260,
+        "total_tokens": 1090
+      },
+      "write_article": {
+        "input_tokens": 760,
+        "output_tokens": 240,
+        "total_tokens": 1000
+      },
+      "validate_article": {
+        "input_tokens": 620,
+        "output_tokens": 180,
+        "total_tokens": 800
+      }
+    },
+    "feature_flags": {
+      "enable_validator": true,
+      "enable_repair": true,
+      "enable_topic_gate_model_fallback": true
+    }
+  },
+  "retry_count": 0,
+  "publishability_flag": true
+}
