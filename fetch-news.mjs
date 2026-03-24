@@ -1156,23 +1156,24 @@ async function run() {
   };
 
   if (finalArticles.length === 0) {
+    let existingCount = 0;
+
     try {
       const existingRaw = await fs.readFile(NEWS_JSON_PATH, "utf8");
       const existingPayload = JSON.parse(existingRaw);
-      const existingCount = Array.isArray(existingPayload?.articles)
+      existingCount = Array.isArray(existingPayload?.articles)
         ? existingPayload.articles.length
         : 0;
-
-      if (existingCount > 0) {
-        console.warn(
-          `⚠️ Δεν παρήχθησαν άρθρα σε αυτό το run. Κρατάω το υπάρχον news.json (${existingCount} άρθρα).`
-        );
-        console.log(`🏁 Συνολικός χρόνος run: ${Date.now() - runStartedAt}ms`);
-        return;
-      }
     } catch {
-      // Αν δεν υπάρχει παλιό αρχείο/parseable JSON, συνεχίζουμε και γράφουμε κανονικά.
+      // Αν δεν υπάρχει παλιό αρχείο/parseable JSON, αποτυγχάνουμε ούτως ή άλλως παρακάτω.
     }
+
+    const existingMessage =
+      existingCount > 0
+        ? ` Το υπάρχον news.json έχει ${existingCount} άρθρα, αλλά το run αποτυγχάνει ώστε να μη σερβίρεται σιωπηλά παλιό περιεχόμενο.`
+        : "";
+
+    throw new Error(`Δεν παρήχθησαν άρθρα σε αυτό το run.${existingMessage}`);
   }
 
   await fs.writeFile(NEWS_JSON_PATH, JSON.stringify(payload, null, 2), "utf8");
