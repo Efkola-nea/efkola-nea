@@ -1173,7 +1173,13 @@ async function run() {
         ? ` Το υπάρχον news.json έχει ${existingCount} άρθρα, αλλά το run αποτυγχάνει ώστε να μη σερβίρεται σιωπηλά παλιό περιεχόμενο.`
         : "";
 
-    throw new Error(`Δεν παρήχθησαν άρθρα σε αυτό το run.${existingMessage}`);
+    const message = `Δεν παρήχθησαν άρθρα σε αυτό το run.${existingMessage}`;
+    if (process.env.GITHUB_ACTIONS === "true") {
+      console.error(`::error::${message}`);
+    } else {
+      console.error(message);
+    }
+    throw new Error(message);
   }
 
   await fs.writeFile(NEWS_JSON_PATH, JSON.stringify(payload, null, 2), "utf8");
